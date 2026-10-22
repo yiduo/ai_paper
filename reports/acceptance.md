@@ -15,6 +15,6 @@
 | 有效线索 | 按证据 | 5 | `reports/metrics.json` | 仅限卡片限定的外部检验结论，无工程收益保证 |
 | 真实跨供应商复核 | 关键映射 | 0 | `configs/research.json` | 用户已延后追加 |
 | 试点 | 真人闸门 | 0 | `data/graph/nodes.jsonl` | A 级与真人审批均缺失 |
-| 公开发布 | M5 | 未验证发布 | `state/publication.json` | 本地准备；以远程实际核验为准 |
+| 公开发布 | M5 | 已公开（研究未完成） | `state/publication.json` | 已核验公开仓库与提交；详见state/publication.json；M5其余质量要求仍分别验收 |
 
 运行 `PYTHONPATH=src python3 -m ai_value.cli report` 刷新。完整阶段覆盖率为 0，不能用登记率 100% 替代。

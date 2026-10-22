@@ -29,6 +29,8 @@ Open `reports/graph/index.html` locally to browse the graph. Download the reposi
 
 The optional finite-bosonic experiment uses the separately documented, pinned Python/NumPy runtime. Do not run `experiment all` expecting a standard-library-only environment. See [runtime and scope](docs/bosonic-regression.md).
 
+The Linux workflow covers 13 archived replays. EXP076 matched complete raw and summary payloads on its original macOS/Python 3.14.7 runtime, but failed raw equality on the first Linux run while its summary matched. It is not claimed portable. The original comparator and archive remain unchanged; [both outcomes and CI scope](docs/publication.md#actual-first-ci-and-platform-limit) are retained.
+
 ## Read the evidence
 
 | Resource | Purpose |

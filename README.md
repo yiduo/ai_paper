@@ -86,7 +86,7 @@ PYTHONPATH=src python3 -m ai_value.cli report
 
 本项目代码、原创文档与原创派生记录采用 Apache-2.0，见 `LICENSE` 和 `NOTICE`。上游仍保留自身许可；外部论文仅保存书目信息、必要转述和定位，不能推定其全文采用同一许可。`math/` 排除于本项目历史，按 commit 和清单引用。
 
-用户已授权将本项目开源发布到 GitHub；准备、远程提交及核验状态见 [发布记录](state/publication.json) 与 [发布范围](docs/publication.md)。OpenAI 官方 `math/` 目录不上传、不复制或重新部署，仅引用其链接、固定版本和来源散列。`0.1.0` 不是已发布的正式版本声明。
+本项目已公开发布至 [GitHub](https://github.com/yiduo/ai_paper)；远程提交及匿名核验记录见 [发布记录](state/publication.json) 与 [发布范围](docs/publication.md)。OpenAI 官方 `math/` 目录不上传、不复制或重新部署，仅引用其链接、固定版本和来源散列。`0.1.0` 不是已发布的正式版本声明。
 
 ## English overview
 
@@ -137,3 +137,5 @@ PYTHONDONTWRITEBYTECODE=1 python3 scripts/replay_run.py experiments/runs/EXP-332
 EXP332按原始源码快照重放全部科学输入／输出／风险与结论，仅排除规格事先声明的测时／RSS字段；其他旧归档默认完整JSON严格比较。实际验证Python3.14.7标准库；使用记录的运行环境复现，不因当前源码指纹变化重新生成run替代原证据。
 
 [F332完整族验收审计](reports/F332-family-acceptance-audit.md)：实际补读MN有限扩张证明，记录原书仅两页预览、Ball正文获取上限及全域桥接缺口；完整族与历史仍0。下一研究包转低覆盖F153。
+
+首次Linux CI的68核心及11归档重放通过，F076原始数据逐值比较失败但汇总一致；原macOS/Python3.14.7严格重放两者均一致，原数据／比较器未改。Linux CI明确覆盖其他13归档，不宣称F076跨平台可重现；失败证据与范围见[发布核验](docs/publication.md)。公开交付触发[全局复盘031](reports/retrospectives/031-publication-and-platform-scope.md)，后续恢复F153研究。

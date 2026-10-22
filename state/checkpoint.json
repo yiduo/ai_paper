@@ -1,8 +1,8 @@
 {
-  "saved_at": "2026-10-22T02:28:47.187032+00:00",
+  "saved_at": "2026-10-22T02:38:45.789860+00:00",
   "overall_status": "active_incomplete",
   "goal_source": "prompts/continuous-research-goal.md",
-  "latest_retrospective": "reports/retrospectives/030-denoising-risk-and-old-baselines.md",
+  "latest_retrospective": "reports/retrospectives/031-publication-and-platform-scope.md",
   "completed_work_packages": [
     "WP-001",
     "WP-002",
@@ -92,8 +92,8 @@
     "WP-085",
     "WP-086"
   ],
-  "work_packages_since_last_retrospective": 1,
-  "retrospective_due_after": "Mandatory retro031 after WP088,third substantivepackage after retro030,or earliermajor evidence/two low-informationpackages",
+  "work_packages_since_last_retrospective": 0,
+  "retrospective_due_after": "Mandatory retro032 after WP089,third substantive research package after publication milestone retro031,or earlier major evidence",
   "metrics": "reports/metrics.json",
   "running_research_experiments": [],
   "running_preview": {
@@ -491,7 +491,7 @@
     ],
     "resource_limit": "Existing tools;no upstreamcopy or Lean/cache/dependency install. Inventory says5TeX2579+252Bib+487verifier;verify actual paths/counts before reading. Reading verifier isnot execution/applicationcheck. Numerical outputs require registered specification;compress and verify all own data.",
     "acceptance": "Actual full source and verifier-body reading,allmanuscripts/version mapping,natural/formal and quantifiers/constants/oldbaseline scopes,typed graph with immutable evidence and honestunknowns;completefamilycount only originalcriteria. No forced candidate or invented consumer.",
-    "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes2 afterWP087;retro031 mandatoryafterWP088 or majorissue.",
+    "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes1 afterWP087;retro032 mandatoryafterWP089 or majorissue.",
     "created_at": "2026-10-22T02:25:18.973556+00:00"
   },
   "release_state": "Local development repository only; no remote, push, public repository or version release. Check git status/log for local commit state.",
@@ -530,7 +530,7 @@
   },
   "previous_goal_turn_classification": {
     "status": "productive_progress",
-    "evidence": "ActualMNproofinterfaces/5pixels/unchangedfull-family audit preserved with explicitmissing originals;English full charter and owner-authorized GitHub preparation. Goal incomplete."
+    "evidence": "WP086actualproofaudit with explicitunknowns;fullEnglishcharter/Englishprogress saved and publicGitHubsnapshot anonymouslyverified withoutmath. FirstLinuxF076strictfailure preserved;freshoriginalmacOSstrictreplaypassed. Milestoneretro031done;goal remainsincomplete."
   },
   "active_work_package": {
     "id": "WP-087",
@@ -545,18 +545,22 @@
     ],
     "resource_limit": "Existing tools;no upstreamcopy or Lean/cache/dependency install. Inventory says5TeX2579+252Bib+487verifier;verify actual paths/counts before reading. Reading verifier isnot execution/applicationcheck. Numerical outputs require registered specification;compress and verify all own data.",
     "acceptance": "Actual full source and verifier-body reading,allmanuscripts/version mapping,natural/formal and quantifiers/constants/oldbaseline scopes,typed graph with immutable evidence and honestunknowns;completefamilycount only originalcriteria. No forced candidate or invented consumer.",
-    "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes2 afterWP087;retro031 mandatoryafterWP088 or majorissue.",
+    "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes1 afterWP087;retro032 mandatoryafterWP089 or majorissue.",
     "created_at": "2026-10-22T02:25:18.973556+00:00"
   },
   "publication_work": {
-    "status": "repository_created_snapshot_audit_pending",
+    "status": "published_verified_followup_ci_in_progress_after_next_push",
     "requested_at": "2026-10-22",
     "repository": "https://github.com/yiduo/ai_paper",
     "official_math_excluded": true,
     "english_charter": "CHARTER.en.md",
     "scope": "docs/publication.md",
     "remote_state": "state/publication.json",
-    "repository_created_public": true
+    "repository_created_public": true,
+    "initial_public_commit": "8d5b7fd21ca9ae14d5254e03385832bd038caa7c",
+    "initial_remote_ci_failure_preserved": true,
+    "macos_strict_replay_passed": true,
+    "live_ci_url": "https://github.com/yiduo/ai_paper/actions"
   },
   "recovery_commands": [
     "python3 scripts/check.py",

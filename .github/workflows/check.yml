@@ -3,7 +3,7 @@ on: [push, pull_request]
 permissions:
   contents: read
 jobs:
-  core:
+  portable-core:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -22,12 +22,15 @@ jobs:
       - run: python scripts/replay_run.py experiments/runs/EXP-221-001-be34f84b97b2e9a9
       - run: python scripts/replay_run.py experiments/runs/EXP-314-001-ce8cf18c32275b81
       - run: python scripts/replay_run.py experiments/runs/EXP-325-001-9bedfaa5ac3a53d0
-      - run: python scripts/replay_run.py experiments/runs/EXP-076-002-1f8537b7fd40d564
       - run: python scripts/replay_run.py experiments/runs/EXP-119-001-e9d098be0b1dda8f
       - run: python scripts/replay_run.py experiments/runs/EXP-332-001-b2607a9926c44586
       - run: PYTHONPATH=src python -m ai_value.cli export-graph
       - run: python scripts/audit_publication.py
-# Includes all standard-library archived checks. The optional NumPy bosonic
-# experiment has a separate pinned runtime and is not run by this job.
+# Replays 13 archives in this Linux job. EXP076's strict raw comparison failed
+# on Linux while its summary matched; its registered scope freezes macOS.
+# The unchanged strict replay passed on the original macOS/Python3.14.7 runtime.
+# Both receipts remain in reports/reproducibility/20261022-publication/.
+# EXP076 is not claimed portable. The optional NumPy bosonic experiment also
+# has a separate pinned runtime and is not run by this job.
 # Actual remote outcomes are recorded only after runs; software CI does not
 # build Lean, call external models, or certify mathematics/application value.

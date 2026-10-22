@@ -27,3 +27,9 @@ Project code, original documentation, and original derived records use Apache-2.
 Before pushing: complete the core checks, graph/source/foreign-key checks, dependency-impact checks, compressed archive checks, and a clean-directory run without `math/`. Audit the exact publication tree for excluded paths, credentials, controlled material, and oversized files. Record the tree and commit identifiers.
 
 After pushing: verify the repository's public visibility and remote branch commit. Save the observed URL, commit, and verification time in `state/publication.json`. A prepared tree is not a successful push; a push is not a successful CI run. Remote CI status is reported only after an actual run. Research completion and review counts remain independent of publication.
+
+## Actual first CI and platform limit
+
+The first Ubuntu 24.04 / Python 3.14.8 run passed all 68 core tests and the first 11 archived replays, then failed EXP-076-002's strict raw-data comparison; its summary matched. The preregistered experiment explicitly freezes its environment because floating-point trigonometric optimization may drift across platforms. A new strict replay on the original macOS / Python 3.14.7 environment matched both complete raw and summary payloads. The Linux difference has not been localized to every field, so no assertion is made that all chosen outputs or certificates are identical there.
+
+The Linux `portable-core` job now explicitly covers 13 other archived checks. EXP076 is excluded from that portability claim; its original data and strict comparator are unchanged. The optional NumPy bosonic archive also has a separately pinned runtime. Failed remote logs and the successful macOS receipt are retained, compressed, under `reports/reproducibility/20261022-publication/`. See [retrospective 031](../reports/retrospectives/031-publication-and-platform-scope.md). A green scoped workflow does not mean every archive is portable or mathematically reviewed.

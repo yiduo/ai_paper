@@ -1,12 +1,32 @@
 {
   "schema_version": "1.0",
-  "state": "prepared",
+  "state": "published",
   "repository_url": "https://github.com/yiduo/ai_paper",
-  "public": false,
-  "remote_verified": false,
-  "verified_at": null,
-  "verified_commit": null,
+  "public": true,
+  "remote_verified": true,
+  "verified_at": "2026-10-22T02:33:01.917778+00:00",
+  "verified_commit": "8d5b7fd21ca9ae14d5254e03385832bd038caa7c",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
-  "research_phase_one_complete": false
+  "research_phase_one_complete": false,
+  "verified_tree": "b5072cf49582671d90e84101945ebba09141969b",
+  "anonymous_api_verification": true,
+  "upstream_math_paths": 0,
+  "initial_snapshot_files": 1468,
+  "initial_snapshot_bytes": 53092333,
+  "verification_receipt": "reports/reproducibility/20261022-publication/initial-verification-and-replay.json.gz",
+  "initial_ci_attempt": {
+    "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
+    "conclusion": "failure",
+    "scope": "68core+11archivedreplays passed;EXP076raw unequal onLinux,summarysame"
+  },
+  "macos_EXP076_strict_replay": {
+    "raw_equal": true,
+    "summary_equal": true,
+    "runtime": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "comparison_unchanged": true
+  },
+  "linux_ci_scope": "68core checks,13otherarchived replays,exports and publication scan;EXP076andoptionalNumPyarchiveexcluded,not claimedportable",
+  "live_ci_url": "https://github.com/yiduo/ai_paper/actions",
+  "verification_scope": "Initial public commit;later updates remain separately inspectable in GitHub history. This receipt does not claim latest CI success."
 }

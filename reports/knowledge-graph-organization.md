@@ -1,6 +1,6 @@
 # 知识图谱整理：路径、条件和待补证据
 
-本页保留WP059的整理快照及当时统计。持续更新的规模、候选、证据与待补条件见[规范图谱导航](graph/navigation.md)和[当前指标](metrics.json)；最新路线判断见[复盘030](retrospectives/030-denoising-risk-and-old-baselines.md)。
+本页保留WP059的整理快照及当时统计。持续更新的规模、候选、证据与待补条件见[规范图谱导航](graph/navigation.md)和[当前指标](metrics.json)；最新路线判断见[复盘031](retrospectives/031-publication-and-platform-scope.md)。
 
 WP059依用户重点完成一次全局结构整理。没有新增数学主张或应用效果；规范节点与关系保持4554／11182、4006来源，32候选／11初检／11假设／五限定支持／六不利观察不变。
 
