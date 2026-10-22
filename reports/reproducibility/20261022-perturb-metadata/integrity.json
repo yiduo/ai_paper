@@ -1,0 +1,146 @@
+{
+  "recorded_at": "2026-10-22T03:38:36.379462+00:00",
+  "old_unchanged": 3527,
+  "exact_prior_versions": 3,
+  "new_canonical": 8,
+  "new_explicit_edges": 17,
+  "all_old_edges_exact": true,
+  "unchanged_source_and_plan_paths": [
+    "experiments/plans/APP-094-02-conditional.json",
+    "data/graph/reading_coverage.json",
+    "data/provenance/demand/PapalexiSatija2021-protein-admission-profile.json",
+    "data/provenance/demand/F-094-bold-readiness.json",
+    "data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz"
+  ],
+  "prediction_and_application_status_unchanged": true,
+  "local_source_hashes_verified": 5421,
+  "external_annotations": 394,
+  "canonical_citations": 5815,
+  "impact_cases": [
+    {
+      "seed": "PART-094-ZERO-DISTANCE-BIO-GATE",
+      "required": [
+        "PART-094-PERTURB-SEMANTICS-GATE",
+        "APP-094-02"
+      ],
+      "excluded": [
+        "CLM-094-THM-MAIN",
+        "APP-094-01",
+        "APP-332-01"
+      ],
+      "affected": [
+        "APP-094-02",
+        "PART-094-PERTURB-SEMANTICS-GATE",
+        "PART-094-ZERO-DISTANCE-BIO-GATE",
+        "PROB-094-02"
+      ]
+    },
+    {
+      "seed": "PART-094-ANNOTATION-JUDGE-GATE",
+      "required": [
+        "APP-094-02"
+      ],
+      "excluded": [
+        "CLM-094-THM-MAIN",
+        "CLM-153-CLS-CLASSIFICATION"
+      ],
+      "affected": [
+        "APP-094-02",
+        "PART-094-ANNOTATION-JUDGE-GATE",
+        "PART-094-PERTURB-SEMANTICS-GATE",
+        "PROB-094-02"
+      ]
+    },
+    {
+      "seed": "OBS-094-READOUT-COLLISIONS",
+      "required": [
+        "PART-094-ZERO-DISTANCE-BIO-GATE",
+        "APP-094-02"
+      ],
+      "excluded": [
+        "CLM-094-THM-MAIN",
+        "APP-094-01"
+      ],
+      "affected": [
+        "APP-094-02",
+        "OBS-094-READOUT-COLLISIONS",
+        "PART-094-PERTURB-SEMANTICS-GATE",
+        "PART-094-ZERO-DISTANCE-BIO-GATE",
+        "PROB-094-02"
+      ]
+    },
+    {
+      "seed": "OBS-094-ANNOTATION-GRAIN",
+      "required": [
+        "PART-094-ANNOTATION-JUDGE-GATE",
+        "APP-094-02"
+      ],
+      "excluded": [
+        "CLM-094-THM-MAIN",
+        "APP-094-01"
+      ],
+      "affected": [
+        "APP-094-02",
+        "OBS-094-ANNOTATION-GRAIN",
+        "PART-094-ANNOTATION-JUDGE-GATE",
+        "PART-094-PERTURB-SEMANTICS-GATE",
+        "PROB-094-02"
+      ]
+    },
+    {
+      "seed": "PART-094-NATIVE-STRING-READER",
+      "required": [
+        "CHECK-094-STRING-METADATA",
+        "ASSET-094-PAPALEXI-PROTEIN",
+        "APP-094-02"
+      ],
+      "excluded": [
+        "CLM-094-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "APP-094-02",
+        "ASSET-094-PAPALEXI-PROTEIN",
+        "CHECK-094-STRING-METADATA",
+        "OBS-094-ANNOTATION-GRAIN",
+        "OBS-094-READOUT-COLLISIONS",
+        "PART-094-ANNOTATION-JUDGE-GATE",
+        "PART-094-NATIVE-STRING-READER",
+        "PART-094-PERTURB-SEMANTICS-GATE",
+        "PART-094-ZERO-DISTANCE-BIO-GATE",
+        "PROB-094-02"
+      ]
+    },
+    {
+      "seed": "CHECK-094-METADATA-RECONCILE",
+      "required": [],
+      "excluded": [
+        "APP-094-02",
+        "CLM-094-THM-MAIN"
+      ],
+      "affected": [
+        "CHECK-094-METADATA-RECONCILE"
+      ]
+    },
+    {
+      "seed": "PART-094-FINITE-COMMON-LAW-GATE",
+      "required": [
+        "APP-094-02"
+      ],
+      "excluded": [
+        "CLM-094-THM-MAIN",
+        "CHECK-094-STRING-METADATA"
+      ],
+      "affected": [
+        "APP-094-02",
+        "PART-094-FINITE-COMMON-LAW-GATE",
+        "PROB-094-02"
+      ]
+    }
+  ],
+  "candidates": 40,
+  "application_initials": 13,
+  "effective_leads": 5,
+  "new_application_run": false,
+  "full_family_or_history_promoted": false
+}

@@ -1,0 +1,11 @@
+{
+  "recorded_at": "2026-10-22T03:43:17.310807+00:00",
+  "removed_bytes": 13150560,
+  "wheel_sha256": "6da62509b7e1d71a7d110478aa25d245dd32c8d9a1daee9d2a42dba8717b047a",
+  "wheel_unpacked_members_checked": 101,
+  "source_sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4",
+  "source_original_bytes": 550922,
+  "installed_into_existing_environment": false,
+  "all_unpacked_members_match_wheel": true,
+  "source_original_kept_only_as_existing_project_gzip": true
+}

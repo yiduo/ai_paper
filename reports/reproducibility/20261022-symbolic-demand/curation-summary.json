@@ -1,0 +1,25 @@
+{
+  "generation_id": "GEN-20261022-085",
+  "canonical_before": 3538,
+  "canonical_after": 3546,
+  "new_records": 8,
+  "changed_old_ids": [
+    "APP-025-01",
+    "PART-025-CONSUMER-GATE",
+    "PART-025-SYMPY-RUNTIME-GATE"
+  ],
+  "exact_old_versions": 3,
+  "old_unchanged": 3535,
+  "new_explicit_edges": 17,
+  "primary_source_projects": 3,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "new_application_run": false,
+  "related_constrained_caller_observed": true,
+  "exact_APP_caller_established": false,
+  "original_prediction_and_plan_unchanged": true,
+  "source_coverage_unchanged": true,
+  "dependencies_installed": false,
+  "original_formula_pages_pixels": 2,
+  "source_snapshot_gzip_bytes": 15041
+}

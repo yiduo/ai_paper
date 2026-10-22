@@ -514,9 +514,16 @@
     {
       "id": "RELEASE-001",
       "priority": 3,
-      "status": "ready_after_local_quality",
+      "status": "complete",
       "objective": "Prepare public repository and reproducible release artifacts",
-      "acceptance": "Local checks and licensing complete; distinguish local commit, remote push and actual publication; no remote configured"
+      "acceptance": "Reviewed current snapshot actually public onGitHub with English/originalcharters and progress;officialmath excluded. This is publication ofresearch-in-progress,not scientificphase-one acceptance or perpetual synchronization.",
+      "completed_at": "2026-10-22T03:50:06.191556+00:00",
+      "evidence": [
+        "docs/publication.md",
+        "state/publication.json",
+        "reports/reproducibility/20261022-publication"
+      ],
+      "result": "Publication verified in prior milestone,latestverifiedpubliccommit bab94cf,scopedCI39712653910 success;WP087/WP088 remainlocalonly. Corrected stale backlog ready/no-remote wording without changing publication receipt."
     },
     {
       "id": "WP-026",
@@ -2238,7 +2245,7 @@
     {
       "id": "WP-087",
       "priority": 1,
-      "status": "pending",
+      "status": "complete",
       "parent_task": "WP-006",
       "objective": "Actually read low-coverage F153 current source bodies and included verifier;bind all source results,methodcontracts,versions/formal scope and necessary original historical interfaces",
       "selection_reason": "Honor retro030 and bounded WP086 stop:keep global coverage parallel to deep historical checks,not indefinite bibliography recursion or failure-grid tuning.",
@@ -2249,7 +2256,96 @@
       "resource_limit": "Existing tools;no upstreamcopy or Lean/cache/dependency install. Inventory says5TeX2579+252Bib+487verifier;verify actual paths/counts before reading. Reading verifier isnot execution/applicationcheck. Numerical outputs require registered specification;compress and verify all own data.",
       "acceptance": "Actual full source and verifier-body reading,allmanuscripts/version mapping,natural/formal and quantifiers/constants/oldbaseline scopes,typed graph with immutable evidence and honestunknowns;completefamilycount only originalcriteria. No forced candidate or invented consumer.",
       "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes1 afterWP087;retro032 mandatoryafterWP089 or majorissue.",
-      "created_at": "2026-10-22T02:25:18.973556+00:00"
+      "created_at": "2026-10-22T02:25:18.973556+00:00",
+      "started_at": "2026-10-22T02:45:43.862434+00:00",
+      "research_completed_at": "2026-10-22T03:13:04.890691+00:00",
+      "evidence": [
+        "GEN-20261022-083",
+        "data/provenance/readings/F-153.json",
+        "reports/bernoulli-F153-reading.md",
+        "reports/reproducibility/20261022-bernoulli"
+      ],
+      "result": "Actuallyread5TeX2579+252Bib+487verifier;24Cclaims/twoaliases,19contracts/3gates,3originalworks5selectedscopes/6pixels.78newcanonical229edges;all3452oldnodesandoldedgesexact;11impactcases.48read42drafts/1061labels+2unlabelled;40candidates13checksunchanged. Verifiernotexecuted,noapplicationgainorforcedcandidate. 68core/fullreport/hash/export/11impact/15archive/cleanchecks passed withpinned3.12.14;incompatibledefault3.9failurepreserved. No experimentalcodechanged/replayclaimed. Helper/rawlogs tar+gzip memberbytes verified;2864831Btemporarytexts/rendersremoved;mathuntouched.",
+      "completed_at": "2026-10-22T03:16:29.081074+00:00"
+    },
+    {
+      "id": "WP-088",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Resolve14unread string-metadata fields ofactualsmall APP09402 perturbationdataset withaboundedcompatibleexistingreader;qualify biologicalunit/labels andold4coordinatebaseline beforeanycompressionexperiment",
+      "selection_reason": "Retro031 reservedactualbold/reverse-demand slot afterlowcoverageF153;metadata is aconcrete blocker ofone reallicensed dataset,unlike more cataloguecounts. Twooldpyfivepaths alreadyfailed;do not repeat unchangedfailed readers. Finitecommonlawconstructor remains an independentgate.",
+      "inputs": [
+        "APP-094-02",
+        "reports/F094-bold-readiness-audit.md",
+        "data/provenance/demand/F-094-bold-readiness.json",
+        "data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz",
+        "reports/retrospectives/031-publication-and-platform-scope.md"
+      ],
+      "resource_limit": "First inventoryavailableHDF5readers/CLI andexistingbundledPython3.12/NumPy;pinexactruntimeinstead ofXcode3.9default. No biologicalstack/largedependencies/upstreamcopy. Ifasmallcompatible readerisnecessary,capnewdownload10MiB andrecordsource/license/version;readsourcecontract beforeuse. Temporarilyunpackonlythis550922Bsource,verifySHA,compressownprofiles/logs andclean. No numericalapplicationrun beforeadmittedspec.",
+      "acceptance": "Actuallydecode all14stringfieldsor retainfield-specificfailureevidence and boundedreason;IDuniqueness/missingness/categories/proteinnames/perturbationlabels andcell-versusprofilegrain areobserved,notguessed. Ifdecoded,compareactualduplicatefeaturegroups withlabelswithoutdeletinglegitimatecellsorclaimingcausality;joinnumericmetadataunderexplicitgrain. Keepfrozen10%prediction/strong4-coordinatecostandcommonlawconstructiongap. Typedgraphandexactversions/hash/impact/export/core/cleanrequired. No artificialinitial/cardcredit.",
+      "stop_or_redirect": "Do notretryunchangedpyfive0.4/1.0paths,bypassmetadata withfake labels,replaceconstructor byPCA/JLp2,orcountcontainercompression asgeometricgain. Ifreaderremainsblockedafterboundedactualattempt,move toconstructiveoldmethodqualification orotherrealreverse-demand,evidence first,not endlessbinaryparserwork. Human/secondproviderdeferred. Counter2afterWP088,mandatoryretro032afterWP089or earliermajorissue.",
+      "created_at": "2026-10-22T03:13:04.890691+00:00",
+      "started_at": "2026-10-22T03:17:33.442412+00:00",
+      "completed_at": "2026-10-22T03:50:06.191556+00:00",
+      "research_completed_at": "2026-10-22T03:43:17.310807+00:00",
+      "evidence": [
+        "GEN-20261022-084",
+        "configs/data-admission/APP09402-metadata-v1.json",
+        "data/provenance/demand/F-094-metadata-20261022.json",
+        "reports/F094-metadata-readiness.md",
+        "reports/reproducibility/20261022-perturb-metadata"
+      ],
+      "result": "All14stringfields actually decoded;8984uniqueIDs/14guides/11perturbations/4protein coordinates and row-column summaries reconcile.48duplicatepairs include40differentperturbation/41differentguidegroups;not automaticallybadrows or biologicaltruth. Independenttuple/dict and14columnSHAchecks agree using sameHDF5decoder.8newcanonical17edges;3exactpriors/3527oldunchanged/alloldedgesexact;7impactcases,68core/fullhash/export/clean/15archives passed. Originalprediction/conditionalplan/runIDs/sourcegzip/oldfailureprofiles unchanged,no newcandidate/initial/applicationrun. Pinned2.83MBtemporaryh5py wheel,101unpackedmembers verified,13.15MBtemporarythirdparty/sourceplaintext removed;37312Bgzip rawbyte helpers/code snapshot and allmemberSHAs verified,94717Bownplaintext cleaned. mathuntouched;currentpackage localonly."
+    },
+    {
+      "id": "WP-089",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Qualify an actual exact-marker symbolic consumer for APP02501 and the strongest existing symbolic baseline before any numerical application run",
+      "selection_reason": "After lowcoverage F153 and actualbold datareadability work, test a concrete reverse-demand route instead of adding unevaluated cards. Initial-check gap remains large; source-only illustrations do not establish consumers.",
+      "inputs": [
+        "APP-025-01",
+        "reports/F025-symbolic-consumer-audit.md",
+        "data/provenance/demand/F-025-symbolic-consumer.json",
+        "experiments/plans/APP-025-01-conditional-v2.json",
+        "reports/retrospectives/031-publication-and-platform-scope.md"
+      ],
+      "resource_limit": "Inventory existing symbolic runtimes first. Bounded search of at most3 distinct public original consumer/software/issue sources;retain exact scope/version/source receipts. No outreach or external issue messages. No dependency installation merely to manufacture a result;max10MiB new download only if an eligible actual consumer justifies it. No mathcopy. Compress outputs and code snapshots with byte-SHA roundtrip.",
+      "acceptance": "Establish or explicitly fail a real caller exact-marker need, independent answer oracle and suitable strongest old baseline. Keep existing prediction/plan and unknowns unchanged unless a separately versioned preregistered specification is warranted before numerical outputs. Bounded absence is not global absence; no new initial-check credit from inventory or hand-selected function-only examples. Canon/history/sourcehash/FK/impact/export/core and scoped clean checks for any graph change.",
+      "stop_or_redirect": "Stop after bounded original-source qualification;do not invent a caller or tune a failure into a benefit. Immediately perform mandatory global retro032 after WP089 as third substantive package after retro031;compare materially different routes and oldmethods sufficient null. Human/secondprovider remain deferred.",
+      "created_at": "2026-10-22T03:50:06.191556+00:00",
+      "started_at": "2026-10-22T03:52:54.615332+00:00",
+      "completed_at": "2026-10-22T04:09:41.052704+00:00",
+      "evidence": [
+        "GEN-20261022-085",
+        "data/provenance/demand/F-025-demand-followup-20261022.json",
+        "reports/F025-demand-followup.md",
+        "reports/reproducibility/20261022-symbolic-demand",
+        "reports/retrospectives/032-demand-constraints-and-next-counting-route.md"
+      ],
+      "result": "Actually inspected3original source projects:SymPy issuebody+20returnedcomments;selected Eppstein constraints/search/interface;Martin-Shi2025 selected finite-set algorithm and actual second-largest caller plus5fullpinnedMIT files. Relatedrealcomputationaldemand requires2markers/rank/finite set,not eligible forcurrent1markerwrapper.8newcanonical17edges,3exactpriors/3535oldunchanged/alloldedgesexact;originalprediction/plan/runIDs/coverage unchanged,no candidate/initial/run.68core/8impact/fullhash/export/no-mathclean/15archives passed;actualEXP200and332source replays passed atoriginal scientific scopes.5source snapshot gzip15041B;helper tar+gzip17425B rawmembersverified;1308630Bthirdparty/derivative and56123Bownplaintext cleaned;noinstall. Mandatoryretro032done;counter0;nextF113fullreading. Currentresearchlocaluntilseparateverifiedpublication."
+    },
+    {
+      "id": "WP-090",
+      "priority": 1,
+      "status": "pending",
+      "parent_task": "WP-006",
+      "objective": "Actually read and decompose both F113 perfect-matching counting/entropy manuscripts, their versions and natural/formal scopes; compare strongest old counting methods and existing F120/F115 graph interfaces",
+      "selection_reason": "Retro032 redirects from repeated unqualified symbolic-interface work to an unread multi-manuscript family with count-versus-witness semantics and existing graph-law comparison context. Inventory alone does not establish an algorithmic advantage or a candidate.",
+      "inputs": [
+        "F-113",
+        "reports/retrospectives/032-demand-constraints-and-next-counting-route.md",
+        "data/corpus/families.jsonl",
+        "data/graph/reading_coverage.json",
+        "reports/families/F-120.md",
+        "reports/families/F-115.md"
+      ],
+      "resource_limit": "Existing read-onlymath at1581d4cb;two catalogue manuscripts,initialinventory16TeX7035lines,verify actual includeclosure/bibliography/version histories first. Do not clone upstream/install Lean/dependencies. Read full actualbody,not title/README. Selected original history only bounded needed interfaces with preciseversion/hash. Numerical tests require independent preregistered specs after construction/oracle/cost qualification;not pre-authorized as already run. Compress own outputs/code snapshots and verify roundtrip.",
+      "acceptance": "Bind all source named results/aliases/conditions, natural and actual registered formal scope,constants/algorithm-cost qualifiers,fullmanuscript/version map and original old-method interfaces. Distinguish finding one matching,uniform sampling and approximate count/entropy in general versus bipartite graphs and weighted versus unweighted cases as actually present in sources. Record ten-domain attempts and justified combinations without forced candidates;no complete-family credit unless unchanged criteria actually met. Canon/history/hash/FK/impact/gates/exports/core/clean checks for actual graph changes.",
+      "stop_or_redirect": "Do not claim inventory as reading, a witness algorithm as a counting benchmark, or finite QA as theorem certification. Do not install a package just to manufacture100-card credit; retain strongold-method sufficient null. Human/secondprovider deferred;no repeatedquestions. Nextmandatoryretro033afterWP090/091/092 or earliermajor evidence.",
+      "created_at": "2026-10-22T04:09:41.052704+00:00"
     }
   ]
 }

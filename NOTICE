@@ -172,3 +172,24 @@ the0.4wheel and as pyfive-1.0.0-LICENSE.txt extracted from the exact1.0
 source archive because that wheel omitted its license file. Both readers
 failed on chunked string metadata; errors are preserved, not patched away.
 No biological analysis stack was installed or independent review claimed.
+
+Bounded native-reader metadata follow-up (2026-10-22):
+h5py3.14.0 cp312/arm64 was used unchanged from the official PyPI wheel,
+SHA256 6da62509b7e1d71a7d110478aa25d245dd32c8d9a1daee9d2a42dba8717b047a,
+temporarily extracted with its bundled HDF51.14.6 and existing NumPy.
+No environment installation or biological/embedding experiment occurred.
+The wheel and native libraries are not redistributed here. Exact wheel
+metadata and its seven original license/notice texts, including h5py BSD,
+HDF5, LZF and bundled notices, are retained in
+data/provenance/tools/h5py-3.14.0-licenses.json.gz. No third-party terms are
+replaced by this project's license; no whole dependency audit is claimed.
+
+Selected Dense-Egyptian-Fractions source review (2026-10-22):
+Yue Shi, https://github.com/ChlorophyII/Dense-Egyptian-Fractions,
+commit 30a3915c898e45f61b225b79c3efc1c9f765d2c5, MIT License.
+Five unmodified selected files, including the complete original MIT notice,
+are retained as exact bytes in
+data/provenance/tools/dense-egyptian-30a3915.json.gz.
+No runtime execution or transitive dependency audit is claimed.
+The Martin-Shi paper and Eppstein program are cited and scoped in the
+research ledger; their complete texts are not redistributed here.

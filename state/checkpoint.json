@@ -1,8 +1,8 @@
 {
-  "saved_at": "2026-10-22T02:38:45.789860+00:00",
+  "saved_at": "2026-10-22T04:09:41.052704+00:00",
   "overall_status": "active_incomplete",
   "goal_source": "prompts/continuous-research-goal.md",
-  "latest_retrospective": "reports/retrospectives/031-publication-and-platform-scope.md",
+  "latest_retrospective": "reports/retrospectives/032-demand-constraints-and-next-counting-route.md",
   "completed_work_packages": [
     "WP-001",
     "WP-002",
@@ -90,17 +90,20 @@
     "WP-083",
     "WP-084",
     "WP-085",
-    "WP-086"
+    "WP-086",
+    "WP-087",
+    "WP-088",
+    "WP-089"
   ],
   "work_packages_since_last_retrospective": 0,
-  "retrospective_due_after": "Mandatory retro032 after WP089,third substantive research package after publication milestone retro031,or earlier major evidence",
+  "retrospective_due_after": "Mandatory retro033 after WP092,the third substantive research package after retro032;major milestones or evidence earlier",
   "metrics": "reports/metrics.json",
   "running_research_experiments": [],
   "running_preview": {
     "unified_exec_session_id": 61467,
     "url": "http://127.0.0.1:8768/#CLM-210-M-THM-MAIN",
     "in_app_browser_tab": "7",
-    "status": "No listener on127.0.0.1:8768 at WP086 recovery;previous preview stopped,not restarted for this source-reading task",
+    "status": "No preview listener at WP088 save;not restarted",
     "pid": null
   },
   "must_not_repeat": [
@@ -471,85 +474,91 @@
     "WP083 F231selectedhistory9/16:Lyons2003projection/dilation+finitecylinderuniqueness actualoriginal;author2014errata corrects identity-row delta term and infiniteconditional/NA proof interfaces,not projecthumanreview. FKKfiniteN fullobservedfiltration not automatic fullcountable extension;BPfinite/periodic class and normalized D^-1 Green distinctfrom universalgraphFIID. BPv1PDFp19printed18 omits1/D in finiteparagraph whileassertingloopinvariance;twoactualPDFpages+HTMLchecked,unconfirmedlocalobservation,notgradeD/sourceF231failure. APP231originalprediction/plan unchanged;no finiteQA rerun. Counter1,nextWP084F332.",
     "WP083ownFKKcoveroffset3locatornote corrected:one repository cover sheet,PDF2=printed19;originalPDF3-6/printed20-23 pairs correct. Immutablev1 kept,v2 current,17exactintermediate nodes archived;full61core/report/export/source/nav/clean rerun after binding correction,not math/APP change.",
     "F332whole648TeX+50Bib/7C,14typedinterfaces;3of5selectedoriginalrootsMN13v2/CWX26v2/NY22v2. MetricMarkovcotypenotlinearor toruscotype;stationarynonreversiblechain admitted,zero pi no pointwise guarantee. GeometricS starts0,mean t;oldGreenT=t+1;deathjump suppliesfidelity;expected3independentendpointmedian not1sample. 3024real/6048complex;unconstrainedambientmayleavesimplex(symbolic7/9),not experiment. ExtensionKunspecifiedusesdual-targetMN13,noeffectiveextension. APP33201conditionalrisk10%/two-thirds/no>5%loss,no run. Own6explicitcites relationfixedtoderived_from preservingexactedges;14typedcontractsv1kept;two gatev2priorversions retained after adding requiredprerequisite_status=navigableunestablished;full61/audit/9impact/clean passed. WP085mustqualifystrongoldquadraticreference,freezebeforeoutputs;thenmandatoryretro030.",
-    "EXP332001frozen589a34c/implementationeae3f58/runb2607a9926c44586:18core+2scalar,228inputs1620outputs,9>=10%wins<12and2>5%harms;308constructor/energy,308median,468quadratic,1620risk,4scalarchecks all0mismatch. Stopgrid,no t/noise/seeds/thresholdtuning. AllallowedGselfmass>=365/728>1/2,weightedmedianidenticallyraw;addingstrongeroldpoolcannotrescuefixedpredictionfailure. Idealnoiseabsolute expectationinfinite;finite8drawrisknotpopulationmean/CI. APP33201观察待人工,source7Cunchanged,notformaldeny;40cand13initial5support8adverse. Raw/summary/inputssnapshotgzipverified;replayfromoriginalsnapshot,not currentfingerprint. Toolclock/RSSexclusionspreregistered;oldmanifestresourcefieldmissing writesnull,ownincorrecttool/logpreserved. Retro030nextoneboundedF332fullfamilyacceptanceclosure attempt;do not manufacturecompletecount. F153has487line standardlibcertificatebutonlyREADME/inventoryread,notbody/notrun/notapplicationproof."
+    "EXP332001frozen589a34c/implementationeae3f58/runb2607a9926c44586:18core+2scalar,228inputs1620outputs,9>=10%wins<12and2>5%harms;308constructor/energy,308median,468quadratic,1620risk,4scalarchecks all0mismatch. Stopgrid,no t/noise/seeds/thresholdtuning. AllallowedGselfmass>=365/728>1/2,weightedmedianidenticallyraw;addingstrongeroldpoolcannotrescuefixedpredictionfailure. Idealnoiseabsolute expectationinfinite;finite8drawrisknotpopulationmean/CI. APP33201观察待人工,source7Cunchanged,notformaldeny;40cand13initial5support8adverse. Raw/summary/inputssnapshotgzipverified;replayfromoriginalsnapshot,not currentfingerprint. Toolclock/RSSexclusionspreregistered;oldmanifestresourcefieldmissing writesnull,ownincorrecttool/logpreserved. Retro030nextoneboundedF332fullfamilyacceptanceclosure attempt;do not manufacturecompletecount. F153has487line standardlibcertificatebutonlyREADME/inventoryread,notbody/notrun/notapplicationproof.",
+    "WP088all14metadatafields readable using temporaryofficialh5py3.14.0,notmissingdata;reader andsourceplaintext removed afterverification.40duplicatefeaturepairs have differentperturbation annotations,not automaticbadcells or phenotype/causaltruth;41differentguides. Original10%prediction remainsuntested;finitecommonlawconstructor andindependentbiologicaljudge stillunestablished. Do not rerun unchangedpyfive or silentlyrewrite HTO/guide labels. Currentprofiler adds coordinateorder displayonly;firstprofile andregisteredsource exactbytes archived. 68core/7impact/15archives/clean passed;WP087/WP088localonly.",
+    "WP089 actualrelatedcallerexists:MartinShi second-largest needs2markers/rank/finite allowedset,not currentAPP02501singlemarker. SymPyissue7221genericrequest+20returnedcomments read;metadata10commentcount discrepancy retained,notcompletehistory. Eppstein defaultgreedy enumeratesbranches,notjustSylvester;selectedsubroutine hasiteritems butunexecuted. DenseMITcode30a3915 pinnedfivefiles,PythonwrapperrequiresChez;transitive modules/unmodifiedruntime nottested. Noinstall/numerical/newcandidate/initial. Do not reinterpretrelateddemand aseligibleor silentlyrelaxrankconstraints. Retro032done,nextF113full2manuscriptreading;inventory16TeX7035notbodyread."
   ],
   "resume_commands": [
-    "cat reports/retrospectives/030-denoising-risk-and-old-baselines.md",
-    "cat reports/F332-finite-denoising-experiment.md",
+    "cat reports/retrospectives/032-demand-constraints-and-next-counting-route.md",
+    "cat reports/F025-demand-followup.md",
     "cat state/checkpoint.json"
   ],
   "next_work_package": {
-    "id": "WP-087",
+    "id": "WP-090",
     "priority": 1,
     "status": "pending",
     "parent_task": "WP-006",
-    "objective": "Actually read low-coverage F153 current source bodies and included verifier;bind all source results,methodcontracts,versions/formal scope and necessary original historical interfaces",
-    "selection_reason": "Honor retro030 and bounded WP086 stop:keep global coverage parallel to deep historical checks,not indefinite bibliography recursion or failure-grid tuning.",
+    "objective": "Actually read and decompose both F113 perfect-matching counting/entropy manuscripts, their versions and natural/formal scopes; compare strongest old counting methods and existing F120/F115 graph interfaces",
+    "selection_reason": "Retro032 redirects from repeated unqualified symbolic-interface work to an unread multi-manuscript family with count-versus-witness semantics and existing graph-law comparison context. Inventory alone does not establish an algorithmic advantage or a candidate.",
     "inputs": [
-      "reports/retrospectives/030-denoising-risk-and-old-baselines.md",
-      "reports/F332-family-acceptance-audit.md"
+      "F-113",
+      "reports/retrospectives/032-demand-constraints-and-next-counting-route.md",
+      "data/corpus/families.jsonl",
+      "data/graph/reading_coverage.json",
+      "reports/families/F-120.md",
+      "reports/families/F-115.md"
     ],
-    "resource_limit": "Existing tools;no upstreamcopy or Lean/cache/dependency install. Inventory says5TeX2579+252Bib+487verifier;verify actual paths/counts before reading. Reading verifier isnot execution/applicationcheck. Numerical outputs require registered specification;compress and verify all own data.",
-    "acceptance": "Actual full source and verifier-body reading,allmanuscripts/version mapping,natural/formal and quantifiers/constants/oldbaseline scopes,typed graph with immutable evidence and honestunknowns;completefamilycount only originalcriteria. No forced candidate or invented consumer.",
-    "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes1 afterWP087;retro032 mandatoryafterWP089 or majorissue.",
-    "created_at": "2026-10-22T02:25:18.973556+00:00"
+    "resource_limit": "Existing read-onlymath at1581d4cb;two catalogue manuscripts,initialinventory16TeX7035lines,verify actual includeclosure/bibliography/version histories first. Do not clone upstream/install Lean/dependencies. Read full actualbody,not title/README. Selected original history only bounded needed interfaces with preciseversion/hash. Numerical tests require independent preregistered specs after construction/oracle/cost qualification;not pre-authorized as already run. Compress own outputs/code snapshots and verify roundtrip.",
+    "acceptance": "Bind all source named results/aliases/conditions, natural and actual registered formal scope,constants/algorithm-cost qualifiers,fullmanuscript/version map and original old-method interfaces. Distinguish finding one matching,uniform sampling and approximate count/entropy in general versus bipartite graphs and weighted versus unweighted cases as actually present in sources. Record ten-domain attempts and justified combinations without forced candidates;no complete-family credit unless unchanged criteria actually met. Canon/history/hash/FK/impact/gates/exports/core/clean checks for actual graph changes.",
+    "stop_or_redirect": "Do not claim inventory as reading, a witness algorithm as a counting benchmark, or finite QA as theorem certification. Do not install a package just to manufacture100-card credit; retain strongold-method sufficient null. Human/secondprovider deferred;no repeatedquestions. Nextmandatoryretro033afterWP090/091/092 or earliermajor evidence.",
+    "created_at": "2026-10-22T04:09:41.052704+00:00"
   },
-  "release_state": "Local development repository only; no remote, push, public repository or version release. Check git status/log for local commit state.",
+  "release_state": "Publicrepo https://github.com/yiduo/ai_paper alreadyverified;WP087-WP089/retro032 batch currentlylocal,preparedforreviewed synchronization.No officialmath redeployment;researchphaseone incomplete.",
   "last_quality_evidence": {
-    "evidence_directory": "reports/reproducibility/20261022-F332-closure",
+    "evidence_directory": "reports/reproducibility/20261022-symbolic-demand",
     "core_tests": 68,
     "skipped": 0,
-    "nodes": 5842,
-    "edges": 15021,
-    "canonical_citations": 5635,
-    "core_research_citations_checked": 5625,
-    "local_source_hashes_verified": 5269,
-    "external_annotations_without_retained_local_bytes": 366,
-    "old_records_unchanged": 3434,
-    "old_exact_versions": 5,
-    "new_records": 13,
-    "new_explicit_edges": 31,
-    "impact_cases": 10,
+    "nodes": 5980,
+    "edges": 15482,
+    "canonical_citations": 5833,
+    "core_research_citations_checked": 5823,
+    "local_source_hashes_verified": 5436,
+    "external_annotations_without_retained_local_bytes": 397,
+    "old_records_unchanged": 3535,
+    "exact_prior_versions": 3,
+    "new_records": 8,
+    "new_explicit_edges": 17,
+    "all_old_edges_exact": true,
+    "impact_cases": 8,
     "clean_directory_exit": 0,
     "archives_verified": 15,
+    "actual_replays": [
+      "EXP-200-001",
+      "EXP-332-001"
+    ],
+    "comparison_unchanged": true,
     "new_candidate": 0,
     "new_initial_check": 0,
-    "new_numerical_run": false,
-    "actual_read_families": 47,
-    "natural_source_drafts": 41,
-    "source_named_bindings": 1037,
+    "new_application_run": false,
+    "actual_read_families": 48,
+    "natural_source_drafts": 42,
+    "source_named_bindings": 1061,
     "source_unlabelled_mains": 2,
+    "F238_additional_partial_bindings": 95,
     "complete_families": 0,
     "complete_lineages": 0,
-    "helper_gzip_bytes": 16424,
-    "temporary_original_bytes_removed": 3441322,
-    "failed_partial_original_bytes_removed": 20971520,
+    "human_reviews": 0,
+    "selected_original_projects": 3,
+    "selected_licensed_source_files": 5,
+    "actual_formula_pages_pixels": 2,
+    "related_constrained_caller_observed": true,
+    "exact_APP_caller_established": false,
+    "source_snapshot_gzip_bytes": 15041,
+    "helper_gzip_bytes": 17425,
+    "temporary_original_derivative_bytes_removed": 1308630,
+    "own_temporary_bytes_removed": 56123,
     "dependencies_installed": false,
+    "runtime_used": "Python3.12.14 existingbundled;NumPy2.3.5 existing forarchivedEXP332;no SymPy orScheme installed",
     "full_criteria_unchanged": true,
     "official_math_redeployed": false
   },
   "previous_goal_turn_classification": {
     "status": "productive_progress",
-    "evidence": "WP086actualproofaudit with explicitunknowns;fullEnglishcharter/Englishprogress saved and publicGitHubsnapshot anonymouslyverified withoutmath. FirstLinuxF076strictfailure preserved;freshoriginalmacOSstrictreplaypassed. Milestoneretro031done;goal remainsincomplete."
+    "evidence": "WP089 actual three-original-source demand/oldbaseline qualification changes implementation priority;8canon17edges;twoactualarchived replays andfullQA;mandatoryretro032 redirects to unreadF113. No artificialinitials."
   },
-  "active_work_package": {
-    "id": "WP-087",
-    "priority": 1,
-    "status": "pending",
-    "parent_task": "WP-006",
-    "objective": "Actually read low-coverage F153 current source bodies and included verifier;bind all source results,methodcontracts,versions/formal scope and necessary original historical interfaces",
-    "selection_reason": "Honor retro030 and bounded WP086 stop:keep global coverage parallel to deep historical checks,not indefinite bibliography recursion or failure-grid tuning.",
-    "inputs": [
-      "reports/retrospectives/030-denoising-risk-and-old-baselines.md",
-      "reports/F332-family-acceptance-audit.md"
-    ],
-    "resource_limit": "Existing tools;no upstreamcopy or Lean/cache/dependency install. Inventory says5TeX2579+252Bib+487verifier;verify actual paths/counts before reading. Reading verifier isnot execution/applicationcheck. Numerical outputs require registered specification;compress and verify all own data.",
-    "acceptance": "Actual full source and verifier-body reading,allmanuscripts/version mapping,natural/formal and quantifiers/constants/oldbaseline scopes,typed graph with immutable evidence and honestunknowns;completefamilycount only originalcriteria. No forced candidate or invented consumer.",
-    "stop_or_redirect": "Do not count inventory/README as full reading;do not execute unreviewed verifier or treat sourceverification as application benefit. Human/secondproviderdeferred. Counter becomes1 afterWP087;retro032 mandatoryafterWP089 or majorissue.",
-    "created_at": "2026-10-22T02:25:18.973556+00:00"
-  },
+  "active_work_package": null,
   "publication_work": {
-    "status": "published_verified_followup_ci_in_progress_after_next_push",
+    "status": "published_verified_ci_passed",
     "requested_at": "2026-10-22",
     "repository": "https://github.com/yiduo/ai_paper",
     "official_math_excluded": true,
@@ -560,11 +569,33 @@
     "initial_public_commit": "8d5b7fd21ca9ae14d5254e03385832bd038caa7c",
     "initial_remote_ci_failure_preserved": true,
     "macos_strict_replay_passed": true,
-    "live_ci_url": "https://github.com/yiduo/ai_paper/actions"
+    "live_ci_url": "https://github.com/yiduo/ai_paper/actions",
+    "latest_public_commit": "bab94cf046ebeaefc1c27b397d6cd955bfd5bf7d",
+    "latest_ci": {
+      "run_id": 39712653910,
+      "conclusion": "success",
+      "url": "https://github.com/yiduo/ai_paper/actions/runs/39712653910",
+      "scope": "68core/13otherarchive replays/export/publication scan;not EXP076Linux or optionalNumPy"
+    },
+    "current_local_research_not_yet_pushed": "WP087F153/WP088APP09402metadata/WP089symbolic-demand plusretro032 after publicbab94cf;newbatch preparedforseparatereviewandpublication"
   },
   "recovery_commands": [
-    "python3 scripts/check.py",
-    "PYTHONPATH=src python3 -m ai_value.cli export-graph",
-    "python3 scripts/replay_run.py experiments/runs/EXP-332-001-b2607a9926c44586"
-  ]
+    "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/check.py",
+    "PYTHONPATH=src /Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -m ai_value.cli export-graph"
+  ],
+  "recovery_observation": {
+    "at": "2026-10-22T03:52:54.615332+00:00",
+    "upstream_clean": true,
+    "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+    "available_disk": "14GiB",
+    "preview_listener": false,
+    "research_processes_observation": "Actual privileged filteredps showed only own ps/rg;no project experiment/preview processes. Bothnewrepresentative replayhandles andcleancheck completedexit0;8768 no listener.",
+    "previous_turn_classification": "progress:priorWP088 authoritativecommit f2ae293;currentWP089authoritativegraph/source qualification andretro032"
+  },
+  "runtime_resolution": {
+    "default_observed": "/Applications/Xcode.app/Contents/Developer/usr/bin/python3 Python3.9.6,unsupported",
+    "selected": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 Python3.12.14",
+    "existing_runtime_no_install": true,
+    "failed_clean_receipt": "reports/reproducibility/20261022-bernoulli/clean-directory-incompatible-python.json.gz"
+  }
 }

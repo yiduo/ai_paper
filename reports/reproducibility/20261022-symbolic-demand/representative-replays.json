@@ -1,0 +1,14 @@
+[
+  {
+    "experiment": "EXP-200-001",
+    "path": "reports/reproducibility/20261022-symbolic-demand/replay-EXP-200-001.json.gz",
+    "uncompressed_sha256": "f8dbbefcef5c94df8cb331ed7f9be8022a9e5a001f7f3d7d2042d8a120861a5c",
+    "comparison_scope": "Exact complete JSON payloads; no fields excluded"
+  },
+  {
+    "experiment": "EXP-332-001",
+    "path": "reports/reproducibility/20261022-symbolic-demand/replay-EXP-332-001.json.gz",
+    "uncompressed_sha256": "e501a9e3b83dea7d29499142ee4daee466f32e3b50f068f6ddddeb2e48395210",
+    "comparison_scope": "All exact inputs,outputs,risks,choices,judges and conclusions; only raw kernel build_seconds and summary runtime clocks/RSS excluded as preregistered"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "recorded_at": "2026-10-22T04:06:00.010701+00:00",
+  "removed_files": [
+    {
+      "file": "eppstein-egypt-index.html",
+      "bytes": 19560,
+      "sha256": "c085eca172e12c80e94d3c1fea4f27b5cda95419dff2a10d9376d647dc3799c0"
+    },
+    {
+      "file": "dense-ufrac-conjecture.scm",
+      "bytes": 1001,
+      "sha256": "9b8b335a335c457d165b4b960e11e16dd90de004ec7fcaf5d2cd23bb2a0c8749"
+    },
+    {
+      "file": "theorem-page7.png",
+      "bytes": 324585,
+      "sha256": "c7144e5ce2b0e10997bcd807074738172764bbe618a495827bf46a7128f3586a"
+    },
+    {
+      "file": "eppstein-egypt.py",
+      "bytes": 33830,
+      "sha256": "effc73f59f155d6f544691f280fee391e62e830982f26d5f2ce31a47d401e899"
+    },
+    {
+      "file": "dense-LICENSE.txt",
+      "bytes": 1064,
+      "sha256": "478326648d4c25e0e797f48ae5e3a8d8cbcd7c4c412990cdb036c520afb93808"
+    },
+    {
+      "file": "dense-README.md",
+      "bytes": 15097,
+      "sha256": "0ad5051e7d9e4534798f03ee93f6e6fd74638b46945d9b2fbe1f7fbb10917f44"
+    },
+    {
+      "file": "sympy-issue7221.json",
+      "bytes": 5265,
+      "sha256": "ca70aa9bc6934c2d15a039f6230242ee661f6f39d6deeacf9f1750b38dfdac89"
+    },
+    {
+      "file": "restricted-denominators.pdf",
+      "bytes": 406743,
+      "sha256": "091fda9c8319208dcf32e95370ead1774c88b7fb596285215d6548bf36b321e8"
+    },
+    {
+      "file": "dense-u_frac.py",
+      "bytes": 3519,
+      "sha256": "3f7f510146aac288b961a70574e74bf70f2073f0489e900b3db318304f59abe1"
+    },
+    {
+      "file": "caller-page22.png",
+      "bytes": 367980,
+      "sha256": "35e76beeb27ac89007ffd28fae58563cc7305ef1bf5dc55a931a00e1e9b1cc2d"
+    },
+    {
+      "file": "dense-master-commit.json",
+      "bytes": 13302,
+      "sha256": "e0695b963b71cca317cfe865a237a1d1bf5bb61b0e753a043a696539dd353a72"
+    },
+    {
+      "file": "dense-ufrac.scm",
+      "bytes": 8486,
+      "sha256": "707d922b7cec5a757275c63311b8900e37d578a29ed4ef2f68a08b89b0622a18"
+    },
+    {
+      "file": "sympy-issue7221-comments.json",
+      "bytes": 42654,
+      "sha256": "0a5d555b3b82ef322c1d7cd81dd281e5c4e9619dba2b0604cd64e0d01680b978"
+    },
+    {
+      "file": "restricted-denominators.txt",
+      "bytes": 65544,
+      "sha256": "f68194f037ed327f68405b482885937911d65f76c6899f85bc9e8345baa2fdb0"
+    }
+  ],
+  "temporary_third_party_and_derivative_bytes_removed": 1308630,
+  "MIT_selected_files_preserved_exactly_in_licensed_gzip": true,
+  "external_fulltexts_program_APIresponses_renders_not_retained": true,
+  "TLS_failure_records_kept_in_ledger": true,
+  "dependencies_installed": false
+}

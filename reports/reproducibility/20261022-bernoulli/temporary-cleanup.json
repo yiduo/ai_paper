@@ -1,0 +1,86 @@
+{
+  "recorded_at": "2026-10-22T03:13:42.837804+00:00",
+  "temporary_originals_and_renders": [
+    {
+      "file": "gk.pdf",
+      "bytes": 308165,
+      "sha256": "436dabe3a3c596e7f59278330bfc553e2457e1be7b8f6df3777a8b4adcbac26d",
+      "removed": true
+    },
+    {
+      "file": "kern.pdf",
+      "bytes": 548176,
+      "sha256": "eecf8af63a724bdc9aba9f19ef3f5da119a6e82e153b994b52e97d2593431361",
+      "removed": true
+    },
+    {
+      "file": "baker.pdf",
+      "bytes": 540136,
+      "sha256": "f42060c167db3f2b211e9ce5bdd89a002b211da86972e9de8138fc802d316ab7",
+      "removed": true
+    },
+    {
+      "file": "source-criterion.png",
+      "bytes": 184332,
+      "sha256": "c9d5178401a686ef68a9ca0cefa9d16a5f2233632e4d8b0ba33d2df6d5474b3a",
+      "removed": true
+    },
+    {
+      "file": "source-moments.png",
+      "bytes": 150565,
+      "sha256": "e209192f6bc817752c80afa7fb20ac0869bcd4441f3266f510081da2c2f30a46",
+      "removed": true
+    },
+    {
+      "file": "source-roots.png",
+      "bytes": 167749,
+      "sha256": "08b8d143b91364dcb285490ab6eed22cfb5bbaacaf25c330048ddc6cb687b5a6",
+      "removed": true
+    },
+    {
+      "file": "source-certificate-output.png",
+      "bytes": 164226,
+      "sha256": "d7c9bae6f695f8461d8971056347ab7f5064d5a76c5234d9f16683e8b7e415a6",
+      "removed": true
+    },
+    {
+      "file": "gk-RH.png",
+      "bytes": 124011,
+      "sha256": "6d7e196df09908702847953df3f3ed612f9febbf0c5e0a794e5667a4fd225470",
+      "removed": true
+    },
+    {
+      "file": "kern-affine.png",
+      "bytes": 253837,
+      "sha256": "c8d31a0bb108e1dfe1816162c06be9f1d004ba53cba743b651e77c91df41bba8",
+      "removed": true
+    },
+    {
+      "file": "gk.txt",
+      "bytes": 88183,
+      "sha256": "535e0bc027aca05ad537af7d47d191293a0bf4d81e6a224be1d869e632ade7e9",
+      "removed": true
+    },
+    {
+      "file": "kern.txt",
+      "bytes": 87101,
+      "sha256": "9fa4256127b0b581c4a9e3de34b4c63fa8c80713e044262193d958dfd83866f1",
+      "removed": true
+    },
+    {
+      "file": "baker.txt",
+      "bytes": 116592,
+      "sha256": "d7baca856dad21b40388ddbfb1fd9803bf2cb84923bdde98bfbe8f293e006597",
+      "removed": true
+    },
+    {
+      "file": "source.txt",
+      "bytes": 131758,
+      "sha256": "7f663d67b953a728d697a71742adf6dff231d17288eb6f784dafbc7000e68f6c",
+      "removed": true
+    }
+  ],
+  "bytes_removed": 2864831,
+  "original_math_directory_untouched": true,
+  "source_verifier_executed": false
+}

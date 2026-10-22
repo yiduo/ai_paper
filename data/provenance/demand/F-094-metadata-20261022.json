@@ -1,0 +1,119 @@
+{
+  "work_package": "WP-088",
+  "generation_id": "GEN-20261022-084",
+  "recorded_at": "2026-10-22T03:31:54.725509+00:00",
+  "project_base_commit": "1f2b2c9",
+  "family_id": "F-094",
+  "candidate": "APP-094-02",
+  "source_manifest": "data/provenance/demand/PapalexiSatija2021-protein-source.json",
+  "previous_profile": "data/provenance/demand/PapalexiSatija2021-protein-admission-profile.json",
+  "source_file_sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4",
+  "source_bytes": 550922,
+  "source_license": "CC-BY-4.0",
+  "admission_spec": "configs/data-admission/APP09402-metadata-v1.json",
+  "admission_spec_sha256": "e48937d5afd56864a68672de3df212efda8b31b46c8e29d9613c6f50e9c86b11",
+  "registration_commit": "1f2b2c9",
+  "registration_scope": "Beforedecodedcell-levelstringvalues/labelconflicts;numericoldprofile andschema/categoryshapesalreadyknown,notblind",
+  "current_profiler": "scripts/profile_perturbation_metadata.py",
+  "current_profiler_sha256": "cf7d99bebed2a7439848ec8e55dfe02d068911d3059e904d659af1be72d563a9",
+  "profiler_display_revision": "Afterfirstprofile addedonlyfour-proteincoordinateorder;initialgzipretained andallpreviousvaluescheckedexactequal. No criterion,source,predictionorstatisticschanged.",
+  "profile": "data/provenance/demand/PapalexiSatija2021-protein-metadata-v1.json.gz",
+  "profile_sha256": "8cc608663029eea5d64a77669a33260e4d3801fdc3793e7cf6f45f3419adb755",
+  "profile_uncompressed_sha256": "5ac0d25ec4c5d0bf5f3f41a6b5c6bafeec0ac330d706db0c6b7bc0bc202664e6",
+  "independent_check": "reports/reproducibility/20261022-perturb-metadata/independent-profile-check.json.gz",
+  "reader": {
+    "version": "h5py3.14.0",
+    "HDF5": "1.14.6",
+    "numpy": "2.3.5",
+    "python": "3.12.14 existingbundled",
+    "wheel": {
+      "filename": "h5py-3.14.0-cp312-cp312-macosx_11_0_arm64.whl",
+      "size": 2829207,
+      "url": "https://files.pythonhosted.org/packages/ff/10/20436a6cf419b31124e59fefc78d74cb061ccb22213226a583928a65d715/h5py-3.14.0-cp312-cp312-macosx_11_0_arm64.whl",
+      "digests": {
+        "blake2b_256": "ff1020436a6cf419b31124e59fefc78d74cb061ccb22213226a583928a65d715",
+        "md5": "ca1fb6e63b73ad9d48facf5995c5ba6c",
+        "sha256": "6da62509b7e1d71a7d110478aa25d245dd32c8d9a1daee9d2a42dba8717b047a"
+      },
+      "upload_time_iso_8601": "2025-06-06T14:05:05.061592Z"
+    },
+    "downloaded_bytes": 2829207,
+    "unpacked_bytes": 9770431,
+    "temporary_unmodified": true,
+    "installed_into_existing_environment": false,
+    "wheel_all_members_match_unpacked": true,
+    "binary_retained": false,
+    "license_archive": "data/provenance/tools/h5py-3.14.0-licenses.json.gz"
+  },
+  "source_contracts": [
+    {
+      "url": "https://docs.h5py.org/en/3.14.0/strings.html",
+      "scope": "Readingstringssection:bytesdefault/asstr UTF8;notwholelibraryaudit"
+    },
+    {
+      "url": "https://pypi.org/project/h5py/3.14.0/",
+      "scope": "Exactcp312arm64wheel/PythonandNumPyrequirements/BSDmetadata;notlatestversionclaim"
+    }
+  ],
+  "findings": {
+    "all14strings_read": true,
+    "missing_category_codes": 0,
+    "empty_or_sentinel_count": 0,
+    "unique_cell_ids": 8984,
+    "protein_coordinate_order": [
+      "CD86",
+      "PDL1",
+      "PDL2",
+      "CD366"
+    ],
+    "guide_count": 14,
+    "perturbation_count": 11,
+    "control_cells": 2009,
+    "nperts_zero_cells": 2009,
+    "numeric_reconciliations": {
+      "row_ncounts_equal": true,
+      "row_ngenes_equal": true,
+      "protein_ncounts_equal": true,
+      "protein_ncells_equal": true
+    },
+    "exact_distinct_feature_vectors": 8936,
+    "duplicate_groups": 48,
+    "duplicate_rows": 96,
+    "perturbation_conflict_groups": 40,
+    "perturbation_conflict_rows": 80,
+    "perturbation_empirical_minority": 40,
+    "guide_conflict_groups": 41,
+    "guide_conflict_rows": 82,
+    "guide_empirical_minority": 41,
+    "smallest_perturbation_annotation": [
+      "IFNGR2",
+      4
+    ],
+    "largest_annotation": [
+      "control",
+      2009
+    ],
+    "guide_to_perturbation_singlevalued": true,
+    "guide_hto_not_assumed_identical": true
+  },
+  "interpretation": [
+    "Readabilityblockerremoved,not a source-data missingness repair;oldpyfivefailureevidenceunchanged",
+    "RowsareTHP1cell-lineobservations,notpatientsor8984perturbationprofiles;guide/targetannotationsnotindependentphenotypegroundtruth",
+    "Identicalmeasuredvectorswithdifferentlabels showfinitefeatureambiguity;legitimatecellsnotdeleted,not a compression failure or F094counterexample",
+    "Empiricalminority40/8984 fromperturbationlabels isnot out-of-sample/causal/clinicalrisk",
+    "Rare4-cellannotation andunequalgroups needdeclaredsampling/ties/biologicaljudge;HTOnamescannotbeconvertedto guideIDs byguessing",
+    "Original10percentprediction/fairp/D/storagecostnotrun;treatmentgrain/normalization/commonlawconstructor remainseparategates"
+  ],
+  "skills": [
+    "data-analytics:analyze-data-quality scopedcompanion;canonicalresearchgraph remainssolefacts,noseparatebusinessdataintake"
+  ],
+  "new_candidate_count": 0,
+  "new_initial_checks": 0,
+  "new_application_run": false,
+  "no_embedding_distortion_or_neighbor_outputs": true,
+  "original_prediction_unchanged": true,
+  "independent_biological_judge_established": false,
+  "finite_common_law_constructor_established": false,
+  "human_review": null,
+  "second_model_provider": null
+}

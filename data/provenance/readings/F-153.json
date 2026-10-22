@@ -1,0 +1,915 @@
+{
+  "family_id": "F-153",
+  "manuscript_ids": [
+    "P-c180c88bf9e78a1a"
+  ],
+  "work_package": "WP-087",
+  "generation_id": "GEN-20261022-083",
+  "recorded_at": "2026-10-22T03:03:31.358755+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "1fb2b23",
+  "read_files": {
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/certificate.tex": {
+      "sha256": "7d71cb685bcf4b33dd0ce8a9ae34dd0be0afdff28596d77f2515f5ee638ea47d",
+      "total_lines": 675,
+      "read_ranges": [
+        [
+          1,
+          675
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex": {
+      "sha256": "adf8f2def37053838a980a052ffa9d37bfffc83a4953007cb8ec54ceae68712e",
+      "total_lines": 704,
+      "read_ranges": [
+        [
+          1,
+          704
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/main.tex": {
+      "sha256": "99878062e61cd5bc299afcb5f20181e87044a95616d1147d203ad4bcbefa232e",
+      "total_lines": 80,
+      "read_ranges": [
+        [
+          1,
+          80
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex": {
+      "sha256": "e8d6e8537dc60f4142f629ac4c4e400efe74f6aed98a90f52630533b8955fb1a",
+      "total_lines": 675,
+      "read_ranges": [
+        [
+          1,
+          675
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex": {
+      "sha256": "6aba84f0a8b2fe51b1ca183c452cbdf1018da2f35499a95cf33217678a3636ea",
+      "total_lines": 445,
+      "read_ranges": [
+        [
+          1,
+          445
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/references.bib": {
+      "sha256": "3b9dc5050d8a152abedf38b1494b49b2f9d8976dedb9b34446db41e3cb2aa3da",
+      "total_lines": 252,
+      "read_ranges": [
+        [
+          1,
+          252
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/README.md": {
+      "sha256": "d424bb87e55aea065c732431326db05fd9fdd456228fdc66f79d97649525935b",
+      "total_lines": 32,
+      "read_ranges": [
+        [
+          1,
+          32
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/verification/verify_degree31.py": {
+      "sha256": "67eef9421933cb5eb32f717864d8badf0ad5836edf687fee36295cff18793dea",
+      "total_lines": 487,
+      "read_ranges": [
+        [
+          1,
+          487
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_read_files": {
+    "math/lean/OAI/MeasureTheory/SelfSimilar/Bernoulli.lean": {
+      "sha256": "7848484e1e2ac12885b105a4c473de16be531f2466b9d1aa4482125be07812a6",
+      "total_lines": 129,
+      "read_ranges": [
+        [
+          1,
+          129
+        ]
+      ]
+    },
+    "math/lean/OAI/MeasureTheory/SelfSimilar/Main.lean": {
+      "sha256": "dd4616b74c7e17364aca272822ecc162a2e21a35208890ab3d5798880dafc3f2",
+      "total_lines": 69,
+      "read_ranges": [
+        [
+          1,
+          69
+        ]
+      ]
+    },
+    "math/lean/OAI/Analysis/MutuallyUnbiased/MixedSemantics/Canonical153.lean": {
+      "sha256": "b838cef336d40257b605799a830bdb13c4c2a9690df42624c9064c8449724ae1",
+      "total_lines": 5211,
+      "read_ranges": [
+        [
+          1,
+          22
+        ]
+      ]
+    }
+  },
+  "source_closure": "All5TeX2579lines+252Bib+README+487verifier actuallyread;not justinventory. No optionalunreadbody includes.",
+  "named_result_count": 24,
+  "named_results": [
+    {
+      "id": "CLM-153-CLS-CLASSIFICATION",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:classification",
+      "aliases": [],
+      "kind": "theorem",
+      "lines": [
+        48,
+        62
+      ],
+      "title": "算术分类的无限量词",
+      "statement": "For unbiased Bernoulli convolutions on0<lambda<1,singularity equals membership in C;outside C is absolute continuity. limsup and liminf yield the same set.",
+      "conditions": "One degree multiplier d fixed before every crowding j;all sufficientlylarge n may depend onj. One-sided[r-4^-n,r);finite target definitions are not a finite arbitrary-real decision procedure.",
+      "constants": "R(n,d) degree dn height1 mod2irreducible algebraic units;distinct projection vectors;2^n/d orthants andj(2r)^n crowding."
+    },
+    {
+      "id": "CLM-153-CLS-PURE-TYPE",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:pure-type",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        92,
+        98
+      ],
+      "title": "纯型及基本参数",
+      "statement": "The invariant fair-bit law is pure singular or absolutely continuous;lambda<1/2 singular,lambda=1/2 uniform.",
+      "conditions": "Independent fair bits,0<lambda<1. Bit law uniform[0,2] at1/2;signlaw uniform[-2,2]. Finite atomic truncations do not identify infinite measure type.",
+      "constants": "Y=2X-(1-lambda)^-1;unique affine invariant probability."
+    },
+    {
+      "id": "CLM-153-CLS-COMPACT-CONCENTRATION",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:compact-concentration",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        128,
+        135
+      ],
+      "title": "紧集浓缩判据",
+      "statement": "Singularity is equivalent to arbitrarily small Lebesgue-measure compact sets carrying arbitrarily near-total probability.",
+      "conditions": "Requires actual infinite law;one finite histogram or empirical support is not such a certificate.",
+      "constants": "Leb(K)<epsilon,rho(K)>1-epsilon;subsequence/summability argument."
+    },
+    {
+      "id": "CLM-153-CLS-FIRST-BIT-OVERLAP",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:first-bit-overlap",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        224,
+        227
+      ],
+      "title": "首位分支的共同质量",
+      "statement": "For lambda>1/2 the two first-bit subprobabilities have nonzero common submeasure.",
+      "conditions": "Fair iid bits and full infinite observation;common mass not given as a computable constant. Does not assert independence of branches.",
+      "constants": "Conditional entropy of bits given lambda^n quantization;log(2lambda)>0 contradiction."
+    },
+    {
+      "id": "CLM-153-CLS-CROSS-PAIRS",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:cross-pairs",
+      "aliases": [],
+      "kind": "proposition",
+      "lines": [
+        276,
+        289
+      ],
+      "title": "首位相反的近前缀",
+      "statement": "For a singular parameter,positive fraction c of lengthn words with first bit0 each have Q(2lambda)^n opposite-first-bit neighbors for every fixedQ and large n.",
+      "conditions": "a,c depend only onlambda;n threshold may depend onQ. Distinct neighbors/prefix directions rather than duplicate root multiplicity.",
+      "constants": "L=(1-lambda)^-1;distance <=(L-a)lambda^n;u0=0,v0=1."
+    },
+    {
+      "id": "CLM-153-CLS-FINITE-ORDER",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:finite-order",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        378,
+        387
+      ],
+      "title": "一致有限阶非消失",
+      "statement": "At fixedlambda,bounded-coefficient polynomials with constant-1 have sup on[lambda,lambda+x] at leastc0*x^M for smallx.",
+      "conditions": "M,c0,x0 supplied by compactness/identity theorem,not an explicit numerical bound uniform overparameters.",
+      "constants": "Coefficients |a_k|<=1;Taylor jets through finiteM."
+    },
+    {
+      "id": "CLM-153-CLS-PRESCRIBED-PRIME",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:prescribed-prime",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        425,
+        435
+      ],
+      "title": "保前缀的有限域不可约补全",
+      "statement": "For fixedD>=2,d>2D and all large n,every F over F2 with degree<Dn and constant1 has a monic irreducible degree dn completion congruent toF+t^(Dn) modt^(Dn+1).",
+      "conditions": "Threshold uniform inF;function-field RH input,not an integer-prime or finite runtime guarantee.",
+      "constants": "Mainterm2^((d-D)n),errors O(n*2^(dn/2))."
+    },
+    {
+      "id": "CLM-153-CLS-REALIZATION",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:realization",
+      "aliases": [],
+      "kind": "proposition",
+      "lines": [
+        474,
+        492
+      ],
+      "title": "单侧代数根实现",
+      "statement": "A sufficiently small height1 prefix with constant-1 extends to a degree dn mod2-irreducible polynomial with real root just above lambda.",
+      "conditions": "Fixedlambda,a,d>=d0;all large n uniformly overprefixes. Existence and finite enumeration do not give practical complexity or a stopping rule for classification.",
+      "constants": "|prefix(lambda)|<=(L-a)lambda^n;lambda<r<=lambda+4^-n/2;choose lambda^D<4^-M,d0=2D+1."
+    },
+    {
+      "id": "CLM-153-CLS-GARSIA",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:garsia",
+      "aliases": [],
+      "kind": "proposition",
+      "lines": [
+        623,
+        628
+      ],
+      "title": "经典Garsia参数",
+      "statement": "Reciprocal of beta in(1,2) of absolute norm2 with all conjugates outside unit circle is outsideC and absolutely continuous.",
+      "conditions": "Algebraic integer with all conjugates>1 inmodulus;not the norm1 Salem class. Source recovers an old result,not a new application.",
+      "constants": "Same-orthant prefix separation >=c_beta*2^-n bounds crowding."
+    },
+    {
+      "id": "CLM-153-CLS-PISOT",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "label": "cls:pisot",
+      "aliases": [],
+      "kind": "proposition",
+      "lines": [
+        671,
+        675
+      ],
+      "title": "经典Pisot参数",
+      "statement": "Reciprocal Pisot beta in(1,2) gives singular signlaw and belongs toC.",
+      "conditions": "All other conjugates strictly inside unitcircle;Fourier nondecay route cannot be transferred to non-Pisot Salem parameters.",
+      "constants": "Two-sided logcos loss summable;nonzero infinite cosine product."
+    },
+    {
+      "id": "CLM-153-SAL-MAIN",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex",
+      "label": "sal:main",
+      "aliases": [],
+      "kind": "theorem",
+      "lines": [
+        10,
+        14
+      ],
+      "title": "四次Salem倒数奇异性",
+      "statement": "For every quartic Salem beta in(1,2),the unbiased convolution at1/beta is singular.",
+      "conditions": "One nonreal unit-circle conjugate pair;not all Salemdegrees,not biased bits,not numerical finite-N detection. Source claimC,not a confirmed open-problem resolution.",
+      "constants": "Multiplier/trace-window separation despite Fourier decay tozero."
+    },
+    {
+      "id": "CLM-153-SAL-CONSTRUCTION",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex",
+      "label": "sal:construction",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        65,
+        92
+      ],
+      "title": "小共轭乘子与余弦底界",
+      "statement": "There is a sequence of algebraic-unit multipliers with small unit-circle conjugates,controlled index growth and uniform positive cosine floor.",
+      "conditions": "Constants and initial thresholds depend onbeta;irrational phase and one conjugate pair. Does not supply an efficient implementation.",
+      "constants": "L grows eventually >=2.1 eachstep;k_next<=exp(1.9L);logK<=.75L;gamma>0."
+    },
+    {
+      "id": "CLM-153-SAL-LOSS",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex",
+      "label": "sal:loss",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        220,
+        227
+      ],
+      "title": "乘子增长与余弦损失分离",
+      "statement": "Negative-power logcos loss S_m=o(L_m),and total loss up to n is <=2.01S_m+C*n*delta_m^2.",
+      "conditions": "Uses fixed construction and cosine floor;not a finite risk bound with stated computableC.",
+      "constants": "S_next<=2.0301*S+C versus Lgrowth2.1;eta=.01."
+    },
+    {
+      "id": "CLM-153-SAL-EXAMPLES",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex",
+      "label": "sal:examples",
+      "aliases": [],
+      "kind": "corollary",
+      "lines": [
+        415,
+        423
+      ],
+      "title": "两个显式四次例子",
+      "statement": "The roots>1 of x4-x3-x2-x+1 and x4-2x3+x2-2x+1 are quartic Salem numbers in(1,2),so their reciprocal convolutions are singular.",
+      "conditions": "Exact algebraic roots,not decimal perturbations;uses quartic result.",
+      "constants": "y=x+x^-1 reduces to y2-y-3 ory2-2y-1;conjugate discriminant test."
+    },
+    {
+      "id": "CLM-153-NP-MAIN",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:main",
+      "aliases": [],
+      "kind": "theorem",
+      "lines": [
+        25,
+        29
+      ],
+      "title": "31次非Pisot例子",
+      "statement": "The specified degree31 polynomial has a real beta in(1.8392,1.8393),not Pisot,and the convolution at1/beta is singular.",
+      "conditions": "Particular polynomial and fair iid bits. A finite arithmetic verifier is only part of the proof;no general non-Pisot classifier.",
+      "constants": "p=t31-2t30+sum(j=0..9)(t^(3j+1)-t^(3j));cover rate6.6e-6 asymptotically."
+    },
+    {
+      "id": "CLM-153-NP-ROOTS",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:roots",
+      "aliases": [
+        "np:root-data"
+      ],
+      "kind": "proposition",
+      "lines": [
+        34,
+        48
+      ],
+      "title": "根圆盘与弱膨胀共轭",
+      "statement": "All31 roots are simple;outside the unit circle lie beta and one nonreal pair alpha,alpha_bar;28 roots have modulus<.994.",
+      "conditions": "Requires finite root-center comparisons plus analytic Rouche bound;irreducibility ofp is not assumed.",
+      "constants": "1.8392<beta<1.8393;1.0002089<|alpha|^2<1.0002094;|alpha|^-1<.9999."
+    },
+    {
+      "id": "CLM-153-NP-LATTICE",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:lattice",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        82,
+        88
+      ],
+      "title": "全根坐标的31维格",
+      "statement": "All word-evaluation vectors lie in a fixed full real31-dimensional lattice;normalized expanding and contracting coordinates lie in fixed boxes.",
+      "conditions": "Uses all distinct roots of monicp,not an assumed minimal polynomial;one complex pair counts two realdimensions.",
+      "constants": "Jacobian M^N withM=beta*|alpha|^2;reduction modulo monicp."
+    },
+    {
+      "id": "CLM-153-NP-WORD-CHARACTER",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:word-character",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        146,
+        154
+      ],
+      "title": "反向词与双侧相位",
+      "statement": "Characters of normalized word vectors equal centered products built from bilateral Laurent coefficients C0,C1.",
+      "conditions": "Reverse order b_k=a_(N-1-k);fair iid stationary model separate from finite boundary effects.",
+      "constants": "C1(m)=C0(m+3)-C0(m)+C0(m-1);integer interpolation removes trace terms."
+    },
+    {
+      "id": "CLM-153-NP-MOMENTS",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:moments",
+      "aliases": [
+        "np:moment-bounds"
+      ],
+      "kind": "proposition",
+      "lines": [
+        215,
+        235
+      ],
+      "title": "预测器的三项矩界",
+      "statement": "Explicit rational phase weights have total absolute weight<.199 and satisfy positive mean,small squared norm and anisotropy bounds.",
+      "conditions": "Bounds in this stationary fair-bit phase model,not regression or forecasting accuracy. Finite products plus analytic infinite tails required.",
+      "constants": "753 variable rows;total198442946/1e9;mean>.000210,variance<.000145,anisotropy<.000007."
+    },
+    {
+      "id": "CLM-153-NP-DAMPING-BOUNDS",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:damping-bounds",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        327,
+        344
+      ],
+      "title": "近消去模式阻尼成本",
+      "statement": "Admissible digit patterns in a21-site block have weighted costS*<.081 and controlled averaged damping.",
+      "conditions": "Seven-state signed automaton;21active positions inperiod22;not arbitrary polynomial or noise model.",
+      "constants": "x*=.199;eta_i*x*^2<=S*/3;bar_eta/(1-S*/3)<.101."
+    },
+    {
+      "id": "CLM-153-NP-INTEGRAL",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:integral",
+      "aliases": [],
+      "kind": "proposition",
+      "lines": [
+        383,
+        393
+      ],
+      "title": "正乘积的有界积分",
+      "statement": "The positive damped phase product integrates against a fixed bandlimited sinc-square weight no larger than the weight integral.",
+      "conditions": "Fixed complex expanding coordinate;fast/slow frequency gap and exact polynomial relation;not generic data likelihood.",
+      "constants": "psi=(sin(pi*v/10)/(pi*v/10))^2;support Fourier[-.1,.1];five slow frequencies."
+    },
+    {
+      "id": "CLM-153-NP-LOG-INEQUALITY",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:log-inequality",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        478,
+        485
+      ],
+      "title": "带三阶余项的对数下界",
+      "statement": "For0<=x<=.199 and|u|<=2x,log(1+(1-x^2)u)>=u-u^2/2-C*x^3.",
+      "conditions": "This damped factor and restricted range only;not a global log-likelihood inequality.",
+      "constants": "C=2/(3sqrt(1-.199^2))."
+    },
+    {
+      "id": "CLM-153-NP-TYPICAL-GAIN",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:typical-gain",
+      "aliases": [],
+      "kind": "proposition",
+      "lines": [
+        506,
+        513
+      ],
+      "title": "典型词上的渐近增益",
+      "statement": "The logarithmic product on uniform lengthN words exceeds.000220N with probability tending toone.",
+      "conditions": "First N->infinity at fixed truncationH,thenH->infinity;no explicit finite mixing rate or sample threshold.",
+      "constants": "Stationary mean>.000222;boundary widthH+2000;active fraction21/22."
+    },
+    {
+      "id": "CLM-153-NP-THICKENING",
+      "file": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "label": "np:thickening",
+      "aliases": [],
+      "kind": "lemma",
+      "lines": [
+        592,
+        603
+      ],
+      "title": "格点加厚的统一扰动",
+      "statement": "Distinct lattice points admit disjoint fixed-radius balls;the total logproduct changes by at most a fixed constant under thickening.",
+      "conditions": "rho andC independent ofN but not numerically supplied;all expanding coordinate normalization must remain.",
+      "constants": "sum_i |r|^(i-N)<1/(|r|-1);weak pair affects constants."
+    }
+  ],
+  "result_label_aliases_not_extra_results": [
+    "np:root-data",
+    "np:moment-bounds"
+  ],
+  "methods": [
+    {
+      "id": "PART-153-MEASURE-TYPE",
+      "kind": "method",
+      "title": "仿射标准化与纯型",
+      "input": "Fair independent binary series with fixed0<lambda<1",
+      "output": "Bit and sign laws have the same singular/AC type",
+      "conditions": [
+        "Y=2X-(1-lambda)^-1",
+        "Infinite invariant probability,puretype"
+      ],
+      "cannot_transfer": "Finite prefix supports are atomic even for an AC limit;not an empirical density decision"
+    },
+    {
+      "id": "PART-153-DIRECTIONAL-CROWDING",
+      "kind": "method",
+      "title": "不同投影及正交象限计数",
+      "input": "Height1 mod2-irreducible degree dn algebraic units near a center",
+      "output": "Directional crowding predicate R*(n,d,j)",
+      "conditions": [
+        "Deduplicate coefficient vectors,not conjugate roots",
+        "Closed orthants count zeros in either sign"
+      ],
+      "cannot_transfer": "A finite crowding hit does not decide the infinite classification"
+    },
+    {
+      "id": "PART-153-QUANTIFIER-ORDER",
+      "kind": "method",
+      "title": "固定次数后逐层浓缩",
+      "input": "Oneparameter lambda and finite crowding sets",
+      "output": "Singularity equivalent to existsd forallj eventuallyn (or arbitrarilylarge n) one-sidedhits",
+      "conditions": [
+        "d beforej;N may depend onj",
+        "Interval[r-4^-n,r) excludescenter at the rightend"
+      ],
+      "cannot_transfer": "No arbitrary-real finite membership or efficient uniform stopping rule"
+    },
+    {
+      "id": "PART-153-FIRST-BIT-ENTROPY",
+      "kind": "method",
+      "title": "首位可恢复性与熵容量矛盾",
+      "input": "Hypothetically mutually singular first-bit branches atlambda>1/2",
+      "output": "Nonzero common submeasure",
+      "conditions": [
+        "Quantization has O(lambda^-n) bins",
+        "Independent fair bits and conditioning on actual previous bits"
+      ],
+      "cannot_transfer": "Not a practical decoder or finite entropy estimator"
+    },
+    {
+      "id": "PART-153-PREFIX-NEIGHBORS",
+      "kind": "method",
+      "title": "浓缩到首位相反的多邻居",
+      "input": "Singular infinite law and a chosen crowdingQ",
+      "output": "Many distinct opposite-first-bit prefix pairs",
+      "conditions": [
+        "a,c fixed bylambda",
+        "Compact common mass and bins oflengtha*lambda^n"
+      ],
+      "cannot_transfer": "a,c andN_Q uncomputed;does not enumerate cheaply"
+    },
+    {
+      "id": "PART-153-PREFIX-REALIZATION",
+      "kind": "construction",
+      "title": "保前缀的单侧代数根",
+      "input": "Small height1 prefix with constant-1",
+      "output": "Irreducible algebraic unit root just above lambda",
+      "conditions": [
+        "Finite-order nonvanishing andd>2D prime completion",
+        "Residual digit rounding,signchange andintermediatevalue"
+      ],
+      "cannot_transfer": "Nonconstructive constants remain;not a classification algorithm"
+    },
+    {
+      "id": "PART-153-OLD-CLASSES",
+      "kind": "method",
+      "title": "旧Pisot与Garsia适用域",
+      "input": "Exact algebraic parameter and all its conjugates",
+      "output": "Old singular orAC classifications",
+      "conditions": [
+        "Pisot strictly contracting otherconjugates",
+        "Garsia norm2 allconjugates expanding"
+      ],
+      "cannot_transfer": "No universal inference from non-Pisot or full Hausdorff dimension"
+    },
+    {
+      "id": "PART-153-SALEM-MULTIPLIER",
+      "kind": "construction",
+      "title": "单位圆共轭乘子",
+      "input": "Quartic Salem parameter with one nonreal unitcircle pair",
+      "output": "Trace phases with maintained cosinefloor andsmallerrors",
+      "conditions": [
+        "k_next<=exp(1.9L)",
+        "Loss growth2.0301 versusLgrowth2.1"
+      ],
+      "cannot_transfer": "Unknowninitial thresholds;not higher Salemdegree or efficient finite tester"
+    },
+    {
+      "id": "PART-153-WINDOW-SEPARATION",
+      "kind": "method",
+      "title": "相位局部化后分离两测度",
+      "input": "Trace-corrected Fourier phases with selected disjoint signwindows",
+      "output": "Almost-full probability on compact sets of vanishing Lebesguemeasure",
+      "conditions": [
+        "Original phases only approximated,not independent",
+        "M>=exp(.7L),mean>=exp(-L/20) andL2error"
+      ],
+      "cannot_transfer": "No finite detectability or explicit physicalsample budget"
+    },
+    {
+      "id": "PART-153-ALL-ROOT-LATTICE",
+      "kind": "construction",
+      "title": "不依赖不可约性的格嵌入",
+      "input": "Monicdegree31 polynomial with31distinctroots",
+      "output": "Integer remainder lattice andexpandingJacobian",
+      "conditions": [
+        "Allroots andconjugate-pair realdimension retained",
+        "Normalize only expanding coordinates"
+      ],
+      "cannot_transfer": "Not a minimal-polynomial-only lattice;no omitted weakpair"
+    },
+    {
+      "id": "PART-153-LAURENT-CHARACTERS",
+      "kind": "method",
+      "title": "双侧衰减逆与反向词",
+      "input": "Root-split Laurent inverse of1/p andfinitebitwords",
+      "output": "Centered phase characters plusstationaryfair-bit model",
+      "conditions": [
+        "C0 bilateraldecay;C1 prescribedthree shifts",
+        "Lagrange integertrace andwordreversal"
+      ],
+      "cannot_transfer": "No Gaussian/correlated/biased-noise extension by analogy"
+    },
+    {
+      "id": "PART-153-ROOT-DISK-CERTIFICATE",
+      "kind": "method",
+      "title": "有理根圆盘证书",
+      "input": "16rationalcenters plusconjugates atdenominator1e40",
+      "output": "31disjoint rootdisk enclosures if finite checks andanalyticRouche bounds hold",
+      "conditions": [
+        "radius1e-35,integerHornerandseparation",
+        "No script execution inWP087"
+      ],
+      "cannot_transfer": "Static center/code agreement isnot recomputed residual certification"
+    },
+    {
+      "id": "PART-153-ROUNDING-ORDER",
+      "kind": "method",
+      "title": "规定顺序的有理乘积",
+      "input": "Scale1e30 integers androundedcomplex arithmetic",
+      "output": "Deterministic finite approximate moments andweights",
+      "conditions": [
+        "Nearest rounding ties toward positiveinfinity",
+        "Cosineaddition rounded before runningproduct;assertionsenabled"
+      ],
+      "cannot_transfer": "Changing order changescertificate;not defaultfloatingtrig"
+    },
+    {
+      "id": "PART-153-WEAK-TAIL",
+      "kind": "method",
+      "title": "弱共轭长尾的几何求和",
+      "input": "Weakroot reciprocal modulus<.9999 andphasecoefficientarray",
+      "output": "Degree2/4/6 geometric logcos tail withuniformerrorDelta5e-6",
+      "conditions": [
+        "FiniteR3000/H100/K2000 plusanalytic omittedtails",
+        "Tailnot truncated atH100;analytic remainder retained"
+      ],
+      "cannot_transfer": "Finite programdoesnot check everyanalyticerror argument or proveinfiniteproducts"
+    },
+    {
+      "id": "PART-153-PHASE-PREDICTOR",
+      "kind": "construction",
+      "title": "相位预测器及绝对Gram界",
+      "input": "Prescribed pairedmoments atlags30..2000",
+      "output": "753fixedrationalrows withlimitedmean/variance/anisotropy",
+      "conditions": [
+        "Totalabsoluteweight<.199",
+        "Threshold.00026/shrink.68 arecertificate constants,not tunedhere"
+      ],
+      "cannot_transfer": "No time-series forecasting orfree parameter optimization claim"
+    },
+    {
+      "id": "PART-153-DAMPED-AUTOMATON",
+      "kind": "construction",
+      "title": "七态近消去与21/22块",
+      "input": "Specific nearcubic relation ofdegree31root",
+      "output": "Positive phaseproduct withbounded weightedLebesgueintegral",
+      "conditions": [
+        "21active+1gap andatmost5slow terms",
+        "Allowedterminal0,C+orC-;forbiddenfrequencygap"
+      ],
+      "cannot_transfer": "Not a general-purpose likelihoodorfilter without new hypotheses"
+    },
+    {
+      "id": "PART-153-WALSH-ANISOTROPY",
+      "kind": "method",
+      "title": "有限Walsh展开控制各向异性",
+      "input": "Independent fairbits,smalltangentbigrows andabsoluteGram T",
+      "output": "Bound remainingquadraticphasemoment bythreefiniteproducts",
+      "conditions": [
+        "B2<.011/B1<.015/B0<.0032;smallweight<.012",
+        "Actual analyticfactorerrors andindependence required"
+      ],
+      "cannot_transfer": "Finite productmaxima alone do not prove the full moment bound"
+    },
+    {
+      "id": "PART-153-TYPICAL-COVER",
+      "kind": "method",
+      "title": "典型增益抵消膨胀体积",
+      "input": "Lattice/positiveproduct/typicalgrowth/thickening prerequisites",
+      "output": "Asymptotic nearfull-mass cover withLeblength<=C*exp(-6.6e-6*N)",
+      "conditions": [
+        "Mean>.000222;typical>.000220;thickened>.000216",
+        "logM-logbeta<.0002094;unknownC andrho"
+      ],
+      "cannot_transfer": "No explicit usefulfiniteN or rate oftypicalprobability supplied"
+    },
+    {
+      "id": "PART-153-AR1-AFFINE",
+      "kind": "method",
+      "title": "AR(1)平稳分布的对应",
+      "input": "X_next=lambdaX+(1-lambda)B withfairiidB and0<lambda<1",
+      "output": "StationaryX=(1-lambda)/2*Y+1/2 hasBernoulliconvolutiontype",
+      "conditions": [
+        "KernPDF contraction beta meanssource lambda,not source expandingbeta",
+        "p=q=1/2 fornewsource result"
+      ],
+      "cannot_transfer": "No arbitraryAR1/Gaussiannoise/biasedbits orforecast improvement"
+    }
+  ],
+  "formal_scope": {
+    "upstream_formalization_claim": false,
+    "exact_title_and_word_search_scope": "Pinnedformalization/history andOAI/ComparatorChallenges/docs inspected;no Bernoulli-convolution/Pisot/Salem title or exact-wordmatch relevanttoF153 found",
+    "related_read_files": {
+      "math/lean/OAI/MeasureTheory/SelfSimilar/Bernoulli.lean": "Entirefile productshift/independence/ergodicity framework,notmeasuretypeclassification",
+      "math/lean/OAI/MeasureTheory/SelfSimilar/Main.lean": "Entirefile entropy_rate_dimension/lowerHausdorffDimension formula,not ACversussingular",
+      "math/lean/OAI/Analysis/MutuallyUnbiased/MixedSemantics/Canonical153.lean": "First22lines only,unrelatednamespace;not formalproofaudit"
+    },
+    "selected_natural_formal_comparison": "Dimensionformula andBernoulli framework do not establish F153 threeclassification/nonPisotmainclaims orits24namedresults",
+    "local_Lean_build": false,
+    "Comparator": false,
+    "human_spec_review": null,
+    "source_claim_grades": "24C",
+    "complete_dependency_grade": "unknown",
+    "absence_claim_scope": "No proofabsence beyond inspectedscope asserted"
+  },
+  "original_history_scopes": [
+    {
+      "id": "HIST-153-GK-RH",
+      "revision": "2307.01344v2",
+      "locator": "PDF9Section3/Theorem3.2,Lemma3.3andproof",
+      "finding": "Nonprincipalcharacter moduloQ haspolynomialLdegree<degQ,inverseroots modulus1orsqrt(q);logderivativegives |sum chi Lambda|<=d(chi)*q^(n/2).",
+      "limit": "UnderlyingWeil[28]proof unread;not number-fieldGRH or smalls practicalprime enumeration."
+    },
+    {
+      "id": "HIST-153-KERN-AR1",
+      "revision": "2608.14155v1",
+      "locator": "PDF1-3Introduction/Eq1.1-1.3",
+      "finding": "Binaryinnovations0,1-lambda atp,q;stationary law mapsaffinelyto biasedBernoulli convolution;newF153scopeonlyp=q=1/2.",
+      "limit": "Introolderopenquestion andapplicationcontext;mainextremevaluetheorems not audited."
+    },
+    {
+      "id": "HIST-153-KERN-CDF",
+      "revision": "2608.14155v1",
+      "locator": "PDF4-5Eq2.1-2.5andLemma2.1proofonly",
+      "finding": "StationaryCDFsolves F(x)=pF(x/lambda)+qF((x-1+lambda)/lambda);compact-supportcontinuoussolution unique bystrict supnormcontractionafteriteration.",
+      "limit": "No sourcepapernewfiniteapproximationrate;CDF already applies to singular laws,so densitytype alone need not addvalue."
+    },
+    {
+      "id": "HIST-153-BAKER-OPEN",
+      "revision": "2507.21605v2",
+      "locator": "PDF1-2Introduction",
+      "finding": "Selected2025preprint records non-Pisotsingularparameter existence asopen;dimension1 alone does not settle absolutecontinuity.",
+      "limit": "Historical status atthatversion,not certification thatF153solves theproblem or a latestliterature claim."
+    },
+    {
+      "id": "HIST-153-BAKER-RANDOM",
+      "revision": "2507.21605v2",
+      "locator": "PDF1-3Introduction/Theorems1-2",
+      "finding": "Iiduniformcontractionsoverfixedinterval give FourierL1 andcontinuousdensity almostsurelyifgeometricmean>2/pi.",
+      "limit": "Different random-contraction model,not perturbation-robustness theorem foronefixedSalemparameter."
+    }
+  ],
+  "original_acquisitions": [
+    {
+      "file": "gk.pdf",
+      "url": "https://arxiv.org/pdf/2307.01344v2",
+      "revision": "2307.01344v2",
+      "bytes": 308165,
+      "sha256": "436dabe3a3c596e7f59278330bfc553e2457e1be7b8f6df3777a8b4adcbac26d",
+      "retained_fulltext": false,
+      "normal_TLS": true,
+      "download_budget_bytes": 5242880
+    },
+    {
+      "file": "kern.pdf",
+      "url": "https://arxiv.org/pdf/2608.14155v1",
+      "revision": "2608.14155v1",
+      "bytes": 548176,
+      "sha256": "eecf8af63a724bdc9aba9f19ef3f5da119a6e82e153b994b52e97d2593431361",
+      "retained_fulltext": false,
+      "normal_TLS": true,
+      "download_budget_bytes": 5242880
+    },
+    {
+      "file": "baker.pdf",
+      "url": "https://arxiv.org/pdf/2507.21605v2",
+      "revision": "2507.21605v2",
+      "bytes": 540136,
+      "sha256": "f42060c167db3f2b211e9ce5bdd89a002b211da86972e9de8138fc802d316ab7",
+      "retained_fulltext": false,
+      "normal_TLS": true,
+      "download_budget_bytes": 5242880
+    }
+  ],
+  "pixel_inspections": [
+    {
+      "file": "source-criterion.png",
+      "source": "source",
+      "pdf_page": 3,
+      "printed_page": 3,
+      "bytes": 184332,
+      "sha256": "c9d5178401a686ef68a9ca0cefa9d16a5f2233632e4d8b0ba33d2df6d5474b3a",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "source-moments.png",
+      "source": "source",
+      "pdf_page": 20,
+      "printed_page": 20,
+      "bytes": 150565,
+      "sha256": "e209192f6bc817752c80afa7fb20ac0869bcd4441f3266f510081da2c2f30a46",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "source-roots.png",
+      "source": "source",
+      "pdf_page": 26,
+      "printed_page": 26,
+      "bytes": 167749,
+      "sha256": "08b8d143b91364dcb285490ab6eed22cfb5bbaacaf25c330048ddc6cb687b5a6",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "source-certificate-output.png",
+      "source": "source",
+      "pdf_page": 32,
+      "printed_page": 32,
+      "bytes": 164226,
+      "sha256": "d7c9bae6f695f8461d8971056347ab7f5064d5a76c5234d9f16683e8b7e415a6",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "gk-RH.png",
+      "source": "gk",
+      "pdf_page": 9,
+      "printed_page": 9,
+      "bytes": 124011,
+      "sha256": "6d7e196df09908702847953df3f3ed612f9febbf0c5e0a794e5667a4fd225470",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "kern-affine.png",
+      "source": "kern",
+      "pdf_page": 2,
+      "printed_page": 2,
+      "bytes": 253837,
+      "sha256": "c8d31a0bb108e1dfe1816162c06be9f1d004ba53cba743b651e77c91df41bba8",
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "static_verifier_review": {
+    "source_sha256": "67eef9421933cb5eb32f717864d8badf0ad5836edf687fee36295cff18793dea",
+    "AST_parsed_not_imported_or_executed": true,
+    "imports": [
+      "from fractions import Fraction"
+    ],
+    "float_literals": 0,
+    "root_center_representatives_match_TeX": 16,
+    "named_output_integers_match_TeX": 6,
+    "script_executed": false,
+    "arithmetic_certificate_verified": false,
+    "analytic_infinite_product_bounds_verified": false,
+    "scope": "Static data/order contract review only;does not recompute integer equalities or prove analytic tail bounds.",
+    "helper_initial_failure": "First regex required trailing TeX row separator and omitted the final row;fixed to parse two numeric columns. Source table/code were not changed."
+  },
+  "verifier_executed": false,
+  "new_numerical_run": false,
+  "new_candidate_count": 0,
+  "historical_roots_selected_checked": 3,
+  "total_bibliography_roots": 23,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "dependency_closure_complete": false,
+  "version_audit": "Onecurrentmanuscript withunchangedcataloguepath;noF153historicalreplacement orwithdrawalrecord atpinnedrevision. Notremoteversionabsence.",
+  "external_version_caveat": "Kernv1PDFprinteddateAug17 whileHTMLdisplayedAug24;pinPDFbytes,do not infer HTML/PDFbyteidentity. BakerselectedarXivv2July2025notwhole2026journalproofcomparison.",
+  "gaps": [
+    "20bibliographyoriginalbodiesunread;selectedthreeproofclosures incomplete",
+    "24naturalC notLean/humanverified",
+    "Infinitequantifiers/unknownconstants blockfiniteclassifier",
+    "Verifierreadandstaticconstantschecked,notexecuted;analyticboundsnotprovedbyAST",
+    "No admittedrealconsumer,finitebenefit,baselinefairbudget orapplicationtest",
+    "Humanandsecondproviderdeferred"
+  ]
+}

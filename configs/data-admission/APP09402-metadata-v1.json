@@ -1,0 +1,32 @@
+{
+  "id": "APP09402-METADATA-001",
+  "work_package": "WP-088",
+  "scope": "Read-only source qualification, not an embedding experiment or application initial check",
+  "source_path": "data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz",
+  "uncompressed_sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4",
+  "uncompressed_bytes": 550922,
+  "source_version": "scPerturb Zenodo10044268 version1.3,CC-BY-4.0",
+  "runtime": "Existing bundled Python3.12.14 and NumPy2.3.5;temporary unmodified h5py3.14.0 cp312 arm64 wheel with HDF5 1.14.6",
+  "reader_wheel_sha256": "6da62509b7e1d71a7d110478aa25d245dd32c8d9a1daee9d2a42dba8717b047a",
+  "reader_download_budget_bytes": 10485760,
+  "observed_before_registration": "Prior numeric profile and metadata-field names;read-only schema reveals categorical cardinalities/shapes,not decoded cell-level string values or label-conflict outcomes. Not blind discovery.",
+  "expected_shape": [8984, 4],
+  "target_fields": [
+    "obs/_index", "obs/cell_line", "obs/celltype", "obs/disease",
+    "obs/gdo_barcode", "obs/guide_id", "obs/hto", "obs/hto_barcode",
+    "obs/organism", "obs/perturbation", "obs/perturbation_type",
+    "obs/tissue_type", "var/adt_barcode", "var/protein"
+  ],
+  "checks": [
+    "Read every target field with UTF-8 strict decoding;compare h5py asstr with direct bytes decoding",
+    "For categorical columns check integer codes,range,missing -1,categories uniqueness and reconstruction;do not fill unknown strings",
+    "Check declared row/protein lengths,cell identifier uniqueness and normalized whitespace/case collisions without automatic merging",
+    "Record missing,empty/sentinel and category counts separately;metadata read failure is not source missingness",
+    "Independently reconstruct the small CSC matrix and reconcile row counts/features and protein totals with source metadata and prior profile",
+    "Compare exact duplicate feature groups with perturbation and guide labels;report ambiguous groups and empirical majority-label lower bound without deleting legitimate cells",
+    "Check guide-to-perturbation relation and nperts field;labels are experimental annotations,not independent phenotype or causal ground truth",
+    "Preserve fixed version and source hashes;no freshness/trend inference from one file"
+  ],
+  "limits": "No normalization,pseudobulk,geometry fitting,compression,map,all-pair distortion,neighbor score,forecast,clinical or causal test. Original APP09402 10% prediction unchanged and untested. Four-coordinate identity remains mandatory old baseline;finite common-law constructor remains independent gate.",
+  "output_policy": "Aggregate profiles and necessary small category/group examples only;no full matrix/cell-barcode copy. Gzip all generated profiles/logs with verified decompression hashes;remove temporary source/wheel extraction after preserving version,hash and license references. No installation into existing runtimes."
+}

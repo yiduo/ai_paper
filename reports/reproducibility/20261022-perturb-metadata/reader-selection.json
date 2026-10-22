@@ -1,0 +1,11 @@
+{
+  "filename": "h5py-3.14.0-cp312-cp312-macosx_11_0_arm64.whl",
+  "size": 2829207,
+  "url": "https://files.pythonhosted.org/packages/ff/10/20436a6cf419b31124e59fefc78d74cb061ccb22213226a583928a65d715/h5py-3.14.0-cp312-cp312-macosx_11_0_arm64.whl",
+  "digests": {
+    "blake2b_256": "ff1020436a6cf419b31124e59fefc78d74cb061ccb22213226a583928a65d715",
+    "md5": "ca1fb6e63b73ad9d48facf5995c5ba6c",
+    "sha256": "6da62509b7e1d71a7d110478aa25d245dd32c8d9a1daee9d2a42dba8717b047a"
+  },
+  "upload_time_iso_8601": "2025-06-06T14:05:05.061592Z"
+}

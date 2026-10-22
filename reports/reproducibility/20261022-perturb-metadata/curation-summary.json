@@ -1,0 +1,23 @@
+{
+  "generation_id": "GEN-20261022-084",
+  "canonical_before": 3530,
+  "canonical_after": 3538,
+  "new_records": 8,
+  "changed_old_ids": [
+    "APP-094-02",
+    "ASSET-094-PAPALEXI-PROTEIN",
+    "PART-094-PERTURB-SEMANTICS-GATE"
+  ],
+  "exact_old_versions": 3,
+  "old_unchanged": 3527,
+  "new_explicit_edges": 17,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "new_application_run": false,
+  "source_verifier_or_math_experiment": false,
+  "metadata_fields_read": 14,
+  "readability_blocker_resolved": true,
+  "biological_judge_and_constructor_established": false,
+  "original_prediction_unchanged": true,
+  "plan_unchanged": true
+}

@@ -1,0 +1,23 @@
+{
+  "generation_id": "GEN-20261022-083",
+  "canonical_before": 3452,
+  "canonical_after": 3530,
+  "new_records": 78,
+  "new_explicit_edges": 229,
+  "old_nodes_unchanged": 3452,
+  "all_old_edges_unchanged": true,
+  "source_named_results_added": 24,
+  "aliases_not_extra_results": 2,
+  "source_methods_added": 19,
+  "explicit_gaps_added": 3,
+  "original_selected_scopes": 5,
+  "literature_entries": 23,
+  "selected_original_roots": 3,
+  "actual_read_families": 48,
+  "source_drafts": 42,
+  "full_family_count": 0,
+  "full_history_count": 0,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "new_numerical_run": false
+}

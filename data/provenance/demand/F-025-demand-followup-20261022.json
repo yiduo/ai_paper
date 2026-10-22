@@ -1,0 +1,334 @@
+{
+  "work_package": "WP-089",
+  "generation_id": "GEN-20261022-085",
+  "recorded_at": "2026-10-22T03:59:58.738435+00:00",
+  "base_local_commit": "f2ae293",
+  "family_id": "F-025",
+  "candidate": "APP-025-01",
+  "scope": "Bounded three original source projects; source/consumer qualification, not an application experiment",
+  "search_queries": [
+    "site:github.com/sympy/sympy \"egyptian_fraction\" \"denominator\" \"issue\"",
+    "\"Egyptian fraction\" \"include\" \"specified denominator\" software",
+    "\"Egyptian fraction\" \"fixed denominator\" \"program\"",
+    "site:github.com/sympy/sympy/issues \"egyptian\"",
+    "\"EgyptianFraction\" \"denominators\" \"Options\"",
+    "\"egyptian fractions\" \"required\" \"denominators\" algorithm",
+    "site:ics.uci.edu/~eppstein/numth/egypt \"restricted\""
+  ],
+  "original_source_projects": 3,
+  "source_groups": [
+    "SymPy original issue7221 body and returned comments",
+    "Eppstein author site and Python CLI",
+    "Martin-Shi2025 original paper and associated pinned Dense-Egyptian-Fractions implementation"
+  ],
+  "retrieval": [
+    {
+      "file": "sympy-issue7221.json",
+      "url": "https://api.github.com/repos/sympy/sympy/issues/7221",
+      "retrieved_at": "2026-10-22T03:53:12.837268+00:00",
+      "final_url": "https://api.github.com/repos/sympy/sympy/issues/7221",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "etag": "W/\"ca70aa9bc6934c2d15a039f6230242ee661f6f39d6deeacf9f1750b38dfdac89\"",
+      "last_modified": "Tue, 12 May 2020 00:04:21 GMT",
+      "bytes": 5265,
+      "sha256": "ca70aa9bc6934c2d15a039f6230242ee661f6f39d6deeacf9f1750b38dfdac89",
+      "success": true
+    },
+    {
+      "file": "sympy-issue7221-comments.json",
+      "url": "https://api.github.com/repos/sympy/sympy/issues/7221/comments?per_page=100",
+      "retrieved_at": "2026-10-22T03:53:14.307884+00:00",
+      "final_url": "https://api.github.com/repos/sympy/sympy/issues/7221/comments?per_page=100",
+      "status": 200,
+      "content_type": "application/json; charset=utf-8",
+      "etag": "W/\"0a5d555b3b82ef322c1d7cd81dd281e5c4e9619dba2b0604cd64e0d01680b978\"",
+      "last_modified": null,
+      "bytes": 42654,
+      "sha256": "0a5d555b3b82ef322c1d7cd81dd281e5c4e9619dba2b0604cd64e0d01680b978",
+      "success": true
+    },
+    {
+      "file": "eppstein-egypt-index.html",
+      "url": "https://ics.uci.edu/~eppstein/numth/egypt/",
+      "retrieved_at": "2026-10-22T03:53:15.930068+00:00",
+      "final_url": "https://ics.uci.edu/~eppstein/numth/egypt/",
+      "status": 200,
+      "content_type": "text/html",
+      "etag": "\"4c68-64de3f1b5fa31\"",
+      "last_modified": "Thu, 26 Mar 2026 02:14:28 GMT",
+      "bytes": 19560,
+      "sha256": "c085eca172e12c80e94d3c1fea4f27b5cda95419dff2a10d9376d647dc3799c0",
+      "success": true
+    },
+    {
+      "file": "eppstein-egypt.py",
+      "url": "https://ics.uci.edu/~eppstein/numth/egypt/egypt.py",
+      "retrieved_at": "2026-10-22T03:53:16.885593+00:00",
+      "final_url": "https://ics.uci.edu/~eppstein/numth/egypt/egypt.py",
+      "status": 200,
+      "content_type": "text/x-python",
+      "etag": "\"8426-5ee51082f084b\"",
+      "last_modified": "Fri, 25 Nov 2022 20:04:40 GMT",
+      "bytes": 33830,
+      "sha256": "effc73f59f155d6f544691f280fee391e62e830982f26d5f2ce31a47d401e899",
+      "success": true
+    },
+    {
+      "file": "restricted-denominators.pdf",
+      "url": "https://personal.math.ubc.ca/~gerg/papers/downloads/AEFRRD.pdf",
+      "retrieved_at": "2026-10-22T03:53:18.039955+00:00",
+      "final_url": "https://personal.math.ubc.ca/~gerg/papers/downloads/AEFRRD.pdf",
+      "status": 200,
+      "content_type": "application/pdf",
+      "etag": "\"634d7-62c942580fea2\"",
+      "last_modified": "Sun, 26 Jan 2025 04:10:56 GMT",
+      "bytes": 406743,
+      "sha256": "091fda9c8319208dcf32e95370ead1774c88b7fb596285215d6548bf36b321e8",
+      "success": true
+    },
+    {
+      "file": "dense-master-commit.json",
+      "url": "https://api.github.com/repos/ChlorophyII/Dense-Egyptian-Fractions/commits/master",
+      "retrieved_at": "2026-10-22T03:54:45.532544+00:00",
+      "status": 200,
+      "final_url": "https://api.github.com/repos/ChlorophyII/Dense-Egyptian-Fractions/commits/master",
+      "etag": "W/\"e0695b963b71cca317cfe865a237a1d1bf5bb61b0e753a043a696539dd353a72\"",
+      "success": true,
+      "bytes": 13302,
+      "sha256": "e0695b963b71cca317cfe865a237a1d1bf5bb61b0e753a043a696539dd353a72"
+    },
+    {
+      "file": "dense-README.md",
+      "url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/README.md",
+      "retrieved_at": "2026-10-22T03:54:46.679446+00:00",
+      "success": false,
+      "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)'))"
+    },
+    {
+      "file": "dense-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/LICENSE.txt",
+      "retrieved_at": "2026-10-22T03:54:48.312431+00:00",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/LICENSE.txt",
+      "etag": "\"2035a1297b90a63fca731c56c14b6cc5da0a23f35adee29a4d5e4492c636c9cd\"",
+      "success": true,
+      "bytes": 1064,
+      "sha256": "478326648d4c25e0e797f48ae5e3a8d8cbcd7c4c412990cdb036c520afb93808"
+    },
+    {
+      "file": "dense-u_frac.py",
+      "url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/u_frac.py",
+      "retrieved_at": "2026-10-22T03:54:49.232510+00:00",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/u_frac.py",
+      "etag": "\"3ca3e5049a9f47dbcaf5592baaab2ca756e4eb69eacc21720cc9970cdf25cf67\"",
+      "success": true,
+      "bytes": 3519,
+      "sha256": "3f7f510146aac288b961a70574e74bf70f2073f0489e900b3db318304f59abe1"
+    },
+    {
+      "file": "dense-ufrac-conjecture.scm",
+      "url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/ufrac-conjecture.scm",
+      "retrieved_at": "2026-10-22T03:54:50.167948+00:00",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/ufrac-conjecture.scm",
+      "etag": "\"2e7c1546dda34d6374444d268871a8c9620b77488b31414ff1dec75078df6665\"",
+      "success": true,
+      "bytes": 1001,
+      "sha256": "9b8b335a335c457d165b4b960e11e16dd90de004ec7fcaf5d2cd23bb2a0c8749"
+    },
+    {
+      "file": "dense-ufrac.scm",
+      "url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/ufrac.scm",
+      "retrieved_at": "2026-10-22T03:54:51.118669+00:00",
+      "status": 200,
+      "final_url": "https://raw.githubusercontent.com/ChlorophyII/Dense-Egyptian-Fractions/30a3915c898e45f61b225b79c3efc1c9f765d2c5/ufrac.scm",
+      "etag": "\"a2d352948e20dba915dd499e1205a8e9ad49de671ec3f2ed2dc331d1ed4eb583\"",
+      "success": true,
+      "bytes": 8486,
+      "sha256": "707d922b7cec5a757275c63311b8900e37d578a29ed4ef2f68a08b89b0622a18"
+    },
+    {
+      "file": "dense-README.md",
+      "url": "https://api.github.com/repos/ChlorophyII/Dense-Egyptian-Fractions/contents/README.md?ref=30a3915c898e45f61b225b79c3efc1c9f765d2c5",
+      "retrieved_at": "2026-10-22T03:55:55.708771+00:00",
+      "fallback_for": "rawTLSunexpectedEOF;noTLSbypass",
+      "success": true,
+      "bytes": 15097,
+      "sha256": "0ad5051e7d9e4534798f03ee93f6e6fd74638b46945d9b2fbe1f7fbb10917f44",
+      "git_blob_sha1": "49c548e95abf765c3ba9f484aec1015e620553ca",
+      "api_response_sha256": "483de1036f26a7fe349856ff8b9f235cb27238691d730cea2450943c9a6c6a5d"
+    }
+  ],
+  "temporary_derivatives": [
+    {
+      "file": "restricted-denominators.txt",
+      "bytes": 65544,
+      "sha256": "f68194f037ed327f68405b482885937911d65f76c6899f85bc9e8345baa2fdb0"
+    },
+    {
+      "file": "theorem-page7.png",
+      "bytes": 324585,
+      "sha256": "c7144e5ce2b0e10997bcd807074738172764bbe618a495827bf46a7128f3586a"
+    },
+    {
+      "file": "caller-page22.png",
+      "bytes": 367980,
+      "sha256": "35e76beeb27ac89007ffd28fae58563cc7305ef1bf5dc55a931a00e1e9b1cc2d"
+    }
+  ],
+  "failures": [
+    {
+      "kind": "web_pdf_fetch_timeout",
+      "url": "https://personal.math.ubc.ca/~gerg/papers/downloads/AEFRRD.pdf",
+      "resolved_by": "normal TLS bounded direct retrieval; exact SHA retained"
+    },
+    {
+      "kind": "web_python_content_unsupported",
+      "url": "https://ics.uci.edu/~eppstein/numth/egypt/egypt.py",
+      "resolved_by": "normal TLS bounded raw text retrieval"
+    },
+    {
+      "kind": "raw_README_TLS_EOF",
+      "resolved_by": "official content API for the same commit; Git blob SHA1 checked; no TLS bypass"
+    }
+  ],
+  "issue": {
+    "url": "https://github.com/sympy/sympy/issues/7221",
+    "updated_at": "2014-06-04T16:45:45Z",
+    "state": "closed",
+    "body_checked": true,
+    "returned_comment_objects": 20,
+    "metadata_comment_count": 10,
+    "comments_scope": "All20returned body texts read, one page; count discrepancy unresolved, no complete history claim",
+    "exact_marker_demand_in_checked_text": false
+  },
+  "eppstein": {
+    "url": "https://ics.uci.edu/~eppstein/numth/egypt/egypt.py",
+    "lines": 1086,
+    "read_ranges": [
+      [
+        1,
+        145
+      ],
+      [
+        700,
+        750
+      ],
+      [
+        810,
+        1086
+      ]
+    ],
+    "fully_read": false,
+    "actual_runtime_executed": false,
+    "redistributed": false,
+    "license": "No explicit redistribution license observed in selected file; exact hash and paraphrased contract only"
+  },
+  "martin_shi": {
+    "title": "An algorithm for Egyptian fraction representations with restricted denominators",
+    "authors": [
+      "Greg Martin",
+      "Yue Shi"
+    ],
+    "year": 2025,
+    "doi": "10.2140/involve.2025.18.1",
+    "url": "https://personal.math.ubc.ca/~gerg/papers/downloads/AEFRRD.pdf",
+    "pdf_sha256": "091fda9c8319208dcf32e95370ead1774c88b7fb596285215d6548bf36b321e8",
+    "selected_scope": "Printed1-2;6-7Theorem3.2;13-18selected control/earlystop/implementation;19-20selected author timings;21-22actual second-largest application",
+    "visual_pages": [
+      7,
+      22
+    ],
+    "full_proof_review": false,
+    "runtime_reproduced": false,
+    "source_heading_note": "Printed section5.2 says Second-smallest denominators but its explicit task and examples are second-largest; record actual explicit contract, no source correction asserted"
+  },
+  "old_software": {
+    "commit": "30a3915c898e45f61b225b79c3efc1c9f765d2c5",
+    "repository": "https://github.com/ChlorophyII/Dense-Egyptian-Fractions",
+    "snapshot": "data/provenance/tools/dense-egyptian-30a3915.json.gz",
+    "gzip_sha256": "abc5abca2d46367dce421b0b2d4a311c2aab9618f3bf6782af9b4e1b2503de3d",
+    "raw_snapshot_sha256": "ed3c0332b0e97c49a8fd0dcc072f8b64ece4a8082360bae27ee4062d6b579783",
+    "files": {
+      "README.md": {
+        "bytes": 15097,
+        "sha256": "0ad5051e7d9e4534798f03ee93f6e6fd74638b46945d9b2fbe1f7fbb10917f44",
+        "lines": 246
+      },
+      "LICENSE.txt": {
+        "bytes": 1064,
+        "sha256": "478326648d4c25e0e797f48ae5e3a8d8cbcd7c4c412990cdb036c520afb93808",
+        "lines": 21
+      },
+      "u_frac.py": {
+        "bytes": 3519,
+        "sha256": "3f7f510146aac288b961a70574e74bf70f2073f0489e900b3db318304f59abe1",
+        "lines": 104
+      },
+      "ufrac-conjecture.scm": {
+        "bytes": 1001,
+        "sha256": "9b8b335a335c457d165b4b960e11e16dd90de004ec7fcaf5d2cd23bb2a0c8749",
+        "lines": 35
+      },
+      "ufrac.scm": {
+        "bytes": 8486,
+        "sha256": "707d922b7cec5a757275c63311b8900e37d578a29ed4ef2f68a08b89b0622a18",
+        "lines": 256
+      }
+    },
+    "license": "MIT; full original notice included in compressed snapshot",
+    "exact_marker_related_caller": true,
+    "current_APP_contract_eligible": false,
+    "caller_contract": "Two fixed largest denominators d,c*d; bounded residual denominator range; not arbitrary single-marker expansion",
+    "transitive_dependencies_read": false,
+    "actual_runtime_executed": false
+  },
+  "runtime": {
+    "python": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "scheme_commands": {
+      "scheme": null,
+      "chez": null,
+      "chezscheme": null,
+      "racket": null,
+      "guile": null
+    },
+    "environments": [
+      {
+        "path": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+        "returncode": 0,
+        "stdout": "{\"executable\": \"/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3\", \"version\": \"3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]\", \"sympy_spec\": \"None\"}\n",
+        "stderr": ""
+      },
+      {
+        "path": "/opt/homebrew/opt/python@3.14/bin/python3.14",
+        "returncode": 0,
+        "stdout": "{\"executable\": \"/opt/homebrew/opt/python@3.14/bin/python3.14\", \"version\": \"3.14.8 (main, Sep 30 2026, 17:55:09) [Clang 21.0.0 (clang-2100.3.34.2)]\", \"sympy_spec\": \"None\"}\n",
+        "stderr": ""
+      }
+    ]
+  },
+  "findings": [
+    "SymPy issue7221 original body requests ordinary proper-rational decomposition and optional shortest-among-methods output; its20 returned comments discuss resource blowup and output tests, not a specified exact-marker request. This is historical public demand, not evidence of a current unresolved feature.",
+    "Issue metadata comments=10 differs from the20 returned comment objects. Both response SHAs retained; do not claim a complete issue history or silently replace either count.",
+    "Eppstein author-hosted1086-line Python file actually inspected at1-145,700-750,810-1086: constraint predicate, default greedy search, filters, full option definitions and interfaces. Default named greedy enumerates possible denominators; it is not just the one-path Sylvester algorithm.",
+    "Eppstein options include length, min/maxdenominator, parity, squares, repeats and enumeration/minimization filters. The inspected option definitions do not expose a required-marker option. The subroutine contains keywords.iteritems(); compatibility was not executed or repaired. No blanket claim about all other methods or software versions.",
+    "Martin-Shi2025 author PDF23pages: selected1-2,6-7(Theorem3.2),13-18(selected UFRAC/KILL/early-stop/implementation interfaces),19-20(selected reported costs),21-22(second-largest application). Not a full proof or runtime audit; two actual formula/contract pages7and22 visually checked.",
+    "The selected old finite-multiset algorithm returns representations from a finite allowed multiset, with an early-stop variant; a distinct input set is needed for distinct denominators. Finite search and unrestricted short expansion are different output contracts.",
+    "A real published mathematical-software caller asks for prescribed second-largest d and largest c*d, with residual target1-1/d-1/(c*d) and bounded remaining denominators. Current pinned Scheme caller sld actually reserves both and calls ufrac-dfs on a constrained range. This establishes related public computational use, not an engineering deployment or an eligible caller for the current single-marker-only APP contract.",
+    "Pinned dense-egyptian commit30a3915: full selected files read: README.md=246lines, LICENSE.txt=21lines, u_frac.py=104lines, ufrac-conjecture.scm=35lines, ufrac.scm=256lines. Transitive Scheme math/branch/multithread/prime modules and witnesses were not downloaded or audited; no full software proof/compatibility claim.",
+    "Python wrapper actually spawns chez and loads compiled ufrac.so; it is not a standalone Python implementation. No scheme/chez/chezscheme/racket/guile command on current PATH and no SymPy in inspected Python3.12.14 or3.14.8. No install, execution, upstream tests or benchmark; old published timings are author reports, not measured here.",
+    "Existing source-guided small-tail prefix does not guarantee two markers, a specified second-largest rank, a finite allowed set, shortest output or maximum denominator. A smaller positive tail excludes reserved reciprocals but can introduce larger denominators, conflicting with rank constraints.",
+    "Stop the bounded three-project/source qualification here. Retain APP02501 pending, lower immediate implementation priority; original prediction, conditional-v2 plan, empty run IDs, theory grade and initial-check count unchanged. No global absence inference and no formal rejection."
+  ],
+  "decision": "Do not install/benchmark the current wrapper solely for card count; retain candidate pending and route actual rank/finite-set constraints to a separate unestablished gate",
+  "new_candidate_count": 0,
+  "new_initial_checks": 0,
+  "new_application_run": false,
+  "original_prediction_unchanged": true,
+  "conditional_plan_unchanged": true,
+  "source_reading_coverage_unchanged": true,
+  "human_review": null,
+  "second_model_provider": null
+}

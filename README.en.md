@@ -44,7 +44,9 @@ The Linux workflow covers 13 archived replays. EXP076 matched complete raw and s
 | [Application cards](reports/cards/) | Hypotheses, dependencies, objections, and actual checks |
 | [Experiment archives](experiments/runs/) | Specifications, compressed raw results, source snapshots, and manifests |
 | [Retrospectives](reports/retrospectives/) | Comparisons of different routes and the possibility that old methods suffice |
-| [Latest F332 audit](reports/F332-family-acceptance-audit.md) | Actual proof reading and the reasons complete-family credit remains zero |
+| [F332 audit](reports/F332-family-acceptance-audit.md) | Actual proof reading and reasons complete-family credit remains zero |
+| [F153 reading](reports/bernoulli-F153-reading.md) | Infinite classification, limited verifier scope, and the unestablished AR(1) benefit |
+| [Real perturbation metadata](reports/F094-metadata-readiness.md) | Resolved decoding, actual label collisions, and remaining application prerequisites |
 
 Most detailed research records are in Chinese. This release provides English entry documents, rather than claiming every historical record has been translated.
 
@@ -59,3 +61,5 @@ Register numerical specifications before running experiments. Retain adverse and
 Original project code, documentation, and derived records are licensed under [Apache-2.0](LICENSE). Third-party items keep their own licenses and attribution in [NOTICE](NOTICE); this license does not relicense upstream manuscripts or external papers. Sensitive directions are represented only by necessary routing information in the public graph.
 
 Publication status and its verification receipt are recorded in [state/publication.json](state/publication.json). Publication does not complete the research program, grant a mathematical credibility upgrade, or imply approval for engineering deployment. See [publication scope](docs/publication.md).
+
+The [bounded symbolic-demand follow-up](reports/F025-demand-followup.md) distinguishes a real constrained old caller from the proposed single-marker feature. [Retrospective 032](reports/retrospectives/032-demand-constraints-and-next-counting-route.md) keeps all unmet phase-one targets and selects unread F113 next.

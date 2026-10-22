@@ -5,7 +5,7 @@
 | 要求 | 目标 | 实际结果 | 证据路径或命令 | 差距与状态 |
 | --- | --- | --- | --- | --- |
 | 基线成果族登记 | 372 | 372 | `data/corpus/families.jsonl` | 完成登记；并不等于完成拆解 |
-| 全文拆解草稿（单列） | 372 | 41 | `data/graph/nodes.jsonl:family_analysis` | 逐命题/方法/常数与规格草案；不等于完整谱系或人工审核 |
+| 全文拆解草稿（单列） | 372 | 42 | `data/graph/nodes.jsonl:family_analysis` | 逐命题/方法/常数与规格草案；不等于完整谱系或人工审核 |
 | 完整拆解与谱系 | 372 | 0 | `data/graph/reading_coverage.json` | 未完成，局部阅读与草稿不计为完整研究 |
 | 完整历史谱系 | 372 | 0 | `data/graph/nodes.jsonl` | 局部原始文献核对，依赖闭包仍缺失 |
 | 候选连接 | 500 | 40 | `data/graph/nodes.jsonl` | 未完成 |

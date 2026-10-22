@@ -2,7 +2,7 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；47族有实际阅读记录；42份族分析、41份全文草稿；40候选、13实际检验。
+372族登记；48族有实际阅读记录；43份族分析、42份全文草稿；40候选、13实际检验。
 
 其中18候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。10候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
@@ -13,7 +13,7 @@
 | 候选 | 成果族 | 已有检验 | 旧方法显式边 | 明确待补闸门 | 条件和来源 |
 | --- | --- | --- | --- | --- | --- |
 | [APP-021-01](index.html#APP-021-01) | F-021 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-021-01.md)：原文、方法、baseline、limitations、revisit_when |
-| [APP-025-01](index.html#APP-025-01) | F-025 | 尚未运行 | 3 | [PART-025-CONSUMER-GATE](index.html#PART-025-CONSUMER-GATE)、[PART-025-BITCOST-GATE](index.html#PART-025-BITCOST-GATE)、[PART-025-SYMPY-RUNTIME-GATE](index.html#PART-025-SYMPY-RUNTIME-GATE) | [卡片](../cards/APP-025-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-025-01](index.html#APP-025-01) | F-025 | 尚未运行 | 5 | [PART-025-CONSUMER-GATE](index.html#PART-025-CONSUMER-GATE)、[PART-025-BITCOST-GATE](index.html#PART-025-BITCOST-GATE)、[PART-025-SYMPY-RUNTIME-GATE](index.html#PART-025-SYMPY-RUNTIME-GATE) | [卡片](../cards/APP-025-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-076-01](index.html#APP-076-01) | F-076 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-076-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-076-02](index.html#APP-076-02) | F-076 | 有run；按原预测结果 | 2 | 未显式标记 | [卡片](../cards/APP-076-02.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-089-01](index.html#APP-089-01) | F-089 | 尚未运行 | 2 | 未显式标记 | [卡片](../cards/APP-089-01.md)：原文、方法、baseline、limitations、revisit_when |
@@ -81,7 +81,7 @@
 | [F-022 · The weak inhomogeneous Duffin–Schaeffer conjecture.](index.html#F-022) | Number theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-023 · Patterson's first moment for cubic Gauss sums.](index.html#F-023) | Number theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-024 · An asymptotic formula for the number of totients.](index.html#F-024) | Number theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-025 · Short Egyptian fractions.](index.html#F-025) | Number theory | 有选读记录 | [全文草稿](../families/F-025.md) | 19／24 | 1 |
+| [F-025 · Short Egyptian fractions.](index.html#F-025) | Number theory | 有选读记录 | [全文草稿](../families/F-025.md) | 19／27 | 1 |
 | [F-026 · Positive lower density of large prime gaps.](index.html#F-026) | Number theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-027 · Potential integral density on curve character varieties.](index.html#F-027) | Number theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-028 · Uniformly bounded components of Gaussian-prime graphs.](index.html#F-028) | Number theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -147,7 +147,7 @@
 | [F-091 · Logarithmic and <i>L</i><sub><i>p</i></sub> Brunn–Minkowski inequalities and the B-conjecture.](index.html#F-091) | Convex and metric geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-092 · The optimal order of convex-body covering density.](index.html#F-092) | Convex and metric geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-093 · Dimension-free logarithmic Sobolev inequality for subgaussian log-concave measures.](index.html#F-093) | Convex and metric geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-094 · Subpolynomial dimension reduction in <i>L</i><sub><i>p</i></sub>.](index.html#F-094) | Convex and metric geometry | 有选读记录 | [全文草稿](../families/F-094.md) | 7／20 | 2 |
+| [F-094 · Subpolynomial dimension reduction in <i>L</i><sub><i>p</i></sub>.](index.html#F-094) | Convex and metric geometry | 有选读记录 | [全文草稿](../families/F-094.md) | 7／24 | 2 |
 | [F-095 · Hyperbolicity cones without semidefinite lifts.](index.html#F-095) | Convex and metric geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-096 · The Gaussian propeller conjecture in every dimension.](index.html#F-096) | Convex and metric geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-097 · The Euclidean Steinitz–Bergström bound.](index.html#F-097) | Convex and metric geometry | 有选读记录 | 未有族分析 | 1／0 | 1 |
@@ -205,7 +205,7 @@
 | [F-150 · Weak mixing of triangular billiards with an irrational angle.](index.html#F-150) | Dynamical systems and ergodic theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-151 · A <i>C</i><sup>1</sup> counterexample to the entropy conjecture.](index.html#F-151) | Dynamical systems and ergodic theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-152 · Zero entropy does not guarantee a smooth positive-volume model.](index.html#F-152) | Dynamical systems and ergodic theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-153 · Arithmetic classification and non-Pisot singularity for Bernoulli convolutions.](index.html#F-153) | Dynamical systems and ergodic theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-153 · Arithmetic classification and non-Pisot singularity for Bernoulli convolutions.](index.html#F-153) | Dynamical systems and ergodic theory | 有选读记录 | [全文草稿](../families/F-153.md) | 24／26 | 0 |
 | [F-154 · Pointwise multiple ergodic averages for mixing transformations.](index.html#F-154) | Dynamical systems and ergodic theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-155 · A counterexample to periodic tiling in dimension three.](index.html#F-155) | Combinatorics | 有选读记录 | [全文草稿](../families/F-155.md) | 21／19 | 0 |
 | [F-156 · Borsuk's conjecture fails in dimension nine.](index.html#F-156) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

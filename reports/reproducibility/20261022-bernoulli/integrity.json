@@ -1,0 +1,224 @@
+{
+  "recorded_at": "2026-10-22T03:08:24.787227+00:00",
+  "old_canonical_unchanged": 3452,
+  "new_canonical": 78,
+  "canonical_total": 3530,
+  "all_old_edges_exact": true,
+  "coverage_prior_exact": true,
+  "source_claims": 24,
+  "source_claim_aliases": 2,
+  "source_grades": "24C",
+  "complete_dependency_grade": "unknown",
+  "local_source_hashes_verified": 5395,
+  "external_annotations": 393,
+  "canonical_citations": 5788,
+  "impact_cases": [
+    {
+      "seed": "HIST-153-GK-RH",
+      "required": [
+        "CLM-153-CLS-PRESCRIBED-PRIME",
+        "CLM-153-CLS-REALIZATION",
+        "CLM-153-CLS-CLASSIFICATION"
+      ],
+      "excluded": [
+        "CLM-153-SAL-MAIN",
+        "CLM-153-NP-MAIN",
+        "APP-094-02",
+        "APP-332-01"
+      ],
+      "affected": [
+        "CLM-153-CLS-CLASSIFICATION",
+        "CLM-153-CLS-GARSIA",
+        "CLM-153-CLS-PISOT",
+        "CLM-153-CLS-PRESCRIBED-PRIME",
+        "CLM-153-CLS-REALIZATION",
+        "HIST-153-GK-RH",
+        "PART-153-DIRECTIONAL-CROWDING",
+        "PART-153-FINITE-CLASSIFIER-GAP",
+        "PART-153-OLD-CLASSES",
+        "PART-153-PREFIX-REALIZATION",
+        "PART-153-QUANTIFIER-ORDER"
+      ]
+    },
+    {
+      "seed": "CLM-153-CLS-CLASSIFICATION",
+      "required": [
+        "CLM-153-CLS-GARSIA",
+        "CLM-153-CLS-PISOT",
+        "PART-153-QUANTIFIER-ORDER"
+      ],
+      "excluded": [
+        "CLM-153-SAL-MAIN",
+        "CLM-153-NP-MAIN",
+        "PART-153-AR1-AFFINE"
+      ],
+      "affected": [
+        "CLM-153-CLS-CLASSIFICATION",
+        "CLM-153-CLS-GARSIA",
+        "CLM-153-CLS-PISOT",
+        "PART-153-DIRECTIONAL-CROWDING",
+        "PART-153-FINITE-CLASSIFIER-GAP",
+        "PART-153-OLD-CLASSES",
+        "PART-153-QUANTIFIER-ORDER"
+      ]
+    },
+    {
+      "seed": "CLM-153-SAL-CONSTRUCTION",
+      "required": [
+        "CLM-153-SAL-LOSS",
+        "CLM-153-SAL-MAIN",
+        "CLM-153-SAL-EXAMPLES"
+      ],
+      "excluded": [
+        "CLM-153-NP-MAIN",
+        "CLM-153-CLS-CLASSIFICATION"
+      ],
+      "affected": [
+        "CLM-153-SAL-CONSTRUCTION",
+        "CLM-153-SAL-EXAMPLES",
+        "CLM-153-SAL-LOSS",
+        "CLM-153-SAL-MAIN",
+        "PART-153-SALEM-MULTIPLIER",
+        "PART-153-WINDOW-SEPARATION"
+      ]
+    },
+    {
+      "seed": "CLM-153-SAL-MAIN",
+      "required": [
+        "CLM-153-SAL-EXAMPLES",
+        "PART-153-WINDOW-SEPARATION"
+      ],
+      "excluded": [
+        "CLM-153-NP-MAIN",
+        "CLM-153-CLS-CLASSIFICATION"
+      ],
+      "affected": [
+        "CLM-153-SAL-EXAMPLES",
+        "CLM-153-SAL-MAIN",
+        "PART-153-WINDOW-SEPARATION"
+      ]
+    },
+    {
+      "seed": "PART-153-WEAK-TAIL",
+      "required": [
+        "CLM-153-NP-MOMENTS",
+        "CLM-153-NP-TYPICAL-GAIN",
+        "CLM-153-NP-MAIN"
+      ],
+      "excluded": [
+        "CLM-153-NP-ROOTS",
+        "CLM-153-SAL-MAIN",
+        "CLM-153-CLS-CLASSIFICATION"
+      ],
+      "affected": [
+        "CLM-153-NP-MAIN",
+        "CLM-153-NP-MOMENTS",
+        "CLM-153-NP-TYPICAL-GAIN",
+        "PART-153-CERT-EXECUTION-GAP",
+        "PART-153-PHASE-PREDICTOR",
+        "PART-153-ROUNDING-ORDER",
+        "PART-153-TYPICAL-COVER",
+        "PART-153-WALSH-ANISOTROPY",
+        "PART-153-WEAK-TAIL"
+      ]
+    },
+    {
+      "seed": "PART-153-ROOT-DISK-CERTIFICATE",
+      "required": [
+        "CLM-153-NP-ROOTS",
+        "CLM-153-NP-LATTICE",
+        "CLM-153-NP-MAIN"
+      ],
+      "excluded": [
+        "CLM-153-SAL-MAIN",
+        "CLM-153-CLS-CLASSIFICATION",
+        "APP-094-02"
+      ],
+      "affected": [
+        "CLM-153-NP-LATTICE",
+        "CLM-153-NP-MAIN",
+        "CLM-153-NP-ROOTS",
+        "CLM-153-NP-THICKENING",
+        "CLM-153-NP-WORD-CHARACTER",
+        "PART-153-ALL-ROOT-LATTICE",
+        "PART-153-LAURENT-CHARACTERS",
+        "PART-153-ROOT-DISK-CERTIFICATE",
+        "PART-153-TYPICAL-COVER"
+      ]
+    },
+    {
+      "seed": "CHECK-153-VERIFIER-SCOPE",
+      "required": [],
+      "excluded": [
+        "CLM-153-NP-ROOTS",
+        "CLM-153-NP-MOMENTS",
+        "CLM-153-NP-MAIN"
+      ],
+      "affected": [
+        "CHECK-153-VERIFIER-SCOPE"
+      ]
+    },
+    {
+      "seed": "LIT-153-GARSIA1962",
+      "required": [],
+      "excluded": [
+        "CLM-153-CLS-GARSIA",
+        "CLM-153-CLS-CLASSIFICATION",
+        "CLM-153-NP-MAIN"
+      ],
+      "affected": [
+        "LIT-153-GARSIA1962"
+      ]
+    },
+    {
+      "seed": "HIST-153-KERN-AR1",
+      "required": [
+        "PART-153-AR1-AFFINE",
+        "PART-153-AR1-CONSUMER-GAP",
+        "XPL-153-TEN-DOMAINS"
+      ],
+      "excluded": [
+        "CLM-153-CLS-CLASSIFICATION",
+        "CLM-153-SAL-MAIN",
+        "CLM-153-NP-MAIN",
+        "APP-119-01"
+      ],
+      "affected": [
+        "HIST-153-KERN-AR1",
+        "PART-153-AR1-AFFINE",
+        "PART-153-AR1-CONSUMER-GAP",
+        "XPL-153-TEN-DOMAINS"
+      ]
+    },
+    {
+      "seed": "PART-153-FINITE-CLASSIFIER-GAP",
+      "required": [],
+      "excluded": [
+        "CLM-153-CLS-CLASSIFICATION",
+        "CLM-153-SAL-MAIN",
+        "CLM-153-NP-MAIN",
+        "APP-094-02"
+      ],
+      "affected": [
+        "PART-153-FINITE-CLASSIFIER-GAP"
+      ]
+    },
+    {
+      "seed": "HIST-153-BAKER-RANDOM",
+      "required": [],
+      "excluded": [
+        "CLM-153-SAL-MAIN",
+        "CLM-153-NP-MAIN",
+        "XPL-153-TEN-DOMAINS"
+      ],
+      "affected": [
+        "HIST-153-BAKER-RANDOM"
+      ]
+    }
+  ],
+  "experiment_files_unchanged": 78,
+  "new_numerical_run": false,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "original_source_verifier_executed": false
+}

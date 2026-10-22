@@ -1,0 +1,82 @@
+{
+  "recorded_at": "2026-10-22T04:06:00.020849+00:00",
+  "gzip_bytes": 17425,
+  "tar_bytes": 71680,
+  "gzip_sha256": "a3e897771c2ec22f3a30a7e21504acaadd753a726f4af2bc12e66f55bfcbd20e",
+  "tar_sha256": "006023d4afa8a248963e2fbaa8ac14d41973a6d4699ff070eae655a55566ce78",
+  "members": [
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1365,
+      "sha256": "197219fc38d8299344b15480786201461b86747a67698d435ec57b92d588ee14"
+    },
+    {
+      "name": "archives.log",
+      "bytes": 110,
+      "sha256": "045773dbeee6d3152c549ca6753122a919076cf91928c03e4a7e90daef663cf8"
+    },
+    {
+      "name": "core.log",
+      "bytes": 11374,
+      "sha256": "def1983afb064f654abd43fc9ef44f1fa5e604223110f1e52e1a629ebbbb6bca"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 25749,
+      "sha256": "06be24d9e7f1676582af79e6c8def9361003fde84d09f9c5cc16248f0e6b114b"
+    },
+    {
+      "name": "export.log",
+      "bytes": 543,
+      "sha256": "8c9d949e58b9b7e0d244289a74540209198774a2fb83a4b5b04bd033c7af6d47"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 116,
+      "sha256": "a56bc7627d5b3384bc3ed2af7cac15b856c4cd5af982e5bda34f2a0466839307"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 4031,
+      "sha256": "c4cc8e6867c4edf6e2994f4ff82e2af218cf09872d2dbac3e375d54f0aefeda7"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "c49cf32af9f03caae5d7c0580c8a5c4d3c47abe3fe7c5dc788dc623d08cde9b9"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3175,
+      "sha256": "d0c8e82d51ff8573e5ac7c1ddc32fdc62e88cc91a4deac77ff3e7545af8ec834"
+    },
+    {
+      "name": "replay_checks.py",
+      "bytes": 1618,
+      "sha256": "ab93867cdccbc507ef183b53832f696855bd9c177ffe0fda4effb95c165b53ce"
+    },
+    {
+      "name": "replays.log",
+      "bytes": 98,
+      "sha256": "67d8ee6c91274b540aa0db382328dc8b5e5adc7c74e23572e2bf464602a762f6"
+    },
+    {
+      "name": "retrieval.json",
+      "bytes": 6641,
+      "sha256": "e3653a7602a0285addbcf5021ef176a50660dd167f66e67cfe73e858e55f7198"
+    },
+    {
+      "name": "runtime-inventory.json",
+      "bytes": 971,
+      "sha256": "2d498a5a1db3dd01b0f188d6f9697bca148c43e10a382796cfbaa8db475c2b9e"
+    },
+    {
+      "name": "runtime.json",
+      "bytes": 249,
+      "sha256": "a6322cd4811ef144cd11b02719f706490e0a2bb7002279a984a3316db021a718"
+    }
+  ],
+  "all_member_raw_byte_roundtrips_verified": true,
+  "own_temporary_bytes_removed": 56123,
+  "third_party_fulltext_in_helpers": false
+}

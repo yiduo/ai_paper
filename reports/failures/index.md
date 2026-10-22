@@ -3,12 +3,12 @@
 待定与观察按各卡片实际状态分别保留；未经两名真实审稿人确认，不进入正式否定归档。
 
 - APP-021-01（待定）：新门类的具体边界QA接口；保留旧方法零假设，不增加初检或有效线索；证据及未执行项见对应卡片。
-- APP-025-01（待定）：Concreteconditionalconsumerfeature;mediumuntilactualcaller/runtime/strongoldcostadmission,notasymptoticperformancepriority；证据及未执行项见对应卡片。
+- APP-025-01（待定）：Lower immediate implementation priority after bounded three-source qualification: related real two-marker/rank demand is not satisfied by current wrapper; strong old constrained search already exists；证据及未执行项见对应卡片。
 - APP-076-01（待定）：Specifictestablemappingwithold-methodzerohypothesis;nearanalogy;notinitialcheckcredit；证据及未执行项见对应卡片。
 - APP-076-02（观察）：固定有限方法比较未支持预测，停止调网格、换实例或扩大同组搜索。恢复未覆盖学科的源文覆盖；不得以第十项闭环代替100张初检或其他里程碑。；证据及未执行项见对应卡片。
 - APP-089-01（待定）：降低数值实现优先级：真实已读接口尚无完整bag-law／度量包络／远端多样性的共同需求；旧条件采样已覆盖一致law采样子任务。；证据及未执行项见对应卡片。
 - APP-094-01（待定）：降低数值实现优先级：旧WLS已拟合一致分数差；尚无可实施的新权重搜索与真实有界噪声目标。minimax松弛不冒充同约束基线。；证据及未执行项见对应卡片。
-- APP-094-02（待定）：Lowernumericalpriority:actual4-coordinateassetexists,but14stringfields/phenotypicgeometry/commonlawconstruction/fullcoststillunestablished;directidentity/oldempiricalmethods maybealreadyenough；证据及未执行项见对应卡片。
+- APP-094-02（待定）：Metadatareadabilityremoved,but40zero-distancegroupshavedifferentperturbationlabels;independentbiologicaljudge/ties/grain/commonlawconstructor/fullcoststillunestablished. Strongfourcoordinateidentityremains.；证据及未执行项见对应卡片。
 - APP-097-01（观察）：Shrink to boundary and non-antipodal tests; prioritize other families rather than tuning this to a success.；证据及未执行项见对应卡片。
 - APP-114-01（待定）：Related real counting demand exists,but selected DNET target differs and existing Graphillion baseline is stronger than plain optimization;defer generic counter pending actual matched quota workload and old-method cost evidence.；证据及未执行项见对应卡片。
 - APP-115-01（待定）：Sourcecontractreview foundno matcheduniformconfiguration-countworkload inselectedtools;retainconditionalmappinganddefercounteruntilpositive demand/cost evidence.；证据及未执行项见对应卡片。

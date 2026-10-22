@@ -1,0 +1,157 @@
+{
+  "recorded_at": "2026-10-22T04:02:10.123548+00:00",
+  "old_unchanged": 3535,
+  "exact_prior_versions": 3,
+  "new_canonical": 8,
+  "new_explicit_edges": 17,
+  "all_old_edges_exact": true,
+  "unchanged_source_and_plan_paths": [
+    "experiments/plans/APP-025-01-conditional.json",
+    "experiments/plans/APP-025-01-conditional-v2.json",
+    "data/graph/reading_coverage.json",
+    "data/provenance/readings/F-025.json",
+    "data/provenance/demand/F-025-symbolic-consumer.json",
+    "data/provenance/tools/sympy-unit-fractions-16fa855.json.gz"
+  ],
+  "prediction_and_application_status_unchanged": true,
+  "local_source_hashes_verified": 5436,
+  "external_annotations": 397,
+  "canonical_citations": 5833,
+  "impact_cases": [
+    {
+      "seed": "PART-025-CALLER-CONSTRAINTS-GATE",
+      "required": [
+        "PART-025-CONSUMER-GATE",
+        "APP-025-01"
+      ],
+      "excluded": [
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX",
+        "APP-094-02"
+      ],
+      "affected": [
+        "APP-025-01",
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "PART-025-CONSUMER-GATE",
+        "PROB-025-RECIPROCAL-RESOURCE",
+        "PROB-025-SPARSE-CERTIFICATE"
+      ]
+    },
+    {
+      "seed": "PROB-025-SECOND-LARGEST-MARKER",
+      "required": [
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "APP-025-01"
+      ],
+      "excluded": [
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX",
+        "APP-332-01"
+      ],
+      "affected": [
+        "APP-025-01",
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "PART-025-CONSUMER-GATE",
+        "PROB-025-RECIPROCAL-RESOURCE",
+        "PROB-025-SECOND-LARGEST-MARKER",
+        "PROB-025-SPARSE-CERTIFICATE"
+      ]
+    },
+    {
+      "seed": "PROB-025-SYMPY-ORIGINAL-DEMAND",
+      "required": [
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "APP-025-01"
+      ],
+      "excluded": [
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX"
+      ],
+      "affected": [
+        "APP-025-01",
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "PART-025-CONSUMER-GATE",
+        "PROB-025-RECIPROCAL-RESOURCE",
+        "PROB-025-SPARSE-CERTIFICATE",
+        "PROB-025-SYMPY-ORIGINAL-DEMAND"
+      ]
+    },
+    {
+      "seed": "PART-025-FINITE-SET-OLD-SEARCH",
+      "required": [
+        "PROB-025-SECOND-LARGEST-MARKER",
+        "APP-025-01"
+      ],
+      "excluded": [
+        "APP-094-02"
+      ],
+      "affected": [
+        "APP-025-01",
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "PART-025-CONSUMER-GATE",
+        "PART-025-FINITE-SET-OLD-SEARCH",
+        "PROB-025-RECIPROCAL-RESOURCE",
+        "PROB-025-SECOND-LARGEST-MARKER",
+        "PROB-025-SPARSE-CERTIFICATE"
+      ]
+    },
+    {
+      "seed": "LIT-025-MARTIN-SHI-2025",
+      "required": [
+        "PART-025-FINITE-SET-OLD-SEARCH",
+        "APP-025-01"
+      ],
+      "excluded": [
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX"
+      ],
+      "affected": [
+        "APP-025-01",
+        "LIT-025-MARTIN-SHI-2025",
+        "PART-025-CALLER-CONSTRAINTS-GATE",
+        "PART-025-CONSUMER-GATE",
+        "PART-025-FINITE-SET-OLD-SEARCH",
+        "PROB-025-RECIPROCAL-RESOURCE",
+        "PROB-025-SECOND-LARGEST-MARKER",
+        "PROB-025-SPARSE-CERTIFICATE"
+      ]
+    },
+    {
+      "seed": "PART-025-BOUNDED-OLD-SEARCH",
+      "required": [],
+      "excluded": [
+        "APP-025-01",
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX"
+      ],
+      "affected": [
+        "PART-025-BOUNDED-OLD-SEARCH"
+      ]
+    },
+    {
+      "seed": "CHECK-025-CONSUMER-QUALIFICATION",
+      "required": [],
+      "excluded": [
+        "APP-025-01",
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX"
+      ],
+      "affected": [
+        "CHECK-025-CONSUMER-QUALIFICATION"
+      ]
+    },
+    {
+      "seed": "PART-025-SYMPY-RUNTIME-GATE",
+      "required": [
+        "APP-025-01"
+      ],
+      "excluded": [
+        "APP-094-02",
+        "CLM-025-LEM-MARKED-GREEDY-PREFIX"
+      ],
+      "affected": [
+        "APP-025-01",
+        "PART-025-SYMPY-RUNTIME-GATE"
+      ]
+    }
+  ],
+  "candidates": 40,
+  "application_initials": 13,
+  "effective_leads": 5,
+  "new_application_run": false,
+  "full_family_or_history_promoted": false
+}
