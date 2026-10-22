@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-10-22T04:41:06.811533+00:00",
+  "core_tests_passed": 68,
+  "python_executable": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "python_runtime": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "validation": {
+    "nodes": 6155,
+    "research_nodes": 3685,
+    "edges": 16146,
+    "citations_checked": 6096,
+    "candidate_connections": 40,
+    "externally_checked_cards": 13,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 13,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 2108,
+      "sha256": "69a9c721b86b7d78279663b1f5b3227d73a5a6015ea34f88be23f3d9e906a96a"
+    },
+    "index.html": {
+      "bytes": 17637958,
+      "sha256": "10431a97f1be3c62bb533b39dd8e5e2923dfe84953f3faa355f26a606b8c4513"
+    },
+    "navigation.json.gz": {
+      "bytes": 61015,
+      "sha256": "5c8307ec9fa22b1a3eb316cce4a96e19a3acbab1d82731f7626b6ff5474dca52"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 2710634,
+      "sha256": "849791b0d359d1d7d9c0647ff3214adb4c54714f03a8a3b91dc99003afe9edd3"
+    },
+    "navigation.md": {
+      "bytes": 75204,
+      "sha256": "3fd5101c3d72f6a7b6b9ec24e7378d858c3ce872aea0f00eed11fdeab67d09dd"
+    },
+    "knowledge.json.gz": {
+      "bytes": 2343079,
+      "sha256": "62cf9ed4aa927452b3e9b567a2692c42bae82a613e1e6794f7866c30b82335f8"
+    }
+  },
+  "browser_visual_check": "Viewer logic unchanged;WP073 actual route-impact UI/JPEG receipt retained. New full data/source/export checks actual;no fresh visual claim.",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

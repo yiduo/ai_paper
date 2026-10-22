@@ -1,0 +1,78 @@
+{
+  "recorded_at": "2026-10-22T04:45:06.488625+00:00",
+  "archive": "reports/reproducibility/20261022-perfect-matching/helpers-and-logs.tar.gz",
+  "gzip_bytes": 40913,
+  "gzip_sha256": "569d134eab687fa256aba828f32f73436f6312eff460e189dcb45e51a48564cc",
+  "uncompressed_tar_sha256": "3b14a9644d14b3c73b9a4747c8ab45e733248679a1f576623f8599fb638b87ad",
+  "members": [
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1366,
+      "sha256": "ddd412094c9c2bdb8677c35b9beba181eae677ca3cdeb24c8a5a7e8a458e55db"
+    },
+    {
+      "name": "archives.log",
+      "bytes": 110,
+      "sha256": "045773dbeee6d3152c549ca6753122a919076cf91928c03e4a7e90daef663cf8"
+    },
+    {
+      "name": "core.log",
+      "bytes": 11374,
+      "sha256": "a088d9a400e828049371c702fb085c2fd11dcf81f1d9add43acfea0e5102823e"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 52992,
+      "sha256": "c0950452302b1b18c9e4749aa7f571d46e585566c845ac4aa8b82b6e6a1ba1a3"
+    },
+    {
+      "name": "curation.log",
+      "bytes": 640,
+      "sha256": "33ce89010f7bfa3e4cd106d980c9b68b189aa12f71516fa8b40d89cd892bb95a"
+    },
+    {
+      "name": "export.log",
+      "bytes": 543,
+      "sha256": "b43ce98c3a90c3e0f51aa4f926bf6fe0fb474f0fec8c24145543c20c5493f6b3"
+    },
+    {
+      "name": "finish.py",
+      "bytes": 11417,
+      "sha256": "636c4f01ca7ca88c99f61e46fc6f346a200a0261c52f3842a78def1a7900c0b3"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 656,
+      "sha256": "47c678854ca52ebbbbc46fae55a23301164e4e4549a231b98b711f243f717848"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 5553,
+      "sha256": "09bdfb22427ae72cbc1c23ef839e1c898d5084c89266b243d8bb6685032986b2"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "bfb52cc2ffc149b8c44d78b3f8d6377cac94f39efee2e113e44d5c90a941264b"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3172,
+      "sha256": "ed02c41710502cec7af712315bc18fb6568e7d6e5c61961d8f2a6f888b472207"
+    },
+    {
+      "name": "report_state.py",
+      "bytes": 13824,
+      "sha256": "98d0a2747a7045085115b1dd87ea4fa655b1f7f3ac6ef960ad44c19277ead297"
+    },
+    {
+      "name": "result-locations.json",
+      "bytes": 23298,
+      "sha256": "9e4caa64040537281f727a5d63e84e64dac3336db0d8dd362ca015a3edda6d01"
+    }
+  ],
+  "member_bytes_verified": true,
+  "own_plaintext_bytes_removed": 125028,
+  "thirdparty_derivatives_removed": 2786441,
+  "no_official_source_copy": true
+}

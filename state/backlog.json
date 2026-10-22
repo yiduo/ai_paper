@@ -2330,7 +2330,7 @@
     {
       "id": "WP-090",
       "priority": 1,
-      "status": "pending",
+      "status": "complete",
       "parent_task": "WP-006",
       "objective": "Actually read and decompose both F113 perfect-matching counting/entropy manuscripts, their versions and natural/formal scopes; compare strongest old counting methods and existing F120/F115 graph interfaces",
       "selection_reason": "Retro032 redirects from repeated unqualified symbolic-interface work to an unread multi-manuscript family with count-versus-witness semantics and existing graph-law comparison context. Inventory alone does not establish an algorithmic advantage or a candidate.",
@@ -2345,7 +2345,426 @@
       "resource_limit": "Existing read-onlymath at1581d4cb;two catalogue manuscripts,initialinventory16TeX7035lines,verify actual includeclosure/bibliography/version histories first. Do not clone upstream/install Lean/dependencies. Read full actualbody,not title/README. Selected original history only bounded needed interfaces with preciseversion/hash. Numerical tests require independent preregistered specs after construction/oracle/cost qualification;not pre-authorized as already run. Compress own outputs/code snapshots and verify roundtrip.",
       "acceptance": "Bind all source named results/aliases/conditions, natural and actual registered formal scope,constants/algorithm-cost qualifiers,fullmanuscript/version map and original old-method interfaces. Distinguish finding one matching,uniform sampling and approximate count/entropy in general versus bipartite graphs and weighted versus unweighted cases as actually present in sources. Record ten-domain attempts and justified combinations without forced candidates;no complete-family credit unless unchanged criteria actually met. Canon/history/hash/FK/impact/gates/exports/core/clean checks for actual graph changes.",
       "stop_or_redirect": "Do not claim inventory as reading, a witness algorithm as a counting benchmark, or finite QA as theorem certification. Do not install a package just to manufacture100-card credit; retain strongold-method sufficient null. Human/secondprovider deferred;no repeatedquestions. Nextmandatoryretro033afterWP090/091/092 or earliermajor evidence.",
-      "created_at": "2026-10-22T04:09:41.052704+00:00"
+      "created_at": "2026-10-22T04:09:41.052704+00:00",
+      "started_at": "2026-10-22T04:16:51.666864+00:00",
+      "reading_execution_receipt": "state/reading-progress/F-113.json",
+      "actual_read_ranges": {
+        "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/README.md": [
+          [
+            1,
+            18
+          ]
+        ],
+        "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex": [
+          [
+            1,
+            3471
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/README.md": [
+          [
+            1,
+            18
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex": [
+          [
+            1,
+            607
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-b.tex": [
+          [
+            1,
+            273
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-c.tex": [
+          [
+            1,
+            107
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/figures/odd-cut-recursion.tex": [
+          [
+            1,
+            55
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/main.tex": [
+          [
+            1,
+            77
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/references.bib": [
+          [
+            1,
+            326
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/01-introduction.tex": [
+          [
+            1,
+            287
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex": [
+          [
+            1,
+            418
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex": [
+          [
+            1,
+            276
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex": [
+          [
+            1,
+            188
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/05-weighted.tex": [
+          [
+            1,
+            89
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/06-objective.tex": [
+          [
+            1,
+            195
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex": [
+          [
+            1,
+            254
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/08-odd-cuts.tex": [
+          [
+            1,
+            203
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/09-algorithm.tex": [
+          [
+            1,
+            238
+          ]
+        ],
+        "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex": [
+          [
+            1,
+            297
+          ]
+        ]
+      },
+      "full_source_completed": true,
+      "canonical_coverage_promoted": true,
+      "next_actual_action": "WP091 actual graph counting consumer and strongest eligible old baseline qualification",
+      "completed_at": "2026-10-22T04:45:06.488625+00:00",
+      "evidence": [
+        "GEN-20261022-086",
+        "data/provenance/readings/F-113.json",
+        "reports/perfect-matching-F113-reading.md",
+        "reports/reproducibility/20261022-perfect-matching"
+      ],
+      "result": "Actuallyreadboth7035TeX+326Bib/twoREADME,62results/3aliases,26contracts/3gaps;6registeredselectedendpoints6B/56C/fullchainunknown,592file9217declstaticunionnotbuild.3primaryworks5selectedscopes/5pixels,44externalworksnotfullhistory.143newcanonical391edges;3546oldcanon/alloldedgesexact.68core/10impact/fullhash/export/no-mathclean/15archives passed.49read43draft1123labels+2unlabelled;40candidates13checksunchanged,noalgorithm/applicationrun. Compressedrawhelpers/logs verified andremoved;externaltemporaryfulltexts/imagescleaned,mathuntouched. CurrentWP090localonly."
+    },
+    {
+      "id": "WP-091",
+      "priority": 1,
+      "status": "complete",
+      "parent_task": "WP-006",
+      "objective": "Qualify real perfect-matching or prescribed-degree counting software demand and strong old baseline at the exact F113 interfaces before any numerical application experiment",
+      "selection_reason": "WP090 full source establishes unweighted/explicit relative count and constant-fibre contracts but no finite consumer. Alternate coverage with actual demand rather than another long adjacent proof reading or source-calibration grid.",
+      "inputs": [
+        "F-113",
+        "ANALYSIS-F-113",
+        "reports/perfect-matching-F113-reading.md",
+        "reports/retrospectives/032-demand-constraints-and-next-counting-route.md",
+        "PART-120-FACTOR-NETWORK",
+        "PART-115-ACTUAL-LAW"
+      ],
+      "resource_limit": "At most3 distinct original public software/application source projects. Reuse prior Graphillion/tree source receipts where applicable;read actual perfect-matching/f-factor callers,not only README. No outreach,large dependency or source algorithm installation. Pin sources/license and bounded selected ranges;max10MiB total new data only if qualified. math read-only,compressownoutputs/code andclean thirdpartytemporarycopies.",
+      "acceptance": "Establish an actual count requirement,graph/weights/multiplicity/extra constraints,target-law and precision contract,independent oracle and strongest eligible old baseline;or preserve bounded specific ineligibility. Constant fibres and witness-preserving reductions distinct. No initial-check or effective-lead credit for inventory/source reading. Any new numerical test requires separately frozen preregistered specification before output. Canon/history/hash/FK/gates/scopedimpact/export/core/clean checks for graph changes.",
+      "stop_or_redirect": "Stop after bounded original-source qualification;if noeligible finite route,record specific gaps and redirect WP092 to an unread family such asF139 or incompleteF262 as source/body qualification warrants. Do not fabricate a consumer,claim no demand globally,or test known small graphs just to reach100. Regularretro033 mandatoryafterWP092,or earliermajorissue. Human/secondproviderdeferred.",
+      "created_at": "2026-10-22T04:45:06.488625+00:00",
+      "started_at": "2026-10-22T04:47:36.188567+00:00",
+      "completed_at": "2026-10-22T05:07:24.096900+00:00",
+      "evidence": [
+        "GEN-20261022-087",
+        "data/provenance/demand/F-113-counting-demand-20261022.json",
+        "APP-113-01",
+        "reports/F113-counting-demand.md",
+        "reports/reproducibility/20261022-matching-demand"
+      ],
+      "result": "Actuallyqualified3originalprojects:Graphillioncount/factors/tests,reusedMITsource;Walrus54b1062actualhafnian/quantum/approx/referencecallers;2017GBSgraphcountEq6/B1-B2/twoformulaimages. OneconcretenearcandidateAPP11301pending;literalgenericq/s astronomic,counterunadmitted,noapplicationrun/initial/effectivegain.11newcanonical27edges;1baseanalysisprior+2newcandidatemetadatapriors exact,3688otheroldcanon/alloldedges/1246mathclaimsunchanged.68core/finalno-mathclean/8impact/fullhash/export/15archivespassed.41candidates13checks;49read43draftunchanged.39741Bsourcegzipandhelperarchive rawbytes verified;temporaryfulltexts/source/API/imagescleaned,mathuntouched. Firstpriorwrapperfailureandtwo precommitmetadatarepairsretained;validators/comparatorsunchanged. Counter2;F262selectedfrom3intro_prefixes forWP092,not fullsourcecoverage."
+    },
+    {
+      "id": "WP-092",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Actually read and decompose all three current F262 scalar/matrix Lieb-Thirring inequality and equality-classification manuscripts, versions and natural/formal/history scopes",
+      "selection_reason": "AfterF113fullsourceandactualcountdemand,returnoutsideadjacentCS/countingroutesandcompleteapreviouslyopenedmathematicalphysicsfamily. Actual3intro_prefixes distinguishroughscalarpotentials,finitecomplexHermitianPSDnoncommutingchannels,unnormalizedspectraltrace,andstrict-exponentequalitycases;not afinitegridmatrixbound.",
+      "inputs": [
+        "F-262",
+        "state/reading-progress/F-262.json",
+        "reports/retrospectives/032-demand-constraints-and-next-counting-route.md",
+        "data/corpus/manuscripts.jsonl",
+        "data/graph/reading_coverage.json"
+      ],
+      "resource_limit": "Existing read-onlymath1581d4cb;31TeX5362lines currentinventoryplusbibliography/readme. Checkfullincludeclosure/figure/history/exactversions and readactualwholebodies;no sourcecloneorLean/cacheinstall. Boundselectednecessaryprimaryhistory;no largeexternaldependencies. Numericalwork onlyafterqualificationandpreregisteredspec;compressallownoutputs/code with bytehashroundtrip andcleanup.",
+      "acceptance": "All3currentmanuscripts/sourceclaimsandaliases boundseparately;scalarvsmatrix,finitechannelvscontinuumspace,PSDvsindefinite/resolventauxiliaryobjects,signedextension,fullnegative-spectrumtrace,normalization,strictgamma/endpoints,globalconstantunitaryand independentchannelcentres/scales retained. Actualselectedformalproof/specandhistoricaloldconstants/equalitylimits compared,not title-basedB. Versionwithdrawalaudit/methodcontracts/ten-domainattempts and justifiedcrossfamilycomparisons;no forcedcandidate orfullfamilycredit. Canon/prior/hash/FK/impact/gates/export/core/no-mathclean required.",
+      "stop_or_redirect": "Do not treat matricesencodingfiniteorthonormalfamilies as arbitraryfinite-grid potentials,or reproduceknownsech2spectrumasnewapplicationgain. Do not assumegamma1orendpoint3/2isnew,discreteeigenvaluesreplacecontinuumtrace,or modelreading isproof/humanverification. Immediatelyglobalretro033afterthisthirdsubstantivepackagefollowingretro032,or earliermajorissue. Human/secondproviderdeferred,no repeatedquestions.",
+      "created_at": "2026-10-22T05:07:24.096900+00:00",
+      "started_at": "2026-10-22T05:01:50.965310+00:00",
+      "reading_execution_receipt": "state/reading-progress/F-262.json",
+      "actual_read_ranges": {
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/README.md": [
+          [
+            1,
+            20
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/main.tex": [
+          [
+            1,
+            29
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/preamble.tex": [
+          [
+            1,
+            36
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/references.bib": [
+          [
+            1,
+            255
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-framework.tex": [
+          [
+            1,
+            62
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-limit.tex": [
+          [
+            1,
+            75
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/connecting-path.tex": [
+          [
+            1,
+            299
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/introduction.tex": [
+          [
+            1,
+            167
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex": [
+          [
+            1,
+            227
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex": [
+          [
+            1,
+            221
+          ]
+        ],
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex": [
+          [
+            1,
+            281
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/README.md": [
+          [
+            1,
+            18
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/main.tex": [
+          [
+            1,
+            26
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/notes/history.tex": [
+          [
+            1,
+            46
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/preamble.tex": [
+          [
+            1,
+            29
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/references.tex": [
+          [
+            1,
+            98
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-framework.tex": [
+          [
+            1,
+            48
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-limit.tex": [
+          [
+            1,
+            124
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex": [
+          [
+            1,
+            360
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/introduction.tex": [
+          [
+            1,
+            106
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/paths.tex": [
+          [
+            1,
+            285
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/spectral.tex": [
+          [
+            1,
+            234
+          ]
+        ],
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/trace.tex": [
+          [
+            1,
+            401
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/README.md": [
+          [
+            1,
+            18
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/main.tex": [
+          [
+            1,
+            29
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/preamble.tex": [
+          [
+            1,
+            28
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/references.tex": [
+          [
+            1,
+            90
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/action.tex": [
+          [
+            1,
+            328
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex": [
+          [
+            1,
+            465
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-trace.tex": [
+          [
+            1,
+            287
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/compactness.tex": [
+          [
+            1,
+            379
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/introduction.tex": [
+          [
+            1,
+            161
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/preliminaries.tex": [
+          [
+            1,
+            83
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/rigidity.tex": [
+          [
+            1,
+            293
+          ]
+        ],
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/spectral-bound.tex": [
+          [
+            1,
+            65
+          ]
+        ]
+      },
+      "full_source_completed": true,
+      "canonical_coverage_promoted": true,
+      "next_actual_action": "Retro033 completed;WP093 F139 selected. No further F262 numerical run without qualified continuum model and preregistration.",
+      "completed_at": "2026-10-22T05:32:17.358852+00:00",
+      "evidence": [
+        "data/provenance/readings/F-262.json",
+        "reports/lieb-thirring-F262-reading.md",
+        "reports/reproducibility/20261022-lieb-thirring/",
+        "reports/retrospectives/033-counting-cost-and-continuum-scope.md"
+      ]
+    },
+    {
+      "id": "WP-093",
+      "priority": 1,
+      "status": "ready",
+      "parent_task": "WP-006",
+      "objective": "Actually read and decompose the current F139 well-conditioned log-concave sampling manuscript and compare natural/formal/history query versus computation contracts",
+      "selection_reason": "Retro033 chooses unread-family coverage over literal astronomical counting,unqualified continuum-to-grid experiments and tuning adverse denoising. Existing source only;no application gain presumed.",
+      "inputs": [
+        "F-139",
+        "P-e54200c0718980f7",
+        "reports/retrospectives/033-counting-cost-and-continuum-scope.md"
+      ],
+      "resource_limit": "Reuse read-only math1581d4cb. Prior4254line inventory is not completed reading;verify include closure and actual body. No large model/Lean libraries or clone. Bound original history acquisitions;compress own outputs.",
+      "acceptance": "Full current source, versions/withdrawal,all named results and constants,actual selected formal proof/spec comparison,methods and10-domain attempts. Preserve C2 potential supplied minimizer,Hessian I..2I,exact values/gradients,fixedTV1/10,worstcase queries versus unrestricted computation. No runtime or implementation benefit inferred from oracle exponent. Core/source/FK/impact/export/no-math QA,full-family gaps explicit.",
+      "stop_or_redirect": "Do not construct an apparent practical sampler by dropping exact-oracle or between-query computation requirements. Source lower bounds/existence not an application experiment. Need actual caller,independent judge and preregistration before numerical tests.",
+      "created_at": "2026-10-22T05:32:17.358852+00:00"
     }
   ]
 }

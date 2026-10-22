@@ -1,0 +1,336 @@
+{
+  "work_package": "WP-091",
+  "generation_id": "GEN-20261022-087",
+  "recorded_at": "2026-10-22T04:55:18.377374+00:00",
+  "project_base_commit": "1937d4e3041fa5112160bbb93cc8c36cc22865f0",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "bounded_three_project_source_qualification_one_conditional_mapping_no_run",
+  "original_source_projects": 3,
+  "source_groups": [
+    "Graphillion actual graph/factor/count/test interfaces,reusing pinnedsource",
+    "Walrus actual hafnian/quantum callers and approximation/tests",
+    "Bradleret al2017GBSgraphcountpaperselectedoriginalscopes"
+  ],
+  "new_download_bytes": 2319703,
+  "sources": {
+    "reused-graphillion__graphillion__graphset.py": {
+      "url": "https://raw.githubusercontent.com/graphillion/graphillion/e21b0928fcacd955154032928044ea3ce2efee3c/graphillion/graphset.py",
+      "revision": "e21b0928fcacd955154032928044ea3ce2efee3c",
+      "sha256": "8d5edd21ca44aa9a99ad7c4b6e6aa2d768452188bad0072039dc645cbbb3503a",
+      "bytes": 96853,
+      "total_lines": 2991,
+      "actual_read_ranges": [
+        [
+          30,
+          65
+        ],
+        [
+          574,
+          637
+        ],
+        [
+          2243,
+          2318
+        ],
+        [
+          2360,
+          2438
+        ]
+      ],
+      "retained_in": "data/provenance/demand/quota-tree-tools-20261021.json.gz::graphillion/graphillion/graphset.py",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "reused-graphillion__README.md": {
+      "url": "https://raw.githubusercontent.com/graphillion/graphillion/e21b0928fcacd955154032928044ea3ce2efee3c/README.md",
+      "revision": "e21b0928fcacd955154032928044ea3ce2efee3c",
+      "sha256": "26d0eb68d43a864255653796a8f43694e2b51e63ec43d599f50d7eb04ac75793",
+      "bytes": 61032,
+      "total_lines": 1232,
+      "actual_read_ranges": [],
+      "retained_in": "data/provenance/demand/quota-tree-tools-20261021.json.gz::graphillion/README.md",
+      "scope": "Reused only as source inventory;no new reading claimed"
+    },
+    "reused-graphillion__LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/graphillion/graphillion/e21b0928fcacd955154032928044ea3ce2efee3c/LICENSE.txt",
+      "revision": "e21b0928fcacd955154032928044ea3ce2efee3c",
+      "sha256": "72690a70c2005716a85fbb03221ab09e791ddb3bac1b8592b9d79b3eea668bb9",
+      "bytes": 1425,
+      "total_lines": 31,
+      "actual_read_ranges": [
+        [
+          1,
+          31
+        ]
+      ],
+      "retained_in": "data/provenance/demand/quota-tree-tools-20261021.json.gz::graphillion/LICENSE.txt",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "graphillion-test.py": {
+      "url": "https://raw.githubusercontent.com/graphillion/graphillion/e21b0928fcacd955154032928044ea3ce2efee3c/graphillion/test/graphset.py",
+      "revision": "e21b0928fcacd955154032928044ea3ce2efee3c",
+      "sha256": "33d142853153ef618c611e4d536079df374aa14e72c50fa99406d2ed3f1b2f19",
+      "bytes": 54598,
+      "total_lines": 1433,
+      "actual_read_ranges": [
+        [
+          1,
+          24
+        ],
+        [
+          150,
+          205
+        ],
+        [
+          308,
+          339
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::graphillion-test.py",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-thewalrus___hafnian.py": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/thewalrus/_hafnian.py",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "f828409355c31a19c41c15e56f072112ec920084a6d565d97ec9f395b0bf58bc",
+      "bytes": 35584,
+      "total_lines": 1085,
+      "actual_read_ranges": [
+        [
+          417,
+          512
+        ],
+        [
+          634,
+          667
+        ],
+        [
+          718,
+          820
+        ],
+        [
+          979,
+          1085
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-thewalrus___hafnian.py",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-thewalrus__reference.py": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/thewalrus/reference.py",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "b875b46ba078ebc9729f710576529584f685c75ddee2db87f96f6f13ce1f3900",
+      "bytes": 11004,
+      "total_lines": 402,
+      "actual_read_ranges": [
+        [
+          1,
+          289
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-thewalrus__reference.py",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-thewalrus__samples.py": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/thewalrus/samples.py",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "cf56b61d88909ba62f592aa447b1f1f81e31cc9713f3a94ca8c284213e41b358",
+      "bytes": 27933,
+      "total_lines": 767,
+      "actual_read_ranges": [
+        [
+          204,
+          263
+        ],
+        [
+          372,
+          400
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-thewalrus__samples.py",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-thewalrus__quantum__fock_tensors.py": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/thewalrus/quantum/fock_tensors.py",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "78fb20da7bbb3edc2249eafa3eeb4612e91b49d340edebea9c74fb1e6cb10517",
+      "bytes": 26827,
+      "total_lines": 673,
+      "actual_read_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          191,
+          234
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-thewalrus__quantum__fock_tensors.py",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-docs__algorithms.rst": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/docs/algorithms.rst",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "8ef4a0bb1596451adb5454aaba89bd3597001bd72147333d876f90fc7fd7bca3",
+      "bytes": 14596,
+      "total_lines": 216,
+      "actual_read_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-docs__algorithms.rst",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-LICENSE": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/LICENSE",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357,
+      "total_lines": 201,
+      "actual_read_ranges": [
+        [
+          1,
+          201
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-LICENSE",
+      "scope": "Selected ranges only;not imported or executed"
+    },
+    "walrus-test-approx.py": {
+      "url": "https://raw.githubusercontent.com/XanaduAI/thewalrus/54b1062e2b6759ddc733ca6bf636df580ff94968/thewalrus/tests/test_hafnian_approx.py",
+      "revision": "54b1062e2b6759ddc733ca6bf636df580ff94968",
+      "sha256": "bcb8a4def5b79f6b6950d063365677bce75f1ee55125142cadbc9f278ef34f10",
+      "bytes": 1987,
+      "total_lines": 57,
+      "actual_read_ranges": [
+        [
+          1,
+          57
+        ]
+      ],
+      "retained_in": "data/provenance/tools/matching-count-tools-20261022.json.gz::walrus-test-approx.py",
+      "scope": "Selected ranges only;not imported or executed"
+    }
+  },
+  "source_archive": {
+    "path": "data/provenance/tools/matching-count-tools-20261022.json.gz",
+    "sha256": "8a400d7f50ba8ef2ac7fbad158b4c3ab6641241905588ec796552d6646d8bc04",
+    "uncompressed_sha256": "3b91dacf050c07bf77b4f609f7ae6d9764f3e9b34c50567b11a4ff22bfa18bd9",
+    "members": 9,
+    "raw_byte_roundtrip": true
+  },
+  "paper": {
+    "url": "https://arxiv.org/pdf/1712.06729v1",
+    "sha256": "c34dd757bc034f839ea37d978bb38f56930fc1360b408d85e43c54bedc942291",
+    "bytes": 2040252,
+    "revision": "arXiv1712.06729v1",
+    "actual_read_scope": "PDF2-5currentmainII.A-E;PDF9wholepage;PDF10B1-B2andthroughC4;PDF6conclusion openingparagraph;notentirepaper/appendices/history",
+    "retained_fulltext": false
+  },
+  "pixel_inspections": [
+    {
+      "name": "GBS-equation6.png",
+      "sha256": "2f5b51234a203f18365d25d4bfc8e49d4d225d0d2a52c1eb4addc7b7cd77cad7",
+      "bytes": 372342,
+      "pdf_page": 4,
+      "printed_page": 4,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "GBS-square-root.png",
+      "sha256": "17ea0de695741dab75f015e32f126c244474516058f73d365e5c407fec2f7a79",
+      "bytes": 324045,
+      "pdf_page": 10,
+      "printed_page": 10,
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "selected_findings": [
+    {
+      "id": "GRAPHILLION",
+      "fact": "Actual perfect_matchings sets every universe vertex degree1;f_factors sets exact f(v),missing f=0;len delegates exact cardinality. Actual tests call and assert matchings/factor sets.",
+      "scope": "No compiled backend/runtime audit;arbitrary graphset filter and exactintegeroutput cannot be replaced byunrestrictedrelativecount. Vertexuniverse/isolates needexplicitmapping.",
+      "selected_ranges": [
+        [
+          30,
+          65
+        ],
+        [
+          574,
+          637
+        ],
+        [
+          2243,
+          2318
+        ],
+        [
+          2360,
+          2438
+        ]
+      ]
+    },
+    {
+      "id": "WALRUS",
+      "fact": "Actual frontend supports real/complex hafnians;approx branch invokes nonnegative Barvinok Gaussian-determinant mean with fixed num_samples. Selected real quantum amplitude/density/sample callers require weightedcomplex/repeated/loop objects.",
+      "scope": "No installedruntime or proof/accuracy audit. Existing stochastic test uses20percent tolerances,not universal eps/delta. Old recursive/defaultGlynnpath and integer-referencealgorithm aredistinctnumericcontracts."
+    },
+    {
+      "id": "GBS",
+      "fact": "The original2017paper explicitly seeks approximate simple-graph perfect-matching counts via an ideal photon-event relation p=K*C^2 for doubled encoding.",
+      "scope": "PDF2-5main SectionsII.A-E;PDF9lemma8/context;PDF10B1-B2 andselectedC1-C4;PDF6selectedconclusion. Full optical proof,deployment/noise/scalabilityclaims not audited. Completegraph examples have knownclosedforms and arenot an eligible speedup benchmark."
+    },
+    {
+      "id": "LITERAL-COST",
+      "fact": "Source defines L=(10^4ND)^100,q=32L,M=Tq^2+q,and s=ceil(20LM*(Lambda+ceil(log2(1/xi))+1)). ForpositiveintegerN,D and generic branch,L>=10^400,q>=32*10^400,s>=640*10^800.",
+      "scope": "Elementary source-contract lower bound for following the prescribed step-by-step sampler,not a runtime measurement or lower bound against every possible implementation/algorithm. No source theorem error or general counting impossibility inferred."
+    }
+  ],
+  "source_cost_locators": [
+    {
+      "path": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "ranges": [
+        [
+          1589,
+          1597
+        ],
+        [
+          2248,
+          2256
+        ],
+        [
+          2280,
+          2291
+        ],
+        [
+          2422,
+          2442
+        ]
+      ],
+      "sha256": "dcf28553d442dfc53a9f90f7c52bd48c9e2e7e5e27b197aa7ca4be1c8daed703"
+    }
+  ],
+  "conditional_candidate": "APP-113-01",
+  "conditional_plan": "experiments/plans/APP-113-01-conditional.json",
+  "conclusions": {
+    "actual_related_count_demand": true,
+    "concrete_unweighted_calibration_mapping": true,
+    "practical_counter_admitted": false,
+    "new_candidate": 1,
+    "new_initial_check": 0,
+    "new_effective_lead": 0,
+    "new_numerical_run": false,
+    "no_general_GBS_sampler_claim": true,
+    "no_literal_schedule_execution": true
+  },
+  "versions_caveat": "Graphillion retained oldfixedcommit,not latestassertion.Walrus resolvedmasteronce toimmutablecommit54b1062;no API/ABIcompatibility or maintenancesupportassumed.No sourceclone/packageinstall.",
+  "limitations": [
+    "Threeboundedprojectsnotexhaustiveglobaldemandabsence",
+    "Sourceinspectionandliteralbudgetalgebraare not an external application check",
+    "No firststageacceptancecriteria weakened;human/secondproviderdeferred",
+    "Physicalencoding/errorprefactorproofs andalltransitivedependencies not independentlyverified"
+  ]
+}

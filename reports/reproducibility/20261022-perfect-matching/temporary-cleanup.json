@@ -1,0 +1,81 @@
+{
+  "recorded_at": "2026-10-22T04:45:06.488625+00:00",
+  "files": [
+    {
+      "path": "JSV2001.pdf",
+      "bytes": 204383,
+      "sha256": "86c8b21170e89da3eccead880f5ea2fb44c9853b7b39660d9c4c9ebdd088e9a3",
+      "type": "externalPDF"
+    },
+    {
+      "path": "JSV2001.txt",
+      "bytes": 74934,
+      "sha256": "b406a85fc8aefdac11fd40e084a984e0f78f742739b3addd3a045553e3b37b12",
+      "type": "temporaryPDFtext"
+    },
+    {
+      "path": "SVW2017v1.pdf",
+      "bytes": 434914,
+      "sha256": "dd5ecd0186aa23afdd786fd9c2f3662af9313e7a200d40e4d6e9a08640b27ede",
+      "type": "externalPDF"
+    },
+    {
+      "path": "SVW2017v1.txt",
+      "bytes": 44088,
+      "sha256": "80c3616ecbbf5d86826cb11a5fa0da88fdf5fc45c6bd087bb34667ce12a7f0b1",
+      "type": "temporaryPDFtext"
+    },
+    {
+      "path": "AOV2018.pdf",
+      "bytes": 286307,
+      "sha256": "4379ff0fc117486fa5f66aec3eda1731825349f50c56b36f853d079657aa2936",
+      "type": "externalPDF"
+    },
+    {
+      "path": "AOV2018.txt",
+      "bytes": 98321,
+      "sha256": "e9abb35f266dffae6823b9e44866e79d22d37cddb4124daad5639f3492697cb4",
+      "type": "temporaryPDFtext"
+    },
+    {
+      "path": "source-FPRAS.png",
+      "bytes": 206317,
+      "sha256": "335b0fce0dbe184e1c7d9f1ff7ae0b29c325649fa3e05a069b7c7d6682531d22",
+      "type": "actualInspectedPixels"
+    },
+    {
+      "path": "source-entropy.png",
+      "bytes": 215040,
+      "sha256": "9bd92663031e671fe333f63d7d1490f937bfc9da41a4cae9dd4b800504766f83",
+      "type": "actualInspectedPixels"
+    },
+    {
+      "path": "JSV-theorem.png",
+      "bytes": 431195,
+      "sha256": "c269d449b43f8a006886bff0d201d524c23590337d485f65d287e60c3a7185bc",
+      "type": "actualInspectedPixels"
+    },
+    {
+      "path": "SVW-obstruction.png",
+      "bytes": 299468,
+      "sha256": "b41707c66440db12fff101878aec2d6c6ed58b63a5855a72ecb3be52e0511daa",
+      "type": "actualInspectedPixels"
+    },
+    {
+      "path": "AOV-conjecture.png",
+      "bytes": 450873,
+      "sha256": "56f35ec34bb6de30efb5b9ee52ae3a9d6955d6c935e2255d52fb406eb7e43646",
+      "type": "actualInspectedPixels"
+    },
+    {
+      "path": "previous-curate.py",
+      "bytes": 40601,
+      "sha256": "e9eee36ca452b3c347576b9ed2e05c678de989d639bd991371c5ff6b1af5841a",
+      "type": "temporaryextractionofexistingownarchive"
+    }
+  ],
+  "total_bytes_removed": 2786441,
+  "upstream_copied": false,
+  "new_dependency_install": false,
+  "retained_external_fulltexts": false
+}

@@ -1,0 +1,112 @@
+{
+  "generation_id": "GEN-20261022-086",
+  "canonical_before": 3546,
+  "canonical_after": 3689,
+  "new_records": 143,
+  "new_explicit_edges": 391,
+  "old_nodes_unchanged": 3546,
+  "all_old_edges_exact": true,
+  "source_named_results_added": 62,
+  "aliases_not_extra": 3,
+  "source_methods_added": 26,
+  "typed_gaps": 3,
+  "bibliography_bindings": 48,
+  "distinct_external_works": 44,
+  "primary_works_selected": 3,
+  "original_selected_scopes": 5,
+  "formula_pixels": 5,
+  "selected_B": 6,
+  "other_C": 56,
+  "formal_index": {
+    "roots": [
+      {
+        "path": "data/graph/lean_indices/F-113-binary-count.json.gz",
+        "sha256": "b1d8c076e544b6e6f43bae1bfbe5bcb1beafafc1af5fb66fece8bb4b545ca4f1",
+        "uncompressed_sha256": "c16293441c9025ae3700e50ca143d14edf24e48750ba441f423908c03dc2c686",
+        "gzip_bytes": 19893,
+        "files": 112,
+        "declarations": 1234,
+        "external_unread": [
+          "Mathlib"
+        ]
+      },
+      {
+        "path": "data/graph/lean_indices/F-113-fpras.json.gz",
+        "sha256": "7bac070ef2e3f88f1dfb2256a7e68186825a08a8cf8f8ebb0e71d4a4e80a7216",
+        "uncompressed_sha256": "abaf179a09e5e454d9e66428a4e0baf49c788401877f62f283a1cf749afdbbdf",
+        "gzip_bytes": 98469,
+        "files": 415,
+        "declarations": 7135,
+        "external_unread": [
+          "Mathlib"
+        ]
+      },
+      {
+        "path": "data/graph/lean_indices/F-113-legacy-entropy.json.gz",
+        "sha256": "5b7f8197d5d5ad7eb56e271574c54693a88081281648dfc17c938595032e4e85",
+        "uncompressed_sha256": "c11e2ebe67834468a56f8b5bbf982c96c9b8cace9928822fc320fde334beb54d",
+        "gzip_bytes": 4404,
+        "files": 18,
+        "declarations": 234,
+        "external_unread": [
+          "Mathlib"
+        ]
+      },
+      {
+        "path": "data/graph/lean_indices/F-113-refined-entropy.json.gz",
+        "sha256": "945877420445b76712538fd657b84193ea839f70b207c0461ae46a5ef2aa1a5a",
+        "uncompressed_sha256": "8843f1bb123e9e8b7ca723c5f70cb4bbf3bdd6a2852f28fa0a749020d0674bfe",
+        "gzip_bytes": 8895,
+        "files": 35,
+        "declarations": 566,
+        "external_unread": [
+          "Mathlib"
+        ]
+      },
+      {
+        "path": "data/graph/lean_indices/F-113-singleton-loops.json.gz",
+        "sha256": "c577abbc835be953f14fda5c4b710cef0daa0420e018a99c5c80735a98613867",
+        "uncompressed_sha256": "ca209ce23245a2f102d844577f6d4d49ae0d0419720e5a46daf82f58aaca0985",
+        "gzip_bytes": 24409,
+        "files": 136,
+        "declarations": 1490,
+        "external_unread": [
+          "Mathlib",
+          "Mathlib.Algebra.BigOperators.Group.Finset.Basic",
+          "Mathlib.Data.Fintype.BigOperators",
+          "Mathlib.Data.Fintype.Perm",
+          "Mathlib.Data.List.Nodup",
+          "Mathlib.Data.Nat.Factorial.Basic",
+          "Mathlib.Data.Rat.BigOperators",
+          "Mathlib.Tactic.FieldSimp",
+          "Mathlib.Tactic.NormNum",
+          "Mathlib.Tactic.Positivity",
+          "Mathlib.Tactic.Ring"
+        ]
+      },
+      {
+        "path": "data/graph/lean_indices/F-113-triangle-face.json.gz",
+        "sha256": "416e30f66e21eb948d3e0630eedfddbdb0466d3714e46942a48551acce4f61ce",
+        "uncompressed_sha256": "4df5db3d88fca6564a56b3aecbd62cb6d79867d25629b4fdfb7ad793273efb05",
+        "gzip_bytes": 8562,
+        "files": 37,
+        "declarations": 522,
+        "external_unread": [
+          "Mathlib"
+        ]
+      }
+    ],
+    "unique_local_files": 592,
+    "unique_declarations": 9217,
+    "all_file_hashes_verified": true,
+    "no_build": true,
+    "limitation": "Static lexical/import index,not actual reading of all supporting proofs;Mathlib imports external and unbuilt"
+  },
+  "actual_read_families": 49,
+  "source_drafts": 43,
+  "complete_families": 0,
+  "complete_histories": 0,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "new_numerical_run": false
+}

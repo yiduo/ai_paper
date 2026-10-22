@@ -2,10 +2,11 @@
   "week": "2026-W43",
   "selection_seed": 202643,
   "fraction": 0.05,
-  "population": 40,
+  "population": 41,
   "sample": [
-    "APP-231-01",
-    "APP-294-01"
+    "APP-025-01",
+    "APP-221-01",
+    "APP-276-01"
   ],
   "review_status": "pending_real_humans",
   "all_mapping_grading_pending": [
@@ -17,6 +18,7 @@
     "APP-094-01",
     "APP-094-02",
     "APP-097-01",
+    "APP-113-01",
     "APP-114-01",
     "APP-115-01",
     "APP-119-01",

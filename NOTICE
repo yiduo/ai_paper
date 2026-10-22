@@ -193,3 +193,16 @@ data/provenance/tools/dense-egyptian-30a3915.json.gz.
 No runtime execution or transitive dependency audit is claimed.
 The Martin-Shi paper and Eppstein program are cited and scoped in the
 research ledger; their complete texts are not redistributed here.
+
+Selected matching-count source review (2026-10-22):
+Nine unmodified source/license members are retained in
+data/provenance/tools/matching-count-tools-20261022.json.gz.
+The Walrus, Xanadu Quantum Technologies Inc., commit
+54b1062e2b6759ddc733ca6bf636df580ff94968, retains its original
+Apache-2.0 license and source headers. Graphillion's new selected test
+file and complete MIT notice are fixed at
+e21b0928fcacd955154032928044ea3ce2efee3c. Other Graphillion source
+bytes are reused from the existing quota-tree-tools-20261021 archive.
+No solver was installed or executed and no transitive dependency audit
+is claimed. The 2017 GBS paper is cited by version, scope and hash;
+its full text and temporary formula-page images are not redistributed.

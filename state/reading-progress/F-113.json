@@ -1,0 +1,281 @@
+{
+  "receipt_type": "execution reading-progress journal;not completed canonical research or proof review",
+  "work_package": "WP-090",
+  "saved_at": "2026-10-22T04:45:06.488625+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "WP090_canonical_curation_and_quality_complete",
+  "canonical_coverage_promoted": true,
+  "tex_inventory_files": 16,
+  "tex_inventory_lines": 7035,
+  "files": [
+    {
+      "path": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/README.md",
+      "bytes": 808,
+      "lines": 18,
+      "sha256": "1163a09eb4c9ba6538606c07e9497c7489c9bd223ed461ae140bb8c1deeb1ee3",
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "bytes": 153001,
+      "lines": 3471,
+      "sha256": "dcf28553d442dfc53a9f90f7c52bd48c9e2e7e5e27b197aa7ca4be1c8daed703",
+      "body_read_ranges": [
+        [
+          1,
+          3471
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/README.md",
+      "bytes": 653,
+      "lines": 18,
+      "sha256": "346722207fce95fe1298ea995a50bc0d137f63cc6ad8ca94f3c9343dde5550f8",
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "bytes": 24906,
+      "lines": 607,
+      "sha256": "136692787ff1856d79b74ad2bb496204ebe23bf74a055ad636fa270464e719f0",
+      "body_read_ranges": [
+        [
+          1,
+          607
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-b.tex",
+      "bytes": 10051,
+      "lines": 273,
+      "sha256": "56c7fcee72820c4274d46c1257cc42012ab8ba3fc29700127ed67e9c1cd98967",
+      "body_read_ranges": [
+        [
+          1,
+          273
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-c.tex",
+      "bytes": 4734,
+      "lines": 107,
+      "sha256": "532a5371cf03f140863aa02251f6bf79dcefee9c6e5c0f4b473a1678af57d0fd",
+      "body_read_ranges": [
+        [
+          1,
+          107
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/figures/odd-cut-recursion.tex",
+      "bytes": 2071,
+      "lines": 55,
+      "sha256": "f3c942addc6670917494e1f391addcd9d1556dceabd52cacd08e437012011c75",
+      "body_read_ranges": [
+        [
+          1,
+          55
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/main.tex",
+      "bytes": 2704,
+      "lines": 77,
+      "sha256": "8d3d0535b97e175657926d551e6816ea97a38c40a2501bb17e1be3c963a1dde0",
+      "body_read_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/references.bib",
+      "bytes": 11316,
+      "lines": 326,
+      "sha256": "3ba1087872fdc479a6c3efa418498e7c80b98eef41dfa2e1566a4083b5d89331",
+      "body_read_ranges": [
+        [
+          1,
+          326
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/01-introduction.tex",
+      "bytes": 15755,
+      "lines": 287,
+      "sha256": "b5dac47840e40de4d2b31a3cbe326544fcb0612d33625676b5c632837ec435ce",
+      "body_read_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "bytes": 17916,
+      "lines": 418,
+      "sha256": "daf1345bd7604938bcc57e839c7b7c76998284870900a29c08b4683478114ac7",
+      "body_read_ranges": [
+        [
+          1,
+          418
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex",
+      "bytes": 12425,
+      "lines": 276,
+      "sha256": "aa18dcaff7bf375812469f2e4a059a85b13851fbc445e16618de9dc27a410899",
+      "body_read_ranges": [
+        [
+          1,
+          276
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex",
+      "bytes": 7123,
+      "lines": 188,
+      "sha256": "aae9b7cdf01260f94f2206f31245b15dd63cd467d52d170c26c82b96fb4138cf",
+      "body_read_ranges": [
+        [
+          1,
+          188
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/05-weighted.tex",
+      "bytes": 3100,
+      "lines": 89,
+      "sha256": "9b993d9ea79e7d692f604be3748eed0cd432700adfd86ac9e1eacdc0dbd250b1",
+      "body_read_ranges": [
+        [
+          1,
+          89
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/06-objective.tex",
+      "bytes": 6891,
+      "lines": 195,
+      "sha256": "4a668d66308cf146373237a6c05e28e8ec537993f077d26a15b3bd805d1aae50",
+      "body_read_ranges": [
+        [
+          1,
+          195
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex",
+      "bytes": 7901,
+      "lines": 254,
+      "sha256": "9276976b0ca6d470015366ce7eab50bd1d92307211fb1223bf62b8fece4c2bcb",
+      "body_read_ranges": [
+        [
+          1,
+          254
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/08-odd-cuts.tex",
+      "bytes": 9363,
+      "lines": 203,
+      "sha256": "9a3e6e10c0ae385e77bbff4ad19d98cfd58231274ff0f57e96730b627e691119",
+      "body_read_ranges": [
+        [
+          1,
+          203
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/09-algorithm.tex",
+      "bytes": 9605,
+      "lines": 238,
+      "sha256": "b328441fc52680cff5438841bd394a0ad2a614e0dca13ed57b9f321bdb71f824",
+      "body_read_ranges": [
+        [
+          1,
+          238
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex",
+      "bytes": 11476,
+      "lines": 297,
+      "sha256": "9495bd601f5d1a0eb5a1e596addb8042ddf004d7fe2a36aff2f973a0160da975",
+      "body_read_ranges": [
+        [
+          1,
+          297
+        ]
+      ],
+      "fully_read": true
+    }
+  ],
+  "fully_read_additional_files": [
+    "math/lean/docs/113.md"
+  ],
+  "selected_metadata_ranges": {
+    "math/lean/formalization.yaml": [
+      [
+        382,
+        404
+      ]
+    ]
+  },
+  "not_executed": [
+    "source algorithms",
+    "Lean build",
+    "Comparator",
+    "application experiment"
+  ],
+  "next_read": null,
+  "remaining": "Whole dependency/history/human/secondprovider audits remain open;WP091 real software count-demand qualification next. No source algorithm,Lean/Comparator or application experiment executed.",
+  "canonical_ledger": "data/provenance/readings/F-113.json",
+  "canonical_analysis": "ANALYSIS-F-113",
+  "quality_directory": "reports/reproducibility/20261022-perfect-matching"
+}

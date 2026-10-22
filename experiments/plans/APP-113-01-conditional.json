@@ -1,0 +1,37 @@
+{
+  "id": "APP-113-01",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261022-087",
+  "analogy": "near",
+  "input": "Explicit simple undirected loopless graph G on2m vertices;0/1 adjacency A;positive rational c with certifiedc*rho(A)<1;fixed eta/delta and independentlybudgeted prefactor errors. Nonstructured request pack not frozen.",
+  "output": "Classical calibration interval for the ideal all-one-photon event of doubled graph encoding;not a Gaussian-state sampler or physical-noise estimate",
+  "hypothesis": "For a separately frozen pack of admitted, nonstructured simple 0/1 graph calibration requests, a fully justified and budget-admitted F113-based counter plus certified optical prefactor will produce the ideal doubled-graph one-photon-event probability within the declared relative error eta and confidence 1-delta. Complete wall time, peak memory, output precision and failure rate must be measured against the strongest eligible old exact and stochastic counters at matched accuracy; no finite benefit is presumed. Every admitted timeout, invalid interval or missed probability target is a failure. The literal published replica schedule is currently not budget-admissible, so no test is registered or run.",
+  "mechanism": "C=#PM(G)=haf(A). Selected2017Eq6 gives p=K C^2 with K=c^(2m)*sqrt(det(I-c^2 A^2)). Relative counter error eps contributes at most2eps+eps^2 before separately budgeted certified K error. Zero-count branch returns exactzero. This is an interface inference,not a new theorem or implementation.",
+  "judge": "Beforeoutputs freeze workload provenance,nonstructuredholdouts,eta/delta,allruntime/RSS/bitcaps,completeconstructor,certifiedpositiveprefactoranderrorbudget. Independent exact rational deletion recurrence/reference enumeration for small admitted graphs and justified nontrivial oracle for larger cases. Samecapsandprecision forstrongexact/stochasticoldbaselines. KnownK4/K20/complete-minus-one-edge formula examples are controls only,not blind discovery or new application credit.",
+  "baseline": [
+    "Graphillion represented-set perfect_matchings/f_factors and exact cardinality at matched graph universe;no silentreplacementofextraGraphSetfilters",
+    "Walrus Glynn/inclusion-exclusion/recursive hafnian algorithms with numericalerror accounted;reference integer/symbolic enumeration on small inputs",
+    "Walrus nonnegative Barvinok determinant estimator with explicit empirical/confidence limitations;num_samples isnot an FPRAS eps/delta contract",
+    "Old bipartite permanent,planar Pfaffian,small-ear parameterized algorithm or closed forms when inputs qualify;do not compare only brute force or one-matching existence"
+  ],
+  "limits": [
+    "No practical F113 counter implementation;literal q=32(10^4ND)^100 and prescribed s(xi) require astronomically many updates in the generic sampling branch",
+    "A different efficient sampler/compressedjump implementation is not established by merely choosing fewer steps",
+    "Actual Graphillion API returns exact counts and arbitrary set filters;relativecount is not a drop-in substitute",
+    "Generic Walrus quantum calls use complex weighted/repeated/loop hafnians and are outside F113 unweighted relative theorem",
+    "Optical relation selected source C and full source/history/spec/human reviews incomplete",
+    "No real hardware calibration data,no independentlyqualifiedlarge-instanceoracle,no frozen numericalspec,applicationrunorbenefit"
+  ],
+  "revisit": "A justified practical counter satisfying the stated promise on a frozen actual graph-count workload and fair fullcost baseline;then preregister before outputs. Do not run the literal huge schedule or replace it by unproved short Monte Carlo.",
+  "source_labels": [
+    "F::thm:main",
+    "F::thm:bag-sampler"
+  ],
+  "part_keys": [
+    "CALIBRATION-MAP",
+    "LITERAL-BUDGET-GAP",
+    "STRONG-OLD-COUNTERS"
+  ],
+  "run_ids": []
+}

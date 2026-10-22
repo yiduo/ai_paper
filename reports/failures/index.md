@@ -10,6 +10,7 @@
 - APP-094-01（待定）：降低数值实现优先级：旧WLS已拟合一致分数差；尚无可实施的新权重搜索与真实有界噪声目标。minimax松弛不冒充同约束基线。；证据及未执行项见对应卡片。
 - APP-094-02（待定）：Metadatareadabilityremoved,but40zero-distancegroupshavedifferentperturbationlabels;independentbiologicaljudge/ties/grain/commonlawconstructor/fullcoststillunestablished. Strongfourcoordinateidentityremains.；证据及未执行项见对应卡片。
 - APP-097-01（观察）：Shrink to boundary and non-antipodal tests; prioritize other families rather than tuning this to a success.；证据及未执行项见对应卡片。
+- APP-113-01（待定）：保留真实图计数到事件标定的具体映射；字面规程成本不准入且强旧基线已存在，近期执行优先级低。；证据及未执行项见对应卡片。
 - APP-114-01（待定）：Related real counting demand exists,but selected DNET target differs and existing Graphillion baseline is stronger than plain optimization;defer generic counter pending actual matched quota workload and old-method cost evidence.；证据及未执行项见对应卡片。
 - APP-115-01（待定）：Sourcecontractreview foundno matcheduniformconfiguration-countworkload inselectedtools;retainconditionalmappinganddefercounteruntilpositive demand/cost evidence.；证据及未执行项见对应卡片。
 - APP-119-01（观察）：强旧基线消除表面新增收益。停止调a、目标、网格或换同类近确定性例求成功；保留不利应用观察及源方法。；证据及未执行项见对应卡片。

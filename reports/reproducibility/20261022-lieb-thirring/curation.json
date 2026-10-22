@@ -1,0 +1,20 @@
+{
+  "new_nodes": 81,
+  "old_nodes_exact": 3698,
+  "revised_nodes": [
+    "CLM-262-SCALAR",
+    "CLM-262-MATRIX"
+  ],
+  "old_edges_exact": false,
+  "new_edges": 239,
+  "results": 37,
+  "methods": 14,
+  "bibliography_bindings": 50,
+  "external_works": 26,
+  "full_family_complete": false,
+  "old_edges_exact_except": [
+    "E-1807B019A8E275D8"
+  ],
+  "old_edge_prior_archive": "data/graph/history/GEN088-dependency-before.json.gz",
+  "reason": "Whole proof reading corrects initial intro-only dependency;both source mathematical claims/grades unchanged"
+}

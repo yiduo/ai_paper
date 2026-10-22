@@ -1,0 +1,504 @@
+{
+  "receipt_type": "Execution-only input qualification;not canonical completed source reading or mathematical review",
+  "work_package": "WP-092",
+  "saved_at": "2026-10-22T05:32:17.358852+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "current_source_draft_curated_quality_passed_not_full_family",
+  "canonical_coverage_promoted": true,
+  "tex_inventory_files": 31,
+  "tex_inventory_lines": 5362,
+  "files": [
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/README.md",
+      "bytes": 614,
+      "lines": 20,
+      "sha256": "f8b2645ee0e5b735e7e216c1569d58c34762b33b3e213cc7bab6479b27309360",
+      "body_read_ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/main.tex",
+      "bytes": 882,
+      "lines": 29,
+      "sha256": "ff78a6c69a714977a7c50f39c35b7c2048ae554b22a6b2c9d78e55e65cce6efa",
+      "body_read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/preamble.tex",
+      "bytes": 1301,
+      "lines": 36,
+      "sha256": "f19092ceadb50ceba5e70b896603b3b54aab53ef39dbf15de493db4e5ba78e81",
+      "body_read_ranges": [
+        [
+          1,
+          36
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/references.bib",
+      "bytes": 8149,
+      "lines": 255,
+      "sha256": "7959c0125347e8db8c49fe7da58ba11731e9dc3466582cf45a2a377629ef08b1",
+      "body_read_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-framework.tex",
+      "bytes": 2824,
+      "lines": 62,
+      "sha256": "d0884894b16cf0e0785d552d524e5da83e9e5ac2148fc86a26e8cbc580b3e215",
+      "body_read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-limit.tex",
+      "bytes": 3135,
+      "lines": 75,
+      "sha256": "bcfaef9e3ac0d5ca59cc2aac1f9cc6dd9ac13812771575d961be4413a66b8687",
+      "body_read_ranges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/connecting-path.tex",
+      "bytes": 12748,
+      "lines": 299,
+      "sha256": "91a190db70c40b20d0799793925aa4aae2c67e2c82d8fcc4bfcdbed703fe66e9",
+      "body_read_ranges": [
+        [
+          1,
+          299
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/introduction.tex",
+      "bytes": 8641,
+      "lines": 167,
+      "sha256": "c2b91386486f94520c349ea813f2f4cfd599792422daa964efffac14494c28a2",
+      "body_read_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex",
+      "bytes": 8694,
+      "lines": 227,
+      "sha256": "34eed7d475a657750a40c0c4b0261e0768fea6c321fdc27b13dbf0ad6e07e717",
+      "body_read_ranges": [
+        [
+          1,
+          227
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex",
+      "bytes": 8660,
+      "lines": 221,
+      "sha256": "40d96bf8f4992a54a801f6e59ab65bc0d5a1e2f9462b2cf7eeb14e9a0bdb22ec",
+      "body_read_ranges": [
+        [
+          1,
+          221
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex",
+      "bytes": 10546,
+      "lines": 281,
+      "sha256": "71c04c0773fc320e0dc3f29e2807d181ac0ebbb19fc9bc24ae39398590688901",
+      "body_read_ranges": [
+        [
+          1,
+          281
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/README.md",
+      "bytes": 743,
+      "lines": 18,
+      "sha256": "a6df3d55bbbc1a362100e565b2421091e02e5b043445db80f648a20bf0d6abce",
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/main.tex",
+      "bytes": 956,
+      "lines": 26,
+      "sha256": "0e4ff5f92c51cb88c520be25f748bbda14e7a666cc11795fea1d13f50bcc55b0",
+      "body_read_ranges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/notes/history.tex",
+      "bytes": 2650,
+      "lines": 46,
+      "sha256": "780cd774589fac5e273223d1862a9700838ce36dc0eef0a0b479a8976cec01c2",
+      "body_read_ranges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/preamble.tex",
+      "bytes": 1080,
+      "lines": 29,
+      "sha256": "c52490ce043dca26f1452c3c6754401c649348283c3b5fc8c08a203795b08040",
+      "body_read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/references.tex",
+      "bytes": 3939,
+      "lines": 98,
+      "sha256": "037660396683762f2d322129d46f328f9ddea657aa40427f9a71a942219263c8",
+      "body_read_ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-framework.tex",
+      "bytes": 2174,
+      "lines": 48,
+      "sha256": "0cf420e9a3f0ff968bd693c9115d815da1f44901e6c6711040a15e459ebf1a98",
+      "body_read_ranges": [
+        [
+          1,
+          48
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-limit.tex",
+      "bytes": 4875,
+      "lines": 124,
+      "sha256": "6f4c14dfcdd1185cc2043af27d0d71229aeb28c942b37ae1ef67b4766ecc4a8a",
+      "body_read_ranges": [
+        [
+          1,
+          124
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex",
+      "bytes": 13871,
+      "lines": 360,
+      "sha256": "6864939da6e21854aec9848e89c0a7051c451ca31a3d9a64d0bf9d21f03843ed",
+      "body_read_ranges": [
+        [
+          1,
+          360
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/introduction.tex",
+      "bytes": 5720,
+      "lines": 106,
+      "sha256": "72dedb3dd3e00cd1e9e3db45c1bc9080f42006ff654cea6a18a98537528a8b60",
+      "body_read_ranges": [
+        [
+          1,
+          106
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/paths.tex",
+      "bytes": 12649,
+      "lines": 285,
+      "sha256": "9cc18ba7f1631d6e1f9f42cd1e8ecc4f53e21fee07ec4ffe96436ea468d39480",
+      "body_read_ranges": [
+        [
+          1,
+          285
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/spectral.tex",
+      "bytes": 10219,
+      "lines": 234,
+      "sha256": "6a4dbfd78dc6302602bbaeb36d66eab82b58afb8b4972d2ba0f5020ec36294a4",
+      "body_read_ranges": [
+        [
+          1,
+          234
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/trace.tex",
+      "bytes": 15694,
+      "lines": 401,
+      "sha256": "51a13c2b744a15a4c39bf78e4a9e35453d647f9be12d70965dcee9c8f222cb14",
+      "body_read_ranges": [
+        [
+          1,
+          401
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/README.md",
+      "bytes": 848,
+      "lines": 18,
+      "sha256": "aef31076e5a654582bf1e2cd715745875a1947f542fb58a25e2c8fa7122c5b01",
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/main.tex",
+      "bytes": 1002,
+      "lines": 29,
+      "sha256": "bfaa1e3e2e9502ccbf23f98c8a0536f6b9be1866ad5e08d984f1966d16cc5bb0",
+      "body_read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/preamble.tex",
+      "bytes": 1123,
+      "lines": 28,
+      "sha256": "7f3926a0f92147672b19b7f562a20e70f8124babf6e0faed11c82eab9bf01059",
+      "body_read_ranges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/references.tex",
+      "bytes": 3791,
+      "lines": 90,
+      "sha256": "40159a8df18cda57c6859f182c502cfa23234ae3120c873348ea7aecc451b773",
+      "body_read_ranges": [
+        [
+          1,
+          90
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/action.tex",
+      "bytes": 12438,
+      "lines": 328,
+      "sha256": "3acbaec3c554c27baf29b98c326a85d7337008a23c839920cd3e773b4c89c32a",
+      "body_read_ranges": [
+        [
+          1,
+          328
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex",
+      "bytes": 19245,
+      "lines": 465,
+      "sha256": "34bcdc9e6918c9da88626e44808cacfee98532e3b3e5648c0c331cd758349178",
+      "body_read_ranges": [
+        [
+          1,
+          465
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-trace.tex",
+      "bytes": 10418,
+      "lines": 287,
+      "sha256": "60955d05883d9039fbe58d2aaa3a7f2f12bcdd21dc54eabfb0199fc21c8f5dc3",
+      "body_read_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/compactness.tex",
+      "bytes": 15316,
+      "lines": 379,
+      "sha256": "910c2aea5e27a4ec1f6e46b0dc8f102db0e2faacb057a8c64db8967b328cab8e",
+      "body_read_ranges": [
+        [
+          1,
+          379
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/introduction.tex",
+      "bytes": 8251,
+      "lines": 161,
+      "sha256": "296070a983ced0094a761b41562a7eda1e24471d885b84118c3a56227b35b002",
+      "body_read_ranges": [
+        [
+          1,
+          161
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/preliminaries.tex",
+      "bytes": 3712,
+      "lines": 83,
+      "sha256": "948415dac993d6e5d11f88da0afe27a4bd974ee7c0027f9907698b97e6c9af6c",
+      "body_read_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/rigidity.tex",
+      "bytes": 12542,
+      "lines": 293,
+      "sha256": "d9deee77f0feb5567f1e19301880d085ce2e273bf916a8a06614e3011a60678e",
+      "body_read_ranges": [
+        [
+          1,
+          293
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/spectral-bound.tex",
+      "bytes": 2679,
+      "lines": 65,
+      "sha256": "1259c18d8875055b61a1f13f6d40b051af46163278fdc2b7bc0613e78f1b8032",
+      "body_read_ranges": [
+        [
+          1,
+          65
+        ]
+      ],
+      "fully_read": true
+    }
+  ],
+  "source_scope_observations": [
+    "Firstscalarstrictgamma(1/2,3/2)sourceincludesrough/unboundedpotentialsandfullnegative-spectrumtrace,notafinitegrideigenvaluebound",
+    "MatrixcompanionallowsfinitecomplexHermitianPSDchannelsnoncommutingacrossx,unnormalizedtrace,dimensionindependentconstant",
+    "Equalitycompanionclaimsoneconstantunitarybasiswithindependentsech2profilesandatmostmnegativeeigenvalues;endpoint3/2explicitlydifferent"
+  ],
+  "not_executed": [
+    "source constructions",
+    "Lean build",
+    "Comparator",
+    "numerical experiment"
+  ],
+  "next_read": "WP092 complete;retro033 completed. WP093 F139 full-source qualification selected;publication synchronization first.",
+  "remaining": "Full lineage/proof dependency closure and real human/second-provider reviews remain incomplete;no candidate or numerical run.",
+  "scalar_read_notes": [
+    "Fullscalarproof1397TeX+255Bibread;finiteorthonormalmatrixdimensionnotfinite-gridpotential",
+    "Symmetriccutoffremovesoddresolventtail;scalarconcavitynotglobaloperatorconcavity;HSregularity",
+    "RankoneD=K2-B2mayindefinite;integratedtangent iseven-Gaussianmixture ofunitaryconjugations",
+    "NonzerorowquotientfreeactiondoesnotrequireCinvertible;relativeparityargumentnotnumericalpathalgorithm",
+    "Fixdelta,takeepsilon->0first;no uniformdeltaorBprimeboundused;fullnegative-spectrumtracebysupofpartial sums",
+    "Signedextensionrequiresdensifiedweightedformdomain;sech2knownsharpnesscalibrationnotapplicationtest"
+  ],
+  "matrix_equality_read_notes": [
+    "Matrix half-line maps S,T need not be positive; L=(S+T)/2=R^-1 positive. Exact two-term HS trace deficit requires full symbol positive and N>=0, not V>=0.",
+    "Arbitrary-rank rectangular action proof retains unnormalized traces, noncommutation, fixed-delta epsilon-first limit; no efficient path construction.",
+    "Equality quantitative capped defect coefficient depends on sigma,kappa but not eigenfamily size/smallest eigenvalue; regularization error still depends on n.",
+    "Infinite eigenfamily compactness uses fixed physical channel rank m and common spectral shifts; pointwise B limits are not assumed measurable.",
+    "Gronwall fixes right kernels; left projection then fixed, unique Riccati ODE gives constant global basis and independent soliton centres/scales. Strict interval excludes gamma3/2 multisoliton equality.",
+    "Read both equality appendices including resolvent/HS identity and sign-quotient parity continuation. No Lean build, Comparator, numeric run or mathematical human review."
+  ],
+  "visual_reads": [
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/figures/half-line-gluing.png",
+      "scope": "Actual PNG pixels inspected read-only; source figure labels and half-line derivative jump/normalization; not separately rendered PDF counterpart"
+    }
+  ],
+  "canonical_reading_ledger": "data/provenance/readings/F-262.json",
+  "full_family_completed": false
+}

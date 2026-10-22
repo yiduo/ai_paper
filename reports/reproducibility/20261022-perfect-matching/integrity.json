@@ -1,0 +1,214 @@
+{
+  "recorded_at": "2026-10-22T04:40:53.709256+00:00",
+  "canonical_total": 3689,
+  "full_graph_nodes": 6155,
+  "full_graph_edges": 16146,
+  "old_canonical_unchanged": 3546,
+  "new_canonical": 143,
+  "all_old_edges_exact": true,
+  "coverage_prior_exact": true,
+  "source_claims": 62,
+  "aliases_not_extra": 3,
+  "selected_grades": "6B/56C;completechainunknown",
+  "local_source_hashes_verified": 5701,
+  "external_annotations": 405,
+  "canonical_citations": 6106,
+  "impact_cases": [
+    {
+      "seed": "CLM-113-F-LEM-FOUR-HOLES",
+      "required": [
+        "CLM-113-F-THM-LOGICAL-HOLE-BOUND",
+        "CLM-113-F-THM-MAIN"
+      ],
+      "excluded": [
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-E-THM-MAIN",
+        "APP-120-01"
+      ],
+      "affected": [
+        "CLM-113-F-COR-PRESCRIBED-DEGREE",
+        "CLM-113-F-LEM-DELETION-SAMPLER",
+        "CLM-113-F-LEM-FOUR-HOLES",
+        "CLM-113-F-LEM-LIFTED-HOLE-BOUND",
+        "CLM-113-F-LEM-SUCCESSFUL-STAGE",
+        "CLM-113-F-PROP-BAG-INFLATION",
+        "CLM-113-F-THM-LOGICAL-HOLE-BOUND",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-BOTTLENECK-CAPACITY",
+        "PART-113-CONSTANT-FIBRES",
+        "PART-113-FEASIBLE-SELF-REDUCTION",
+        "PART-113-TWO-BAG-LABELS"
+      ]
+    },
+    {
+      "seed": "CLM-113-F-THM-PAIR-ENERGY",
+      "required": [
+        "CLM-113-F-LEM-REPLICA-GAP",
+        "CLM-113-F-THM-BAG-SAMPLER",
+        "CLM-113-F-THM-MAIN"
+      ],
+      "excluded": [
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-E-THM-MAIN"
+      ],
+      "affected": [
+        "CLM-113-F-COR-PRESCRIBED-DEGREE",
+        "CLM-113-F-LEM-DELETION-SAMPLER",
+        "CLM-113-F-LEM-REPLICA-GAP",
+        "CLM-113-F-THM-BAG-SAMPLER",
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-F-THM-PAIR-ENERGY",
+        "PART-113-ADDITIVE-ENERGY",
+        "PART-113-CONSTANT-FIBRES",
+        "PART-113-FEASIBLE-SELF-REDUCTION",
+        "PART-113-REPLICA-UPGRADE"
+      ]
+    },
+    {
+      "seed": "CLM-113-F-LEM-FINITE-RANDOM-CHOICE",
+      "required": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-F-COR-PRESCRIBED-DEGREE"
+      ],
+      "excluded": [
+        "CLM-113-E-THM-MAIN",
+        "CLM-113-E-ENT-MAIN"
+      ],
+      "affected": [
+        "CLM-113-F-COR-PRESCRIBED-DEGREE",
+        "CLM-113-F-LEM-DELETION-SAMPLER",
+        "CLM-113-F-LEM-FINITE-RANDOM-CHOICE",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-CONSTANT-FIBRES",
+        "PART-113-FEASIBLE-SELF-REDUCTION",
+        "PART-113-FIXED-BIT-CHOICE"
+      ]
+    },
+    {
+      "seed": "CLM-113-E-GEOM-PROP-RANK",
+      "required": [
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-E-CONS-WEIGHTED"
+      ],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-THM-MAIN",
+        "CLM-113-E-EX-LEM-EXPANSION-FACE"
+      ],
+      "affected": [
+        "CLM-113-E-CONS-ENTROPY-COUNT",
+        "CLM-113-E-CONS-REGULAR",
+        "CLM-113-E-CONS-STRUCTURAL",
+        "CLM-113-E-CONS-WEIGHTED",
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-E-GEOM-PROP-RANK",
+        "PART-113-MARGINAL-ENTROPY",
+        "PART-113-WEIGHTED-VARIATIONAL"
+      ]
+    },
+    {
+      "seed": "CLM-113-E-D-LEM-UNIT-MINCUT",
+      "required": [
+        "CLM-113-E-D-LEM-ODD-CUT-ORACLE",
+        "CLM-113-E-THM-MAIN",
+        "CLM-113-E-C-PROP-LOOPS"
+      ],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-ENT-MAIN"
+      ],
+      "affected": [
+        "CLM-113-E-C-PROP-LOOPS",
+        "CLM-113-E-D-LEM-EXACT-PENALTY",
+        "CLM-113-E-D-LEM-ODD-CUT-ORACLE",
+        "CLM-113-E-D-LEM-PROJECTED-ASCENT",
+        "CLM-113-E-D-LEM-UNIT-MINCUT",
+        "CLM-113-E-THM-MAIN",
+        "PART-113-FIXED-GRID-ASCENT",
+        "PART-113-ODD-CUT-ORACLE",
+        "PART-113-PENALTY-REPAIR",
+        "PART-113-SINGLETON-INTERPOLATION"
+      ]
+    },
+    {
+      "seed": "CLM-113-E-EX-LEM-EXPANSION-FACE",
+      "required": [
+        "CLM-113-E-EX-PROP-KLEE-FACE",
+        "CLM-113-E-EX-COR-COEFFICIENT"
+      ],
+      "excluded": [
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-GEOM-PROP-RANK"
+      ],
+      "affected": [
+        "CLM-113-E-EX-COR-COEFFICIENT",
+        "CLM-113-E-EX-LEM-EXPANSION-FACE",
+        "CLM-113-E-EX-PROP-KLEE-FACE",
+        "PART-113-TRIANGLE-FACE"
+      ]
+    },
+    {
+      "seed": "PART-113-REAL-COST-GAP",
+      "required": [
+        "XPL-113-TEN-DOMAINS"
+      ],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-THM-MAIN",
+        "CLM-113-E-ENT-MAIN",
+        "APP-115-01"
+      ],
+      "affected": [
+        "PART-113-REAL-COST-GAP",
+        "XPL-113-TEN-DOMAINS"
+      ]
+    },
+    {
+      "seed": "PART-120-FACTOR-NETWORK",
+      "required": [],
+      "excluded": [
+        "CLM-113-F-COR-PRESCRIBED-DEGREE",
+        "CLM-113-F-THM-MAIN",
+        "XPL-113-TEN-DOMAINS"
+      ],
+      "affected": [
+        "PART-120-FACTOR-NETWORK"
+      ]
+    },
+    {
+      "seed": "HIST-113-SVW-OBSTRUCTION",
+      "required": [],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-THM-MAIN",
+        "XPL-113-TEN-DOMAINS"
+      ],
+      "affected": [
+        "HIST-113-SVW-OBSTRUCTION"
+      ]
+    },
+    {
+      "seed": "PART-113-MARGINAL-FEASIBILITY-GAP",
+      "required": [
+        "XPL-113-TEN-DOMAINS"
+      ],
+      "excluded": [
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-E-THM-MAIN",
+        "CLM-113-F-THM-MAIN"
+      ],
+      "affected": [
+        "PART-113-MARGINAL-FEASIBILITY-GAP",
+        "XPL-113-TEN-DOMAINS"
+      ]
+    }
+  ],
+  "code_config_experiment_files_unchanged": 178,
+  "formal_index_unique_files": 592,
+  "formal_index_unique_declarations": 9217,
+  "new_numerical_run": false,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "math_redeployed": false
+}

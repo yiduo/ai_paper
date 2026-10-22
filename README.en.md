@@ -4,7 +4,7 @@
 
 This project connects a pinned mathematical manuscript corpus with historical literature, transferable methods, and concrete application problems. Its unit of research is **result family + historical lineage + application problem**. A versioned knowledge graph records the evidence, conditions, dependencies, experiments, and unresolved gaps.
 
-**Phase one is incomplete.** The project has 40 candidate connections and 13 preliminary checks of distinct hypotheses. Five checks support narrowly defined predictions; eight retain adverse observations. These are not five new mathematical results or demonstrated engineering improvements. No family has completed the full research requirements or all six stages. Human review, independent checks by another model provider, and engineering pilots remain outstanding.
+**Phase one is incomplete.** The project has 41 candidate connections and 13 preliminary checks of distinct hypotheses. Five checks support narrowly defined predictions; eight retain adverse observations. These are not five new mathematical results or demonstrated engineering improvements. No family has completed the full research requirements or all six stages. Human review, independent checks by another model provider, and engineering pilots remain outstanding.
 
 ## Corpus and upstream boundary
 
@@ -62,4 +62,6 @@ Original project code, documentation, and derived records are licensed under [Ap
 
 Publication status and its verification receipt are recorded in [state/publication.json](state/publication.json). Publication does not complete the research program, grant a mathematical credibility upgrade, or imply approval for engineering deployment. See [publication scope](docs/publication.md).
 
-The [bounded symbolic-demand follow-up](reports/F025-demand-followup.md) distinguishes a real constrained old caller from the proposed single-marker feature. [Retrospective 032](reports/retrospectives/032-demand-constraints-and-next-counting-route.md) keeps all unmet phase-one targets and selects unread F113 next.
+The [bounded symbolic-demand follow-up](reports/F025-demand-followup.md) distinguishes a real constrained old caller from the proposed single-marker feature. [Retrospective 032](reports/retrospectives/032-demand-constraints-and-next-counting-route.md) keeps all unmet phase-one targets. F113 is now read in full; [its scope report](reports/perfect-matching-F113-reading.md) separates relative counting, coarse deterministic counting, entropy, and sampling. The subsequent demand review qualifies actual counting consumers and strong old baselines; the next reading package covers F262 scalar/matrix spectral inequalities.
+
+The [matching-count demand review](reports/F113-counting-demand.md) adds one conditional graph-probability calibration connection. The literal published replica schedule is not admitted for finite execution. No new preliminary check or general Gaussian-boson-sampling claim is counted.

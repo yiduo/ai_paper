@@ -1,0 +1,162 @@
+{
+  "recorded_at": "2026-10-22T05:04:01.651708+00:00",
+  "canonical_total": 3700,
+  "full_graph_nodes": 6175,
+  "full_graph_edges": 16201,
+  "new_canonical": 11,
+  "exact_prior_versions": 1,
+  "old_canonical_unchanged": 3688,
+  "all_old_edges_exact": true,
+  "coverage_and_reading_ledger_unchanged": true,
+  "all_old_claims_unchanged": 1246,
+  "canonical_citations": 6134,
+  "local_source_hashes_verified": 5720,
+  "external_annotations": 414,
+  "impact_cases": [
+    {
+      "seed": "CLM-113-F-THM-MAIN",
+      "required": [
+        "PART-113-CALIBRATION-MAP",
+        "APP-113-01"
+      ],
+      "excluded": [
+        "PART-113-STRONG-OLD-COUNTERS",
+        "APP-115-01",
+        "APP-120-01"
+      ],
+      "affected": [
+        "APP-113-01",
+        "CLM-113-F-COR-PRESCRIBED-DEGREE",
+        "CLM-113-F-LEM-DELETION-SAMPLER",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-CALIBRATION-MAP",
+        "PART-113-CONSTANT-FIBRES",
+        "PART-113-FEASIBLE-SELF-REDUCTION"
+      ]
+    },
+    {
+      "seed": "CLM-113-F-THM-BAG-SAMPLER",
+      "required": [
+        "PART-113-LITERAL-BUDGET-GAP",
+        "APP-113-01",
+        "XPL-113-DEMAND"
+      ],
+      "excluded": [
+        "CLM-113-E-ENT-MAIN",
+        "CLM-113-E-THM-MAIN"
+      ],
+      "affected": [
+        "APP-113-01",
+        "CLM-113-F-COR-PRESCRIBED-DEGREE",
+        "CLM-113-F-LEM-DELETION-SAMPLER",
+        "CLM-113-F-THM-BAG-SAMPLER",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-CALIBRATION-MAP",
+        "PART-113-CONSTANT-FIBRES",
+        "PART-113-FEASIBLE-SELF-REDUCTION",
+        "PART-113-LITERAL-BUDGET-GAP",
+        "XPL-113-DEMAND"
+      ]
+    },
+    {
+      "seed": "PART-113-LITERAL-BUDGET-GAP",
+      "required": [
+        "APP-113-01",
+        "XPL-113-DEMAND"
+      ],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-F-THM-BAG-SAMPLER",
+        "CLM-113-E-ENT-MAIN"
+      ],
+      "affected": [
+        "APP-113-01",
+        "PART-113-LITERAL-BUDGET-GAP",
+        "XPL-113-DEMAND"
+      ]
+    },
+    {
+      "seed": "LIT-113-GBS2017",
+      "required": [
+        "PART-113-CALIBRATION-MAP",
+        "PROB-113-GBS-CALIBRATION",
+        "APP-113-01"
+      ],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-ENT-MAIN",
+        "PART-113-STRONG-OLD-COUNTERS"
+      ],
+      "affected": [
+        "APP-113-01",
+        "LIT-113-GBS2017",
+        "PART-113-CALIBRATION-MAP",
+        "PROB-113-GBS-CALIBRATION"
+      ]
+    },
+    {
+      "seed": "LIT-113-WALRUS-COUNT",
+      "required": [
+        "PART-113-STRONG-OLD-COUNTERS"
+      ],
+      "excluded": [
+        "APP-113-01",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-CALIBRATION-MAP"
+      ],
+      "affected": [
+        "LIT-113-WALRUS-COUNT",
+        "PART-113-STRONG-OLD-COUNTERS"
+      ]
+    },
+    {
+      "seed": "LIT-113-GRAPHILLION-COUNT",
+      "required": [
+        "PART-113-STRONG-OLD-COUNTERS"
+      ],
+      "excluded": [
+        "APP-113-01",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-CALIBRATION-MAP"
+      ],
+      "affected": [
+        "LIT-113-GRAPHILLION-COUNT",
+        "PART-113-STRONG-OLD-COUNTERS"
+      ]
+    },
+    {
+      "seed": "CHECK-113-COUNT-DEMAND",
+      "required": [],
+      "excluded": [
+        "APP-113-01",
+        "CLM-113-F-THM-MAIN",
+        "PART-113-LITERAL-BUDGET-GAP"
+      ],
+      "affected": [
+        "CHECK-113-COUNT-DEMAND"
+      ]
+    },
+    {
+      "seed": "PART-113-CALIBRATION-MAP",
+      "required": [
+        "APP-113-01"
+      ],
+      "excluded": [
+        "CLM-113-F-THM-MAIN",
+        "CLM-113-E-ENT-MAIN",
+        "PART-113-STRONG-OLD-COUNTERS"
+      ],
+      "affected": [
+        "APP-113-01",
+        "PART-113-CALIBRATION-MAP"
+      ]
+    }
+  ],
+  "new_candidate": 1,
+  "candidates_total": 41,
+  "new_initial_check": 0,
+  "new_application_run": false,
+  "new_licensed_members": 9,
+  "compressed_source_bytes": 39741,
+  "full_family_and_human_gates_unchanged": true
+}

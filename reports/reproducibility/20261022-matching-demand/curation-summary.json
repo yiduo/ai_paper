@@ -1,0 +1,26 @@
+{
+  "generation_id": "GEN-20261022-087",
+  "canonical_before": 3689,
+  "canonical_after": 3700,
+  "new_records": 11,
+  "new_explicit_edges": 27,
+  "changed_old_records": [
+    "ANALYSIS-F-113"
+  ],
+  "exact_prior_count": 1,
+  "old_records_unchanged": 3688,
+  "all_old_edges_exact": true,
+  "reading_coverage_unchanged": true,
+  "new_candidate": 1,
+  "candidates_total": 41,
+  "new_initial_check": 0,
+  "new_effective_lead": 0,
+  "new_application_run": false,
+  "original_projects": 3,
+  "new_source_members": 9,
+  "source_gzip_bytes": 39741,
+  "temporary_pdf_pixels": 2,
+  "source_claims_or_grades_changed": false,
+  "new_candidate_classification_prior_preserved": true,
+  "candidate_classification_and_timing_priors": 2
+}

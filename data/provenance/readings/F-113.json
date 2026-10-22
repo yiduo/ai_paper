@@ -1,0 +1,2197 @@
+{
+  "family_id": "F-113",
+  "manuscript_ids": [
+    "P-a6b76a57e739fca3",
+    "P-9c9bb2a021e014c6"
+  ],
+  "work_package": "WP-090",
+  "generation_id": "GEN-20261022-086",
+  "recorded_at": "2026-10-22T04:39:44.178163+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "e504a175863ad344b55b164afb6eb01da05bec08",
+  "read_files": {
+    "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/README.md": {
+      "sha256": "1163a09eb4c9ba6538606c07e9497c7489c9bd223ed461ae140bb8c1deeb1ee3",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex": {
+      "sha256": "dcf28553d442dfc53a9f90f7c52bd48c9e2e7e5e27b197aa7ca4be1c8daed703",
+      "total_lines": 3471,
+      "read_ranges": [
+        [
+          1,
+          3471
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/README.md": {
+      "sha256": "346722207fce95fe1298ea995a50bc0d137f63cc6ad8ca94f3c9343dde5550f8",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex": {
+      "sha256": "136692787ff1856d79b74ad2bb496204ebe23bf74a055ad636fa270464e719f0",
+      "total_lines": 607,
+      "read_ranges": [
+        [
+          1,
+          607
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-b.tex": {
+      "sha256": "56c7fcee72820c4274d46c1257cc42012ab8ba3fc29700127ed67e9c1cd98967",
+      "total_lines": 273,
+      "read_ranges": [
+        [
+          1,
+          273
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-c.tex": {
+      "sha256": "532a5371cf03f140863aa02251f6bf79dcefee9c6e5c0f4b473a1678af57d0fd",
+      "total_lines": 107,
+      "read_ranges": [
+        [
+          1,
+          107
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/figures/odd-cut-recursion.tex": {
+      "sha256": "f3c942addc6670917494e1f391addcd9d1556dceabd52cacd08e437012011c75",
+      "total_lines": 55,
+      "read_ranges": [
+        [
+          1,
+          55
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/main.tex": {
+      "sha256": "8d3d0535b97e175657926d551e6816ea97a38c40a2501bb17e1be3c963a1dde0",
+      "total_lines": 77,
+      "read_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/references.bib": {
+      "sha256": "3ba1087872fdc479a6c3efa418498e7c80b98eef41dfa2e1566a4083b5d89331",
+      "total_lines": 326,
+      "read_ranges": [
+        [
+          1,
+          326
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/01-introduction.tex": {
+      "sha256": "b5dac47840e40de4d2b31a3cbe326544fcb0612d33625676b5c632837ec435ce",
+      "total_lines": 287,
+      "read_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex": {
+      "sha256": "daf1345bd7604938bcc57e839c7b7c76998284870900a29c08b4683478114ac7",
+      "total_lines": 418,
+      "read_ranges": [
+        [
+          1,
+          418
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex": {
+      "sha256": "aa18dcaff7bf375812469f2e4a059a85b13851fbc445e16618de9dc27a410899",
+      "total_lines": 276,
+      "read_ranges": [
+        [
+          1,
+          276
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex": {
+      "sha256": "aae9b7cdf01260f94f2206f31245b15dd63cd467d52d170c26c82b96fb4138cf",
+      "total_lines": 188,
+      "read_ranges": [
+        [
+          1,
+          188
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/05-weighted.tex": {
+      "sha256": "9b993d9ea79e7d692f604be3748eed0cd432700adfd86ac9e1eacdc0dbd250b1",
+      "total_lines": 89,
+      "read_ranges": [
+        [
+          1,
+          89
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/06-objective.tex": {
+      "sha256": "4a668d66308cf146373237a6c05e28e8ec537993f077d26a15b3bd805d1aae50",
+      "total_lines": 195,
+      "read_ranges": [
+        [
+          1,
+          195
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex": {
+      "sha256": "9276976b0ca6d470015366ce7eab50bd1d92307211fb1223bf62b8fece4c2bcb",
+      "total_lines": 254,
+      "read_ranges": [
+        [
+          1,
+          254
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/08-odd-cuts.tex": {
+      "sha256": "9a3e6e10c0ae385e77bbff4ad19d98cfd58231274ff0f57e96730b627e691119",
+      "total_lines": 203,
+      "read_ranges": [
+        [
+          1,
+          203
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/09-algorithm.tex": {
+      "sha256": "b328441fc52680cff5438841bd394a0ad2a614e0dca13ed57b9f321bdb71f824",
+      "total_lines": 238,
+      "read_ranges": [
+        [
+          1,
+          238
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex": {
+      "sha256": "9495bd601f5d1a0eb5a1e596addb8042ddf004d7fe2a36aff2f973a0160da975",
+      "total_lines": 297,
+      "read_ranges": [
+        [
+          1,
+          297
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_read_files": {
+    "math/lean/docs/113.md": {
+      "sha256": "988234abb376528ffa180cd07778d5349ed15190b9d21c961117dd9d011c7e00",
+      "total_lines": 27,
+      "read_ranges": [
+        [
+          1,
+          27
+        ]
+      ]
+    },
+    "math/lean/README.md": {
+      "sha256": "292ff9d539f494158dfbf68d989ba85a82782a4343b2fe43088f8fa62525bf1b",
+      "total_lines": 11,
+      "read_ranges": [
+        [
+          1,
+          11
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/README.md": {
+      "sha256": "2ed835b3c59709be6feffe0dec54fc9783fb26aa22d35517475a82ef5199c555",
+      "total_lines": 28,
+      "read_ranges": [
+        [
+          1,
+          28
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/MatchingFPRAS.json": {
+      "sha256": "7f610f6ce6c7a87d1c1f190bdd5676b7f23bec79381c6acf787625a7ebe91fa9",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/MatchingFPRAS.lean": {
+      "sha256": "14624569e906d3702564c39dab9c63bc77ef1d0b621bd1b51a1239fcafbca206",
+      "total_lines": 110,
+      "read_ranges": [
+        [
+          1,
+          110
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/MatchingEntropyBounds.json": {
+      "sha256": "73dda5ee4bf497674dc8e760ae812cb134327602d27e0e6c23010dbd22ba2e07",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/MatchingEntropyBounds.lean": {
+      "sha256": "0327e6c5cadc415707c982adf0d966a29631636fa40719fefbaea069efd51b88",
+      "total_lines": 84,
+      "read_ranges": [
+        [
+          1,
+          84
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/MatchingEntropy.json": {
+      "sha256": "f080baefbec0105edaf37ecc5e2e937b78cb13a9d745dc997bda193c4696e2ee",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/MatchingEntropy.lean": {
+      "sha256": "5e8aacabca23f0b2852ffd7e58c1a87a8e94eec7abb8d5f354d787472d6749db",
+      "total_lines": 69,
+      "read_ranges": [
+        [
+          1,
+          69
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/BinaryMatching.json": {
+      "sha256": "9ec0cd858949e16333ae9d64e68c2a25a1d1f03b59c6af0c90cc79731f2e9c9a",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/BinaryMatching.lean": {
+      "sha256": "05f2ae77b70ff97e2f9cd960662a68fb3664ffae184d2c36bbd6c330955dd090",
+      "total_lines": 76,
+      "read_ranges": [
+        [
+          1,
+          76
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/SingletonLoopMatching.json": {
+      "sha256": "99893f2e245ea894af1af8adb5a883f5e647cb8a44f2c71d0eb3990d2ad9c3c3",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/SingletonLoopMatching.lean": {
+      "sha256": "19d38b8703538dea486feb2d3281dbb2317e6372e59d733062199f500f60cbc6",
+      "total_lines": 132,
+      "read_ranges": [
+        [
+          1,
+          132
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/TriangleFace.json": {
+      "sha256": "82f371b8cab6dd027f6d61cc6d9fd9d3a34885b834a4cfb5f94b96ec453699bd",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ]
+    },
+    "math/lean/ComparatorChallenges/TriangleFace.lean": {
+      "sha256": "0b6b19f837991da8842a33f72947e2feeb595ea31f912ce2d6f607f40422391b",
+      "total_lines": 190,
+      "read_ranges": [
+        [
+          1,
+          190
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/MatchingCount/Main.lean": {
+      "sha256": "5baa10d9bacd0be4ea26ae041a8600c9de9391abe8c0836c0ded10143054b100",
+      "total_lines": 33,
+      "read_ranges": [
+        [
+          1,
+          33
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/MatchingCount/Model.lean": {
+      "sha256": "357b41c991087fcdba5ef7f7170cdc0705d986d3bedd3ca0b4ce115df8611b90",
+      "total_lines": 104,
+      "read_ranges": [
+        [
+          1,
+          104
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/MatchingEntropy/Main.lean": {
+      "sha256": "56419c7eb7799f265990781a791b604100d8ad0bdfc0a14d55bd4f0ce9776ff4",
+      "total_lines": 16,
+      "read_ranges": [
+        [
+          1,
+          16
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/MatchingEntropy/Model.lean": {
+      "sha256": "7547d7c6c380eca6e4443d092be6d7eadf4eda60e8e89070a6ae196dd0dd9a0c",
+      "total_lines": 75,
+      "read_ranges": [
+        [
+          1,
+          75
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/PerfectMatching/Main.lean": {
+      "sha256": "c986879d1e060ab63989c6f21ab9e8a58d7a341364dc36bd31ea85f12637ab0d",
+      "total_lines": 213,
+      "read_ranges": [
+        [
+          1,
+          213
+        ]
+      ]
+    },
+    "math/lean/OAI/Computability/MatchingCount/BinarySolve.lean": {
+      "sha256": "299750c99714c599fb9dd9d988bbc20c0ba617b9aad8be4f05da8cc43bd36eb0",
+      "total_lines": 153,
+      "read_ranges": [
+        [
+          1,
+          153
+        ]
+      ]
+    },
+    "math/lean/OAI/Computability/LoopMatching/Main.lean": {
+      "sha256": "b89372f420ffa395508467274e015d2ed6b5f9d5a1810ab1edcbb8901f363e84",
+      "total_lines": 30,
+      "read_ranges": [
+        [
+          1,
+          30
+        ]
+      ]
+    },
+    "math/lean/OAI/Computability/LoopMatching/Endpoint.lean": {
+      "sha256": "5d504b500b92708caaa466c67d1ed57ce6f207fd66b0f4dff7cd5e5a713d0402",
+      "total_lines": 25,
+      "read_ranges": [
+        [
+          1,
+          25
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/TriangleFace/Main.lean": {
+      "sha256": "afdee36c70bc0670d66fbae85cf7317f532b9525688611560fe66d5a5fea5254",
+      "total_lines": 73,
+      "read_ranges": [
+        [
+          1,
+          73
+        ]
+      ]
+    },
+    "math/lean/OAI/Combinatorics/MatchingEntropy/Pointwise.lean": {
+      "sha256": "a9fe487f108b55e3f1d7bb54e837b01955ff7b2283761b8755da3cccf28a0144",
+      "total_lines": 404,
+      "read_ranges": [
+        [
+          1,
+          27
+        ]
+      ]
+    }
+  },
+  "source_closure": {
+    "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex": [
+      "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex"
+    ],
+    "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/main.tex": [
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-b.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-c.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/figures/odd-cut-recursion.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/main.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/01-introduction.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/05-weighted.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/06-objective.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/08-odd-cuts.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/09-algorithm.tex",
+      "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex"
+    ]
+  },
+  "named_result_count": 62,
+  "named_results": [
+    {
+      "id": "CLM-113-F-THM-MAIN",
+      "label": "thm:main",
+      "aliases": [],
+      "title": "General-graph relative counting",
+      "statement": "Uniform randomized finite-alphabet machine returns nonnegative rational relative-epsilon estimate with probability>=1-delta and exact zero on every tape when Z=0.",
+      "conditions": "Explicit finite simple undirected unweighted graph;0<epsilon<1,0<delta<1/2 rational;worst-case bit cost polynomial in input,epsilon^-1,log(delta^-1). No practical cost or arbitrary weighted/compressed target guarantee.",
+      "constants": "Explicit finite simple undirected unweighted graph;0<epsilon<1,0<delta<1/2 rational;worst-case bit cost polynomial in input,epsilon^-1,log(delta^-1). No practical cost or arbitrary weighted/compressed target guarantee.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        132,
+        143
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "B",
+      "formal_scope": {
+        "comparator": "MatchingFPRAS",
+        "module": "OAI.Combinatorics.MatchingCount.Main",
+        "declaration": "OAI.MatchingFPRAS.thm_main",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      "qualified_label": "F::thm:main"
+    },
+    {
+      "id": "CLM-113-F-THM-LOGICAL-HOLE-BOUND",
+      "label": "thm:logical-hole-bound",
+      "aliases": [],
+      "title": "Logical deleted-vertex capacity",
+      "statement": "Normalized deleted partition ratios times bottleneck pairing capacity are bounded by 2 D0^(|U|/2).",
+      "conditions": "Even deleted set,balanced positive logical activities;D0=10^8(n+1)^4. Pairings are proof objects,not enumerated by the algorithm.",
+      "constants": "Even deleted set,balanced positive logical activities;D0=10^8(n+1)^4. Pairings are proof objects,not enumerated by the algorithm.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        470,
+        481
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::thm:logical-hole-bound"
+    },
+    {
+      "id": "CLM-113-F-LEM-FOUR-HOLES",
+      "label": "lem:four-holes",
+      "aliases": [],
+      "title": "Four-hole overlay",
+      "statement": "Four-hole ratio is at most the sum of three products of two-hole ratios.",
+      "conditions": "Weight-preserving superposition/injection;row bound4 gives two-hole<=4 and four-hole<=48;not independent holes.",
+      "constants": "Weight-preserving superposition/injection;row bound4 gives two-hole<=4 and four-hole<=48;not independent holes.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        497,
+        512
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:four-holes"
+    },
+    {
+      "id": "CLM-113-F-LEM-HOLE-RELOCATION",
+      "label": "lem:hole-relocation",
+      "aliases": [],
+      "title": "Relocate along a strong path",
+      "statement": "Balanced upper activity extensions control two/four-hole ratios times a bottleneck by 10^5 n.",
+      "conditions": "Row window[1/8,4];re-normalized additive path telescoping avoids multiplicative path losses.",
+      "constants": "Row window[1/8,4];re-normalized additive path telescoping avoids multiplicative path losses.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        536,
+        548
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:hole-relocation"
+    },
+    {
+      "id": "CLM-113-F-LEM-SUBDIVISION",
+      "label": "lem:subdivision",
+      "aliases": [],
+      "title": "Odd-path subdivision",
+      "statement": "Lifted perfect matchings project with a common factor onto the logical matching law.",
+      "conditions": "Path length4p+1,p=2K+2;paired activities telescope. Incident strength within factor2 and central strength is bottleneck B,not the raw activity.",
+      "constants": "Path length4p+1,p=2K+2;paired activities telescope. Incident strength within factor2 and central strength is bottleneck B,not the raw activity.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        752,
+        774
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:subdivision"
+    },
+    {
+      "id": "CLM-113-F-PROP-MARKED-LAWS",
+      "label": "prop:marked-laws",
+      "aliases": [],
+      "title": "Marked-event laws",
+      "statement": "All-real probability=1/I;decoded conditional law is pi_lambda;sole probe uv with other edges real has probability g_uv/(D I) and the appropriate deleted law.",
+      "conditions": "Probe is the designated 1/D portion of a virtual edge;include virtual-edge type labels and normalization.",
+      "constants": "Probe is the designated 1/D portion of a virtual edge;include virtual-edge type labels and normalization.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        922,
+        935
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::prop:marked-laws"
+    },
+    {
+      "id": "CLM-113-F-PROP-BAG-INFLATION",
+      "label": "prop:bag-inflation",
+      "aliases": [],
+      "title": "Bounded virtual inflation",
+      "statement": "For balanced logical activities the lifted bag partition inflation obeys1<=I<=2.",
+      "conditions": "Balance required for this probability/accuracy bound,not for unconditional sampler definition and time.",
+      "constants": "Balance required for this probability/accuracy bound,not for unconditional sampler definition and time.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        964,
+        969
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::prop:bag-inflation"
+    },
+    {
+      "id": "CLM-113-F-LEM-DELETION-ACCOUNTING",
+      "label": "lem:deletion-accounting",
+      "aliases": [],
+      "title": "Exact deletion bookkeeping",
+      "statement": "Lifted deletion partition factors into a common path factor and a logical deleted partition with specified broken edges forbidden.",
+      "conditions": "Consumed terminal set R and neutral pairs F depend deterministically on deletion pattern;forbidden edges cannot be dropped in an exact identity.",
+      "constants": "Consumed terminal set R and neutral pairs F depend deterministically on deletion pattern;forbidden edges cannot be dropped in an exact identity.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1022,
+        1032
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:deletion-accounting"
+    },
+    {
+      "id": "CLM-113-F-LEM-ULTRAMETRIC-PAIRING",
+      "label": "lem:ultrametric-pairing",
+      "aliases": [],
+      "title": "Hierarchical pairing capacity",
+      "statement": "Laminar threshold capacities attain the optimal bottleneck pairing product.",
+      "conditions": "Ultrametric bottlenecks;floor of half of each component population;not arbitrary edge metrics.",
+      "constants": "Ultrametric bottlenecks;floor of half of each component population;not arbitrary edge metrics.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1103,
+        1117
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:ultrametric-pairing"
+    },
+    {
+      "id": "CLM-113-F-LEM-LIFTED-HOLE-BOUND",
+      "label": "lem:lifted-hole-bound",
+      "aliases": [],
+      "title": "Lifted deletion estimate",
+      "statement": "Logical hole capacity and path bookkeeping yield the lifted deleted-partition bound used for virtual inflation.",
+      "conditions": "At most the source-defined terminals/deletions;must keep path pairing factors and D=100N^2D0.",
+      "constants": "At most the source-defined terminals/deletions;must keep path pairing factors and D=100N^2D0.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1141,
+        1152
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:lifted-hole-bound"
+    },
+    {
+      "id": "CLM-113-F-LEM-QUADRANGULATION",
+      "label": "lem:quadrangulation",
+      "aliases": [],
+      "title": "Label-adapted polygon cells",
+      "statement": "Admissible fixed-cycle arcs give a quadrangulation satisfying label and opposite-good requirements.",
+      "conditions": "Labels from the original whole cycle,not recomputed after ears;deterministic O(m^2) comparisons. Long arc conversions are not chain moves.",
+      "constants": "Labels from the original whole cycle,not recomputed after ears;deterministic O(m^2) comparisons. Long arc conversions are not chain moves.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1373,
+        1391
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:quadrangulation"
+    },
+    {
+      "id": "CLM-113-F-LEM-CELL-COMPARABILITY",
+      "label": "lem:cell-comparability",
+      "aliases": [],
+      "title": "Within-cell weight ratios",
+      "statement": "Weights in an allowed cell are comparable with ratio controlled by A0=1000D.",
+      "conditions": "Label distance<=6;common clamp preserves ratios;not a global lower bound on every activity.",
+      "constants": "Label distance<=6;common clamp preserves ratios;not a global lower bound on every activity.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1528,
+        1540
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:cell-comparability"
+    },
+    {
+      "id": "CLM-113-F-THM-PAIR-ENERGY",
+      "label": "thm:pair-energy",
+      "aliases": [],
+      "title": "Additive pair energy",
+      "statement": "Variance of an additive one-slot function is bounded by L times the pair-chain Dirichlet energy of f1(A)+f2(B).",
+      "conditions": "L=(10^4ND)^100;only additive pair functions,not a Poincare inequality for arbitrary pair observables.",
+      "constants": "L=(10^4ND)^100;only additive pair functions,not a Poincare inequality for arbitrary pair observables.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1628,
+        1638
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::thm:pair-energy"
+    },
+    {
+      "id": "CLM-113-F-LEM-ELEMENTARY-PAIR-ENERGY",
+      "label": "lem:elementary-pair-energy",
+      "aliases": [],
+      "title": "Elementary energy controls",
+      "statement": "Switch,color-change and equal-target cycle exchanges control the elementary terms in pair energy.",
+      "conditions": "Symmetric proposals and Metropolis acceptance;whole-cycle exchange accepts1 only at the same target.",
+      "constants": "Symmetric proposals and Metropolis acceptance;whole-cycle exchange accepts1 only at the same target.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1648,
+        1667
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:elementary-pair-energy"
+    },
+    {
+      "id": "CLM-113-F-LEM-CELL-IDENTITY",
+      "label": "lem:cell-identity",
+      "aliases": [],
+      "title": "Signed cell cancellation",
+      "statement": "Cycle increment equals the sum of signed cell increments and context corrections.",
+      "conditions": "Complementary diagonal contributes the whole cycle increment,not zero;retains signs/context terms.",
+      "constants": "Complementary diagonal contributes the whole cycle increment,not zero;retains signs/context terms.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1807,
+        1819
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:cell-identity"
+    },
+    {
+      "id": "CLM-113-F-LEM-ENCODING",
+      "label": "lem:encoding",
+      "aliases": [],
+      "title": "Bounded-preimage encodings",
+      "statement": "Transition/context encodings have bounded preimages and controlled weight distortion.",
+      "conditions": "Tag bound (10N)^30;at most four changed colored edges and weight factor A0^4;not an explicit implementation speedup.",
+      "constants": "Tag bound (10N)^30;at most four changed colored edges and weight factor A0^4;not an explicit implementation speedup.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        1859,
+        1873
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:encoding"
+    },
+    {
+      "id": "CLM-113-F-LEM-SWAP-SUM",
+      "label": "lem:swap-sum",
+      "aliases": [],
+      "title": "Conditional swap sum",
+      "statement": "Closed guide event controls context errors in the swap sum.",
+      "conditions": "Keep actual rare-event probability p_X to cancel conditioning cost1/p_X;no uniform positive lower bound is assumed.",
+      "constants": "Keep actual rare-event probability p_X to cancel conditioning cost1/p_X;no uniform positive lower bound is assumed.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2045,
+        2048
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:swap-sum"
+    },
+    {
+      "id": "CLM-113-F-LEM-BASE-REFRESH",
+      "label": "lem:base-refresh",
+      "aliases": [],
+      "title": "Unit-activity refresh",
+      "statement": "Dynamic programming produces the unit-activity bag law exactly in ideal rational categorical arithmetic.",
+      "conditions": "Clique-bag/interface recurrence F_C(k),even pair counts J(a)=(a-1)!!;O((bags+1)(N+1)^3) arithmetic. Bounded fair-bit implementation is approximate.",
+      "constants": "Clique-bag/interface recurrence F_C(k),even pair counts J(a)=(a-1)!!;O((bags+1)(N+1)^3) arithmetic. Bounded fair-bit implementation is approximate.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2166,
+        2177
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:base-refresh"
+    },
+    {
+      "id": "CLM-113-F-LEM-REPLICA-GAP",
+      "label": "lem:replica-gap",
+      "aliases": [],
+      "title": "Replicated product-chain gap",
+      "statement": "Adjacent-tier replicas upgrade additive pair energy to a full product-chain gap>=3/(8M).",
+      "conditions": "c=1+N^-2;32L slots per tier;M=Tq^2+q;half-lazy uniform scan. L remains hidden in enormous q,M;no constant-cost mixing claim.",
+      "constants": "c=1+N^-2;32L slots per tier;M=Tq^2+q;half-lazy uniform scan. L remains hidden in enormous q,M;no constant-cost mixing claim.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2319,
+        2323
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:replica-gap"
+    },
+    {
+      "id": "CLM-113-F-THM-BAG-SAMPLER",
+      "label": "thm:bag-sampler",
+      "aliases": [],
+      "title": "Quantitative bag sampling",
+      "statement": "From deterministic positive-mass initialization a prescribed number of product steps approximates target bag law.",
+      "conditions": "s_xi=ceil(20LM*(Lambda+ceil(log2(1/xi))+1));fresh whole product runs are independent. Arbitrary failed activity history still has polynomial bit/time bounds.",
+      "constants": "s_xi=ceil(20LM*(Lambda+ceil(log2(1/xi))+1));fresh whole product runs are independent. Arbitrary failed activity history still has polynomial bit/time bounds.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2422,
+        2447
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::thm:bag-sampler"
+    },
+    {
+      "id": "CLM-113-F-LEM-ONE-PASS-SCALING",
+      "label": "lem:one-pass-scaling",
+      "aliases": [],
+      "title": "One-pass row scaling",
+      "statement": "Clipped estimates allow monotone one-pass vertex scaling with bounded factors and one tight product per row.",
+      "conditions": "G clipped to[alpha,3],alpha=10^-5,v initially2 and ends in[alpha/2,2];not Sinkhorn convergence or preserved absolute partition value.",
+      "constants": "G clipped to[alpha,3],alpha=10^-5,v initially2 and ends in[alpha/2,2];not Sinkhorn convergence or preserved absolute partition value.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2667,
+        2677
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:one-pass-scaling"
+    },
+    {
+      "id": "CLM-113-F-LEM-SUCCESSFUL-STAGE",
+      "label": "lem:successful-stage",
+      "aliases": [],
+      "title": "Successful cooling stage",
+      "statement": "Sufficiently accurate marked observables estimate the partition ratio and restore row balance at the next stage.",
+      "conditions": "Ratios use scales fixed during estimation;successful v>=1/16;Hoeffding across fresh samples,not independence of observables from the same sample.",
+      "constants": "Ratios use scales fixed during estimation;successful v>=1/16;Hoeffding across fresh samples,not independence of observables from the same sample.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2713,
+        2721
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:successful-stage"
+    },
+    {
+      "id": "CLM-113-F-LEM-FINITE-RANDOM-CHOICE",
+      "label": "lem:finite-random-choice",
+      "aliases": [],
+      "title": "Fixed-bit categorical rounding",
+      "statement": "Fixed number of fair bits approximates a finite rational categorical law while never selecting zero-probability choices.",
+      "conditions": "Total variation<=2r*2^-k;choose2^k>=2 Rdraw Ropt/xi;no rejection/random stopping or exact bounded-bit uniformity assumed.",
+      "constants": "Total variation<=2r*2^-k;choose2^k>=2 Rdraw Ropt/xi;no rejection/random stopping or exact bounded-bit uniformity assumed.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        2968,
+        2974
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:finite-random-choice"
+    },
+    {
+      "id": "CLM-113-F-COR-PRESCRIBED-DEGREE",
+      "label": "cor:prescribed-degree",
+      "aliases": [],
+      "title": "Constant-fibre counting reductions",
+      "statement": "Counting f-factors and fixed-cardinality matchings reduces to perfect-matching counting;feasible approximate-uniform sampling follows.",
+      "conditions": "Explicit simple unweighted host;f-gadget factor product(deg-f)! and k-gadget factor(n-2k)!;binary demands checked before expansion;divide estimates without integer rounding.",
+      "constants": "Explicit simple unweighted host;f-gadget factor product(deg-f)! and k-gadget factor(n-2k)!;binary demands checked before expansion;divide estimates without integer rounding.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        3098,
+        3122
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::cor:prescribed-degree"
+    },
+    {
+      "id": "CLM-113-F-LEM-DELETION-SAMPLER",
+      "label": "lem:deletion-sampler",
+      "aliases": [],
+      "title": "Always-feasible deletion sampler",
+      "statement": "Self-reduction returns a feasible perfect matching with total variation at most tau from uniform.",
+      "conditions": "Exact feasibility at every child;eta=gamma=tau/(8m_*),fresh two-child counts,feasible fallback when both estimates sum to0;polynomial tau^-1,not exact sampling.",
+      "constants": "Exact feasibility at every child;eta=gamma=tau/(8m_*),fresh two-child counts,feasible fallback when both estimates sum to0;polynomial tau^-1,not exact sampling.",
+      "file": "math/preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/build/main.tex",
+      "lines": [
+        3203,
+        3212
+      ],
+      "manuscript_id": "P-a6b76a57e739fca3",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "F::lem:deletion-sampler"
+    },
+    {
+      "id": "CLM-113-E-GEOM-LEM-LAMINAR",
+      "label": "geom:lem-laminar",
+      "aliases": [],
+      "title": "Laminar tight-cut span",
+      "statement": "A laminar independent family of tight odd-cut rows spans all tight odd-cut rows.",
+      "conditions": "Positive supported coordinates;uncrossing is at the minimal face.",
+      "constants": "Positive supported coordinates;uncrossing is at the minimal face.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        41,
+        47
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::geom:lem-laminar"
+    },
+    {
+      "id": "CLM-113-E-A-PROP-SUPPORTED-CODIMENSION",
+      "label": "a:prop-supported-codimension",
+      "aliases": [],
+      "title": "Supported face codimension",
+      "statement": "support size minus minimal-face dimension<=3m-2,with separate empty and two-vertex cases.",
+      "conditions": "Loopless labelled multigraph on2m;support,not ambient zero coordinates;appendix also records weaker2(n-2)/2n bounds.",
+      "constants": "Loopless labelled multigraph on2m;support,not ambient zero coordinates;appendix also records weaker2(n-2)/2n bounds.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        154,
+        166
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::a:prop-supported-codimension"
+    },
+    {
+      "id": "CLM-113-E-A-COR-FRACTIONAL-DIMENSION",
+      "label": "a:cor-fractional-dimension",
+      "aliases": [],
+      "title": "Fractional dimension",
+      "statement": "Fractional vertex count is even and its face dimension obeys the stated residual rank lower bounds.",
+      "conditions": "Remove zero edges and endpoints of x=1 edges first;sum fractional coordinates=s_f/2.",
+      "constants": "Remove zero edges and endpoints of x=1 edges first;sum fractional coordinates=s_f/2.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        242,
+        256
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::a:cor-fractional-dimension"
+    },
+    {
+      "id": "CLM-113-E-A-THM-SEPARABLE",
+      "label": "a:thm-separable",
+      "aliases": [],
+      "title": "Legacy separable lower bounds",
+      "statement": "F-cB<=H<=F+B for c=3 or4,including continuous endpoints.",
+      "conditions": "Even loopless labelled graphs,nonempty matching family;empty graph separately zero;weaker than refined main bound.",
+      "constants": "Even loopless labelled graphs,nonempty matching family;empty graph separately zero;weaker than refined main bound.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        308,
+        322
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::a:thm-separable"
+    },
+    {
+      "id": "CLM-113-E-CONS-LEGACY-DEFECT",
+      "label": "cons:legacy-defect",
+      "aliases": [],
+      "title": "Legacy defect and counts",
+      "statement": "Legacy coefficient3/4 and nonlinear8 bounds imply an additive O(n) binary-entropy counting bracket.",
+      "conditions": "These are retained weaker source consequences;not the refined coefficient2 statement.",
+      "constants": "These are retained weaker source consequences;not the refined coefficient2 statement.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        506,
+        519
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:legacy-defect"
+    },
+    {
+      "id": "CLM-113-E-CONS-LEGACY-COUNTS",
+      "label": "cons:legacy-counts",
+      "aliases": [
+        "cons:legacy-regular"
+      ],
+      "title": "Legacy structural counts",
+      "statement": "k edge-disjoint matchings or k-regular odd-cut condition give the source coefficient3 and nonlinear8 exponential count bounds.",
+      "conditions": "Positive even order,k>=1;regularity alone insufficient;alias legacy-regular is not another result.",
+      "constants": "Positive even order,k>=1;regularity alone insufficient;alias legacy-regular is not another result.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        547,
+        557
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:legacy-counts"
+    },
+    {
+      "id": "CLM-113-E-CONS-LEGACY-PARTITION",
+      "label": "cons:legacy-partition",
+      "aliases": [],
+      "title": "Exact edge partition count",
+      "statement": "If the entire ambient edge set partitions into k perfect matchings,the nonlinear8 count bound follows.",
+      "conditions": "k=1 exact1;positive-order k=0 count0;empty graph count1;do not infer edge partition from merely k selected disjoint matchings.",
+      "constants": "k=1 exact1;positive-order k=0 count0;empty graph count1;do not infer edge partition from merely k selected disjoint matchings.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-a.tex",
+      "lines": [
+        585,
+        594
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:legacy-partition"
+    },
+    {
+      "id": "CLM-113-E-B-THM-NONLINEAR",
+      "label": "b:thm-nonlinear",
+      "aliases": [],
+      "title": "Coefficient-eight entropy defect",
+      "statement": "F-H<=8m*(1-exp(-F/m)).",
+      "conditions": "Maximum entropy at a feasible marginal;covariance inverse restricted to tangent space,not ambient singular inverse.",
+      "constants": "Maximum entropy at a feasible marginal;covariance inverse restricted to tangent space,not ambient singular inverse.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-b.tex",
+      "lines": [
+        29,
+        36
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "B",
+      "formal_scope": {
+        "comparator": "MatchingEntropy",
+        "module": "OAI.Combinatorics.PerfectMatching.Main",
+        "declaration": "OAI.MatchingEntropy.entropy_main",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      "qualified_label": "E::b:thm-nonlinear"
+    },
+    {
+      "id": "CLM-113-E-C-PROP-LOOPS",
+      "label": "c:prop-loops",
+      "aliases": [],
+      "title": "Binary singleton-loop count",
+      "statement": "A deterministic polynomial-bit algorithm returns rational A with N_loop/2^(18n)<=A<=N_loop and exact zero.",
+      "conditions": "Singleton loops cover one vertex;binary pair/loop multiplicities and compact binary n;not ordinary degree-two loop convention.",
+      "constants": "Singleton loops cover one vertex;binary pair/loop multiplicities and compact binary n;not ordinary degree-two loop convention.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/appendices/appendix-c.tex",
+      "lines": [
+        13,
+        27
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "B",
+      "formal_scope": {
+        "comparator": "SingletonLoopMatching",
+        "module": "OAI.Computability.LoopMatching.Endpoint",
+        "declaration": "OAI.LoopMatching.fullEndpoint",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      "qualified_label": "E::c:prop-loops"
+    },
+    {
+      "id": "CLM-113-E-ENT-MAIN",
+      "label": "ent:main",
+      "aliases": [],
+      "title": "Refined pointwise entropy",
+      "statement": "F-(2-2/m)B<=H<=F throughout the perfect-matching polytope.",
+      "conditions": "Loopless labelled multigraph on2m>=2 with a perfect matching;natural logarithms;H is maximum over laws with mean x,not entropy of any law.",
+      "constants": "Loopless labelled multigraph on2m>=2 with a perfect matching;natural logarithms;H is maximum over laws with mean x,not entropy of any law.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/01-introduction.tex",
+      "lines": [
+        33,
+        40
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "B",
+      "formal_scope": {
+        "comparator": "MatchingEntropyBounds",
+        "module": "OAI.Combinatorics.MatchingEntropy.Main",
+        "declaration": "OAI.MatchingEntropyBounds.Refined.pointwise_entropy",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      "qualified_label": "E::ent:main"
+    },
+    {
+      "id": "CLM-113-E-THM-MAIN",
+      "label": "thm:main",
+      "aliases": [
+        "thm:algorithm-guarantee"
+      ],
+      "title": "Binary deterministic approximation",
+      "statement": "Uniform deterministic polynomial-bit algorithm returns integer N/512^n<=A<=N,zero iff no perfect matching.",
+      "conditions": "Nonnegative binary pair multiplicities and compact binary n;not relative-epsilon approximation or an implemented fast optimizer.",
+      "constants": "Nonnegative binary pair multiplicities and compact binary n;not relative-epsilon approximation or an implemented fast optimizer.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/01-introduction.tex",
+      "lines": [
+        201,
+        212
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "B",
+      "formal_scope": {
+        "comparator": "BinaryMatching",
+        "module": "OAI.Computability.MatchingCount.BinarySolve",
+        "declaration": "OAI.BinaryMatching.deterministic_approximate_counting",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      "qualified_label": "E::thm:main"
+    },
+    {
+      "id": "CLM-113-E-GEOM-LEM-GLUING",
+      "label": "geom:lem-gluing",
+      "aliases": [
+        "a:lem-tight-cut-gluing"
+      ],
+      "title": "Odd-cut gluing",
+      "statement": "Two contracted matching-polytope points agreeing on crossing coordinates glue to the original graph.",
+      "conditions": "Choose crossing edge using common marginals,then conditional internal matchings;zero-mass edges are never conditioned on.",
+      "constants": "Choose crossing edge using common marginals,then conditional internal matchings;zero-mass edges are never conditioned on.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "lines": [
+        39,
+        44
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::geom:lem-gluing"
+    },
+    {
+      "id": "CLM-113-E-GEOM-THM-POLYTOPE",
+      "label": "geom:thm-polytope",
+      "aliases": [],
+      "title": "Odd-cut polytope description",
+      "statement": "Nonnegative edge vectors,unit vertex degrees and every odd cut>=1 describe the perfect-matching polytope.",
+      "conditions": "Loopless multigraph;degree equations alone are insufficient in nonbipartite graphs;source re-proves a classical interface.",
+      "constants": "Loopless multigraph;degree equations alone are insufficient in nonbipartite graphs;source re-proves a classical interface.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "lines": [
+        66,
+        78
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::geom:thm-polytope"
+    },
+    {
+      "id": "CLM-113-E-GEOM-LEM-FACE",
+      "label": "geom:lem-face",
+      "aliases": [],
+      "title": "Minimal face directions",
+      "statement": "Zero coordinates,degree equalities and tight odd cuts exactly define face tangent directions;all laws at x live on that face.",
+      "conditions": "Relative interior in the minimal face,not ambient interior;all tight cuts must be kept.",
+      "constants": "Relative interior in the minimal face,not ambient interior;all tight cuts must be kept.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "lines": [
+        166,
+        189
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::geom:lem-face"
+    },
+    {
+      "id": "CLM-113-E-GEOM-PROP-RANK",
+      "label": "geom:prop-rank",
+      "aliases": [],
+      "title": "Sharp positive-support rank",
+      "statement": "For positive edge marginals,|E|-dim(F_x)<=3m-2.",
+      "conditions": "2m>=2;child contraction orders add to n+2 and crossing constraints save |C|-1;global rank is not covered by the selected triangle Comparator.",
+      "constants": "2m>=2;child contraction orders add to n+2 and crossing constraints save |C|-1;global rank is not covered by the selected triangle Comparator.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "lines": [
+        246,
+        254
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::geom:prop-rank"
+    },
+    {
+      "id": "CLM-113-E-GEOM-LEM-REDUCTION",
+      "label": "geom:lem-reduction",
+      "aliases": [],
+      "title": "Fixed-coordinate removal",
+      "statement": "Removing x=0 edges and x=1 endpoint pairs preserves matching laws,entropy and minimal faces by an affine bijection.",
+      "conditions": "Residual even graph;H,F,B retained;degenerate residual has zero entropy.",
+      "constants": "Residual even graph;H,F,B retained;degenerate residual has zero entropy.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/02-polytope.tex",
+      "lines": [
+        341,
+        369
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::geom:lem-reduction"
+    },
+    {
+      "id": "CLM-113-E-ENT-CONTINUITY",
+      "label": "ent:continuity",
+      "aliases": [],
+      "title": "Boundary continuity",
+      "statement": "Maximum mean entropy is attained,nonnegative,concave and continuous on the whole matching polytope.",
+      "conditions": "Nonempty finite matching family;does not make arbitrary empirical marginals feasible.",
+      "constants": "Nonempty finite matching family;does not make arbitrary empirical marginals feasible.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex",
+      "lines": [
+        25,
+        28
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::ent:continuity"
+    },
+    {
+      "id": "CLM-113-E-ENT-EXPONENTIAL",
+      "label": "ent:exponential",
+      "aliases": [],
+      "title": "Gibbs law on the face",
+      "statement": "Unique entropy-maximizing law is positive on every atom of the minimal face and is a finite-parameter Gibbs law there.",
+      "conditions": "Finite theta on face atoms,not finite ambient Gibbs weights representing forbidden atoms;every tilted law has the same minimal face.",
+      "constants": "Finite theta on face atoms,not finite ambient Gibbs weights representing forbidden atoms;every tilted law has the same minimal face.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex",
+      "lines": [
+        63,
+        74
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::ent:exponential"
+    },
+    {
+      "id": "CLM-113-E-ENT-TRACE",
+      "label": "ent:trace",
+      "aliases": [],
+      "title": "Face-restricted second variation",
+      "statement": "At a fractional local maximum of J_c-H,0>=d-s+(c+1)m.",
+      "conditions": "0<x_e<1;covariance image is tangent space;trace computation keeps face stationarity and no ambient inverse.",
+      "constants": "0<x_e<1;covariance image is tangent space;trace computation keeps face stationarity and no ambient inverse.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex",
+      "lines": [
+        118,
+        125
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::ent:trace"
+    },
+    {
+      "id": "CLM-113-E-ENT-COMPONENTS",
+      "label": "ent:components",
+      "aliases": [],
+      "title": "Componentwise entropy",
+      "statement": "Fractional connected components sharpen the correction to sum_i (2-2/m_i)B_i.",
+      "conditions": "Delete all fixed edges/endpoints first;no residual components gives F=B=H=0.",
+      "constants": "Delete all fixed edges/endpoints first;no residual components gives F=B=H=0.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/03-entropy.tex",
+      "lines": [
+        258,
+        267
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::ent:components"
+    },
+    {
+      "id": "CLM-113-E-CONS-DEFECT",
+      "label": "cons:defect",
+      "aliases": [],
+      "title": "Refined defect",
+      "statement": "0<=F-H<=min(F,2m-2).",
+      "conditions": "Feasible means and maximum entropy;not a bound for an arbitrary observed distribution.",
+      "constants": "Feasible means and maximum entropy;not a bound for an arbitrary observed distribution.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex",
+      "lines": [
+        33,
+        41
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:defect"
+    },
+    {
+      "id": "CLM-113-E-CONS-ENTROPY-COUNT",
+      "label": "cons:entropy-count",
+      "aliases": [],
+      "title": "Refined separable counts",
+      "statement": "max F lies between log N and log N+2m-2;max(F+B)<=log N+3m-2.",
+      "conditions": "Maximize over the actual matching polytope;not independent coordinate maximization or an exact count.",
+      "constants": "Maximize over the actual matching polytope;not independent coordinate maximization or an exact count.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex",
+      "lines": [
+        60,
+        70
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:entropy-count"
+    },
+    {
+      "id": "CLM-113-E-CONS-STRUCTURAL",
+      "label": "cons:structural",
+      "aliases": [],
+      "title": "Selected disjoint matching count",
+      "statement": "k selected edge-disjoint matchings imply N>=k^m*(1-1/k)^(2(m-1)(k-1))>=exp(-2(m-1))*k^m.",
+      "conditions": "k>=2;handle k=1 separately;extra ambient edges allowed. Finite lower bound is not an exact counting algorithm.",
+      "constants": "k>=2;handle k=1 separately;extra ambient edges allowed. Finite lower bound is not an exact counting algorithm.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex",
+      "lines": [
+        92,
+        103
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:structural"
+    },
+    {
+      "id": "CLM-113-E-CONS-REGULAR",
+      "label": "cons:regular",
+      "aliases": [],
+      "title": "Regular odd-cut condition",
+      "statement": "k-regular even-order graph with all odd cuts>=k satisfies the structural bound.",
+      "conditions": "Includes (k-1)-edge-connected k-regular graphs by parity;matching-covered alone insufficient;old small-k and bipartite bounds may be stronger.",
+      "constants": "Includes (k-1)-edge-connected k-regular graphs by parity;matching-covered alone insufficient;old small-k and bipartite bounds may be stronger.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/04-consequences.tex",
+      "lines": [
+        139,
+        147
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:regular"
+    },
+    {
+      "id": "CLM-113-E-CONS-WEIGHTED",
+      "label": "cons:weighted",
+      "aliases": [],
+      "title": "Weighted partition bracket",
+      "statement": "q*-(2m-2)/ln2<=log2 Z_beta<=q*.",
+      "conditions": "Arbitrary finite real beta;variational optimum over actual polytope;analytic statement,not numerical solver accuracy.",
+      "constants": "Arbitrary finite real beta;variational optimum over actual polytope;analytic statement,not numerical solver accuracy.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/05-weighted.tex",
+      "lines": [
+        24,
+        32
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::cons:weighted"
+    },
+    {
+      "id": "CLM-113-E-D-COARSE-WEIGHTED",
+      "label": "d:coarse-weighted",
+      "aliases": [],
+      "title": "Conservative weighted bracket",
+      "statement": "q*-4n<=log2 Z_beta<=q*+n.",
+      "conditions": "Positive count,finite real beta;coarser bracket intentionally used by the executable bit-model construction.",
+      "constants": "Positive count,finite real beta;coarser bracket intentionally used by the executable bit-model construction.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/05-weighted.tex",
+      "lines": [
+        64,
+        73
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:coarse-weighted"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-PENALIZED-COUNT",
+      "label": "d:lem-penalized-count",
+      "aliases": [],
+      "title": "Dyadic weighted completion",
+      "statement": "Absent-pair mass<=2^-20n;zero/nonzero count has a large log partition gap and present count is within dyadic factors.",
+      "conditions": "Complete Kn,positive multiplicities rounded down to powers of2;absent beta=-L,L=100(n+bmax+1)^3;no expansion of multiplicities.",
+      "constants": "Complete Kn,positive multiplicities rounded down to powers of2;absent beta=-L,L=100(n+bmax+1)^3;no expansion of multiplicities.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/06-objective.tex",
+      "lines": [
+        52,
+        67
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-penalized-count"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-DYADIC-ENTROPY",
+      "label": "d:lem-dyadic-entropy",
+      "aliases": [],
+      "title": "Dyadic entropy interpolation",
+      "statement": "Concave piecewise-linear entropy has integral slopes bounded by K and aggregate error<=n/2+1<=n.",
+      "conditions": "Fixed dyadic denominator2^K and complete-graph feasible points;not arbitrary numerical logarithms.",
+      "constants": "Fixed dyadic denominator2^K and complete-graph feasible points;not arbitrary numerical logarithms.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/06-objective.tex",
+      "lines": [
+        127,
+        136
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-dyadic-entropy"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-FEASIBILITY-REPAIR",
+      "label": "d:lem-feasibility-repair",
+      "aliases": [],
+      "title": "Complete-graph feasibility repair",
+      "statement": "Every box point has a true matching-polytope point within (2+10n^2)*w in infinity norm.",
+      "conditions": "Degree repair plus mixing with complete-graph uniform vector;not a projection for arbitrary sparse graphs or unrestricted estimated marginals.",
+      "constants": "Degree repair plus mixing with complete-graph uniform vector;not a projection for arbitrary sparse graphs or unrestricted estimated marginals.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex",
+      "lines": [
+        21,
+        27
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-feasibility-repair"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-EXACT-PENALTY",
+      "label": "d:lem-exact-penalty",
+      "aliases": [],
+      "title": "Exact integral penalty",
+      "statement": "Concave penalty max equals feasible objective optimum and admits integral bounded supergradients.",
+      "conditions": "M0=p(K+L)(2+A0),D0=p(K+L+M0)^2;needs exact violation/odd-cut oracle.",
+      "constants": "M0=p(K+L)(2+A0),D0=p(K+L+M0)^2;needs exact violation/odd-cut oracle.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex",
+      "lines": [
+        128,
+        136
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-exact-penalty"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-PROJECTED-ASCENT",
+      "label": "d:lem-projected-ascent",
+      "aliases": [],
+      "title": "Fixed-grid ascent",
+      "statement": "p D0 projected steps yield R<=f*<=R+2 with R floor of the maximum pre-final iterate.",
+      "conditions": "Step1/D0,initial0,fixed grid;not merely objective at final iterate or practical few-step convergence.",
+      "constants": "Step1/D0,initial0,fixed grid;not merely objective at final iterate or practical few-step convergence.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/07-optimization.tex",
+      "lines": [
+        189,
+        207
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-projected-ascent"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-UNIT-MINCUT",
+      "label": "d:lem-unit-mincut",
+      "aliases": [],
+      "title": "Capacity-dependent unit mincut",
+      "statement": "At most C unit augmentations find a minimum two-terminal cut in O(v^2(C+1)) arithmetic.",
+      "conditions": "Integer capacities;polynomial in numeric capacity C,not arbitrary capacity bit length;C is numerically polynomial in the source application.",
+      "constants": "Integer capacities;polynomial in numeric capacity C,not arbitrary capacity bit length;C is numerically polynomial in the source application.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/08-odd-cuts.tex",
+      "lines": [
+        28,
+        34
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-unit-mincut"
+    },
+    {
+      "id": "CLM-113-E-D-LEM-ODD-CUT-ORACLE",
+      "label": "d:lem-odd-cut-oracle",
+      "aliases": [],
+      "title": "Parity mincut recursion",
+      "statement": "Minimum odd-terminal cut is found with at most |U|-1 recursive instances and source polynomial capacity-dependent cost.",
+      "conditions": "Positive even |U|;even mincuts contracted with terminal parity;return all original coefficients including zero-capacity edges.",
+      "constants": "Positive even |U|;even mincuts contracted with terminal parity;return all original coefficients including zero-capacity edges.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/08-odd-cuts.tex",
+      "lines": [
+        69,
+        77
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:lem-odd-cut-oracle"
+    },
+    {
+      "id": "CLM-113-E-D-PROP-BIT-COMPLEXITY",
+      "label": "d:prop-bit-complexity",
+      "aliases": [],
+      "title": "Uniform bit complexity",
+      "statement": "Rounded-weight,grid-ascent and bounded-capacity cut pipeline has polynomial bit cost and output size.",
+      "conditions": "Coarse O(tau^41) arithmetic on O(log tau) bits;compact-n uncovered-label guard first;not a speed advantage on existing workloads.",
+      "constants": "Coarse O(tau^41) arithmetic on O(log tau) bits;compact-n uncovered-label guard first;not a speed advantage on existing workloads.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/09-algorithm.tex",
+      "lines": [
+        127,
+        131
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::d:prop-bit-complexity"
+    },
+    {
+      "id": "CLM-113-E-EX-LEM-EXPANSION-FACE",
+      "label": "ex:lem-expansion-face",
+      "aliases": [],
+      "title": "Triangle face correspondence",
+      "statement": "Degree-three triangle expansion gives an affine isomorphism from old polytope to the cut-one face and maps minimal faces to minimal faces.",
+      "conditions": "Old edge coordinates retained and internal triangle edges copy opposite incident values;not whole expanded polytope equality.",
+      "constants": "Old edge coordinates retained and internal triangle edges copy opposite incident values;not whole expanded polytope equality.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex",
+      "lines": [
+        99,
+        114
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "B",
+      "formal_scope": {
+        "comparator": "TriangleFace",
+        "module": "OAI.Combinatorics.TriangleFace.Main",
+        "declaration": "OAI.TriangleFace198.triangle_expansion_face",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      "qualified_label": "E::ex:lem-expansion-face"
+    },
+    {
+      "id": "CLM-113-E-EX-PROP-KLEE-FACE",
+      "label": "ex:prop-klee-face",
+      "aliases": [],
+      "title": "Sharp Klee face example",
+      "statement": "An iterated old triangle construction has face dimension2,unique three-atom mean law,H=ln3,F=m ln3,B=2m ln(3/2).",
+      "conditions": "All displayed marginals1/3;whole graph may have extra matchings. Geometric rank sharpness does not prove entropy coefficient2 optimal.",
+      "constants": "All displayed marginals1/3;whole graph may have extra matchings. Geometric rank sharpness does not prove entropy coefficient2 optimal.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex",
+      "lines": [
+        160,
+        180
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::ex:prop-klee-face"
+    },
+    {
+      "id": "CLM-113-E-EX-COR-COEFFICIENT",
+      "label": "ex:cor-coefficient",
+      "aliases": [],
+      "title": "Necessary coefficient obstruction",
+      "statement": "Any universal H>=F-cB requires c>=ln3/(2 ln(3/2)),also for simple graphs.",
+      "conditions": "Necessary bound from a sequence of old geometric examples;not proof of sufficiency at that coefficient.",
+      "constants": "Necessary bound from a sequence of old geometric examples;not proof of sufficiency at that coefficient.",
+      "file": "math/preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/build/sections/10-examples.tex",
+      "lines": [
+        215,
+        228
+      ],
+      "manuscript_id": "P-9c9bb2a021e014c6",
+      "grade": "C",
+      "formal_scope": null,
+      "qualified_label": "E::ex:cor-coefficient"
+    }
+  ],
+  "result_label_aliases_not_extra_results": [
+    "cons:legacy-counts::cons:legacy-regular",
+    "thm:main::thm:algorithm-guarantee",
+    "geom:lem-gluing::a:lem-tight-cut-gluing"
+  ],
+  "methods": [
+    {
+      "id": "PART-113-VERTEX-SCALING",
+      "kind": "method",
+      "input": "Positive edge activities and vertex factors",
+      "output": "Same normalized perfect-matching law;two-hole ratios rescale separately",
+      "source": "F::lem:one-pass-scaling",
+      "cannot_transfer": "Partition value multiplies by product vertex scales;fix scales while estimating ratios."
+    },
+    {
+      "id": "PART-113-BOTTLENECK-CAPACITY",
+      "kind": "method",
+      "input": "Balanced positive complete-graph activities",
+      "output": "Deleted-set partition capacity bound",
+      "source": "F::thm:logical-hole-bound",
+      "cannot_transfer": "Bottleneck max-min Floyd-Warshall O(n^3);pairing enumeration is proof-only."
+    },
+    {
+      "id": "PART-113-ODD-SUBDIVISION",
+      "kind": "construction",
+      "input": "Logical weighted graph and K",
+      "output": "Odd-path lift preserving matching ratios with common fibres",
+      "source": "F::lem:subdivision",
+      "cannot_transfer": "4p+1 paths,p=2K+2;N=n+4p*C(n,2);no arbitrary graph-count preservation."
+    },
+    {
+      "id": "PART-113-TWO-BAG-LABELS",
+      "kind": "construction",
+      "input": "Dyadic bottleneck hierarchy and lifted paths",
+      "output": "Each vertex in one or two adjacent bags with disjoint interfaces",
+      "source": "F::prop:bag-inflation",
+      "cannot_transfer": "Bags are labelled level pieces,not entire threshold components;keep parallel colored edge choices."
+    },
+    {
+      "id": "PART-113-MARKED-OBSERVABLES",
+      "kind": "method",
+      "input": "One exact/approximate marked bag sample",
+      "output": "Joint bounded all-real/probe observables for count ratio and two-hole estimates",
+      "source": "F::prop:marked-laws",
+      "cannot_transfer": "Correlated within a sample;independence only between fresh whole-product sampler calls."
+    },
+    {
+      "id": "PART-113-DELETION-LEDGER",
+      "kind": "method",
+      "input": "Lifted deleted vertices",
+      "output": "Exact consumed-terminal/neutral-pair/broken-edge accounting",
+      "source": "F::lem:deletion-accounting",
+      "cannot_transfer": "Forbidden broken edges remain in exact partition identity."
+    },
+    {
+      "id": "PART-113-CELL-TELESCOPING",
+      "kind": "method",
+      "input": "Original alternating cycle with fixed labels",
+      "output": "Signed quadrangular cancellation for additive pair energy",
+      "source": "F::lem:cell-identity",
+      "cannot_transfer": "Long virtual arcs are analysis bookkeeping,not chain transitions."
+    },
+    {
+      "id": "PART-113-RARE-CONTEXT",
+      "kind": "method",
+      "input": "Closed guide event and pair encoding",
+      "output": "Rare probability cancels conditioning inflation",
+      "source": "F::lem:swap-sum",
+      "cannot_transfer": "Do not discard p_X or postulate a positive global guide probability."
+    },
+    {
+      "id": "PART-113-ADDITIVE-ENERGY",
+      "kind": "method",
+      "input": "Two independent target slots and additive observables",
+      "output": "L-controlled additive variance inequality",
+      "source": "F::thm:pair-energy",
+      "cannot_transfer": "Cannot substitute arbitrary joint function spectral gap."
+    },
+    {
+      "id": "PART-113-REPLICA-UPGRADE",
+      "kind": "construction",
+      "input": "Adjacent target tiers and q=32L replicas",
+      "output": "Full product-chain gap via ANOVA residual assignment",
+      "source": "F::lem:replica-gap",
+      "cannot_transfer": "Full state q(T+1);M=Tq^2+q,not a constant-resource chain."
+    },
+    {
+      "id": "PART-113-BAG-DP",
+      "kind": "method",
+      "input": "Unit-activity clique bags with symmetric interfaces",
+      "output": "Exact ideal rational categorical bag refresh",
+      "source": "F::lem:base-refresh",
+      "cannot_transfer": "Fixed fair-bit realization only approximate;do not call it exact finite-bit uniform sampler."
+    },
+    {
+      "id": "PART-113-FIXED-BIT-CHOICE",
+      "kind": "method",
+      "input": "Finite rational probabilities,draw and option caps",
+      "output": "Bounded fixed-bit categorical approximation",
+      "source": "F::lem:finite-random-choice",
+      "cannot_transfer": "Zero choices never selected;no unbounded rejection;rounding changes law within stated TV."
+    },
+    {
+      "id": "PART-113-CONSTANT-FIBRES",
+      "kind": "construction",
+      "input": "Explicit simple host with binary f or k",
+      "output": "Count and feasible approximate sampling reductions to perfect matchings",
+      "source": "F::cor:prescribed-degree",
+      "cannot_transfer": "Fibres product(deg-f)! or(n-2k)!;witness-preserving F120 reductions are not automatically count-preserving."
+    },
+    {
+      "id": "PART-113-FEASIBLE-SELF-REDUCTION",
+      "kind": "method",
+      "input": "Relative counter plus exact child feasibility",
+      "output": "Always-feasible TV-approximate matching sampler",
+      "source": "F::lem:deletion-sampler",
+      "cannot_transfer": "Fresh approximate child counts;feasible fallback;polynomial tau^-1 not exact uniform."
+    },
+    {
+      "id": "PART-113-ODD-CUT-GLUE",
+      "kind": "method",
+      "input": "Contracted matching laws with common cut marginals",
+      "output": "Matching law on original graph",
+      "source": "E::geom:lem-gluing",
+      "cannot_transfer": "Feasible full odd-cut polytope and zero-mass conditional handling required."
+    },
+    {
+      "id": "PART-113-MINIMAL-FACE",
+      "kind": "method",
+      "input": "Feasible matching marginals,zero/fixed coordinates,tight cuts",
+      "output": "Supported face/tangent representation and fractional reduction",
+      "source": "E::geom:lem-reduction",
+      "cannot_transfer": "Remove forced coordinates first;rank is support-relative."
+    },
+    {
+      "id": "PART-113-FACE-COVARIANCE",
+      "kind": "method",
+      "input": "Positive Gibbs law on minimal face",
+      "output": "Second-variation trace obstruction",
+      "source": "E::ent:trace",
+      "cannot_transfer": "Invert only on tangent image;ambient covariance has kernel."
+    },
+    {
+      "id": "PART-113-MARGINAL-ENTROPY",
+      "kind": "method",
+      "input": "Feasible matching marginals on loopless2m graph",
+      "output": "Maximum-law entropy interval F-(2-2/m)B<=H<=F",
+      "source": "E::ent:main",
+      "cannot_transfer": "Not entropy of an arbitrary observed law;feasibility includes all odd cuts."
+    },
+    {
+      "id": "PART-113-COMPONENT-ENTROPY",
+      "kind": "method",
+      "input": "Fractional residual connected components",
+      "output": "Sharper sum_i(2-2/m_i)B_i correction",
+      "source": "E::ent:components",
+      "cannot_transfer": "Forced edges carry zero entropy;component orders must be even."
+    },
+    {
+      "id": "PART-113-WEIGHTED-VARIATIONAL",
+      "kind": "method",
+      "input": "Finite real log edge weights and exact feasible polytope",
+      "output": "Additive log-partition bracket from max entropy objective",
+      "source": "E::cons:weighted",
+      "cannot_transfer": "Optimization error and exponentiation separately budgeted;not relative error in count."
+    },
+    {
+      "id": "PART-113-DYADIC-COMPLETION",
+      "kind": "construction",
+      "input": "Binary pair multiplicities and compact vertex labels",
+      "output": "Dyadic complete graph with separated zero-count gap",
+      "source": "E::d:lem-penalized-count",
+      "cannot_transfer": "Check unrepresented vertices first;never expand exponentially large multiplicities."
+    },
+    {
+      "id": "PART-113-PENALTY-REPAIR",
+      "kind": "method",
+      "input": "Box vector on complete Kn and exact violation",
+      "output": "Nearby feasible point and exact integral penalty",
+      "source": "E::d:lem-exact-penalty",
+      "cannot_transfer": "Complete-graph slack essential;not arbitrary sparse graph projection."
+    },
+    {
+      "id": "PART-113-ODD-CUT-ORACLE",
+      "kind": "method",
+      "input": "Integer capacity graph and even terminal subset",
+      "output": "Exact minimum odd-terminal cut and original cut row",
+      "source": "E::d:lem-odd-cut-oracle",
+      "cannot_transfer": "Unit augmentation polynomial in numeric C;here C is bounded by source construction."
+    },
+    {
+      "id": "PART-113-FIXED-GRID-ASCENT",
+      "kind": "method",
+      "input": "Integral bounded supergradients,D0,p",
+      "output": "R<=f*<=R+2 after pD0 fixed-grid steps",
+      "source": "E::d:lem-projected-ascent",
+      "cannot_transfer": "Maximum before final iteration,not just final iterate;huge polynomial is not benchmark speed."
+    },
+    {
+      "id": "PART-113-TRIANGLE-FACE",
+      "kind": "construction",
+      "input": "Degree-three vertex and its incident labels",
+      "output": "Affine cut-one face under triangle expansion",
+      "source": "E::ex:lem-expansion-face",
+      "cannot_transfer": "Does not identify whole graph polytope;old Klee construction gives geometric sharpness only."
+    },
+    {
+      "id": "PART-113-SINGLETON-INTERPOLATION",
+      "kind": "method",
+      "input": "Binary singleton-loop and pair multiplicities",
+      "output": "Rational coarse count from n+1 dummy extensions",
+      "source": "E::c:prop-loops",
+      "cannot_transfer": "Nj*j! at j dummies;sum Aj/j!;singleton loop covers one vertex,not ordinary loops."
+    }
+  ],
+  "formal_scope": {
+    "selected_endpoints": [
+      {
+        "comparator": "MatchingFPRAS",
+        "module": "OAI.Combinatorics.MatchingCount.Main",
+        "declaration": "OAI.MatchingFPRAS.thm_main",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      {
+        "comparator": "MatchingEntropyBounds",
+        "module": "OAI.Combinatorics.MatchingEntropy.Main",
+        "declaration": "OAI.MatchingEntropyBounds.Refined.pointwise_entropy",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      {
+        "comparator": "MatchingEntropy",
+        "module": "OAI.Combinatorics.PerfectMatching.Main",
+        "declaration": "OAI.MatchingEntropy.entropy_main",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      {
+        "comparator": "BinaryMatching",
+        "module": "OAI.Computability.MatchingCount.BinarySolve",
+        "declaration": "OAI.BinaryMatching.deterministic_approximate_counting",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      {
+        "comparator": "SingletonLoopMatching",
+        "module": "OAI.Computability.LoopMatching.Endpoint",
+        "declaration": "OAI.LoopMatching.fullEndpoint",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      },
+      {
+        "comparator": "TriangleFace",
+        "module": "OAI.Combinatorics.TriangleFace.Main",
+        "declaration": "OAI.TriangleFace198.triangle_expansion_face",
+        "build": false,
+        "human_review": false,
+        "grade_basis": "Registered solution proof endpoint and selected natural/formal specification statically read;not local build or independent proof closure"
+      }
+    ],
+    "selected_B_claims": 6,
+    "other_C_claims": 56,
+    "full_dependency_grade": "unknown",
+    "indices": {
+      "roots": [
+        {
+          "path": "data/graph/lean_indices/F-113-binary-count.json.gz",
+          "sha256": "b1d8c076e544b6e6f43bae1bfbe5bcb1beafafc1af5fb66fece8bb4b545ca4f1",
+          "uncompressed_sha256": "c16293441c9025ae3700e50ca143d14edf24e48750ba441f423908c03dc2c686",
+          "gzip_bytes": 19893,
+          "files": 112,
+          "declarations": 1234,
+          "external_unread": [
+            "Mathlib"
+          ]
+        },
+        {
+          "path": "data/graph/lean_indices/F-113-fpras.json.gz",
+          "sha256": "7bac070ef2e3f88f1dfb2256a7e68186825a08a8cf8f8ebb0e71d4a4e80a7216",
+          "uncompressed_sha256": "abaf179a09e5e454d9e66428a4e0baf49c788401877f62f283a1cf749afdbbdf",
+          "gzip_bytes": 98469,
+          "files": 415,
+          "declarations": 7135,
+          "external_unread": [
+            "Mathlib"
+          ]
+        },
+        {
+          "path": "data/graph/lean_indices/F-113-legacy-entropy.json.gz",
+          "sha256": "5b7f8197d5d5ad7eb56e271574c54693a88081281648dfc17c938595032e4e85",
+          "uncompressed_sha256": "c11e2ebe67834468a56f8b5bbf982c96c9b8cace9928822fc320fde334beb54d",
+          "gzip_bytes": 4404,
+          "files": 18,
+          "declarations": 234,
+          "external_unread": [
+            "Mathlib"
+          ]
+        },
+        {
+          "path": "data/graph/lean_indices/F-113-refined-entropy.json.gz",
+          "sha256": "945877420445b76712538fd657b84193ea839f70b207c0461ae46a5ef2aa1a5a",
+          "uncompressed_sha256": "8843f1bb123e9e8b7ca723c5f70cb4bbf3bdd6a2852f28fa0a749020d0674bfe",
+          "gzip_bytes": 8895,
+          "files": 35,
+          "declarations": 566,
+          "external_unread": [
+            "Mathlib"
+          ]
+        },
+        {
+          "path": "data/graph/lean_indices/F-113-singleton-loops.json.gz",
+          "sha256": "c577abbc835be953f14fda5c4b710cef0daa0420e018a99c5c80735a98613867",
+          "uncompressed_sha256": "ca209ce23245a2f102d844577f6d4d49ae0d0419720e5a46daf82f58aaca0985",
+          "gzip_bytes": 24409,
+          "files": 136,
+          "declarations": 1490,
+          "external_unread": [
+            "Mathlib",
+            "Mathlib.Algebra.BigOperators.Group.Finset.Basic",
+            "Mathlib.Data.Fintype.BigOperators",
+            "Mathlib.Data.Fintype.Perm",
+            "Mathlib.Data.List.Nodup",
+            "Mathlib.Data.Nat.Factorial.Basic",
+            "Mathlib.Data.Rat.BigOperators",
+            "Mathlib.Tactic.FieldSimp",
+            "Mathlib.Tactic.NormNum",
+            "Mathlib.Tactic.Positivity",
+            "Mathlib.Tactic.Ring"
+          ]
+        },
+        {
+          "path": "data/graph/lean_indices/F-113-triangle-face.json.gz",
+          "sha256": "416e30f66e21eb948d3e0630eedfddbdb0466d3714e46942a48551acce4f61ce",
+          "uncompressed_sha256": "4df5db3d88fca6564a56b3aecbd62cb6d79867d25629b4fdfb7ad793273efb05",
+          "gzip_bytes": 8562,
+          "files": 37,
+          "declarations": 522,
+          "external_unread": [
+            "Mathlib"
+          ]
+        }
+      ],
+      "unique_local_files": 592,
+      "unique_declarations": 9217,
+      "all_file_hashes_verified": true,
+      "no_build": true,
+      "limitation": "Static lexical/import index,not actual reading of all supporting proofs;Mathlib imports external and unbuilt"
+    },
+    "build": false,
+    "Comparator": false,
+    "human_review": null,
+    "registry_caveat": "Pinnedyaml lists entropy title only;actualFPRASregisteredendpoint exists. Flag false is not proof absence."
+  },
+  "original_history_scopes": [
+    [
+      "JSV-COUNT",
+      "JSV2001",
+      "PDF1-2 Theorem1 and Section2.1",
+      "Old nonnegative-matrix permanent FPRAS supplies the bipartite relative-count baseline.",
+      "Author2001 conference version actually read;2004 journal URL403,not a claim of journal-version identity or complete algorithm audit."
+    ],
+    [
+      "JSV-SAMPLER",
+      "JSV2001",
+      "PDF2 Section2.1",
+      "Old bipartite TV sampler uses polynomial dependence on n and log(1/bias).",
+      "The selected F113 deletion sampler instead gives polynomial tau^-1;do not claim a stronger precision interface. No actual sampler run."
+    ],
+    [
+      "SVW-OBSTRUCTION",
+      "SVW2017v1",
+      "PDF3 Definition2.1;PDF4 Theorem2.2;PDF6-7 proof",
+      "On an explicit graph,any JSV-type hole-pattern weighting has exponentially small perfect mass or exponential mixing.",
+      "A restricted-chain obstruction,not impossibility of every general-graph FPRAS;pair/replica enlargement is a distinct route."
+    ],
+    [
+      "SVW-OLD-PARAMETER",
+      "SVW2017v1",
+      "PDF8-10 Algorithm1,Theorems4.1-4.3",
+      "Gallai-Edmonds recursion gives2^O(k)poly(n,epsilon^-1) under bounded factor-critical order.",
+      "Order means number of ears in this paper,not vertex count;even the torpid-mixing example has an efficient old recursion. No old implementation executed."
+    ],
+    [
+      "AOV-CONJECTURE",
+      "AOV2018",
+      "PDF4 printed38 SectionI.D,Conjecture6",
+      "Binary marginal entropy maximization on the true perfect-matching polytope was conjectured within additive O(|V|) of log count.",
+      "FOCS2018 numbering,not a later arXiv revision;selected original framework only,not its whole proof or a new application. O(V) does not itself give relative error."
+    ]
+  ],
+  "original_acquisitions": [
+    {
+      "id": "JSV2001",
+      "url": "https://people.eecs.berkeley.edu/~sinclair/perm2.pdf",
+      "revision": "STOC2001 author PDF;not 2004 journal bytes",
+      "sha256": "86c8b21170e89da3eccead880f5ea2fb44c9853b7b39660d9c4c9ebdd088e9a3",
+      "bytes": 204383,
+      "normal_TLS": true,
+      "retained_fulltext": false
+    },
+    {
+      "id": "SVW2017v1",
+      "url": "https://arxiv.org/pdf/1712.07504v1",
+      "revision": "arXiv1712.07504v1",
+      "sha256": "dd5ecd0186aa23afdd786fd9c2f3662af9313e7a200d40e4d6e9a08640b27ede",
+      "bytes": 434914,
+      "normal_TLS": true,
+      "retained_fulltext": false
+    },
+    {
+      "id": "AOV2018",
+      "url": "https://ieee-focs.org/FOCS-2018-Papers/pdfs/59f035.pdf",
+      "revision": "FOCS2018 proceedings pp35-46",
+      "sha256": "4379ff0fc117486fa5f66aec3eda1731825349f50c56b36f853d079657aa2936",
+      "bytes": 286307,
+      "normal_TLS": true,
+      "retained_fulltext": false
+    }
+  ],
+  "failed_acquisitions": [
+    {
+      "url": "https://faculty.cc.gatech.edu/~vigoda/Permanent.pdf",
+      "result": "web and direct normalTLS HTTP403;nojournalfulltextread"
+    },
+    {
+      "url": "https://webspace.maths.qmul.ac.uk/m.jerrum/pubs.html",
+      "result": "webtimeout;recoveredauthorSinclairconferencecopy"
+    },
+    {
+      "tool": "default sandbox curl",
+      "result": "configured proxy127.0.0.1:7890 unavailable;escalated same bounded normalTLS downloads successful"
+    }
+  ],
+  "pixel_inspections": [
+    {
+      "name": "source-FPRAS",
+      "source": "FPRAS",
+      "pdf_page": 2,
+      "printed_page": 2,
+      "sha256": "335b0fce0dbe184e1c7d9f1ff7ae0b29c325649fa3e05a069b7c7d6682531d22",
+      "bytes": 206317,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "source-entropy",
+      "source": "entropy",
+      "pdf_page": 1,
+      "printed_page": 1,
+      "sha256": "9bd92663031e671fe333f63d7d1490f937bfc9da41a4cae9dd4b800504766f83",
+      "bytes": 215040,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "JSV-theorem",
+      "source": "JSV2001",
+      "pdf_page": 2,
+      "printed_page": 2,
+      "sha256": "c269d449b43f8a006886bff0d201d524c23590337d485f65d287e60c3a7185bc",
+      "bytes": 431195,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "SVW-obstruction",
+      "source": "SVW2017v1",
+      "pdf_page": 4,
+      "printed_page": 4,
+      "sha256": "b41707c66440db12fff101878aec2d6c6ed58b63a5855a72ecb3be52e0511daa",
+      "bytes": 299468,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "AOV-conjecture",
+      "source": "AOV2018",
+      "pdf_page": 4,
+      "printed_page": 38,
+      "sha256": "56f35ec34bb6de30efb5b9ee52ae3a9d6955d6c935e2255d52fb406eb7e43646",
+      "bytes": 450873,
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "version_audit": {
+    "reconciliation": [
+      {
+        "evidence": [
+          "CONTENTS.md:old-and-current-exact-path"
+        ],
+        "family_id": "F-113",
+        "new_path": "preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/main.pdf",
+        "old_path": "preprints/A-Fully-Polynomial-Randomized-Approximation-Scheme-for-Perfect-Matchings-in-General-Graphs-September-23-2026/main.pdf",
+        "old_title": "A Fully Polynomial Randomized Approximation Scheme for Perfect Matchings in General Graphs",
+        "status": "unchanged_catalogue_path"
+      },
+      {
+        "evidence": [
+          "CONTENTS.md:old-and-current-exact-path"
+        ],
+        "family_id": "F-113",
+        "new_path": "preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/main.pdf",
+        "old_path": "preprints/Entropy-and-Face-Dimension-of-the-Perfect-Matching-Polytope-September-23-2026/main.pdf",
+        "old_title": "Entropy and Face Dimension of the Perfect-Matching Polytope",
+        "status": "unchanged_catalogue_path"
+      }
+    ],
+    "archived_replacement_rows": 0,
+    "history_scope": "No exacttitle entry in pinned history;noF113 historical_versionrows. Unchanged catalogue paths are not exhaustive git/remote version proof."
+  },
+  "bibliography_bindings": 48,
+  "external_works": 44,
+  "historical_roots_selected_checked": 3,
+  "new_numerical_run": false,
+  "new_candidate_count": 0,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "dependency_closure_complete": false,
+  "gaps": [
+    "44 distinct external bibliography works;only3 selected earlier-version scopes read,2004 JSV journal and recent2026 algorithmic baselines not audited",
+    "Transitive natural/formal proofs and historical dependency closures incomplete;6 local B endpoints/56C,fullchainunknown",
+    "No Lean/Comparator build or human specification review;static index is not proof validation",
+    "Huge source polynomial bounds do not establish finite-budget speed;weighted/compressed/loop and exact-uniform interfaces differ",
+    "No qualified real consumer,independent output oracle or fair-cost application run;ten domain attempts are not candidates",
+    "Human and second-provider review remain deferred,not waived"
+  ]
+}

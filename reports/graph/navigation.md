@@ -2,7 +2,7 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；48族有实际阅读记录；43份族分析、42份全文草稿；40候选、13实际检验。
+372族登记；49族有实际阅读记录；45份族分析、44份全文草稿；41候选、13实际检验。
 
 其中18候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。10候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
@@ -20,6 +20,7 @@
 | [APP-094-01](index.html#APP-094-01) | F-094 | 尚未运行 | 1 | 未显式标记 | [卡片](../cards/APP-094-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-094-02](index.html#APP-094-02) | F-094 | 尚未运行 | 2 | [PART-094-PERTURB-SEMANTICS-GATE](index.html#PART-094-PERTURB-SEMANTICS-GATE)、[PART-094-FINITE-COMMON-LAW-GATE](index.html#PART-094-FINITE-COMMON-LAW-GATE) | [卡片](../cards/APP-094-02.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-097-01](index.html#APP-097-01) | F-097 | 有run；按原预测结果 | 0 | 未显式标记 | [卡片](../cards/APP-097-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-113-01](index.html#APP-113-01) | F-113 | 尚未运行 | 1 | 未显式标记 | [卡片](../cards/APP-113-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-114-01](index.html#APP-114-01) | F-114 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-114-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-115-01](index.html#APP-115-01) | F-115 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-115-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-119-01](index.html#APP-119-01) | F-119 | 有run；按原预测结果 | 1 | 未显式标记 | [卡片](../cards/APP-119-01.md)：原文、方法、baseline、limitations、revisit_when |
@@ -166,7 +167,7 @@
 | [F-110 · Optimal-order randomized <i>k</i>-server on arbitrary metrics.](index.html#F-110) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-111 · One-sample matroid prophet inequalities against an almighty adversary.](index.html#F-111) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-112 · Beyond the square-root exponent for depth-three circuits.](index.html#F-112) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-113 · Approximate counting and entropy of perfect matchings.](index.html#F-113) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-113 · Approximate counting and entropy of perfect matchings.](index.html#F-113) | Theoretical computer science | 有选读记录 | [全文草稿](../families/F-113.md) | 62／37 | 1 |
 | [F-114 · Approximate counting of common integer polymatroid bases.](index.html#F-114) | Theoretical computer science | 有选读记录 | [全文草稿](../families/F-114.md) | 37／22 | 1 |
 | [F-115 · Sampling and counting contingency tables with arbitrary margins.](index.html#F-115) | Theoretical computer science | 有选读记录 | [全文草稿](../families/F-115.md) | 42／24 | 1 |
 | [F-116 · Uniform black-box noncommutative identity testing across characteristics.](index.html#F-116) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -313,7 +314,7 @@
 | [F-259 · A group without fixed price.](index.html#F-259) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-260 · Spacetime Penrose inequalities: enclosing area, charge, rotation, and anti-de Sitter extensions.](index.html#F-260) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-261 · Localization and delocalization in the Anderson model.](index.html#F-261) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-262 · Sharp finite-matrix Lieb–Thirring inequalities and all equality cases.](index.html#F-262) | Mathematical physics | 有选读记录 | 未有族分析 | 2／0 | 0 |
+| [F-262 · Sharp finite-matrix Lieb–Thirring inequalities and all equality cases.](index.html#F-262) | Mathematical physics | 有选读记录 | [全文草稿](../families/F-262.md) | 37／14 | 0 |
 | [F-263 · The ionization and generalized ionization conjectures.](index.html#F-263) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-264 · Strong cosmic censorship near two-ended Kerr data.](index.html#F-264) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-265 · Area laws and tensor networks for two-dimensional gapped systems.](index.html#F-265) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |

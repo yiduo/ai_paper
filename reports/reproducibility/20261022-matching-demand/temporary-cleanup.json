@@ -1,0 +1,117 @@
+{
+  "recorded_at": "2026-10-22T05:07:24.096900+00:00",
+  "files": [
+    {
+      "name": "walrus-commit.json",
+      "bytes": 12484,
+      "sha256": "1e73d7f2b1f5c7ecf36f9cfff4e80434dd5c47b462f11afa99519871a10e734d",
+      "retained": "Onlyhash/version/locator;temporaryPDForAPImetadata"
+    },
+    {
+      "name": "walrus-tree.json",
+      "bytes": 38623,
+      "sha256": "633e71c8e2bfad7030b08fb19af1b4b2b52f4091ab515e66a781bf05fbee0d69",
+      "retained": "Onlyhash/version/locator;temporaryPDForAPImetadata"
+    },
+    {
+      "name": "walrus-thewalrus___hafnian.py",
+      "bytes": 35584,
+      "sha256": "f828409355c31a19c41c15e56f072112ec920084a6d565d97ec9f395b0bf58bc",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "walrus-thewalrus__reference.py",
+      "bytes": 11004,
+      "sha256": "b875b46ba078ebc9729f710576529584f685c75ddee2db87f96f6f13ce1f3900",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "walrus-thewalrus__samples.py",
+      "bytes": 27933,
+      "sha256": "cf56b61d88909ba62f592aa447b1f1f81e31cc9713f3a94ca8c284213e41b358",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "walrus-thewalrus__quantum__fock_tensors.py",
+      "bytes": 26827,
+      "sha256": "78fb20da7bbb3edc2249eafa3eeb4612e91b49d340edebea9c74fb1e6cb10517",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "walrus-docs__algorithms.rst",
+      "bytes": 14596,
+      "sha256": "8ef4a0bb1596451adb5454aaba89bd3597001bd72147333d876f90fc7fd7bca3",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "walrus-LICENSE",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "graphillion-tree.json",
+      "bytes": 44458,
+      "sha256": "b3c73093d7dc664c3ca47ab26556da98bd7ddbd65f887fbd1191da552d59c5e4",
+      "retained": "Onlyhash/version/locator;temporaryPDForAPImetadata"
+    },
+    {
+      "name": "GBS2017v1.pdf",
+      "bytes": 2040252,
+      "sha256": "c34dd757bc034f839ea37d978bb38f56930fc1360b408d85e43c54bedc942291",
+      "retained": "Onlyhash/version/locator;temporaryPDForAPImetadata"
+    },
+    {
+      "name": "graphillion-test.py",
+      "bytes": 54598,
+      "sha256": "33d142853153ef618c611e4d536079df374aa14e72c50fa99406d2ed3f1b2f19",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "walrus-test-approx.py",
+      "bytes": 1987,
+      "sha256": "bcb8a4def5b79f6b6950d063365677bce75f1ee55125142cadbc9f278ef34f10",
+      "retained": "Licensedexactcompressedmember"
+    },
+    {
+      "name": "reused-graphillion__graphillion__graphset.py",
+      "bytes": 96853,
+      "sha256": "8d5edd21ca44aa9a99ad7c4b6e6aa2d768452188bad0072039dc645cbbb3503a",
+      "retained": "Existinglicensedsourcearchive"
+    },
+    {
+      "name": "reused-graphillion__README.md",
+      "bytes": 61032,
+      "sha256": "26d0eb68d43a864255653796a8f43694e2b51e63ec43d599f50d7eb04ac75793",
+      "retained": "Existinglicensedsourcearchive"
+    },
+    {
+      "name": "reused-graphillion__LICENSE.txt",
+      "bytes": 1425,
+      "sha256": "72690a70c2005716a85fbb03221ab09e791ddb3bac1b8592b9d79b3eea668bb9",
+      "retained": "Existinglicensedsourcearchive"
+    },
+    {
+      "name": "GBS-equation6.png",
+      "bytes": 372342,
+      "sha256": "2f5b51234a203f18365d25d4bfc8e49d4d225d0d2a52c1eb4addc7b7cd77cad7",
+      "retained": "Pixelinspection/hashreceipt;not imagecopy"
+    },
+    {
+      "name": "GBS-square-root.png",
+      "bytes": 324045,
+      "sha256": "17ea0de695741dab75f015e32f126c244474516058f73d365e5c407fec2f7a79",
+      "retained": "Pixelinspection/hashreceipt;not imagecopy"
+    },
+    {
+      "name": "GBS2017v1.txt",
+      "bytes": 119388,
+      "sha256": "e8e433eac9bc06b351c9cd1846e511fb7921b143802a88f6d21c811a1d9888cd",
+      "retained": "TemporaryselectedPDFtextremoved"
+    }
+  ],
+  "total_bytes_removed": 3294788,
+  "no_external_fulltext_retained": true,
+  "no_upstream_copy_or_install": true,
+  "new_source_gzip_bytes": 39741
+}

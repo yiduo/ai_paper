@@ -1,0 +1,1505 @@
+{
+  "family_id": "F-262",
+  "manuscript_ids": [
+    "P-5bf2f618b4e7fd26",
+    "P-f667c4cb31984c1b",
+    "P-a1aa8e17be727f9b"
+  ],
+  "work_package": "WP-092",
+  "generation_id": "GEN-20261022-088",
+  "recorded_at": "2026-10-22T05:24:27.856371+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "e6e2ee2473d8e94bc5cf9335de2f1b4ad9d776f5",
+  "read_files": {
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/README.md": {
+      "sha256": "f8b2645ee0e5b735e7e216c1569d58c34762b33b3e213cc7bab6479b27309360",
+      "total_lines": 20,
+      "read_ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/main.tex": {
+      "sha256": "ff78a6c69a714977a7c50f39c35b7c2048ae554b22a6b2c9d78e55e65cce6efa",
+      "total_lines": 29,
+      "read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/preamble.tex": {
+      "sha256": "f19092ceadb50ceba5e70b896603b3b54aab53ef39dbf15de493db4e5ba78e81",
+      "total_lines": 36,
+      "read_ranges": [
+        [
+          1,
+          36
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/references.bib": {
+      "sha256": "7959c0125347e8db8c49fe7da58ba11731e9dc3466582cf45a2a377629ef08b1",
+      "total_lines": 255,
+      "read_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-framework.tex": {
+      "sha256": "d0884894b16cf0e0785d552d524e5da83e9e5ac2148fc86a26e8cbc580b3e215",
+      "total_lines": 62,
+      "read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-limit.tex": {
+      "sha256": "bcfaef9e3ac0d5ca59cc2aac1f9cc6dd9ac13812771575d961be4413a66b8687",
+      "total_lines": 75,
+      "read_ranges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/connecting-path.tex": {
+      "sha256": "91a190db70c40b20d0799793925aa4aae2c67e2c82d8fcc4bfcdbed703fe66e9",
+      "total_lines": 299,
+      "read_ranges": [
+        [
+          1,
+          299
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/introduction.tex": {
+      "sha256": "c2b91386486f94520c349ea813f2f4cfd599792422daa964efffac14494c28a2",
+      "total_lines": 167,
+      "read_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex": {
+      "sha256": "34eed7d475a657750a40c0c4b0261e0768fea6c321fdc27b13dbf0ad6e07e717",
+      "total_lines": 227,
+      "read_ranges": [
+        [
+          1,
+          227
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex": {
+      "sha256": "40d96bf8f4992a54a801f6e59ab65bc0d5a1e2f9462b2cf7eeb14e9a0bdb22ec",
+      "total_lines": 221,
+      "read_ranges": [
+        [
+          1,
+          221
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex": {
+      "sha256": "71c04c0773fc320e0dc3f29e2807d181ac0ebbb19fc9bc24ae39398590688901",
+      "total_lines": 281,
+      "read_ranges": [
+        [
+          1,
+          281
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/README.md": {
+      "sha256": "a6df3d55bbbc1a362100e565b2421091e02e5b043445db80f648a20bf0d6abce",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/main.tex": {
+      "sha256": "0e4ff5f92c51cb88c520be25f748bbda14e7a666cc11795fea1d13f50bcc55b0",
+      "total_lines": 26,
+      "read_ranges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/notes/history.tex": {
+      "sha256": "780cd774589fac5e273223d1862a9700838ce36dc0eef0a0b479a8976cec01c2",
+      "total_lines": 46,
+      "read_ranges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/preamble.tex": {
+      "sha256": "c52490ce043dca26f1452c3c6754401c649348283c3b5fc8c08a203795b08040",
+      "total_lines": 29,
+      "read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/references.tex": {
+      "sha256": "037660396683762f2d322129d46f328f9ddea657aa40427f9a71a942219263c8",
+      "total_lines": 98,
+      "read_ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-framework.tex": {
+      "sha256": "0cf420e9a3f0ff968bd693c9115d815da1f44901e6c6711040a15e459ebf1a98",
+      "total_lines": 48,
+      "read_ranges": [
+        [
+          1,
+          48
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-limit.tex": {
+      "sha256": "6f4c14dfcdd1185cc2043af27d0d71229aeb28c942b37ae1ef67b4766ecc4a8a",
+      "total_lines": 124,
+      "read_ranges": [
+        [
+          1,
+          124
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex": {
+      "sha256": "6864939da6e21854aec9848e89c0a7051c451ca31a3d9a64d0bf9d21f03843ed",
+      "total_lines": 360,
+      "read_ranges": [
+        [
+          1,
+          360
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/introduction.tex": {
+      "sha256": "72dedb3dd3e00cd1e9e3db45c1bc9080f42006ff654cea6a18a98537528a8b60",
+      "total_lines": 106,
+      "read_ranges": [
+        [
+          1,
+          106
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/paths.tex": {
+      "sha256": "9cc18ba7f1631d6e1f9f42cd1e8ecc4f53e21fee07ec4ffe96436ea468d39480",
+      "total_lines": 285,
+      "read_ranges": [
+        [
+          1,
+          285
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/spectral.tex": {
+      "sha256": "6a4dbfd78dc6302602bbaeb36d66eab82b58afb8b4972d2ba0f5020ec36294a4",
+      "total_lines": 234,
+      "read_ranges": [
+        [
+          1,
+          234
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/trace.tex": {
+      "sha256": "51a13c2b744a15a4c39bf78e4a9e35453d647f9be12d70965dcee9c8f222cb14",
+      "total_lines": 401,
+      "read_ranges": [
+        [
+          1,
+          401
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/README.md": {
+      "sha256": "aef31076e5a654582bf1e2cd715745875a1947f542fb58a25e2c8fa7122c5b01",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/main.tex": {
+      "sha256": "bfaa1e3e2e9502ccbf23f98c8a0536f6b9be1866ad5e08d984f1966d16cc5bb0",
+      "total_lines": 29,
+      "read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/preamble.tex": {
+      "sha256": "7f3926a0f92147672b19b7f562a20e70f8124babf6e0faed11c82eab9bf01059",
+      "total_lines": 28,
+      "read_ranges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/references.tex": {
+      "sha256": "40159a8df18cda57c6859f182c502cfa23234ae3120c873348ea7aecc451b773",
+      "total_lines": 90,
+      "read_ranges": [
+        [
+          1,
+          90
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/action.tex": {
+      "sha256": "3acbaec3c554c27baf29b98c326a85d7337008a23c839920cd3e773b4c89c32a",
+      "total_lines": 328,
+      "read_ranges": [
+        [
+          1,
+          328
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex": {
+      "sha256": "34bcdc9e6918c9da88626e44808cacfee98532e3b3e5648c0c331cd758349178",
+      "total_lines": 465,
+      "read_ranges": [
+        [
+          1,
+          465
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-trace.tex": {
+      "sha256": "60955d05883d9039fbe58d2aaa3a7f2f12bcdd21dc54eabfb0199fc21c8f5dc3",
+      "total_lines": 287,
+      "read_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/compactness.tex": {
+      "sha256": "910c2aea5e27a4ec1f6e46b0dc8f102db0e2faacb057a8c64db8967b328cab8e",
+      "total_lines": 379,
+      "read_ranges": [
+        [
+          1,
+          379
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/introduction.tex": {
+      "sha256": "296070a983ced0094a761b41562a7eda1e24471d885b84118c3a56227b35b002",
+      "total_lines": 161,
+      "read_ranges": [
+        [
+          1,
+          161
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/preliminaries.tex": {
+      "sha256": "948415dac993d6e5d11f88da0afe27a4bd974ee7c0027f9907698b97e6c9af6c",
+      "total_lines": 83,
+      "read_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/rigidity.tex": {
+      "sha256": "d9deee77f0feb5567f1e19301880d085ce2e273bf916a8a06614e3011a60678e",
+      "total_lines": 293,
+      "read_ranges": [
+        [
+          1,
+          293
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/spectral-bound.tex": {
+      "sha256": "1259c18d8875055b61a1f13f6d40b051af46163278fdc2b7bc0613e78f1b8032",
+      "total_lines": 65,
+      "read_ranges": [
+        [
+          1,
+          65
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_closure": {
+    "E": {
+      "included_tex_files": [
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/main.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/preamble.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/references.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/action.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-trace.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/compactness.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/introduction.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/preliminaries.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/rigidity.tex",
+        "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/spectral-bound.tex"
+      ],
+      "all_included_tex_read": true,
+      "figure_assets": []
+    },
+    "M": {
+      "included_tex_files": [
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/main.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/notes/history.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/preamble.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/references.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-framework.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-limit.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/introduction.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/paths.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/spectral.tex",
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/trace.tex"
+      ],
+      "all_included_tex_read": true,
+      "figure_assets": [
+        "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/figures/half-line-gluing.pdf"
+      ]
+    },
+    "S": {
+      "included_tex_files": [
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/main.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/preamble.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-framework.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-limit.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/connecting-path.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/introduction.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex",
+        "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex"
+      ],
+      "all_included_tex_read": true,
+      "figure_assets": []
+    }
+  },
+  "tex_files": 31,
+  "tex_lines": 5362,
+  "extra_scalar_bibliography_lines": 255,
+  "named_result_count": 37,
+  "named_results": [
+    {
+      "id": "CLM-262-E-ACT-QUANTITATIVE-ACTION",
+      "qualified_label": "E::act:quantitative-action",
+      "label": "act:quantitative-action",
+      "aliases": [],
+      "title": "Capped quantitative action",
+      "statement": "For every eta>0 some C,B make E_K(CU)>=b_sigma sum ell_i^(2gamma)+integral(||Aprime-BA||HS^2+c_*Phi)-eta.",
+      "conditions": "Phi=min(1,||[B,K^2]||op^2+||K^2-B^2-(AA^T)^r||op^2); c_*(sigma,kappa)>0 independent n,d,smallest ell; not a global distance-to-soliton bound.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Phi=min(1,||[B,K^2]||op^2+||K^2-B^2-(AA^T)^r||op^2); c_*(sigma,kappa)>0 independent n,d,smallest ell; not a global distance-to-soliton bound.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/action.tex",
+      "lines": [
+        36,
+        60
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-ACT-CONSTRAINT",
+      "qualified_label": "E::act:constraint",
+      "label": "act:constraint",
+      "aliases": [],
+      "title": "Uniform constrained defect",
+      "statement": "Under M_delta(B)=AA^T, the action defect plus c_*Phi is bounded by E_n,delta tending to zero for fixed n,K.",
+      "conditions": "E_n,delta=n(delta kappa^(2sigma)+delta^sigma(kappa^2+delta))+delta^(2sigma); exact trace deficit on t in [1,2] controls commutator and power mismatch; c_* dimension independent but regularization error is not.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. E_n,delta=n(delta kappa^(2sigma)+delta^sigma(kappa^2+delta))+delta^(2sigma); exact trace deficit on t in [1,2] controls commutator and power mismatch; c_* dimension independent but regularization error is not.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/action.tex",
+      "lines": [
+        106,
+        118
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-FIELD-PROPERTIES",
+      "qualified_label": "E::field:properties",
+      "label": "field:properties",
+      "aliases": [],
+      "title": "Equality field foundation",
+      "statement": "Regularized field has local HS regularity, C1 primitive, scalar mu, directional inequality, coordinate identity, sign equivariance and sharp endpoint limit.",
+      "conditions": "delta>0,K positive diagonal; scalar tangent extension and symmetric cutoff needed; not global operator concavity.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. delta>0,K positive diagonal; scalar tangent extension and symmetric cutoff needed; not global operator concavity.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex",
+      "lines": [
+        56,
+        94
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-FIELD-POSITIVE",
+      "qualified_label": "E::field:positive",
+      "label": "field:positive",
+      "aliases": [],
+      "title": "Positive field identifies trace input",
+      "statement": "M_delta(B)>=0 forces Q_s>=0 and 0<=M<=kappa^(2sigma)I; with V=K^2-B^2+delta I, N=M+delta^sigma I.",
+      "conditions": "Full symbol >=delta I even if V indefinite. Fubini justified by t^beta(1+t+s^2)^-2 resolvent majorant.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Full symbol >=delta I even if V indefinite. Fubini justified by t^beta(1+t+s^2)^-2 resolvent majorant.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex",
+      "lines": [
+        213,
+        226
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-PATH-CONNECTING",
+      "qualified_label": "E::path:connecting",
+      "label": "path:connecting",
+      "aliases": [],
+      "title": "Equality connecting path foundation",
+      "statement": "For rectangular row-orthonormal U, lower C and C1 B solve epsilon Bprime=M_delta(B)-AA^T with endpoints K,-K and opnorm<=kappa.",
+      "conditions": "Fixed delta,K,interval; C uniform epsilon<=1. Smooth equivariant approximation/Sard and free sign quotient of compact 1-manifold, not a numerical solver.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Fixed delta,K,interval; C uniform epsilon<=1. Smooth equivariant approximation/Sard and free sign quotient of compact 1-manifold, not a numerical solver.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-paths.tex",
+      "lines": [
+        275,
+        297
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-TRACE-DEFICIT",
+      "qualified_label": "E::trace:deficit",
+      "label": "trace:deficit",
+      "aliases": [],
+      "title": "Exact noncommutative deficit",
+      "statement": "tr(NV)-tr(N^q)=c_sigma integral t^beta[tr(RZ^2)+q||R^-1/2-R^1/2(tI+N^r)^1/2||HS^2]dt.",
+      "conditions": "Full symbol>=bI, N>=0; R>0,L=R^-1,Z Hermitian. No commutation required for HS square. Commuting B,V gives V>=bI and zero deficit.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Full symbol>=bI, N>=0; R>0,L=R^-1,Z Hermitian. No commutation required for HS square. Commuting B,V gives V>=bI and zero deficit.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/appendix-trace.tex",
+      "lines": [
+        23,
+        57
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-COMP-RELATIONS",
+      "qualified_label": "E::comp:relations",
+      "label": "comp:relations",
+      "aliases": [],
+      "title": "Infinite-family equality compactness",
+      "statement": "At nonzero real equality obtain H1 rows a_i within each equal-energy eigenspace and pointwise bounded self-adjoint B commuting with Lambda^2, Lambda^2-B^2=(AA^T)^r, Aprime=BA, W=q(A^TA)^r.",
+      "conditions": "Negative eigenlist may initially be infinite; common spectral shifts preserve gaps, fixed physical rank m gives tail HS bound m(s_h+e)^(1/r). Pointwise B subsequences may depend on x; no measurable B asserted.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Negative eigenlist may initially be infinite; common spectral shifts preserve gaps, fixed physical rank m gives tail HS bound m(s_h+e)^(1/r). Pointwise B subsequences may depend on x; no measurable B asserted.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/compactness.tex",
+      "lines": [
+        34,
+        62
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-THM-MAIN",
+      "qualified_label": "E::thm:main",
+      "label": "thm:main",
+      "aliases": [],
+      "title": "All finite-matrix equality cases",
+      "statement": "Equality iff a single constant unitary diagonalizes W a.e. into k<=m independent profiles (r+1)a_j^2 sech^2(r a_j(x-x_j)) and zero channels.",
+      "conditions": "Strict 1/2<gamma<3/2; finite complex Hermitian PSD potential with integrable trace power. Repeated scales/profiles allowed; each active channel exactly one eigenvalue -a_j^2. No endpoint3/2 or near-equality rate.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Strict 1/2<gamma<3/2; finite complex Hermitian PSD potential with integrable trace power. Repeated scales/profiles allowed; each active channel exactly one eigenvalue -a_j^2. No endpoint3/2 or near-equality rate.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/introduction.tex",
+      "lines": [
+        34,
+        54
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-PRE-SPECTRAL",
+      "qualified_label": "E::pre:spectral",
+      "label": "pre:spectral",
+      "aliases": [],
+      "title": "Equality spectral setup",
+      "statement": "Finite-channel rough PSD form is closed/semibounded with smooth core and discrete finite-multiplicity negative spectrum, eigenfunctions in H1 satisfying distributional ODE.",
+      "conditions": "p>1, integral tr W^p<infty, no finite negative-spectrum assumption made in advance.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. p>1, integral tr W^p<infty, no finite negative-spectrum assumption made in advance.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/preliminaries.tex",
+      "lines": [
+        8,
+        16
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-PRE-YOUNG",
+      "qualified_label": "E::pre:young",
+      "label": "pre:young",
+      "aliases": [],
+      "title": "Trace Young equality",
+      "statement": "D_sigma tr W^p-tr(WZ)+tr Z^q>=0 with equality iff W=q Z^r; coercivity >=1/2 tr Z^q-(2^(p-1)-1)D_sigma tr W^p.",
+      "conditions": "W,Z finite Hermitian PSD; diagonal convexity establishes equality including zero coordinates; simultaneous basis is a conclusion at equality, not an assumption.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. W,Z finite Hermitian PSD; diagonal convexity establishes equality including zero coordinates; simultaneous basis is a conclusion at equality, not an assumption.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/preliminaries.tex",
+      "lines": [
+        52,
+        63
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-RIG-FIXED-RIGHT-SPACES",
+      "qualified_label": "E::rig:fixed-right-spaces",
+      "label": "rig:fixed-right-spaces",
+      "aliases": [],
+      "title": "Fixed physical channel spaces",
+      "statement": "ker G_alpha(x) and right row space are constant; different energy right spaces orthogonal and sum of dimensions<=m, so finitely many nonzero blocks.",
+      "conditions": "Use ||(G_alpha v)prime||<=kappa||G_alpha v|| a.e. and two-sided Gronwall; continuous H1 representatives. Does not assume all initial rows nonzero or choose measurable B.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Use ||(G_alpha v)prime||<=kappa||G_alpha v|| a.e. and two-sided Gronwall; continuous H1 representatives. Does not assume all initial rows nonzero or choose measurable B.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/rigidity.tex",
+      "lines": [
+        43,
+        58
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-RIG-FIXED-LEFT-SPACES",
+      "qualified_label": "E::rig:fixed-left-spaces",
+      "label": "rig:fixed-left-spaces",
+      "aliases": [],
+      "title": "Fixed row spaces and Riccati rigidity",
+      "statement": "For each active block, range G_alpha(x) is constant; in fixed bases invertible D gives symmetric B0=Dprime D^-1 and B0prime=r(B0^2-alpha^2 I).",
+      "conditions": "Distributional ODE upgrades active blocks to C2. Strict alpha^2 I-B0^2>0 selects negative tanh branches in one constant basis; yields independent centres/scales.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Distributional ODE upgrades active blocks to C2. Strict alpha^2 I-B0^2>0 selects negative tanh branches in one constant basis; yields independent centres/scales.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/rigidity.tex",
+      "lines": [
+        102,
+        114
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-E-BOUND-SHARP",
+      "qualified_label": "E::bound:sharp",
+      "label": "bound:sharp",
+      "aliases": [],
+      "title": "Equality sharp bound derivation",
+      "statement": "Same full finite-matrix spectral moment bound follows from quantitative action, Young and exhaustion.",
+      "conditions": "Finite eigenfamily uses common shift xi<k_n^2 and smooth compact approximants; then eta->0,xi->0,full spectral exhaustion. Complex realification doubles both ordinary traces and divides by two.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Finite eigenfamily uses common shift xi<k_n^2 and smooth compact approximants; then eta->0,xi->0,full spectral exhaustion. Complex realification doubles both ordinary traces and divides by two.",
+      "file": "math/preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/build/sections/spectral-bound.tex",
+      "lines": [
+        7,
+        13
+      ],
+      "manuscript_id": "P-5bf2f618b4e7fd26",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-THM-ACTION",
+      "qualified_label": "M::thm:action",
+      "label": "thm:action",
+      "aliases": [],
+      "title": "Rectangular action",
+      "statement": "For U in H1_0(R^(n by d)), integral UU^T=I_n, supremum E_K(CU)>=b_sigma sum ki^(2gamma).",
+      "conditions": "Arbitrary finite n,d; lower triangular C and ordinary trace powers. Does not assume rank-one AA^T.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Arbitrary finite n,d; lower triangular C and ordinary trace powers. Does not assume rank-one AA^T.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/action-framework.tex",
+      "lines": [
+        22,
+        28
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-LEM-FIELD-REGULARITY",
+      "qualified_label": "M::lem:field-regularity",
+      "label": "lem:field-regularity",
+      "aliases": [],
+      "title": "Matrix field primitive",
+      "statement": "Symmetric-cutoff M_delta exists locally uniformly and is locally Lipschitz; its negative field has a C1 primitive.",
+      "conditions": "Fixed delta,K; odd-tail subtraction and HS calculus, not an operator-norm functional-calculus shortcut.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Fixed delta,K; odd-tail subtraction and HS calculus, not an operator-norm functional-calculus shortcut.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex",
+      "lines": [
+        59,
+        68
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-LEM-FIELD-PROPERTIES",
+      "qualified_label": "M::lem:field-properties",
+      "label": "lem:field-properties",
+      "aliases": [],
+      "title": "Boundary and sign symmetries",
+      "statement": "mu_delta(z)=(z+delta)^sigma-delta^sigma for z>=0; directional/coordinate comparison, sign equivariance and scalar endpoint primitive limit hold.",
+      "conditions": "B real symmetric, K fixed diagonal positive; shift requires symmetric-cutoff cancellation, not all-basis equivariance.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. B real symmetric, K fixed diagonal positive; shift requires symmetric-cutoff cancellation, not all-basis equivariance.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex",
+      "lines": [
+        196,
+        219
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-PROP-FIELD-COMPARISON",
+      "qualified_label": "M::prop:field-comparison",
+      "label": "prop:field-comparison",
+      "aliases": [],
+      "title": "Positive-field trace comparison",
+      "statement": "M_delta(B)>=0 implies Q_s>=0, M<=kappa^(2sigma)I and tr(M(K^2-B^2))>=tr M^q-E_delta.",
+      "conditions": "V=K^2-B^2+delta I may be indefinite; N=M+delta^sigma I. E_delta=n(delta kappa^(2sigma)+delta^sigma(kappa^2+delta)); fixed n,K before delta->0.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. V=K^2-B^2+delta I may be indefinite; N=M+delta^sigma I. E_delta=n(delta kappa^(2sigma)+delta^sigma(kappa^2+delta)); fixed n,K before delta->0.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/field.tex",
+      "lines": [
+        259,
+        269
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-MATRIX",
+      "qualified_label": "M::thm:main",
+      "label": "thm:main",
+      "aliases": [],
+      "title": "Finite-channel sharp moment",
+      "statement": "All negative spectral moments obey C_gamma integral tr W^p with scalar sharp constant independently of finite m, attained by one nonzero soliton channel.",
+      "conditions": "Measurable Hermitian PSD W, integrable tr W^p; arbitrary rank and noncommuting W(x); not infinite-channel assertion or optimizer classification.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Measurable Hermitian PSD W, integrable tr W^p; arbitrary rank and noncommuting W(x); not infinite-channel assertion or optimizer classification.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/introduction.tex",
+      "lines": [
+        28,
+        43
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-PROP-PATHS",
+      "qualified_label": "M::prop:paths",
+      "label": "prop:paths",
+      "aliases": [],
+      "title": "Rectangular connecting path",
+      "statement": "epsilon Bprime=M_delta(B)-(CU)(CU)^T connects K,-K, opnorm<=kappa; C bounded uniformly epsilon<=1.",
+      "conditions": "Row-orthonormal U on bounded interval; sign quotient free where every row nonzero, not requiring invertible C; fixed delta bound, no efficient algorithm.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Row-orthonormal U on bounded interval; sign quotient free where every row nonzero, not requiring invertible C; fixed delta bound, no efficient algorithm.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/paths.tex",
+      "lines": [
+        23,
+        52
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-LEM-FORM-COMPACTNESS",
+      "qualified_label": "M::lem:form-compactness",
+      "label": "lem:form-compactness",
+      "aliases": [],
+      "title": "Matrix form compactness",
+      "statement": "Whole-line H1 form closes and has discrete negative spectrum; compactly supported smooth functions form a core and negative eigenfunctions belong to H1.",
+      "conditions": "Finite real or complex channel m, W Hermitian PSD, integral tr W^p<infty; all eigenvalue multiplicities counted.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Finite real or complex channel m, W Hermitian PSD, integral tr W^p<infty; all eigenvalue multiplicities counted.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/spectral.tex",
+      "lines": [
+        14,
+        27
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-THM-TRACE",
+      "qualified_label": "M::thm:trace",
+      "label": "thm:trace",
+      "aliases": [],
+      "title": "Integrated matrix trace comparison",
+      "statement": "With R=pi^-1 integral(X_s+tI)^-1ds, N=c_sigma integral t^beta(t^-1/2 I-R)dt>=0, tr(NV)>=tr N^q; exact nonnegative two-term deficit is derived.",
+      "conditions": "Hermitian B,V with full symbol X_s=(sI-B)^2+V>=bI for all real s, b>0; V need not be PSD. Norm-convergent integrals.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Hermitian B,V with full symbol X_s=(sI-B)^2+V>=bI for all real s, b>0; V need not be PSD. Norm-convergent integrals.",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/trace.tex",
+      "lines": [
+        25,
+        45
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-M-LEM-TRACE-HALF-LINES",
+      "qualified_label": "M::lem:trace-half-lines",
+      "label": "lem:trace-half-lines",
+      "aliases": [],
+      "title": "Half-line resolvent recovery",
+      "statement": "Hermitian boundary maps S,T yield L=(S+T)/2=R^-1>0, Z=(S-T)/2 and V+tI=L^2+Z^2+i[B,Z], LZ+ZL+i[B,L]=0.",
+      "conditions": "Same coercive full symbol, t>0; S,T individually need not be positive. Fourier derivative jump fixes factor one-half; tr(R(V+tI))=tr L-tr(RZ^2).",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Same coercive full symbol, t>0; S,T individually need not be positive. Fourier derivative jump fixes factor one-half; tr(R(V+tI))=tr L-tr(RZ^2).",
+      "file": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/sections/trace.tex",
+      "lines": [
+        90,
+        104
+      ],
+      "manuscript_id": "P-f667c4cb31984c1b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-THM-ACTION",
+      "qualified_label": "S::thm:action",
+      "label": "thm:action",
+      "aliases": [],
+      "title": "Scalar-family action",
+      "statement": "Supremum of E_K(Cu) over real lower triangular C is at least sum integral[-ki,ki](ki^2-s^2)^sigma ds.",
+      "conditions": "Bounded interval, u in H1_0 with integral uu^T=I, ki>0; C need not be invertible. Auxiliary matrix size counts orthonormal functions.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Bounded interval, u in H1_0 with integral uu^T=I, ki>0; C need not be invertible. Auxiliary matrix size counts orthonormal functions.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/action-framework.tex",
+      "lines": [
+        20,
+        28
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-PATH-EXISTENCE",
+      "qualified_label": "S::path:existence",
+      "label": "path:existence",
+      "aliases": [],
+      "title": "Two-endpoint path",
+      "statement": "Some lower triangular C and C1 symmetric B connect K to -K with epsilon Bprime=M(B)-(Cu)(Cu)^T and opnorm B<=opnorm K.",
+      "conditions": "Field local Lipschitz, sign equivariance, increasing scalar coordinate and directional bounds; fixed field,K,interval gives bounded C uniformly epsilon<=1. No uniform Bprime or delta bound or efficient constructor.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Field local Lipschitz, sign equivariance, increasing scalar coordinate and directional bounds; fixed field,K,interval gives bounded C uniformly epsilon<=1. No uniform Bprime or delta bound or efficient constructor.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/connecting-path.tex",
+      "lines": [
+        36,
+        59
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-PATH-PARITY",
+      "qualified_label": "S::path:parity",
+      "label": "path:parity",
+      "aliases": [],
+      "title": "Relative odd-zero continuation",
+      "statement": "A continuous homotopy of rank-d bundle sections over smooth d-manifold with compact total zero set retains a zero at the final endpoint.",
+      "conditions": "Initial section smooth with odd finite transverse zeros; no orientation needed. Quotient applied only on free sign locus, not all triangular matrices.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Initial section smooth with odd finite transverse zeros; no orientation needed. Quotient applied only on free sign locus, not all triangular matrices.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/connecting-path.tex",
+      "lines": [
+        70,
+        79
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-SCALAR",
+      "qualified_label": "S::thm:main",
+      "label": "thm:main",
+      "aliases": [],
+      "title": "Scalar sharp full moment",
+      "statement": "All negative eigenvalues with multiplicities satisfy Tr(H_-^gamma)<=C_gamma integral W^p; optimal one-state constant, attained by (r+1)sech^2(rx).",
+      "conditions": "W>=0 measurable in L^p(R), including rough/unbounded W and potentially infinitely many negative eigenvalues. Attainment does not classify all optimizers.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. W>=0 measurable in L^p(R), including rough/unbounded W and potentially infinitely many negative eigenvalues. Attainment does not classify all optimizers.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/introduction.tex",
+      "lines": [
+        37,
+        48
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "B"
+    },
+    {
+      "id": "CLM-262-S-LEM-HS-CALCULUS",
+      "qualified_label": "S::lem:HS-calculus",
+      "label": "lem:HS-calculus",
+      "aliases": [],
+      "title": "HS functional calculus",
+      "statement": "Scalar L-Lipschitz h yields ||h(A)-h(B)||HS<=L||A-B||HS.",
+      "conditions": "Hermitian finite matrices with spectra in the scalar interval; not a dimension-independent operator-norm Lipschitz assertion.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Hermitian finite matrices with spectra in the scalar interval; not a dimension-independent operator-norm Lipschitz assertion.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex",
+      "lines": [
+        63,
+        67
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-LEM-FIELD-REGULARITY",
+      "qualified_label": "S::lem:field-regularity",
+      "label": "lem:field-regularity",
+      "aliases": [],
+      "title": "Symmetric-cutoff field primitive",
+      "statement": "The field integral converges locally uniformly, is locally Lipschitz, and J=-integral_0^1 tr(B M(tB))dt is C1 with dJ=-tr(M dB).",
+      "conditions": "Fixed delta>0 and diagonal positive K; cancellation of leading odd s tail is essential; HS remainder O(|s|^(2beta-2)).",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Fixed delta>0 and diagonal positive K; cancellation of leading odd s tail is essential; HS remainder O(|s|^(2beta-2)).",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex",
+      "lines": [
+        79,
+        86
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-LEM-MU",
+      "qualified_label": "S::lem:mu",
+      "label": "lem:mu",
+      "aliases": [],
+      "title": "Scalar regularization and shift",
+      "statement": "mu is locally Lipschitz and strictly increasing, mu(0)=0, mu(z)=(z+delta)^sigma-delta^sigma for z>=0; fixed translations retain the symmetric-cutoff integral.",
+      "conditions": "Negative z uses tangent extension; individual nonintegrable terms cannot be translated separately without paired-tail cancellation.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Negative z uses tangent extension; individual nonintegrable terms cannot be translated separately without paired-tail cancellation.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex",
+      "lines": [
+        147,
+        159
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-LEM-JENSEN",
+      "qualified_label": "S::lem:jensen",
+      "label": "lem:jensen",
+      "aliases": [],
+      "title": "Directional field comparison",
+      "statement": "e^T M(B)e<=mu(e^TK^2e-(e^TBe)^2); coordinate eigenvectors give exact mu; J(-K)-J(K) is the sum of scalar mu integrals.",
+      "conditions": "Real symmetric B, real unit e; scalar concavity in a spectral basis, not global operator concavity on the extended real line.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Real symmetric B, real unit e; scalar concavity in a spectral basis, not global operator concavity on the extended real line.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/matrix-field.tex",
+      "lines": [
+        183,
+        198
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-PROP-RANKONE",
+      "qualified_label": "S::prop:rankone",
+      "label": "prop:rankone",
+      "aliases": [],
+      "title": "Rank-one coercivity",
+      "statement": "M(B)=aa^T implies a^T(K^2-B^2)a>=|a|^(2q).",
+      "conditions": "D=K^2-B^2 may be indefinite; positivity of the full quadratic symbol follows from M>=0, not assumed D>=0.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. D=K^2-B^2 may be indefinite; positivity of the full quadratic symbol follows from M>=0, not assumed D>=0.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex",
+      "lines": [
+        7,
+        13
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-LEM-RESOLVENT-TANGENT",
+      "qualified_label": "S::lem:resolvent-tangent",
+      "label": "lem:resolvent-tangent",
+      "aliases": [],
+      "title": "Positive-argument tangent",
+      "statement": "Resolvent representation of f gives f(X)<=f(Y)+T_Y(X-Y), with divided-difference Schur derivative including repeated eigenvalues.",
+      "conditions": "X,Y>=0 Hermitian; regularization delta>0, -1/2<beta<1/2. Not an operator tangent claim on negative arguments.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. X,Y>=0 Hermitian; regularization delta>0, -1/2<beta<1/2. Not an operator tangent claim on negative arguments.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex",
+      "lines": [
+        27,
+        45
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-LEM-AVERAGE",
+      "qualified_label": "S::lem:average",
+      "label": "lem:average",
+      "aliases": [],
+      "title": "Random unitary tangent average",
+      "statement": "Integrated tangent map has kernel integral_0^1(1+tau(1-tau)(zi-zj)^2/(d+delta))^(sigma-1)dt and is an even probability average of conjugations exp(itB).",
+      "conditions": "d>0 chosen from rank-one mass, delta>0; map is unital and self-adjoint for trace pairing. Positivity of kernel proved by Gaussian mixtures.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. d>0 chosen from rank-one mass, delta>0; map is unital and self-adjoint for trace pairing. Positivity of kernel proved by Gaussian mixtures.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex",
+      "lines": [
+        118,
+        131
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-LEM-TRACE-AVERAGE",
+      "qualified_label": "S::lem:trace-average",
+      "label": "lem:trace-average",
+      "aliases": [],
+      "title": "Trace contraction along averaging",
+      "statement": "tr(M(B)D)>=tr(M(B)P(D)).",
+      "conditions": "B,D,P are the specific rank-one construction; obtained by trace Klein monotonicity. Does not assert D>=P(D) as matrices.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. B,D,P are the specific rank-one construction; obtained by trace Klein monotonicity. Does not assert D>=P(D) as matrices.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/rank-one.tex",
+      "lines": [
+        168,
+        173
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-SPECTRAL-FORMS",
+      "qualified_label": "S::spectral:forms",
+      "label": "spectral:forms",
+      "aliases": [],
+      "title": "Rough-potential form and discreteness",
+      "statement": "The H1 form is closed and lower bounded; negative projections below -alpha have finite rank; bounded-interval Dirichlet form has compact resolvent.",
+      "conditions": "p>1, W>=0 in L^p; compact multiplication follows by bounded compact-support approximation and Sobolev control.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. p>1, W>=0 in L^p; compact multiplication follows by bounded compact-support approximation and Sobolev control.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex",
+      "lines": [
+        33,
+        41
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-SPECTRAL-DIRICHLET",
+      "qualified_label": "S::spectral:dirichlet",
+      "label": "spectral:dirichlet",
+      "aliases": [],
+      "title": "Dirichlet finite-family bound",
+      "statement": "First N negative Dirichlet eigenvalues obey sum k_j^(2gamma)<=C_gamma integral_I W^p.",
+      "conditions": "Bounded interval, ordered k1>=...>=kN>0; triangular C preserves the nested energy bound. This is not a finite-grid discretization certificate.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. Bounded interval, ordered k1>=...>=kN>0; triangular C preserves the nested energy bound. This is not a finite-grid discretization certificate.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex",
+      "lines": [
+        93,
+        101
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-262-S-SPECTRAL-SIGNED",
+      "qualified_label": "S::spectral:signed",
+      "label": "spectral:signed",
+      "aliases": [],
+      "title": "Signed form extension",
+      "statement": "For signed V the natural weighted form is closed/lower bounded, has discrete negative spectrum and Tr(HV)_-^gamma<=C_gamma integral V_-^p.",
+      "conditions": "V_- in L^p and D_V={v in H1:integral V_+|v|^2<infty} dense in L2, e.g. V_+ locally integrable; cannot omit domain hypothesis.",
+      "constants": "0<sigma=gamma-1/2<1; p=1+sigma, q=1+1/sigma, r=1/sigma. Entire real-line continuum, finite channel dimension, ordinary unnormalized matrix trace; not a finite-grid matrix estimate. V_- in L^p and D_V={v in H1:integral V_+|v|^2<infty} dense in L2, e.g. V_+ locally integrable; cannot omit domain hypothesis.",
+      "file": "math/preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/build/sections/spectral.tex",
+      "lines": [
+        209,
+        226
+      ],
+      "manuscript_id": "P-a1aa8e17be727f9b",
+      "grade": "C"
+    }
+  ],
+  "result_label_aliases_not_extra_results": [],
+  "methods": [
+    [
+      "HS-CALCULUS",
+      "Hermitian finite matrices and scalar Lipschitz map",
+      "HS-norm functional-calculus bound",
+      "Do not replace HS norm by dimension-independent operator norm",
+      [
+        "S::lem:HS-calculus"
+      ]
+    ],
+    [
+      "SYMMETRIC-TAIL",
+      "Quadratic symbol with nonintegrable odd leading tail",
+      "Locally Lipschitz integrated field and C1 primitive",
+      "Pair symmetric cutoffs;scalar tangent extension and fixed delta;not an efficient evaluator",
+      [
+        "S::lem:field-regularity",
+        "M::lem:field-regularity",
+        "E::field:properties"
+      ]
+    ],
+    [
+      "UNITARY-AVERAGE",
+      "Rank-one mass and divided differences on positive matrices",
+      "Unital self-adjoint even Gaussian-mixture conjugation map",
+      "Specific rank-one construction;no arbitrary indefinite operator tangent",
+      [
+        "S::lem:resolvent-tangent",
+        "S::lem:average",
+        "S::lem:trace-average"
+      ]
+    ],
+    [
+      "SIGN-PARITY",
+      "Compact zeros of equivariant triangular endpoint map",
+      "Nonempty final endpoint via odd quotient boundary count",
+      "Free nonzero-row locus; no orientation/invertibility assumption or complexity guarantee",
+      [
+        "S::path:parity",
+        "M::prop:paths",
+        "E::path:connecting"
+      ]
+    ],
+    [
+      "HALF-LINE",
+      "Coercive full Hermitian symbol and prescribed boundary vectors",
+      "R^-1=(S+T)/2 and noncommutative Riccati relations",
+      "S,T may be indefinite; Fourier jump fixes factor2;positive full symbol needed",
+      [
+        "M::lem:trace-half-lines"
+      ]
+    ],
+    [
+      "TRACE-DEFICIT",
+      "Hermitian B,V with full symbol>=bI and N>=0",
+      "Two nonnegative HS/resolvent terms exactly equal trace defect",
+      "V may be indefinite but N positivity indispensable;not generic matrix loss decomposition",
+      [
+        "M::thm:trace",
+        "E::trace:deficit"
+      ]
+    ],
+    [
+      "RECTANGULAR-ACTION",
+      "H1_0 row-orthonormal rectangular family",
+      "Finite-interval action bound at sharp endpoint integral",
+      "All ranks allowed; lower triangular C preserves ordered spectral energy",
+      [
+        "M::thm:action",
+        "E::act:quantitative-action"
+      ]
+    ],
+    [
+      "REGULARIZATION-ORDER",
+      "Fixed delta path and epsilon penalty identity",
+      "Constrained action inequality after epsilon->0 then delta->0",
+      "No uniform Bprime/delta limit or cost estimate; n-dependent regularization error",
+      [
+        "M::prop:field-comparison",
+        "E::act:constraint"
+      ]
+    ],
+    [
+      "FORM-EXHAUSTION",
+      "Rough integrable PSD potential and finite eigenfamilies",
+      "Full negative spectral sum via form core, cutoffs and minmax",
+      "Infinite spectrum permitted;quadrature/discretization needs separate certification",
+      [
+        "S::spectral:forms",
+        "S::spectral:dirichlet",
+        "E::bound:sharp"
+      ]
+    ],
+    [
+      "SIGNED-DOMAIN",
+      "Signed scalar V with V_- in Lp",
+      "Sharp upper bound using negative part and form order",
+      "Positive part weighted domain must be dense;not arbitrary signed matrix extension",
+      [
+        "S::spectral:signed"
+      ]
+    ],
+    [
+      "TRACE-YOUNG",
+      "Two finite PSD matrices with conjugate exponents",
+      "Sharp Young bound/coercivity and equality W=qZ^r",
+      "Commutation is deduced only at equality;nonnegative matrix inputs essential",
+      [
+        "E::pre:young"
+      ]
+    ],
+    [
+      "COMMON-SHIFT",
+      "Growing finite eigenfamilies near equality",
+      "Energy-gap-preserving compactness with fixed physical-rank tails",
+      "Common xi shifts preserve gaps;pointwise B need not have measurable global selection",
+      [
+        "E::comp:relations"
+      ]
+    ],
+    [
+      "GLOBAL-CHANNELS",
+      "Pointwise equality block relations and bounded logarithmic derivative",
+      "Fixed right kernels/left ranges and constant-basis solitons",
+      "Exact equality only;no quantitative distance-to-soliton or noisy-data estimator",
+      [
+        "E::rig:fixed-right-spaces",
+        "E::rig:fixed-left-spaces",
+        "E::thm:main"
+      ]
+    ],
+    [
+      "COMPLEX-REALIFICATION",
+      "Finite complex Hermitian PSD potential",
+      "Real symmetric double-channel representation preserving both traces by factor2",
+      "A constant unitary is required;pointwise diagonalization introduces derivative connections",
+      [
+        "M::thm:main",
+        "E::thm:main"
+      ]
+    ]
+  ],
+  "formal_scope": {
+    "selected_read_files": {
+      "math/lean/docs/262.md": {
+        "sha256": "bae1097fcc6511b4be5add84a6924526faa445eca87e1d0390b22149696d60ff",
+        "lines": 15,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      },
+      "math/lean/ComparatorChallenges/LiebThirring.json": {
+        "sha256": "f268c47258b1afc0c96bffe7b35757b86657050ebaf9a6c3c67f4e7a9f38955a",
+        "lines": 14,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      },
+      "math/lean/ComparatorChallenges/LiebThirring.lean": {
+        "sha256": "008bcfc167bb1931b14682171578ab2422a7176658bafd95dafb8feb13ab8ade",
+        "lines": 100,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      },
+      "math/lean/OAI/Analysis/LiebThirring/Model.lean": {
+        "sha256": "fc10df121db6f69b684b6c469bd2458d6b9aa78c57906524a68c35f70ad616b6",
+        "lines": 95,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      },
+      "math/lean/OAI/Analysis/LiebThirring/Main.lean": {
+        "sha256": "0cdcb02e908d87d1ee4586fe7108960f7785190cc77b1c9f2297864951428c3b",
+        "lines": 56,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      },
+      "math/lean/OAI/Analysis/LiebThirring/MomentBound.lean": {
+        "sha256": "36b2a6a11e72395e7626108088ba8048c74f432f70ae03235af702df0c0744d9",
+        "lines": 86,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      },
+      "math/lean/OAI/Analysis/LiebThirring/SpectralMain.lean": {
+        "sha256": "fc31b1c1c34657902f53e7f60c22030f1e215ecded01cc8e25c16b72885cea1f",
+        "lines": 110,
+        "read_scope": "Entire selected body read;no local build or transitive proof audit"
+      }
+    },
+    "indices": [
+      {
+        "path": "data/graph/lean_indices/F-262-scalar.json.gz",
+        "sha256": "49123bb1bbf96abbd760cc0b780532bd91c86358a3d9533f5a6f24a5bbf5ed2d",
+        "uncompressed_sha256": "ecd4e5ec7de58b98c9abc0e5dcb96accd2b818855e69c2d3d42ab7a7a59e5acf",
+        "files": 38,
+        "declarations": 947,
+        "external_unread": [
+          "Mathlib"
+        ],
+        "no_build": true
+      },
+      {
+        "path": "data/graph/lean_indices/F-262-spectral.json.gz",
+        "sha256": "ac79f1c855021ea6fe1b60ebb8600360169daab61a00f25577c6f53626abe6ea",
+        "uncompressed_sha256": "cf0bb9cdf1eaec8f5421e6586d0459865dd74bfac8d1a047d79611af141a423c",
+        "files": 52,
+        "declarations": 1056,
+        "external_unread": [
+          "Mathlib"
+        ],
+        "no_build": true
+      }
+    ],
+    "unique_static_files": 52,
+    "unique_static_declarations": 1056,
+    "build": false,
+    "Comparator": false,
+    "human_review": null,
+    "full_dependency_grade": "unknown",
+    "main_claim_definition_exact_selected_comparison": true,
+    "scope": "Scalar full-moment/optimal constant/explicit attainment only. Supporting spectral operator bridge selected actual code read;not a separately registered matrix or equality-classification proof. No local proof closure/elaboration audit."
+  },
+  "original_history_scopes": [
+    {
+      "key": "ReadSchulz2026",
+      "acquisition": "ReadSchulz2026v2",
+      "locator": "arXiv2609.10478v2 PDF1-4 Theorems1/2 and cumulative-mass setup;PDF7-8 Proposition4/operator eq2.1/lifting proof",
+      "fact": "Exponent1 sharp scalar and operator-valued bound already precedes all3 manuscripts;constant4/(3sqrt(3)pi),higher-dimensional ratio2/sqrt(3).",
+      "boundary": "Selected source scopes,not all 18 proof pages audited. No new gamma1 numerical benefit credited."
+    },
+    {
+      "key": "HLW2000",
+      "acquisition": "HLW1999v1",
+      "locator": "arXivmath-ph/9906013v1 PDF4 Theorem3.1;PDF8-11 Corollary3.5/Theorem4.1 and dimension-lifting proof",
+      "fact": "Old operator-valued endpoint1/2 constant1/2 and full moment upper2Lcl in 1D;higher-dimensional lifting requires operator-valued fibre hypotheses.",
+      "boundary": "1999v1 selected interfaces/proof,not identity with final2000 journal. Coarse2Lcl is a valid baseline but not automatically strongest recent bound."
+    },
+    {
+      "key": "LaptevWeidl2000",
+      "acquisition": "LaptevWeidl1999v2",
+      "locator": "arXivmath-ph/9903007v2 PDF18-20 Theorem2.2/Theorem3.1 and lifting proof",
+      "fact": "Semiclassical sharp constant for gamma>=3/2 with operator-valued potentials;dimension lift passes through compact operators on separable Hilbert fibres.",
+      "boundary": "Finite channel F262 alone needs separately justified operator-limit extension for this lifting route. No new general higher-dimensional sharpness inferred."
+    },
+    {
+      "key": "FrankGontierLewin2025",
+      "acquisition": "FGL2023v2",
+      "locator": "arXiv2109.05984v2 PDF9-10 eq20-24/Theorem5;PDF35-36 Section7 Lemma25 and maximizing-sequence proof",
+      "fact": "At endpointgamma3/2 scalar finite-rank maximizers include KdV multisolitons and arbitrary numbers of bound states.",
+      "boundary": "2023v2 actual original bytes,not separately checked final2025journal;strict interval F262 fixed-basis one-state classification cannot be extended to endpoint. Inverse-scattering dependencies not audited."
+    }
+  ],
+  "original_acquisitions": [
+    {
+      "id": "ReadSchulz2026v2",
+      "url": "https://arxiv.org/pdf/2609.10478v2",
+      "sha256": "52a09f9c5da10ef8faa8863a50f77d0f5ee5498afb87bac1b4e08a07911a096a",
+      "bytes": 497350,
+      "retained_fulltext": false,
+      "normal_TLS": true
+    },
+    {
+      "id": "HLW1999v1",
+      "url": "https://arxiv.org/pdf/math-ph/9906013v1",
+      "sha256": "1d77d78efc33de347555e568939a07254af8fae4cba0cbf48d64ab44c0bdbfca",
+      "bytes": 150290,
+      "retained_fulltext": false,
+      "normal_TLS": true
+    },
+    {
+      "id": "LaptevWeidl1999v2",
+      "url": "https://arxiv.org/pdf/math-ph/9903007v2",
+      "sha256": "dbc709294c47f34ed55298d66e35a906dbdbc0270efe98e0f6335de52056e292",
+      "bytes": 199484,
+      "retained_fulltext": false,
+      "normal_TLS": true
+    },
+    {
+      "id": "FGL2023v2",
+      "url": "https://arxiv.org/pdf/2109.05984v2",
+      "bytes": 568432,
+      "sha256": "60acd2e41f7cb4b5f06c78f0d278329ba84a08ed57eabe9f3a363fa71c27c81a",
+      "normal_TLS": true,
+      "retained_fulltext": false
+    }
+  ],
+  "failed_acquisitions": [
+    {
+      "id": "FGL2023author",
+      "url": "https://preprint.press.jhu.edu/ajm/sites/default/files/AJM-frank-gontier-lewin-FINAL.pdf",
+      "failure": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "pixel_inspections": [
+    {
+      "name": "S-main",
+      "source": "S",
+      "pdf_page": 1,
+      "sha256": "0e8ab5fbffa150e6266cf2e3612dd9805ba66110b6be7b67e1f95e690e67b159",
+      "bytes": 163245,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "M-main",
+      "source": "M",
+      "pdf_page": 1,
+      "sha256": "6ea235649ce7c70fa5a1cc7ceff342f4f06d2791cec0a0d0774a1b52583f715d",
+      "bytes": 196117,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "E-main",
+      "source": "E",
+      "pdf_page": 2,
+      "sha256": "e0d352f0ff640669c935890bf905255b0db98cb144183dfbf9e4a7ba1b2169a4",
+      "bytes": 305577,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "S-formula",
+      "source": "S",
+      "pdf_page": 2,
+      "sha256": "3180e90946989402421f0d05b4207eee06fc284ef9e576e179da043e54ac1db7",
+      "bytes": 283379,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "M-formula",
+      "source": "M",
+      "pdf_page": 2,
+      "sha256": "02a13a778a0b15a75c632c2b3924f1772416b3fa7cbd8fc90b59bf3b906f3a73",
+      "bytes": 309419,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "Read-main",
+      "source": "ReadSchulz2026v2",
+      "pdf_page": 8,
+      "sha256": "b547130370cace737f8a52a0e9bfd0a7c1d80214784486a21d84d665d5781e4e",
+      "bytes": 223444,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "HLW-bound",
+      "source": "HLW1999v1",
+      "pdf_page": 9,
+      "sha256": "45686c03a74df9834322bea141bf95e02ec91a87497c289e37f12201b0e7b407",
+      "bytes": 208539,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "FGL-equality",
+      "source": "FGL2023v2",
+      "pdf_page": 10,
+      "sha256": "65b6690ad643363dd864b32da2df7f946b732021a1f0310c4fa02d62b3e66b88",
+      "bytes": 308310,
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "source_figure_png_read": [
+    {
+      "path": "math/preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/build/figures/half-line-gluing.png",
+      "scope": "Actual PNG pixels inspected read-only; source figure labels and half-line derivative jump/normalization; not separately rendered PDF counterpart"
+    }
+  ],
+  "version_audit": {
+    "reconciliation": [
+      {
+        "evidence": [
+          "CONTENTS.md:old-and-current-exact-path"
+        ],
+        "family_id": "F-262",
+        "new_path": "preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/sharp-one-dimensional-lieb-thirring-inequalities-matrix-potentials.pdf",
+        "old_path": "preprints/Equality-cases-in-the-sharp-one-dimensional-matrix-Lieb-Thirring-inequality-October-5-2026/sharp-one-dimensional-lieb-thirring-inequalities-matrix-potentials.pdf",
+        "old_title": "Equality cases in the sharp one-dimensional matrix Lieb–Thirring inequality",
+        "status": "unchanged_catalogue_path"
+      },
+      {
+        "evidence": [
+          "CONTENTS.md:old-and-current-exact-path"
+        ],
+        "family_id": "F-262",
+        "new_path": "preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/sharp-matrix-lieb-thirring.pdf",
+        "old_path": "preprints/Sharp-one-dimensional-Lieb-Thirring-inequalities-for-matrix-potentials-October-5-2026/sharp-matrix-lieb-thirring.pdf",
+        "old_title": "Sharp one-dimensional Lieb–Thirring inequalities for matrix potentials",
+        "status": "unchanged_catalogue_path"
+      },
+      {
+        "evidence": [
+          "CONTENTS.md:old-and-current-exact-path"
+        ],
+        "family_id": "F-262",
+        "new_path": "preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/paper.pdf",
+        "old_path": "preprints/Sharp-One-Dimensional-Lieb-Thirring-Constants-September-23-2026/paper.pdf",
+        "old_title": "Sharp one-dimensional Lieb–Thirring constants",
+        "status": "unchanged_catalogue_path"
+      }
+    ],
+    "archived_replacement_rows": 0,
+    "history_scope": "Pinned history exacttitle search no entry;local git log bounded to three paths shows initialadc7f1241 only;3 unchanged catalogue paths and0 archive rows are not an exhaustive remote/git history audit."
+  },
+  "bibliography_bindings": 50,
+  "external_works": 26,
+  "historical_roots_selected_checked": 4,
+  "new_candidate_count": 0,
+  "new_numerical_run": false,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "dependency_closure_complete": false,
+  "gaps": [
+    "All3 current natural sources read, but transitive natural/formal proof dependencies and full historical lineage are not complete.",
+    "4 historical original works have selected scopes checked;other bibliography originals unread;old strongest non-unit-exponent constants not exhaustively compared.",
+    "Only selected scalar Lean specifications/proof endpoints read;no Lean or Comparator run/human specification review. Matrix/equality have no established formal scope in this audit.",
+    "No certified continuum-to-grid bridge, quadrature/tail error, real caller workload or independent application oracle;known soliton calibration is not a new application test.",
+    "Exact equality rigidity and capped proof defect do not establish a usable near-equality stability algorithm.",
+    "Second provider and real human gates deferred,not waived;all full-family/history/application completion counts remain unchanged."
+  ]
+}

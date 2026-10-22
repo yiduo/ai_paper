@@ -5,10 +5,10 @@
 | 要求 | 目标 | 实际结果 | 证据路径或命令 | 差距与状态 |
 | --- | --- | --- | --- | --- |
 | 基线成果族登记 | 372 | 372 | `data/corpus/families.jsonl` | 完成登记；并不等于完成拆解 |
-| 全文拆解草稿（单列） | 372 | 42 | `data/graph/nodes.jsonl:family_analysis` | 逐命题/方法/常数与规格草案；不等于完整谱系或人工审核 |
+| 全文拆解草稿（单列） | 372 | 44 | `data/graph/nodes.jsonl:family_analysis` | 逐命题/方法/常数与规格草案；不等于完整谱系或人工审核 |
 | 完整拆解与谱系 | 372 | 0 | `data/graph/reading_coverage.json` | 未完成，局部阅读与草稿不计为完整研究 |
 | 完整历史谱系 | 372 | 0 | `data/graph/nodes.jsonl` | 局部原始文献核对，依赖闭包仍缺失 |
-| 候选连接 | 500 | 40 | `data/graph/nodes.jsonl` | 未完成 |
+| 候选连接 | 500 | 41 | `data/graph/nodes.jsonl` | 未完成 |
 | 真实人工分级 | 150 | 0 | `state/human_review_queue.json` | 用户要求后续追加，不阻止独立工作 |
 | 完整初检卡片 | 100 | 13 | `reports/cards/` | 含 1 张数值适用性筛查；非算法性能验证 |
 | 不同假设复现闭环 | 10 | 13 | `experiments/runs/` | 支持 5 项的限定预测；其余不计作有效线索 |

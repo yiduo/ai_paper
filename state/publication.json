@@ -4,17 +4,17 @@
   "repository_url": "https://github.com/yiduo/ai_paper",
   "public": true,
   "remote_verified": true,
-  "verified_at": "2026-10-22T02:33:01.917778+00:00",
-  "verified_commit": "8d5b7fd21ca9ae14d5254e03385832bd038caa7c",
+  "verified_at": "2026-10-22T04:15:40.292105+00:00",
+  "verified_commit": "98c32a64fcaf642a206c604c1594c533307e0162",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
   "research_phase_one_complete": false,
-  "verified_tree": "b5072cf49582671d90e84101945ebba09141969b",
+  "verified_tree": "59e9daa5ef416e6d86743b746ee5be6cffef1c5a",
   "anonymous_api_verification": true,
   "upstream_math_paths": 0,
   "initial_snapshot_files": 1468,
   "initial_snapshot_bytes": 53092333,
-  "verification_receipt": "reports/reproducibility/20261022-publication/initial-verification-and-replay.json.gz",
+  "verification_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-publication-verification.json.gz",
   "initial_ci_attempt": {
     "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
     "conclusion": "failure",
@@ -28,5 +28,41 @@
   },
   "linux_ci_scope": "68core checks,13otherarchived replays,exports and publication scan;EXP076andoptionalNumPyarchiveexcluded,not claimedportable",
   "live_ci_url": "https://github.com/yiduo/ai_paper/actions",
-  "verification_scope": "Initial public commit;later updates remain separately inspectable in GitHub history. This receipt does not claim latest CI success."
+  "verification_scope": "Exact public science snapshot WP087-WP089/retro032,all1522blob paths/IDs and4selected files actualbytes anonymouslyverified. Publication doesnot mean CI or researchcompletion.",
+  "prior_verifications": [
+    {
+      "verified_at": "2026-10-22T02:33:01.917778+00:00",
+      "verified_commit": "8d5b7fd21ca9ae14d5254e03385832bd038caa7c",
+      "verified_tree": "b5072cf49582671d90e84101945ebba09141969b",
+      "verification_receipt": "reports/reproducibility/20261022-publication/initial-verification-and-replay.json.gz",
+      "verification_scope": "Initial public commit;later updates remain separately inspectable in GitHub history. This receipt does not claim latest CI success."
+    }
+  ],
+  "latest_progress_packages": [
+    "WP-087",
+    "WP-088",
+    "WP-089"
+  ],
+  "latest_retrospective": "032",
+  "latest_scoped_ci": {
+    "checked_at": "2026-10-22T04:18:23.789688+00:00",
+    "head_sha": "98c32a64fcaf642a206c604c1594c533307e0162",
+    "runs": [
+      {
+        "id": 39721336617,
+        "name": "offline-core",
+        "head_sha": "98c32a64fcaf642a206c604c1594c533307e0162",
+        "status": "completed",
+        "conclusion": "success",
+        "html_url": "https://github.com/yiduo/ai_paper/actions/runs/39721336617",
+        "created_at": "2026-10-22T04:15:12Z",
+        "updated_at": "2026-10-22T04:18:07Z",
+        "run_attempt": 1
+      }
+    ],
+    "scope": "68 core checks,13 archived replays,exports and publication audit as configured; no Lean, human, biological or optional NumPy validation"
+  },
+  "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-CI-observation.json.gz",
+  "latest_ci_conclusion": "success",
+  "receipt_storage_scope": "These follow-up receipts and updated local state are saved after scientific commit98c32a6 was published;not yet included in that public snapshot. Inspect public Actions for that commit."
 }
