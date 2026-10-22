@@ -1,0 +1,175 @@
+{
+  "recorded_at": "2026-10-21T05:38:16.399523+00:00",
+  "run_id": "EXP-273-001-28f6d541ddfebd6e",
+  "preregistration_commit": "3a05131",
+  "implementation_commit": "d201e60",
+  "spec_bytes_identical_to_preregistration": true,
+  "all_compressed_output_and_snapshot_member_hashes_verified": true,
+  "independent_raw_aggregation": {
+    "valid_cases": 36,
+    "valid_resolved_false_alarms": 0,
+    "candidate_reference_mismatches": 0,
+    "undefined_faults": 0,
+    "defined_faults": 252,
+    "exactly_distinct_output_faults": 183,
+    "EPnI_detections": 62,
+    "old_entropy_detections": 62,
+    "core_extra_entropy_only_detections": 0,
+    "direct_matrix_detections": 183
+  },
+  "by_fixture": {
+    "vacuum-calibration": {
+      "EPnI": 0,
+      "old": 0,
+      "direct": 0,
+      "extra": 0,
+      "distinct": 0,
+      "NPT_A": false,
+      "NPT_B": false
+    },
+    "one-mode-vacuum-old-sharp": {
+      "EPnI": 7,
+      "old": 7,
+      "direct": 16,
+      "extra": 0,
+      "distinct": 16,
+      "NPT_A": false,
+      "NPT_B": false
+    },
+    "one-mode-two-nonthermal": {
+      "EPnI": 13,
+      "old": 13,
+      "direct": 23,
+      "extra": 0,
+      "distinct": 23,
+      "NPT_A": false,
+      "NPT_B": false
+    },
+    "one-mode-coherent-mixed": {
+      "EPnI": 9,
+      "old": 9,
+      "direct": 26,
+      "extra": 0,
+      "distinct": 26,
+      "NPT_A": false,
+      "NPT_B": false
+    },
+    "two-mode-diagonal-vacuum-old-sharp": {
+      "EPnI": 9,
+      "old": 9,
+      "direct": 16,
+      "extra": 0,
+      "distinct": 16,
+      "NPT_A": false,
+      "NPT_B": false
+    },
+    "two-mode-equal-Bell": {
+      "EPnI": 6,
+      "old": 6,
+      "direct": 25,
+      "extra": 0,
+      "distinct": 25,
+      "NPT_A": true,
+      "NPT_B": true
+    },
+    "two-mode-unequal-Bell": {
+      "EPnI": 4,
+      "old": 4,
+      "direct": 24,
+      "extra": 0,
+      "distinct": 24,
+      "NPT_A": true,
+      "NPT_B": false
+    },
+    "two-mode-NOON-Bell": {
+      "EPnI": 8,
+      "old": 8,
+      "direct": 26,
+      "extra": 0,
+      "distinct": 26,
+      "NPT_A": true,
+      "NPT_B": true
+    },
+    "two-mode-dense-stress": {
+      "EPnI": 6,
+      "old": 6,
+      "direct": 27,
+      "extra": 0,
+      "distinct": 27,
+      "NPT_A": true,
+      "NPT_B": true
+    }
+  },
+  "actual_physical_mode_product_checks": [
+    {
+      "fixture": "vacuum-calibration",
+      "n": 1,
+      "A_product_modes": true,
+      "B_product_modes": true,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "one-mode-vacuum-old-sharp",
+      "n": 1,
+      "A_product_modes": true,
+      "B_product_modes": true,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "one-mode-two-nonthermal",
+      "n": 1,
+      "A_product_modes": true,
+      "B_product_modes": true,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "one-mode-coherent-mixed",
+      "n": 1,
+      "A_product_modes": true,
+      "B_product_modes": true,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "two-mode-diagonal-vacuum-old-sharp",
+      "n": 2,
+      "A_product_modes": false,
+      "B_product_modes": true,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "two-mode-equal-Bell",
+      "n": 2,
+      "A_product_modes": false,
+      "B_product_modes": false,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "two-mode-unequal-Bell",
+      "n": 2,
+      "A_product_modes": false,
+      "B_product_modes": true,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "two-mode-NOON-Bell",
+      "n": 2,
+      "A_product_modes": false,
+      "B_product_modes": false,
+      "two_mode_old_product_decomposition_applicable": false
+    },
+    {
+      "fixture": "two-mode-dense-stress",
+      "n": 2,
+      "A_product_modes": false,
+      "B_product_modes": false,
+      "two_mode_old_product_decomposition_applicable": false
+    }
+  ],
+  "old_additive_product_mode_baseline_applicable_to_no_two_mode_fixture": true,
+  "no_post_result_fixture_threshold_or_fault_changes": true,
+  "new_initial_check_candidate": "APP-273-02",
+  "source_theorem_refutation": false,
+  "formal_rejection": false,
+  "resource_envelope_met": true,
+  "helper_source": "audit_outputs.py in compressed work package helper archive"
+}

@@ -1,0 +1,30 @@
+{
+  "generation_id": "GEN-20261021-078",
+  "changed_old_ids": [
+    "LIT-231-5B2EA167BD",
+    "LIT-231-165AF653E4",
+    "LIT-231-28EDF9A571",
+    "ANALYSIS-F-231"
+  ],
+  "new_ids": [
+    "GEN-20261021-078",
+    "HIST-231-NSZ-ISING-FACTOR",
+    "HIST-231-NSZ-POSTERIOR",
+    "HIST-231-NSZ-ROOT-LIMIT",
+    "HIST-231-BBL-FIELD-CLOSURE",
+    "HIST-231-BBL-SYMMETRIC-HOMOGENIZATION",
+    "HIST-231-BBL-RAYLEIGH",
+    "HIST-231-BBL-FINITE-DPP",
+    "HIST-231-LT-SOFIC-COUPLING",
+    "HIST-231-LT-D-BAR",
+    "HIST-231-LT-AMENABLE-BERNOULLI",
+    "HIST-231-LT-FACTOR-QUESTION",
+    "CHECK-231-KEY-HISTORY"
+  ],
+  "new_explicit_edges": 49,
+  "old_canonical_records": 3365,
+  "unmodified_old_records": 3361,
+  "old_reading_ledger_unchanged": true,
+  "new_candidate": false,
+  "new_application_run": false
+}

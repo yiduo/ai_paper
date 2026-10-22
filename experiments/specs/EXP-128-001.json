@@ -1,0 +1,12 @@
+{
+  "id": "EXP-128-001", "version": 1, "connection_id": "APP-128-01",
+  "hypothesis": "The manuscript Section 2 periodic forced-occurrence lower bound is sound on every tiny oracle instance and increases 2-factor certification coverage of an existing greedy SCS assembler by at least 10 percentage points over extension-only counts.",
+  "input": {"generator": "all combinations of up to 3 distinct nonempty binary strings of length at most 3, plus 40 seeded 4-string DNA-like instances of length 6", "seed": 20261020},
+  "baseline": "extension-only count recursion, with identical greedy assembled output",
+  "judge": "independent exhaustive permutation oracle; per-substring occurrences in optimal superstring",
+  "success": {"soundness_violations": 0, "certification_gain_percentage_points_min": 10},
+  "failure": "any lower bound exceeding exact optimum or occurrence count; or coverage gain below target",
+  "metrics": ["soundness", "coverage", "tightness", "runtime", "peak_python_memory"],
+  "limits": "Synthetic, tiny instances; no full manuscript 2-approximation implementation; no genomic accuracy claim; no tuning after this specification.",
+  "resource_limit_seconds": 120, "resource_limit_mb": 128
+}

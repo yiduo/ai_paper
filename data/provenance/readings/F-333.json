@@ -1,0 +1,284 @@
+{
+  "family_id": "F-333",
+  "generation_id": "GEN-20261021-024",
+  "recorded_at": "2026-10-20T16:13:30.754178+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-b06c15d15d1f2bec",
+  "body_source_lines": 2826,
+  "total_tex_lines": 2947,
+  "bibliography_lines": 203,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/introduction.tex",
+      "sha256": "2ded4c842d51747a4d652e82a9141cd5ba00ca1f277e826fb7cd8033c69fd3ff",
+      "lines": 152,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/preliminaries.tex",
+      "sha256": "18e5a515fadc467f9a49ec95780958d9caf3ee9d3f3bb696740474a5f8c4aa77",
+      "lines": 208,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/primitive-statement.tex",
+      "sha256": "7a0b54e1823a2d96f545fe1ff3463379249cfca0426ac9438718fafe8e4daf17",
+      "lines": 147,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/small-modes.tex",
+      "sha256": "a8397f61ca5dbd481ef5f631115e1757f9cc5d2a4bcfb474c53e75c1114e2e62",
+      "lines": 433,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/exact-correction.tex",
+      "sha256": "d84c9be2bf805ed9c99ac07e1cf0582662dcff95bab0fd6f0671518e1b90710c",
+      "lines": 403,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/velocity-loop.tex",
+      "sha256": "52229ce7027f8c435ae2461a3030c6b27fd933e413544b7729394d9cf89c4cf5",
+      "lines": 373,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/primitive-realization.tex",
+      "sha256": "029320545541c6e7b34e86ae792a4af1a6e4f29cdd35ff8f436b4bbe01da61ee",
+      "lines": 446,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/geometry-preservation.tex",
+      "sha256": "bd06f221f2cf516b6d0f27fd3e2df94f19a996b98ffff75ad730b57cceb2d926",
+      "lines": 289,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/global-construction.tex",
+      "sha256": "c485cb924ad8003028b475ea55352b1187c4e6311dca236abed2f2c840fb8be6",
+      "lines": 375,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/main.tex",
+      "sha256": "7fd682a16efcc36584fc76d642bef547fac81c9853509ed644e42a25a5a94379",
+      "lines": 54,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/figure-geometry.tex",
+      "sha256": "df3c9e25959948f4a5bb1156b2865069659616d9e444bdb081fde42aa81c8b22",
+      "lines": 67,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    },
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/refs.bib",
+      "sha256": "0a8965fc3dc11bc56248f8ca587a5b8d7f57cba6121d89bccafc3d6c35b1dfc2",
+      "lines": 203,
+      "read_scope": "entire source,including proofs/figure/bibliography"
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "statement": "Every closed smooth Riemannian surface has a smooth isometric immersion into Euclidean four-space.",
+      "conditions": "Compact without boundary;positive definite smooth metric;may be empty,disconnected or nonorientable;self-intersections allowed.",
+      "constants_and_limits": "No global injectivity,ambient chord-distance preservation,curvature bound,effective finite solver or approximation rate is asserted.",
+      "selected_grade": "B"
+    },
+    "lem:phase-data": {
+      "statement": "Positive phase-square decomposition with all required sums/differences good for the current second form.",
+      "conditions": "B_F is nonzero as a tensor at every point;reference tensor positive;H in a sufficiently small C0 neighborhood;finite compact phase supports.",
+      "constants_and_limits": "H=sum psi_nu^2*q_nu(H)*dphi_nu^2;strictly positive square-root arguments;nonzero good dphi,2dphi,phi+-phi;successive dominant weights,C2 stability. Not arbitrary prescribed phase directions.",
+      "selected_grade": "C"
+    },
+    "lem:polynomial-phase-data": {
+      "statement": "Varying approximate immersions admit phase data with polynomial geometric bounds.",
+      "conditions": "Uniform metric upper/lower bounds,Cj(f_z)=O(z^-j) for j<=3,uniform positive max directional second form;no z-regularity assumed.",
+      "constants_and_limits": "Cell diameter comparable z^6,count O(z^-12),cutoff derivatives O(z^-6j),DB=O(z^-4);bounded color/phase-weight count independent of cells;good directions persist in C2 ball z^4. Exponents depend on finite orders;not explicit useful constants.",
+      "selected_grade": "C"
+    },
+    "prop:primitive-addition": {
+      "statement": "Add one positive rank-one metric exactly while preserving later boundary normal and crossing conditions.",
+      "conditions": "Closed surface,immersion with nowhere-zero B and preferred global unit normal;amplitude positive exactly on disk and flat outside;positive transverse phase Hessian;pairwise transverse curves,no triples,finite tangencies andnonzero crossing phase evaluations;all ordered Q conditions.",
+      "constants_and_limits": "gamma(Fplus)=gamma(F)+a^2 dx^2,B remains nonzero,preferred normal and all later strict invariants retained;arbitrarily small C2 exterior change,but map need not equal old exterior. One normal section,not global oriented normal frame.",
+      "selected_grade": "C"
+    },
+    "prop:small-increment": {
+      "statement": "Finite differential small oscillations approximate a positive metric increment for a perturbed metric map.",
+      "conditions": "Fixed admissible phases and compact nondegenerate 2-jets,H in inner positive ball;P_i polynomial above order2;0<tau<=s<=1,delta/tau and eta=tau/s+epsilon*tau^-p sufficiently small.",
+      "constants_and_limits": "U=O_tau(delta*tau),metric/operator error O_tau(delta*eta^q+delta^3/tau);p=E+6 fixed before arbitrarily large finite q;derivative loss and thresholds may increase with q. Supports original/intersections;not infinite parametrix or full global inverse.",
+      "selected_grade": "C"
+    },
+    "prop:exact-correction": {
+      "statement": "Finite-order approximate isometries with nonzero second form admit exact smooth corrections close in C2.",
+      "conditions": "Fixed smooth positive hstar;families f_z smooth immersions,Cm=O(z^-m) through R+2,metric error CR=O(z^N),uniform positive second-form norm;no regularity in z required.",
+      "constants_and_limits": "A permissible R=440,N>20*mu+1 with an unspecified fixed mu>1;z threshold depends on implicit bounds;exact metric and C2=o(1). Infinite blockwise smoothing,not compactly supported correction or known finite runtime.",
+      "selected_grade": "C"
+    },
+    "lem:finite-order-smoothing": {
+      "statement": "Moment-canceling smoothing of sections on a fixed compact bundle atlas.",
+      "conditions": "Positive integer r,fixed smooth bundle and atlas;0<s<=s0.",
+      "constants_and_limits": "S_s derivative bound s^-m*Cq,approximation s^(r-j)*C(q+r),bounded in each Cm;kernel made from Vandermonde-weighted dilates cancels moments1..r and may have signed values. Not positivity-preserving smoothing.",
+      "selected_grade": "C"
+    },
+    "lem:exact-step": {
+      "statement": "One smoothed increment contracts all fixed observation-order weighted defects from a finite controlled-order input bound.",
+      "conditions": "G in C2 radius z^4/2 around f_z,normalized positive defect near hstar,controlled S_r(k)<=z^-4,k>=10;s=t^1.1,tau=t^1.2,delta=t^k,r=q=40(k+1).",
+      "constants_and_limits": "Apply increment to UNSMOOTHED G;delta'=tau^k or tau^(k+1);S'_m<=||G||C2+||hstar||C0+C_m(z,k)t^1/5(1+S_m). High true derivatives enter linearly;no square of smoothing tail;finite waiting at each k,then k->infinity. Not uniform known number of steps.",
+      "selected_grade": "C"
+    },
+    "lem:velocity-plane": {
+      "statement": "A positive transverse phase Hessian supplies a smooth two-dimensional velocity plane and collar-compatible frame.",
+      "conditions": "P=span(G_y,G_yy)^perp;near fixed F with Hess_gamma x(yy)>0,preferred normal and boundary non-antipodality;amplitude a>0 inside.",
+      "constants_and_limits": "G_y,G_yy independent;normal-plane projection to P an isomorphism;R0=sqrt(|PG_x|^2+a^2) has positive lower bound;choose e1=normalized PG_x only on collar and normalized Pn inside. PG_x may vanish in interior.",
+      "selected_grade": "C"
+    },
+    "lem:loop-density": {
+      "statement": "Smooth strictly positive time densities realize interior targets in convex hulls of circle-valued paths.",
+      "conditions": "Smooth finite-dimensional family on compact parameter set,target strictly inside convex hull;three mass-and-two-coordinate constraints have rank3.",
+      "constants_and_limits": "avg rho=1,avg rho*p=c;local bumps plus positive floor and smooth partition patch,including prescribed overlapping solution. Reparametrization keeps path,changes dwell time;not arbitrary boundary targets or derivative bounds uniform as margin vanishes.",
+      "selected_grade": "C"
+    },
+    "lem:small-value-derivative": {
+      "statement": "Small-value compactly supported functions can prescribe a large transverse derivative along finitely controlled curves.",
+      "conditions": "Compact K in finite union of embedded curves,no shared arcs,finitely many intersections and vertical tangencies;B>0,epsilon>0.",
+      "constants_and_limits": "h_y=B on K,||h||C0<epsilon,support in any fixed precompact neighborhood. Special-point bumps and thin strips;higher derivatives uncontrolled. Does not permit small C1 norm or arbitrary dense/closed vertical arcs.",
+      "selected_grade": "C"
+    },
+    "lem:velocity-loop": {
+      "statement": "A smooth constant-radius velocity loop has prescribed mean and independently controlled turn derivatives.",
+      "conditions": "All primitive-addition hypotheses;fixed finite threshold T chosen after derivative-independent normal bounds;loop depends smoothly onposition and2-jets.",
+      "constants_and_limits": "V in P,|V|=R0,avg V=v,w=V-v smoothly zero outside;alpha=hturn+A cos t,positive density reparametrization;two turns and |N0star|>T off boundary collar. Choices fixed before fast z->0;no universal bandwidth or derivative cost.",
+      "selected_grade": "C"
+    },
+    "prop:primitive-realization": {
+      "statement": "A prescribed mean velocity circle produces exact primitive-metric immersions with selected derivative asymptotics.",
+      "conditions": "Smooth immersion with everywhere nonzero B;independent Y=G_y,C=G_yy,R0>0;V in P constant norm R0,avg V=PG_x,w flat on support boundary;compact nondegenerate jet neighborhood.",
+      "constants_and_limits": "Exact hstar=gamma(F)+a²dx² for all sufficiently small z;fx->X,fy->Y,fyy->C,fxy->X_y with theta held fixed,z fxx->Vtheta;uniform second-form lower bound and exterior C2 convergence. Unscaled fxx need not converge or remain bounded.",
+      "selected_grade": "C"
+    },
+    "lem:finite-periodic-expansion": {
+      "statement": "Finite periodic correctors cancel fast metric fluctuations,leaving mean differential operators and a controlled finite remainder.",
+      "conditions": "Actual constant-radius smooth loop satisfying primitive-realization hypotheses;integer L>=2;zero-mean periodic primitive operator.",
+      "constants_and_limits": "f_z=G+sumj1..L z^j Uj,avg Uj=0;metric=a²dx²+gamma(G)+sumr1..L-1 z^r Er+sumrL..2L z^r Rr;orders Uj<=2j,Er<=2r+2,polynomial in higher jets;flat support. Covariance solve M=I-Sigma/R0² positive even at a=0,when M=I;not a general global inverse of metric linearization.",
+      "selected_grade": "C"
+    },
+    "lem:spherical-preparation": {
+      "statement": "An arbitrary finite set of spherical second-form jets can be flattened with uniform C2 and immersion bounds.",
+      "conditions": "Closed smooth surface,smooth immersion I into unit S3,arbitrary finite P and small epsilon.",
+      "constants_and_limits": "Set spherical B=0 at P,C1 closeness<epsilon,uniform C2 upper and metric lower bounds independent of count/separation. Disjoint quadratic bumps Q_p and renormalization preserve value/first jets;higher derivatives can grow with shrinking supports.",
+      "selected_grade": "C"
+    },
+    "lem:global-preparation": {
+      "statement": "Prepare a finite ordered rank-one deficit decomposition with every actual partial metric phase-convex and boundary crossings admissible.",
+      "conditions": "Closed smooth surface and smooth positive metric;ordinary Whitney immersion and spherical lift,uniform finite-point preparation;finite atlas and positive cone margins.",
+      "constants_and_limits": "Choose uniform scale and number of cycles BEFORE crossings;each perturbed cycle uses A_c^-1 and sums exactly h/Nc,C1 partial-cycle perturbation O(1/Nc);choose generic radii/phases by Sard,Fubini,then flatten crossing jets. No explicit useful cycle count or algorithm cost.",
+      "selected_grade": "C"
+    }
+  },
+  "selected_original_scopes": {
+    "Nash1956": {
+      "url": "https://sites.math.rutgers.edu/~feehan/teaching/math866/nash.pdf",
+      "locator": "Original Theorem2,printedp59,PDFpage41;scan visually inspected",
+      "scope": "Compact positive Ck metric,3<=k<=infinity,admits Ck isometric EMBEDDING in dimension n(3n+11)/2;for surfaces17. It is a higher-dimensional embedding statement,not four-dimensional immersion or a runtime bound."
+    },
+    "Whitney1944": {
+      "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/singular.pdf",
+      "locator": "Original Theorem8,printedp274,PDFpage29;scan visually inspected",
+      "scope": "Compact partial n-manifold immersion in E^(2n-1),embedding near boundary with separated boundary/interior images;surface case supplies ordinary immersion in R3. No metric equality. Text treats n=2 as known and continues higher-dimensional proof."
+    },
+    "Gromov2000": {
+      "url": "https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/SpacesandQuestions.pdf",
+      "locator": "Author version November1999,p3,SectionI Remark(d)",
+      "scope": "Explicit open question whether every smooth Riemannian surface has smooth isometric immersion into R4. Checked historical question only,not later status or its proof."
+    },
+    "Gromov2015": {
+      "url": "https://www.ihes.fr/~gromov/wp-content/uploads/2018/08/nash-copy-Oct9.pdf",
+      "locator": "Author version9Oct2015,p4 footnote6 andp59 Cylinders and Tori",
+      "scope": "Footnote attributes R4 smooth surface conjecture to Chern around1950 with compactness uncertainty;later text recalls closed-surface R5 constructions in PDR3.2.4. Checked author account,not original PDR proof or any universal algorithm."
+    },
+    "Lewicka2026v3": {
+      "url": "https://arxiv.org/pdf/2511.16305v3",
+      "locator": "arXiv2511.16305v3,14Aug2026;Theorem1.1 printedp2 andTheorem9.1 printedp57",
+      "scope": "Disk-like planar domain,metric Cr,beta with0<r+beta<=2,strictly short C1 immersion:uniform C1,alpha isometric approximation for alpha<min((r+beta)/2,1). Appendix restates smooth simply connected planar Poznyak theorem. Neither gives closed arbitrary-topology smooth conclusion;original1973 theorem not recovered."
+    },
+    "Sard1942": {
+      "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/sard.pdf",
+      "locator": "Original Theorem4.1,printedp885;setup p883",
+      "scope": "For Cq map of a region in Rm to Rn with m<=n,q>=1,the critical values are m-null;in particular smooth plane-to-plane critical values are Lebesgue-null. F333 uses equal-dimensional parameter projection plus countable charts,not a quantitative separation bound."
+    },
+    "Choquet1958": {
+      "url": "https://www.numdam.org/article/SB_1956-1958__4__139_0.pdf",
+      "locator": "Contemporaneous May1957 Bourbaki account,printedpp140-141,Theorems1-2 and following immersion qualifications",
+      "scope": "Strictly short C1 maps in codimension>=1 admit arbitrarily C0-close C1 isometric embeddings,with the text explicitly allowing immersion instead and noncompact/local-tolerance version. No C-infinity preservation or usable curvature bound;Nash/Kuiper originals not separately checked."
+    },
+    "Kallen1978": {
+      "url": "https://archive.ymsc.tsinghua.edu.cn/pacm_download/116/7279-11512_2006_Article_BF02385981.pdf",
+      "locator": "Original Lemmas2.2-2.3 printedpp34-36 andLemma3.3 statement p43/proof pp45-47",
+      "scope": "Positive square-form decompositions with smooth coefficient dependence and finite patches;finite amplitude substitutions correct metric error in a low-regularity construction. Supports attribution to decomposition/finite correction;does not supply F333 good-phase sums,selected normal geometry or smooth R4 theorem."
+    }
+  },
+  "temporary_original_pdf_checks": [
+    {
+      "url": "https://sites.math.rutgers.edu/~feehan/teaching/math866/nash.pdf",
+      "sha256": "1cd36149cfa1a9fe81ee98850635f22d4027bef33b0689413e8fdff7011183b6",
+      "bytes": 3707449,
+      "pdf_page_1_based": 41,
+      "printed_pages": "59",
+      "reading_method": "local rendered scan visual inspection",
+      "retention": "Temporary source PDF/text/pageimages removed after verification;no third-party full text archived"
+    },
+    {
+      "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/singular.pdf",
+      "sha256": "1faba8e60d6dcca5ee3a700ba57061be9933d031c136007649d65cff9a62b7df",
+      "bytes": 3963641,
+      "pdf_page_1_based": 29,
+      "printed_pages": "274",
+      "reading_method": "local rendered scan visual inspection",
+      "retention": "Temporary source PDF/text/pageimages removed after verification;no third-party full text archived"
+    },
+    {
+      "url": "https://archive.ymsc.tsinghua.edu.cn/pacm_download/116/7279-11512_2006_Article_BF02385981.pdf",
+      "sha256": "0d888be0dc38f2348012ac742b09ec2252e7e32ab8d914a9a4ec974fd2a7d85a",
+      "bytes": 922502,
+      "pdf_page_1_based": null,
+      "printed_pages": "34-36,43,45-47",
+      "reading_method": "original PDF text extraction selected lemma scopes",
+      "retention": "Temporary source PDF/text/pageimages removed after verification;no third-party full text archived"
+    }
+  ],
+  "failed_retrievals": [
+    "Initial sandbox curl proxy127.0.0.1:7890 unavailable;authorized escalated read-only fetches succeeded forNash,Whitney,Kallen.",
+    "Web screenshots returned no usablepixels;localPDF pages corrected foronecoverpage offset andactualprinted59/274 visuallyinspected.",
+    "Poznyak originalMathnetPDF webtimeout and30secondcurltimeout;keep originalunverified,onlyLewicka2026v3 modernrestatementchecked.",
+    "Kallenwebparserfailed;originalPDFcurl/textrecovered.",
+    "Lewickav3HTMLfailed;originalPDFversion3 recovered."
+  ],
+  "formal_files_actually_read": [
+    "math/lean/docs/333.md",
+    "math/lean/ComparatorChallenges/SurfaceImmersion.lean",
+    "math/lean/ComparatorChallenges/SurfaceImmersion.json",
+    "math/lean/OAI/Geometry/SurfaceImmersion/Main.lean",
+    "math/lean/OAI/Geometry/SurfaceImmersion/Geometry/ConditionalMain.lean",
+    "math/lean/OAI/Geometry/Immersion/ClosedSurface/MetricModel.lean",
+    "math/lean/OAI/Geometry/SurfaceImmersion/Geometry/PublishedInputs.lean",
+    "math/lean/OAI/Geometry/SurfaceImmersion/Whitney/WhitneySurfaceImmersion.lean",
+    "math/lean/OAI/Geometry/SurfaceImmersion/Whitney/RelativeImmersionHPrinciple.lean",
+    "math/lean/OAI/Geometry/SurfaceImmersion/Geometry/SphericalLift.lean"
+  ],
+  "formal_index_only": "1883 local proof files/7148 declarations;not mathematically read in full or built",
+  "formal_external_unread": {
+    "SphereEversion_revision": "9c53f91e2a281199163ecea04dc4976cb79e2076",
+    "modules": [
+      "SphereEversion.Local.HPrinciple",
+      "SphereEversion.ToMathlib.LinearAlgebra.FiniteDimensional"
+    ],
+    "status": "Pinned external import library not present/read/built"
+  },
+  "new_numerical_run": null
+}

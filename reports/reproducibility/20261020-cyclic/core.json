@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-20T14:28:21.285065+00:00",
+  "command": "python3 scripts/check.py",
+  "exit_code": 0,
+  "tests": 31,
+  "canonical_validation": "passed",
+  "report_generation": "passed",
+  "Lean_build": "not_run",
+  "new_run": "EXP-314-001-ce8cf18c32275b81",
+  "all_archive_integrity_count": 10,
+  "actual_archived_replays_this_package": [
+    "EXP-314-001-ce8cf18c32275b81",
+    "EXP-097-001-f4db184a4c5e6d4d",
+    "EXP-221-001-be34f84b97b2e9a9"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "recorded_at": "2026-10-21T00:12:19.351950+00:00",
+  "core_tests_passed": 50,
+  "validation": {
+    "nodes": 4554,
+    "research_nodes": 2466,
+    "edges": 11182,
+    "citations_checked": 4004,
+    "candidate_connections": 32,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 1306,
+      "sha256": "19fe650634b09549a3124bd72116f9413c1fa35328af9c82b6bbd0d30a052a57"
+    },
+    "index.html": {
+      "bytes": 12407613,
+      "sha256": "b3083bb5d6f27e6fbe736777863e1378811cb37553f89528bb0ad0b461d3a572"
+    },
+    "navigation.json.gz": {
+      "bytes": 44970,
+      "sha256": "0bd4995376b084f9732acf12cac49f67daf5eadda5ba8f3860ca36cb97d5e38a"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 1920158,
+      "sha256": "c26ab51e7ba65d2ac7d96a1787c9c6db1f1daf9932b1c854d1b0d0b551ede300"
+    },
+    "navigation.md": {
+      "bytes": 72061,
+      "sha256": "3b74b195ba017b6313e5badf1b6eef70f0fc08d9f2cded4163a6cc74eaa8f8d2"
+    },
+    "knowledge.json.gz": {
+      "bytes": 1677206,
+      "sha256": "2e4ed148ffa18c13a2456f5e2f4bf87450a57e42c4de96e37ff53d9d54312daa"
+    }
+  },
+  "browser_visual_check": "Actual IAB tab7 deep link,global gate search and dependency/scope navigation verified;screenshot browser-gate.png",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

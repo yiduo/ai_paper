@@ -1,0 +1,96 @@
+{
+  "work_package": "WP-077",
+  "generation_id": "GEN-20261021-073",
+  "recorded_at": "2026-10-21T04:28:04.719433+00:00",
+  "family_id": "F-025",
+  "consumer": {
+    "name": "SymPy unit-fraction entry",
+    "version_scope": "Official1.14.0documentation source link",
+    "commit": "16fa855354eb7bcabd3fe10993841e03b1382692",
+    "documentation": "https://docs.sympy.org/latest/modules/ntheory.html#sympy.ntheory.egyptian_fraction.egyptian_fraction",
+    "documentation_selected_lines": [
+      3722,
+      3797
+    ],
+    "snapshot": "data/provenance/tools/sympy-unit-fractions-16fa855.json.gz",
+    "snapshot_sha256": "69d46d53d74417ff3a1c9273cfec3d8d76021d0531f26d6b7629fce4497d8a95",
+    "files": {
+      "egyptian_fraction.py": {
+        "sha256": "856f3cea13d626d011aa0648ac7d568d9142d2ebdff421f13089f45fd31666ba",
+        "lines": 223,
+        "read_ranges": [
+          [
+            1,
+            223
+          ]
+        ],
+        "fully_read": true
+      },
+      "test_egyptian_fraction.py": {
+        "sha256": "b691dcc2d7aeb9001a85c3eabe0066e0cc2af9e7f37073a7f2695d8a3ca78e51",
+        "lines": 49,
+        "read_ranges": [
+          [
+            1,
+            49
+          ]
+        ],
+        "fully_read": true
+      },
+      "LICENSE.sympy": {
+        "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286",
+        "lines": 153,
+        "read_ranges": [
+          [
+            1,
+            153
+          ]
+        ],
+        "fully_read": true
+      }
+    },
+    "source_url": "https://github.com/sympy/sympy/blob/16fa855354eb7bcabd3fe10993841e03b1382692/sympy/ntheory/egyptian_fraction.py",
+    "tests_url": "https://github.com/sympy/sympy/blob/16fa855354eb7bcabd3fe10993841e03b1382692/sympy/ntheory/tests/test_egyptian_fraction.py"
+  },
+  "local_environments": [
+    {
+      "python": "/opt/homebrew/opt/python@3.14/bin/python3.14",
+      "version": "3.14.7",
+      "sympy_installed": false
+    },
+    {
+      "python": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+      "version": "3.12.14",
+      "sympy_installed": false
+    }
+  ],
+  "contract_notes": [
+    "ActualofficialSymPy1.14.0docselectedrender3722-3797 anddoclinkedsourcecommit16fa855354eb7bcabd3fe10993841e03b1382692. Actualwhole223linesource,49linetestmodule andentirelicense read;ASTcheckedentryparameters r,algorithm=Greedy,6functionbodies. Mastercodeinitialdiscoverynotpinnedcanonicalbasis.",
+    "PublicAPI acceptsPOSITIVE Rational or(tuplep,q),normalizesviaRational;returnsSymPyIntegerdenominatorlist. Fouralgorithmstrings Greedy/GrahamJewett/Takenouchi/Golomb;harmonicprefixhandles>=1,sooutputallows1andisnotrestrictedproperfractiona<bsourcecase. No marker/maxdenominator/bitbudget paramsinthisfixedentry. Version-specificscopeonly,notclaimalllibraries/newreleaseslackfeature.",
+    "Actualsourcevalidatespositiveinput,commoncases/harmoniccompletionreturnBEFOREalgorithmvalidation. Thus invalidalgorithmdoesnotnecessarilyraiseifshortcutfinishes. Notanobservedruntimebug ornewbenchmark;wholeAPI/codepathqualificationnotfunctionaltestexecution.",
+    "Actualtestsassertpublic5/6Golomboutput[2,6,12,20,30]. Naiveappendexactmarker6 todecompositionof1-1/6wouldduplicatedenominator6. Staticpublicfixture illustratesadditionalcontract,NOTbugintheunconstrainedAPI ornewapplicationexperiment.",
+    "F025m>=4greedy-prefixskipsm,keepsunreducedq andtailstrictlybelowALLreservedreciprocals. AnycorrectpositiveDISTINCTtaildecomposerthenavoidsmarker/prefixautomatically. ItcanbeaproposedwrappercontractaroundeligibleSymPyproper-tailmethods. DoesnotimplementsourceO(loglog)construction;keepfinitegreedyoldmethodandTthresholdcostseparate.",
+    "Strongoldbaselines:alreadyreadvanDoornTang2026v2 exact-markerpadding/directmarkedconstruction andoldgreedy/nonasymptoticmarker-awareconstruction;oldTY1990simultaneouslength+maxdenominator theorem whenboundedoutputmatters. DefaultunmarkedAPIonlynegativecontrol,nottheonlycomparator. Oldmethods mayalreadyfulfilltheentirefeature.",
+    "NoSymPyinstalledinactualsystem3.14.7oractualbundled3.12.14find_specchecks. No packageinstall,symbolicAPIexecution,upstreamtests/prototype/benchmark. No monkeypatch/stub ofSymPyRational orpretendunmodifiedlibraryexecution. A proposedconsumerfeature isnotobservedpublicuserdemand.",
+    "Registerone concreteconditionalnearconnection for exact-markerrequest+unmodifiedtailconsumer+independentrationaljudge andfullcostbaselines;no runIDs,initialeligiblefalse/theorychainunknown. Beforeoutputsfreezeactualcallerorrepresentativejustifiedsyntheticrequestpack,methodchoice,admissioncaps,resourcefailbehavior,independentjudge,oldmarkerbaseline andheldoutselection. KnownfractionidentityQAalonecannotincreaseapplicationinitialcount."
+  ],
+  "pinned_entry_parameters": [
+    "r",
+    "algorithm"
+  ],
+  "whole_API_executed": false,
+  "upstream_tests_executed": false,
+  "stubbed_execution": false,
+  "source_contract_checked": true,
+  "numerical_output_created": false,
+  "new_candidates": 1,
+  "new_initial_checks": 0,
+  "independent_provider": false,
+  "human_review": false,
+  "limits": [
+    "Noactualcallerrequestorpublicdemandobserved",
+    "NoinstalledSymPy/liveintegration",
+    "Noimplementedshort-asymptoticconstructor/effectivefiniteC",
+    "Noapplicationbenefit/full-costcomparisonrun"
+  ]
+}

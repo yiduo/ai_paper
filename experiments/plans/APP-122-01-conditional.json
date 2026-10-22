@@ -1,0 +1,30 @@
+{
+  "id": "APP-122-01",
+  "title": "二元事件流恢复的前缀矩证书与资源核查",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-058",
+  "analogy": "near",
+  "input": "ActualconsumerproducesseveralindependentlydeletedcopiesofONEfixedbinaryeventstream,knownn/rationalp,no retainedpositionlabels",
+  "output": "Exactbinarysequence plusboundedprefixfeasibilitystatuses,allobservation/preprocessing/arithmetic/outputcostcharged",
+  "extra_assumptions": "Actualknownlength/channel/independencecertificate andexecutableconstants/resourceadmissionbeforeoutput. Realisticcorrelatedlogsormixedsourcesmayfailthemodel.",
+  "hypothesis": "On a separately frozen resource-admitted heldout batch of genuine repeated binary-event traces,the complete capped prefix decoder will attain the preregistered at-least2/3 per-input success target and reduce total reconstruction cost by at least10% against the strongest eligible old backend at matched confidence;either a resource failure or an old sufficient method fails this incremental prediction. The source asymptotic theorem does not imply this finite benefit.",
+  "judge": "Freezeconsumerbatch,trialcount/confidenceprocedure,allconstantsandcaps beforeoutputs;exactgroundtruthmatch andindependentoldlikelihood/channelchecks;failedbudgetnotretrospectivelyexcluded. Knownsyntheticword/maskQAaloneisnotapplicationvalidation.",
+  "baseline": "BVW already givesquasipolysamples andefficientpairtesting,ordinaryMLE maysearch2^n. Compare actualstrongestoldlowdeletion/structured-input decoder aseligible,notonlybruteforceorincorrectmean/localSQbaseline. Oldmethods can alreadybesufficient;lowdelete2021bodyunverifiedhere.",
+  "limits": "No actualconsumer,data,implementation,preregistrationor run. H>=3003 andunknownKD/Km createhugefixedmomentorder;mayreduceenumerationtoallnsubsetsbutnotinventsmallD. Binaryuniformruntimeonly;general-symbolanchor is sample-only. NaturalC/boundedformalB local,completechainsunknown;nohuman/provider.",
+  "revisit": "Inspect atmosttwo actualsequence-reconstruction/eventlogging APIs ororiginalconsumerpaper;establishsingle-source iid deletion,knownn/p,exactoutput andstrongoldbaseline. Ifunmet oroldmethodalreadyenough,lowerprioritywithoutknowntraceQA.",
+  "source_labels": [
+    "u/thm:main",
+    "u/thm:separation",
+    "u/lem:rational-feasibility"
+  ],
+  "part_keys": [
+    "UNIFORM-DECODER",
+    "PSD-PREFIX",
+    "SLACK-FEASIBILITY",
+    "RESOURCE-SCALE",
+    "CONSUMER-GATE",
+    "BUDGET-BASELINE-GATE"
+  ],
+  "dedup_key": "F-122|actual binary eventstream repeated pure deletion|capped PSD prefix decoder versus strongest eligible old reconstruction"
+}

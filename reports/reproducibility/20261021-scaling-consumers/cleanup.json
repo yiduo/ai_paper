@@ -1,0 +1,197 @@
+{
+  "recorded_at": "2026-10-21T02:21:26.499963+00:00",
+  "source_archive_members": 9,
+  "source_gzip_bytes": 13383,
+  "source_roundtrip": true,
+  "helper_gzip_bytes": 32803,
+  "helper_gzip_sha256": "975da1173e0dee864ae8e2a17f80b1c5c1a4b2a9897b8c80cd45cff9ec57e417",
+  "helper_uncompressed_sha256": "2d9f8cec7b2081f0d75c4e404a3c154915b4ad4cdb589faa9b8046e0ad210b75",
+  "helper_roundtrip": true,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-WP068/conjugate_gradient.py",
+      "bytes": 11036,
+      "sha256": "be76bcedf573d2143f3cc28974fa6b0b66931b37c6f365966c8010319166487e",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-trace-consumers-quality_consumers.py",
+      "bytes": 3004,
+      "sha256": "5d8555067192e9af4870e1769678a5538be780a2b416d1baf422a13834cb42c2",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/PYMANOPT-LICENSE",
+      "bytes": 1491,
+      "sha256": "4d8bfb410b67df60ca22de605624e06dd75ec0b58ae94d86b3ede18688f2c2f2",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/core.log",
+      "bytes": 8530,
+      "sha256": "bd8c158461dab4dcc2207f059fb34b663aff120fcf5a956aaff3e83c9537c493",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/integrity_scaling.py",
+      "bytes": 4861,
+      "sha256": "90aa336b9252d46862b9e4043a1c0e9098b6bd7a910e838d9aee67938ef7fd92",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/curation-result.json",
+      "bytes": 124,
+      "sha256": "a537b6a4e12f44b3cf18521f68a462d0748956096baac65f7562b592aa492ed8",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/integrity.log",
+      "bytes": 962,
+      "sha256": "e0fd42d0e2adcb0c144a6be48d1dff78b87dc55cfd5e7ba4265fbbbbd0f2b54c",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/integrity-initial-failure.log",
+      "bytes": 897,
+      "sha256": "f44714a6dd4e0561290dc428b4595b96fbcf2bef6863cd1a2ae0121522c19cb4",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/quality_scaling.py",
+      "bytes": 3004,
+      "sha256": "267fc21312198eb29b964ad7e1796d082b8107af2552b219791c251a2fab8d7b",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/numpy_backend.py",
+      "bytes": 14702,
+      "sha256": "feee283cdb094e02428d467f68cc6dd5a5a0dd9d3086c9dcdfb39dfc19644156",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-trace-consumers-finish_consumers.py",
+      "bytes": 12655,
+      "sha256": "8d5d9fea1aa9d59fec99452155bc915b65f535fe7b597d314902ffe0c89bfe4e",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/kraus_to_choi.py",
+      "bytes": 3995,
+      "sha256": "ae720495a8eb6a00a0a5598173dc61984bc22900da46fc11c061ba25283401a8",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/pymanopt-tree.json",
+      "bytes": 47360,
+      "sha256": "666dcbd70dea661bbae950246a9eee27d40c21c1073afd42c4286fc0019321a2",
+      "retained_as": "Unretaineddiscoveryindex/HTML;hashmetadataonly"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/quality.log",
+      "bytes": 83,
+      "sha256": "2f2e502c7ae4b49b44af709ba5c08dc4e9065f4d93ecb7e55d1a1edd5dcfe63a",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/is_quantum_channel.py",
+      "bytes": 3733,
+      "sha256": "4741cc3c6a7570ac63f4664a77145112cb1e6f84d8b36dee4a346866fee423e4",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-tiling-consumer-finish_solver.py",
+      "bytes": 10354,
+      "sha256": "6cc259ac7cabe65b2daa730ca9e3b831727b172636bdfab0397d329b5bff70cd",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/export.log",
+      "bytes": 542,
+      "sha256": "471534203030a9f45bcbc889f7b22631824fbbea782556237440b1e3e842af52",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/is_trace_preserving.py",
+      "bytes": 4230,
+      "sha256": "8dbf136c29f1cd67810edfc64fe15bf1789b2d6e004ddd85e340b892dcd451fa",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/positive_definite.py",
+      "bytes": 9096,
+      "sha256": "618e4ef5e4fa8b489fdf77bf0a96cab7c5cd7cfc2303c06ad69f9810652d7b51",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-tiling-consumer-quality_solver.py",
+      "bytes": 3007,
+      "sha256": "4ab413244c0bdd9ade18266361fac73143e3d1495e3bae96f3a63fc72f11edef",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-trace-consumers-curate_consumers.py",
+      "bytes": 15196,
+      "sha256": "61b7bdccb912cee36895eea904e676b41ec589af0eea132aafe0f91a21c3c6fd",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-tiling-consumer-curate_solver.py",
+      "bytes": 16261,
+      "sha256": "9d6c5bd33a0cedc97f56462e4f6fa30558f3c61e6b0abf40c98482f842d0ff24",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/optimizer.py",
+      "bytes": 5058,
+      "sha256": "e61ef7eac881bccd31474d8835569a1f1beffd0e00124cc431a1dab3be5aa178",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/progress.json",
+      "bytes": 9302,
+      "sha256": "d1d30b00f70eacc3011c5a844e84aa14eb2824303f39300e955914ede55a4231",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/TOQITO-LICENSE",
+      "bytes": 1081,
+      "sha256": "24a81140b4ed6f42cee898f203727bd6c81a7e47c9ed0d6c0f35e132bfe0e483",
+      "retained_as": "PinnedBSD3/MITsourceexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/curate_scaling.py",
+      "bytes": 17690,
+      "sha256": "a3e8d10be51d0564759ab0d163b77a794396b5ea8cab6d1ec73afca7165eab7b",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-tiling-consumer-integrity_solver.py",
+      "bytes": 3723,
+      "sha256": "c77e717a800d5f8cff3a0c6c770f0d04a5277b2350a7ace6e811eecb13b219a6",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/20261021-trace-consumers-integrity_consumers.py",
+      "bytes": 5037,
+      "sha256": "6932b54d8081dc0dd8344548aef55892a984907ccf9b79f31977cb5db94f40f4",
+      "retained_as": "Alreadyarchivedreferencehelpercopy"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/finish_scaling.py",
+      "bytes": 12735,
+      "sha256": "ef43946d88c5c2eed7c045c7372196fb8ddba78d83374d86baee56386cd16c18",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP068/toqito-discovery.html",
+      "bytes": 359519,
+      "sha256": "acca0cec7d7461e5d75b45e8fb4c44b126a6176e2c402e53b4de30389ed64c58",
+      "retained_as": "Unretaineddiscoveryindex/HTML;hashmetadataonly"
+    }
+  ],
+  "temporary_bytes_removed": 589268,
+  "temporary_directory_removed": true,
+  "no_installs": true,
+  "no_datasets_downloaded": true,
+  "new_application_run": false
+}

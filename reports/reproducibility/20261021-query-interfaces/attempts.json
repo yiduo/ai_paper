@@ -1,0 +1,6 @@
+{
+  "initial_range_preparation_failure": "Before any canonical/archive write, curator asserted setl-lang expected end87 against actual86. Verified manual total9437 and corrected final range9440 to9437 as well. No checker relaxed; later source ranges bounded by actual bytes.",
+  "web_discovery_failures": "Two click calls using URL rather than refreshed reference failed; refreshed official SETL page resolved repository/manual. GitHub directory cache misses avoided using pinned raw Makefile source discovery.",
+  "downloads": "Three repositories pinned by git ls-remote; small raw files only. No tarballs,clone,installation or numerical run.",
+  "meaning": "Preparation/discovery failures retained;not source theorem errors. Do not rerun assert-new curator."
+}

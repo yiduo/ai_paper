@@ -1,0 +1,30 @@
+{
+  "id": "EXP-374-001",
+  "version": 1,
+  "connection_id": "APP-374-01",
+  "hypothesis": "The manuscript three-atom family yields an exact semi-discrete transport regression fixture: independent rational polygon integration and 3x3 transport-LP vertices match its map/target squared distances on every scale; the map-L2 / W2^(1/2) ratio grows by at least 4x while the map-L2 / W2^(1/3) ratio varies by at most 5 percent.",
+  "input": {
+    "generator": "uniform source on [-1,1]^2; three affine maxima; a=2^-k and b=a/2",
+    "k_min": 2,
+    "k_max": 14
+  },
+  "baseline": "half-power perturbation proxy calibrated at a=1/4, compared with one-third-power proxy; no broad solver speed claim",
+  "judge": "exact Fraction half-plane clipping and polygon overlap areas, independently enumerated 3x3 transportation basic feasible vertices; manuscript formulas only used as expected values after computation",
+  "success": {
+    "exact_formula_mismatches": 0,
+    "half_power_ratio_growth_min": 4,
+    "one_third_ratio_max_over_min": 1.05,
+    "mass_conservation_violations": 0
+  },
+  "failure": "any exact formula/mass disagreement, growth below 4, or one-third ratio variation above 5 percent",
+  "metrics": [
+    "exact map and target squared distances",
+    "mass conservation",
+    "cross-scale ratios",
+    "runtime",
+    "peak_python_memory"
+  ],
+  "limits": "A source-derived synthetic solver regression fixture and finite-scale applicability check. Does not test the general upper-bound proof, nonuniform source distributions, all targets, actual production solvers or new mathematical discovery. Full dependency closure and human review absent.",
+  "resource_limit_seconds": 120,
+  "resource_limit_mb": 128
+}

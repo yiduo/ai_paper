@@ -1,0 +1,70 @@
+{
+  "work_package": "WP-085",
+  "generation_id": "GEN-20261021-081",
+  "recorded_at": "2026-10-21T08:04:49.086013+00:00",
+  "primary_scopes": [
+    {
+      "id": "Shuman2013",
+      "url": "https://arxiv.org/pdf/1211.0053v2",
+      "revision": "arXiv1211.0053v2,10Mar2013",
+      "doi": "10.1109/MSP.2012.2235192",
+      "authors": [
+        "David I Shuman",
+        "Sunil K. Narang",
+        "Pascal Frossard",
+        "Antonio Ortega",
+        "Pierre Vandergheynst"
+      ],
+      "title": "The Emerging Field of Signal Processing on Graphs: Extending High-Dimensional Data Analysis to Networks and Other Irregular Domains",
+      "scope": "II-A/B weighted undirected graph/Laplacian definitions;III-A Example2 Tikhonov regularization,pdfpage7/printed7,Eq16-17 and surrounding explanation;HTML same-version Example2 labels18-19 instead,locator explicit byformat.",
+      "contract": "Convex squared-Euclidean fidelity+gamma graph Laplacian regularizer;unique reconstruction (I+gamma L)^-1x. Example uses Gaussian noise anddata-derivedimageweights;our frozen benchmark uses own fixed graph,heavy-tail rational synthetic noise and no clipped display. Algebraic minimizer exists for arbitrary x,not a heavy-tail optimal-risk theorem.",
+      "acquired_bytes": 2968573,
+      "acquired_sha256": "8700aa3efea85f5024a39588c842e7445a5db04396105e63294e2de2ef8361f5",
+      "actual_formula_pixels_inspected": {
+        "file": "tikhonov-formula.png",
+        "pdf_page": 7,
+        "printed_page": "7",
+        "bytes": 561527,
+        "sha256": "14d441a958093bc561de43ee7c41ad867f8e591526f1be61be68a904c5cc5179"
+      },
+      "retained_full_text": false,
+      "proof_closure_complete": false
+    },
+    {
+      "id": "GraphMedian2022",
+      "url": "https://arxiv.org/html/2203.02741v1",
+      "revision": "arXiv2203.02741v1,05Mar2022",
+      "title": "Weighted Mean and Median graph Filters with Attenuation Factor for Sensor Network",
+      "authors_on_body": [
+        "Zirui Ge",
+        "Haiyan Guo",
+        "Tingting Wang",
+        "Zhen Yang"
+      ],
+      "metadata_note": "Search/abstract metadata shows two authors;actual HTML body header lists four. Cite selected body revision;not silently resolving authorship beyond that.",
+      "scope": "Sections2-4 weighted node-selecting/temporal neighborhood mean and recursive-median discussion;Section5 Gaussian-noise dataset context. Actual HTML statement/method text,not plots or reproducibility audit.",
+      "contract": "Old graph neighborhood mean/median filtering already exists. Its temporally recursive neighbor selection is NOT our static row-G weighted absolute-deviation minimizer and is not reproduced here.",
+      "retained_full_text": false,
+      "local_acquisition_sha256": null,
+      "fullpaper_read": false
+    }
+  ],
+  "baseline_contracts": {
+    "identity": "x unchanged",
+    "linear_resolvent": "G_tx,parameter1or3 selected ontraining",
+    "weighted_median": "Static row-G absolute-deviation minimizer,lowest observed tie;independently verify minimum over distinct input values. Do not call it Ge etal fulltemporal algorithm.",
+    "quadratic": "Own exact rational implementation of standard Tikhonov minimizer;uniformpi,chainA=I-L/(2Dmax),Q_alpha=(||y-x||2^2+alpha sum_ij aij||yi-yj||2^2)/n => y=(I+2alpha(I-A))^-1x. Equivalent gamma=alpha/Dmax in unnormalized graphL. Not multidimensional squared-l1 minimizer or TV optimizer."
+  },
+  "preregistration_commit": "589a34c",
+  "implementation_commit": "eae3f58",
+  "spec": "experiments/specs/EXP-332-001.json",
+  "independent_judge": "src/ai_value/graph_smoothing_reference.py",
+  "source_C_claim_unchanged": true,
+  "human_review": null,
+  "second_provider_review": null,
+  "primary_retrieval_failures": [
+    "Author-site PDF web fetch timed out;arXiv HTML andPDF text succeeded",
+    "Web PDF screenshot cache miss;existing configured shellproxy127.0.0.1:7890 unavailable;authorized normalTLS bounded directcurl succeeded at2.97MB;localpdftoppm/pixels checked"
+  ],
+  "no_new_dependencies": true
+}

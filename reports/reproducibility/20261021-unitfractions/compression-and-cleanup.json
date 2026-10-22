@@ -1,0 +1,98 @@
+{
+  "recorded_at": "2026-10-21T04:39:02.490137+00:00",
+  "helper_gzip_bytes": 26035,
+  "uncompressed_bytes": 89331,
+  "roundtrip_verified": true,
+  "source_snapshot_gzip_bytes": 4962,
+  "third_party_license_retained_in_both_archives": true,
+  "temporary_bytes_removed": 87432,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/egyptian_fraction.py",
+      "bytes": 6923,
+      "sha256": "856f3cea13d626d011aa0648ac7d568d9142d2ebdff421f13089f45fd31666ba"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/curate.py",
+      "bytes": 17744,
+      "sha256": "27371d31661f22769b75d85fc9471173416c9dce46597a8ea69e7ef527f5fc42"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/LICENSE.sympy",
+      "bytes": 7885,
+      "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/core.log",
+      "bytes": 9328,
+      "sha256": "35b4fc6b1060aa41c925d1903260aa7910f561576326f92e1e769854f9d8c2fa"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/integrity.log",
+      "bytes": 1301,
+      "sha256": "b4b55aef0669818edffce55773e5c3262350a9dc7cd40706e1b8fa0849b7947e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/quality-before-current-gap-fix.log",
+      "bytes": 83,
+      "sha256": "3898afdb3c0c7313799f63ee9e9aaa0d043c6b67c7f79ec243c1079d9bbb9db7"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/start.py",
+      "bytes": 1869,
+      "sha256": "1cd186d123e267985a520f48ca9625ffdbe495bfe04a8ee8fc3479105c55b512"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/quality.log",
+      "bytes": 83,
+      "sha256": "3898afdb3c0c7313799f63ee9e9aaa0d043c6b67c7f79ec243c1079d9bbb9db7"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/test_egyptian_fraction.py",
+      "bytes": 2378,
+      "sha256": "b691dcc2d7aeb9001a85c3eabe0066e0cc2af9e7f37073a7f2695d8a3ca78e51"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/curate.log",
+      "bytes": 152,
+      "sha256": "1aded368340feae1cc9ca5c3e7ae753e7d6373c84281fe41a212a861cd9dbc59"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/export.log",
+      "bytes": 542,
+      "sha256": "87719f2f5920c137525b26a1849bc4d6bae9432568595a2cfdcd94715718aa16"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/progress.json",
+      "bytes": 5805,
+      "sha256": "a2d2ab7bc443c5849fee3a50399732729c5609c60f27f3870ace5cf54def49c2"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/quality.py",
+      "bytes": 3013,
+      "sha256": "44506002c9b89763d2be8b259af0200c5695eb9334ecb435e0529c29be513278"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/integrity.py",
+      "bytes": 6269,
+      "sha256": "356fd29200a8521de1fda2b9dd585d6614e2a03ebc09d94c6883a043b9473403"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/core-after-gap-fix.log",
+      "bytes": 9328,
+      "sha256": "bd4726bc69bdb45494b7edb39fb3cc80bd6a4a5d2e53dfceb9aca13f32fca5e7"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/finish.py",
+      "bytes": 14187,
+      "sha256": "6910a7d64ced7db2ccf128047133a47741b6627b0ffd8db148bca9a82a4bcc08"
+    },
+    {
+      "path": "/private/tmp/ai-paper-unitfractions/export-after-gap-fix.log",
+      "bytes": 542,
+      "sha256": "15a2ec897de100a4adfcad7efb0d4558cbc9c7240ce0acf0b855e42b3aa21b0b"
+    }
+  ],
+  "no_new_numerical_payload": true,
+  "cleanup": "Ownhelpers/logs/progressandthreeBSDsource/test/LICENSEtextsexactgziproundtripverifiedbeforeremoval;canonicallicensed3filesnapshot4962Bretained. No dependencyinstallation/upstreamcopy/newnumericalpayload. Initialqualityandpre-outputcurationfailureexplanationpreserved."
+}

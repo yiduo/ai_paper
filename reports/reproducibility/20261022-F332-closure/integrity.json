@@ -1,0 +1,195 @@
+{
+  "recorded_at": "2026-10-22T02:24:04.172342+00:00",
+  "canonical_before": 3439,
+  "canonical_after": 3452,
+  "unchanged_old": 3434,
+  "exact_prior_versions": 5,
+  "new_records": 13,
+  "old_explicit_edges_unchanged": true,
+  "new_explicit_edges": 31,
+  "local_source_hashes_verified": 5269,
+  "external_annotations": 366,
+  "unchanged_files": [
+    "data/provenance/readings/F-332.json",
+    "data/graph/reading_coverage.json",
+    "experiments/plans/APP-332-01-conditional.json",
+    "experiments/specs/EXP-332-001.json",
+    "experiments/runs/EXP-332-001-b2607a9926c44586/spec.json",
+    "experiments/runs/EXP-332-001-b2607a9926c44586/raw.json.gz",
+    "experiments/runs/EXP-332-001-b2607a9926c44586/manifest.json",
+    "experiments/runs/EXP-332-001-b2607a9926c44586/summary.json.gz",
+    "experiments/runs/EXP-332-001-b2607a9926c44586/inputs.json.gz"
+  ],
+  "source_claims_unchanged": [
+    "CLM-332-THM-MAIN",
+    "CLM-332-LEM-CUTS",
+    "CLM-332-LEM-FLAT",
+    "CLM-332-COR-MARTINGALE",
+    "CLM-332-LEM-COMPARISON",
+    "CLM-332-COR-COMPLEX",
+    "CLM-332-COR-EXTENSION"
+  ],
+  "application_record_unchanged": true,
+  "impact_cases": [
+    {
+      "seed": "LIT-332-MN-HEINRICH1980",
+      "required": [
+        "CLM-332-COR-EXTENSION"
+      ],
+      "excluded": [
+        "CLM-332-THM-MAIN",
+        "CLM-332-COR-COMPLEX",
+        "APP-332-01"
+      ],
+      "affected": [
+        "AUDIT-332-FAMILY-CLOSURE",
+        "CLM-332-COR-EXTENSION",
+        "HIST-332-MN-EXTENSION",
+        "HIST-332-MN-GLOBAL-UPGRADE",
+        "LIT-332-MN-HEINRICH1980",
+        "PART-332-GLOBAL-EXTENSION-BRIDGE-GAP"
+      ]
+    },
+    {
+      "seed": "LIT-332-MN-JRZ1971",
+      "required": [
+        "CLM-332-COR-EXTENSION"
+      ],
+      "excluded": [
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "AUDIT-332-FAMILY-CLOSURE",
+        "CLM-332-COR-EXTENSION",
+        "HIST-332-MN-EXTENSION",
+        "HIST-332-MN-GLOBAL-UPGRADE",
+        "LIT-332-MN-JRZ1971",
+        "PART-332-GLOBAL-EXTENSION-BRIDGE-GAP"
+      ]
+    },
+    {
+      "seed": "LIT-332-MN-LR1969",
+      "required": [
+        "CLM-332-COR-EXTENSION"
+      ],
+      "excluded": [
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "AUDIT-332-FAMILY-CLOSURE",
+        "CLM-332-COR-EXTENSION",
+        "HIST-332-MN-EXTENSION",
+        "HIST-332-MN-GLOBAL-UPGRADE",
+        "LIT-332-MN-LR1969",
+        "PART-332-GLOBAL-EXTENSION-BRIDGE-GAP"
+      ]
+    },
+    {
+      "seed": "PART-332-GLOBAL-EXTENSION-BRIDGE-GAP",
+      "required": [
+        "CLM-332-COR-EXTENSION"
+      ],
+      "excluded": [
+        "CLM-332-THM-MAIN",
+        "CLM-332-COR-COMPLEX",
+        "APP-332-01"
+      ],
+      "affected": [
+        "AUDIT-332-FAMILY-CLOSURE",
+        "CLM-332-COR-EXTENSION",
+        "HIST-332-MN-EXTENSION",
+        "HIST-332-MN-GLOBAL-UPGRADE",
+        "PART-332-GLOBAL-EXTENSION-BRIDGE-GAP"
+      ]
+    },
+    {
+      "seed": "HIST-332-MN-FINITE-PROOF",
+      "required": [
+        "CLM-332-COR-EXTENSION"
+      ],
+      "excluded": [
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "CLM-332-COR-EXTENSION",
+        "HIST-332-MN-EXTENSION",
+        "HIST-332-MN-FINITE-PROOF",
+        "HIST-332-MN-GLOBAL-UPGRADE"
+      ]
+    },
+    {
+      "seed": "HIST-332-MN-ANCHOR-ROUNDING",
+      "required": [
+        "CLM-332-COR-EXTENSION"
+      ],
+      "excluded": [
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "CLM-332-COR-EXTENSION",
+        "HIST-332-MN-ANCHOR-ROUNDING",
+        "HIST-332-MN-EXTENSION",
+        "HIST-332-MN-FINITE-PROOF",
+        "HIST-332-MN-GLOBAL-UPGRADE"
+      ]
+    },
+    {
+      "seed": "HIST-332-DL-CUT-DEFINITIONS",
+      "required": [],
+      "excluded": [
+        "CLM-332-LEM-CUTS",
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "HIST-332-DL-CUT-DEFINITIONS"
+      ]
+    },
+    {
+      "seed": "CHECK-332-MN-NOTATION",
+      "required": [],
+      "excluded": [
+        "CLM-332-COR-EXTENSION",
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "CHECK-332-MN-NOTATION"
+      ]
+    },
+    {
+      "seed": "CHECK-332-DL-CORRECTIONS",
+      "required": [],
+      "excluded": [
+        "CLM-332-LEM-CUTS",
+        "CLM-332-THM-MAIN",
+        "APP-332-01"
+      ],
+      "affected": [
+        "CHECK-332-DL-CORRECTIONS"
+      ]
+    },
+    {
+      "seed": "CLM-332-THM-MAIN",
+      "required": [
+        "CLM-332-COR-COMPLEX",
+        "CLM-332-COR-EXTENSION",
+        "APP-332-01"
+      ],
+      "excluded": [],
+      "affected": [
+        "APP-332-01",
+        "CLM-332-COR-COMPLEX",
+        "CLM-332-COR-EXTENSION",
+        "CLM-332-THM-MAIN",
+        "PART-332-STATIONARY-EXTENSION"
+      ]
+    }
+  ],
+  "full_family_count": 0,
+  "full_lineage_count": 0
+}

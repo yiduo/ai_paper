@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/private/tmp/quality_f120.py", line 6, in <module>
+    assert {n['id'] for n in v['nodes']}==set(nodes)=={n.attrib['id'] for n in tree.findall('.//g:node',ns)}
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

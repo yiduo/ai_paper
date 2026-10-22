@@ -1,0 +1,7 @@
+{
+  "initial_failure": "Changed or invalid cited file:APP23802conditional plan",
+  "cause": "The problem node also cited the changed plan;the connection node alone was updated.",
+  "repair": "Preserve problem version1 inGEN033batch,advance problem toversion2andbindcurrentplanSHA;originalfulltargetunchanged,conditional-listlimitretained.",
+  "versioned_nodes_now": 20,
+  "gate_relaxed": false
+}

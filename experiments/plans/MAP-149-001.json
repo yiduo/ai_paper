@@ -1,0 +1,37 @@
+{
+  "id": "MAP-149-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-149-01",
+  "registered_at": "2026-10-20T14:17:40.187548+00:00",
+  "exposure": "Source andoldbaselinesknown;same-modelhypothesis;noindependentrediscovery",
+  "object_mapping": {
+    "input": "Explicit finite integer complexes/reactions,fixedpositive rates,x0 and proposedEulersteps",
+    "continuous": "xdot=sum k*x^y*(yprime-y) in fixed stoichiometric class",
+    "discrete": "xnext=x+h*f(x);this map needs an independent positivity/regioncertificate"
+  },
+  "additional_assumptions": [
+    "Weakly reversible finite graph,nonnegative integer complexes,fixed positive rates",
+    "Do not infer stochastic permanence,uncertain time-varyingrates,explicit epsilonP oruniformT overx0",
+    "Preserve mass/stoichiometry checks and solver arithmetic tolerance separately"
+  ],
+  "hypothesis": "在预先固定的弱可逆质量作用合成例中，存在连续模型符合源文前提但显式Euler产生负坐标的步长；分开两类证书可标出全部此类错误保证，并对满足逐步非负条件的对照不误标为已证长期数值永久性。",
+  "baseline": "Incorrect rule:weakreversibility plus continuous permanence implies every Eulerstep positive. Honest older baseline:direct coordinate update check and per-step h bound;one-linkage examples already covered historically.",
+  "incremental_value": "Workflow claim hygiene,not a new integrator. General fixed-rate permanence widens continuous structural applicability;the proposed stepcheck itself has no claimed2026benefit.",
+  "test_plan": {
+    "fixtures": "Freeze small reversible networks,positive rationalrates/initials andexplicitrationalsteps including stable/oversizedcontrols;do not selectstepsafterresults. Include exact closed-formcontrol whereavailable.",
+    "oracle": "Exact rationalEulerupdates plus independent matrix-exponential/analytic continuoussolution on linear reversible controls. Nonlinear ormultilinkagenetworks requireseparate validatedODEevidence.",
+    "metrics": [
+      "negativecoordinates",
+      "eligibilityflags",
+      "stoichiometricresidual",
+      "falseguarantees",
+      "runtime"
+    ],
+    "success": "At least one valid continuousmodel with negativeEulercoordinate;guard catches all knownfalseclaims andneverpromotesfinitehorizons to eventualpermanence.",
+    "failure": "Wrongstructuralqualification,missednegativecoordinate orclaimeduniformburn-in withoutcertificate."
+  },
+  "limits": "计划尚未运行；没有实际生化数据、非线性区间解算器、有效K_P构造或永久性数值证书。线性/单链接控制仅检验误用，不能展示新多链接定理增益。",
+  "resource_envelope": "Proposed rational arithmetic fixture audit <=60seconds/64MiB;no heavyODEdependencies;not run.",
+  "execution_requirement": "Freeze executableexperiment specbeforetargetoutputs;thisplanisnotanexperimentrun"
+}

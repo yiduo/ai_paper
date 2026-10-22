@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "upstream_url": "https://github.com/openai/math",
+  "commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "historical_commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+  "families": 372,
+  "historical_families": 372,
+  "catalogued_manuscripts": 719,
+  "historical_manuscripts": 722,
+  "reconciliation": {
+    "revised_explicit_version_link": 27,
+    "unchanged_catalogue_path": 692,
+    "withdrawn_proof": 3
+  },
+  "unmapped_new_paths": [],
+  "formalization_catalogue_sources": 173,
+  "processing_version": "2-scope-aware-conservative-grading",
+  "scope_notes_linked_current_manuscripts": 339,
+  "catalogued_sources_in_formalization_catalogue": 172,
+  "tracked_files": 133956,
+  "preprint_pdfs": 776,
+  "subject_distribution": {
+    "Number theory": 31,
+    "Algebraic and complex geometry": 36,
+    "Real and complex analysis": 16,
+    "Convex and metric geometry": 15,
+    "Theoretical computer science": 40,
+    "Dynamical systems and ergodic theory": 12,
+    "Combinatorics": 37,
+    "Algebra": 18,
+    "Probability and statistical mechanics": 29,
+    "Mathematical logic": 6,
+    "Group theory": 14,
+    "Mathematical physics": 25,
+    "Operator algebras": 19,
+    "Topology": 18,
+    "Functional analysis": 11,
+    "Differential geometry": 29,
+    "Partial differential equations": 16
+  },
+  "unavailable": [
+    "approximately 4000 evaluation prompts are not a supplied public question dataset",
+    "human specification reviews",
+    "independent second-provider mapping reviews"
+  ],
+  "count_basis": "catalogue manuscript entries; PDF files and directories are not paper counts"
+}

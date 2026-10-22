@@ -1,0 +1,87 @@
+{
+  "recorded_at": "2026-10-21T04:54:48.905144+00:00",
+  "helper_gzip_bytes": 49480,
+  "uncompressed_bytes": 135744,
+  "roundtrip_verified": true,
+  "formal_index_gzip_bytes": 21408,
+  "temporary_bytes_removed": 133905,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-epni/curate.py",
+      "bytes": 36304,
+      "sha256": "ab118b3288192a0e7e062aa6aab70cc0a2d486a286cac2868ee7b53722958970"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/core.log",
+      "bytes": 9328,
+      "sha256": "860d0ae570c8da9dfe3ce87c8d0b02b3d79270405fe8346e6159785703d45849"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/integrity.log",
+      "bytes": 2090,
+      "sha256": "9d90fa7ef49ccb11302ad610cdca5bfd0c280e66b8c054148736bb3440a9a88a"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/formal-index.py",
+      "bytes": 2824,
+      "sha256": "5f9963ff064c8161ab9d4654f75bfdc798ea726b3aab5456864c2090af74aa77"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/reference-finish.py",
+      "bytes": 13894,
+      "sha256": "85e04d86ef0568502c004cba5b20bfb5357944c54585b87a47672a1247d69681"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/quality.log",
+      "bytes": 83,
+      "sha256": "5c2607ce150a4adde54ac91a9de8e27146798dc2d1a4c9f5389106b663dad514"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/curate.log",
+      "bytes": 118,
+      "sha256": "9e1b58f3aa60423f00c738563232d40ef0ff7a13f5a02b27a3a7f60213e6bd4b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/reference-curate.py",
+      "bytes": 28402,
+      "sha256": "7f468a6f20151f410dcfd7a5eaff6d921511d3449d2841b8792fa62076c4d8ef"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/export.log",
+      "bytes": 542,
+      "sha256": "c383fbc7baa728cec87489b511aa0cc41bbea1fce18c34dc16d0f89a47af4bf6"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/progress.json",
+      "bytes": 9699,
+      "sha256": "13eee7d573f64f559010340a1abc5ce380542cf7ce7f6ade755287f2249f2d18"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/quality.py",
+      "bytes": 2995,
+      "sha256": "eaa0b61ddd248d89e8526eca6b6b8588aca374cde297f8cfc2be6c1ef710c5a9"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/integrity.py",
+      "bytes": 7330,
+      "sha256": "e27d092a1683770174e9f9ad049697461e6ec705d3cdbfe7563c8521827f9e69"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/finish.py",
+      "bytes": 15053,
+      "sha256": "d293d9da4aa34a004eac2e44ab0f336cf75af26d6b645c8d4565c185cb677a55"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/reference-quality.py",
+      "bytes": 3003,
+      "sha256": "10751726ac3e9a025194304c074fd9a8827d8240b06da74558f795b6b9467aca"
+    },
+    {
+      "path": "/private/tmp/ai-paper-epni/read-index.py",
+      "bytes": 2240,
+      "sha256": "3b3497370bc4dcc3f5c8b5809c49e9d7abc52f13417fda4b713efa9a17325477"
+    }
+  ],
+  "no_new_numerical_payload": true,
+  "cleanup": "Ownhelpers/logs/progress exactgziproundtripandmemberhashesverifiedbeforeremoval. Staticformalindex21408Bretained;no upstreamcopy/externalPDFmirror/dependencyinstallation/newnumericalpayload. Initialreadonlyline_startKeyErrornoted,canonicalwritesnotstartedatfailure."
+}

@@ -1,0 +1,29 @@
+{
+  "work_package": "WP046alternative_selection_only",
+  "status": "selection_partial_only_not_canonical_family_read_count",
+  "saved_at": "2026-10-20T21:12:33.328079+00:00",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-d027c9ccbce3784d",
+  "files": [
+    {
+      "path": "math/preprints/One-Sample-Suffices-for-Matroid-Prophet-Inequalities-against-an-Almighty-Adversary-September-23-2026/README.md",
+      "sha256": "50404ecb2485fe2bcaa4f257ad37052e9e94b41a3cb4b6457d3727d3a57b3c53",
+      "read_scope": "Whole"
+    },
+    {
+      "path": "math/preprints/One-Sample-Suffices-for-Matroid-Prophet-Inequalities-against-an-Almighty-Adversary-September-23-2026/build/sections/introduction.tex",
+      "sha256": "44440d00c57115f10131a8d854fcb7ab19df16da270687b0d2ac01fff7e02002",
+      "read_scope": "Whole198lines"
+    },
+    {
+      "path": "math/preprints/One-Sample-Suffices-for-Matroid-Prophet-Inequalities-against-an-Almighty-Adversary-September-23-2026/build/sections/algorithm.tex",
+      "sha256": "328b8b2d435919f8d019f6c7f65130cd2e7be1ef8a7bb09ae2ef993cb0c3be71",
+      "read_scope": "Only1-115"
+    }
+  ],
+  "counts_incremented": false,
+  "full_natural_source_read": false,
+  "notes": [
+    "F111one-sampleknownfinitematroid/fullseedadversary;universal2^-310,guard2^-140,rounding2^32,no polynomialtimepromise. Do notrescaleforMonteCarloorclaimempiricaltestoftheorem. Remainingmanuscriptunread."
+  ]
+}

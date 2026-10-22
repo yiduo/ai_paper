@@ -1,0 +1,228 @@
+{
+  "family_id": "F-142",
+  "work_package": "WP-061",
+  "generation_id": "GEN-20261021-057",
+  "recorded_at": "2026-10-21T00:47:11.956800+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "selected_source_lines": 1308,
+  "sources": {
+    "gap-meataxe.gi": {
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4f8c1c0db617988f87c9cfdbb64bcaebb172463a/lib/meataxe.gi",
+      "repository": "https://github.com/gap-system/gap",
+      "revision": "4f8c1c0db617988f87c9cfdbb64bcaebb172463a",
+      "path": "lib/meataxe.gi",
+      "sha256": "8d550ed0e6d648990bf680b0ad576556eaf637d1db759a9eaa5b340e79cbeb6b",
+      "bytes": 118685,
+      "total_lines": 3539,
+      "read_ranges": [
+        [
+          1,
+          95
+        ],
+        [
+          1135,
+          1185
+        ]
+      ],
+      "read_lines": 146,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained"
+    },
+    "gap-meatauto.gi": {
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4f8c1c0db617988f87c9cfdbb64bcaebb172463a/lib/meatauto.gi",
+      "repository": "https://github.com/gap-system/gap",
+      "revision": "4f8c1c0db617988f87c9cfdbb64bcaebb172463a",
+      "path": "lib/meatauto.gi",
+      "sha256": "69f625654824c7cdb0885690c35cce415e6da9c9f62d9cd105594a2269f7c611",
+      "bytes": 46294,
+      "total_lines": 1573,
+      "read_ranges": [
+        [
+          1,
+          109
+        ],
+        [
+          120,
+          151
+        ],
+        [
+          493,
+          575
+        ],
+        [
+          675,
+          735
+        ],
+        [
+          820,
+          861
+        ],
+        [
+          900,
+          1035
+        ],
+        [
+          1066,
+          1113
+        ],
+        [
+          1542,
+          1566
+        ]
+      ],
+      "read_lines": 536,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained"
+    },
+    "gap-meataxe.xml": {
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4f8c1c0db617988f87c9cfdbb64bcaebb172463a/doc/ref/meataxe.xml",
+      "repository": "https://github.com/gap-system/gap",
+      "revision": "4f8c1c0db617988f87c9cfdbb64bcaebb172463a",
+      "path": "doc/ref/meataxe.xml",
+      "sha256": "6d35a1301781d28cd5981b90498c71b5811c0e284187c578d8c3f2219633e250",
+      "bytes": 24372,
+      "total_lines": 861,
+      "read_ranges": [
+        [
+          1,
+          82
+        ],
+        [
+          236,
+          290
+        ],
+        [
+          486,
+          533
+        ]
+      ],
+      "read_lines": 185,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained"
+    },
+    "gap-LICENSE": {
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4f8c1c0db617988f87c9cfdbb64bcaebb172463a/LICENSE",
+      "repository": "https://github.com/gap-system/gap",
+      "revision": "4f8c1c0db617988f87c9cfdbb64bcaebb172463a",
+      "path": "LICENSE",
+      "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6",
+      "bytes": 17984,
+      "total_lines": 338,
+      "read_ranges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "read_lines": 28,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained"
+    },
+    "gap-COPYRIGHT": {
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4f8c1c0db617988f87c9cfdbb64bcaebb172463a/COPYRIGHT",
+      "repository": "https://github.com/gap-system/gap",
+      "revision": "4f8c1c0db617988f87c9cfdbb64bcaebb172463a",
+      "path": "COPYRIGHT",
+      "sha256": "0a32b5dac95cd20a7635ba8f5ffbf8503c737010f2606ff24b51706ca8a2589b",
+      "bytes": 2949,
+      "total_lines": 149,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "read_lines": 18,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained"
+    },
+    "sage-algebra.py": {
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/algebras/finite_dimensional_algebras/finite_dimensional_algebra.py",
+      "repository": "https://github.com/sagemath/sage",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "src/sage/algebras/finite_dimensional_algebras/finite_dimensional_algebra.py",
+      "sha256": "576692aa127e10c58ee5a3f31447ee086cc652eb65685b0e6ce6c68b2e306e9e",
+      "bytes": 40264,
+      "total_lines": 1031,
+      "read_ranges": [
+        [
+          1,
+          105
+        ],
+        [
+          137,
+          232
+        ],
+        [
+          880,
+          1031
+        ]
+      ],
+      "read_lines": 353,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained"
+    },
+    "sage-COPYING.txt": {
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/COPYING.txt",
+      "repository": "https://github.com/sagemath/sage",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "COPYING.txt",
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "bytes": 61362,
+      "total_lines": 1285,
+      "read_ranges": [
+        [
+          1,
+          42
+        ]
+      ],
+      "read_lines": 42,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL-2.0-or-later file notice;corresponding full copyright/license retained",
+      "reuse_from": "data/provenance/demand/factor-interfaces-20261021.json.gz;verified exact COPYing bytes reused,not downloaded"
+    }
+  },
+  "original_usage": {
+    "url": "https://github.com/gap-system/gap/issues/6281",
+    "title": "Meataxe performance for reducible modules is often quite bad",
+    "opened": "2026-03-24",
+    "selected_locator": "Original author opening body and 2026-03-27 follow-up;rendered lines151-230 read",
+    "checked_at": "2026-10-21T00:47:11.956800+00:00",
+    "evidence_type": "Original public author observations,not local reproduction",
+    "full_page_read": false,
+    "raw_content_retained": false,
+    "version_limitation": "Mutable issue;selected author dates preserved,no immutable body digest available",
+    "assessment": "The original GAP issue6281 reports redundant homomorphism equations and endomorphism-space materialization costs. Its GL56(GF25) direct-sum example has dimension112,nonprime field and characteristic5,so it fails the candidate odd-prime dimension/prime-field/large-characteristic gate;its dimension300 GF2 example also fails. Later author comments report partial fixes. Historical timings are not current pinned-version/local measurements."
+  },
+  "decisions": [
+    "GAP accepts generating action matrices on row vectors,not a supplied concrete basis of a certified full-parabolic algebra. Indecomposition returns bases plus induced actions for every indecomposable direct summand;one arbitrary action-algebra rank-one idempotent does not implement this contract.",
+    "The relevant GAP algebra for splitting is End(M),whose members intertwine every action generator. SmalldimHomomorphismsModules constructs g1*X-X*g2=0 and computes a nullspace. BasisModuleEndomorphisms caches Hom(M,M). An idempotent in End(M) has invariant image and kernel,but membership in the action algebra alone is insufficient. No supplied full-parabolic guarantee/flag/conjugator was found in the selected interface scopes.",
+    "Current pinned GAP SMTX_AddEqns already inserts rows into a MutableBasis. SpinHom still builds and solves homomorphism constraints. ProperModuleDecomp samples endomorphisms and calls Factors on an order polynomial in the selected branch;FittingSplitModule squares a singular nonnilpotent endomorphism until rank stabilizes and returns image/kernel. These are actual selected source hooks,not measurements or a proof every request uses randomness/factoring.",
+    "Sage input is an abstract multiplication table encoded by right-regular action matrices of size equal to the algebra dimension,not a concrete full-parabolic subalgebra in a desired representation. primary_decomposition explicitly requires unitary,commutative,associative input and returns quotient maps to primary factors. It factors characteristic polynomials and refines kernels. A rank-one noncentral operator certificate cannot replace these quotient maps;assumption flags are not an independent promise certificate.",
+    "For an actually supplied invariant block flag/conjugator,old coordinate projection then conjugation is already deterministic and needs no polynomial-factoring oracle. It must receive the same available structure as the proposed adapter. Without that structure,centralizer linear algebra alone does not solve general indecomposition. No claimed universal old deterministic complexity bound or verified novel trace-method speedup follows from this audit.",
+    "The original GAP issue6281 reports redundant homomorphism equations and endomorphism-space materialization costs. Its GL56(GF25) direct-sum example has dimension112,nonprime field and characteristic5,so it fails the candidate odd-prime dimension/prime-field/large-characteristic gate;its dimension300 GF2 example also fails. Later author comments report partial fixes. Historical timings are not current pinned-version/local measurements.",
+    "Neither selected interface nor the issue establishes an actual resource-admitted request for the candidate operator witness with certified FULL parabolic input. Lower numerical implementation priority and retain conditional candidate;no new candidate,initial checked card,validated hypothesis or numerical run."
+  ],
+  "archive": {
+    "path": "data/provenance/demand/matrix-interfaces-20261021.json.gz",
+    "sha256": "f11f614a34ec3c76f2bb61add91a052f85258e893fe3bc6a79c032770016d944",
+    "uncompressed_sha256": "2648738c0a427d2ddd5b4be4521198aa9999a81b535f1ac98807e9081b9cce7d",
+    "bytes": 85004,
+    "members": 7,
+    "roundtrip": true
+  },
+  "remaining": [
+    "No actual eligible consumer,certified input closure or matched-cost baseline execution.",
+    "Selected implementation scopes only,not a GAP/Sage proof/dependency audit or benchmark.",
+    "Complete mathematical lineage,real human review and different-provider review remain missing."
+  ],
+  "new_numerical_run": false
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+    "payload": "raw.json",
+    "before_bytes": 77026,
+    "after_bytes": 5303,
+    "roundtrip_sha256_verified": true
+  },
+  {
+    "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+    "payload": "summary.json",
+    "before_bytes": 786,
+    "after_bytes": 388,
+    "roundtrip_sha256_verified": true
+  },
+  {
+    "run_id": "EXP-128-001-adf42abc31aca23e",
+    "payload": "raw.json",
+    "before_bytes": 229405,
+    "after_bytes": 6724,
+    "roundtrip_sha256_verified": true
+  },
+  {
+    "run_id": "EXP-128-001-adf42abc31aca23e",
+    "payload": "summary.json",
+    "before_bytes": 651,
+    "after_bytes": 327,
+    "roundtrip_sha256_verified": true
+  },
+  {
+    "run_id": "EXP-130-001-eadb2e7b3a00d556",
+    "payload": "raw.json",
+    "before_bytes": 5368,
+    "after_bytes": 1648,
+    "roundtrip_sha256_verified": true
+  },
+  {
+    "run_id": "EXP-130-001-eadb2e7b3a00d556",
+    "payload": "summary.json",
+    "before_bytes": 549,
+    "after_bytes": 383,
+    "roundtrip_sha256_verified": true
+  }
+]

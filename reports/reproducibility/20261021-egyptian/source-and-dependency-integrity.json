@@ -1,0 +1,125 @@
+{
+  "recorded_at": "2026-10-21T04:18:37.884722+00:00",
+  "old_canonical_records_byte_unchanged": 3133,
+  "all_old_explicit_edges_byte_unchanged": true,
+  "new_canonical_records": 70,
+  "new_explicit_edges": 144,
+  "full_nodes": 5488,
+  "full_edges": 13917,
+  "canonical_citations": 5121,
+  "natural_TeX_files_verified": 10,
+  "natural_TeX_lines": 2413,
+  "transitive_input_closure_verified": true,
+  "additional_bibliography_lines": 249,
+  "new_named_bindings": 19,
+  "total_named_source_draft_bindings": 999,
+  "total_manual_unlabelled": 2,
+  "source_contracts": 22,
+  "formal_index_files": 348,
+  "formal_index_declarations": 2161,
+  "selected_primary_scopes": 3,
+  "actual_primary_formula_pages_visually_checked": 2,
+  "local_Lean_or_Comparator": false,
+  "alternative_supply_routes_checked": [
+    {
+      "case": "natural_supply_only",
+      "changed": [
+        "PART-025-NATURAL-PRIME-SUPPLY"
+      ],
+      "marked_length_requires_review": false,
+      "prescribed_requires_review": false,
+      "main_not_affected": true,
+      "total_affected": 1
+    },
+    {
+      "case": "formal_supply_only",
+      "changed": [
+        "PART-025-FORMAL-COMPOSITE-SUPPLY"
+      ],
+      "marked_length_requires_review": false,
+      "prescribed_requires_review": false,
+      "main_not_affected": true,
+      "total_affected": 1
+    },
+    {
+      "case": "natural_threeprime_input",
+      "changed": [
+        "LIT-025-22545F52F7"
+      ],
+      "marked_length_requires_review": false,
+      "prescribed_requires_review": false,
+      "main_not_affected": true,
+      "total_affected": 3
+    },
+    {
+      "case": "both_supply_routes",
+      "changed": [
+        "PART-025-NATURAL-PRIME-SUPPLY",
+        "PART-025-FORMAL-COMPOSITE-SUPPLY"
+      ],
+      "marked_length_requires_review": true,
+      "prescribed_requires_review": true,
+      "main_not_affected": true,
+      "total_affected": 5
+    },
+    {
+      "case": "shared_grouping",
+      "changed": [
+        "CLM-025-LEM-MARKED-GROUPING"
+      ],
+      "marked_length_requires_review": true,
+      "prescribed_requires_review": true,
+      "main_not_affected": true,
+      "total_affected": 5
+    },
+    {
+      "case": "direct_marked_claim",
+      "changed": [
+        "CLM-025-PROP-MARKED-LENGTH"
+      ],
+      "marked_length_requires_review": true,
+      "prescribed_requires_review": true,
+      "main_not_affected": true,
+      "total_affected": 3
+    }
+  ],
+  "main_and_count_independent_of_quantitative_marked_construction": true,
+  "natural_specific_K_intermediate_not_graded_by_final_formal_endpoint": true,
+  "application_gates_not_theorem_premises": true,
+  "crossfamily_context_not_theorem_premise": true,
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "new_candidate": false,
+  "new_application_run": false,
+  "actual_replays": [
+    "221",
+    "325"
+  ],
+  "all13archive_integrity": true,
+  "precanonical_count_assertion_failure_preserved": true,
+  "metrics": {
+    "nodes": 5488,
+    "research_nodes": 3200,
+    "edges": 13917,
+    "citations_checked": 5113,
+    "candidate_connections": 35,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 44,
+    "source_decomposition_drafts": 38,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "curate_f372_interfaces.py": {
+    "path": "reports/reproducibility/20261021-elasticity-interfaces/curate_f372_interfaces.py.gz",
+    "gzip_sha256": "06dc630a09549344809e69120f21c8b8bdd1caba69fc45cab5f612254416bb7b",
+    "decompressed_sha256": "26403c7ee45fba818fd2403aa0d4b9b3d59241e95156439407fb8b0bfbfebad2",
+    "bytes": 17403
+  },
+  "quality_f372_interfaces.py": {
+    "path": "reports/reproducibility/20261021-elasticity-interfaces/quality_f372_interfaces.py.gz",
+    "gzip_sha256": "65fce8e5841627d67e195cd843a0f5d50c754c74b119924e5795e8ed3b867123",
+    "decompressed_sha256": "f11c014676e712b6e2deea5bb594952283d9a0e8877d4499e040b390e1e9b0a0",
+    "bytes": 2913
+  },
+  "finish_f372_interfaces.py": {
+    "path": "reports/reproducibility/20261021-elasticity-interfaces/finish_f372_interfaces.py.gz",
+    "gzip_sha256": "ec2e731f516d1862044d9828b068f21e5bb9f9accf9d7e862a29b09205651d75",
+    "decompressed_sha256": "6ebb9e8ea599209b4e6b59fc1a429d54603ebf18636dbf61f875b9cf55d01c19",
+    "bytes": 12101
+  },
+  "wp050-sources.json": {
+    "path": "reports/reproducibility/20261021-elasticity-interfaces/source-download-map.json.gz",
+    "gzip_sha256": "c1112e288dac1dcc5cbef8872a05f48235d5a8a80a33bea4a4f3dc9ea94356af",
+    "decompressed_sha256": "df3c9b5d943bf202bd9ff013b33cec7214a3bbc14b43e0e7c2616419e0030dc2",
+    "bytes": 1662
+  }
+}

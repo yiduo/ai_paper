@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-20T14:19:51.325769+00:00",
+  "core_command": "python3 scripts/check.py",
+  "exit_code": 0,
+  "tests": 27,
+  "gzip_JSON_GraphML_counts_agree": true,
+  "nodes": 1990,
+  "edges": 4338,
+  "candidate_connections": 11,
+  "externally_checked_cards": 7,
+  "effective_leads": 4,
+  "pending_report_wording_checked": 4,
+  "new_experiments": 0
+}

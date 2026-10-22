@@ -1,0 +1,60 @@
+{
+  "recorded_at": "2026-10-21T01:09:21.171572+00:00",
+  "helpers": 7,
+  "helper_gzip_bytes": 30648,
+  "helper_gzip_sha256": "8fc5d779d9612539f29aad5578e97871286de5d8f4de3fa49e56b8ebb0688175",
+  "helper_uncompressed_sha256": "a8d2dcd973968dae5d0c45b88226ea0b8e83e200ddba02e05385e1e93b853aa8",
+  "helper_roundtrip": true,
+  "formal_metadata_gzip_bytes": 27087,
+  "external_raw_downloads": false,
+  "third_party_fulltext_redistributed": false,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-F122/repair_binding_partition.py",
+      "bytes": 1382,
+      "sha256": "ca43cfafd0989f4d44feb004ae341bff52a21b3db10026efa5d4f03a938edec8",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F122/finish_f122.py",
+      "bytes": 12584,
+      "sha256": "f579061f86d10abfd366e3890f9ebc28cb907e3269fb7e48d4ff1f31a2673cfc",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F122/link_parts_f122.py",
+      "bytes": 1746,
+      "sha256": "ae8a33f7b7906d96361b6f27a267df489e4bf2c37553fddabf77561e370d5878",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F122/integrity_f122.py",
+      "bytes": 5469,
+      "sha256": "b79d73cf54a9e0ef5ea5267abfbc970670810393fb092051911b8ba6bc12de1f",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F122/curate_f122.py",
+      "bytes": 36191,
+      "sha256": "d0b57c4eef7dcca65770c32ea14d62db1f389764b118197ae5962fc606a61129",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F122/quality_f122.py",
+      "bytes": 3005,
+      "sha256": "f8be6dcf1d08beb35abb9189f213a8bb954147b2c4e8796eca5907a75d77df18",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    },
+    {
+      "path": "/Users/smzdm/projects/ai_paper/state/in-progress/WP-062-reading.json",
+      "bytes": 19489,
+      "sha256": "cd36804a09bcacb860988302c6594c278279a70139bd622ba2c3b62cba2309f5",
+      "retained_as": "Exactownhelper/readingprogressincompressedarchive"
+    }
+  ],
+  "temporary_bytes_removed": 79866,
+  "temporary_directory_removed": true,
+  "no_installs": true,
+  "new_application_run": false,
+  "upstream_sources_removed": false
+}

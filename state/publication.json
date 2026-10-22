@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "state": "prepared",
+  "repository_url": "https://github.com/yiduo/ai_paper",
+  "public": false,
+  "remote_verified": false,
+  "verified_at": null,
+  "verified_commit": null,
+  "upstream_math_included": false,
+  "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
+  "research_phase_one_complete": false
+}

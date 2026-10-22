@@ -1,0 +1,112 @@
+{
+  "recorded_at": "2026-10-21T09:21:17.571174+00:00",
+  "registered_families": 372,
+  "actually_read": 47,
+  "unread": 325,
+  "natural_source_drafts": 41,
+  "complete_families": 0,
+  "complete_lineages": 0,
+  "source_labelled_bindings": 1037,
+  "partial_F238_labelled_bindings": 95,
+  "source_unlabelled_main": 2,
+  "subjects": [
+    {
+      "subject": "Number theory",
+      "actually_read": 3,
+      "total": 31
+    },
+    {
+      "subject": "Algebraic and complex geometry",
+      "actually_read": 2,
+      "total": 36
+    },
+    {
+      "subject": "Real and complex analysis",
+      "actually_read": 2,
+      "total": 16
+    },
+    {
+      "subject": "Convex and metric geometry",
+      "actually_read": 3,
+      "total": 15
+    },
+    {
+      "subject": "Theoretical computer science",
+      "actually_read": 10,
+      "total": 40
+    },
+    {
+      "subject": "Dynamical systems and ergodic theory",
+      "actually_read": 1,
+      "total": 12
+    },
+    {
+      "subject": "Combinatorics",
+      "actually_read": 3,
+      "total": 37
+    },
+    {
+      "subject": "Algebra",
+      "actually_read": 2,
+      "total": 18
+    },
+    {
+      "subject": "Probability and statistical mechanics",
+      "actually_read": 3,
+      "total": 29
+    },
+    {
+      "subject": "Mathematical logic",
+      "actually_read": 2,
+      "total": 6
+    },
+    {
+      "subject": "Group theory",
+      "actually_read": 1,
+      "total": 14
+    },
+    {
+      "subject": "Mathematical physics",
+      "actually_read": 3,
+      "total": 25
+    },
+    {
+      "subject": "Operator algebras",
+      "actually_read": 2,
+      "total": 19
+    },
+    {
+      "subject": "Topology",
+      "actually_read": 2,
+      "total": 18
+    },
+    {
+      "subject": "Functional analysis",
+      "actually_read": 2,
+      "total": 11
+    },
+    {
+      "subject": "Differential geometry",
+      "actually_read": 2,
+      "total": 29
+    },
+    {
+      "subject": "Partial differential equations",
+      "actually_read": 4,
+      "total": 16
+    }
+  ],
+  "candidate_analogies": {
+    "near": 29,
+    "far": 10,
+    "bold": 1
+  },
+  "candidates": 40,
+  "initial_checks": 13,
+  "limited_support": 5,
+  "adverse_hypotheses": 8,
+  "human_grading": 0,
+  "pilots": 0,
+  "latest_retrospective": "030",
+  "next_decision": "Bounded F332 full-family acceptance closure audit before another new draft;F153 source inventory reserved as viable low-coverage alternative,not readcredit"
+}

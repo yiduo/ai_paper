@@ -1,0 +1,20 @@
+{
+  "curate_f119.py": {
+    "path": "reports/reproducibility/20261021-binary-information/curate_f119.py.gz",
+    "gzip_sha256": "f26b6cad99890ee699909af83eff3ffe52a27679dce499532062ce5bc9cbb842",
+    "decompressed_sha256": "d4cb8a42c5ab06ff2d2d2b089fded4b7448597b4e8d2077c8ea0020d2c07d208",
+    "bytes": 41871
+  },
+  "quality_f119.py": {
+    "path": "reports/reproducibility/20261021-binary-information/quality_f119.py.gz",
+    "gzip_sha256": "5638f143bfff804496520f848a955dbd383a765299664387a889c42bec7f8cad",
+    "decompressed_sha256": "590426a3c26f8718b2d402c657337ee69e7f2e86084d783302ea7c6b45800e56",
+    "bytes": 2906
+  },
+  "finish_f119.py": {
+    "path": "reports/reproducibility/20261021-binary-information/finish_f119.py.gz",
+    "gzip_sha256": "08c019720f3157263ba3f7fc4dbd8b318dbcded03b2eb83a0e3821eb1b2800ce",
+    "decompressed_sha256": "8ff909ba1941b064497cd239b00c57c10c6f069cdc632ffca1567ce486ac415d",
+    "bytes": 10886
+  }
+}

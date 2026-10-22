@@ -1,0 +1,65 @@
+{
+  "generation_id": "GEN-20261021-069",
+  "work_package": "WP-073",
+  "recorded_at": "2026-10-21T03:21:21.613180+00:00",
+  "project_base_commit": "20bc5f8",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "kind": "Knowledge graph software semantics, not mathematical/application experiment",
+  "declared_route_field": "alternative_proof_route_ids",
+  "ordinary_dependencies": [
+    "depends_on",
+    "uses",
+    "derived_from",
+    "cites"
+  ],
+  "logic": "Least fixed point from changed nodes: ordinary mandatory dependencies propagate; owner of explicit nonempty alternative list propagates only after all declared routes are affected. Supports/background comparisons do not propagate. Directly changed owner and any ordinary mandatory premise still propagate.",
+  "assumptions": [
+    "Alternative routes are explicitly curated; implementation validates nonempty unique method IDs owned by a claim, but does not prove routes correct/independent/complete.",
+    "An unaffected route does not mean verified; affected means requires review, not theorem false.",
+    "No upgrade of mathematical credibility/completion/human/independent model status.",
+    "Multiple possible proof groups/conditional parameter scopes are not inferred; each owner currently has one explicit OR group alongside ordinary mandatory dependencies."
+  ],
+  "meaningful_regressions": [
+    "AND dependencies, direct changes, downstream closure and cycle cannot self-activate.",
+    "Malformed/duplicate/unknown/self/non-method routes rejected; empty/unknown report input rejected.",
+    "Actual F210 companion-only / chart-only / both / shared finite band / direct main changes.",
+    "Nine real graph seed cases including empty closure/F312context/F317tensor agree Python and actual Node execution of browser logic."
+  ],
+  "focused_tests_actual_passed": 4,
+  "full_core_required": 55,
+  "local_runtime": "Existing bundled Node, prepended task PATH; no installation or project-specific dependency copy",
+  "source_code": [
+    {
+      "path": "src/ai_value/graph.py",
+      "sha256": "8730585f2fd6e765ce40ab4267e2855b369bba05c7317da06550f8dce819621c"
+    },
+    {
+      "path": "src/ai_value/cli.py",
+      "sha256": "d5ffb61f33bed0d427af291a3a9c9353801a363bbe6fac96fe2b9577b47f9502"
+    },
+    {
+      "path": "src/ai_value/impact.js",
+      "sha256": "a1938b20f7fb84713e10d26d087337b5adde1eb1f1b5f2080120384d62ea5e6a"
+    },
+    {
+      "path": "src/ai_value/graph_view.html",
+      "sha256": "532c5613d49629ff661e680fd11728209e6400eb8092dfed5128dbca1fb96daa"
+    },
+    {
+      "path": "src/ai_value/knowledge.py",
+      "sha256": "d1a50c26e7672ae55befe59cca762fa3da6fec3c64d750f5293bcb604238c349"
+    },
+    {
+      "path": "tests/test_research.py",
+      "sha256": "952fdca0ddb6e17edd88fe50cceef713b2f67c89d2c99c5da027a67b1806336a"
+    }
+  ],
+  "old_source_code_archive": "data/graph/history/GEN-20261021-069-source-code-before.json.gz",
+  "no_new_candidate": true,
+  "no_application_initial": true,
+  "no_numerical_hypothesis": true,
+  "remaining": [
+    "UI smoke/full core/export/clean-copy and global retro026 required before package completion.",
+    "Graph routing trusts explicit curated route declarations; not an automated theorem prover or full parameter-aware logic."
+  ]
+}

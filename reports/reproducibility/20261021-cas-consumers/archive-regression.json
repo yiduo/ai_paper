@@ -1,0 +1,151 @@
+{
+  "recorded_at": "2026-10-21T02:39:00.609823+00:00",
+  "archive_count": 13,
+  "archives": [
+    {
+      "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+      "output_members": 4,
+      "input_members": 18,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+      "output_members": 4,
+      "input_members": 15,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-076-002-1f8537b7fd40d564",
+      "output_members": 4,
+      "input_members": 22,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+      "output_members": 5,
+      "input_members": 9,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-119-001-e9d098be0b1dda8f",
+      "output_members": 4,
+      "input_members": 24,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-128-001-adf42abc31aca23e",
+      "output_members": 5,
+      "input_members": 9,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-130-001-eadb2e7b3a00d556",
+      "output_members": 5,
+      "input_members": 9,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-200-001-a8300854205212bf",
+      "output_members": 4,
+      "input_members": 18,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-221-001-be34f84b97b2e9a9",
+      "output_members": 4,
+      "input_members": 19,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+      "output_members": 4,
+      "input_members": 16,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-314-001-ce8cf18c32275b81",
+      "output_members": 4,
+      "input_members": 20,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "output_members": 4,
+      "input_members": 21,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    },
+    {
+      "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+      "output_members": 4,
+      "input_members": 13,
+      "gzip_payloads": [
+        "raw.json.gz",
+        "summary.json.gz"
+      ],
+      "outputs_sha256_valid": true,
+      "inputs_decompressed_sha256_valid": true
+    }
+  ],
+  "new_hypotheses": 0,
+  "scope": "Integrity of all frozen archives;actual200/076 replay receipts separate,not new application runs"
+}

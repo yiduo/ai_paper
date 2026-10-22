@@ -1,0 +1,19 @@
+{
+  "run_id": "EXP-076-002-1f8537b7fd40d564",
+  "preregistration_commit": "da0b9ec",
+  "implementation_commit": "93b36be",
+  "committed_spec_sha256": "003004270027d35fbcc48624caececedbdc8f0657166ca06fd687b30f1cb8729",
+  "archived_original_spec_matches_commit": true,
+  "archived_implementation_matches_commit": true,
+  "raw": {
+    "compressed_bytes": 94694,
+    "uncompressed_bytes": 1030278
+  },
+  "snapshot": {
+    "compressed_bytes": 51225,
+    "source_files": 22,
+    "all_source_sha256_verified": true
+  },
+  "no_plaintext_numerical_payloads": true,
+  "new_run_replay_receipt": "replay-new.json"
+}

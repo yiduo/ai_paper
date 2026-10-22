@@ -1,0 +1,32 @@
+{
+  "curate_f366_tools.py": {
+    "path": "reports/reproducibility/20261021-segmentation-demand/curate_f366_tools.py.gz",
+    "gzip_sha256": "cddbe9ea4610c2541ae5a6944a0b97bd8ccbad940f9bee19e2020dceb615871d",
+    "decompressed_sha256": "f76050b568d5406c94abf5bded684cdb546fcb722ddf27ef02b40f32bc10c8df",
+    "bytes": 16386
+  },
+  "repair_segmentation_scope.py": {
+    "path": "reports/reproducibility/20261021-segmentation-demand/repair_segmentation_scope.py.gz",
+    "gzip_sha256": "9b3b1c4afe712325186f621c807e812f8e2fbd39901581c28a545b6ce2ad16d4",
+    "decompressed_sha256": "de6eaef384acb78cc9fbe9a67a4476cb2f28459727b547ae425145d053b0a232",
+    "bytes": 2993
+  },
+  "verify_cleanup_f366_tools.py": {
+    "path": "reports/reproducibility/20261021-segmentation-demand/verify_cleanup_f366_tools.py.gz",
+    "gzip_sha256": "24edb4cf7c6d8b07fe4496225ffbc072c72f6465c500d274ab654c07e300aea4",
+    "decompressed_sha256": "fff3b0f46d4613be69693eb34e4cde39ce2821ca7f39643bac5b3f8c9007f19e",
+    "bytes": 1950
+  },
+  "quality_f366_tools.py": {
+    "path": "reports/reproducibility/20261021-segmentation-demand/quality_f366_tools.py.gz",
+    "gzip_sha256": "7c0532d93c57fecdf3b5826e5ae32669db35c9eeecc0cdafe384355bfac7fb95",
+    "decompressed_sha256": "0773cae467ac941d3877d09ee09951d60ae1307eb1743b95db7e5e179794589d",
+    "bytes": 2913
+  },
+  "finish_f366_tools.py": {
+    "path": "reports/reproducibility/20261021-segmentation-demand/finish_f366_tools.py.gz",
+    "gzip_sha256": "6d69f67e57dab89084d03edc052749b6a04ecce73e9db1d5d58b66c3c8c21ba3",
+    "decompressed_sha256": "a58192fe53debae3ca378c546307de899eb68e040b076ac1adfb8d637e7534e9",
+    "bytes": 8753
+  }
+}

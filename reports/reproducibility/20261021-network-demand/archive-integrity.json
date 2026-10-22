@@ -1,0 +1,79 @@
+{
+  "recorded_at": "2026-10-20T18:04:37.425676+00:00",
+  "archives": [
+    {
+      "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 18
+    },
+    {
+      "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 15
+    },
+    {
+      "run_id": "EXP-076-002-1f8537b7fd40d564",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 22
+    },
+    {
+      "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+      "outputs": 5,
+      "decompressed": 2,
+      "archived_sources": 9
+    },
+    {
+      "run_id": "EXP-128-001-adf42abc31aca23e",
+      "outputs": 5,
+      "decompressed": 2,
+      "archived_sources": 9
+    },
+    {
+      "run_id": "EXP-130-001-eadb2e7b3a00d556",
+      "outputs": 5,
+      "decompressed": 2,
+      "archived_sources": 9
+    },
+    {
+      "run_id": "EXP-200-001-a8300854205212bf",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 18
+    },
+    {
+      "run_id": "EXP-221-001-be34f84b97b2e9a9",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 19
+    },
+    {
+      "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 16
+    },
+    {
+      "run_id": "EXP-314-001-ce8cf18c32275b81",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 20
+    },
+    {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 21
+    },
+    {
+      "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+      "outputs": 4,
+      "decompressed": 2,
+      "archived_sources": 13
+    }
+  ],
+  "all_passed": true,
+  "scope": "All12existingnumericalarchives:compressedoutputbytes,decompressedraw/summary,andallsnapshotinputhashes. Notnewhypotheses or newrunIDs."
+}

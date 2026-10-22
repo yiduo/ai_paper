@@ -1,0 +1,8 @@
+{
+  "corrected_node_id": "LIT-089-78E3201550",
+  "old_version_archive": "data/graph/history/GEN-20261021-052-source-url-fix-before.json.gz",
+  "problem": "audit_graph_provenance expected optional external sha256 absent or string, null caused TypeError after core/graph/report had passed.",
+  "fix": "Omitted absent digest field; actual originalwebPDF scope retained. No validation code weakened or hash fabricated.",
+  "failed_log": "check-first-null-external-hash.log",
+  "data_or_theorem_scope_changed": false
+}

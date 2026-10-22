@@ -1,0 +1,343 @@
+{
+  "family_id": "F-231",
+  "work_package": "WP-082",
+  "generation_id": "GEN-20261021-078",
+  "recorded_at": "2026-10-21T06:30:46.401056+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "2b060ed",
+  "primary_works": [
+    {
+      "key": "NamSlyZhang2022",
+      "node": "LIT-231-5B2EA167BD",
+      "stem": "nsz",
+      "version": "2012.09484v2",
+      "date": "2022-01-22",
+      "doi": "10.1007/s00220-021-04260-2",
+      "scopes": "Theorem1; Section1.1 broadcast law; Section2.1-2.2 equations2.2-2.6,Lemma2.1,Propositions2.2-2.3 and their use in the proof of Theorem1",
+      "read_ranges": [
+        [
+          107,
+          115
+        ],
+        [
+          124,
+          149
+        ],
+        [
+          160,
+          260
+        ]
+      ],
+      "unread": "Sections2.3 onward detailed coupling/covariance proofs and appendices not audited;constants not numerically resolved",
+      "url": "https://arxiv.org/html/2012.09484v2",
+      "retrieved_html": {
+        "bytes": 1466532,
+        "sha256": "8da5757df43e4ba97bb233de620f4d911416f20023bfeb099264773c2fc706b0",
+        "retained": false,
+        "retention_policy": "temporary primary full text will be removed;hash observation is not a locally pinned source artifact"
+      },
+      "rendered_line_basis": "Own HTMLParser:math alttext replaces MathML children;nonempty text lines numbered;read_ranges use this temporary rendering,semantic section/result labels are durable locators",
+      "journal_version_equivalence": "Bibliographic association only;no journal/preprint byte or whole-text equivalence claim"
+    },
+    {
+      "key": "BorceaBrandenLiggett2009",
+      "node": "LIT-231-165AF653E4",
+      "stem": "bbl",
+      "version": "0707.2340v2",
+      "date": "2008-07-27",
+      "doi": "10.1090/S0894-0347-08-00618-8",
+      "scopes": "Section2.1(iv);Definitions2.9-2.13;Proposition3.1(2)-(3),3.2,3.5 with proof;Theorems4.1-4.2;Propositions4.3-4.4 and Theorem4.5/Corollary4.7 proof interface for homogenization",
+      "read_ranges": [
+        [
+          658,
+          744
+        ],
+        [
+          956,
+          1004
+        ],
+        [
+          1153,
+          1207
+        ],
+        [
+          1383,
+          1443
+        ],
+        [
+          1480,
+          1554
+        ]
+      ],
+      "unread": "Original proofs cited by Proposition3.1/Garding/Grace-Walsh-Szego not recursively read;selected interface,not whole paper or complete historical proof",
+      "url": "https://arxiv.org/html/0707.2340v2",
+      "retrieved_html": {
+        "bytes": 1203181,
+        "sha256": "ab1e6eebe1901bc9c3d24b02a7674586b4d1fc9173b35803928feae145cf239e",
+        "retained": false,
+        "retention_policy": "temporary primary full text will be removed;hash observation is not a locally pinned source artifact"
+      },
+      "rendered_line_basis": "Own HTMLParser:math alttext replaces MathML children;nonempty text lines numbered;read_ranges use this temporary rendering,semantic section/result labels are durable locators",
+      "journal_version_equivalence": "Bibliographic association only;no journal/preprint byte or whole-text equivalence claim"
+    },
+    {
+      "key": "LyonsThom2016",
+      "node": "LIT-231-28EDF9A571",
+      "stem": "lt",
+      "version": "1402.0969v2",
+      "date": "2014-05-19",
+      "doi": "10.1017/etds.2014.70",
+      "scopes": "Section1 factor/isomorphism definitions;Section3 left action and R(Gamma)/R(Gamma,S);Theorem5.1 statement;Section7 Theorem7.3/Corollary7.4/Questions7.5-7.7 and corollary argument",
+      "read_ranges": [
+        [
+          96,
+          129
+        ],
+        [
+          217,
+          235
+        ],
+        [
+          483,
+          525
+        ],
+        [
+          853,
+          861
+        ],
+        [
+          1140,
+          1249
+        ]
+      ],
+      "unread": "Sofic coupling construction/operator approximations/Section8 URG extension not fully audited;v2 submitted19May2014,titlepage15May2014;published2016/online2014 version not byte-compared",
+      "url": "https://arxiv.org/html/1402.0969v2",
+      "retrieved_html": {
+        "bytes": 950259,
+        "sha256": "2fb40ee246f42b8cf0b2a6f0a1f6030e45ef5190d72b3e7957123e58bd8eb530",
+        "retained": false,
+        "retention_policy": "temporary primary full text will be removed;hash observation is not a locally pinned source artifact"
+      },
+      "rendered_line_basis": "Own HTMLParser:math alttext replaces MathML children;nonempty text lines numbered;read_ranges use this temporary rendering,semantic section/result labels are durable locators",
+      "journal_version_equivalence": "Bibliographic association only;no journal/preprint byte or whole-text equivalence claim"
+    }
+  ],
+  "scope_records": [
+    {
+      "id": "HIST-231-NSZ-ISING-FACTOR",
+      "kind": "claim",
+      "title": "旧自由Ising FIID的参数域",
+      "work_key": "NamSlyZhang2022",
+      "locator": "Theorem1;Section1.1",
+      "contract": {
+        "input": "Infinite d-regular tree,zero-field free ferromagnetic Ising law,beta>=0",
+        "output": "Aut(tree)-equivariant factor of IID",
+        "conditions": [
+          "d>=d0,absolute constants c,d0>0",
+          "tanh(beta)<=c/sqrt(d-1)"
+        ],
+        "cannot_transfer": "Not all beta,all graphs,arbitrary Gibbs boundary law,finite coding radius or numerical constants"
+      }
+    },
+    {
+      "id": "HIST-231-NSZ-POSTERIOR",
+      "kind": "method",
+      "title": "旧后验均值驱动的有限球SDE",
+      "work_key": "NamSlyZhang2022",
+      "locator": "Section2.2 equations2.3-2.4,Lemma2.1",
+      "contract": {
+        "input": "Finite rooted ball and independent Brownian paths",
+        "output": "Strong SDE solution with drift external-field Ising mean;law equals t*tau+B",
+        "conditions": [
+          "Free zero-field tree marginal;spins +/-1",
+          "Finite covariance derivatives coordinatewise bounded1"
+        ],
+        "cannot_transfer": "Coordinatewise Lipschitz1 is not an absolute row bound uniform in volume;binary F231 tilt includes -t/2 while spin-square term here cancels"
+      }
+    },
+    {
+      "id": "HIST-231-NSZ-ROOT-LIMIT",
+      "kind": "method",
+      "title": "有限球均方比较与换根恢复",
+      "work_key": "NamSlyZhang2022",
+      "locator": "Propositions2.2-2.3;proof of Theorem1 inSection2.2",
+      "contract": {
+        "input": "Same Brownian drivers in growing balls and neighboring roots",
+        "output": "Almost-sure rational-time limits,dyadic-time sign recovery and root independence",
+        "conditions": [
+          "Specified high-degree/temperature regime",
+          "L2 differences <=Cd*exp(Cd*t)*alpha^(R-dist-3)*(d-1)^dist;neighbor-root exponent -4;0<alpha<1"
+        ],
+        "cannot_transfer": "Cd,alpha are existence parameters;growth with time precludes importing an automatic finite joint query budget. Proof read here establishes a.s.root independence,not a selected all-input default audit"
+      }
+    },
+    {
+      "id": "HIST-231-BBL-FIELD-CLOSURE",
+      "kind": "method",
+      "title": "正外场稳定性闭包",
+      "work_key": "BorceaBrandenLiggett2009",
+      "locator": "Section2.1(iv);Proposition3.1(2)-(3)",
+      "contract": {
+        "input": "Nonzero real stable probability generating polynomial and strictly positive field factors",
+        "output": "Normalized scaled generating polynomial remains stable",
+        "conditions": [
+          "g(a)>0 for probability normalization",
+          "Real specialization/differentiation may give zero;positive normalization avoids invalid zero law"
+        ],
+        "cannot_transfer": "No unqualified normalization on zero-probability conditioning or arbitrary signed coefficients"
+      }
+    },
+    {
+      "id": "HIST-231-BBL-SYMMETRIC-HOMOGENIZATION",
+      "kind": "construction",
+      "title": "对称补足坐标的稳定固定大小扩张",
+      "work_key": "BorceaBrandenLiggett2009",
+      "locator": "Definition2.12;Theorem4.2;Theorem4.5/Corollary4.7 proof interface",
+      "contract": {
+        "input": "Any finite strongly Rayleigh probability law on n coordinates",
+        "output": "Law on2n coordinates of exact size n,original marginal retained;stable generating polynomial",
+        "conditions": [
+          "Conditional dummy subset uniform of size n-|A|;coefficient 1/binomial(n,|A|)",
+          "Nonnegative coefficients support stable homogenization/polarization step"
+        ],
+        "cannot_transfer": "Original law need not homogeneous/full-support;homogenizing an arbitrary negatively correlated law does not acquire stability"
+      }
+    },
+    {
+      "id": "HIST-231-BBL-RAYLEIGH",
+      "kind": "claim",
+      "title": "多仿射实稳定性的Rayleigh不等式",
+      "work_key": "BorceaBrandenLiggett2009",
+      "locator": "Theorem4.1",
+      "contract": {
+        "input": "Real multi-affine stable polynomial",
+        "output": "Derivative Rayleigh inequality for every real vector,thus nonpositive distinct-coordinate covariance at1",
+        "conditions": [
+          "All-real inequality characterizes stability in specified polynomial class"
+        ],
+        "cannot_transfer": "Pairwise covariance sign at one field does not certify the all-field strong Rayleigh input"
+      }
+    },
+    {
+      "id": "HIST-231-BBL-FINITE-DPP",
+      "kind": "claim",
+      "title": "有限Hermitian正收缩DPP稳定性",
+      "work_key": "BorceaBrandenLiggett2009",
+      "locator": "Proposition3.5 proof;Proposition3.2;Proposition3.1(3)",
+      "contract": {
+        "input": "Finite determinantal probability measure with complex Hermitian positive contraction kernel 0<=K<=I",
+        "output": "Strongly Rayleigh generating law",
+        "conditions": [
+          "Invertible case det(I-K+KZ)=det(K)det(K^-1-I+Z)",
+          "Singular case via nonzero stable polynomial limit;projection kernels permitted"
+        ],
+        "cannot_transfer": "Entrywise positivity is not positive contraction;finite theorem alone does not establish countable DPP existence/uniqueness"
+      }
+    },
+    {
+      "id": "HIST-231-LT-SOFIC-COUPLING",
+      "kind": "claim",
+      "title": "sofic群上的不变单调耦合",
+      "work_key": "LyonsThom2016",
+      "locator": "Theorem5.1;Section3 R(Gamma),R(Gamma,S)",
+      "contract": {
+        "input": "Sofic group with finite generating set;equivariant positive contractions Q1<=Q2",
+        "output": "Invariant monotone coupling of their determinantal laws",
+        "conditions": [
+          "Regular left group action or finite-labelled Cayley edge action"
+        ],
+        "cannot_transfer": "A coupling is not an IID factor map;arbitrary graph automorphism equivariance not supplied"
+      }
+    },
+    {
+      "id": "HIST-231-LT-D-BAR",
+      "kind": "claim",
+      "title": "sofic群DPP的有限依赖d-bar逼近",
+      "work_key": "LyonsThom2016",
+      "locator": "Theorem7.3;Section7 definition of d-bar",
+      "contract": {
+        "input": "Sofic finitely generated group and equivariant positive contraction",
+        "output": "d-bar limit of finitely dependent DPP laws from finite group-ring operators",
+        "conditions": [
+          "d-bar uses invariant joinings and finite orbit section"
+        ],
+        "cannot_transfer": "A limit of finitely dependent laws does not by itself establish FIID;the paper poses the needed closure questions"
+      }
+    },
+    {
+      "id": "HIST-231-LT-AMENABLE-BERNOULLI",
+      "kind": "claim",
+      "title": "amenable群DPP的Bernoulli同构",
+      "work_key": "LyonsThom2016",
+      "locator": "Corollary7.4 and preceding argument;Section1 isomorphism definition",
+      "contract": {
+        "input": "Amenable group with finite generating set;positive contraction in R(Gamma) or R(Gamma,S)",
+        "output": "DPP action measurably isomorphic to a Bernoulli shift",
+        "conditions": [
+          "Uses amenable very-weak-Bernoulli and d-bar closure results cited in original"
+        ],
+        "cannot_transfer": "Not an all-graph rule,finite decoder,or general nonamenable Bernoulli-isomorphism conclusion. Group factor and full graph-automorphism factor are different scopes"
+      }
+    },
+    {
+      "id": "HIST-231-LT-FACTOR-QUESTION",
+      "kind": "problem",
+      "title": "旧行列式分布因子问题",
+      "work_key": "LyonsThom2016",
+      "locator": "Question7.7;Questions7.5-7.6 and following implication",
+      "contract": {
+        "input": "Determinantal measures associated to equivariant positive contractions",
+        "output": "Question whether these are factors of Bernoulli shifts",
+        "conditions": [
+          "Original sofic implication uses positive answers on finite dependence and d-bar closure"
+        ],
+        "cannot_transfer": "A recorded question is not an old theorem or an application result;F231 answers its stated regular countable-group setting,not all actions"
+      }
+    }
+  ],
+  "interface_inference": {
+    "type": "elementary interface comparison,not a new theorem or experiment",
+    "source_basis": "NamSlyZhang2022 Section1.1 zero-field broadcast transition P;F231 finite field derivative is covariance",
+    "calculation": "theta=tanh(beta);for zero-field free spins Cov(sigma_o,sigma_v)=theta^dist(o,v). In the radius-R ball the absolute root row is 1+d*theta*sum_{k=0}^{R-1}((d-1)*theta)^k. For binary X=(sigma+1)/2 divide by4. It grows without a uniform volume bound when (d-1)*theta>=1.",
+    "consequence": "In the part of the old admissible high-degree regime beyond uniqueness,the original Ising coding cannot be admitted merely by substituting its law into F231 uniform absolute response inverse. Shared posterior Brownian mechanism is not a general subsumption claim.",
+    "limit": "No assertion that every alternative representation fails;no new threshold or finite algorithm;unknown c,d0 not set numerically."
+  },
+  "selected_external_roots_before": 3,
+  "selected_external_roots_after": 6,
+  "total_external_roots": 16,
+  "remaining_original_body_scopes": [
+    "ElAlaouiMontanari2022",
+    "BurtonPemantle1993",
+    "Eldan2013",
+    "Lyons2013",
+    "FujisakiKallianpurKunita1972",
+    "Pemantle1991",
+    "Eldan2020",
+    "AngelRaySpinka2024",
+    "GhoshLiggettPemantle2017",
+    "Lyons2003"
+  ],
+  "remaining_critical_interfaces": [
+    "Lyons2003 Section8 countable DPP existence;finite BBL theorem does not replace it",
+    "FujisakiKallianpurKunita1972 Lemma2.2 classical filtering attribution;new F231 joint argument is self-contained but selected attribution original still unread",
+    "BurtonPemantle1993 transfer-current historical interface;BLPS selected scopes read,original not yet",
+    "BBL Garding/Grace-Walsh-Szego/stability closure original dependencies summarized rather than recursively read",
+    "Remaining context originals and internalF236 body still unread;not all context references are mathematical prerequisites"
+  ],
+  "shared_BBL_review": {
+    "old_node": "LIT-238-REVEALED-87930BF1BA",
+    "new_node": "LIT-231-165AF653E4",
+    "same_observed_arxiv_version": "0707.2340v2",
+    "old_selected_scope": "CNA+ and partial symmetrization",
+    "new_selected_scope": "Positive-field closure;symmetric homogenization;Rayleigh inequality;finite positive-contraction DPP",
+    "identity_decision": "Same selected arXiv identifier/title/authors;retain separate family-specific scope records;DOI/journal version not automatically same bytes or inherited review"
+  },
+  "full_history_complete": false,
+  "complete_family": false,
+  "human_audit": null,
+  "second_provider": null,
+  "new_candidate": false,
+  "new_application_run": false,
+  "numerical_data_generated": false,
+  "claim_scope": "Selected original statements and proof interfaces only;not proof correctness certification or full source-body reading"
+}

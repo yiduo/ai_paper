@@ -1,0 +1,41 @@
+{
+  "recorded_at": "2026-10-21T04:10:38.211396+00:00",
+  "files": [
+    {
+      "name": "erdos1950.pdf",
+      "bytes": 2193549,
+      "sha256": "c5e5a4b45eda12a64b5716d49cf69b4b0f3385270b1ac3948ffc0afa95d87a90"
+    },
+    {
+      "name": "tenenbaum-yokota1990.pdf",
+      "bytes": 270803,
+      "sha256": "482326325fa35ec2fdfc2485436e2df9d9ede027971854aabe90b265469a8bf4"
+    },
+    {
+      "name": "erdos1950-p195.png",
+      "bytes": 1180843,
+      "sha256": "8e437379f2df724ffb608feb6bbc64ae28ef739994f96869c608aa8d34a70036"
+    },
+    {
+      "name": "ty1990-p151.png",
+      "bytes": 108421,
+      "sha256": "70543139fdd10bf7cea17cf3d007ef13fcae8394583aeeac2535cc1922c447c5"
+    }
+  ],
+  "source_urls": [
+    "https://users.renyi.hu/~p_erdos/1950-02.pdf",
+    "https://tenenb.perso.math.cnrs.fr/PPP/Egyptian.pdf"
+  ],
+  "commands": [
+    "curl --noproxy * -fsSL --max-time35 --max-filesize3000000 URL",
+    "pdftoppm -f4 -l4 -scale-to1700 -singlefile -png erdos1950.pdf",
+    "pdftoppm -f2 -l2 -scale-to1700 -singlefile -png tenenbaum-yokota1990.pdf",
+    "view_image actualtwoPNGpages"
+  ],
+  "actual_visual_checked": [
+    "Printed195:Theorem1 upperlogb/loglogb,doublelogconjecture,Theorem2 includesN(b-1,b)>loglogb-1;no newtheoremproofaudit.",
+    "Printed151:Theorem r<=(1+epsilon)logN/log_2N,n_r<=4N(logN)^2log_2N;log_2 hereiteratedlog."
+  ],
+  "redistribution": "No externalPDF/pagepixelsmirroredinproject. Retainselectedownnotes/URLs/actualdownloadSHA256. Temporarysource/renderbytesremovedafterreceipt;notexperimentpayload.",
+  "temporary_bytes_removed": 3753616
+}

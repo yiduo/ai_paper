@@ -1,0 +1,63 @@
+{
+  "recorded_at": "2026-10-21T07:18:22.893288+00:00",
+  "helper_gzip_bytes": 10414,
+  "helper_members": 10,
+  "helper_files": [
+    {
+      "name": "archive-integrity.log",
+      "bytes": 110,
+      "sha256": "7c07426d1b28a44da10d371429a396d63e213e84b4a16641a338f3dd107826cd"
+    },
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1364,
+      "sha256": "c7edeb2f76ce594b8551ca97f6e01559cf72091c6f62764e0223b899500960ce"
+    },
+    {
+      "name": "core.log",
+      "bytes": 10245,
+      "sha256": "680aa4b299d26d019b06df0ca4aefc0a491719b202bd0dc25828470895b2abe5"
+    },
+    {
+      "name": "export.log",
+      "bytes": 542,
+      "sha256": "3c5f3524bdefc1649849da4188f943ae2d27500086dcaf6ffbd12979355cef15"
+    },
+    {
+      "name": "finish-correction.py",
+      "bytes": 4626,
+      "sha256": "a7dcfa0b28b8b5acf52ce702685de6f0a231faf8a11dd86fcc486e1bc0d6542a"
+    },
+    {
+      "name": "fix-locator.py",
+      "bytes": 3768,
+      "sha256": "e1ce6116d922d806359bbb40e984609c65d76ac72b8aa3d4fd659f312ac2869a"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 1007,
+      "sha256": "1e8060299eb191dcdc86c54d1163057ce62f0c50f5f4b022c7dd7a034bdfcae0"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 7067,
+      "sha256": "20f88826679a126427c3440088627269399b84f125fe7f97c0312203982b46fa"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "aa96e331a248abedac1e3ddf8ec7fdba9c48f038f9a9b6c2604fd8ddca45ba15"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3008,
+      "sha256": "59b2cb42196dd45689ea605fc0c6768201ea5684237191dd346f79ffcdbfb59f"
+    }
+  ],
+  "all_member_hashes_and_roundtrips_verified": true,
+  "temporary_bytes_removed": 31820,
+  "temporary_directory_removed": true,
+  "earlier_helper_archive_retained": true,
+  "original_full_texts_redownloaded": false,
+  "new_numerical_data": false
+}

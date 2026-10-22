@@ -1,0 +1,47 @@
+{
+  "recorded_at": "2026-10-21T02:53:19.644135+00:00",
+  "protocol": {
+    "command": "python3 -B verification/verify_computations.py --check",
+    "cwd": "/Users/smzdm/projects/ai_paper/math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026",
+    "verifier_sha256": "c28468d34f66426768e5f6ba11588ac035f1c4f27728d056afe88d84fc0d2f75",
+    "frozen_before_outputs": true,
+    "expected": "Read-onlyidentity/62recordedrows/manuscripttableandnumericbounds checks;NOexecutionof2C++certificateprograms,NOnewapplicationhypothesisorcomponentcount",
+    "output": "Saveownstdout/stderrcompressedandroundtripbeforeplaintextcleanup"
+  },
+  "exit_code": 0,
+  "result": {
+    "bounds": {
+      "arithmetic_inequalities": "passed",
+      "band_predivision_bound": 9241222256689280452090995450839040,
+      "index_counts": {
+        "four_variable_level": 261072,
+        "grid": 6611697,
+        "six_variable_level": 1229120,
+        "tail_level": 1263138,
+        "three_variable_level": 67051
+      },
+      "signed_128_limit": 170141183460469231731687303715884105728
+    },
+    "certificate_programs_executed": false,
+    "mode": "check",
+    "status": "passed",
+    "totals": {
+      "band_total": 57065668,
+      "band_zero_total": 177134,
+      "base_exact_comparisons": 145435,
+      "base_exact_equalities": 9272,
+      "base_failures": 0,
+      "flag_total": 4969698,
+      "maximum_flag_tail": 27,
+      "table_rows": 62
+    }
+  },
+  "meaning": "Bundled reference-file hashes/62 rows and elementary numeric bounds verified; source C++ output streams NOT recomputed; no new application initial/hypothesis",
+  "compressed_log": {
+    "path": "reports/reproducibility/20261021-foulkes/upstream-check.log.gz",
+    "sha256": "7e83f52f8f3cf4aedee890435d40ddc5bc3bd2baaf5cbf595ba267456700b477",
+    "uncompressed_sha256": "06686e96585703d0aea8523a6eb4ddcd6d5e297e611368c515bc14eb5f9ed588",
+    "bytes": 507,
+    "roundtrip_verified": true
+  }
+}

@@ -1,0 +1,13 @@
+/math/
+/.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+/build/
+/dist/
+/.cache/
+/tmp/
+.env
+.env.*
+!.env.example
+.DS_Store

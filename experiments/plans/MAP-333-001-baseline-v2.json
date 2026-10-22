@@ -1,0 +1,59 @@
+{
+  "id": "MAP-333-001",
+  "version": 2,
+  "status": "analytic_baseline_identity_no_run_allocated",
+  "connection_id": "APP-333-01",
+  "registered_at": "2026-10-20T16:13:30.754178+00:00",
+  "input": "Synthetic smooth constant-radius planar velocity profiles V(theta),zero-mean desired first-order squared-speed modulation r(theta),strict covariance gap;no hardware dataset or actual fixed fixture yet",
+  "hypothesis": "On a future fixed set with nonzero pointwise drift,the covariance corrector reduces cycle displacement drift by at least90percent versus pointwise radial correction,while matching the requested first-order speed modulation to a certified tolerance. Compare an older structured constrained least-squares/KKT method at equal accuracy and report zero new-method increment if it already meets every requirement.",
+  "baselines": [
+    "Pointwise W=V*r/R² without mean constraint",
+    "Older constrained least-squares with low-rank/structured elimination,not only a weak dense implementation",
+    "Independent high-precision quadrature and exact finite Fourier-coefficient identities where available"
+  ],
+  "judge": "Beforeoutputs freeze actual smooth profiles,quadrature tails,outward residual/drift bounds,epsilon and conditioning strata. Check true continuous means,first-order target identity,finite-step quadratic remainder and comparison to strong old solver;sample-grid agreement alone insufficient.",
+  "success": "Frozen prediction and all correctness/conditioning tests pass;increment over old structured solver separately assessed and may be zero",
+  "failure": "Wrong normalization,nonzero mean drift,uncontrolled quadrature or nonlinear remainder,ill-conditioned covariance,resource failure or no baseline gain;retain observations",
+  "limits": "No new global metric theorem,closed-loop plant stability,nonlinear exact speed guarantee,bandwidth bound or hardware benefit. The linear moment constraint is old linear algebra;source formula alone does not imply novelty.",
+  "priority": "Low for source-specific increment: exact same-problem structured KKT identity established analytically before outputs; no known radial-drift QA allocation",
+  "resource_envelope": "No numerical application run allocated. Revisit only with a distinct representative consumer requirement/metric or a separately justified implementation comparison; freeze a new protocol before outputs.",
+  "updated_at": "2026-10-21T03:41:24.374395+00:00",
+  "prior_plan": "experiments/plans/MAP-333-001.json",
+  "audit_ledger": "data/provenance/demand/F-333-calibration-contracts.json",
+  "baseline_resolution": {
+    "type": "Same-model analytic contract/baseline review,not external application experiment or human proof audit",
+    "stationarity": "W=V*phi-lambda, avg phi=0",
+    "scalar_elimination": "phi=(r+(V-v) dot lambda)/R²",
+    "small_system": "(R²I-Sigma)lambda=avg(Vr)",
+    "parameter_match": "m=R²lambda=M^-1avg(Vr); h1=r+(V-v)dotm/R²; W=(V*h1-m)/R²",
+    "orthogonality": "For any homogeneous feasible H,avg H=0 and VdotH=c constant. Then avg(Wsource dot H)=(c*avg h1-m dot avg H)/R²=0. Hence squared norms split and source W is the same unique minimum-norm solution.",
+    "conclusion": "Under identical projected constraints/objective and admitted source assumptions, source formula equals old structured KKT Schur elimination. No source-specific mathematical or structural solver increment established. Runtime/roundoff may vary between implementations and were NOT measured."
+  },
+  "clarified_constraint": {
+    "space": "Fixed Euclidean plane P, periodic real W in L2, normalized average over2pi; smooth V,r as source component",
+    "V": "|V(theta)|=R>0 constant, mean v, Sigma=avg((V-v) tensor(V-v)), M=I-Sigma/R² positive",
+    "r": "Zero mean scalar; desired PROJECTED dot-product fluctuation, not full speed profile",
+    "constraints": [
+      "avg W=0",
+      "Pi(V dot W)=r"
+    ],
+    "objective": "minimize(1/2)avg|W|², same feasible class for both methods",
+    "conditioning": "Uniform numerical inverse needs an audited lower spectral margin kappa>0 on actual family; continuous positivity does not certify quadrature matrices"
+  },
+  "full_speed_boundary": {
+    "mean_offset": "avg(V dot Wsource)=-v dot m/R²",
+    "full_pointwise_requirement": "VdotW=r additionally requires v dot m=0 for the source solution, or a separately derived stronger constrained solve",
+    "finite_step": "|V+epsilon W|²=R²+2epsilon(r+c)+epsilon²|W|² withc=-v dot m/R²;projected first-order identity is not nonlinear exact speed",
+    "cycle": "For periodT, corrected displacement changes by T*epsilon*avgW=0;this does not make original trajectory closed if meanV!=0",
+    "stationary_input": "Original BIRDy demand from DEMAND002 has zero initial velocity; does not become eligible R>0 by this audit"
+  },
+  "analytic_example": {
+    "status": "Symbolic illustrative input,not numerical experiment,frozen benchmark,hardware data or new application initial",
+    "parameter": "0<a<1;uniform derivative control would require an a_max<1",
+    "complex_loop": "w(z)=(z+a)/(1+a*z),z=exp(i theta),V=(Rew,Imw),R=1,r=cos(theta)",
+    "series": "w=a+(1-a²)sum_{k>=1}(-a)^(k-1)z^k;uniformly convergent for eacha<1",
+    "moments": "v=(a,0),avg(w²)=a²,Sigma=(1-a²)/2 I,M=(1+a²)/2 I,avg(Vr)=((1-a²)/2,0)",
+    "solution": "m=((1-a²)/(1+a²),0);avgVdotW=-a(1-a²)/(1+a²)!=0",
+    "interpretation": "Benign M gap>=1/2, yet projected and full pointwise speed targets differ. Source and same-problem KKT coincide; weak radial baseline has nonzero correction mean. This symbolic scope witness is not an independent external check."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "recorded_at": "2026-10-20T23:29:41.700905+00:00",
+  "path": "reports/reproducibility/20261021-graph-l1/curation-helpers.json.gz",
+  "gzip_bytes": 27398,
+  "gzip_sha256": "3d5a7cf70c2708cec342fde654c9c8b4442bdb0d3e33523aa6810a5f5ac837d2",
+  "payload_sha256": "4326eb2759e4b5c7d59e37248b96cd269dabaa3b29220a387d5fc22ba7181853",
+  "members": [
+    {
+      "name": "prepare_f089.py",
+      "bytes": 12399,
+      "sha256": "4bac21b1da7896d7c22eed39d788e181d5df2378c27583bd2d7f029c7c3c84e2"
+    },
+    {
+      "name": "curate_f089.py",
+      "bytes": 31935,
+      "sha256": "8d9bf449021656e173ae049535d28cd83407d9c742c094501a3d54b0fa09d6bd"
+    },
+    {
+      "name": "fix_f089_external_source.py",
+      "bytes": 2638,
+      "sha256": "dd9fe66e53eb3b0dfcdd4980ed6039878f4aa7c1f1d2b45579ffb0f8569b55ed"
+    },
+    {
+      "name": "quality_f089.py",
+      "bytes": 2892,
+      "sha256": "3075b237c124c7e4048a90b69c1c616709e195e6fcad559f0be7f34d7d88ec08"
+    },
+    {
+      "name": "integrity_f089.py",
+      "bytes": 4424,
+      "sha256": "c5afde687d07bce4ae6d9cd566b7e4b8683f67247246a05d10db13b15047c8bc"
+    },
+    {
+      "name": "finish_f089.py",
+      "bytes": 9826,
+      "sha256": "3b3457a436d6ae5036e5b39c98a91b4f14bd70e280bb132134e18c00108ffcfe"
+    }
+  ],
+  "roundtrip": true,
+  "temporary_plaintext_removed": true,
+  "total_temporary_bytes_removed": 64114,
+  "purpose": "Evidence helpers, not an idempotent incremental command; canonical curators must not be blindly rerun."
+}

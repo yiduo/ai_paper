@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-10-20T14:59:07.764173+00:00",
+  "core_tests": 31,
+  "validation": {
+    "nodes": 2268,
+    "research_nodes": 816,
+    "edges": 5393,
+    "citations_checked": 1247,
+    "candidate_connections": 13,
+    "externally_checked_cards": 8,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 8,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "nodes": 2268,
+  "edges": 5393,
+  "full_graph_and_gzip_exports_agree": true,
+  "all_edge_endpoints_present": true,
+  "files": {
+    "index.html": {
+      "bytes": 4885583,
+      "sha256": "066809e39a3fa8f0bf2b37ff6ef0a91482a9dd873972e25edf597bae4d96cef3"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 734428,
+      "sha256": "97a18e3ecd876970b7f72007929f75d4b89d0bbfc5e652c7de42b99c8dd6633c"
+    },
+    "knowledge.json.gz": {
+      "bytes": 638191,
+      "sha256": "3b6210ceee846b38aab7796b95c9f57048a4856f917ceb902a9a6af2e09af41e"
+    }
+  },
+  "new_numerical_run": null,
+  "Lean_or_Comparator_run": false,
+  "browser_visual_check": "not repeated;no viewer code change"
+}

@@ -1,0 +1,550 @@
+{
+  "work_package": "WP-055",
+  "saved_at": "2026-10-20T23:29:29.480985+00:00",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "both_natural_manuscripts_curated_selected_formal_and_primary_scopes_checked_full_lineage_incomplete",
+  "full_natural_source_read": true,
+  "counts_incremented": true,
+  "total_tex_files": 24,
+  "total_tex_lines": 5509,
+  "files": [
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/README.md",
+      "sha256": "95df70cb2e9596fb5ce683a4b72e8e69bbde1ca654fd4005226d45c074720e45",
+      "scope": "Whole20lines actually read;selection only"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/README.md",
+      "sha256": "9ee6e846bf36d8b93bec67cb58d02ba8b3521d81e8296569c38ed7a66c54e84a",
+      "scope": "Whole20lines actually read;selection only"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/introduction.tex",
+      "sha256": "b5708dcb680dc251e950b8e6ba0b9095a540905e6ca453f45634ee48c6e36660",
+      "lines": 239,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/main.tex",
+      "sha256": "1640e94f309953e6ff4b9afd00bd3cc53875e4f6eab5836c180bf8dc77448d2e",
+      "lines": 51,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/geometry.tex",
+      "sha256": "85745fccc2f3abb7e0a9747bfa6783b59c247dc91a8901c375503797167b021d",
+      "lines": 452,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/sets.tex",
+      "sha256": "7e30e30ada45ed43c5d473934ae9afdfb416b67f7851c6e2967e2b234ddddd22",
+      "lines": 240,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/scale-setup.tex",
+      "sha256": "4e2ae8e8dd5dce9d23a4c80e8f3cadf20499c9b73a9df7f2fa304a3f476a0d09",
+      "lines": 138,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/figures/column-realization.tex",
+      "sha256": "3bc576a8cd819bda160271f502ef8faed9e649fe25dfd334f72e6d2e35c8fd15",
+      "lines": 49,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/figures/two-portals.tex",
+      "sha256": "127b971f9f2764fcce6c64894119b50c2865da0657062e5ad1c1e27df18545cd",
+      "lines": 39,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/figures/surviving-seeds.tex",
+      "sha256": "d1d4a74b35bdfcf0d0cff6c48d99e81bf5d6cde90c0365d7716a42136d95832a",
+      "lines": 67,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/references.bib",
+      "sha256": "a2f1bc751a1ff7a06ac4d62810749dd55e899621d15a5b4d3edea529043cc052",
+      "lines": 223,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/assembly.tex",
+      "sha256": "9045ecf565d45d9cd0e2f82f04eb558c8a5993e6e58538c65fe3cd76246b647a",
+      "lines": 274,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/consequences.tex",
+      "sha256": "da98426d53c59547f6d6bbeb2cd42ca747ae25581ab69db8222e364abf3ca169",
+      "lines": 75,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/interpolation.tex",
+      "sha256": "bcbc90decf9d890e6a1d6016295574974740234309fb06791771e677df4d2c99",
+      "lines": 454,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/main-packing.tex",
+      "sha256": "c6a5484fe0eefd88ac2b2279c5d6ed607dd59d5cbc143fe4f187228759b15cd5",
+      "lines": 510,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/ordered.tex",
+      "sha256": "62a293473805c0fe1c0e1115e5999f3da39e61da62ab7898f79122d0ef6b2248",
+      "lines": 406,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/secondary.tex",
+      "sha256": "10cf5cdcbae7d4f1324c5badbf6d34601127e26ea7af0730c87696e4344a3709",
+      "lines": 266,
+      "scope": "Whole actually read; single planar manuscript only; family curation still pending companion/history/formal"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/main.tex",
+      "sha256": "e18d0da66330c8de66ddace4b1dad709a3f1897e4377c8b11cede7dfbc927a97",
+      "lines": 63,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/01-introduction.tex",
+      "sha256": "fb7423a7e0bb09830db501e04c7483625ab2c886a62f377790463d73dde40118",
+      "lines": 265,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/02-cut-laws.tex",
+      "sha256": "3aa42408ff84bfe6711dc44a1a6c958ed56a514bd81fa292cebe041fe7562cb2",
+      "lines": 468,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/03-particles.tex",
+      "sha256": "2e59bdcf1eac85657e35a2baaf63987f30d7e18345c4f8689faf585ac8333d2d",
+      "lines": 279,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/04-perturbations.tex",
+      "sha256": "b9fdd1848711b251cf03c8993aa6052083aaf23ea4d80a4cb57e53b31de95a2d",
+      "lines": 219,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/05-anchors.tex",
+      "sha256": "a3f9a8661362fef63012255b1fd803f194848932548501f89d408949e7bab1d0",
+      "lines": 326,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/06-lower-comparison.tex",
+      "sha256": "5fcd596fbc50fa9a0714cdd1d718d64457d07573841d1fe297ebefc92c108d47",
+      "lines": 420,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/07-conclusion.tex",
+      "sha256": "2a71eb99622fd39623856e363eda2b4ce43cd7e460750f2b3e4c16fb050aa7c2",
+      "lines": 36,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/bibliography.tex",
+      "sha256": "b91f72820da89a455ad5eda961be8ae902eb8f7f8e8a9b5291f348577c448585",
+      "lines": 128,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    },
+    {
+      "path": "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/figures/anchor-reservations.tex",
+      "sha256": "d9a384851d8477d9b09c1d8735c45da527f51f435e5573ab034d39013ce20ce3",
+      "lines": 45,
+      "scope": "Whole actually read; fullnatural family draft pendinghistorical/formalcuration"
+    }
+  ],
+  "remaining": [
+    "20 other external root bodies and full recursive/version lineage remain unread.",
+    "Full supporting formal proof correspondence, Lean build/Comparator, human math audit and independent provider remain incomplete.",
+    "APP08901 conditional/unrun; WP056 actual consumer/baseline audit before any separate numerical protocol."
+  ],
+  "notes": [
+    "Finiteconnectedundirectedstrictlypositiveweightedgraph;targetrealL1,universalCplanar/C(k)treewidth,no effectiveC inferred.",
+    "Planarintro cuts nonnegativeweights,onallpairs versusoneface/terminalsubsets;fractionalflowcutgap requireslambda*>0andnonnegativecapacity/demand,notintegralrouting.",
+    "TwoREADMEs/planarintro1-115areselection,not32ndreadfamily/27thfull draft.",
+    "Planar column-model realization exact geometric edge metric; non-tree edge split into ascending twigs, zero metric length branches retain incidence/planeorder. Infinite tails no shortcut; shortest paths no repeated column.",
+    "Column active graph outerplanar/noK23; does not make original planar graph an ordinary outerplanar finite graph. Thinband entrance coverage atmost2portals200a, weakcell diameter10D(paths mayleavecell); padding no representative-count unionfactor.",
+    "Threshold charts on fixedLebesgue×fair-signlabelspace; common-chart symmetricdifference=max(|dh|,kappa|dP|). Verticalnesting/switchagreement globalupperinvariant, exactrebasing keepssets withfreshunusedsign, no merge old identifiers merelysameformula.",
+    "ComponentrefinementONLYfinalsystemA; activetwoendpoints+oneinactiveterminaltip certifiesdistance2 perlabel. Track membership movement atALLXpointsincltip, not evolvingcomponentcoordinatevector.",
+    "Localstepeligibility5rballs commonoldchartinBOTHsystems. ConstantsM,b,p,C0needuniformgraph/history; sparseQschedule mustpreserveeligibilityandlaterseparation, notsumindependentper-scaledistortions.",
+    "Actualnumeric R1e-8,D1e-3,g1e-14,j1e-20,eps1e-24; a1,a2 chosen through laterstrict-slope interpolation bounds, thenkappas,lambda andQ. Do not claim all constants unknown or feasible practical budgets.",
+    "Geometry/band/basepoint/admissionchosenBEFOREfresh interpolationnoise/mode; sharedBsignperoldchart distinctfromlabelsign. Finitegridmeshη0smallerallrelevantscaleratios; finitebranching mixturedoesnotestablish polynomial algorithm.",
+    "Planar all14TeX3260 plus223bibliography lines actuallyread; historical bodies stillunverified; Treewidth108bibkey pointsinternalF089companion,not catalogueF108. AFGN22 upstream mentions2023corrigendum not read.",
+    "Thin-bandinterpolation explicitdelta=E/8,a0=1e-6ζdelta,q=ζdelta/20,rho0=ζdelta/1000,Mceil15/ζ+3,N6(M+1). Portalgeometry/input fixedbeforeownnoises. Wholeballnamedatom fromdeterministiconeancestorchain Mdepth; aliasesinheritname not recreate.",
+    "Fresh-noiseanti-tie uses lateratomsown independentuniformnoise conditionalonALLothers; atmostoneunrandomizedbranch. Inputsusingcurrentnoisescannotbetreatedfixed; twononrandomizedbranchesmaytie. ComparisonboundsN²(8rho+mesh)/q, notunionoverwholegraphnodes.",
+    "Mainfrontierextension strictslope min(sC+1,inf frontier s(z)+(1−ζ)d); interpolationshift−4EA givesinactiveboundarymargin. Failedraise⇒shortnearlymaximaldescendingpath. Exactclipping+heightrebase preserveglobalsets upperbound.",
+    "Survivingseeds onlyafterbothdescendingpathsandlowterminaltipbarriertest fail; chosenwitnesspairsfixedbeforesecondarynoise. Restrictedpacking Mpack=2+ceil1600R/g, notglobaldoubling/packing orboundedoverlapofallcells.",
+    "Mpack withactualR=1e-8,g=1e-14 is1600000002. Sourcepermissiblep=2^−(2Mpack+10)=2^−3200000014. This is displayed conservative success lowerbound, not actual measured probability or impossibility claim; guaranteed blackbox finite sampling budget from thisbound impractical, do not replacewith1/2.",
+    "Componentcertificate trackactivity x,y andinactivetip only; finalrefineddistance≥2(mass−Dx−Dy−De)+ despiteothercomponentchanges. LatermovementmustcontroltipALLX, notverticesonly.",
+    "Orderedpoint-distancesupport viaarc-runningmin preservesnoncrossingswitches andtargetexactvalue; transverse t_s signeddistance∞ toboundary/crosslink image respects switchbyvanishing. Two-sidelemma requiresintrinsicdI(x,y)=d(x,y),thinband,short BOTH up/downexcursions, notnearequalvaluesalone.",
+    "Orderedchartlifetime keepss,band,arcs,labelvariablesandfixedt_s;currentregionmay shrink,u changeswithoutnewID. Incrementtrapezoids atscheduledQ>2000/R have disjoint fixed-t_s supports;Lip(u)≤68<100,not acumulativesumoverallscales.",
+    "Secondaryadmissionsuseoldfieldandentiresphere tests BEFOREfreshnoise;groupcanstraddlenarrowcomponents butonecoin/orientation/support acrossall. Domainboundariesstrictlyinactive, maxproposalsmovementnotaddovergroups.",
+    "Chartpersistencecontrolsidentifiers,notcomponentcoordinates. A ballcrossingmanyradialcellboundaries staysoldbystrictmargin, no radialboundaryunionfactor. Relevantsecondarygroupsboundedonlyby survivingseedpacking; allotherdata conditionedpriorbefore anti-tie.",
+    "SparseQ=2^m chosenafterC0,rho0,b,M;meshη0≤allfiner/coarserscaleratios. Beforetargetscale firstchartloss<1/2, latermovementMr/(Q−1). Mixmresidues andentirefiniteexecutiontreeconditionalprobabilityweights; do notpickindependentperpairoutcome.",
+    "Finalnorm bounds pb/(8m)d≤distance≤2d, C=16m/(pb). Reference subtraction makesinfinitehalfline-labelassignmentsL1; finitecuts wS≥0 fornonemptyproperS only, positiveweightsfinitebyupperbound. No efficientcut-enumeration/supportsizeclaim fromfinite2^n−2representation.",
+    "AlmostembeddablecorollaryusesLS09exactnamedAE(g,(k,w),a),1-sumonly,stochasticD andtreewidthh0 translatedbagcardinality max(h0,1)+1. Nonnegativetargetedges viaeps/cutconeclosedlimit; inputstrictlypositive. No generalhighercliquesumclosure/fullGNRS, nointegralrouting.",
+    "Treewidthk boundsBAGCARDINALITY,treewidthk−1. MainCk noexplicitdependencek,nor n/depth/edgeaspectratio. IntroactuallystatesoldminimumL1distortionapprox/FPT algorithms forpositiveRATIONALedgesyield(2+eps)Ck inFPTtime;do notblanketclaimno constructiveembeddingforthewholeF089family. NeedoriginalGTW/CohenAddad scopescheckedlater.",
+    "Nonemptyconnectedgraphtreebagsoccurrencesnotvertexsets;removeemptybags thenneighborintersectionnonempty,separatordistancealongbagpathnonincreasing. Markovgluing commonmassm>0,overlaptracesexact,zero separatorassignmentsglobalmasszero,nodivisionzero,rootindependent,fullassignmentproductbag/separatorfactors.",
+    "Gluingpreserveslocalbagmarginals,not eachfunctionglobalcontributionor commonsubmeasureglobally. Symmetricμ/complementstateinvolutionneededforCKR Markovflowbound width2^k,depthindependentC(width). Inputνcommontracedominated alongsuffix maynonsymmetric;insertingFULLtestingbagassignmentlayernecessaryforuncertaintyE=summin(two labels).",
+    "Common-submeasuretransportDμ(y,z)≥bk Eν(z|P),bk=C(2^k)^−1. ConstructprefixρconditionalonfullP plusνsuffix givescapacitydominatedadjacentmarginals,notν≤globalρ. EventaveragingrequirescommonsubmeasurepersistenceonEACHrealizationoftheevent.",
+    "Symmetricthresholdsweeps cutoff[-M,M]retainconstantassignmentsandcommonmass;tracedistance|F(u)−F(v)|. Heightgap+margintest givesuncertainty≥t;pairedf±g,gvanishinterface givesE≥2|g(z)| andpairdistance≥2|dg|.",
+    "ParticleupdateF_i,F_j→avg±g withcommonweakorderoninterface andg|P=0 preservesENTIREbaglawincludingconstantassignments;Lipschitzboundalonecannotreplaceorder/vanishing/cutoff.",
+    "Uniformparticlebounduseszero-total subsetpartialsum≤r(N−r),closedunder pairaverage±e |e|≤1. For anyfiniteupdates,Li≤L(N−1),absoluteheights≤B(N−1)Delta; doesnotrequireweakorderforthisnumericalbounditself.",
+    "Reservationsfreezeactualtwofunctions,releaseonlymakesfree,copiesperchild atparentinterface; simultaneousqcountPERMEMORYCOPYincludingtemporarybefore release,notwholetree count. N=2q+k!+2 freepairpigeonhole,witnesspairchosenBEFOREfreshg noise.",
+    "ParticlecommoncutoffM=(B(N−1)+2)Delta andtotalmass2NM; U=NL(N−1),L=B3=>M(3N−1)Delta,U3N(N−1). Depth/updatecountabsentfrombound,butwholefunctioncopy/querycostnotfree.",
+    "ReservedpaircommonsubmeasureincludeslaunchandRELEASEbag evenimmediatereuse:recordedbaglawunchangedbefore/afterupdates. Branch-specific historiesnotidenticaloutsidebag,onlytraceconsistency;glueglobalmeasurethenaverageauxrandomness.",
+    "Co-bagmetric retainsatmostR=4binomk2dyadicscalesperbag,1perconsecutiverun; childnewscaleslaunchedonPARENTbeforemovingchild,releaseinactiveBEFORElaunchnew soq≤R. Bumpsg min(distanceinterface,distancepartcomplement,r)*uniformpartcoef,nonnegative disjointsupport =>Lip1;commonbaglowerpi*alpha/64.",
+    "Ordinaryanchor g=xi*dtoA+v,xiUniform1..2independentbumpfamily/coeffs,vLip1≤eta*h/2. RandomshiftlogbandsbutpartitionsscalesFIXEDdyadicindependentofshift;conditionalpaddingretainsoriginalguarantee. DistinguishedbumpindexchosenONLYfromfamily beforecoeffs,verticesmayselectSAMEcoefficient:notindependentpervertex.",
+    "Cachelaunchoneperbag/rootpermanent,capacityn0=2k²+2,inclusiveproposalcountn0+1 determinesq/N BEFOREJ/eta. Protect immediate AFTERstrict>threshold to≤threshold drops inageorderednonincreasingdistance-to-anchor list;two thresholds L/100 andJL perorderedbagpair. Evictoldestunprotectednonroot,proposalcanbeevicted;one-bagreservationstillcoversinclusivebag.",
+    "AnchorparametersorderedaftermemoryN,U,Lp:K>2+(2U+1)/bk,J10(K+1),H>1e5J,eta<1/(10H). Schedule deterministicmetric/decompositionbeforeALLlaunchrandomness,paireligibilitychosenpriorownnoise. Thus selectingtestingbag/anchor/verticesnotconditionfreshcoefficients.",
+    "Lowercomparisonnonprincipalultrafilter/finitealternativescompactness:normalizeALREADYconstructedobjects bydistancexLCA,notresamplepartitionorrequireequivarianceofpartitionsampler. Early=noninfinitesimal,late=infinitesimal,no firstlate/last earlyassumed. Atmostn0+1crossinganchorequivalenceclasses,chooseyoungest.",
+    "Youngestcrossinganchor mustlaunchaboveLCAanddistanceD0>H; oldrandomdistancefactorξ handles nearbagvertices, distinguishedlocalizednoisehandlesfarones; badgap eventsnotindependent butseparateconditionings+unionboundvalid. Testpositiveheightgap atlateproxyz givescontradiction byuniformLpboundandsuffixuncertaintytransport.",
+    "Obstructionforeachselectedearlybag yieldsq withdelta/4≤d(p,q)≤10D0. One oftwo cachethresholdsprotectsimmediatesuccessorlaunched≥LCA. Chooseboundedlistlatestoldyoungereviction thenone successor; no unboundedinductionoverearlytime order. Contradicts youngestcrossing;existentiallambda_k positiveinfimum,no numericalrate.",
+    "FinalD=D_bag+D_anc;Ck=(Ubag+U)/lambda_k,finiteexpected cutweights all2^|V|assignments;cutlawtotalmassfinitefixedpergraph. SomeexplicitU,N,q butlambda andbk/paddingparam unknownnumeric. NoactualFPT implementation/corewholeproofaudit yet.",
+    "Actualdocs/config/Model/MainsupportbothmainstatementsstaticBlocal:positiveactualsimplegraphshortestwalk/pathmetrics,finiteconnectednonempty,singletonincluded,universaldistortionquantifierBEFOREgraphdata,bagkvswidthk−1,sameactualrealLp1/finitePiLp1target. No supportingnaturalmethod/Bgradepromotion fromentry alone.",
+    "ActualTreewidthMainusesanchor_common_bag_embedding(commonactualbagcontrolsBOTHendpointdistances)+cobagcomparison andweightedL1directsum,rescale;selectedAnchor231-294entrycommentnoassumedMarkovflow theorem. NaturalCKRtransport andcompactness proofroute therefore NOTestablishedsameformalmethodbyreadingMain;fullsupportC/unknownclosure.",
+    "Twoactualstaticindices63files2539decland33files910decl,0lexicalplaceholder/axiom locally,onlyMathlibexternal. No Lean/Comparator/build/humanmathaudit.",
+    "Primarysearch:officialSIAM2023corrigendumDOI10.1137/23M1546245explicitlywithdrawsAFGN2022Theorem4. Needactualerratumbody/originalThm4scope beforedecidingwhetheranyF089historicalclaimaffected;donotmarkwholeF089D."
+  ],
+  "planar_full_natural_source_read": true,
+  "planar_tex_files": 14,
+  "planar_tex_lines": 3260,
+  "planar_bibliography_lines": 223,
+  "planar_bibliography_keys": [
+    "LLR95",
+    "GNRS04",
+    "Rao99",
+    "OS81",
+    "CJLV08",
+    "Sidiropoulos13",
+    "Filtser25",
+    "AR98",
+    "KPR93",
+    "CGNRS06",
+    "LR10",
+    "HST88",
+    "LS09",
+    "KLR19",
+    "CCN15",
+    "Kumar25",
+    "NR03",
+    "AFGN22",
+    "Treewidth108"
+  ],
+  "treewidth_full_natural_source_read": true,
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/docs/089.md",
+      "sha256": "d912e138ed89a21cbc0b38663001c5f0e540400b03878e12e601cfad97c49b09",
+      "scope": "Whole actual scope document"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarL1.lean",
+      "sha256": "e902947b3b86e48e2eb3052f5832ee4a3ac5fb4e4ffd3ad0b8ad16f66344c3c3",
+      "scope": "Whole actual challenge,expectedsorry template not solution failure"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BoundedTreewidthL1.lean",
+      "sha256": "630b947fa99b012e1575ad23cf658b0d6e8660d31a95600f5b5894bb0fe5d48f",
+      "scope": "Whole actual challenge,expectedsorry template not solution failure"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/PlanarL1.json",
+      "sha256": "0043ad85e76dc9e2472f49d8a3d6c189093effa9e83170ae60c6c28f677349ce",
+      "scope": "Whole actual comparator config,notexecuted"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/BoundedTreewidthL1.json",
+      "sha256": "ec313e68d93286dff543b0d46755de4b6ca3de772978bfe476a8cae08ca5256b",
+      "scope": "Whole actual comparator config,notexecuted"
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/PlanarL1/Statement.lean",
+      "sha256": "b7964c47cdc7ae55383e5b0c34741ef571e2d1fbd97afafd9d8d11aafea15020",
+      "scope": "Whole52linesactualMainStatement/planarity/walkLength/graphDistance"
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/PlanarL1/Embedding.lean",
+      "sha256": "a381374bfac8f35fca2f6f8e1ceba38507475c7c513c401cba1ea672b458b2ae",
+      "scope": "Whole124actualmainentryincludingfinitecuts/L1conversion;dependenciesnotfullyaudited"
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/TreewidthL1/Model.lean",
+      "sha256": "6fc9da7224a00d7e0c4e956b4423fe57046ca43ebd9b29914954b786804f77e3",
+      "scope": "Whole43actualMainStatement/edgepositive/pathmetric/finitecoordinateL1/bagcardinality"
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/TreewidthL1/Main.lean",
+      "sha256": "3f5b9460f90f6dd51604e6cfa9c8a6fe9807ee013b6b4e80839471d7f1cd2fc2",
+      "scope": "Whole188actualmainentryplusnonemptybag/commonscaleL1append/commonbagcomparison;supportingproofsnotfullyaudited"
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/TreewidthL1/CobagEmbedding.lean",
+      "sha256": "4f892fbe72d0965fd8ebe3f2df0be95a6a3a1d55a270f75bb9cec0f582db2539",
+      "scope": "Whole141actualcommonbagembeddingentry;notwholedependencyproofaudit"
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/TreewidthL1/AnchorEmbedding.lean",
+      "sha256": "ca409829d4f9b32ce1b1c3e7b27873ae811d0d3fcac35645388fda5786ba6e1d",
+      "scope": "Only231-294actuallyread,anchor_common_bag_embeddingstatement/proofentry;1-230unread"
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "scope": "Only targetedactualcorrespondingsourcetitle/id12onward+planartitle522 andsolutionentries1037-1039/1481-1483,notentirecataloguereread"
+    }
+  ],
+  "formal_index_only": [
+    {
+      "path": "data/graph/lean_indices/F-089-planar.json.gz",
+      "sha256": "7ba28fabf1fb886eb9ddc04bb79e6cd3bfe076f054948d8fb5b7225cf5d3320d",
+      "local_files": 63,
+      "declarations": 2539,
+      "lexical_placeholders": 0,
+      "local_axioms": 0,
+      "external_unread": [
+        "Mathlib"
+      ],
+      "local_build": false,
+      "comparator": false
+    },
+    {
+      "path": "data/graph/lean_indices/F-089-treewidth.json.gz",
+      "sha256": "f3b02bb3c3324c29fd713d4de6b511f8ecd564fb4ca19a1c6b7bf72232a57cc7",
+      "local_files": 33,
+      "declarations": 910,
+      "lexical_placeholders": 0,
+      "local_axioms": 0,
+      "external_unread": [
+        "Mathlib"
+      ],
+      "local_build": false,
+      "comparator": false
+    }
+  ],
+  "selected_corrigendum_scope_pending_curation": {
+    "url": "https://epubs.siam.org/doi/full/10.1137/23M1546245",
+    "pdf_url": "https://epubs.siam.org/doi/epdf/10.1137/23M1546245",
+    "doi": "10.1137/23M1546245",
+    "scope": "ActualfullHTMLbody75-86 andoriginaltwo-pagePDFwebtext0-87 inclfigurecaptionread. NolocalPDFbytehash/pixels:directcurl403,notretried.",
+    "finding": "Withdraws ONLY2022journalThm4p1SPDdepthOmega(sqrt(k/logk))lowerboundproof;buffereddiamondfoldcopysetnotconnected,notaninducedεtree. Authorssaytruthstillopen. Theorem1uppernotwithdrawn;v4numberingdiffers. RecordgranularnegativehistorynotDwholepaper/mainF089.",
+    "content_checked": true,
+    "pdf_sha256": null
+  },
+  "incomplete_downloads": [
+    {
+      "path": "/private/tmp/ai-paper-F089-history/padding.pdf",
+      "bytes": 649946,
+      "partial_sha256": "7b8b87a032454a86afcf9af0b1bae7f4a7c66a752fc973a4dbefc8886499f598",
+      "complete_pdf": false,
+      "errors": [
+        "curl28after35s649946B",
+        "onecurlRangeattempt56unsupported"
+      ],
+      "next_action": "No furtherretryneeded;webPDFspecificscopeactuallyread. Hashpartialandrecoveryfailurereceiptbeforecleanup."
+    }
+  ],
+  "generation_id": "GEN-20261021-052",
+  "qualified_results": 59,
+  "method_contracts": 25,
+  "report": "reports/graph-l1-F089-reading.md",
+  "quality_evidence": "reports/reproducibility/20261021-graph-l1",
+  "temporary_sources_removed": true,
+  "qualified_results_by_source": {
+    "Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026": {
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/figures/column-realization.tex": [],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/figures/surviving-seeds.tex": [],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/figures/two-portals.tex": [],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/main.tex": [],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/assembly.tex": [
+        "pad:success",
+        "pad:persistence"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/consequences.tex": [
+        "cor:almost-embeddable"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/geometry.tex": [
+        "geo:geodesics",
+        "geo:realization",
+        "geo:chord-separation",
+        "geo:gap",
+        "geo:skipping",
+        "geo:outerplanar",
+        "geo:sublevel",
+        "geo:portals",
+        "geo:cells",
+        "geo:padding",
+        "geo:portal-levels"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/interpolation.tex": [
+        "int:interpolation",
+        "int:deterministic",
+        "int:common-formula",
+        "int:depth",
+        "int:near-tie",
+        "int:comparisons"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/introduction.tex": [
+        "thm:main"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/main-packing.tex": [
+        "main:validity",
+        "main:ray",
+        "main:pair-separation",
+        "pack:barrier",
+        "pack:bound"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/ordered.tex": [
+        "ord:support",
+        "ord:transverse-lipschitz",
+        "ord:overlap",
+        "ord:two-side"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/scale-setup.tex": [],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/secondary.tex": [
+        "sec:validity",
+        "sec:admitted-success",
+        "sec:increment-bound",
+        "sec:remaining"
+      ],
+      "math/preprints/Planar-Graph-Metrics-Embed-into-L1-with-Constant-Distortion-September-23-2026/build/sections/sets.tex": [
+        "sets:vertical",
+        "sets:component-refinement"
+      ]
+    },
+    "L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026": {
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/01-introduction.tex": [
+        "thm:main"
+      ],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/02-cut-laws.tex": [
+        "lem:separator",
+        "lem:gluing",
+        "thm:markov-flow",
+        "prop:uncertainty",
+        "lem:height-gap",
+        "lem:launch-gap"
+      ],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/03-particles.tex": [
+        "lem:trace-update",
+        "lem:particle-bounds",
+        "prop:particle-realization"
+      ],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/04-perturbations.tex": [
+        "thm:padded",
+        "lem:disjoint-bumps",
+        "prop:cobag"
+      ],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/05-anchors.tex": [
+        "lem:ordinary-noise",
+        "lem:cache-defined",
+        "lem:anchor-tests"
+      ],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/06-lower-comparison.tex": [
+        "prop:combined-lower",
+        "lem:finite-limiting-rules",
+        "lem:youngest-crossing",
+        "lem:old-distant-anchor",
+        "lem:anchor-obstruction",
+        "lem:protected-successor",
+        "lem:younger-crossing"
+      ],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/07-conclusion.tex": [],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/bibliography.tex": [],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/figures/anchor-reservations.tex": [],
+      "math/preprints/L1-Embeddings-of-Graphs-of-Bounded-Treewidth-September-23-2026/build/main.tex": []
+    }
+  },
+  "selected_original_scopes_checked": {
+    "CKR": {
+      "url": "https://arxiv.org/pdf/1006.3970v2",
+      "pdf_sha256": "115e8774bf4cb65949c55d4bb90254ef8f32eb6ae8fc50be0124b44131515ff1",
+      "pdf_bytes": 279027,
+      "text_sha256": "a1c0dd4d7245ceda27a3caf9e2726688a1903b1c7ed13d68ec38824063e4f18a",
+      "scope": "23Jun2010v2;1-165,332-375,455-540 actuallyread:main/cor1.2,symmetryLP,selectedgluingtailandThm4.4. Fullproof/generalwidthSection6unread.",
+      "finding": "OldstrongerSheraliAdamsapproxnotbareflowcutgap;localconsistentisometricr+3setsconditionalCor1.2; symmetricMarkovwidthkflow≤C(k)endpointprob,notdepthdependent. Source2010claimC maydoubleexp;notnewMarkovgluing.",
+      "content_checked": true
+    },
+    "GNRS": {
+      "url": "https://cs.nyu.edu/~ag10120/papers/focs99.pdf",
+      "pdf_sha256": "3a3f3f76c228701b8ad5074fbecef943e2900161469f2716a78a22a07c19131d",
+      "pdf_bytes": 378877,
+      "text_sha256": "f3b8bc5a10cb01305eecd684cc4d45f6f81012254d1490fd11f6aefbe0490333",
+      "scope": "Actualauthor22Oct2002version,notassumed2004journalidentical.1-70,215-385,1008-1032selectedtextread;printed7=PDF8pixelsviewed.",
+      "finding": "Thm3.2 fixedgraphworst fractionalflowcutgap equalsworstsupportedL1distortion; nonnegativecapacities/demands,cutcone duality. Thm5.6dominatingtreeexpectedOmega(logn)evenseriesparallel;notobstructionarbitraryL1. Coversnotjournaldate.",
+      "content_checked": true,
+      "actually_viewed_pixel": {
+        "name": "gnrs-p7.png",
+        "sha256": "7060c5b388c1cd9e49ff7a7815b7d183e8281d58a01d369ab3b22818078988b2"
+      }
+    },
+    "CohenAddadMomkeVerdugo": {
+      "url": "https://arxiv.org/pdf/2111.06163v1",
+      "pdf_sha256": "5522bbce431879dac7136d97a87ab7639dc9c9ad36c30af94e6bd52a80c86172",
+      "pdf_bytes": 294849,
+      "text_sha256": "28859fece473fc0d77282cda87929b931482cc7731d9ab7801a3d4673763349c",
+      "scope": "Actual11Nov2021v1;1-125selectedtext,p2pixelsviewed. Not2024journalfullversion/proofread.",
+      "finding": "Positiveintegercap/demandencodedinput;Thm1old2approxsparsestcutin2^(2^O(treewidth))*|I|^O1,immediatelyclaims2approxminimumdistortionL1followingGTW. DoesnotitselfprovemetricLPflowcutgap;strongerrelaxation.",
+      "content_checked": true,
+      "actually_viewed_pixel": {
+        "name": "fpt-p2.png",
+        "sha256": "b4aa62b60b1a57c6cdd3cdd243964447f3979997d3cbe1a7d664c27a5da3c915"
+      }
+    },
+    "GuptaTalwarWitmer": {
+      "url": "https://arxiv.org/pdf/1305.1347v1",
+      "pdf_sha256": "f8958c210484fb8a67ec0185fc67e4defea6151e3c2092f1b0c22a89aad086c6",
+      "pdf_bytes": 552429,
+      "text_sha256": "11ff3ce953566ea555111b3cecd8ba54d7af5cc71cd451f5e52fa210c387e016",
+      "scope": "Actual6May2013v1;1-105,455-495selectedtextread;Section3.3.1 onlyembeddingconversion,notallalgorithmproof.",
+      "finding": "Oldn^O(treewidth)minimumdistortionL1approx:LPgivenD returns2DembeddingorcertifiesnoD,search2+o1; explicit n^O(k)sample space. NoimplementationoractualsourcecuratedFPTcode.",
+      "content_checked": true
+    },
+    "AFGN22": {
+      "url": "https://arxiv.org/pdf/1708.04073v4",
+      "pdf_sha256": "a117e7823baf2bbfdf1d7dbb14eee005ffb5f6e0169ddc601a5276c1ba05d461",
+      "pdf_bytes": 845676,
+      "text_sha256": "22fa7d5fde12d20df3f2e21e9d9044e802aeb1c1af66e4de9173f3680ef95931",
+      "scope": "Actualarxivv4stamp2Jan2023,authorcover3Jan2023;1-150selectedtextread:Thm1/2/3andfootnoteremovedp1lowerproof. Not2022journalnumbering.",
+      "finding": "UpperSPDembeddingandpathwidth O(k^min(1/p,1/2)),p1O(sqrtk) retained. Footnotesayserroneouspreviousp1lowerboundremoved;v4Theorem4renumberedhostdimensionisnotwithdrawnjournalTheorem4. Do notinvalidateupperorfullF089.",
+      "content_checked": true
+    },
+    "LS09": {
+      "url": "https://people.csail.mit.edu/tasos/papers/geoforbid_stoc2009.pdf",
+      "pdf_sha256": "618ec9ca63b7e53dbeb371e3266e13b7cf60c335cb987b83bf7caabd8ed3e2e3",
+      "pdf_bytes": 573822,
+      "text_sha256": "36af18ba560968609e9d65fccb9ffda131ea815280a105caa0e57c31247bb07f",
+      "scope": "ActualSTOC09conferencepp245-254 extendedabstract;1-300selectedtextread,printed248=PDF4pixelsviewed; fullversionformalfringedef/proofunread.",
+      "finding": "Definitionstochasticnoncontractingmapsandexpectedexpansion;Lemma1.2compose,1.5preserve1sum,Thm1.7namedAE(g,(k,w),a)→1sum(planar∪treewidthh). Fringewidthformaldefinitiononlyfullversionreferenced,notclosed. Nohighercliquesumclosure.",
+      "content_checked": true,
+      "actually_viewed_pixel": {
+        "name": "ls09-p248.png",
+        "sha256": "820c80cb8793523f5a2104db85b04ca4fa62691361c13e5fe5be36640d120b8f"
+      }
+    },
+    "FiltserEtAl": {
+      "url": "https://theoretics.episciences.org/16683/pdf",
+      "version": "Published10Oct2025TheoretiCS4article22DOI10.46298/theoretics.25.22",
+      "scope": "OriginalwebPDFtextlines0-159 and265-395 inclTheorem1.2,Definition2.1,weak/strongdiameter,polynomialtimescheme,Lemma2.2zerocopies. Noentire39pageproofaudit.",
+      "finding": "OldO(logtreewidth),Omega1paddedschemeswithweakdiameterandpolynomialtimesampling;treewidthonehandledseparatelyinsource,notlog1zero. CurrentmainF089usesonlyweakdiameterfixedkalpha/pi.",
+      "content_checked": true,
+      "pdf_sha256": null,
+      "retrieval": "ActualwebPDFtextread;localdownloadincomplete28after649946B andoneRangeattemptunsupported56. No complete local-bytehash claimed."
+    }
+  }
+}

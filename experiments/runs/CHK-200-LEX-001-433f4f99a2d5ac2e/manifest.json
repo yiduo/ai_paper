@@ -1,0 +1,56 @@
+{
+  "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+  "experiment_id": "CHK-200-LEX-001",
+  "started_utc": "2026-10-20T13:09:17.316947+00:00",
+  "specification_written_utc": "2026-10-20T13:09:17.049292+00:00",
+  "finished_utc": "2026-10-20T13:09:18.254583+00:00",
+  "inputs": {
+    "experiments/specs/CHK-200-LEX-001.json": "fee6c3ae0aeda8b87f63dddd144e8fc7c7715ff588ca114fb9800166a3376cda",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/betti_budget.py": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5",
+    "src/ai_value/cli.py": "0c43fa1217581db6dfaf88dd1f62b466a42d6723966e0a0d3b8581dd7266e4dc",
+    "src/ai_value/component_checks.py": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa",
+    "src/ai_value/corpus.py": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc",
+    "src/ai_value/experiments.py": "800fb9d76fec781862d2446dd5ca717af6eb4fa6f7a099177b46468091acf823",
+    "src/ai_value/graph.py": "fcab1220d2a8a6a1dab8b904faa692deb23a31ae7e493aac0a5b1472e1d6746d",
+    "src/ai_value/knowledge.py": "f397c34e5675f522c9e175e869d6c0ba9e5e41586779e0715753266d10e2c17b",
+    "src/ai_value/permutation_audit.py": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/reporting.py": "fe66df9b50dee0a05be23a31440ef519606f580ccdb7d68369b96c25f00acfb9",
+    "src/ai_value/source_results.py": "b40fa0e1a8785006a533775d3747a3e7dc0f50d37ba36b964920182f459138cd",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "src/ai_value/transport.py": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d",
+    "src/ai_value/versioning.py": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c",
+    "configs/research.json": "250ae2914064a1ec1875a51d56588e73f1e48aa87e2e5823fd0d8816428de560",
+    "data/corpus/baseline.json": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+  },
+  "outputs": {
+    "spec.json": "44c68145b157b1cbc23d337b685ed5acfe593113d321cb162e480a339943e4a2",
+    "raw.json.gz": "b8737d3e1c92b18430308362abc1500dd77961ca30f054e1b633533ca963982c",
+    "summary.json.gz": "251ce44c4387d23c98fa84dbfe7d89ac1e2b7c9931c0bc2bdd958f9b7a98901a",
+    "inputs.json.gz": "ed42fbac481cb19652b1dd5f3d88c42d7b7e3484800a5dd5f9aa8bed47f134f9"
+  },
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "2529397a9fb1538fb0a694edf972065dcd2d7dc2dcc49d14d44b92405ee25bd9"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "493762d8d3587881af5616c8bbbe31d867c2425869ee734d153a2438ed29ebb2"
+    }
+  },
+  "source_snapshot": "inputs.json.gz",
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment CHK-200-LEX-001",
+  "environment": {
+    "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "dependencies": "Python standard library only"
+  },
+  "elapsed_seconds": 0.9259259580285288,
+  "peak_traced_python_bytes": 13127014,
+  "resource_envelope_met": true,
+  "memory_scope": "Python allocations only; not process RSS or child processes",
+  "result": "passes_preregistered_prediction",
+  "formal_rejection": false
+}

@@ -1,0 +1,32 @@
+{
+  "curate_f372.py": {
+    "path": "reports/reproducibility/20261021-elasticity/curate_f372.py.gz",
+    "gzip_sha256": "9fe1906392537e70a2312e6726c3bec080f0bc49949e8abcffcf06a8e5a60ac4",
+    "decompressed_sha256": "d7f75bcd8554bc76ce4e56f28554000567c067c12547a135f321aaeb23d8fd57",
+    "bytes": 31908
+  },
+  "repair_f372_record.py": {
+    "path": "reports/reproducibility/20261021-elasticity/repair_f372_record.py.gz",
+    "gzip_sha256": "ecdaec6c1c98b2282cd299f4221fd9d8ca485b3012bec90d8cf364df8c91edf5",
+    "decompressed_sha256": "c5abc9e6771ad066f2d6f34ced4f719f6360bcc4128a9c267334601281020a13",
+    "bytes": 3150
+  },
+  "integrity_f372.py": {
+    "path": "reports/reproducibility/20261021-elasticity/integrity_f372.py.gz",
+    "gzip_sha256": "64e2d5c2e1a39aed7c540aa22db680a7051265b2f79191a09c4d35e5f7e42989",
+    "decompressed_sha256": "beb369a8f1a4adda8585137bd1f123018b80b2c521c3e56609bedb5492ae1613",
+    "bytes": 3673
+  },
+  "quality_f372.py": {
+    "path": "reports/reproducibility/20261021-elasticity/quality_f372.py.gz",
+    "gzip_sha256": "e70fdd1e62819aa00fbdac24ae844fe67d15f233eb6a4c4e8f9d0980542ab312",
+    "decompressed_sha256": "17f63f0801872e6abbb6a507ad4d0968e4d00e7edd07273bebede5beb6ee6428",
+    "bytes": 2902
+  },
+  "finish_f372.py": {
+    "path": "reports/reproducibility/20261021-elasticity/finish_f372.py.gz",
+    "gzip_sha256": "04dab2843d0b8b0da4c080c5b0b12d53f71faee98496ab39e0262f10edbb5b38",
+    "decompressed_sha256": "09545668226b6f78ba019040e8eca04b5fe05804e1dfa488931eda0b1c346ca7",
+    "bytes": 11107
+  }
+}

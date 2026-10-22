@@ -1,0 +1,45 @@
+{
+  "task_owned_directory": "/private/tmp/ai-paper-f255-originals",
+  "removed_files": [
+    {
+      "name": "dfx-06.png",
+      "bytes": 562029,
+      "sha256": "a14aa0d34bbd67a4bf06e0e9904597ee6a3e3d810c68bcf87d22140cb514e319",
+      "retention": "Task-owned temporary source/PDFtext/renderedpage removed after ledger and hash checks"
+    },
+    {
+      "name": "dfx.pdf",
+      "bytes": 670663,
+      "sha256": "927b61f85a029ed26d851ca79771d5b71c7aaeb08f3f4dde4ad2d400977c4aea",
+      "retention": "Task-owned temporary source/PDFtext/renderedpage removed after ledger and hash checks"
+    },
+    {
+      "name": "dfx.txt",
+      "bytes": 248990,
+      "sha256": "d0f8da73ab3d7d15896ed5d1b02b8d0ace706a27879407e015e16888e6d73fb4",
+      "retention": "Task-owned temporary source/PDFtext/renderedpage removed after ledger and hash checks"
+    },
+    {
+      "name": "li-55.png",
+      "bytes": 410019,
+      "sha256": "8d5332a075cd16b260cf71dc7922389d66260ee5763c44fa84d5ee7b584734c7",
+      "retention": "Task-owned temporary source/PDFtext/renderedpage removed after ledger and hash checks"
+    },
+    {
+      "name": "li.pdf",
+      "bytes": 688801,
+      "sha256": "a0be68d22a98f9bf4962d9310590a0215d139cf051aca5559f21148ce9f9bcf0",
+      "retention": "Task-owned temporary source/PDFtext/renderedpage removed after ledger and hash checks"
+    },
+    {
+      "name": "li.txt",
+      "bytes": 159354,
+      "sha256": "d2de303ec788f05a7a592d0e9d92efdcac914bb090afb37297ac3568476ba40f",
+      "retention": "Task-owned temporary source/PDFtext/renderedpage removed after ledger and hash checks"
+    }
+  ],
+  "total_removed_bytes": 2739856,
+  "hashes_checked_before_removal": true,
+  "directory_absent": true,
+  "source_ledger": "data/provenance/readings/F-255.json"
+}

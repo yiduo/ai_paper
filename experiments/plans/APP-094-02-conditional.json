@@ -1,0 +1,25 @@
+{
+  "id": "APP-094-02",
+  "title": "冻结细胞扰动库的虚拟几何读出压缩",
+  "analogy": "bold",
+  "input": "Hypothetical licensed finite bank of normalized real cell-perturbation response vectors in a separately declared Lp metric, fixed p!=2, plus independently supplied biological distinction labels and predeclared neighbor-gap margins. No public bank selected or inspected yet.",
+  "output": "A finite VIRTUAL nonlinear coordinate table preserving all bank pair distances within fixed distortion and declared label-neighbor relations at lower stored coordinate count.",
+  "hypothesis": "A separately implemented common-moment construction may save at least10% storage/coordinates versus strong old data-adapted empirical/greedy methods at the SAME p and allpair distortion, without worsening predeclared label-neighbor behavior and within fixed total compute/memory budgets.",
+  "judge": "Freeze bank/version/license, normalization,p,D, exact allpair reference, gap margins and independent labels BEFORE outputs. Require actual feasible law and measured finite distortion; if labels/gaps or constructible law absent, candidate fails readiness. Compare storage and actual time, not asymptotic unknown constants.",
+  "baseline": "Old Eskenazis envelope/measure-change data-adapted coordinate sampling and greedy construction; eligible coordinate/linear methods and original vectors at identical p and judge. JL only at p2 as separately ineligible control, never claimed same-p guarantee.",
+  "limits": "Bold extra assumption: fixed Lp geometry and gaps reflect biological distinction; theorem does not establish this. Coordinates virtual, not physical assays; no causal, clinical, new-point, out-of-sample or assay-reduction guarantee. Main existence and unknown C_pD alone cannot implement compressor; no data/run/formal application validation.",
+  "revisit": "Locate an actual small licensed public bank with independent semantic labels and a feasible finite common-law construction. If old empirical method already meets all resource goals, record zero incremental value. No generic random projection presented as F094.",
+  "source_labels": [
+    "lem:weighted",
+    "thm:main"
+  ],
+  "part_keys": [
+    "WEIGHTED-TO-UNIFORM",
+    "MOMENT-SAMPLING",
+    "WHOLE-VECTOR-TRUNCATION"
+  ],
+  "dedup_key": "F-094|frozen perturbation bank geometry|virtual finite coordinate storage",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-050"
+}

@@ -1,0 +1,67 @@
+{
+  "recorded_at": "2026-10-21T03:51:18.225206+00:00",
+  "helper_gzip_bytes": 20638,
+  "uncompressed_bytes": 66710,
+  "roundtrip_verified": true,
+  "temporary_bytes_removed": 65534,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-calibration/core.log",
+      "bytes": 9328,
+      "sha256": "3db714398fefc173788a9945663cbcc2b30258beb0a14dca7efff48d42d8c32e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/integrity.log",
+      "bytes": 977,
+      "sha256": "c556eca033fa864070536720b3475cbdc3821fda8d792b2b79f493262c23ca30"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/core-before-final-membership.log",
+      "bytes": 9328,
+      "sha256": "b75c7e9700e487610e27ab83c2eb680cd80732504470df3cdcc9cb4e8a9c703e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/finish_calibration.py",
+      "bytes": 11139,
+      "sha256": "b6b0d863ffa21f4fcd01f5c8f53de2fc9730433c3f89aae73f04975dfbb2205f"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/integrity_calibration.py",
+      "bytes": 4897,
+      "sha256": "8c0b45a4189bb946d2b9dd625b28e521429cf22d2ae547cee57c7b67b1d5b773"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/quality.log",
+      "bytes": 83,
+      "sha256": "38809d38a9907c8a78b53a9e1a4c21d2f360114bc4192876d0c40f7791c71577"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/quality_calibration.py",
+      "bytes": 2971,
+      "sha256": "8d68c2bc17c4b0a6cfe9d2c948e4a0a194b237462cd302185cb176c67e121808"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/export.log",
+      "bytes": 542,
+      "sha256": "17bd6613ee7b522130747d17de6f70f48cf0504a95f33600390cdb2c785c7f46"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/report_calibration.py",
+      "bytes": 5408,
+      "sha256": "16335e856f6c6099b06612b5e06bfa29a90fa089d471803b530cf9f990d324fa"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/progress.json",
+      "bytes": 5158,
+      "sha256": "3aced6dfe8718cfea2f793a51a39a18f3d951ac713f758b08172d57886bb2795"
+    },
+    {
+      "path": "/private/tmp/ai-paper-calibration/curate_calibration.py",
+      "bytes": 15703,
+      "sha256": "7f0287fd0aba5d149a0ad01e7a7bdbf9b3b26307be316a0cca48e84d4e26832a"
+    }
+  ],
+  "no_external_PDF_download": true,
+  "no_new_numerical_payload": true,
+  "cleanup": "Only own exact-archived helper/progress/log files removed;source remains read-only,clean TemporaryDirectory removed automatically"
+}

@@ -1,0 +1,428 @@
+{
+  "family_id": "F-142",
+  "generation_id": "GEN-20261021-056",
+  "work_package": "WP-060",
+  "recorded_at": "2026-10-21T00:28:38.107496+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-783e6a92fa7af25a"
+  ],
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "total_tex_files": 13,
+  "total_tex_lines": 3590,
+  "inline_bibliography_count": 29,
+  "read_files": {
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/main.tex": {
+      "sha256": "63f11345d68e1388434ab25559dc3d8c5acc2f5e32edc36e1da756ddac350a25",
+      "bytes": 2664,
+      "actual_read_range": [
+        1,
+        72
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/references.tex": {
+      "sha256": "466e2fc1bb1741da914d2f604857392528d01a93d42c66d7f23b436bb53a94c8",
+      "bytes": 5419,
+      "actual_read_range": [
+        1,
+        147
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/00-introduction.tex": {
+      "sha256": "a7048b62d7a31c5029827ad5db7e32187f5d29035138d6cc0677d48309a05af9",
+      "bytes": 15019,
+      "actual_read_range": [
+        1,
+        278
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/01-table.tex": {
+      "sha256": "3cec5c2a6de5fe8b8759cdc20fd2c11723de54774c7e385626e3caa60ad92639",
+      "bytes": 10335,
+      "actual_read_range": [
+        1,
+        223
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/02-finite-fields.tex": {
+      "sha256": "a55ede868711f34fcca8c3adb788611e0c1bed4653bef1e568f67467fbe5dde2",
+      "bytes": 13407,
+      "actual_read_range": [
+        1,
+        272
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/03-norms.tex": {
+      "sha256": "25c456356962e8ccc68e22e2b7c81feb4f0dc854fba9e0f3bdcb8cfb0f762d2f",
+      "bytes": 28336,
+      "actual_read_range": [
+        1,
+        595
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/04-divisors.tex": {
+      "sha256": "59a8b0d3e550838ef2cb507e2d06984bf21862d97d93f689e49488cf21e5a1d9",
+      "bytes": 18116,
+      "actual_read_range": [
+        1,
+        376
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/05-geometry.tex": {
+      "sha256": "a1291e26082593224df707cc5914976c0e764378bf633b87c2e5f3fde6d62094",
+      "bytes": 21790,
+      "actual_read_range": [
+        1,
+        536
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/06-division.tex": {
+      "sha256": "cf4edc99584ef070d2a7f24c9f217bc525c0b27a3f3aa422e9aeeb3ea4cef169",
+      "bytes": 5885,
+      "actual_read_range": [
+        1,
+        141
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/07-odd-split.tex": {
+      "sha256": "b77810b3c92751113f2da014d96227970a5f8b89bdb21dac34d17c69a2abb02b",
+      "bytes": 10639,
+      "actual_read_range": [
+        1,
+        243
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/08-driver.tex": {
+      "sha256": "2424818377cd664f42cf95da862733ad28932c525ce0b2fac18830443709440e",
+      "bytes": 10716,
+      "actual_read_range": [
+        1,
+        221
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/09-complexity.tex": {
+      "sha256": "b9b69f8a0515a2af0d9b2a8e037809bab138aef74b0388b6ce74d8df3efb045a",
+      "bytes": 16081,
+      "actual_read_range": [
+        1,
+        308
+      ],
+      "full_file_read": true
+    },
+    "math/preprints/Deterministic-Polynomial-Factorization-over-Prime-Fields-October-4-2026/build/sections/10-analytic.tex": {
+      "sha256": "61a920fb8ef1e22d487b8dbeaaf3d3bd98328d08992807b40ed20b467ce0645e",
+      "bytes": 7603,
+      "actual_read_range": [
+        1,
+        178
+      ],
+      "full_file_read": true
+    }
+  },
+  "result_notes": {
+    "thm:factorization": "Prime p given in binary;nonzero dense f;leading coefficient,distinct monic irreducibles and positive multiplicities;constant returns empty list. Bit cost O(((n+1)ceil(log2p))^(10^12)),absolute hidden constant. No randomness/integer-factor/primitive-root oracle or GRH assumption in claimed theorem,conditional on cited companion Hecke input being correct;not independently audited here.",
+    "thm:reduction": "B=20+(n+1)(L+1). If p>B^200000 and n>=2 supply auxiliary prime ell_q for every prime q<=n,ell outside2,3,p,q;ell=1 mod12q and p^((ell-1)/q)!=1 modell. Cost polynomial in B+E with E numerical maxell,not logE. Algebraic reduction itself does not use Hecke input.",
+    "table:degreeq": "Rell=Fp[T]/Phiell with ell prime !=p;H=qth powers in (Z/ell)*. Invariant subalgebra Uq computed by linear kernels is degreeq field because p is nontrivial in cyclic quotient of prime orderq. No cyclotomic-factorization oracle.",
+    "table:construction": "Increasing q builds table;odd q factors Phi_q of degreeq-1 using only earlier entries;not circular full-degree oracle. Kqdegree<=q-1,Vqdegree<=q(q-1);outside recursive factoring O(n(E+1)^10(n+L+1)^40) including trial division/search. E is numerical.",
+    "ff:simultaneous": "A=k[T]/F with F monic squarefree TOTALLY split over Fp,unknown roots;divergent scalar zero/pivot/degree test returns proper gcd whose monic coefficients descend to Fp. Otherwise common field-instruction trace executes. This is old dynamic evaluation,not an arbitrary product-algebra test without split/root guarantees.",
+    "ff:unitroot": "Explicit finite field k,odd prime q|Q-1,zeta orderq and FULL q-primary generator supplied;H monic squarefree degreeh>=1,p>h^2;unit a PROMISED qth power. Distinct-degree decomposition/eigenvectors/scalar grid/primary digit partitions/CRT construct a root without full factorization. Does not decide arbitrary norm/root promises or supply generator free.",
+    "ff:even-split": "Odd p>N,even N>=2,monic squarefree totallysplit F,full2-primary generator. Pair-difference orientation off-diagonal masks,primary log digits and trace rowcounts distinguish because integer average(N-1)/2 nonintegral and counts<N<p. Old nonresidue-assisted Ronyai context;not new odd-degree engine or generic order-free construction.",
+    "norm:solve": "Explicit k,odd q,zeta/fullprimary generator,F monic squarefree degreeN>0 divisibleq;G nonzero rational function degrees<=D,p>(N+2D+1)^2;PROMISE G is a cyclic norm. Constructs h with product_rho(h)=G,no factoring oracle;F need not split. Not a norm-membership decider and not an implementation/runtime measurement.",
+    "norm:idempotent-to-norm": "Rank-one idempotent in split cyclic algebra E gives q-dimensional left ideal Ee;solve Ve=he uniquely over k(X),then productrho(h)=G. An unspecified norm solution only proves abstract splitting and is never algorithm input.",
+    "norm:bundle-split": "Vector bundles on P1 split over ORIGINAL k into O(d_i);used as existence explanation of evaluation-image full block upper triangular shape. No algorithm for recovering bundle splitting/conjugating matrix is claimed.",
+    "norm:fiber-idempotent": "Given CONCRETE basis B subset M_q(k) conjugate to FULL block upper triangular algebra. Trace pairing kernel N is strictly block upper;common column kernel U first block. Pick v!=0,wv=1;vw belongsB,rank1,idempotent. Not every triangular subalgebra;not a central idempotent or proof that span(v) invariant under allB. Inherited oddprime dimension/large characteristic kept conservative in application.",
+    "norm:local-bounds": "dH<=N+2D,M=10q^2(N+D+1);local models/inverse basis valuation within+-M. Sections c=P/H^M with degP<=M(dH+1),q^2(M(dH+1)+1) unknowns. Roots/Hensel precision3M+3 finite;no infinite-series oracle. Complexity polynomial but dense section matrices can be very large.",
+    "div:arithmetic": "Smooth cyclic cover,F monic squarefree q|N,q odd,p!=q,zeta supplied. Fractional ideals in H^-1O/HO and infinity vector support arithmetic,RiemannRoch and reduced degreezero D prime norm<=2g,without factoring finite supports. Cost polynomial in ABSOLUTE divisor degree,not bitlength of arbitrary coefficients.",
+    "div:compression": "Characteristic polynomials of X on O/Iplus and O/Iminus give hplus,hminus with signed finite divisor degrees and a compressed bound H=hplus*hminus. For degreezero D,j=hplus/hminus has div=sum sigma^aD incl infinity;do not drop degreezero condition.",
+    "div:trace": "Explicit split A=k^s,commonb generators inclbounds,prime subfield size>s(b-1). Norm/determinant of moment-curve combinations at s(b-1)+1 scalars generates product ideals without components. Infinity integer vectors must follow common decisions or be separately summed;not free product of unknown ideals.",
+    "div:circuits": "Degreezero bounded-absolute D and infinity divisorW with binarycoefficients;Z=(1-sigma)D-W PROMISED principal. Binary class additions/reduction retain multiplicative function circuit,not expanded function. At fixed ramification points propagate Laurent valuations and leading coefficients;final valuation0 gives h(P),intermediate leaves may have poles.",
+    "geom:filtration": "T_t consists pairs(classd,latticeW) with lambda^td=[W],mod corresponding lattice pairs. Lambda injective on degreezero infinity lattice,not Jacobian;T_t embeds in T_(t+1),imagelambda^t torsion. Keeping actualW avoids losing integral divisibility in class equivalence.",
+    "geom:ramification": "Split cyclic cover overK withzeta andrational roots/infinity. Epsilon_i generateT1,sum_i epsilon_i=0;h divisor(1-sigma)D-W has constant norm,gammaq root;labels valuationD-log_zeta(h(P)/gamma) modq expand pair. All labels equal implieszero pair;no uniqueness/converse required,global gamma shift harmless.",
+    "geom:frobenius": "For r>=0,m=1+(q-1)r,extensionk/K degreeq^r fixesT_m;any lambda^td=[W],t<=m forces classd rationaloverk because lattice injective. Does not provide a free computational choice of representative.",
+    "geom:descent": "FINITE-field smooth projective geometrically integral curve:geometrically principal rational divisor has rational function;Frobenius-fixed class has rational divisor representative,via constant-extension Hilbert90. No arbitrary number-field descent inferred.",
+    "geom:lifts": "Every successive lambda-division of [Pi-infinity0] throughm has representative overdegreeq^r extension. It applies to actual deterministic choices,not just an existential compatible family. Polynomial degree later uses r=vq(N),q^r<=N.",
+    "geom:separation": "r=vqN,m=1+(q-1)r,d_m withlambda^md_m=[Ne];d_t=lambda^(m-t)d_m,W_t=lambda^-(t-1)Ne. Relationlambda d_t=[W_t] only required/derived at REACHED tests. Equal labels advance invariant;at last would divideW_m one morelambda thoughW_m notlambdaLambda. Any representatives/functions/rootchoices valid under these promises.",
+    "div:divide": "Known rational ramification pointP,degreezeroD,p>(N+2||D||+1)^2,andpromiseclassD in(1-sigma)Pic0(k). Normalize pushforwardj/F^b residue atP to1 to PROVE norm promise;NormSolve then partial-orbit coefficientmaximum givesV with(1-sigma)V=E;subtractdegV*P/reduce. Not arbitrary divisor division without rationality or norm promises.",
+    "odd:split": "p>B^200000,odd3<=N<=n,totallysplit squarefree monicF;oddprimeq|N,Kdegree<=q-1,zeta/fullprimary data. k=K[T]/(T^(q^r)-omegaK) is fielddegreeq^r,[k:Fp]<=N(q-1),m<=N;lift,sum andlabel tests or earlierdivergent gcd returnFp properfactor. BinaryW coefficients boundedN(2q)^m,not materialized absolute-size objects.",
+    "driver:separator": "Squarefree monich,Berlekamp fixedspace dimensionr>=2,p>r^3;momentcurve of ordered basis t=0..r^3 finds squarefree charpoly F_t degree r totally split overFp;proper divisorS givesgcd(h,S(b(t))). Griddistinctness matters and fieldarithmetics charged.",
+    "driver:correctness": "Aliasdriver:factor is same proposition,not additional result. Monich degreesb<=n;zero derivative scan yieldsg^p withmultiplicitytimesp,nontrivial derivativegcd branches mayoverlap andmultiplicities merged. Largep uses tableonlyprimes<=b;O((b+1)^2) calls,inputdegree strictly decreases. Tablepreprocessedonce,not rebuilt recursively.",
+    "complexity:bound": "Sequential bit cost O(B^500000+B^100E^20),E numerical. E<=c B^20000000 implies overallgenerous exponent10^12;source refines400000100. Arraysaddresses charged thenquadratic sequential overhead. Smallbranch p<=B^200000 is oldBerlekamp scalarenumeration withno auxiliarytable/curve;do not benchmarksmallcases asnewodd construction.",
+    "analytic:hecke": "RESTATEMENT of companionTheorem1.2:allcyclotomicK containingmu12,allfiniteorderHeckecharacters inclprincipalpole1 allowed,no conductor/heightcutoff;zero-freeRe(s)>1-10^-6. Actualcompanionintro1-115 selectedstatementagrees;proof/fullF029family unread,not verifiedtheoremvalidity.",
+    "analytic:explicit": "Fixed nonzero nonnegative smoothphi support(1,2),fixeduniformdelta=1e-6;smoothedprimeideal count=xPhi1+Ophi(x^(1-delta)(logD_M+d_M)),allnumberfields satisfyingzero-free strip. Usesuniformzerocountoriginalunread;not unsmoothedprimealgorithm or explicit numeric hiddenconstant.",
+    "analytic:auxiliary": "Largep,allprimeq<=n;K=Q(mu12q),M=K(p^(1/q));underHeckeinput an auxiliaryell<=c0B^20000000 exists,absolutec0 not numericallysupplied. Upward search doesnot needc0;uniformity/delta not ordinarylogarithmicclassicalzero-free region. No practicalell size guaranteed."
+  },
+  "method_contracts": [
+    {
+      "key": "DENSE-FACTOR-CONTRACT",
+      "title": "完整素域因式分解与输入位长",
+      "label": "thm:factorization",
+      "input": "Primebinaryp,nonzero densef",
+      "output": "Leadingcoefficient plusdistinctmonicirreducibles/multiplicities;constantempty",
+      "cannot_transfer": "Uniformbitbound10^12 andunreadcompanionproof;not speedup or integerfactorization"
+    },
+    {
+      "key": "AUX-PRIME-REDUCTION",
+      "title": "辅助素数的数值成本与代数归约",
+      "label": "thm:reduction",
+      "input": "Verifiedell_q foreachprimeq<=n whenlargep",
+      "output": "Factorizationwithcost polynomialB+E",
+      "cannot_transfer": "E numericalnotlogE;auxprimesnotfreeoracle"
+    },
+    {
+      "key": "DYNAMIC-EVALUATION",
+      "title": "未知根上的同步计算与分叉见证",
+      "label": "ff:simultaneous",
+      "input": "Totallysplit squarefreeF overFp,extensionfieldk",
+      "output": "Commonfieldtrace orproperFp gcd",
+      "cannot_transfer": "Olddynamic evaluation;no free roots/unknowncomponents"
+    },
+    {
+      "key": "PRIMARY-DIGITS",
+      "title": "小素数primary群的逐位离散对数",
+      "label": "ff:unitroot",
+      "input": "Providedfullq-primarygenerator,promisedunitqpower",
+      "output": "Rootsviaoddq digits,degreepartitionsandCRT",
+      "cannot_transfer": "NotgeneralDLog/cryptoattack;generatorandpromisecharged"
+    },
+    {
+      "key": "TABLE-INDUCTION",
+      "title": "严格降低次数的primary数据表",
+      "label": "table:construction",
+      "input": "Verifiedauxprimes,increasingq",
+      "output": "Kq,zetaq,omegaq andonlydegreeq-1factorcalls",
+      "cannot_transfer": "No hiddenfullfactorizationoracle;preprocessonce"
+    },
+    {
+      "key": "EVEN-TOURNAMENT",
+      "title": "偶数根对定向的整数计数不平衡",
+      "label": "ff:even-split",
+      "input": "EvenN,p>N,full2primarydata",
+      "output": "Properfactorfromrowcounts",
+      "cannot_transfer": "Oldnonresidue-assistedmethod;notodd-degreegain"
+    },
+    {
+      "key": "INFINITY-LATTICE",
+      "title": "保留类之外的整格除法障碍",
+      "label": "geom:filtration",
+      "input": "PairJclass anddegreezeroinfinitydivisor",
+      "output": "Ttfiltrationretains integralW",
+      "cannot_transfer": "CannotdropW or substituteclassdivisibility"
+    },
+    {
+      "key": "RATIONAL-LIFTS",
+      "title": "受控扩域中的所有逐次除法",
+      "label": "geom:lifts",
+      "input": "Cyclicqcover,r=vqN",
+      "output": "Actualchosenlifts overdegreeq^r<=N",
+      "cannot_transfer": "Finitefielddescent;notgenericnumberfields"
+    },
+    {
+      "key": "REACHED-LABEL-TESTS",
+      "title": "只在已达测试维护标签不变量",
+      "label": "geom:separation",
+      "input": "Correctdm andlatticechain",
+      "output": "Nonconstantlabelbytestm",
+      "cannot_transfer": "No invariantassertedatfutureunreachedtests"
+    },
+    {
+      "key": "UNFACTORED-DIVISORS",
+      "title": "未分解支撑的分式理想表示",
+      "label": "div:arithmetic",
+      "input": "Smoothcycliccover,absolute-degreeboundeddivisor",
+      "output": "Ideal/RR operationswithoutclosedpointfactorization",
+      "cannot_transfer": "Costinabsolute degree,notbinarycoefficientlength"
+    },
+    {
+      "key": "IDEAL-COMPRESSION",
+      "title": "特征多项式压缩与pushforward",
+      "label": "div:compression",
+      "input": "Representedfractionalideal/degreezeroD",
+      "output": "hplus/hminus andorbitnormj",
+      "cannot_transfer": "Degreezeroconditionneededatinfinity"
+    },
+    {
+      "key": "SIMULTANEOUS-IDEAL-PRODUCT",
+      "title": "行列式参数族替代未知分量乘积",
+      "label": "div:trace",
+      "input": "SplitA=k^s,commonbgenerators,primesubfield>s(b-1)",
+      "output": "Productidealnorm-gridcertificate",
+      "cannot_transfer": "Countsallgenerator/degree/scalarcosts;notindependentpointrecovery"
+    },
+    {
+      "key": "BINARY-FUNCTION-CIRCUITS",
+      "title": "大无穷系数的函数电路",
+      "label": "div:circuits",
+      "input": "Promisedprincipal(1-sigma)D-W,Wbinary",
+      "output": "Definingfunction circuit andLaurent-leadingevaluation",
+      "cannot_transfer": "No denseexpansion,intermediatepolesnotpointvalues"
+    },
+    {
+      "key": "PROMISED-NORM",
+      "title": "带存在性承诺的循环范数求解",
+      "label": "norm:solve",
+      "input": "Cyclicqcover,primarydata,largechar,Gpromisednorm",
+      "output": "hwithNormh=G,oraclefree",
+      "cannot_transfer": "Notmembershipdecision;denseglobal-sectioncostslarge"
+    },
+    {
+      "key": "PARABOLIC-FIBER",
+      "title": "完整块上三角代数的秩一见证",
+      "label": "norm:fiber-idempotent",
+      "input": "ConcreteBbasis conjugatetoFULLblockuppertriangular",
+      "output": "Tracekernel/commonkernel,vw rankoneidempotent",
+      "cannot_transfer": "Conservativeoddprimedimension/largechar;notcentralorinvariant1Dmodule"
+    },
+    {
+      "key": "LOCAL-SECTION-BOUND",
+      "title": "局部阶与全局截面有限线性系统",
+      "label": "norm:local-bounds",
+      "input": "Explicitcycliclocalmodels,dH,M",
+      "output": "q²(M(dH+1)+1)unknownsansatz",
+      "cannot_transfer": "Alltemporaryrows/precision/materialization charged,notfreegeometricfiber"
+    },
+    {
+      "key": "LAMBDA-DIVISION",
+      "title": "分歧点归一化与有理类除法",
+      "label": "div:divide",
+      "input": "KnownP andpromisedlambda-divisibleD",
+      "output": "ReducedDprime withlambdaDprime=D",
+      "cannot_transfer": "Normpromiseprovedbypointnormalization,nogenericclassdivision"
+    },
+    {
+      "key": "ODD-SPLITTER",
+      "title": "奇数次数的新分裂器与巨大入口阈值",
+      "label": "odd:split",
+      "input": "Largep>B^200000,splitF,fullprimarydata",
+      "output": "Properfactorwithoutknownroots",
+      "cannot_transfer": "Notoldsmallbranchbenchmark;unknownpracticalimplementation"
+    },
+    {
+      "key": "BERLEKAMP-DRIVER",
+      "title": "标准Frobenius代数与重数处理",
+      "label": "driver:correctness",
+      "input": "Monicinput,sameglobalB,availabletable",
+      "output": "Completefactors,zero-derivativesandsharedmultiplicities",
+      "cannot_transfer": "Olddriver/nosmallcontrolnewbenefit;aliasfactor notsecondtheorem"
+    },
+    {
+      "key": "SEQUENTIAL-BIT-COST",
+      "title": "完整位成本与缓慢辅助素数搜索",
+      "label": "complexity:bound",
+      "input": "B andnumericalE",
+      "output": "B^500000+B^100E^20 sequentialbound",
+      "cannot_transfer": "Uniformpolynomialnotpracticalfixedconstants orimplementedperformance"
+    },
+    {
+      "key": "HECKE-DEPENDENCY",
+      "title": "完整分解结论的跨族分析输入",
+      "label": "analytic:hecke",
+      "input": "F029Theorem1.2 forallHecke/cyclotomicmu12",
+      "output": "Uniformstripdelta10^-6 permitsauxellbound",
+      "cannot_transfer": "Selectedstatementonly,F029proof/recursivehistoryunknown;notneededbyfiberlemma"
+    }
+  ],
+  "selected_original_scopes": [
+    {
+      "key": "Altman2025",
+      "url": "https://arxiv.org/pdf/2509.12705v1",
+      "pdf_sha256": "46f147b51e910845f87f7b96b54e2072740b9a3cfc01f8c1b02d380605e7d7af",
+      "text_sha256": "fb091eeb19775875f2de6d11c47c6e6e82ae3798e093286a6ed7cddcbb9ada26",
+      "actual_text_ranges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "scope": "v1 16Sep2025,selected first2pages inclTheorem1.1:allprimes<N,monicirreducible integralinput,H>=2,splittingfielddegreem mayd!,amortized notsingleinput. No fullproof/implementation audit.",
+      "pdf_retained": false,
+      "full_body_read": false
+    },
+    {
+      "key": "IKR18",
+      "url": "https://arxiv.org/pdf/1508.07755v3",
+      "pdf_sha256": "3b8ea45059a603edbb3aa8c34a14ad65a5da35999c6d41fcd467499dc1a7f0b6",
+      "text_sha256": "ae9d08273eed37e70f3cf458e04e3e711a0b565daa424a41c4e732aaa9abe84f",
+      "actual_text_ranges": [
+        [
+          1,
+          110
+        ],
+        [
+          500,
+          625
+        ]
+      ],
+      "scope": "arxivstampv3 2Jan2017,authorcoverMarch1 2022,bibliographyjournal2018 keptdistinct. Selectedintro/Theorem1 andLemma23:general matrixalgebraf-algorithm uses finitefieldfactoringoracle,rankoneinintersection,andWedderburnMalcev/primitiveidemroute;notfullproof or primefield-only oracle replacement.",
+      "pdf_retained": false,
+      "full_body_read": false
+    },
+    {
+      "key": "Shoup90",
+      "url": "https://www.shoup.net/papers/detfac.pdf",
+      "pdf_sha256": "25f823a5a133191fe1278b96dfea3645d22f0cd21db86f73c25f17cd464959ea",
+      "text_sha256": "ec930912263e34b38f40dd4970389de45c3f55e1f617582a5b6102a55bb5542f",
+      "actual_text_ranges": [],
+      "scope": "AuthorPDF coverFebruary21 1989,prints1990journalidentity and1988technicalreportlineage. Textfontencoding unusable;ACTUAL pixels PDFpages1&2 read. WorstcaseO(p^(1/2)(logp)^2 n^(2+epsilon)) FIELDoperations anddifferent averageoveruniformpolynomials,epsilon fixedpolylogin n. Not same averaging asAltman;remaining8pages unread.",
+      "pdf_retained": false,
+      "full_body_read": false,
+      "actual_pixel_pages": [
+        1,
+        2
+      ],
+      "pixel_sha256": {
+        "1": "9c408f541f7f8568782c5c25a41d4ca667605d5383fa69443fb6b650c88f2604",
+        "2": "ca7543a0e2a059676f94ee7695c5a909239dca0e1dcd603c9cc24df2b92f6a56"
+      }
+    }
+  ],
+  "internal_companion_selected": {
+    "manuscript_id": "P-76cde1fd28d1b97b",
+    "family_id": "F-029",
+    "path": "math/preprints/Primitive-roots-for-every-admissible-integer-base-October-4-2026/build/sections/01-introduction.tex",
+    "sha256": "5cb01a814c568efa5bb6324ecfb9d556ea367e11fa5d59f455a5b203f9ce390d",
+    "actual_read_range": [
+      1,
+      115
+    ],
+    "claim_range": [
+      33,
+      53
+    ],
+    "scope": "Intro1-115 inclTheorem1.2 statement andsourcecontext;notwholeintro/paper orproof. WillcountonlypartialF029reading."
+  },
+  "formal_files_actually_read": [],
+  "formal_status": {
+    "matching_registered_entry_found": false,
+    "targeted_doc_142_present": false,
+    "targeted_title_and_namespace_search_match": false,
+    "claim": "No matching142spec found by title/catalogue/doc/namespace searches;not exhaustiveproofabsence claim",
+    "local_build": false,
+    "comparator": false,
+    "human_spec_review": false,
+    "full_dependency_chain": "unknown"
+  },
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "historical_external_roots": 28,
+  "historical_external_root_bodies_selected_checked": 3,
+  "remaining": [
+    "25otherexternalroot bodies inclBerlekamp/Cantor attempts403,Ronyai/Pila/Pohlig/fullgeometrysources andrecursiveoriginalversions unread.",
+    "F029onlyintro1-115;wholefamily/Heckeproof anditsF003/KazhdanPatterson/erratumdependencies unread.",
+    "No actualconsumerofguaranteedfullparabolicfiber,softwareimplementationorindependentbenchmark.",
+    "No completeLean/Comparatorproofaudit,humanorsecond-providerreview."
+  ],
+  "new_experiment": false,
+  "orchestration_note": "Current user-selectedOpenAIsession exactbackendunknown;no subagents/independentprovider. Fullnaturalreading/methoddraft notproofcertification."
+}

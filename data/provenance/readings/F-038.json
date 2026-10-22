@@ -1,0 +1,278 @@
+{
+  "family_id": "F-038",
+  "generation_id": "GEN-20261021-026",
+  "recorded_at": "2026-10-20T16:39:44.018171+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-2cc2bedc293afb0a",
+  "body_section_lines": 1654,
+  "source_lines_including_main": 1870,
+  "total_tex_lines": 2077,
+  "bibliography_tex_lines": 170,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/main.tex",
+      "sha256": "afaa6fd4138d6e7f987b2167f7f8cdbea85fb8e865c0d9d0f45ab458fbc7f5f2",
+      "lines": 216,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/sections/preliminaries.tex",
+      "sha256": "56be73f9b84eb1e75ff7baa7a9a0d0b070179d4c572ed274b234279210722285",
+      "lines": 211,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/sections/minimization.tex",
+      "sha256": "2ff56a33bb35a2fd538ecc37bbde84895ba618d1063baa6d63e9e122c70f5209",
+      "lines": 586,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/sections/centers.tex",
+      "sha256": "48b3cf5bbc3e70e5b451a1f54272613990717efd483e3b47b47927d276dbd23f",
+      "lines": 477,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/sections/isolation.tex",
+      "sha256": "7aa27c4e372bffe9f979b5031745bfefe49f1bb05a3b217dd99cd76ab4c258d0",
+      "lines": 380,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/references.tex",
+      "sha256": "f7ee1cf83a3ce5479c05da58a3e2aec145e77cec6ac59bfec88d4fd49fcc2e02",
+      "lines": 170,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/figures/proof-route.tex",
+      "sha256": "27a948427a7a73eef6e1c99f24f0ff7ff2edac652f43316173a900c4dd62af1e",
+      "lines": 37,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    },
+    {
+      "path": "math/preprints/Fujitas-freeness-conjecture-September-23-2026/build/references.bib",
+      "sha256": "ad3f77cc70917b2e307c06a96eb71bd2855bd62a0c5cfc1dc520851a6f8a3ef7",
+      "lines": 223,
+      "read_scope": "Entire sourceincludingproofs/figure/references"
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "statement": "The adjoint K_X+(n+1)L is globally generated.",
+      "conditions": "Smooth connected projective complex n-fold,n>=1;L ample,need not itself have sections.",
+      "constants_and_limits": "Sharp at P^n,O(1). A nonzero fiber value at each point;no point/tangent separation,very ampleness,explicit basis or solver complexity. Disconnected components separately;n0 trivial.",
+      "selected_grade": "C"
+    },
+    "cor:all-powers": {
+      "statement": "All integer m>=n+1 adjoints are globally generated.",
+      "conditions": "Same hypotheses;cannot simply tensor the sharp adjoint with L when L is not globally generated.",
+      "constants_and_limits": "Product trick X timesP^r,r=m-n-1;L external O(1);dimensionn+r andthresholdm. Restriction of(K_X+mL) external O(n) gives conclusion.",
+      "selected_grade": "C"
+    },
+    "lem:monomial-local": {
+      "statement": "Weighted monomial order can be computed at any smooth point of its open positive-support stratum.",
+      "conditions": "Fixed support,entire relative canonical divisor adapted to SNC coordinates;positive equations change byunits,zero-weight complementary coordinates arbitrary.",
+      "constants_and_limits": "A coefficient vanishing at chosen closedpoint butnonzeroalongstratum remains nonzero series in zero-weightvariables;do not replace generic coefficient by its point value.",
+      "selected_grade": "C"
+    },
+    "lem:retraction": {
+      "statement": "SNC retraction preserves listed section/divisor orders and lowers discrepancy;closed center can enlarge.",
+      "conditions": "Log resolution of all listed effective divisors,all exceptional components included;positive multiple of prime-divisor order;nonzero retraction support.",
+      "constants_and_limits": "A(v)>=sumv(Ej)A(Ej). Center contains original center;does not assert equal center or equality in discrepancy.",
+      "selected_grade": "C"
+    },
+    "lem:lct-family": {
+      "statement": "Threshold-at-most-c locus in V timesS is Zariski closed.",
+      "conditions": "V smooth complex projective,S algebraic;ideal generated by algebraic families restricted to fibers;no flatness of zero scheme required.",
+      "constants_and_limits": "Classical analytic semicontinuity plus algebraic constructibility/proper generic resolutions;unit ideal thresholdinfinity,zeroideal0. Not arbitrary nonalgebraic/numerical family.",
+      "selected_grade": "C"
+    },
+    "thm:kv": {
+      "statement": "Higher cohomology vanishes for rounded nef-and-big adjoint divisors.",
+      "conditions": "Smooth projective complex T;effective rational SNC Delta with coefficients[0,1);integral D;D-(K_T+Delta)nef andbig.",
+      "constants_and_limits": "Historical Kawamata-Viehweg input,notnewF038result. Rounding Q=D-K-Delta yields K+ceilQ=D. Does not imply ampleness/global generation on its own.",
+      "selected_grade": "C"
+    },
+    "lem:descent": {
+      "statement": "An upstairs section with exceptional positive correction descends regularly,and generic nonvanishing over a point gives nonvanishing there.",
+      "conditions": "Proper birational smooth varieties;integral correction positive part exceptional;primeF maps tox,correctioncoefficient0,sectiongenericallynonzeroonF.",
+      "constants_and_limits": "Negative nonexceptional coefficients allowed;codimension-one regularity andnormality. Not arbitrary pushforward or section extension preserving vanishing orders.",
+      "selected_grade": "C"
+    },
+    "lem:min-initials": {
+      "statement": "Initial exponent count equals h0,distinct initials give a basis,multiplicities grow at most linearly and exponent sets are additive.",
+      "conditions": "Regular parameters/frame atx;totaldegree thenlex firstmonomial;integral X andampleL.",
+      "constants_and_limits": "mult_x(s)<=Cj withCdependingX,L,x/veryamplemultiple;not universal known constant. H_j+H_q subsetH_(j+q),not equality.",
+      "selected_grade": "C"
+    },
+    "prop:ordinary-gap": {
+      "statement": "Failure of sharp adjoint generation forces liminf mean ordinary section order/j strictly above n/(n+1).",
+      "conditions": "Hypothetical basepointx;all large sectiondegrees;normalized byjN_j.",
+      "constants_and_limits": "Lattice minimal mean>=V^(1/n)n/(n+1),V=L^n positiveinteger;failurestrict forcesV1. Equality subsequence leads rationalproducts,strict monomialthreshold,semicontinuity,vanishing/descent. No effective gap or first usefulj.",
+      "selected_grade": "C"
+    },
+    "lem:min-order-bound": {
+      "statement": "v(s)<=A(v)mult_x(s),hence normalized orders<=Cm.",
+      "conditions": "Closed center containsx;admitted nonzero monomial/divisorial tests;effective sectionzero divisor at smoothpoint.",
+      "constants_and_limits": "Uses local lct>=1/multiplicity andrational approximation;A scales withv. Not valuation bound at arbitrary unrelatedpoint.",
+      "selected_grade": "C"
+    },
+    "lem:min-coercivity": {
+      "statement": "Exponential objectives are uniformly bounded away from zero/one under basepoint contradiction;sublevel discrepancies stay in[a*,a^*].",
+      "conditions": "m>=m0,tin[t0,n+1],0<t0<n+1;all bases/tests withclosedcentercontainingx.",
+      "constants_and_limits": "Constants dependX,L,x butuniformm,t;lowordinaryjetsgivekappa exp(A/2t). Bothlower/upper discrepancycontrolneeded;no numerical m0,a* supplied.",
+      "selected_grade": "C"
+    },
+    "lem:min-flags": {
+      "statement": "Realizability of a decreasing rational normalized-order list is closed inX and inX timescompleteflagvariety.",
+      "conditions": "Fixedm,Nm>0;divisorialwitness closedcentercontainsz;flags encodeallsubspaces/baseideals.",
+      "constants_and_limits": "ChooseM/alpha_i integers,ideal sum b_i^(M/alpha_i),lct<=1/M;properflagprojection. No compactness ofallbases/valuations asserted.",
+      "selected_grade": "C"
+    },
+    "prop:minimizers": {
+      "statement": "Finite-degree exponential infimum is attained by a basis andnonzero real-weightmonomialtest withuniform discrepancybounds.",
+      "conditions": "Hypothetical basepointx;large m,t inuniformranges;projective logresolution ofselectedbasisdivisors.",
+      "constants_and_limits": "Choose oneflag first throughnestedclosedrational-listloci,thenbasis,thenONEresolution,thencompact discrepancy-oneweight simplex. Zero limitingweights may enlargecenter;not an effective global numerical optimizer.",
+      "selected_grade": "C"
+    },
+    "lem:specialization": {
+      "statement": "At a very generaly inW,f_(m,t)(y)>=f_(m,t)(x) simultaneouslyforall t>0.",
+      "conditions": "Fixeddegree m,Nm>0;closedirreducibleWcontainsx;exclude countablymanyproper rational-listrealizabilityloci overC.",
+      "constants_and_limits": "Excludedloci independentoft. Verygeneralpoint is not arbitrary sample,constructivefinitepoint orsame y acrossallm withoutadditionalchoice.",
+      "selected_grade": "C"
+    },
+    "prop:point-center": {
+      "statement": "For one fixedt<n+1 and arbitrarilylargem,EVERY minimizingpair hascenter exactlyx.",
+      "conditions": "Basepointcontradiction;uniformrestrictionconstants overALLintegralsubvarieties,including singular/unboundeddegree centers.",
+      "constants_and_limits": "Fix t froma*>0 first;take subsequencef_m→positive liminf;differentiateeachfinitebasis at epsilon0;thenm→infinity atfixedpartitionl;onlythenl→infinity. Not every largem,not one favorableminimizer.",
+      "selected_grade": "C"
+    },
+    "lem:uniform-restrictions": {
+      "statement": "Restriction-IMAGE dimension has (d! I_W(h))^(1/d)>=h-Cd uniformlyoverintegrald-dimensional W.",
+      "conditions": "FixveryamplekL,1<=d<=n,largeh;W integralbutneednotsmooth;characteristiczero finitegenericprojectionseparable.",
+      "constants_and_limits": "D0=k^d;I_W(qk)>=D0*binomial(q-D0+d,d). Cd,Hd mayequalmaxresidueh_r+k^(d+1),independentofdegree/singularitiesW. Imagebound,not restrictionsurjectivity orfullH0(W)estimate.",
+      "selected_grade": "C"
+    },
+    "lem:rational-support": {
+      "statement": "Approximate profileq andpositivefunctionalb rationally,preserving exactlywhichindexedrationalpolytopes containq andtheir support inequalities.",
+      "conditions": "Finitefamilymayinclude repeats;q inunion,b>0,b dotq1,b dotz<=1 onallmemberscontainingq;openV aroundb.",
+      "constants_and_limits": "Chooseq0inintersectionofminimalrationalfaces avoidingallnonincidentclosedpolytopes;thenb0inrationalfeasiblepolyhedronwithb0dotq0=1. No uniformdenominatorbound,inputapproximationoracle orautomaticfaceidentification.",
+      "selected_grade": "C"
+    },
+    "lem:isolated-equality": {
+      "statement": "Allcomponents ofreducedS maptox andhaveboundarycoefficientA(F);everyotherSNCcomponentmeetingS hasstrictlysmallercoefficient.",
+      "conditions": "Rationalsupportprofileexcludespositive-dimensionalcenters;retainextractedF0;principalizeisolatingideal;allpositiveb0andeta rational in(0,1).",
+      "constants_and_limits": "Usesorderofsumideals=minimum,exactretractionequalityandallprofilecoordinatesincludingzeros. LocalnearS only;global boundarynotassumedlogcanonical. FinalC effectiveNEARS,positivepartexceptional;notgloballyeffective.",
+      "selected_grade": "C"
+    }
+  },
+  "quantifier_and_boundary_notes": [
+    "Sharp at P^n,O(1). A nonzero fiber value at each point;no point/tangent separation,very ampleness,explicit basis or solver complexity. Disconnected components separately;n0 trivial.",
+    "Product trick X timesP^r,r=m-n-1;L external O(1);dimensionn+r andthresholdm. Restriction of(K_X+mL) external O(n) gives conclusion.",
+    "A coefficient vanishing at chosen closedpoint butnonzeroalongstratum remains nonzero series in zero-weightvariables;do not replace generic coefficient by its point value.",
+    "A(v)>=sumv(Ej)A(Ej). Center contains original center;does not assert equal center or equality in discrepancy.",
+    "Classical analytic semicontinuity plus algebraic constructibility/proper generic resolutions;unit ideal thresholdinfinity,zeroideal0. Not arbitrary nonalgebraic/numerical family.",
+    "Historical Kawamata-Viehweg input,notnewF038result. Rounding Q=D-K-Delta yields K+ceilQ=D. Does not imply ampleness/global generation on its own.",
+    "Negative nonexceptional coefficients allowed;codimension-one regularity andnormality. Not arbitrary pushforward or section extension preserving vanishing orders.",
+    "mult_x(s)<=Cj withCdependingX,L,x/veryamplemultiple;not universal known constant. H_j+H_q subsetH_(j+q),not equality.",
+    "Lattice minimal mean>=V^(1/n)n/(n+1),V=L^n positiveinteger;failurestrict forcesV1. Equality subsequence leads rationalproducts,strict monomialthreshold,semicontinuity,vanishing/descent. No effective gap or first usefulj.",
+    "Uses local lct>=1/multiplicity andrational approximation;A scales withv. Not valuation bound at arbitrary unrelatedpoint.",
+    "Constants dependX,L,x butuniformm,t;lowordinaryjetsgivekappa exp(A/2t). Bothlower/upper discrepancycontrolneeded;no numerical m0,a* supplied.",
+    "ChooseM/alpha_i integers,ideal sum b_i^(M/alpha_i),lct<=1/M;properflagprojection. No compactness ofallbases/valuations asserted.",
+    "Choose oneflag first throughnestedclosedrational-listloci,thenbasis,thenONEresolution,thencompact discrepancy-oneweight simplex. Zero limitingweights may enlargecenter;not an effective global numerical optimizer.",
+    "Excludedloci independentoft. Verygeneralpoint is not arbitrary sample,constructivefinitepoint orsame y acrossallm withoutadditionalchoice.",
+    "Fix t froma*>0 first;take subsequencef_m→positive liminf;differentiateeachfinitebasis at epsilon0;thenm→infinity atfixedpartitionl;onlythenl→infinity. Not every largem,not one favorableminimizer.",
+    "D0=k^d;I_W(qk)>=D0*binomial(q-D0+d,d). Cd,Hd mayequalmaxresidueh_r+k^(d+1),independentofdegree/singularitiesW. Imagebound,not restrictionsurjectivity orfullH0(W)estimate.",
+    "Chooseq0inintersectionofminimalrationalfaces avoidingallnonincidentclosedpolytopes;thenb0inrationalfeasiblepolyhedronwithb0dotq0=1. No uniformdenominatorbound,inputapproximationoracle orautomaticfaceidentification.",
+    "Usesorderofsumideals=minimum,exactretractionequalityandallprofilecoordinatesincludingzeros. LocalnearS only;global boundarynotassumedlogcanonical. FinalC effectiveNEARS,positivepartexceptional;notgloballyeffective.",
+    "Finite-degreeminimizationdoesnotprovideuniformeffective m0,veryamplek,jetresiduedegrees,denominatorboundoralgorithmforarbitraryinputvariety.",
+    "CentereliminationneedsuniversalALLminimizerspoint-centered,notjustexistenceofonepointcenter;isolationreusesotherprofileswithsameobjective.",
+    "Threshold/floorroundingandlocalnearSsurjectivityseparatefromglobalboundaryLC. Chanwithdrawalaboutpreservingextensionorderiscontextualfailure,notarefutationofthisdifferentconstruction."
+  ],
+  "selected_original_scopes": {
+    "angehrnsiu1995": {
+      "url": "https://people.math.harvard.edu/~siu/siu_reprints/siu_angehrn_invent1995.pdf",
+      "locator": "Printedp291,PDFpage2;Theorem0.1,Corollary0.2,Theorem0.3,Corollary0.4 scanvisuallychecked",
+      "scope": "Compactcomplexmanifold/ampleL:globalgeneration at m>=(n²+n+2)/2;distinctr-pointseparation at m>=(n²+2rn-n+2)/2. Olderquadratic sufficientbounds;pointseparation differsfromglobalgeneration andtangentseparation."
+    },
+    "han2026": {
+      "url": "https://arxiv.org/html/2609.01574v2",
+      "locator": "11Sep2026v2;Theorem1.1 andCorollary1.2",
+      "scope": "SmoothcomplexprojectiveX,ampleCartierL;globalgeneration for m>=ceil(C0 n),C0=1.77629988... definedbyexplicitintegral;2n simplerbound. Olderlinearboundscopeonly,noproofaudit/sectionalgorithm."
+    },
+    "ghidellilacini2024": {
+      "url": "https://londmathsoc.onlinelibrary.wiley.com/doi/full/10.1112/plms.12591",
+      "locator": "Published2024;Theorems1.1-1.2 andSection1/4 selectedoptimizationdiscussion",
+      "scope": "Smoothprojective dimensionn>=2,algebraicallyclosed characteristiczero,ampleCartierA:globalgeneration m>=n(loglogn+2.34). Specialdimension6 m>=8. Earlierjointpolytopeoptimizationexists;notproofthat everyminimization idea isnew."
+    },
+    "kawamata1997": {
+      "url": "https://arxiv.org/html/alg-geom/9510004v2",
+      "locator": "19Dec1995v2;Introduction andTheorems3.1/4.1 statedscope",
+      "scope": "Smoothprojective3/4-fold Fujitafreeness alreadyknown;m>=n+1. Strongerpointwiseintersection formulation hasallspecifiedsubvarietyconditions;notgeneralunconditionalallsingularX orveryampleness."
+    },
+    "fujita1993": {
+      "url": "https://arxiv.org/pdf/alg-geom/9311013v1",
+      "locator": "30Nov1993v1;Section1(1.3)-(1.6),printedpp2-3",
+      "scope": "ThreefoldargumentwithnefandbigB,curve/surface/volumeconditions. No-bad-place discrepancyconfiguration allowsKVvanishingandnonzerofiberlift. F038 borrowslocalmechanism,notanold all-dimensional theorem orcompleteproofdependency."
+    },
+    "fujinoKV": {
+      "url": "https://www.math.kyoto-u.ac.jp/~fujino/kawamata--viehweg2.pdf",
+      "locator": "Version1.04,22Jul2009,p1Theorem0.1;ceil symbolvisuallychecked",
+      "scope": "SmoothX,proper surjectivepi,Q-divisorQ pi-nefandpi-big,normalcrossingfractionalpart:Ri pi_*O(K+ceilQ)=0,i>0. Specializetoprojectivemaptoapoint. Lecturestatement checked;originalKawamata/Viehwegproofsremainunread."
+    },
+    "dk2001": {
+      "url": "https://arxiv.org/pdf/math/9910118v2",
+      "locator": "1May2000v2;Theorem3.1 andLemma3.2 printedpp14-15",
+      "scope": "Holomorphicfamilieshave lowersemicontinuoussingularityexponents;Lemma3.2 providesanalyticparametersemicontinuity/uniformintegrabilitybelowthreshold. F038 addsideal-familyconstructibilityandproperflagprojection;notclaimedevery suchstepistheoriginal theoremverbatim."
+    },
+    "howald2001": {
+      "url": "https://arxiv.org/html/math/0003232v1",
+      "locator": "v1;MainTheorem andExample4",
+      "scope": "Monomialideal multipliermembership iff exponentplusones liesinINTERIOR ofscaledNewtonpolyhedron. Arbitrarypolynomial withsame monomials canhave differentmultiplierideal;oldformula not genericnonmonomialshortcut."
+    },
+    "chan2024": {
+      "url": "https://arxiv.org/abs/2411.07129v2",
+      "locator": "24Nov2024v2 officialwithdrawal andauthorcomments",
+      "scope": "Withdrawn:localholomorphicextensionneednotpreserve requiredvanishingorder;authorgivesxy=z²example. Withdrawalstatus/reason checked,notfullv1proof. Retainhistoricalfailure,notavalidtheoremdependency."
+    }
+  },
+  "temporary_original_pdf_checks": [
+    {
+      "url": "https://people.math.harvard.edu/~siu/siu_reprints/siu_angehrn_invent1995.pdf",
+      "sha256": "278c6c3b15526b64a37d2e067dfb38c9fa231166d6f1f5dd5bbb6401baf03e58",
+      "bytes": 1747727,
+      "pdf_page_1_based": 2,
+      "reading_method": "Renderedoriginalpageactuallyviewed",
+      "retention": "TemporaryPDF/pageimagesremovedafterhashrecord;nofulltextcopied"
+    },
+    {
+      "url": "https://www.math.kyoto-u.ac.jp/~fujino/kawamata--viehweg2.pdf",
+      "sha256": "89f489669fd3b1c57da742ae54ed97b53ada10123fb837fb3d438bfb7830c0b3",
+      "bytes": 89515,
+      "pdf_page_1_based": 1,
+      "reading_method": "Renderedoriginalpageactuallyviewed",
+      "retention": "TemporaryPDF/pageimagesremovedafterhashrecord;nofulltextcopied"
+    }
+  ],
+  "formal_scope_search": {
+    "doc": "math/lean/docs/038.md absent",
+    "searches": [
+      "case-insensitiveFujita/freenessin formalization.yaml/docs/ComparatorChallenges;onlyunrelatedmatches",
+      "case-insensitiveFujita/Fujitas/FujitaFreenessin OAI/**/*.lean returnednomatches"
+    ],
+    "matching_declared_scope_found": false,
+    "local_build": "not_run",
+    "comparator": "not_run",
+    "human_review": "missing"
+  },
+  "new_numerical_run": null,
+  "new_application_connection_ids": [],
+  "failed_retrievals": [
+    "ASwebPDFparseronly27lines/scanned;authorizedcurl/renderp291recovered.",
+    "FontconfigreportedunwritablecachewhileASrendering;imagesproducedandactuallyviewed;no cacheinstalled."
+  ]
+}

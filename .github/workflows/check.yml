@@ -1,0 +1,33 @@
+name: offline-core
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  core:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+      - run: python scripts/check.py
+      - run: python scripts/replay_run.py experiments/runs/EXP-128-001-adf42abc31aca23e
+      - run: python scripts/replay_run.py experiments/runs/EXP-097-001-f4db184a4c5e6d4d
+      - run: python scripts/replay_run.py experiments/runs/EXP-130-001-eadb2e7b3a00d556
+      - run: python scripts/replay_run.py experiments/runs/EXP-374-001-bc1d2887fa6a5d33
+      - run: python scripts/replay_run.py experiments/runs/CHK-374-MOMENTS-001-67a3ef843df4bf9f
+      - run: python scripts/replay_run.py experiments/runs/EXP-238-001-a1d52c04aeb9b1ba
+      - run: python scripts/replay_run.py experiments/runs/EXP-200-001-a8300854205212bf
+      - run: python scripts/replay_run.py experiments/runs/CHK-200-LEX-001-433f4f99a2d5ac2e
+      - run: python scripts/replay_run.py experiments/runs/EXP-221-001-be34f84b97b2e9a9
+      - run: python scripts/replay_run.py experiments/runs/EXP-314-001-ce8cf18c32275b81
+      - run: python scripts/replay_run.py experiments/runs/EXP-325-001-9bedfaa5ac3a53d0
+      - run: python scripts/replay_run.py experiments/runs/EXP-076-002-1f8537b7fd40d564
+      - run: python scripts/replay_run.py experiments/runs/EXP-119-001-e9d098be0b1dda8f
+      - run: python scripts/replay_run.py experiments/runs/EXP-332-001-b2607a9926c44586
+      - run: PYTHONPATH=src python -m ai_value.cli export-graph
+      - run: python scripts/audit_publication.py
+# Includes all standard-library archived checks. The optional NumPy bosonic
+# experiment has a separate pinned runtime and is not run by this job.
+# Actual remote outcomes are recorded only after runs; software CI does not
+# build Lean, call external models, or certify mathematics/application value.

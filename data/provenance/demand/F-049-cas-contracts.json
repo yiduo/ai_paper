@@ -1,0 +1,155 @@
+{
+  "family_id": "F-049",
+  "work_package": "WP-070",
+  "generation_id": "GEN-20261021-066",
+  "recorded_at": "2026-10-21T02:37:22.055744+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "selected_source_lines": 1442,
+  "sources": {
+    "sage-morphism.pyx": {
+      "repository": "https://github.com/sagemath/sage",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "src/sage/rings/morphism.pyx",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/rings/morphism.pyx",
+      "sha256": "b4a8aa51234a6d36972b4bd9d82735c6198e86c842961813f88674286d246629",
+      "bytes": 123193,
+      "total_lines": 3291,
+      "read_ranges": [
+        [
+          1,
+          65
+        ],
+        [
+          390,
+          420
+        ],
+        [
+          1003,
+          1150
+        ],
+        [
+          1297,
+          1790
+        ],
+        [
+          3207,
+          3291
+        ]
+      ],
+      "read_lines": 823,
+      "full_file_read": false,
+      "full_file_retained": true,
+      "license": "GPL-2.0-or-later Sage originalcode;SingularGPL2or3;archiveunderGPL3withcompleteSageCOPYINGandSingularnotice"
+    },
+    "SAGE-COPYING": {
+      "repository": "https://github.com/sagemath/sage",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "COPYING.txt",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/COPYING.txt",
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "bytes": 61362,
+      "total_lines": 1285,
+      "read_ranges": [
+        [
+          1,
+          35
+        ],
+        [
+          133,
+          138
+        ]
+      ],
+      "read_lines": 41,
+      "full_file_read": false,
+      "full_file_retained": true,
+      "license": "GPL-2.0-or-later Sage originalcode;SingularGPL2or3;archiveunderGPL3withcompleteSageCOPYINGandSingularnotice"
+    },
+    "singular-algebra.lib": {
+      "repository": "https://github.com/Singular/Singular",
+      "revision": "4d253ff427cae6718de42b81149e3c3953f8e866",
+      "path": "Singular/LIB/algebra.lib",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/4d253ff427cae6718de42b81149e3c3953f8e866/Singular/LIB/algebra.lib",
+      "sha256": "49dc35f701b156d427118aec34bd3304938bdcdd396aa7b4ddc8cefa11a2f88c",
+      "bytes": 38457,
+      "total_lines": 1193,
+      "read_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          499,
+          858
+        ]
+      ],
+      "read_lines": 460,
+      "full_file_read": false,
+      "full_file_retained": true,
+      "license": "GPL-2.0-or-later Sage originalcode;SingularGPL2or3;archiveunderGPL3withcompleteSageCOPYINGandSingularnotice"
+    },
+    "SINGULAR-COPYING": {
+      "repository": "https://github.com/Singular/Singular",
+      "revision": "4d253ff427cae6718de42b81149e3c3953f8e866",
+      "path": "COPYING",
+      "url": "https://raw.githubusercontent.com/Singular/Singular/4d253ff427cae6718de42b81149e3c3953f8e866/COPYING",
+      "sha256": "53d2a2b37105ad8ca4fe5d1450d592e8ee1367955ff8cb9c27995a405353e29b",
+      "bytes": 5654,
+      "total_lines": 118,
+      "read_ranges": [
+        [
+          1,
+          118
+        ]
+      ],
+      "read_lines": 118,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "GPL-2.0-or-later Sage originalcode;SingularGPL2or3;archiveunderGPL3withcompleteSageCOPYINGandSingularnotice"
+    }
+  },
+  "original_usage": {
+    "title": "Length 2 variables of A[x,y] and transfer",
+    "authors": "Eric Edo and Stéphane Vénéreau",
+    "url": "https://www.impan.pl/shop/en/publication/transaction/download/product/85204",
+    "doi": "10.4064/ap76-1-6",
+    "version": "Published2001AnnPolMath76pp67–76;10pages",
+    "scope": "Notation1pp68 andDefinitionnonzerodivisors;Theorem7+proofprinted75/rendered579–588,relatedTheorem8selected615–626;notwholepaperproof",
+    "notes": "A× denotesNONZERODIVISORS,notunits. Theorem7:p nonzerodivisor,aunitmodp,coefficientsGnilpotentmodp,Falreadyvariable=>aF+G+pxvariable. RequiresvariablecertificateforF,notgeneralcoordinateoracleorstablevariabledescent. OldtransfermatchingOctsourceH=L-u+pQ0;doesnotproveSeptarbitraryCommRingliftingisneworfast.",
+    "full_text_read": false,
+    "raw_PDF_retained": false
+  },
+  "decisions": [
+    "Sage实际接受给定的完整环映射并计算逆：inverse先检验单射，再为每个陪域生成元求原像，缺原像报不满射；is_invertible分别检查两者。其现有文档明确举例同一多项式映射在原环不可逆、商环可逆，没有把商同构冒充环境自同构。已知完整映射与“寻找其余分量使一个f成为坐标”是不同问题，给定映射求逆失败不证明f非坐标。",
+    "Sage的图理想包含两边关系，商环时必要时回到覆盖环消元；默认通过Gröbner正规形求原像，并缓存相关对象。支持范围包含整数和部分商环，源码有零环、非约化商及QQbar例，不能一概说只支持域。实际要求交换、同基环、平凡基映射、全局项序及已实现的reduce；任意CommRing或参数域并无统一运行保证。完整单射后端和Singular依赖未读，未执行这些文档例。",
+    "Singular实际alg_kernel／is_injective／is_surjective／is_bijective用关系与标准基、正规形，区分基环和源环；目标qring保留定义理想，源为商环时核再模I检查。它明确提示源商映射还需良定义、局部／混合项序下返回1须谨慎解释，不能把未验证的源关系当同构证书。完整algDependent、create_ring、NF和标准基后端未读，未据此声称所有设置已证明正确或发现软件错误。",
+    "旧方法对照更强：已有图理想消元、逐生成元原像和双向复合可核验给定商同构／完整环境映射。F049显式Bézout和无除法公式可形成另一条证书路径，但寻找证书、关系核验、表达式膨胀、正规形和所有反向复合的成本必须统一计；仅在已知公式上重算恒等式不是新应用增益。原文任意交换环引理不自动赋予CAS对所有交换环的实现。",
+    "Edo–Vénéreau2001原始Theorem7另作选读：该文A×表示非零因子而非单位；p非零因子、a模p为单位、G各系数模p幂零且F已经是变量时，aF+G+px为变量。旧transfer有这些条件，不是任意坐标判定器或删除稳定变量规则。它匹配十月源文H=L-u+pQ0的旧结构步骤，不将旧定理或本包源码审核计为新数值验证。",
+    "结论：两个问题及消费者／强旧成本闸门仍未建立，降低直接数值优先级，保留可重访条件。没有观察到这两CAS把纤维或稳定证书误判为环境坐标，也没有新候选、初检或实验。下一份资源应回到未覆盖代数／拓扑或实复分析；本包之后立即进行全局复盘025。"
+  ],
+  "qualified_progress_notes": [
+    "Sageactualgivenfullmapinverseusesinjectivity+preimagesofallcodomaingenerators;explicitdocumentationdistinguishambientRandinvertiblequotientQ. No observedAPIconfusion.",
+    "SageallowsZZandsomequotientringsincludingnilpotent/zeroringexamples,butgraphrequirescommutativity/samebase/trivialbasemap/globaltermorder/implementednormalreduction;notALLCommRingguarantee. Completeisinjectivebackendunread.",
+    "Singularalg_kernel/is_injective/is_surjective/is_bijectiveusealgebraicrelations/standardbasis/normalformsandaccounttargetqring/sourcequotientmodIwithexplicitwell-definednessandlocalordercaveats. FullalgDependent/helper/backendclosureunread.",
+    "Neithergivenmapinversefailure norAPIlimitationprovesonepolynomialcannotbecompletedtoacoordinate. Neitherclaimsallfibres/stabledescentisambientcertificate.",
+    "No actualF049consumer/wholecostcandidate established;oldexactsubstitution/Groebner/transferalreadyavailable;no newnumeric/initial.",
+    "ReuseGPLlicensefromWP065samecommitarchive,roundtripshaverified;firstlookupwrongledgerkeyandCOPYINGwithout.txt corrected,notnetwork/downloadfailure."
+  ],
+  "archive": {
+    "path": "data/provenance/demand/cas-interfaces-20261021.json.gz",
+    "sha256": "babd1d93dfb393f403ade934d6f62e1dd64f31f6e8fe5022293847c41ecff0ad",
+    "uncompressed_sha256": "5168679cca15765c88412901a5d7d55e5243ef13f5f3b2d0eb8eee7481c9615f",
+    "bytes": 55456,
+    "members": 4,
+    "roundtrip": true,
+    "license": "SageoriginalGPL2-or-laterandSingularGPL2or3;completeGPL3textincludedinSageCOPYING,allcopyrightandSingularnoticesretained",
+    "license_reused_from": "WP065sameSagecommitarchivewithverifiedsha,notnewfulllicenseread"
+  },
+  "remaining": [
+    "NoactualF049ambientcoordinatecompletion/zerodivisorringeliminationconsumerorqualifiedworkload/costprotocol.",
+    "CompleteCASbackend/algDependent/reduction/isinjectiveclosureunread;notinstalled/executed.",
+    "20otherexternalrootbodiesplusinternalF047andrecursivehistoryunread;human/secondproviderdeferred."
+  ],
+  "new_numerical_run": false,
+  "source_audit_not_external_application_check": true
+}

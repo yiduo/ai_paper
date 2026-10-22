@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-21T06:07:40.187560+00:00",
+  "generation_id": "GEN-20261021-077",
+  "failure": "61 unit tests andgraphvalidate passed butfullcore report stageTypeError:stringindicesmustbeintegers",
+  "cause": "NewANALYSIS-F-231curatormistakenlystoredformal_statement_comparisonaslistoftextboundaries;existingreportconsumesstructureditem/natural/Lean/assessment objects. Dataformat mistake,not source/theorem/numericalfailure.",
+  "repair": "Preserveexactv1recordandlog;newv2samefourboundariesinexpectedstructuredobjects. Sourceledger/namedstatementbindings/prediction/grades unchanged. Existingfullcheckreportstagecorrectlycaughtproblem;no looseningreporter/schema/testcriteria.",
+  "history": "data/graph/history/GEN-20261021-077-analysis-format-before.json.gz",
+  "old_record_version": 1,
+  "new_record_version": 2,
+  "source_ledger_unchanged": true,
+  "earlier_export": "Started after unit tests/validate but before noticing report failure;discard as final validation evidence. Fullcore must pass before re-export."
+}

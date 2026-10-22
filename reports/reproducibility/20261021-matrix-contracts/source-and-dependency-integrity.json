@@ -1,0 +1,136 @@
+{
+  "recorded_at": "2026-10-21T00:49:34.436640+00:00",
+  "archive_members_verified": 7,
+  "selected_source_lines": 1308,
+  "old_canonical_records": 2555,
+  "unchanged_prior_records": 2553,
+  "changed_exact_history_records": [
+    "ANALYSIS-F-142",
+    "APP-142-01"
+  ],
+  "all_prior_explicit_edges_byte_unchanged": true,
+  "new_canonical_records": 10,
+  "full_nodes": 4675,
+  "full_edges": 11536,
+  "canonical_citations": 4148,
+  "navigation_consistent": true,
+  "gates_invalidate_candidate_not_theorem": {
+    "PART-142-CONSUMER-PARABOLIC-GATE": [
+      "APP-142-01",
+      "PART-142-CONSUMER-PARABOLIC-GATE"
+    ],
+    "PART-142-RESOURCE-CAP-GATE": [
+      "APP-142-01",
+      "PART-142-RESOURCE-CAP-GATE"
+    ],
+    "PART-142-OUTPUT-SEMANTICS-GATE": [
+      "APP-142-01",
+      "PART-142-OUTPUT-SEMANTICS-GATE"
+    ],
+    "PART-142-STRUCTURE-BASELINE-GATE": [
+      "APP-142-01",
+      "PART-142-STRUCTURE-BASELINE-GATE"
+    ]
+  },
+  "Hecke_invalidation_excludes_matrix_candidate": true,
+  "archives": [
+    {
+      "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-076-002-1f8537b7fd40d564",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-119-001-e9d098be0b1dda8f",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-128-001-adf42abc31aca23e",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-130-001-eadb2e7b3a00d556",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-200-001-a8300854205212bf",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-221-001-be34f84b97b2e9a9",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-314-001-ce8cf18c32275b81",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    },
+    {
+      "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+      "output_and_archived_source_hashes": true,
+      "gzip_json_readable": true
+    }
+  ],
+  "representative_support_and_adverse_replays": true,
+  "upstream_clean": true,
+  "analogy_distribution": {
+    "near": 24,
+    "far": 8,
+    "bold": 1
+  },
+  "new_application_run": false,
+  "metrics": {
+    "nodes": 4675,
+    "research_nodes": 2564,
+    "edges": 11536,
+    "citations_checked": 4146,
+    "candidate_connections": 33,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 35,
+    "source_decomposition_drafts": 29,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

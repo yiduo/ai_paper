@@ -1,0 +1,116 @@
+{
+  "work_package": "WP-079",
+  "generation_id": "GEN-20261021-075",
+  "recorded_at": "2026-10-21T05:12:44.547571+00:00",
+  "family_id": "F-094",
+  "candidate": "APP-094-02",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "source_selected": {
+    "math/preprints/Subpolynomial-dimension-reduction-in-Lp-September-23-2026/build/paper.tex": {
+      "sha256": "6f5d1172e36ab41c2700eafc4e7a73f9d7e8b07d8f59c1e600a831bacf54aa2e",
+      "ranges_actually_reread": [
+        [
+          270,
+          545
+        ],
+        [
+          545,
+          710
+        ],
+        [
+          880,
+          1045
+        ]
+      ],
+      "scope": "Weightedseparation/sampling,projectionBrouwer,Poissoncommonlaw,clippingandgrowth;notwholefreshread"
+    }
+  },
+  "original_source_ledger": "data/provenance/readings/F-094.json",
+  "asset_manifest": "data/provenance/demand/PapalexiSatija2021-protein-source.json",
+  "partial_profile": "data/provenance/demand/PapalexiSatija2021-protein-admission-profile.json",
+  "data_asset": {
+    "name": "PapalexiSatija2021_eccite_arrayed_protein.h5ad",
+    "source_url": "https://zenodo.org/api/records/10044268/files/PapalexiSatija2021_eccite_arrayed_protein.h5ad/content",
+    "original_bytes": 550922,
+    "official_checksum": "md5:5e4346855f70c7ae90da9eb75ea12414",
+    "original_sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4",
+    "retained_path": "data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz",
+    "retained_gzip_bytes": 143497,
+    "retained_sha256": "7a49b8efb119e764b11ef8cf3ceb53d16440e95efe926e3097b86e4d1c7e3d90",
+    "roundtrip_verified": true
+  },
+  "license": "CC-BY-4.0",
+  "reader_assets": [
+    {
+      "path": "data/provenance/tools/pyfive-0.4.0-py2.py3-none-any.whl",
+      "bytes": 24951,
+      "sha256": "19afd3629f47536e91b6b7af830da2ce4e8dc7ceb2ee87e4313c010e3399a80c"
+    },
+    {
+      "path": "data/provenance/tools/pyfive-1.0.0-py3-none-any.whl",
+      "bytes": 54097,
+      "sha256": "599a6cca6058d612b4e4a97e2fe3ea0f2f30a7729aa18ac8f2af6bfee38a2dcb"
+    },
+    {
+      "path": "data/provenance/tools/pyfive-1.0.0-LICENSE.txt",
+      "bytes": 1532,
+      "sha256": "33cab23f5ab68cde3a44257bd2f85c5ff362b7d0fcc748e45dbe3a938263ac3f"
+    }
+  ],
+  "actual_profile": {
+    "shape": [
+      8984,
+      4
+    ],
+    "numeric_entries": 35936,
+    "nonfinite": 0,
+    "negative": 0,
+    "duplicate_feature_rows_beyond_first": 48,
+    "zero_rows": 0,
+    "metadata_fields_unread": 14,
+    "complete": false,
+    "cell_id_uniqueness": null,
+    "biological_label_geometry_established": false
+  },
+  "selected_primary_scopes": [
+    {
+      "url": "https://zenodo.org/records/10044268",
+      "scope": "Actualfixed1.3 APIlicense/50filemanifest/selectedmemberbytehash;nootherlargedatasetsdownloaded"
+    },
+    {
+      "url": "https://pertpy.scverse.org/en/1.0.3/_modules/pertpy/data/_datasets.html",
+      "scope": "Selecteddistance_example572-592andcinemaot_example1847-1869dataloaderdescriptions/URLs only;NOTexecuted/downloaded. No exactlicense/size establishedforthoseexampleassets."
+    },
+    {
+      "url": "https://webusers.imj-prg.fr/~alexandros.eskenazis/quasi-dimension.pdf",
+      "sha256": "638b34c35ae03bebb0dea2a501d69071468f6165a83c83360e2adbc5609adcf9",
+      "bytes": 203313,
+      "scope": "Samehashasoldledger;actualselectedProp11/Remark12/Cor13andfinitealgorithmicdiscussionPDFpp8-9/web1174-1353. No wholefreshproofaudit.",
+      "summary": "Old explicit envelope measure-change and constructive empirical/greedy baseline;additive distance-power objective differs from uniformrelativeallpair target. New source still requires separately executable common law."
+    }
+  ],
+  "findings": [
+    "Actualsmalllicensedsourcefound:Zenodo10044268version1.3 CC-BY4.0 member550922B officialMD5/SHAverified;exactunmodifiedh5adoutergzip143497B. Genericgzipisstoragehygiene,NOTF094embeddingperformance.",
+    "ActualnumericCSC8984cellobservationsx4proteincoordinates,35936finite/nonnegativeintegerentries,48duplicatefeature rows beyondfirst/0zero rows. ncounts/ngenesreconcileall8984rows. Duplicatescouldbelegitimatequantizedreadouts,not automaticallybadrows;do notcount8984distinctgeometricpoints.",
+    "Fourteen stringmetadatafields unreadbyunmodifiedgenericreaders,includingcellIDs/perturbation/protein names. Missingvalues/IDuniqueness/biologicallabelcounts UNKNOWN,notasserteddatasetdefects. Parsererrorsretained,no stubbedstrings orpatchedthirdpartycode.",
+    "0.4.0genericreaderNotImplementedError,1.0.0 ValueError/struct.error onchunkedstrings. ExistingNumPy2.3.5/Python3.12.14 reused viazipimport,notpip/envinstall;latest1.3missingnumcodecs/fsspecnotinstalled. Full1.0BSDlicensefromexactsdistretainedbecausewheelomittedit.",
+    "Rowsarecellsnotperturbation-levelresponseprofiles. Pseudobulk/normalization/p/D/distortion/judge/gapmarginsnotfrozen. Experimentalguideidentityifreadlaterisnotindependentlyprovedphenotypicgeometry;labelconflictsatidenticalvectorsnotobservedherebecauselabelsunread.",
+    "Rawfourcoordinateidentityisamandatoryexactlowcostoldbaseline;doesnotprovecompressionimpossible. Coordinatecount/encodedfloatprecision/metadata/mapoverheads separate;rawcontainergzipgainnot10%candidateprediction.",
+    "SourceweightedcriterionneedsSAMEb,Kforallpositivepairweights;convexseparationproducesonecommonlaw. FinitemixturesexistbyCaratheodory,butnofiniteoracle/cost/implementedlawwasprovidedtothisproject. BrouwerrowweightchoiceisnotaconvergenceguaranteeforiteratingPhi.",
+    "Sourcep<2usesinfiniteL2smalljumpPoissonlimitthenclipping/projection;sourcep>2usesprojectionramp/finitePoissonsampling/wholevectortruncation. Unknownfiniteconstants/thresholdsandnewjointlawconstructionstillnotimplemented. OrdinarycoordinateorPCA samplingcannotberebrandedasthewholeF094method.",
+    "ActualsamehashEskenazisauthorPDF:Prop11 explicitenvelopedensity;Remark12linearoperator;Cor13/algorithmicdiscussionstategreedyconstructionandfiniteinputruntime. Oldboundisadditiveonp-powerdistances;relativeallpairguaranteeneedspropernormalization/mindistance treatment. NOTclaimentireF094methodidenticaltothisoldalgorithm;onlyboundedfinalIIDconcentrationstepisoldstyle.",
+    "Original10%prediction/conditionalv1plan/runIDs/statuspreservedbeforeanyembeddingoutputs. Thisreadinessprofiledoesnotconstituteapplicationinitial/prototype/humanreview. Lowernumericalpriorityuntilcompatiblelabelreader,declaredgrain/biologicalcriterion,andfinitecommonlawimplementation/strongoldfullcostestablished."
+  ],
+  "unchanged_prediction": true,
+  "no_embedding_allpair_or_neighbor_outputs": true,
+  "new_application_run": false,
+  "new_candidate_count": 0,
+  "new_initial_checks": 0,
+  "readiness": "partial_source_available;semantics_and_finite_construction_unestablished",
+  "skills": [
+    "data-analytics:index",
+    "data-analytics:analyze-data-quality scopedcompanion;repositoryevidenceworkflowownsoutput,no new intake/notebook/report app"
+  ],
+  "external_provider": false,
+  "human_review": false
+}

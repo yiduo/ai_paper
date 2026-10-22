@@ -1,0 +1,5 @@
+{
+  "all_29_analyses_source_bindings_join_family_claims": true,
+  "all_navigation_references_resolve": true,
+  "initial_overstrict_check": "An extra postcheck initially compared historical_ids against research nodes only and excluded valid internal manuscript references in F089. Corrected checker to actual full graph.load,not canonical data. No source or index mutation."
+}

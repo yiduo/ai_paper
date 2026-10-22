@@ -1,0 +1,82 @@
+{
+  "recorded_at": "2026-10-20T23:54:12.266114+00:00",
+  "natural_source_files_hashes_verified": 27,
+  "selected_formal_files_hashes_verified": 16,
+  "formal_static_index_members_verified": 53,
+  "prior_canonical_nodes_exactly_unchanged": 2344,
+  "prior_canonical_bytes_sha256": "e05e0e5f3197e27b3d70291d80c076a47dc6db572fdfae26bc5f7b4b1496e568",
+  "five_new_metadata_nodes_prior_v1_preserved": true,
+  "source_preparation_typo_failed_before_canonical_write": true,
+  "temporary_files_removed": [
+    {
+      "name": "bgs-v1.txt",
+      "bytes": 101401,
+      "sha256": "b52724a9441c8a088350ff0a94cca5e83cf19664dd660631f04877550586d71e"
+    },
+    {
+      "name": "ls.pdf",
+      "bytes": 902585,
+      "sha256": "b1db2f9906c03e2197ab77ce0fe84d844be9812aac9622b4e867ed6383fe8210"
+    },
+    {
+      "name": "bgs-published.txt",
+      "bytes": 134673,
+      "sha256": "7a815ba529511880e159a143fb7be393c0acad5e3431f0413ae99c2fc0abb963"
+    },
+    {
+      "name": "bgs-v1.pdf",
+      "bytes": 361920,
+      "sha256": "6512ebb3e42dadbd1d972bae8b6189db5a54dd1ca1299920f397d846a5f7d4b7"
+    },
+    {
+      "name": "bgs-v1-p3.png",
+      "bytes": 95158,
+      "sha256": "0326e9a3b5371608ada2d1bf198b610267f053d159b541df9514b5fc25012a6a"
+    },
+    {
+      "name": "ls.txt",
+      "bytes": 281101,
+      "sha256": "e5ee9a10f872ff7f1f5f320d45671fe7bed815d99357acc03fe552bb38f6e880"
+    },
+    {
+      "name": "bgs-published.pdf",
+      "bytes": 320608,
+      "sha256": "2ecd505fb31b43071cdbcd8c14dd2f53e98e9ec18d1103c1d88ec3a0837008ac"
+    },
+    {
+      "name": "drr.pdf",
+      "bytes": 265306,
+      "sha256": "95fcefceef3091cfee83ef74b0230a981c3ddbcec8b591cb4c45f689da01a3ac"
+    },
+    {
+      "name": "gsw.txt",
+      "bytes": 131032,
+      "sha256": "6e1adb5c6b9e9eaf852f99d152593094e57221cfd9fb02564f44908918dec75b"
+    },
+    {
+      "name": "gsw.pdf",
+      "bytes": 416122,
+      "sha256": "a453026de8bae31ca2f62bf55d229e79f69cb53400cc434e891f39c2ff4919ba"
+    },
+    {
+      "name": "drr-p31.png",
+      "bytes": 279868,
+      "sha256": "09fd1d91272d297acbfb8fbb7a81e1ea023435f64d8168b2a36a219cf037390a"
+    },
+    {
+      "name": "drr.txt",
+      "bytes": 89539,
+      "sha256": "41a1e699da7738bf88af1a1224ba24baf153b5950c3c2962eca18bc99c7b3852"
+    }
+  ],
+  "temporary_bytes_removed": 3379313,
+  "temporary_directory_removed": true,
+  "upstream_unchanged_and_clean": true,
+  "candidate_full_chain_grade": "unknown",
+  "source_main_change_reaches_candidate": true,
+  "new_application_run": false,
+  "dependencies_installed": false,
+  "local_Lean_or_Comparator": false,
+  "original_papers_redistributed": false,
+  "old_replays": "Not repeated:numerical source unchanged;WP05513archive integrity and actual314support/076adverse replays remain recorded."
+}

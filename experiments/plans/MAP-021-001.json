@@ -1,0 +1,19 @@
+{
+  "id": "MAP-021-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-021-01",
+  "registered_at": "2026-10-20T15:26:58.782457+00:00",
+  "input": "Freeze a bounded suite of signed interval/modulus/exclusion certificates plus malformed prime-count,primorial/uniform andunknown-C claims beforeoutputs",
+  "hypothesis": "A scope-aware certificate auditor agrees with independent exact gcd/CRT counting on every eligible fixed interval and rejects all deliberately unsupported uniform finite guarantees,including treating an unspecified asymptotic constant as1 or treating primorial data as worst-case data.",
+  "baselines": [
+    "Independent gcd scan foractualfiniteinterval",
+    "OldCRT equivalence and covering algorithms",
+    "Source-scope labels and explicit constant/thresholdavailability,not numeric fit"
+  ],
+  "judge": "Independent exact integer oracle plus source-backed eligibility contracts;known examples are calibration,notblindnewtheoremgain",
+  "success": "All frozen actualinterval answers correct and all malformed guarantees rejected;runtime/memorymeasured separately",
+  "failure": "Anyfalseaccept/falsefiniteguarantee,scope mismatch ororacle disagreement;preserveadverseexamples",
+  "limits": "BoundaryQA only;no proof ofthemainbound,algorithmicaccelerationornewnumbertheoreticdiscovery. Exactoraclecanalreadysolve smallcases;unknownC prevents deploying newasymptoticbound as finitebudget.",
+  "resource_envelope": "No numerical run allocated;lightweightstdlibonly;freeze executable specandcommitbeforeoutput,allraw/summary/sourcesgzipverified"
+}

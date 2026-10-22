@@ -1,0 +1,32 @@
+{
+  "recorded_at": "2026-10-21T09:24:45.375323+00:00",
+  "work_package": "WP-085",
+  "generation_id": "GEN-20261021-081",
+  "goal_status": "active_incomplete",
+  "local_quality_passed": true,
+  "latest_retrospective": "030",
+  "packages_since_retrospective": 0,
+  "next_package": "WP-086 bounded full-family acceptance closure audit",
+  "new_candidate": 0,
+  "new_initial_check": 1,
+  "new_effective_lead": 0,
+  "remote_push_or_publication": false,
+  "storage": {
+    "recorded_at": "2026-10-21T09:24:45.375323+00:00",
+    "helper_gzip_bytes": 25209,
+    "helper_uncompressed_bytes": 84278,
+    "helper_members": 21,
+    "all_member_roundtrips_and_hashes_verified": true,
+    "temporary_bytes_removed": 3732615,
+    "external_temporary_bytes_removed": 3652582,
+    "experiment_payloads": {
+      "raw.json.gz": 175002,
+      "summary.json.gz": 2619,
+      "inputs.json.gz": 75884
+    },
+    "experimental_plaintext_payloads_retained": false,
+    "total_archives_verified": 15,
+    "dependencies_installed": false,
+    "temporary_directory_removed": true
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "EXP-119-001",
+  "version": 1,
+  "connection_id": "APP-119-01",
+  "status_at_registration": "preregistered_before_implementation_and_fixture_outputs",
+  "parent_plan": "experiments/plans/APP-119-01-conditional.json",
+  "hypothesis": "On three fixed eligible synthetic stochastic binary summaries, all interval/normalization/independent finite-channel checks pass, and at least one of the two biased core cases has a combined production noise-time certificate at least 10 percent below the STRONGEST old certificate, including actual Chen hybrid, same older full-soft curve, and the applicable Kramer-Saglam convex-mixture extension. Balanced control receives no gain credit. A gain only against Chen hybrid does not meet the prediction.",
+  "input": {
+    "exposure": "Both manuscripts and selected originals were read before registration. Algebraic near-boundary new/Chen ratio and an applicable older mixture bound are known; no finite fixture MI, root, integral, time comparison or output has been computed. Not blind discovery. Explicitly synthetic aggregate-budget stress cases, no real workload representation claim.",
+    "fixtures": [
+      {
+        "id": "balanced-coordinate",
+        "stratum": "control",
+        "n": 1,
+        "mean": "0",
+        "field": "g(x)=(1-a)*x1"
+      },
+      {
+        "id": "biased-half",
+        "stratum": "core",
+        "n": 2,
+        "mean": "1/2",
+        "field": "g(0)=-1+(2^n-1)*a; all other g=1-a"
+      },
+      {
+        "id": "biased-three-quarters",
+        "stratum": "core",
+        "n": 3,
+        "mean": "3/4",
+        "field": "g(0)=-1+(2^n-1)*a; all other g=1-a"
+      }
+    ],
+    "a": "1/16777216",
+    "conditional_entropy_goal_nats": "1/256",
+    "initial_information": "I0=H(m)-average_x H(g(x)); computed from full actual table, not independently chosen infeasible aggregates.",
+    "distribution": "Uniform independent fair cube input; independently flip each coordinate with p=(1-exp(-tau))/2; stochastic bit U has P(U=+1|x)=(1+g(x))/2; binary output mean sign convention."
+  },
+  "method": {
+    "functions": "L=ln2; H(r)=-((1+r)/2)ln((1+r)/2)-((1-r)/2)ln((1-r)/2); psi=L-H; F(psi(r))=r*atanh(r). Units nats, tau=-lnrho.",
+    "old_hybrid": "h=H(m)-I. Cm=max(F(L-h)-abs(m)*atanh(s),F(I)), where abs(m)*H(s)=h*s; m=0 uses F(I). Source old bits/mean/time converted explicitly in WP047.",
+    "new_hybrid": "alpha=1-m^2; Bm=2I+alpha*(F(L-h/alpha)-2*(L-h/alpha)), with zero-extension S below0; new=max(Bm,F(I)); combine=max(Cm,new). Check independent algebra Bm=2*(H(m)-alpha*L)+alpha*F(L-h/alpha) on these positive-domain fixtures.",
+    "integrated_times": "Integrate dh/profile from initial conditional entropy h0 to hgoal; old Cm and combined each get outward lower/upper integrals. Upper endpoint is the sufficient chosen noise time; never call a quadrature midpoint a certificate.",
+    "strong_older_finite_curve": "K_m(rho)=c*rho^2+alpha*psi(rho), c=H(m)-alpha*L. For biased fixture with N points, g is exact convex mixture of the N Boolean fields f_j with only vertex j negative: weight0=1-(N-1)*a/2, others=a/2. Each has same mean m. MI is convex in channel g with fixed input and output marginal, hence original Boolean Kramer bound also bounds this particular soft mixture. Balanced g=(1-a/2)x1+(a/2)(-x1), same mean0. Verify exact weights, mean and reconstruction. This is an explicitly justified old-method extension, not assumed arbitrary soft fixed-I0 theorem. No new-math credit.",
+    "old_soft_curve": "Older same full-soft curve gives rho=psi_inverse(Istar)/psi_inverse(I0); time=ln(psi_inverse(I0)/psi_inverse(Istar)). Compare this too.",
+    "best_old": "Time certificate is minimum of old hybrid integral, older full-soft time and applicable old Kramer root time. Compare interval minima; new versus a deliberately weaker old branch is insufficient."
+  },
+  "judge": {
+    "interval_arithmetic": "Python stdlib Decimal, primary70 and verification100 significant digits. Each +,-,*,/ uses directed ROUND_FLOOR/CEILING. Decimal ln/exp correctly-rounded result enclosed with next_minus/next_plus; no reliance on round-nearest sums. Explicit H(+-1)=0. Interval inversion of decreasing H and mH(s)-hs uses72 bisections; ambiguous sign retains the current containing bracket and is reported if too wide. Bounds conditional on documented Decimal elementary-function guarantees, not a formal proof of the runtime.",
+    "quadrature": "Fixed64 cells with quartic grading h_j=h0+(hgoal-h0)*(j/64)^4. Endpoint and exact width intervals retain h0 uncertainty. Evaluate monotone inverse-H/root ranges, then full interval expressions over each cell; sum width/profile bounds. No adaptive refinement or post-output grid changes. Independent IEEE math implementation uses1024 quartic midpoint cells and separate scalar root bisections, and must fall inside primary integral intervals. It is a consistency check, not a certificate.",
+    "precision": "Run full primary protocol at70 and100 digits with same72 bisections/64 cells. Corresponding bounds must overlap; fixed-time direct/Walsh MI discrepancy upper bound<=1e-45. Report arithmetic enclosure widths separately from quadrature/root widths. No precision/grid tuning after outputs.",
+    "finite_channel": "At each chosen certificate time UPPER endpoint, calculate MI by explicit summation of joint P(U=u,Y=y) over every x,y,u using independent BSC transition products, and separately by exact rational Walsh coefficients with rho^degree and H(m)-average H(T_rho g). Cross-check intervals and normalization. Both organizations see the same frozen input table but do not share the channel computation.",
+    "oracle": "Use Walsh organization to bracket actual finite-table target-crossing tau in [0,1] with72 bisections; require endpoints straddle target and recheck endpoints by explicit joint probability. Report certificate/oracle gaps and operation counts. Full truth table oracle uses richer information than aggregate m,I0, so no runtime/same-input superiority claim.",
+    "control": "Exact rational means, strict interior field, stochastic joint mass1, and convex mixture reconstruction. Balanced old/new production intervals must overlap, with no incremental credit; analytical full-soft root time must lie in its old/combined integral enclosures. For every biased/core and control chosen certificate upper time, finite MI upper must be<=Istar lower+1e-40; otherwise structural/precision failure, not theorem refutation.",
+    "decision": "Resolved win iff combined_time_upper<=0.9*best_old_time_lower>0 in at least one biased case; uncertain inequalities count unresolved not success. Also report combined versus Chen-only, old-Kramer wins, and actual table optimum gaps."
+  },
+  "success": {
+    "fixtures": 3,
+    "structural_or_numerical_failures": 0,
+    "core_resolved_10percent_wins_minimum": 1
+  },
+  "failure": "Any mixture/eligibility/mass/interval/independent arithmetic/control/resource failure or absence of a resolved core win. Preserve unfavorable/unresolved results. No formal mathematical rejection without humans. Do not alter cases, a, hgoal, thresholds, root bits, grids or baseline set after outputs.",
+  "metrics": [
+    "Exact fields/means/mixture weights",
+    "Initial entropy/information and target intervals",
+    "All quadrature cell endpoint/profile/integral bounds",
+    "Old hybrid/new combined/full-soft/Kramer time intervals and best-old selection",
+    "Independent float midpoint comparisons and70/100digit overlap",
+    "Actual direct joint/Walsh MI at certificate times and actual crossing endpoints",
+    "All-n assumptions, stronger-oracle input/cost gap and pass/fail reasons",
+    "Elapsed seconds and peak traced Python allocation"
+  ],
+  "limits": "Finite aggregate-budget application audit on three deliberately near-deterministic synthetic eligible inputs. No evidence of all-dimensional theorem correctness, real hardware, DP, downstream accuracy, compression, all soft-mixture extremes or universal improved algorithm. Source selected formal scope B only/full chain unknown, arithmetic verification scripts/Lean/human/second provider absent. Old Kramer may already suffice; this is explicitly a falsifiable comparison, not a promised positive effect.",
+  "resource_limit_seconds": 120,
+  "resource_limit_mb": 128,
+  "resource_change_before_outputs": "WP047 proposed60s/64MiB before certification design. Frozen protocol now120s/128MiB for two precisions/interval roots/independent judges. No dependency install/data download; at most3 fields of8points,raw/summary/sourcegzip with decompressed hashes. No fixture outputs existed at change.",
+  "registered_at": "2026-10-20T21:32:12.380938+00:00",
+  "source_reading_ledger_sha256": "f87edc574dbd94b4fcffbc1779cd0b9d33a18fe723e4928f25c0dd7997736b85"
+}

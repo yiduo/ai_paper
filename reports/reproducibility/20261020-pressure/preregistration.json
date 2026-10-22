@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-20T13:56:46.126877+00:00",
+  "prior_commit": "66c0295",
+  "spec_sha256": "226363cc3d24101f2c4f6fc391993acfbf6bdc6036ff71e6328d44667ffb4188",
+  "committed_spec_equals_executed_input_and_current_spec": true,
+  "spec_written_utc": "2026-10-20T13:42:42.369946+00:00",
+  "run_started_utc": "2026-10-20T13:50:07.486735+00:00",
+  "source_exposure": "nonblind;analytic two-spin reasoning and original PT source known beforehand"
+}

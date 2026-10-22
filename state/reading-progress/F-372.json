@@ -1,0 +1,73 @@
+{
+  "work_package": "WP-049",
+  "saved_at": "2026-10-20T21:54:13.828352+00:00",
+  "status": "full_natural_draft_curated_selected_originals_formal_only",
+  "counts_incremented": true,
+  "full_natural_source_read": true,
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-896ace9df9a3005f",
+  "files": [
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/README.md",
+      "sha256": "7ad925c0e5d494e8c642e767990255b06011b9cc147edd5247f9773571c6966d",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/main.tex",
+      "sha256": "6bcef41f845106bd10219b920717b7f99d10a45a22376e893b96482cfd743514",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/analytic-estimates.tex",
+      "sha256": "260ae799948c889ae125b81b756216f3d085cc8c66a5954f575a54055e2c2134",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/boundary-reduction.tex",
+      "sha256": "dcf42332efe94212ad4dffbddbf8cf5264020d79d3cd14da719f1511bc812528",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/coefficient-recovery.tex",
+      "sha256": "443d34bfc0b3998bedb4ea1fdc714ac0e66c74c51b090905f68e0479f1033016",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/introduction.tex",
+      "sha256": "1472cc03ac1ed0546c0bacec93e0c7820bf15d5e1928af2909515c30f8156687",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/physical-amplitudes.tex",
+      "sha256": "325b113beab400718495b72f8f00f9d1525b82384e6dcf1cf6cd8a4e5a63749a",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/transport-matching.tex",
+      "sha256": "f608d14a65e98f1ede20fd677e291fc8f28e69f39fc4e11e04f5d3011be7ab2a",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/references.bib",
+      "sha256": "07b5cfbc1b62153b976f32fb8f2025c8538efada142bec78e6470f6e9b37eb02",
+      "read_scope": "Whole naturalproof/module/main/README/bibliography actuallyread"
+    }
+  ],
+  "notes": [
+    "Actual217lineintroductionread:fullzero-frequencyDNmaponboundedconnectedCinfR3domain,positiveenergybothLamecoefficients;uniformlyisotropicnotarbitraryanisotropicelasticity. Exactfullboundarydata uniquenessisnotfinite-sensor/noisy/stable reconstruction.",
+    "Whole6bodymodules1890lines+main63,20bibliographyentries229linesread;15namedresults. NaturalstatementfullphysicalDN/isotropic3Duniqueness,notfiniteerrororalgorithm.",
+    "ActualBasic/Uniqueness/challenge/config/372docread;Variational968-1128selectedonly. QuotienttracephysicalpairingnormnotidentifiedwithchartH1/2.42localfiles2691declstaticindex,no build,Mathlibunread;no matchingpinnedformalization.yamlregistration.",
+    "OriginalNU2003all3pagesreadandp206pixelsviewed;corrected theorem requiresbothsmallgradmu;IVP/pseudodifferentialdefectsnotcounterexampletoF372. NU1994publishermetadataonly,paywallbodyunread.",
+    "BothconditionalAPP37201/02written;noactualexternaldata/newapplicationrun. Fullgraph3984/9683/3199,46core/clean/13archives andactual200support325adversereplayspassed.",
+    "Firstreportfailedmissingcanonicalreportfields;newanalysisv1archivedandrequiredexistingfieldsrepairedwithoutvalidator/sourcechanges."
+  ],
+  "read_tex_files": 7,
+  "read_tex_lines": 1953,
+  "bibliography_lines": 229,
+  "qualified_result_bindings": 15,
+  "method_contracts": 16,
+  "selected_original_roots": 5,
+  "unique_bibliography_roots": 20,
+  "ledger": "data/provenance/readings/F-372.json",
+  "remaining": "15originalbodies/recursivehistory/versiondiffs,actualformalproofchain/build/trace-normsemanticbridge/humanreview;twoapplicationplansunrun"
+}

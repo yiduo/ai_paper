@@ -1,0 +1,10 @@
+{
+  "state": "active_incomplete",
+  "next": "WP-082",
+  "mandatory_retrospective": "029_after_WP082",
+  "archived_helpers": 26,
+  "all_helper_members_verified": true,
+  "graph_exports_unchanged_since_validation": true,
+  "current_scope_lists_include_F231": true,
+  "new_application_run": false
+}

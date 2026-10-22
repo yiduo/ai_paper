@@ -1,0 +1,33 @@
+{
+  "family_id": "F-332",
+  "title": "Metric Markov cotype of <i>ℓ</i><sub>1</sub> and Hilbert-space Lipschitz extension.",
+  "manuscripts": [
+    {
+      "id": "P-fc6738ad200ddb0c",
+      "directory": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026",
+      "tex_files": 1,
+      "tex_lines": 648,
+      "bib_lines": 50,
+      "files": [
+        {
+          "path": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/main.tex",
+          "sha256": "656a6f35bf6543ecf0cf2dbc38a83a7a05427592123a5eb817be24250e2e6953"
+        },
+        {
+          "path": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/references.bib",
+          "sha256": "7b7ccdb61e358ef3c2f5702c898a8ee550566f59ee9095e0530631a2b0b75776"
+        }
+      ]
+    }
+  ],
+  "body_read": false,
+  "scope": "catalogue and file inventory only;not source reading coverage",
+  "README_metadata_checked": {
+    "path": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/README.md",
+    "sha256": "8b64d6e519795daabeb788ce81aa36574e8087da41f8252b9d8de62c63bc7316",
+    "title": "Metric Markov Cotype Two of l1",
+    "date": "2026-10-05"
+  },
+  "selected_docs332_path_present": false,
+  "formal_scope_status": "Selected docs332 path absent;not a complete absence search. Actual registration/endpoints/alternative namespaces remain to inspect in WP084."
+}

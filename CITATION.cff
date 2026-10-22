@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the exact project revision and upstream manuscript version used. This is an unreleased local research project."
+title: "AI Math Application Mining"
+type: software
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - name: "AI Math Application Mining contributors"
+abstract: "Evidence-preserving application hypotheses, typed knowledge graph, and reproducible numerical applicability checks for a pinned mathematical manuscript corpus."

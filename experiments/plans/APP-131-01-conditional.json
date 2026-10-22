@@ -1,0 +1,31 @@
+{
+  "id": "APP-131-01",
+  "problem_id": "PROB-131-NETWORK-NULL",
+  "title": "有限度数网络零模型的采样误差预算",
+  "domain": "Unweighted simple undirected network randomization",
+  "analogy": "near",
+  "labels": [
+    "thm:main"
+  ],
+  "parts": [
+    "UNIVERSAL-TV",
+    "MULTIPLICITY"
+  ],
+  "history": [
+    "Unified22",
+    "CBS18",
+    "GS18"
+  ],
+  "hypothesis": "For an actual unrestricted undirected degree-vector workload using exactly the source kernel, a dimension-only TV stopping certificate can be compiled without proving P-stability. Any practical improvement over audited older bounds must be measured separately and may be zero.",
+  "mapping": "Vertices are labelled entities; observed degree vector defines all simple undirected realizations. Compile T=ceil(gamma0^-1 max(0,(B/2)log2-log(2 epsilon))) for0<epsilon<1, gamma0^-1=24 n^2 C(n,4),B=C(n,2), using the source TV bound and M<=2^B. Singleton can use time0 if actually certified. General T is a derived conservative budget, not an exact sampler.",
+  "judge": "First freeze a genuine public undirected workload, exact proposal code, epsilon and resource budget. Independent source/kernel review and bounded exact full-law fixtures assess compilation; actual workload feasibility and comparison with older applicable bounds assess application benefit. Perturbation-score stabilization alone cannot judge TV.",
+  "baseline": "P-stable or degree-conditioned old bounds after exact kernel normalization; valid existing undirected Curveball implementations as separate practical alternatives. CBS18 modified experimental proposals cannot inherit this bound by name alone.",
+  "limits": "No workload, finite implementation, practical runtime allocation or external check yet. n^8 and epsilon budgets may be prohibitive. Extra connectedness, forbidden edges, weights, direction or geometry invalidate direct transfer. Certified burn-in is not an exact finite output law.",
+  "prediction_kind": "Availability of a conservative all-degree certificate; no speedup claimed",
+  "status": "conditional_not_preregistered_not_run",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_generation_id": "GEN-20261021-030",
+  "resource_envelope": "No numerical allocation. Do not execute exponential graph enumeration or long chains before workload and bounded protocol are fixed. Future numerical raw,summary,source payloads gzip and decompressed hashes verified before removing plaintext.",
+  "external_check": false,
+  "old_methods_may_suffice": true
+}

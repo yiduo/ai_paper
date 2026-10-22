@@ -1,0 +1,14 @@
+{
+  "families": 372,
+  "actual_reading_families": 33,
+  "family_analysis_records": 29,
+  "source_drafts": 28,
+  "applications": 32,
+  "with_runs": 11,
+  "without_direct_comparator_edge": 20,
+  "with_explicit_unestablished_gates": 1,
+  "identity_review_candidate_groups": 1,
+  "gzip_bytes": 44970,
+  "index": "reports/graph/navigation.json.gz",
+  "report": "reports/graph/navigation.md"
+}

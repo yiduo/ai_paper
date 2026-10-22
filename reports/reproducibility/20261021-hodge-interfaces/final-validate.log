@@ -1,0 +1,12 @@
+{
+  "nodes": 4232,
+  "research_nodes": 2214,
+  "edges": 10320,
+  "citations_checked": 3549,
+  "candidate_connections": 30,
+  "externally_checked_cards": 11,
+  "effective_leads": 5,
+  "distinct_validation_hypotheses": 11,
+  "human_grading_records": 0,
+  "pilots": 0
+}

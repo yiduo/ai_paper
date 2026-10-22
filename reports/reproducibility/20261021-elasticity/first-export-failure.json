@@ -1,0 +1,10 @@
+{
+  "failure_log": "core-check.log",
+  "core_unit_tests_passed": 46,
+  "validation_passed": true,
+  "report_passed": false,
+  "error": "KeyError source_line_count;also existingreportformal/historyfieldsomitted",
+  "prior_record_archive": "data/graph/history/ANALYSIS-F-372-v1.json.gz",
+  "repair": "Addedmissingcanonicalrecordfieldsfromactualreadfacts;no source ledger/validatorchange",
+  "numerical_outputs_changed": false
+}

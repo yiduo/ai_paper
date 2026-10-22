@@ -1,0 +1,16 @@
+{
+  "id": "CHK-374-MOMENTS-001",
+  "version": 1,
+  "connection_id": null,
+  "purpose": "Component validation within full-source decomposition; does not add an application card or distinct application hypothesis count.",
+  "hypothesis": "Exact planar face derivatives agree with independent central differences of polygon mass/moment integrals, and satisfy the source stationary-site ratio bound 162 on every declared positive-mass configuration. A shrinking corner cell makes the pinned Jacobian condition proxy grow at least 1000x without violating that weighted ratio bound.",
+  "input": {"generator": "uniform square; symmetric three-plane strip and three-plane shrinking corner, epsilon=2^-k", "k_min": 2, "k_max": 14, "directions": "three coordinate directions, common intercept shift, eight seeded nonconstant integer directions", "seed": 20261022, "central_difference_step": "epsilon^3/1024"},
+  "baseline": "Pinned mass-Jacobian trace^2/determinant as a conditioning proxy; not a measured Newton solver or a convergence-rate replacement",
+  "judge": "Exact Fraction face geometry versus separately clipped polygon integrals; exact weighted derivative ratio and exact 2x2 matrix conditioning proxy",
+  "success": {"weighted_ratio_bound": 162, "derivative_absolute_error_max": "0.00000001", "corner_condition_proxy_growth_min": 1000, "gauge_shift_nonzero_derivatives": 0, "nonpositive_mass_configurations": 0},
+  "failure": "Any stated precondition, derivative tolerance, gauge invariance or weighted inequality failure; or corner condition proxy growth below 1000x",
+  "metrics": ["minimum cell mass", "weighted derivative ratio", "central difference error", "Jacobian conditioning proxy", "gauge invariance", "runtime", "peak_python_memory"],
+  "limits": "Finite 2D synthetic component check, not proof of the general moment lemma, a Newton performance result, a new application discovery, or human specification review. No threshold adjustment after results.",
+  "resource_limit_seconds": 120,
+  "resource_limit_mb": 128
+}

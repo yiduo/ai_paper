@@ -1,0 +1,32 @@
+{
+  "week": "2026-W43",
+  "selection_seed": 202643,
+  "fraction": 0.05,
+  "population": 17,
+  "sample": [
+    "APP-333-01"
+  ],
+  "review_status": "pending_real_humans",
+  "all_mapping_grading_pending": [
+    "APP-021-01",
+    "APP-076-01",
+    "APP-076-02",
+    "APP-097-01",
+    "APP-124-01",
+    "APP-128-01",
+    "APP-130-01",
+    "APP-149-01",
+    "APP-178-01",
+    "APP-200-01",
+    "APP-221-01",
+    "APP-238-01",
+    "APP-276-01",
+    "APP-314-01",
+    "APP-325-01",
+    "APP-333-01",
+    "APP-374-01"
+  ],
+  "human_reviews_completed": 0,
+  "fact_error_rate": null,
+  "note": "Prepared during actual operating week in Asia/Shanghai. No future or completed human reviews are claimed."
+}

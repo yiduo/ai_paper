@@ -1,0 +1,203 @@
+{
+  "family_id": "F-298",
+  "generation_id": "GEN-20261021-025",
+  "recorded_at": "2026-10-20T16:31:46.896880+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-31caeb26c04d83e3",
+  "body_source_lines": 975,
+  "total_tex_lines": 1115,
+  "bibliography_lines": 94,
+  "bibliography_in_total_tex": true,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/sections/01-introduction.tex",
+      "sha256": "c8f994ac66ba075f250f7b5c98a3e09480c1ad5f132fcc4dbdf533e948af3534",
+      "lines": 117,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/sections/02-conventions.tex",
+      "sha256": "0fc904da59f30a2323a55860ca5f0df8d0c73092cfcc92487fbd2aa424431fd7",
+      "lines": 177,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/sections/03-fisher.tex",
+      "sha256": "3b263cdd67d5724d9a08355a966951eb935d5a40ecd43d4d03aca0419d932124",
+      "lines": 172,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/sections/04-signal.tex",
+      "sha256": "344c657758cf790df24acb0790a9de6d9cb00c2ea5ca528e51695e0bb0bfac12",
+      "lines": 170,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/sections/05-flow.tex",
+      "sha256": "984b6757922fd036049f4ecdd39d6cf2bda382837ba22622e76dc828d2653347",
+      "lines": 130,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/sections/06-blocks.tex",
+      "sha256": "44389ad0027056aba86fe5110b8517f8776e8174e34fca79fb4646bc58248097",
+      "lines": 209,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/paper.tex",
+      "sha256": "9a2e1d0b7d7d0599f765d72b5772e14763f0653317eb39053086a9a0a7508510",
+      "lines": 46,
+      "read_scope": "Entire source including proofs/references"
+    },
+    {
+      "path": "math/preprints/A-finite-entropy-separation-of-microstates-and-nonmicrostates-free-entropy-September-25-2026/build/references.tex",
+      "sha256": "5bd93fb5dc9e6cbefa2b103687953d58df1db6391a0de498ff94bbcefb86d5f3",
+      "lines": 94,
+      "read_scope": "Entire source including proofs/references"
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "statement": "There exists a fixed finite bounded self-adjoint tuple with -infinity<chi<=chiStar-1/2<infinity.",
+      "conditions": "Faithful normal tracial von Neumann algebra;original operator-norm cutoff chi with limsup;existential n>=2,not every prescribed n.",
+      "constants_and_limits": "Proof chooses p=2^64,n=p+1,t=2^48,then sufficiently small h>0;all fixed BEFORE matrix limits. No small-dimensional/effective numerical counterexample or engineering performance claim.",
+      "selected_grade": "B"
+    },
+    "lem:variational": {
+      "statement": "Free Fisher information is the supremum of a quadratic polynomial-test functional;countably many rational-complex symmetrized tests suffice.",
+      "conditions": "Bounded self-adjoint tuple with existing conjugate variables;self-adjoint noncommuting test polynomials.",
+      "constants_and_limits": "Continuous moments yield measurable Fisher information;no conclusion that classical entropy converges or that finite tests attain the supremum.",
+      "selected_grade": "C"
+    },
+    "lem:matrix-convergence": {
+      "statement": "Uniformly converging bounded matrix models with independent GUE give free joint polynomial traces in probability and finite-product expectation convergence.",
+      "conditions": "Common coordinate operator-norm bound;uniform normalized joint trace moments over K_d;noise independent of entire input;fixed finite number of coordinates.",
+      "constants_and_limits": "Any diverging dimension sequence. GUE norm tail and Gaussian Poincare control moments/variance;no finite explicit moment-convergence sample budget.",
+      "selected_grade": "C"
+    },
+    "lem:wick": {
+      "statement": "Free Gaussian perturbation admits orthonormal Wick tests and conjugate variables u^-1/2 E[S_i|W*(Z)].",
+      "conditions": "Centered bounded self-adjoint C;standard semicircular S free from C;u>0;ordered-index polynomial derivatives.",
+      "constants_and_limits": "Expansion deletes disjoint originally adjacent equal-index pairs;do not recursively delete newly adjacent pairs. Bilinear trace identity requires reversed adjoint words.",
+      "selected_grade": "C"
+    },
+    "prop:fisher": {
+      "statement": "Fisher deficit above matched coordinate semicircular variances is bounded by squared ell2 norms of all higher free-cumulant arrays.",
+      "conditions": "Centered bounded C with diagonal covariance c_i>=0;free standard S;u>0. Upper series bound requires sum_(r>=2)u^-r||kappa_(r+1)||2^2 finite.",
+      "constants_and_limits": "Always sum_i1/(u+c_i)<=PhiStar<=n/u;deficit<=u^-2 times stated series. Finite empirical cumulants alone do not certify its infinite tail;not classical cumulants.",
+      "selected_grade": "C"
+    },
+    "lem:cumulants": {
+      "statement": "The tensor-independent common-label signal has ||kappa_m(C)||2<=128^m*p^(m/4) for all m>=1.",
+      "conditions": "C=(B1,...,Bp,Y),free variance-one semicircular B_i;Y uniform p atoms in[-1,1],tensor independent/commuting with every B_i;not freely independent of B_i.",
+      "constants_and_limits": "Entry bounds32^m and sparse support at most(1+4sqrt(p))^m. For u>2*128^2*sqrt(p),Fisher deficit<=2*128^6*p^1.5*u^-4;not a generic data-driven tail bound.",
+      "selected_grade": "C"
+    },
+    "lem:finitechi": {
+      "statement": "For the chosen noisy signal X=V_h,microstates entropy is greater than -infinity.",
+      "conditions": "Fixed h>0;deterministic block matrix models at dimensions d=pq,uniform cutoff,independent variance-h GUE smoothing.",
+      "constants_and_limits": "Gaussian density bound gives chi>=n/2 log(2pi h) along a subsequence. Limsup permits this;no liminf/all-dimensions entropy assertion.",
+      "selected_grade": "C"
+    },
+    "lem:flow": {
+      "statement": "A selected sequence of cutoff-uniform microstate ensembles has terminal entropy limsup at least chi_R(X)+half the free Fisher integral.",
+      "conditions": "Fixed R with chi_R>-infinity;positive-volume increasingly accurate microstate sets at same R;independent standard GUE. Keep selected dimension sequence and SAME terminal laws.",
+      "constants_and_limits": "Unnormalized Hilbert-Schmidt real coordinates:H_d=hclass/d^2+n/2 log d,I_d=d^-3 integral||grad log f||^2. Polynomial score tests,Fatou and deBruijn;terminal limsup is not replaced by chi of limiting law.",
+      "selected_grade": "C"
+    },
+    "lem:eventprob": {
+      "statement": "A simultaneous block-energy event has probability at least1/2 for the selected terminal ensembles but at most exp(-4d^2) under variance-matched independent GUE.",
+      "conditions": "p=2^64,t=2^48 fixed;h chosen small by spectral gaps;all sufficiently large d. Spectral projections are selected from initial A_n before adding independent noise.",
+      "constants_and_limits": "Ranks<=2d/p,first-p normalized norm cutoff4sqrt(vp),compressed energy thresholdsqrt(p)/4. Markov noise energy<=2t;unitary net and(d+1)^p rank lists. Binary KL deficit plus SAME-terminal entropy bridge yields gap;no explicit full convergence threshold.",
+      "selected_grade": "C"
+    }
+  },
+  "quantifier_and_boundary_notes": [
+    "Proof chooses p=2^64,n=p+1,t=2^48,then sufficiently small h>0;all fixed BEFORE matrix limits. No small-dimensional/effective numerical counterexample or engineering performance claim.",
+    "Continuous moments yield measurable Fisher information;no conclusion that classical entropy converges or that finite tests attain the supremum.",
+    "Any diverging dimension sequence. GUE norm tail and Gaussian Poincare control moments/variance;no finite explicit moment-convergence sample budget.",
+    "Expansion deletes disjoint originally adjacent equal-index pairs;do not recursively delete newly adjacent pairs. Bilinear trace identity requires reversed adjoint words.",
+    "Always sum_i1/(u+c_i)<=PhiStar<=n/u;deficit<=u^-2 times stated series. Finite empirical cumulants alone do not certify its infinite tail;not classical cumulants.",
+    "Entry bounds32^m and sparse support at most(1+4sqrt(p))^m. For u>2*128^2*sqrt(p),Fisher deficit<=2*128^6*p^1.5*u^-4;not a generic data-driven tail bound.",
+    "Gaussian density bound gives chi>=n/2 log(2pi h) along a subsequence. Limsup permits this;no liminf/all-dimensions entropy assertion.",
+    "Unnormalized Hilbert-Schmidt real coordinates:H_d=hclass/d^2+n/2 log d,I_d=d^-3 integral||grad log f||^2. Polynomial score tests,Fatou and deBruijn;terminal limsup is not replaced by chi of limiting law.",
+    "Ranks<=2d/p,first-p normalized norm cutoff4sqrt(vp),compressed energy thresholdsqrt(p)/4. Markov noise energy<=2t;unitary net and(d+1)^p rank lists. Binary KL deficit plus SAME-terminal entropy bridge yields gap;no explicit full convergence threshold.",
+    "L(a)=half sumlog(2pi e(a+c_i));chiStar(Va)=L(a)-half integrated Fisher deficit. Integrate deficit as a combined integrable function;do not subtract two divergent integrals.",
+    "Free heat increment is half integralPhiStar;bound for a>2K²sqrtp gives deficit<K^6p^1.5/(3a³)<1/2. Formal EntropyDeficit retains stronger1/24 internal allowance.",
+    "h<min(1,Delta²/64),Delta=2/(p-1),also satisfies existential spectralGood conditions chosen AFTERp,t. No full explicit finite-d convergence threshold.",
+    "Natural unitary union costs(d+1)^p*(1+128sqrtv)^(2d²);formal block-assignment enumeration costs p^d and bounds full(p+1)-tuple Euclidean norm. Selected routes differ,not declared identical or erroneous.",
+    "Formal Gaussian-only quantitative lemma has d>=64 plus strongp/variance inequalities;this is not a complete constructive entropy counterexample atd64."
+  ],
+  "selected_original_scopes": {
+    "JP": {
+      "url": "https://arxiv.org/html/2305.02574v4",
+      "locator": "v4 2Apr2024;Notation2.7,Section3.3,Proposition6.1 andTheorem6.4",
+      "scope": "Conditional classical-to-free Fisher comparison and entropy inequality with stated moment/tail hypotheses. Uses normalized-trace matrix metric,I_scaled=N^-4 I_class;F298 uses unnormalized HS,I_scaled=d^-3 I_class. Coordinate change,not a disagreement or interchangeable literal factor."
+    },
+    "Jconv": {
+      "url": "https://arxiv.org/html/1805.08814v2",
+      "locator": "v2 16Mar2019;Theorem7.1 assumptions(A)-(D),conclusions(1)-(2),Remark7.2",
+      "scope": "Equality of entropy notions for convex-potential ensembles with uniform upper curvature,concentration,tail and trace-polynomial gradient approximation hypotheses. Uniform strict convexity is a sufficient extra route in Remark7.2,not necessary wording of Theorem7.1. All hypotheses are not established for F298."
+    },
+    "Dab": {
+      "url": "https://arxiv.org/html/1604.06420v2",
+      "locator": "v2 31Oct2017;TheoremA andSection2.2 selected class-definition context",
+      "scope": "Equality for the law solving Schwinger-Dyson equation for a potential in the specific E_app^(1,1) class. This is a restricted convex-functional result;does not assert equality for every finite-entropy tuple. Complete proof/class closure not audited."
+    },
+    "Gsurvey": {
+      "url": "https://arxiv.org/pdf/math/0409277v1",
+      "locator": "v1 16Sep2004;printedpp74-75,Conjecture7.1",
+      "scope": "Historical conjecture asks equality when chi is finite from below. Gaussian-relative normalization in preceding discussion must be translated before comparing raw entropy values. A conjecture,not an equality theorem."
+    },
+    "Vsurvey": {
+      "url": "https://arxiv.org/pdf/math/0103168v1",
+      "locator": "v1 26Mar2001;Section3.5 printedp17,Section3.8 printedpp22-23",
+      "scope": "Author survey defines nonmicrostates entropy through the free-noise Fisher integral and discusses the unification question. Selected definition/history checked;not an audit of the original II/V proofs or all survey claims."
+    },
+    "Szarek": {
+      "url": "https://arxiv.org/html/math/9701213v1",
+      "locator": "v1 1997;Section2 covering/packing definitions,Equation3,Lemma1",
+      "scope": "Elementary volume-ratio covering/packing bounds in finite-dimensional normed spaces. Supports unitary ambient-net technique;it is an older tool,not a free-entropy separation or computational advantage."
+    },
+    "NS": {
+      "url": "https://rolandspeicher.com/wp-content/uploads/2020/06/nica-speicher-book.pdf",
+      "locator": "Author-hosted2006book;Definition11.3/Proposition11.4 printedpp175-176,Examples11.21 p187,Theorem22.35 p377",
+      "scope": "Noncrossing moment/cumulant inversion;semicircular higher cumulants vanish;independent Gaussian and convergent deterministic matrices are asymptotically free. Selected statements only;other cited combinatorial bounds and book proofs are not fully audited."
+    }
+  },
+  "failed_retrievals": [
+    "JP unversioned HTML/DOI unavailable;actualv4 recovered.",
+    "Jconv guessedv3 HTML unavailable;actualv2 recovered.",
+    "Ge PMC attempt returnedcaptcha;original unverified.",
+    "Initial guessed ModelChiStar file absent;actual EntropyDeficit/Model files read instead."
+  ],
+  "formal_files_actually_read": [
+    "math/lean/docs/298.md",
+    "math/lean/ComparatorChallenges/FiniteEntropySeparation.lean",
+    "math/lean/ComparatorChallenges/FiniteEntropySeparation.json",
+    "math/lean/OAI/Analysis/FreeEntropy/Main.lean",
+    "math/lean/OAI/Analysis/FreeEntropy/Model.lean",
+    "math/lean/OAI/Analysis/FreeEntropy/CutoffSeparation.lean",
+    "math/lean/OAI/Analysis/FreeEntropy/BlockGaussianQuantitative.lean",
+    "math/lean/OAI/Analysis/FreeEntropy/EntropyDeficit.lean",
+    "math/lean/OAI/Analysis/FreeEntropy/BlockEvent.lean"
+  ],
+  "formal_partial_ranges": [
+    {
+      "path": "math/lean/OAI/Analysis/FreeEntropy/SpectralParameters.lean",
+      "lines": "75-125",
+      "scope": "spectralGood_C and existential small-h selection only"
+    }
+  ],
+  "formal_index_only": "153 local files/1455 declarations;not full mathematical reading or Lean build",
+  "formal_external_unread": [
+    "Mathlib"
+  ],
+  "new_numerical_run": null,
+  "new_application_connection_ids": [],
+  "storage": "No third-party full PDFs downloaded or retained;compact gzip lexical index only."
+}

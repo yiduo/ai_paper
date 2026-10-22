@@ -1,0 +1,29 @@
+{
+  "id": "EXP-097-001",
+  "version": 1,
+  "connection_id": "APP-097-01",
+  "hypothesis": "Offline optimal signing followed by positive-forward negative-reverse transfer reduces mean normalized peak cumulative drift by at least 20 percent versus FIFO on the held-out synthetic zero-sum batches, and is no worse on average than one-step greedy reordering.",
+  "input": {
+    "generator": "20 paired integer-vector batches per dimension 2, 4, 8; 4 random vectors and their negatives; random, sorted, and collinear input strata",
+    "seed": 20261021
+  },
+  "baseline": "FIFO and greedy one-step Euclidean drift minimization; exact subset-DP optimal permutation is an oracle",
+  "judge": "integer squared prefix norms, exact minimax subset oracle and exact transfer inequality",
+  "success": {
+    "mean_reduction_vs_fifo_min": 0.2,
+    "mean_transfer_vs_greedy_max": 1.0,
+    "transfer_inequality_violations": 0
+  },
+  "failure": "inequality/correctness violation, less than 20 percent FIFO gain, or worse mean drift than greedy",
+  "metrics": [
+    "normalized_peak",
+    "optimality_gap",
+    "runtime",
+    "peak_python_memory",
+    "permutation_integrity",
+    "transfer_inequality"
+  ],
+  "limits": "Offline batches with exact zero sum; no precedence constraints, weights, online, efficient-theorem-construction, or hardware safety claim. Transference is historical, so novel-result incremental value is not established.",
+  "resource_limit_seconds": 120,
+  "resource_limit_mb": 128
+}

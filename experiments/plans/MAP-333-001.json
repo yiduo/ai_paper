@@ -1,0 +1,20 @@
+{
+  "id": "MAP-333-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-333-01",
+  "registered_at": "2026-10-20T16:13:30.754178+00:00",
+  "input": "Synthetic smooth constant-radius planar velocity profiles V(theta),zero-mean desired first-order squared-speed modulation r(theta),strict covariance gap;no hardware dataset or actual fixed fixture yet",
+  "hypothesis": "On a future fixed set with nonzero pointwise drift,the covariance corrector reduces cycle displacement drift by at least90percent versus pointwise radial correction,while matching the requested first-order speed modulation to a certified tolerance. Compare an older structured constrained least-squares/KKT method at equal accuracy and report zero new-method increment if it already meets every requirement.",
+  "baselines": [
+    "Pointwise W=V*r/R² without mean constraint",
+    "Older constrained least-squares with low-rank/structured elimination,not only a weak dense implementation",
+    "Independent high-precision quadrature and exact finite Fourier-coefficient identities where available"
+  ],
+  "judge": "Beforeoutputs freeze actual smooth profiles,quadrature tails,outward residual/drift bounds,epsilon and conditioning strata. Check true continuous means,first-order target identity,finite-step quadratic remainder and comparison to strong old solver;sample-grid agreement alone insufficient.",
+  "success": "Frozen prediction and all correctness/conditioning tests pass;increment over old structured solver separately assessed and may be zero",
+  "failure": "Wrong normalization,nonzero mean drift,uncontrolled quadrature or nonlinear remainder,ill-conditioned covariance,resource failure or no baseline gain;retain observations",
+  "limits": "No new global metric theorem,closed-loop plant stability,nonlinear exact speed guarantee,bandwidth bound or hardware benefit. The linear moment constraint is old linear algebra;source formula alone does not imply novelty.",
+  "priority": "Lower than uncovered-discipline reading;do not execute merely to add an easy eleventh QA check",
+  "resource_envelope": "No numerical run allocated. Freeze bounded stdlib protocol and commit before any outputs;compress and verify all raw/summary/source payloads when executed."
+}

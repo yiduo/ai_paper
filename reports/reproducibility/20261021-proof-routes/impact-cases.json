@@ -1,0 +1,237 @@
+{
+  "companion_only": {
+    "changed": [
+      "CLM-210-Q-THM-MAIN"
+    ],
+    "affected": [
+      "CLM-210-M-COR-QUADRATIC-RANGE",
+      "CLM-210-Q-COR-COMPARISON",
+      "CLM-210-Q-THM-MAIN",
+      "PART-210-AVERAGED-MULTIPLICATION",
+      "PART-210-FORMAL-SCOPE",
+      "PART-210-PERFECT-PAIRING",
+      "PART-210-SHORT-ROUTE"
+    ],
+    "additional_review": [
+      "CLM-210-M-COR-QUADRATIC-RANGE",
+      "CLM-210-Q-COR-COMPARISON",
+      "PART-210-AVERAGED-MULTIPLICATION",
+      "PART-210-FORMAL-SCOPE",
+      "PART-210-PERFECT-PAIRING",
+      "PART-210-SHORT-ROUTE"
+    ],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [
+          "PART-210-SHORT-ROUTE"
+        ],
+        "unaffected_routes": [
+          "PART-210-INDEPENDENT-ROUTE"
+        ],
+        "all_routes_affected": false,
+        "claim_requires_review": false,
+        "claim_selected_as_changed": false
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  },
+  "chart_only": {
+    "changed": [
+      "CLM-210-M-PROP-LARGE"
+    ],
+    "affected": [
+      "CLM-210-M-PROP-LARGE",
+      "PART-210-INDEPENDENT-ROUTE"
+    ],
+    "additional_review": [
+      "PART-210-INDEPENDENT-ROUTE"
+    ],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [
+          "PART-210-INDEPENDENT-ROUTE"
+        ],
+        "unaffected_routes": [
+          "PART-210-SHORT-ROUTE"
+        ],
+        "all_routes_affected": false,
+        "claim_requires_review": false,
+        "claim_selected_as_changed": false
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  },
+  "both": {
+    "changed": [
+      "CLM-210-M-PROP-LARGE",
+      "CLM-210-Q-THM-MAIN"
+    ],
+    "affected": [
+      "CLM-210-M-COR-QUADRATIC-RANGE",
+      "CLM-210-M-PROP-LARGE",
+      "CLM-210-M-THM-MAIN",
+      "CLM-210-Q-COR-COMPARISON",
+      "CLM-210-Q-THM-MAIN",
+      "PART-210-AVERAGED-MULTIPLICATION",
+      "PART-210-COMPARISON-VS-CANONICAL",
+      "PART-210-DIMENSION-TRANSFER",
+      "PART-210-FORMAL-SCOPE",
+      "PART-210-INDEPENDENT-ROUTE",
+      "PART-210-PERFECT-PAIRING",
+      "PART-210-SHORT-ROUTE"
+    ],
+    "additional_review": [
+      "CLM-210-M-COR-QUADRATIC-RANGE",
+      "CLM-210-M-THM-MAIN",
+      "CLM-210-Q-COR-COMPARISON",
+      "PART-210-AVERAGED-MULTIPLICATION",
+      "PART-210-COMPARISON-VS-CANONICAL",
+      "PART-210-DIMENSION-TRANSFER",
+      "PART-210-FORMAL-SCOPE",
+      "PART-210-INDEPENDENT-ROUTE",
+      "PART-210-PERFECT-PAIRING",
+      "PART-210-SHORT-ROUTE"
+    ],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [
+          "PART-210-INDEPENDENT-ROUTE",
+          "PART-210-SHORT-ROUTE"
+        ],
+        "unaffected_routes": [],
+        "all_routes_affected": true,
+        "claim_requires_review": true,
+        "claim_selected_as_changed": false
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  },
+  "shared_finite_band": {
+    "changed": [
+      "CLM-210-M-VER-BAND"
+    ],
+    "affected": [
+      "CLM-210-M-THM-MAIN",
+      "CLM-210-M-VER-BAND",
+      "PART-210-COMPARISON-VS-CANONICAL",
+      "PART-210-DIMENSION-TRANSFER",
+      "PART-210-FORMAL-SCOPE",
+      "PART-210-INDEPENDENT-ROUTE",
+      "PART-210-INTEGER-ARITHMETIC",
+      "PART-210-REFERENCE-VS-EXECUTION",
+      "PART-210-SHORT-ROUTE",
+      "PART-210-SIGNED-LOOKUP",
+      "PART-210-TAIL-BAND"
+    ],
+    "additional_review": [
+      "CLM-210-M-THM-MAIN",
+      "PART-210-COMPARISON-VS-CANONICAL",
+      "PART-210-DIMENSION-TRANSFER",
+      "PART-210-FORMAL-SCOPE",
+      "PART-210-INDEPENDENT-ROUTE",
+      "PART-210-INTEGER-ARITHMETIC",
+      "PART-210-REFERENCE-VS-EXECUTION",
+      "PART-210-SHORT-ROUTE",
+      "PART-210-SIGNED-LOOKUP",
+      "PART-210-TAIL-BAND"
+    ],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [
+          "PART-210-INDEPENDENT-ROUTE",
+          "PART-210-SHORT-ROUTE"
+        ],
+        "unaffected_routes": [],
+        "all_routes_affected": true,
+        "claim_requires_review": true,
+        "claim_selected_as_changed": false
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  },
+  "direct_main": {
+    "changed": [
+      "CLM-210-M-THM-MAIN"
+    ],
+    "affected": [
+      "CLM-210-M-THM-MAIN",
+      "PART-210-COMPARISON-VS-CANONICAL",
+      "PART-210-DIMENSION-TRANSFER",
+      "PART-210-FORMAL-SCOPE"
+    ],
+    "additional_review": [
+      "PART-210-COMPARISON-VS-CANONICAL",
+      "PART-210-DIMENSION-TRANSFER",
+      "PART-210-FORMAL-SCOPE"
+    ],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [],
+        "unaffected_routes": [
+          "PART-210-INDEPENDENT-ROUTE",
+          "PART-210-SHORT-ROUTE"
+        ],
+        "all_routes_affected": false,
+        "claim_requires_review": true,
+        "claim_selected_as_changed": true
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  },
+  "application_gate": {
+    "changed": [
+      "PART-210-CONSUMER-GATE"
+    ],
+    "affected": [
+      "PART-210-CONSUMER-GATE",
+      "PROB-210-CANONICAL-RANK",
+      "PROB-210-MULTIPLICITY-CERTIFICATION"
+    ],
+    "additional_review": [
+      "PROB-210-CANONICAL-RANK",
+      "PROB-210-MULTIPLICITY-CERTIFICATION"
+    ],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [],
+        "unaffected_routes": [
+          "PART-210-INDEPENDENT-ROUTE",
+          "PART-210-SHORT-ROUTE"
+        ],
+        "all_routes_affected": false,
+        "claim_requires_review": false,
+        "claim_selected_as_changed": false
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  },
+  "F312_context": {
+    "changed": [
+      "P-c6dfdbb531ac61fa"
+    ],
+    "affected": [
+      "P-c6dfdbb531ac61fa"
+    ],
+    "additional_review": [],
+    "alternative_routes": [
+      {
+        "claim_id": "CLM-210-M-THM-MAIN",
+        "affected_routes": [],
+        "unaffected_routes": [
+          "PART-210-INDEPENDENT-ROUTE",
+          "PART-210-SHORT-ROUTE"
+        ],
+        "all_routes_affected": false,
+        "claim_requires_review": false,
+        "claim_selected_as_changed": false
+      }
+    ],
+    "meaning": "Review routing from declared dependencies, not theorem refutation, proof verification, or a credibility upgrade. Unaffected does not mean verified."
+  }
+}

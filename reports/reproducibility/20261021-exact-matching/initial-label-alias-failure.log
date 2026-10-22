@@ -1,0 +1,18 @@
+............................E..................
+======================================================================
+ERROR: test_real_graph_and_export_fields (test_research.EvidenceTests.test_real_graph_and_export_fields)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/Users/smzdm/projects/ai_paper/tests/test_research.py", line 344, in test_real_graph_and_export_fields
+    result = validate(ROOT)
+  File "/Users/smzdm/projects/ai_paper/src/ai_value/graph.py", line 226, in validate
+    found = {item['label'] for item in named_results(path.read_text())}
+                                       ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/smzdm/projects/ai_paper/src/ai_value/source_results.py", line 67, in named_results
+    raise ValueError("Ambiguous result labels at source offset " + str(match.start()))
+ValueError: Ambiguous result labels at source offset 19494
+
+----------------------------------------------------------------------
+Ran 47 tests in 2.440s
+
+FAILED (errors=1)

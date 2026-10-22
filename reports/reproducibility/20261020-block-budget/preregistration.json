@@ -1,0 +1,7 @@
+{
+  "preregistration_commit": "72d3bb4",
+  "spec_sha256": "21589a68e9d0f805c1d37929c44e80a190b27579a1e6df57516507ca96093b83",
+  "committed_spec_matches_executed_input": true,
+  "implementation_commit": "255da04",
+  "current_reporting_source_changed_after_run": "Opinion timing now rendered from its recorded pre/post metadata;experiment uses its immutable archived source snapshot;no rerun to change run ID."
+}

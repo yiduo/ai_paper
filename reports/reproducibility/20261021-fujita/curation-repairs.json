@@ -1,0 +1,6 @@
+{
+  "stage": "temporarycurationscriptbeforeanycanonicalmutation",
+  "error": "SyntaxError:missing space in andlen(bindings)",
+  "repair": "Corrected to and len(bindings);py_compile passed beforerunning;canonical9/18 bindings andfullvalidationpassed",
+  "numerical_outputs_changed": false
+}

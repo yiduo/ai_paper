@@ -1,0 +1,317 @@
+{
+  "work_package": "WP-086",
+  "generation_id": "GEN-20261022-082",
+  "recorded_at": "2026-10-22T02:11:32.102964+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "a15a41c",
+  "requirements": [
+    {
+      "id": "R-VERSIONS",
+      "status": "evidenced_at_pinned_revision",
+      "requirement": "全族当前与历史版本、撤回及逐项口径",
+      "evidence": [
+        "P-fc6738ad200ddb0c",
+        "data/corpus/reconciliation.jsonl",
+        "data/corpus/historical_versions.jsonl"
+      ],
+      "finding": "固定1581d4cb下一当前稿、路径逐项不变，无F332历史替换／撤回记录；不代表检查了远程新版本"
+    },
+    {
+      "id": "R-SOURCE",
+      "status": "evidenced_source_draft",
+      "requirement": "全部自然语言源文、具名结果、证明与适用条件",
+      "evidence": [
+        "data/provenance/readings/F-332.json",
+        "ANALYSIS-F-332"
+      ],
+      "finding": "648TeX+50Bib+README已读，本包再次读全部648行；7标签、14方法契约已绑定。font映射不是数学正文输入"
+    },
+    {
+      "id": "R-FORMAL",
+      "status": "evidenced_scoped_assessment_not_build",
+      "requirement": "自然／形式化范围与可信度",
+      "evidence": [
+        "data/provenance/readings/F-332.json"
+      ],
+      "finding": "上游未声明形式化，先前实际检索范围无匹配；Canonical332属不同命名空间。7C保持，未做Lean/Comparator或人审，不能说全局没有证明"
+    },
+    {
+      "id": "R-HISTORY",
+      "status": "incomplete",
+      "requirement": "原始前驱范围及新旧改进比较",
+      "evidence": [
+        "LIT-332-BALL92",
+        "LIT-332-DEZALAURENT97",
+        "LIT-332-MENDELNAOR13"
+      ],
+      "finding": "必要原始范围仍3/5：Ball正文未取得；Deza仅定义预览，等价表示定理未取得。MN新增Section5证明范围不使其他两根自动闭合"
+    },
+    {
+      "id": "R-DEPENDENCIES",
+      "status": "incomplete",
+      "requirement": "关键外部数学输入逐项可核验",
+      "evidence": [
+        "HIST-332-MN-GLOBAL-UPGRADE"
+      ],
+      "finding": "有限扩张证明主体已读；全域桥接仍引用未读[22],[25],[38]。源主定理自给证明与这一外部推论分开；不标完整依赖闭合"
+    },
+    {
+      "id": "R-METHODS",
+      "status": "evidenced_source_draft",
+      "requirement": "可迁移方法输入／输出／条件／限制",
+      "evidence": [
+        "ANALYSIS-F-332",
+        "PART-332-EXPECTED-MEDIAN"
+      ],
+      "finding": "已有14契约及后续真实消费者条件，维数、平稳链、平方L1、期望与单次样本边界明确"
+    },
+    {
+      "id": "R-MAPPING",
+      "status": "evidenced_single_provider",
+      "requirement": "十域、反向／结构匹配与跨族尝试",
+      "evidence": [
+        "XPL-332-TEN-DOMAINS",
+        "APP-332-01"
+      ],
+      "finding": "十域与F094/F131/F231三项比较有实际记录；一个具体近类比，不计十候选；跨供应商仍缺"
+    },
+    {
+      "id": "R-APPLICATION",
+      "status": "evidenced_adverse_finite_initial_check",
+      "requirement": "可证伪预测、旧基线、独立裁判和结果",
+      "evidence": [
+        "EXP-332-001-b2607a9926c44586",
+        "APP-332-01"
+      ],
+      "finding": "18核心9胜<12且2损失，固定预测未支持；已初检不等于有效线索；本包不重跑／扩网格"
+    },
+    {
+      "id": "R-REVIEW",
+      "status": "deferred_external_not_fabricated",
+      "requirement": "独立模型、真实人审与规格确认",
+      "evidence": [
+        "configs/research.json",
+        "state/human_review_queue.json"
+      ],
+      "finding": "用户已延后；同一OpenAI会话自查不替代两供应商或真实人审，C不升级A"
+    },
+    {
+      "id": "R-TRANSFER",
+      "status": "not_achieved",
+      "requirement": "真实消费者、排序转化与人工试点闸门",
+      "evidence": [
+        "PART-332-REAL-DENOISING-CONSUMER-GATE"
+      ],
+      "finding": "无真实消费者或A级试点，保留观察及重访条件；不把完整源码阅读计作六阶段完成"
+    }
+  ],
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "dependency_closure_complete": false,
+  "required_original_roots_checked": 3,
+  "total_source_bibliography_roots": 5,
+  "source_reread": {
+    "path": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/main.tex",
+    "lines": [
+      1,
+      648
+    ],
+    "sha256": "656a6f35bf6543ecf0cf2dbc38a83a7a05427592123a5eb817be24250e2e6953"
+  },
+  "selected_MN_scope": "arXiv1301.3963v2,20May2013;Section5 PDF29-39全文及Section1.5 PDF8-10选定桥接，定义Eq17PDF15；不是全文或全部外部输入核验",
+  "scopes": [
+    {
+      "id": "HIST-332-MN-ANCHOR-ROUNDING",
+      "kind": "method",
+      "title": "有限锚点的旧舍入引理",
+      "locator": "MN13Lemma5.1,PDF29-32,Eq74-84",
+      "contract": {
+        "input": "有限锚点、随机矩阵B(n×m)、相对pi可逆的C(n×n),p>=1",
+        "output": "在原锚点中选择n个代表，逼近和C能量由3^p加权锚点距离控制",
+        "conditions": [
+          "有限距离数据先等距放入ell_infinity^m，再线性平均并取最近锚点",
+          "矩阵积B*DpiCB，保留行列与pi权重"
+        ],
+        "cannot_transfer": "不是F332的三个端点中位数构造；不是全域扩张算法"
+      }
+    },
+    {
+      "id": "HIST-332-MN-DUAL-CRITERION",
+      "kind": "method",
+      "title": "从所有加权能量到有限Lipschitz映射",
+      "locator": "MN13Lemma5.2/proof,PDF32-33,Eq85-87",
+      "contract": {
+        "input": "有限源点和固定锚点；对每个非负对称H存在相应能量可控映射",
+        "output": "一个统一有限映射，Lip损失至多(1+epsilon)GammaLambda",
+        "conditions": [
+          "目标Wp重心条件；闭凸包分离及有限混合后重心化",
+          "forall H exists Phi_H与一个同时满足点对约束的F需通过证明衔接"
+        ],
+        "cannot_transfer": "有限几个H试验不能替代全称条件；没有给出高效分离／混合oracle"
+      }
+    },
+    {
+      "id": "HIST-332-MN-FINITE-PROOF",
+      "kind": "method",
+      "title": "旧有限扩张证明的实际条件",
+      "locator": "MN13Theorem1.11 proof,PDF34-39,Eq88-106",
+      "contract": {
+        "input": "源Markov type p，目标metric Markov cotype p与Wp重心条件；有限源点和锚点",
+        "output": "点数无关的有限集扩张，Lip至多通用倍数Gamma Mp Np",
+        "conditions": [
+          "用epsilon避免零分母，t足够大保证可逆随机矩阵对角非负",
+          "结合锚点舍入、cotype和type，再用对偶准则；不要求目标p-barycentric"
+        ],
+        "cannot_transfer": "ell1不必均匀凸；不得误套另一个更强p-barycentric推论。证明中大t不是本项目去噪参数"
+      }
+    },
+    {
+      "id": "HIST-332-MN-GLOBAL-UPGRADE",
+      "kind": "method",
+      "title": "有限扩张到全域的对偶空间桥接",
+      "locator": "MN13Section1.5,PDF9-10,Cor1.13",
+      "contract": {
+        "input": "所有有限集上的统一扩张界；目标为对偶Banach空间",
+        "output": "经ultrapower、到bidual的投影和目标回缩得到全域扩张",
+        "conditions": [
+          "论文明确引入局部自反性和ultraproduct结果[22],[25],[38]",
+          "dual目标在bidual中范数1可补；ell1=c0*符合目标类型"
+        ],
+        "cannot_transfer": "不是有限运行预算；这里只读该桥接陈述，底层三个原始文献正文仍未核对"
+      }
+    },
+    {
+      "id": "HIST-332-DL-CUT-DEFINITIONS",
+      "kind": "method",
+      "title": "原书预览中的cut锥和cut多面体",
+      "locator": "DL97Chapter4 preview,printed37-38;Eq4.1.1-4.1.4",
+      "contract": {
+        "input": "有限顶点集及其cut半度量delta(S)",
+        "output": "CUT锥为非负生成，cut多面体为凸组合",
+        "conditions": [
+          "锥系数非负，不要求和为1；多面体系数和为1",
+          "只取得两页预览，后续Theorem4.2.6的正文／证明未取得"
+        ],
+        "cannot_transfer": "不得把定义预览称为L1等价表示定理已读；不替代F332自给重建证明"
+      }
+    }
+  ],
+  "primary_files": [
+    {
+      "file": "mn.pdf",
+      "bytes": 546743,
+      "sha256": "df6d5eab8434f03354cfd378b6080ee150dd858ebd94d9d22bd2716226605474",
+      "retained_full_text": false
+    },
+    {
+      "file": "mn.html",
+      "bytes": 1285556,
+      "sha256": "d790f53299958d212693677940f293085800532b5977940ab674d557d083bae5",
+      "retained_full_text": false
+    },
+    {
+      "file": "deza-preview.pdf",
+      "bytes": 409051,
+      "sha256": "939905304ba9c59e95a2afa41d96bd775e8c3a9aef841a67d13095a77eb9e307",
+      "retained_full_text": false
+    }
+  ],
+  "actual_formula_pixels": [
+    {
+      "file": "mn-duality.png",
+      "source_file": "mn.pdf",
+      "pdf_page": 33,
+      "printed_page": 33,
+      "bytes": 195512,
+      "sha256": "9f84e0dbfb93cd8286cd41367246f5c94b8150793a9ef9b138f5c9009c81bd25",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "mn-cesaro-index.png",
+      "source_file": "mn.pdf",
+      "pdf_page": 38,
+      "printed_page": 38,
+      "bytes": 157007,
+      "sha256": "3fd073fa0402f4d8d5e863b5f647ae9113c29b38077d8552cba7534de7f69d4f",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "mn-ultrapower.png",
+      "source_file": "mn.pdf",
+      "pdf_page": 9,
+      "printed_page": 9,
+      "bytes": 326565,
+      "sha256": "4310610246afc36f3cec7ead326d7606e61659c7332fd80d3aa47c4daa2c30aa",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "mn-cesaro-definition.png",
+      "source_file": "mn.pdf",
+      "pdf_page": 15,
+      "printed_page": 15,
+      "bytes": 181670,
+      "sha256": "45a92d42ed3da3827ed90d1a7e2a23994359cdb8b73df20c139d59688999069a",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "file": "deza-cut-definitions.png",
+      "source_file": "deza-preview.pdf",
+      "pdf_page": 1,
+      "printed_page": 37,
+      "bytes": 176145,
+      "sha256": "dc441ecdba1f684280d820ab493570dc1d7019e8262b73bd7e04315c8a658eb8",
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "notation_observations": {
+    "classification": "指定预印本的局部记号一致性观察，未获作者或期刊版确认，非定理反例",
+    "observed": [
+      "PDF33Lemma5.2最后一行写d_Y(x_i,x_j)，而x_i是X中的点；同页Eq87前索引上界写m，源点数为n",
+      "PDF15Eq17平均为s=1..t，PDF38Eq105展开却写k=0..tau-1；HTML与PDF相同"
+    ],
+    "scope": "按陈述所需的d_X与Cesaro定义记录接口；直接Markov type估计可给所用上界，但本包不改原文、不宣称完成作者更正或全部证明审核",
+    "published_version_check": "DOI10.2478/agms-2013-0003本工具不可访问；没有逐字核对2013期刊版",
+    "source_F332_grade_changed": false,
+    "new_numerical_run": false
+  },
+  "missing_original_proof_inputs": [
+    {
+      "id": "LIT-332-MN-HEINRICH1980",
+      "citation": "S.Heinrich,Ultraproducts in Banach space theory,J.ReineAngew.Math.313:72-104,1980",
+      "reference": "MN13[22]"
+    },
+    {
+      "id": "LIT-332-MN-JRZ1971",
+      "citation": "W.B.Johnson,H.P.Rosenthal,M.Zippin,On bases,finite dimensional decompositions and weaker structures in Banach spaces,IsraelJ.Math.9:488-506,1971",
+      "reference": "MN13[25]"
+    },
+    {
+      "id": "LIT-332-MN-LR1969",
+      "citation": "J.Lindenstrauss,H.P.Rosenthal,The Lp spaces,IsraelJ.Math.7:325-349,1969",
+      "reference": "MN13[38]"
+    }
+  ],
+  "book_preview": "出版社Chapter4PDF仅两页37-38，正文Theorem4.2.6未取得；作者主页/仓储/文件目录未给出已核对的完整章",
+  "book_corrections": "作者公开更正页已读，p51拼写及p130命题条件修正等分别列出；没有据此推断未读4.2.6正确，未把p130应用到新稿自给cut证明",
+  "partial_ball_retrieval": {
+    "recorded_at": "2026-10-22T02:00:55.232990+00:00",
+    "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN359089402_0002/PPN359089402_0002.pdf",
+    "bytes": 20971520,
+    "sha256": "3d59c7be0166959d6aca1f09dfbf8ed06120aa8e48d401a041bef6124e09211c",
+    "download_complete": false,
+    "exit": 56,
+    "reason": "20MiBhardcap triggered on journalvolume;not Ball article read or complete PDF",
+    "deleted_after_receipt": true
+  },
+  "ball_body_status": "出版社付费正文未读；馆藏整卷触20MiB上限停止，部分文件记SHA后删除，不追加同一整卷重试",
+  "no_new_numerical_run": true,
+  "no_new_candidate": true,
+  "human_review": null,
+  "second_provider_review": null,
+  "full_criteria_unchanged": true
+}

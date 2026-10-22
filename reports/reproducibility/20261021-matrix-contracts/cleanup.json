@@ -1,0 +1,130 @@
+{
+  "recorded_at": "2026-10-21T00:51:58.722763+00:00",
+  "source_archive_roundtrip": true,
+  "source_archive_members": 7,
+  "source_archive_gzip_bytes": 85004,
+  "helper_archive_gzip_bytes": 14705,
+  "helper_archive_sha256": "fa4aa8ab6937b15c7a8173a250910ba4f30794e509a0726574d040bb9b235ca5",
+  "helper_archive_uncompressed_sha256": "61d9b3cf6a083d22265051989cc77b47f247ead91ba82fe6ee6858f16cfdd6a3",
+  "helper_roundtrip": true,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/sage-algebra.py",
+      "bytes": 40264,
+      "sha256": "576692aa127e10c58ee5a3f31447ee086cc652eb65685b0e6ce6c68b2e306e9e",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/sage-COPYING.txt",
+      "bytes": 61362,
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-meataxe.gi",
+      "bytes": 118685,
+      "sha256": "8d550ed0e6d648990bf680b0ad576556eaf637d1db759a9eaa5b340e79cbeb6b",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-COPYRIGHT",
+      "bytes": 2949,
+      "sha256": "0a32b5dac95cd20a7635ba8f5ffbf8503c737010f2606ff24b51706ca8a2589b",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-read4.g",
+      "bytes": 970,
+      "sha256": "cd5d5790c84f6f51ff769eb8c0d5371a12f9f4919baf0d8521249a7eb3aa48b4",
+      "retained_as": "Discovery index/patch only;digest retained,not an application or benchmark input"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-meatauto.gi",
+      "bytes": 46294,
+      "sha256": "69f625654824c7cdb0885690c35cce415e6da9c9f62d9cd105594a2269f7c611",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/discovery-6289.patch",
+      "bytes": 20289,
+      "sha256": "be8a935258ea9497b211eb7f5e89bcc3423a941c718c9adc284ba3b3c944c51d",
+      "retained_as": "Discovery index/patch only;digest retained,not an application or benchmark input"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-read3.g",
+      "bytes": 6121,
+      "sha256": "a64e90c551c1c9c2ec8db605fc9ff4e13b127cb44e9a3cf074d9f954e14b2195",
+      "retained_as": "Discovery index/patch only;digest retained,not an application or benchmark input"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-meataxe.xml",
+      "bytes": 24372,
+      "sha256": "6d35a1301781d28cd5981b90498c71b5811c0e284187c578d8c3f2219633e250",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142-interfaces/gap-LICENSE",
+      "bytes": 17984,
+      "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6",
+      "retained_as": "Exact source/license in seven-member gzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/prepare_f142.py",
+      "bytes": 18593,
+      "sha256": "31f641544e675ee3f743ca0ff512424e40fcf478795edb43340782085a4c8075",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/finish_matrix.py",
+      "bytes": 12390,
+      "sha256": "5be5231981ac1aab503a4595a9340a82042f31160f373c8142b39280e35a060a",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/curate_matrix.py",
+      "bytes": 17586,
+      "sha256": "c6844b0b9ad00dae1686eb83312c052536a466280ab705ea4c78c9db86cb7001",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/finish_f142.py",
+      "bytes": 11553,
+      "sha256": "904425a672d3d78fb57f853284bd544d7bf13d23bbf650ef6715ed0f1d28f1d9",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/integrity_f142.py",
+      "bytes": 4499,
+      "sha256": "0755f8d92aacb90c0ac334d896119f385761f9828d5293731b4155a59766d1bb",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/integrity_matrix.py",
+      "bytes": 4850,
+      "sha256": "69ecce65a40c795fc2d1f1adfde228131e48583880fbf428a2383ed0e2b17d4f",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/quality_matrix.py",
+      "bytes": 3002,
+      "sha256": "4e53f6385a730bd527bd2c452bee247dd457808d5ee877945e706bd1b93c0e90",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/curate_f142.py",
+      "bytes": 22237,
+      "sha256": "5d348bab6a914fb082899eed3351191b2393a5b3c0225eada1c0f22218c0d677",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP061/quality_f142.py",
+      "bytes": 3006,
+      "sha256": "9f9d5aa8fcb4aebdeae05c9ef6ff4df7bf1d827117ae4eebe0bb0c2da24c6742",
+      "retained_as": "Own helper archive or already-existing factorization helper archive"
+    }
+  ],
+  "temporary_bytes_removed": 437006,
+  "temporary_directories_removed": true,
+  "no_installs": true,
+  "new_application_run": false
+}

@@ -1,0 +1,93 @@
+{
+  "task_owned_files": [
+    {
+      "path": "/private/tmp/ai-paper-props-brisbane.json",
+      "bytes": 353470,
+      "sha256": "bc8b29433a8e1935a8f5537cafccc63194dc5ed5137edba684ff3fb77b269d1d"
+    },
+    {
+      "path": "/private/tmp/ai-paper-runtime-license.txt",
+      "bytes": 11416,
+      "sha256": "7b7de08c64b1824bdc2b9f4b530814a9d0b5905a38ad0e96a717f3dd46d2bbe7"
+    },
+    {
+      "path": "/private/tmp/ai-paper-aer-errors.txt",
+      "bytes": 17095,
+      "sha256": "25057e6ddab0f2861c363bf01e7c01a5337d3acb8757dcd2eb36a010d14206b4"
+    },
+    {
+      "path": "/private/tmp/ai-paper-aer-device-models.txt",
+      "bytes": 16061,
+      "sha256": "9618d9c3c5c350034accbc48d87aadbfacf688f65fd90869d6bb4f94826d4c65"
+    },
+    {
+      "path": "/private/tmp/ai-paper-bluefog-topology.txt",
+      "bytes": 20529,
+      "sha256": "ef234a69f29bcf24fa4d76e775a645eddae5aafc5fdd228fb1dde3ff250e4dc1"
+    },
+    {
+      "path": "/private/tmp/ai-paper-bluefog-license.txt",
+      "bytes": 11342,
+      "sha256": "f0f6a9022a8d277f608fbf0fb1b374bb974806c4c6420cb9e149bd9c30f8028c"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-readme.txt",
+      "bytes": 11685,
+      "sha256": "4435b11085a539f214bc61c35f6fb55f7cb99bcc0fd948bbfbb450fe92f57c2d"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-trajectory.txt",
+      "bytes": 5962,
+      "sha256": "f80810629d1701f3bd86a23be0abbc50392b68bd8576c41458baf90b6a3cb9d4"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-trajectoryCriterion.m",
+      "bytes": 1055,
+      "sha256": "e3b5e73211771252f27c9f25f71679784f2119ce16cab51a3d3581aa82ac01ef"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-trajectoryConstraints.m",
+      "bytes": 1705,
+      "sha256": "dad2474069d35db3202ccbcb48b87bc92d03f0b477acc3d20f1b69423d8ba624"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-trajectoryGeneratorFourier.m",
+      "bytes": 994,
+      "sha256": "a0eb220dbf2e6e9ac6e6b28c29fd569d6dd2fa42333d521471b56868d1bd4b72"
+    },
+    {
+      "path": "/private/tmp/ai-paper-runtime-head.json",
+      "bytes": 48354,
+      "sha256": "e289169145b2b7fb7386ba6fbc6a6fa3e2c0e1d3e1a9310901b7564c90c465c4"
+    },
+    {
+      "path": "/private/tmp/ai-paper-bluefog-head.json",
+      "bytes": 5755,
+      "sha256": "6a44abd296522ddcce20c375459bab9357e1334e3ab38f05ebc7e922651a254b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-aer-head.txt",
+      "bytes": 6722,
+      "sha256": "f3813b8d0036e2d3b54b6ee0240c1027100cbc7f517bba498df0bd3c5fed6f1e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-head.txt",
+      "bytes": 63443,
+      "sha256": "d5b68c93ff5452e92bf620cd36f2e524c0e15e57e7289b29c350c58c993ead13"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-list.json",
+      "bytes": 5538,
+      "sha256": "a10eea8933930d529024c0be6cf6c89bd858dfa79dbd8ab31d17638dc908b1b2"
+    },
+    {
+      "path": "/private/tmp/ai-paper-birdy-optimizer-list.json",
+      "bytes": 4685,
+      "sha256": "94dd12b246199e8909cc5d8cbc58c6c724796fc7bb45510978743b5355aa2092"
+    }
+  ],
+  "total_removed_bytes": 585811,
+  "all_listed_paths_absent": true,
+  "retained_public_input": "data/provenance/demand/ibm-brisbane-0e177896.json.gz",
+  "reading_ledger": "data/provenance/readings/DEMAND-002.json"
+}

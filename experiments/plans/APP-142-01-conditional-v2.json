@@ -1,0 +1,28 @@
+{
+  "id": "APP-142-01",
+  "title": "有限域符号验证的无随机秩一算子证书",
+  "version": 2,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-056",
+  "analogy": "far",
+  "input": "A real symbolic verification/module-algebra consumer supplies a concrete basis of B subset M_d(Fp),with certified full-parabolic conjugacy;d oddprime,p>(d+1)^2. Actual consumer/certificate producer not selected.",
+  "output": "An explicit e in B with e^2=e andrank(e)=1,plus independently checkable fieldlinear-span/equality certificates,without random or polynomialfactoring oracle. This is an operator witness,not an invariant1Dcomponent orcentralprojector.",
+  "extra_assumptions": "Actual request semantics and full-block-upper-triangular conjugacy must be certified. A merely triangular/commutant algebra,trace degeneracy,or rankoneoutput alone doesnot prove this promise. Do not hide a basis/flag exported by the real consumer from baseline.",
+  "hypothesis": "On a separately frozen batch of actual consumer-produced resource-admitted eligible requests,the trace-kernel adapter returns a valid rank-one idempotent on every input with zero randomness/polynomial-factorization calls,and removes at least one such dependency of the strongest eligible existing backend on a nontrivial request under matched total caps. This incremental prediction is not implied by the source lemma;an already oracle-free structure-aware old method would show zero incremental value.",
+  "judge": "Freeze actual consumer semantics/eligibility proof,inputbatch and all resource caps before outputs. Independent exact fieldspan test,e²=e andrank1;record cutoff as failedprediction/status,not Boolean false or retrospectively excluded. Solver gets only actual consumer input;any real available flag/conjugator must also be given to baseline. Synthetic known conjugates/calibration cannot alone count an external application test. Membership/idempotency doesnot certify parabolicpromise,centrality or1Dmoduleinvariance.",
+  "baseline": "GAP selected current implementation:exact intertwiner nullspace for small modules;SpinHom constraints for larger reducible modules;endomorphism sampling/order-polynomial Factors/Fitting splitting. Sage selected commutative primary quotient maps factor characteristic polynomials;this is a different output. An existing supplied flag/conjugator already gives deterministic coordinate projection;compare it fairly. No universal old-factorization requirement or end-to-end cost improvement established.",
+  "limits": "No actual consumer/inputdata/implementation/run. F142 fiber lemma inputis concrete full-parabolic algebra,not arbitrary symbolicmodule orabstract structureconstants;conservative oddprime d andp>(d+1)^2 maintained. e neednot central andspan(v) neednot invariant underallB. No speed,fullnormsolver orfullfactoring claim;Heckeinput is not needed for this pure matrix sub-contract. Full dependency closure unknown,human/provider unavailable. Neither selected interface nor the issue establishes an actual resource-admitted request for the candidate operator witness with certified FULL parabolic input. Lower numerical implementation priority and retain conditional candidate;no new candidate,initial checked card,validated hypothesis or numerical run. Historical issue timings not local observations.",
+  "revisit": "Provide a genuine requested rank-one operator witness,concrete certified FULL-parabolic basis,odd-prime dimension and prime characteristic p>(d+1)^2,with separately frozen resource admission and strongest structure-aware baseline. If invariant summands are needed,prove the output is in End(M) and returns the required complete decomposition;an action-algebra rank-one idempotent is insufficient. Include basis/flag construction and output materialization in total costs. Existing oracle-free baseline means zero incremental value.",
+  "source_labels": [
+    "norm:fiber-idempotent"
+  ],
+  "part_keys": [
+    "PARABOLIC-FIBER",
+    "CONSUMER-PARABOLIC-GATE",
+    "RESOURCE-CAP-GATE"
+  ],
+  "dedup_key": "F-142|actual modular symbolic verification consumer|rank-one full-parabolic operator certificate without random/factoring backend",
+  "updated_at": "2026-10-21T00:47:11.956800+00:00",
+  "revision_generation_id": "GEN-20261021-057",
+  "actual_tool_review_id": "CHECK-142-MATRIX-CONTRACTS"
+}

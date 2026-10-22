@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-20T20:45:02.735067+00:00",
+  "prior_nodes_match_HEAD": 2,
+  "current_files": {
+    "reports/F366-field-budget-mapping.md": "a534fa866c882ac0f92f52749f2d48ae20e9ee3c5c86b938b85c1e4e4efab363",
+    "data/provenance/demand/F-366-field-budget-mapping.json": "2db65bf4c502ac63530534e23ad1d9fbef21c490073027813315d0ad3a4e252f",
+    "experiments/plans/APP-366-01-conditional.json": "e25d03e1027c1e753b0e7e5826b5cde4a281e1a7dce5c4659bd72c194616417a"
+  },
+  "manual_source_identity": "Actualselectedwebbodyobservations,fullbytesnotretained;versionedZFPmanualnotimplementationaudit",
+  "new_application_run": false,
+  "new_downloads": false
+}

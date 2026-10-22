@@ -1,0 +1,362 @@
+{
+  "family": "F-021",
+  "status": "complete_natural_source_draft_selected_formal_history_only",
+  "read_files": {
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/main.tex": {
+      "lines": 68,
+      "sha256": "8167be648562a5e4252ca88487055119b2613264504e335a1b6250360f535913"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/introduction.tex": {
+      "lines": 269,
+      "sha256": "94390edea0aecf1a55cca3cfc23fcb5e4b6c6002391085ce8ff99707f3ac8218"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/inputs.tex": {
+      "lines": 206,
+      "sha256": "169109fda20d6111437ae7e281f0eec8ebbd65deeef601b7e73d1f6671e6f018"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/tree.tex": {
+      "lines": 148,
+      "sha256": "49df29fd824e20bf8d5ce7c2325db13d94782219f2122c5cb3e2db06a115a02e"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/figures/proof-route.tex": {
+      "lines": 47,
+      "sha256": "8542d9cfa0f745f4c83088f32a865658f9e8873636c8e85bd8a0442e97eb5be8"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/functions.tex": {
+      "lines": 981,
+      "sha256": "3f7c8f0d6b8c5b473deb9266eeace69f69749347dd0b1315879432b9446af754"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/reference.tex": {
+      "lines": 582,
+      "sha256": "7a40b0059f193f418b2f7969c169de8123b193e53e60ff13d4fe8442486304f5"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/boxes.tex": {
+      "lines": 532,
+      "sha256": "b14b2e62b76d7659e40c3742029d39fd258e1d2f8f23492dcf243eae0f30ff6e"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/inverse.tex": {
+      "lines": 866,
+      "sha256": "f0a031173b3c200ba25e8abaae869261c968a95c5c6336828e4dd5cc0e139a6f"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/prime-paths.tex": {
+      "lines": 372,
+      "sha256": "a62ae174335464e1e274d43ab15b43d0dcbaf06848f82da492c11f4e7ddaa980"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/variance.tex": {
+      "lines": 635,
+      "sha256": "973d3a4d93493679f05a73fbabe96e3a22110faba0471d46d2224ae3d870d772"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/stops.tex": {
+      "lines": 780,
+      "sha256": "913c6ab8939ad76d74340c6393f6a87fa66fce545215217f7553e7d093644b4c"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/assembly.tex": {
+      "lines": 257,
+      "sha256": "c0f67d9b75156878a729e07c965d7f66b26ed8970570c505752b37b412a78c4f"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/elementary-inputs.tex": {
+      "lines": 321,
+      "sha256": "f54feea9a0710b2f0f066d8667eef1f4a12f4549c60a55c4caced5107c7e08e5"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/hyperbola.tex": {
+      "lines": 299,
+      "sha256": "ac8389a774cfc6a7e310bd35b04a49fb67370d34651ecf45ebfd3de5bc6591f5"
+    },
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/references.bib": {
+      "lines": 378,
+      "sha256": "42ceb3bbcfae0a6efc83b845de69cddbaa3370cbc36a2dfeadf43ed02ee1e62e"
+    }
+  },
+  "read_notes": [
+    "Main strengthened h(k)<=C k²/(loglog(3k))² for every k>=1;uniform signed interval translation,arbitrary prime sizes,repeated primepowers irrelevant;C not explicit and constants need not effective.",
+    "Survivor theorem for all prescribed residue classes at every p<=z;zlarge,Y=floor(z²/log²z),w=logz/(loglogz)²,B=logz/logw,V0 smallprimeproduct;count>=cYV0/B². No random residue choice.",
+    "Passing to arbitrary k uses cutoffA0 klogk/loglogk and progression upper sieve for primes>z;quantitative survivors not merely positivity.",
+    "Primorial extremality differs from uniform bound;source claims h24=236>primorialj24=234. Must check originals.",
+    "Sieve reference positive margin at critical2 alone cannot bound actual classes;inverse/variance/stopping comparison needed. xi fixed before zlimit,not xi(z).",
+    "Inputs: dimension2 fundamental sieve with tau-weighted remainder;SiegelWalfisz constants may be ineffective;shortinterval prime count requires H>=v^.9;Kloosterman bound retains gcd even zero/noncoprime frequencies. Small-sieve bounds uniform all class/step/initialpoint with progression step coprime small primes;relative error requires large log_u J.",
+    "Tree: exact smallest-bad-prime partition, alternating restricted lower tree, prefixfree lower stops;every included interval length>=w^.01, enlarged box>=w^.005. Positive reference alone needs retained errors and aggregated stop comparison.",
+    "Functions: derivative tilt keeps endpoint reciprocal weight;even extension just below2 is only starting benchmark. Regeneration cycles iid after first hit, finite exponential moment, nonarithmetic positive decrement. Compact occupation theorem no effective rate. State/time correlated: marginal band bounds obtained by enlarged windows, not independence. Marked visits require parameter order fixed b0 then large b1 then initial scale.",
+    "Prime paths:high-ratio histories factorial tails;tilted prime kernel normalized with cemetery;exact originalweight identity includes(1+epsilon)^m and endpointphi. Totalvariation coupling alone insufficient for unbounded1/phi rewards;discrete marginal majorants necessary;uniformcompact occupation is asymptotic,not usablefinitew rate.",
+    "Reference:quadrature residual sumo(B^-2),boundary anomalyuniformcompact+superexponentialtail;full signedintegral8/3 minusfirstomissions. I>.14(coarse) and rationalremark>.222979373;rootB²P/e^gamma ->-.01+2I/Mg>.02. LocalQ=f/b+O(b^-2) uniformratio[2,2.22];prime convergence onfixedcutoffwindows only.",
+    "Boxes:badcompactendpoints have recent witnessingedge amonglastH_e. Fullboxesindependent only disjoint singleton p/u bins and groupedq/descendants. Regularity exclusions:highratios,length,isolatedposition,repeats,thresholdclearance;total enlargedmassO_K(B^-2) independentnumberboxesandxi;atleastc7logwsearchpositions. ChoosexiLASTthenz.",
+    "Inverse:eachwholecandidatebox hasfixedfinite rational list reducedA/D,D>0,D<=R Z^10,|A|<=SqRZ^10 andcpfractionisolatedprimealignment. Outsidewholeboxfraction sigma,everybadedgeparentstructuredp aligns,DqE<=RZ^10. Listchosenbeforefailure/sample;not conditional fractionamongbadedges. Algebraicity nonlinearpointsO(D0^4(1+S^(2/3))) coefficientindependent excludesline-onlypoints;sampledslopes/polynomialheight/large-sievecollisions provideintercept. D neednot squarefree;gcdhandlingexplicit.",
+    "Variance:arithmeticH=DqfE,C0=(Db-A)/qfA integer,gcd(C0,H)=1,T=max(H,|C0|/R),T/H<=Z^12. Randomindependentclassvariance onlyauxiliary;actualprimeclassesdominatedbymeasures viaBT forH<=R^.8 andhyperbolacompletion+upper sieve forlargerH. ForT>w^Cs onlysigma2fractionALLisolatedbinprimesbad+aligned;Cs fixedbeforexi. HardexceptionsharmonicmassrhoB^-2 thenDqfE,|C0|/R<=w^Cs and allfactorsexponent>Cs align,globalD<=w^Cs,|A|<=Yw^(Cs+2).",
+    "Stops:eligibleownernearfull1-eta uniqueasymptotic;tagfirstowner-alignedsearchfactor. Stopsfirstnonemptyeven,lengthcap,allprefixalignment,singleton tag,representativesafety,exponent[b0,b1],ratio[2.06,2.16]. Alignedfamilyaverage>=.39Vall sumJ,individualabsoluteupperCU;removeownercomplementeta then>.34 while reference<.33. OnlyAGGREGATEstopcomparison nonnegative. EulerprobabilityuniformallEincluding2>=e^-gamma(.94-o1),countsunique m=+-d0 ellprime,d0<=P^.95. SWmoduluspowerslogR mayineffective. Hardstoppingmissmass(delta+o1)B^-2,ordereta,b0,b1/b0,xi,z;fullboxindependenceusedBEFOREconditioninghardness.",
+    "Assembly:tails+goodcompact+retainedbadcost<=3cL/8,aggregatestopdiff>=0 ->survivors>=cL/2 YV0/B². z=A0klogk/loglogk;largeprimeq>z eachlosesC1(1+X/logX),evenq>Y;A0>2C1/c0 beforeklimit. Smallkhandledm=(k+1)2^k+1 butunknownlargekthreshold,so noexplicituniversalC orpracticalfinitek guarantee.",
+    "Appendices:hyperbola p integer notprime,HT0modulusprimepowersallowed,T0squarefreewithsupportinH,T1coprime,unitC0. Retainmultiplicityforlongintervals,gcd/shiftedzero Fourierfrequencies;explicit tau(N)^2log²(2N)sqrt(NT0)(1+X/(lN)+Y2/N) errorabsoluteconstant. ElementaryBuchstabindependentnormalization preventscircularity;separatedarcs largesieve,coefficientindependentBezout distinctpoints,mustcoprimepolynomials;BTproofstillusesfundamental sievenotfullyelementarynewinput."
+  ],
+  "result_index_only": {
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/introduction.tex": [
+      {
+        "label": "thm:main",
+        "kind": "theorem",
+        "line": 24
+      },
+      {
+        "label": "thm:survivors",
+        "kind": "theorem",
+        "line": 144
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/inputs.tex": [
+      {
+        "label": "lem:fundamental",
+        "kind": "lemma",
+        "line": 10
+      },
+      {
+        "label": "lem:prime-inputs",
+        "kind": "lemma",
+        "line": 53
+      },
+      {
+        "label": "lem:small-sieve",
+        "kind": "lemma",
+        "line": 149
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/tree.tex": [
+      {
+        "label": "lem:tree-lower-bound",
+        "kind": "lemma",
+        "line": 47
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/functions.tex": [
+      {
+        "label": "lem:future-integrals",
+        "kind": "lemma",
+        "line": 83
+      },
+      {
+        "label": "lem:derivative-weights",
+        "kind": "lemma",
+        "line": 261
+      },
+      {
+        "label": "lem:regeneration",
+        "kind": "lemma",
+        "line": 405
+      },
+      {
+        "label": "lem:invariant",
+        "kind": "lemma",
+        "line": 504
+      },
+      {
+        "label": "prop:occupation",
+        "kind": "proposition",
+        "line": 602
+      },
+      {
+        "label": "lem:band-bounds",
+        "kind": "lemma",
+        "line": 723
+      },
+      {
+        "label": "lem:marked-visits",
+        "kind": "lemma",
+        "line": 879
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/prime-paths.tex": [
+      {
+        "label": "lem:prime-harmonic",
+        "kind": "lemma",
+        "line": 33
+      },
+      {
+        "label": "lem:high-states",
+        "kind": "lemma",
+        "line": 65
+      },
+      {
+        "label": "prop:prime-coupling",
+        "kind": "proposition",
+        "line": 109
+      },
+      {
+        "label": "lem:discrete-marginals",
+        "kind": "lemma",
+        "line": 202
+      },
+      {
+        "label": "prop:prime-occupation",
+        "kind": "proposition",
+        "line": 260
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/reference.tex": [
+      {
+        "label": "lem:ref-residual",
+        "kind": "lemma",
+        "line": 74
+      },
+      {
+        "label": "lem:ref-anomaly",
+        "kind": "lemma",
+        "line": 196
+      },
+      {
+        "label": "prop:reference-margin",
+        "kind": "proposition",
+        "line": 453
+      },
+      {
+        "label": "lem:local-reference",
+        "kind": "lemma",
+        "line": 534
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/boxes.tex": [
+      {
+        "label": "lem:edge-witness",
+        "kind": "lemma",
+        "line": 68
+      },
+      {
+        "label": "prop:regular-boxes",
+        "kind": "proposition",
+        "line": 166
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/inverse.tex": [
+      {
+        "label": "prop:inverse",
+        "kind": "proposition",
+        "line": 100
+      },
+      {
+        "label": "lem:nonlinear-points",
+        "kind": "lemma",
+        "line": 151
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/variance.tex": [
+      {
+        "label": "lem:random-variance",
+        "kind": "lemma",
+        "line": 183
+      },
+      {
+        "label": "prop:structured-variance",
+        "kind": "proposition",
+        "line": 275
+      },
+      {
+        "label": "cor:hard-endpoints",
+        "kind": "corollary",
+        "line": 546
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/stops.tex": [
+      {
+        "label": "lem:stops-aligned-average",
+        "kind": "lemma",
+        "line": 129
+      },
+      {
+        "label": "lem:stops-euler-probability",
+        "kind": "lemma",
+        "line": 172
+      },
+      {
+        "label": "prop:stopped-comparison",
+        "kind": "proposition",
+        "line": 493
+      },
+      {
+        "label": "prop:hard-stopping",
+        "kind": "proposition",
+        "line": 612
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/assembly.tex": [],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/hyperbola.tex": [
+      {
+        "label": "lem:hyperbola",
+        "kind": "lemma",
+        "line": 10
+      }
+    ],
+    "math/preprints/A-quadratic-bound-for-Jacobsthals-function-September-25-2026/build/sections/elementary-inputs.tex": [
+      {
+        "label": "lem:elementary-buchstab",
+        "kind": "lemma",
+        "line": 18
+      },
+      {
+        "label": "lem:elementary-large-sieve",
+        "kind": "lemma",
+        "line": 114
+      },
+      {
+        "label": "lem:elementary-bezout",
+        "kind": "lemma",
+        "line": 164
+      },
+      {
+        "label": "lem:elementary-brun-titchmarsh",
+        "kind": "lemma",
+        "line": 257
+      }
+    ]
+  },
+  "scopes": {},
+  "selected_originals": {
+    "HajduSaradha2012": {
+      "url": "https://math.unideb.hu/sites/default/files/inline-files/jacobsrevsaradha.pdf",
+      "locator": "Author PDF,printedpp1-4;Theorem1.2 andLemma2.1",
+      "scope": "Original uses h for primorial and H for arbitrary sets. H24=236>h24=234;equalthrough23. CRT translates arbitrary covering classes into consecutive noncoprime integers. These are old finite results,not new-source numerical validation."
+    },
+    "CostelloWatts2015": {
+      "url": "https://researchrepository.ucd.ie/server/api/core/bitstreams/75644f16-719c-426a-8174-5192a721a8d2/content",
+      "locator": "UCD author version,PDFpp2-3(printedpp1-2),Introduction and recurrent pi_min lower-bound interface",
+      "scope": "Algorithm concerns first k primes/primorial. Computes explicit bounds through10000;old computation reports h49 bound within3times742. It does not give arbitrary prime-set extremal bounds;unknown asymptotic constant and explicit finite computation are distinguished."
+    },
+    "BanksFordTao2023": {
+      "url": "https://arxiv.org/html/1908.08613v3",
+      "locator": "arXiv1908.08613v3,12Aug2025;Sections2.3-2.4,Eqbounds/classicalcutoffandTheorem2.2",
+      "scope": "J(w) is prime-cutoff gap;Section2.3 deletes classes beyond sqrt(y/logy) from an interval-sieve lower bound. Section2.4 connects a stronger normalized lower bound to exceptional zeros;conditional model statements are not unconditional prime guarantees."
+    },
+    "Ziller2019": {
+      "url": "https://arxiv.org/html/1903.11973v2",
+      "locator": "arXiv1903.11973v2;Abstract,Section3.1/Table2 andalgorithmavailability description",
+      "scope": "Original reports exhaustive maximum Jacobsthal computations through k43,including primorial/arbitrary differences and balanced-cover ancillary data. This project read reported scope only;no reproduction of enumeration or ancillary completeness."
+    },
+    "Sofos2023": {
+      "url": "https://arxiv.org/pdf/2106.00298v3",
+      "locator": "Original arXiv2106.00298v3,printedp9, Lemma2.8(Eq2.16),not publisher numbering/pages",
+      "scope": "Nonnegative weights,0<=g(p)<1 and dimension-product condition imply fundamental sieve main with relative O(e^-s) plus unweighted squarefree remainder. F021 uses a weaker divisor-weighted remainder. This selected classical input is not audited proof of all F021 uses."
+    },
+    "Lichtman2022": {
+      "url": "https://arxiv.org/html/2211.09641v1",
+      "locator": "Original arXiv2211.09641v1,14Nov2022;Lemma7.1",
+      "scope": "Complete Kloosterman sum bound tau(c)sqrt(c*gcd(m,n,c)),arbitrary frequencies and modulus;gcd factor is essential and is retained in F021 hyperbola completion. Prior source cites IK Cor11.12,full original dependency not checked."
+    }
+  },
+  "original_retrieval_failures": [
+    "Iwaniec1978 publisherPDF405;theorem originalunread",
+    "Erdos1962 publishermetadataonly;PDFwrapper/downloadunresolved",
+    "CostelloWatts AMSPDFinternalerror,recoveredUCDauthorPDF",
+    "Sofos publisherandGlaPDFfailed,recoveredarXiv2106.00298v3"
+  ],
+  "formal_read_paths": [
+    "math/lean/docs/021.md",
+    "math/lean/ComparatorChallenges/Jacobsthal.lean",
+    "math/lean/ComparatorChallenges/JacobsthalImproved.lean",
+    "math/lean/ComparatorChallenges/Jacobsthal.json",
+    "math/lean/ComparatorChallenges/JacobsthalImproved.json",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Main.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Model.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Conclusions/QuadraticBound.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Conclusions/IteratedLogModel.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Conclusions/IteratedLogBound.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Conclusions/IteratedLogFinite.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Conclusions/IteratedLogScales.lean",
+    "math/lean/OAI/NumberTheory/Jacobsthal/Conclusions/SourceRootCompletion.lean"
+  ],
+  "model": "Current selected OpenAI session;exactbackendunknown",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "created_at": "2026-10-20T15:26:58.782457+00:00"
+}

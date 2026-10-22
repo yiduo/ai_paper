@@ -1,0 +1,300 @@
+{
+  "work_package": "WP-050",
+  "generation_id": "GEN-20261021-047",
+  "recorded_at": "2026-10-20T22:00:40.186619+00:00",
+  "source_archive": "data/provenance/demand/elasticity-surrogate-interfaces-20261021.json.gz",
+  "source_archive_sha256": "8cb37a84a2ee243dd79b49e8c3db2da415ea3a57a1ac4923020ca3a2b089a22e",
+  "decompressed_sha256": "ec3138d26b91774293f40795c67651f37fbfae2f2fdc38855a8f69b783a14ff3",
+  "source_members": 12,
+  "source_bytes": 119460,
+  "selected_source_lines": 1367,
+  "sources": {
+    "deep-plate": {
+      "repository": "https://github.com/lululxvi/deepxde",
+      "revision": "99b6620386d18cefb1549dddb7b7fe468cfad607",
+      "path": "examples/pinn_forward/elasticity_plate.py",
+      "archive_member": "lululxvi/deepxde@99b6620386d18cefb1549dddb7b7fe468cfad607/examples/pinn_forward/elasticity_plate.py",
+      "url": "https://raw.githubusercontent.com/lululxvi/deepxde/99b6620386d18cefb1549dddb7b7fe468cfad607/examples/pinn_forward/elasticity_plate.py",
+      "sha256": "49f03a8f0e206e4d050d199cfbe251117fcd8cdc3a1132f7bb8e399792c0430c",
+      "bytes": 5308,
+      "lines": 186,
+      "read_line_ranges": [
+        [
+          1,
+          186
+        ]
+      ],
+      "read_lines": 186,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "deep-metrics": {
+      "repository": "https://github.com/lululxvi/deepxde",
+      "revision": "99b6620386d18cefb1549dddb7b7fe468cfad607",
+      "path": "deepxde/metrics.py",
+      "archive_member": "lululxvi/deepxde@99b6620386d18cefb1549dddb7b7fe468cfad607/deepxde/metrics.py",
+      "url": "https://raw.githubusercontent.com/lululxvi/deepxde/99b6620386d18cefb1549dddb7b7fe468cfad607/deepxde/metrics.py",
+      "sha256": "4068d3d209ca74c4741656230fde52f4edb1559a24debc1406aa01317cca2406",
+      "bytes": 2136,
+      "lines": 70,
+      "read_line_ranges": [
+        [
+          1,
+          70
+        ]
+      ],
+      "read_lines": 70,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-pde": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "physicsnemo/sym/eq/pdes/linear_elasticity.py",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/physicsnemo/sym/eq/pdes/linear_elasticity.py",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/physicsnemo/sym/eq/pdes/linear_elasticity.py",
+      "sha256": "6cdedca5ad26d7e31d9b2fd8179e13950d50ddbb1603c41fcd39bb4e78d4631e",
+      "bytes": 11437,
+      "lines": 305,
+      "read_line_ranges": [
+        [
+          1,
+          235
+        ]
+      ],
+      "read_lines": 235,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-bracket": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "examples/bracket/bracket.py",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/examples/bracket/bracket.py",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/examples/bracket/bracket.py",
+      "sha256": "be5bee0abe25015cae241956bff434c32d9c00b539c2a3eca8b87c091ad3e436",
+      "bytes": 13997,
+      "lines": 406,
+      "read_line_ranges": [
+        [
+          1,
+          406
+        ]
+      ],
+      "read_lines": 406,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-config": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "examples/bracket/conf/config.yaml",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/examples/bracket/conf/config.yaml",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/examples/bracket/conf/config.yaml",
+      "sha256": "06e0b251ddbb0b7c2acab05009553450e22d811e85b3213b3f44293b91ddf181",
+      "bytes": 1115,
+      "lines": 40,
+      "read_line_ranges": [
+        [
+          1,
+          40
+        ]
+      ],
+      "read_lines": 40,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-license": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "LICENSE.txt",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/LICENSE.txt",
+      "sha256": "faf87f313e10885fea57160fea5717e1264cc09084f8395dbcb698c1101fa509",
+      "bytes": 11316,
+      "lines": 202,
+      "read_line_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "read_lines": 18,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-readme": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "README.md",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/README.md",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/README.md",
+      "sha256": "d21257e831083990be496c7b6aa5b3bce39463c5f57acedb5e2495eff19d25c2",
+      "bytes": 7131,
+      "lines": 165,
+      "read_line_ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "read_lines": 60,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "current-migration": {
+      "repository": "https://github.com/NVIDIA/physicsnemo",
+      "revision": "db5a75532c8e41547b49f9a869a44b8e145e9e06",
+      "path": "v2.0-MIGRATION-GUIDE.md",
+      "archive_member": "NVIDIA/physicsnemo@db5a75532c8e41547b49f9a869a44b8e145e9e06/v2.0-MIGRATION-GUIDE.md",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo/db5a75532c8e41547b49f9a869a44b8e145e9e06/v2.0-MIGRATION-GUIDE.md",
+      "sha256": "f433fde1c05164ab3b7365e1482bcd5db1ae6e2d7431851311b2e9ef01b4431b",
+      "bytes": 14522,
+      "lines": 283,
+      "read_line_ranges": [
+        [
+          195,
+          283
+        ]
+      ],
+      "read_lines": 89,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "deep-license": {
+      "repository": "https://github.com/lululxvi/deepxde",
+      "revision": "99b6620386d18cefb1549dddb7b7fe468cfad607",
+      "path": "LICENSE",
+      "archive_member": "lululxvi/deepxde@99b6620386d18cefb1549dddb7b7fe468cfad607/LICENSE",
+      "url": "https://raw.githubusercontent.com/lululxvi/deepxde/99b6620386d18cefb1549dddb7b7fe468cfad607/LICENSE",
+      "sha256": "20c17d8b8c48a600800dfd14f95d5cb9ff47066a9641ddeab48dc54aec96e331",
+      "bytes": 26526,
+      "lines": 504,
+      "read_line_ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "read_lines": 22,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "current-license": {
+      "repository": "https://github.com/NVIDIA/physicsnemo",
+      "revision": "db5a75532c8e41547b49f9a869a44b8e145e9e06",
+      "path": "LICENSE.txt",
+      "archive_member": "NVIDIA/physicsnemo@db5a75532c8e41547b49f9a869a44b8e145e9e06/LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo/db5a75532c8e41547b49f9a869a44b8e145e9e06/LICENSE.txt",
+      "sha256": "f804cfd52b3bacfd16cb9e80c1af55ccd97a0c41159fc06452d7b8b44432149f",
+      "bytes": 11314,
+      "lines": 201,
+      "read_line_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "read_lines": 18,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-validator": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "physicsnemo/sym/domain/validator/continuous.py",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/physicsnemo/sym/domain/validator/continuous.py",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/physicsnemo/sym/domain/validator/continuous.py",
+      "sha256": "6e146f001a3da429a7635853deff165ea1ba459f3b934129b726ba572d610fb2",
+      "bytes": 13086,
+      "lines": 332,
+      "read_line_ranges": [
+        [
+          1,
+          178
+        ]
+      ],
+      "read_lines": 178,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    },
+    "sym-validator-base": {
+      "repository": "https://github.com/NVIDIA/physicsnemo-sym",
+      "revision": "0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c",
+      "path": "physicsnemo/sym/domain/validator/validator.py",
+      "archive_member": "NVIDIA/physicsnemo-sym@0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/physicsnemo/sym/domain/validator/validator.py",
+      "url": "https://raw.githubusercontent.com/NVIDIA/physicsnemo-sym/0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c/physicsnemo/sym/domain/validator/validator.py",
+      "sha256": "42edb39d2d4023440843feb6f3eba8d33cbc55622f5ee5434928589e2b171b98",
+      "bytes": 1572,
+      "lines": 45,
+      "read_line_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "read_lines": 45,
+      "scope": "Exactspecifiedrangesread;remaininglinesarchiveonly,noclaimoffullclosure"
+    }
+  },
+  "interfaces_reviewed": 2,
+  "current_migration_context_only": true,
+  "actual_contracts": {
+    "deepxde_plate": {
+      "input": "Unit2Dsquare,constantlambda1/mu0.5,Q4,knownmanufacturedbodyforces;forwardproblem,not3Dmaterialinversion",
+      "outputs": [
+        "u_x",
+        "u_y",
+        "sigma_xx",
+        "sigma_yy",
+        "sigma_xy"
+      ],
+      "independent_divergence_output": false,
+      "constraints": "TwoequilibriumresidualsPLUSthreeconstitutivestress-minus-displacement-gradientresiduals. DefaultBC_typehard:outputtransformimposesselecteddisplacements/normalstresses;PDElossreturnsall5equations.",
+      "boundaries": "u_x top/bottom0,u_y left/right/bottom0;normalstressesleft/right0andtopgiven;hardoutputtransform,notcompleteDNoperator.",
+      "actual_judge": "solution=funcall5analyticfields,num_test100;metricl2relativeerrorliteralnorm(truth-pred)/norm(truth). Suppliedscript500domain/500boundary,Adam5000iterations;notexecuted.",
+      "limits": "2D/constantcoefficients/manufacturedforwardinputnotF372. Constitu­tiveconstraintsalreadyexplicit;finitecollocationnotproofglobalcompatibility. Analyticformulaavailabilitynotouractualtraining/benchmark."
+    },
+    "physicsnemo_sym_bracket": {
+      "input": "3Dbox/cylinderCSGbracket,constantE100GPa,nu.3,staticLinearElasticity(defaulttimeFalse);nondimensionalL1,U1e-4,mu_c.01mu",
+      "outputs": [
+        "u",
+        "v",
+        "w",
+        "sigma_xx",
+        "sigma_yy",
+        "sigma_zz",
+        "sigma_xy",
+        "sigma_xz",
+        "sigma_yz"
+      ],
+      "independent_divergence_output": false,
+      "constraints": "Twodisplacement/stressnetworks;sixstress_dispconstitutiveequationsandthreeequilibriumequationsALLinbothsupport/bracketinteriorconstraints,SDFweighted. Stressusesactualu_x+v_y+w_z,notindependentd.",
+      "boundaries": "Backfaceclampu/v/w0;fronttractions(0,0,T),T=-4e4*normalization;remainingselectedsurfacetractionfree. Finiteone-loadforwardproblem,notfullDN;CSGboundaryCinfnotcertified.",
+      "actual_judge": "Ifcommercial_solverdirectoryexists,nineCSV/textfieldsmapped/scaledandPointwiseValidatorcompares3disp+6stress. Elsewarnandskipvalidators. Actualcontinuous.pyfirstclassandbase45linesread:perkey sqrt(mean((truth-pred)^2)/torch.var(truth)),differentfromDeepXDEnormratio;nohardacceptance thresholdinselectedcode. Dataset/GPU/solvernotdownloadedorrun.",
+      "limits": "Oldconstitutivestressconstraintalreadyaddressesproposedstructuralgap. Finitecollocationlossnotgloballycertified;actualaccuracyunknown. Configmax_steps2000000;noallocation. VariablecoefficientNavierbranchhasconstant-formexpression;notassumegeneralF372variablecoeffoperatorcovered. CurrentmainPhysicsNeMomigrationnotlegacyAPI."
+    }
+  },
+  "decisions": {
+    "APP37202": "Specificindependentd/residual-onlyacceptancegapnotfoundinreviewed2D/3Dexamples;oldconstitutiveconstraintsalreadyincluded. Lowerimplementationpriority,keepconditionalmappingpending,noformalrejection.",
+    "APP37201": "NeitherforwardexampleprovidesfullDN/smoothvariablecoefficientinverseinput. No finiteFEM/PINNrunasuniquenessvalidation.",
+    "new_candidates": 0,
+    "new_initial_cards": 0,
+    "new_application_runs": 0
+  },
+  "lifecycle": "PinnedSymREADMEarchived/upstreamed;currentpinnedPhysicsNeMomigration195-283saysprebuiltPDEclassesremoved/inlineSympy. LegacyconstantclassreviewnotassertedcurrentAPI.",
+  "unresolved": [
+    "Actualtrainingaccuracy/residualuniformityandfiniteacceptancebudgetunknown;notexecuted.",
+    "Commercialsolverfielddata/licenses/alignmentnotdownloaded;Graph/autodiff/solver/optimizer/fulldependencyclosuresnotaudited.",
+    "Only2actualinterfacesplusmigrationcontext;notallPINNs/frameworks. No actualpublicindependentdworkloadfound;futureotherimplementationmaydiffer.",
+    "Selectedbasevalidatorusesvarnormalizationwithoutzerovarianceguard;noassertiondatasetcontainsconstanttruthorobservedfailure.",
+    "Currentupstreammigrationcontextnotactualcurrentelasticityequations/codeaudit;noAPIversionequivalenceclaim."
+  ],
+  "license_scope": {
+    "lululxvi/deepxde": "LGPL-2.1;fullunchangedLICENSEincluded",
+    "NVIDIA/physicsnemo-sym": "Apache-2.0;fullunchangedLICENSE.txtincluded",
+    "NVIDIA/physicsnemo": "Apache-2.0;fullunchangedLICENSE.txtincluded"
+  },
+  "retrieval_failures": [
+    {
+      "url": "https://docs.nvidia.com/physicsnemo/26.03/physicsnemo-sym/user_guide/foundational/linear_elasticity.html",
+      "result": "Web500 redirecttoarchive.docs.nvidia.cominaccessible;donotretry;fixedactualgithubcodeandREADME/migrationrecovered"
+    },
+    {
+      "url": "https://api.github.com",
+      "result": "Notcalled;earlierprojectTLSfailuresavoided. Read-onlygitls-remoteactualHEADusedwithoutclone."
+    }
+  ],
+  "software_executed": false,
+  "dependencies_installed": false,
+  "full_source_or_proof_audit": false
+}

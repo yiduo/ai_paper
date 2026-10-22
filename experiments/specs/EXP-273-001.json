@@ -1,0 +1,407 @@
+{
+  "id": "EXP-273-001",
+  "version": 1,
+  "connection_id": "APP-273-02",
+  "registered_at": "2026-10-21T05:29:59.890829+00:00",
+  "status_at_registration": "preregistered_before_implementation_and_any_fixture_outputs",
+  "hypothesis": "On the frozen finite-support passive-bosonic simulator regression pack, all admitted valid outputs pass source-linked entropy floors without a resolved false alarm, independent kernels agree within declared tolerances, and at least one interior unequal-entropy core injected physical-output defect is resolved by EPnI but certified nonviolating for the strongest applicable old ENTROPY-ONLY bound. Direct full-matrix reference is a stronger richer-input baseline and its detection/cost must be reported; no overall defect-detection, speed or new-mathematics advantage over it is predicted. Zero resolved extra entropy-only detections fails this finite diagnostic prediction.",
+  "input": {
+    "exposure": "F273 whole source and old selected originals already read; no fixture eigenvalues/entropies/channel matrices/defect counts have been computed. Fixtures explicitly synthetic low-number software regression, not photon hardware, Gaussian approximations or blind discovery.",
+    "basis": "|k)=(a1†)^k1...(an†)^kn|0>; inner-product weight w(k)=prod(kj!). Each listed rational pure coefficient vector normalized by exact sum c_k^2*w(k), then mixed by listed exact rational weights. A and B independent by tensor product; internal coherences/entanglement preserved.",
+    "fixtures": [
+      {
+        "id": "vacuum-calibration",
+        "n": 1,
+        "stratum": "control",
+        "A": [
+          {
+            "weight": "1",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "1",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "one-mode-vacuum-old-sharp",
+        "n": 1,
+        "stratum": "old_sharp_control",
+        "A": [
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          },
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "1": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "1",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "one-mode-two-nonthermal",
+        "n": 1,
+        "stratum": "core",
+        "A": [
+          {
+            "weight": "1/3",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          },
+          {
+            "weight": "1/3",
+            "unnormalized_creation_coefficients": {
+              "1": "1"
+            }
+          },
+          {
+            "weight": "1/3",
+            "unnormalized_creation_coefficients": {
+              "2": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "4/5",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          },
+          {
+            "weight": "1/5",
+            "unnormalized_creation_coefficients": {
+              "2": "1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "one-mode-coherent-mixed",
+        "n": 1,
+        "stratum": "core",
+        "A": [
+          {
+            "weight": "2/3",
+            "unnormalized_creation_coefficients": {
+              "0": "1",
+              "1": "1",
+              "2": "1"
+            }
+          },
+          {
+            "weight": "1/3",
+            "unnormalized_creation_coefficients": {
+              "1": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "3/4",
+            "unnormalized_creation_coefficients": {
+              "0": "1"
+            }
+          },
+          {
+            "weight": "1/4",
+            "unnormalized_creation_coefficients": {
+              "2": "1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "two-mode-diagonal-vacuum-old-sharp",
+        "n": 2,
+        "stratum": "old_sharp_control",
+        "A": [
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "1/4",
+            "unnormalized_creation_coefficients": {
+              "1,0": "1"
+            }
+          },
+          {
+            "weight": "1/4",
+            "unnormalized_creation_coefficients": {
+              "0,1": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "1",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "two-mode-equal-Bell",
+        "n": 2,
+        "stratum": "equal_entropy_control",
+        "A": [
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "1,0": "1",
+              "0,1": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "1,0": "1",
+              "0,1": "-1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "two-mode-unequal-Bell",
+        "n": 2,
+        "stratum": "core",
+        "A": [
+          {
+            "weight": "1/3",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "2/3",
+            "unnormalized_creation_coefficients": {
+              "1,0": "1",
+              "0,1": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "4/5",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "1/5",
+            "unnormalized_creation_coefficients": {
+              "1,0": "1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "two-mode-NOON-Bell",
+        "n": 2,
+        "stratum": "core",
+        "A": [
+          {
+            "weight": "1/4",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "3/4",
+            "unnormalized_creation_coefficients": {
+              "2,0": "1",
+              "0,2": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1"
+            }
+          },
+          {
+            "weight": "1/2",
+            "unnormalized_creation_coefficients": {
+              "1,0": "1",
+              "0,1": "-1"
+            }
+          }
+        ]
+      },
+      {
+        "id": "two-mode-dense-stress",
+        "n": 2,
+        "stratum": "core",
+        "A": [
+          {
+            "weight": "2/3",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1",
+              "1,0": "1",
+              "0,1": "1",
+              "1,1": "-1"
+            }
+          },
+          {
+            "weight": "1/3",
+            "unnormalized_creation_coefficients": {
+              "2,0": "1",
+              "0,2": "1"
+            }
+          }
+        ],
+        "B": [
+          {
+            "weight": "3/5",
+            "unnormalized_creation_coefficients": {
+              "0,0": "1",
+              "1,0": "2",
+              "0,1": "-1",
+              "2,0": "1"
+            }
+          },
+          {
+            "weight": "2/5",
+            "unnormalized_creation_coefficients": {
+              "0,2": "1"
+            }
+          }
+        ]
+      }
+    ],
+    "amplitude_pairs": [
+      {
+        "t": "0",
+        "r": "1"
+      },
+      {
+        "t": "3/5",
+        "r": "4/5"
+      },
+      {
+        "t": "4/5",
+        "r": "3/5"
+      },
+      {
+        "t": "1",
+        "r": "0"
+      }
+    ],
+    "support": "n<=2; each port total<=2; full joint total<=4. Complete <=4-number basis of2n modes dimension at most70; retained n-mode <=4 basis dimension at most15. This is exact invariant support, not renormalized infinite cutoff.",
+    "negative_control": "One correlated two-port pure state (|1,0>+|0,1>)/sqrt2, n1, must fail exact product-of-marginals admission. Do not use either entropy inequality on it."
+  },
+  "method": {
+    "candidate": "NumPy complex128 Hermitian generator H=i sum_j(a_j†b_j-b_j†a_j) on entire invariant number basis; U=V diag(exp(-i theta eigen(H)))V† with theta=atan2(r,t); partial trace over discarded B. No polynomial coefficient call in candidate.",
+    "reference": "Independent exact Fraction creation-polynomial substitution a† -> t c†-r d†, b† -> r c†+t d†. Expand pure product components, exact norms and exact environment-weighted partial trace; retain exact rational Q where normalized density entries=Qij sqrt(wi wj). No generator/eigendecomposition used for channel reference.",
+    "entropy": "Natural logs. EPnI floor n*g(eta*gInv(SA/n)+(1-eta)*gInv(SB/n)), g(x)=(x+1)ln(x+1)-xlnx. NOT actual energy nor thermal approximation."
+  },
+  "judge": {
+    "arithmetic": "Reuse tested outward Decimal interval I at70 digits, rerun entropy/floors at100 digits with same fixed96 scalar root bisections. sqrt rational entry: correctly-rounded Decimal sqrt enclosed by next_minus/next_plus. ln/exp as existing directed interval implementation. Inverse g bracket[0,64],96 bisections; keep containing bracket on ambiguous sign; wide/ambiguous decisions unresolved, not wins. No tuning precision/root bits after outputs.",
+    "certified_eigenvalues": "For a real symmetric IEEE midpoint A of exact rational-Q weighted density, get numerical V,lambda from eigh, but validate them by exact Fraction arithmetic on represented doubles. delta=||V^T V-I||infinity; r=max(||A V-V Lambda||1,||...||infinity); M=||A||infinity; L=max|lambda|. Require delta<1/2. Polar factor gives spectral error <=2r+(M+3L)delta; add d*max entry conversion interval error. Sorted exact eigenvalues then lie in lambda_i+-error. Clip intervals to[0,1] only because exact reference PSD/trace1 is independently established by rational pure-state mixture; do not clip arbitrary invalid outputs into states. Entropy sums extrema of -xlnx on each interval, including1/e stationary point. Bound depends on correctness of own enclosure/residual code and documented Decimal operations; not formal proof or a proof of EPnI.",
+    "fixtures_validation": "Exact rational nonnegative weights sum1, nonzero finite pure vectors, finite support, exact trace1, symmetry, channel pure-vector norm preservation and joint total energy conservation. Internal entanglement claims need exact negative partial-transpose2x2 principal minor (vacuum/|k,k> after transposing coherence |k,0><0,k|); otherwise merely coherent/mixed.",
+    "candidate_validation": "Finite real/imag components; max imaginary<=1e-11, Hermitian/trace defect<=1e-10, numerical min eigen>=-1e-10; max entry difference vs independently enclosed exact reference<=1e-10; candidate entropy agrees reference enclosure enlarged by a priori eigen perturbation from observed certified matrix entry deviation and finite entropy continuity. Unit norm and endpoint basis sign conventions separately tested.",
+    "floors": "Old maximum includes zero, linear entropy, arbitrary-transmissivity exponential qEPI, exact eta0/1 identity; vacuum one-mode old sharp attenuator and diagonal multimode old sharp cases receive same sharp floor and never incremental credit. Old2019 Gaussian-thermal-environment bounds not applied to nonthermal finite-mixture B; vacuum controls already have sharper known case. Gaussian/equal entropy identities calibration only. Use per-mode input marginals to add valid old product-state/spectrum structure baselines if applicable; do not claim comprehensive historical closure.",
+    "decision": "Fault caught only if entropy upper < floor lower -1e-9 nats. Old certified nonviolating only if entropy lower >= best_old upper +1e-9. Overlap/within margin=unresolved, not pass/catch/win. Valid alarm iff output entropy upper < source floor lower-1e-9; require0. Extra credit only interior eta, core, resolved unequal input entropies, and no eligible old sharp case. Direct full reference detects exact normalized matrix differences maxentry>1e-9, separately from entropy-only test.",
+    "precision": "All corresponding70/100digit entropy and floor intervals overlap. Same numerical double matrix/eigenpair seed allowed because exact residuals certify approximation, not two allegedly independent eigensolvers. Record enclosure widths and residuals; no count just numerical equality as proof.",
+    "faults": [
+      {
+        "id": "vacuum-leak-1-8",
+        "operation": "(7/8)*rhoC+(1/8)*vacuum"
+      },
+      {
+        "id": "vacuum-leak-1-4",
+        "operation": "(3/4)*rhoC+(1/4)*vacuum"
+      },
+      {
+        "id": "vacuum-leak-1-2",
+        "operation": "(1/2)*rhoC+(1/2)*vacuum"
+      },
+      {
+        "id": "wrong-transmissivity",
+        "operation": "Exact reference at swapped t,r while retaining original declared target eta"
+      },
+      {
+        "id": "per-mode-cap-one-renormalize",
+        "operation": "Project retained state onto every individual mode<=1 and renormalize exact surviving mass. If mass0, record undefined fault,not an admitted output/failure hidden by dropping case."
+      },
+      {
+        "id": "dephase-number-basis",
+        "operation": "Delete all retained offdiagonal entries, exact PSD/trace1 pinching"
+      },
+      {
+        "id": "missing-mixing-return-A",
+        "operation": "Return embedded original rhoA instead of declared channel"
+      }
+    ],
+    "fault_representativeness": "Fixed bugs cover probability leakage, mixing-weight error, unsafe local truncation, coherence loss and missing gate. Physical PSD trace1 output does not mean correct channel; require independently different target matrix. No fault magnitude chosen from entropy results. These mutations are synthetic, not observed defects in an external library."
+  },
+  "success": {
+    "valid_cases": 36,
+    "structural_or_numerical_failures": 0,
+    "valid_resolved_false_alarms": 0,
+    "core_extra_entropy_only_detections_minimum": 1
+  },
+  "failure": "Any admitted-valid structural/numerical/energy/precision/admission/resource failure or zero resolved eligible extra entropy-only fault detection. All predetermined cases retained; any implementation repair versioned with old code/logs and identical fixtures/thresholds, no selecting new faults to pass. Formal mathematical rejection/human grade never inferred.",
+  "limits": "Own finite-support simulator regression prototype with independent exact channel reference. Full reference can detect every distinct output already and may be cheaper than certified entropy; no unsupported application superiority. No real third-party library or hardware adoption, throughput/capacity/EPnI proof, generic infinite cutoff, Gaussian thermal truncation, clinical or sensitive inference. Main source selectedB/full dependency chain unknown, human/second provider pending.",
+  "optional_dependencies": {
+    "numpy": "2.3.5"
+  },
+  "required_python": "3.12.14",
+  "resource_limit_seconds": 240,
+  "resource_limit_mb": 256,
+  "resource_limit_rss_mb": 512,
+  "resource_scope": "Single process; trace Python allocations AND process ru_maxrss including NumPy/native allocations. Import/runtime setup+generator/reference/entropy/two precisions/faults included. Archive compression cost reported separately. BLAS threads1. Replay same pinned runtime, no package installation or upstream copy.",
+  "pre_result_opinions": {
+    "skeptic": {
+      "independent": false,
+      "timing": "pre-implementation/output",
+      "text": "Finite nonGaussian outputs may be far above both floors, so fixed faults may have no extra catches. Direct matrix reference already solves tiny inputs; covariance/one-mode/diagonal known cases can eliminate superficial novelty. Numerical certificates can cost more than simulation. This is a narrow falsifiable diagnostic, not promised engineering gain."
+    },
+    "defender": {
+      "independent": false,
+      "timing": "pre-implementation/output",
+      "text": "A source-linked entropy floor is a concrete regression invariant using aggregate input entropies; finite invariant sectors admit independent exact density construction and validated spectral enclosures without uncontrolled cutoff. Nonthermal unequal-entropy/internal-entangled fixtures can distinguish stronger scalar floor from old qEPI, while keeping negative outcomes."
+    }
+  },
+  "source_ledger_sha256": "0cd0c0d5eae819537d7280f731d2b589293cc0942e1500b52dabd03a01d6d6cd"
+}

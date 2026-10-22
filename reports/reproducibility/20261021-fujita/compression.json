@@ -1,0 +1,35 @@
+{
+  "numerical_experiments_added": 0,
+  "upstream_copied": false,
+  "new_Lean_index": false,
+  "temporary_original_pdfs": [
+    {
+      "url": "https://people.math.harvard.edu/~siu/siu_reprints/siu_angehrn_invent1995.pdf",
+      "sha256": "278c6c3b15526b64a37d2e067dfb38c9fa231166d6f1f5dd5bbb6401baf03e58",
+      "bytes": 1747727,
+      "pdf_page_1_based": 2,
+      "reading_method": "Renderedoriginalpageactuallyviewed",
+      "retention": "TemporaryPDF/pageimagesremovedafterhashrecord;nofulltextcopied"
+    },
+    {
+      "url": "https://www.math.kyoto-u.ac.jp/~fujino/kawamata--viehweg2.pdf",
+      "sha256": "89f489669fd3b1c57da742ae54ed97b53ada10123fb837fb3d438bfb7830c0b3",
+      "bytes": 89515,
+      "pdf_page_1_based": 1,
+      "reading_method": "Renderedoriginalpageactuallyviewed",
+      "retention": "TemporaryPDF/pageimagesremovedafterhashrecord;nofulltextcopied"
+    }
+  ],
+  "original_PDFs_and_rendered_images_bytes_to_clean": 2507005,
+  "all_experiment_archives_gzip_verified_separately": 12,
+  "temporary_original_files_removed": [
+    "fujino-1.png",
+    "angehrn-siu.pdf",
+    "as-01.png",
+    "as-02.png",
+    "fujino.pdf"
+  ],
+  "temporary_original_bytes_removed": 2507005,
+  "temporary_original_directory_absent": true,
+  "cleanup_recorded_at": "2026-10-20T16:41:03.303282+00:00"
+}

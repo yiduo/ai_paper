@@ -1,0 +1,746 @@
+{
+  "family_id": "F-210",
+  "work_package": "WP-071",
+  "generation_id": "GEN-20261021-067",
+  "recorded_at": "2026-10-21T02:56:50.251254+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/main.tex": {
+      "sha256": "d0a56cb219a4bac1f78ee09cfa881a3d245d477375c5a88ed47d73a81cc8bf73",
+      "total_lines": 120,
+      "read_ranges": [
+        [
+          1,
+          120
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/lower.tex": {
+      "sha256": "912a69db7319bae79afad44c5a5458cc59e2a7f63ce2b8498fce8b29a5c731e1",
+      "total_lines": 110,
+      "read_ranges": [
+        [
+          1,
+          110
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/band.tex": {
+      "sha256": "412495904d153d85b043e6a9d8b88baf240e837348578d8002894bdf61785538",
+      "total_lines": 251,
+      "read_ranges": [
+        [
+          1,
+          251
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/upper.tex": {
+      "sha256": "94465d3b42d4f25924492ea9d5903a2aeeb8b417e3eadfa47880116f980b123f",
+      "total_lines": 207,
+      "read_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/verification.tex": {
+      "sha256": "671d980ba5c3ce3a12a920997fd9bc86fc9b2982eaf8f23821e5d086f66c97c3",
+      "total_lines": 255,
+      "read_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/introduction.tex": {
+      "sha256": "f0447bbe5113462ce532fd1c5ee8f3cb241e6ddbaff2b103d29dd263b8229472",
+      "total_lines": 155,
+      "read_ranges": [
+        [
+          1,
+          155
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/certificates.tex": {
+      "sha256": "2bf9183c91f9bfc1277cd03e27e09e1a111b6856d5b605a787d24bdf31434356",
+      "total_lines": 195,
+      "read_ranges": [
+        [
+          1,
+          195
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/sections/reduction.tex": {
+      "sha256": "0ea80c214a9cf4d05a28f8de31671c79c009e7d75f0cc850b77d9fcf0d91e864",
+      "total_lines": 304,
+      "read_ranges": [
+        [
+          1,
+          304
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Quadratic-Stabilization-of-the-Canonical-Foulkes-Howe-Map-September-25-2026/build/paper.tex": {
+      "sha256": "6b4eb1977533b9b1503927a55687c72afd9dc68b05b27b94cf404413195dd2c2",
+      "total_lines": 474,
+      "read_ranges": [
+        [
+          1,
+          474
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Quadratic-Stabilization-of-the-Canonical-Foulkes-Howe-Map-September-25-2026/build/references.tex": {
+      "sha256": "df61f23e9af4067c464afd419349b5fc2f84ca0006281c7bf9b9444a45f7cc1a",
+      "total_lines": 64,
+      "read_ranges": [
+        [
+          1,
+          64
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 10,
+  "source_tex_lines": 2135,
+  "additional_files": {
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/build/references.bib": {
+      "sha256": "1e02e43d1d340aab8463677d2c186280b4915df5f85a350fbcb4946c8f4f8416",
+      "total_lines": 362,
+      "read_ranges": [
+        [
+          1,
+          362
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/verification/programs/appendix-a.cpp": {
+      "sha256": "7499d762681cc31e16da8cc042a2e090a1bd14a50fc39b026d9b6f7d7b9e5c38",
+      "total_lines": 738,
+      "read_ranges": [
+        [
+          1,
+          738
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/verification/programs/appendix-b.cpp": {
+      "sha256": "18da83f7821558764ee9476bb777aa62e821c1ede661484b26de8c8cf789cf6e",
+      "total_lines": 135,
+      "read_ranges": [
+        [
+          1,
+          135
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/verification/verify_computations.py": {
+      "sha256": "c28468d34f66426768e5f6ba11588ac035f1c4f27728d056afe88d84fc0d2f75",
+      "total_lines": 338,
+      "read_ranges": [
+        [
+          1,
+          338
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Foulkes-Conjecture-for-the-Sixth-Symmetric-Power-September-25-2026/README.md": {
+      "sha256": "5a4b848bc17d626f37680a7c2253e3af83ef3e3dee92c1183a35c63ab237bbcf",
+      "total_lines": 43,
+      "read_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Quadratic-Stabilization-of-the-Canonical-Foulkes-Howe-Map-September-25-2026/README.md": {
+      "sha256": "5f5804404f0a914e462893c557cfcb55f00e3a82069bbd714f4ff1a2dd98ff0c",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "appendix_code_lines": 873,
+  "additional_bibliography_lines": 362,
+  "verifier_lines": 338,
+  "formal_selected": {
+    "math/lean/docs/210.md": {
+      "sha256": "9b8b9f5be621d2f91791632a668f718f5664624ea3ce1fae7c0187af6aa65ad2",
+      "total_lines": 15,
+      "read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/FoulkesHowe.json": {
+      "sha256": "88d413f643d799a7663353e0ade1d0bb7572a5752e8414fb2ec117244005ff64",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/FoulkesHowe.lean": {
+      "sha256": "ef2a1c1ff39cc2caf381d5704476288fe35c00d316d02dd0571e3c5590e7df19",
+      "total_lines": 50,
+      "read_ranges": [
+        [
+          1,
+          50
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe.lean": {
+      "sha256": "f8352be1331d445acb8025d3e3fa50378a96d66e998249c1e0909095a71fd897",
+      "total_lines": 77,
+      "read_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/Model.lean": {
+      "sha256": "30f641cb3f976ff6ba4967a8f35d9813d18b5352820fad4fdc67c0ec8584a8b4",
+      "total_lines": 79,
+      "read_ranges": [
+        [
+          1,
+          79
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/Stabilization.lean": {
+      "sha256": "14360c9dda2885195e2ed9fbeabae30fa48b06689dce4954bda2a99a14275c92",
+      "total_lines": 51,
+      "read_ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/StabilizationBounds.lean": {
+      "sha256": "12cd073c907f2a6cd344dfbfde47a1dd076bd17493c41c9a5ee31c24d3b3a105",
+      "total_lines": 70,
+      "read_ranges": [
+        [
+          1,
+          70
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/Surjectivity.lean": {
+      "sha256": "42448e331759a679faee72c408bcb8d9d4e5eedebf964653f7def7e220fedb97",
+      "total_lines": 27,
+      "read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/DerivationInjectivity.lean": {
+      "sha256": "321a14be55fc88eda953b0feb0af388ec8a92ed78356ff95494f10b22cb5804c",
+      "total_lines": 44,
+      "read_ranges": [
+        [
+          1,
+          44
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/ShiftInjectivity.lean": {
+      "sha256": "b1db177828d32a95db9c5bc7971b0df7f5125efd7d11fff38822bd72a0a1cc91",
+      "total_lines": 73,
+      "read_ranges": [
+        [
+          1,
+          73
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/DualEmbedding.lean": {
+      "sha256": "9d752a98f39890cff91fcc9599f635be520478d3c870d5172c0c637881f022aa",
+      "total_lines": 91,
+      "read_ranges": [
+        [
+          1,
+          91
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/CanonicalMap.lean": {
+      "sha256": "d836c6f3ba6cd9a720e089d3a8492cf8f81b282cd68586ba097a473023f66651",
+      "total_lines": 82,
+      "read_ranges": [
+        [
+          1,
+          82
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/DualComparison.lean": {
+      "sha256": "88f9b5468fa899d806f6c24caa40c197aeff3ee1f7e537b80f62e2a6560bff2b",
+      "total_lines": 76,
+      "read_ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesHowe/PairingConstruction.lean": {
+      "sha256": "6fbf0574e81efa12f33c0dbf7508b4d7d8c0ff9534fba75775054806dbf1fec5",
+      "total_lines": 149,
+      "read_ranges": [
+        [
+          1,
+          149
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesSixth/Main.lean": {
+      "sha256": "a477a34b0fa79784d9dae7ff4e5ea0e3b217a6c2f8ab6921894835e006b4bce3",
+      "total_lines": 40,
+      "read_ranges": [
+        [
+          1,
+          40
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesSixth/RangeReduction.lean": {
+      "sha256": "2ae690b9ec6cd3b45ae82b5446cc59af2aebec841e8ab31ac22d9e4e4512c049",
+      "total_lines": 116,
+      "read_ranges": [
+        [
+          1,
+          116
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesSixth/LookupExtraction.lean": {
+      "sha256": "0038aa1eba3e226555667ddc00bb7563053fec384bd3948f18d039fceebd680f",
+      "total_lines": 132,
+      "read_ranges": [
+        [
+          1,
+          132
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesSixth/BlockInjection.lean": {
+      "sha256": "68ff7e9f633f2d4df87ab4a7898b60d1f71c3244c88ad3e7d2f29d2c67297d21",
+      "total_lines": 78,
+      "read_ranges": [
+        [
+          1,
+          78
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI.lean": {
+      "sha256": "11ff813845f785a03054633af6a95c7b79383ca61d444ceedef744ef4a8bd009",
+      "total_lines": 914,
+      "read_ranges": [
+        [
+          874,
+          882
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesSixth/QuadraticInjection.lean": {
+      "sha256": "b109e9613eb55d29e108d8ed12cbec53302e76fb5943f7ed3a951bf4ebc047cb",
+      "total_lines": 316,
+      "read_ranges": [
+        [
+          1,
+          130
+        ],
+        [
+          227,
+          316
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/RepresentationTheory/FoulkesSixth/IndependentChart.lean": {
+      "sha256": "5de95717e10000de7cc0bf5da0b55407f37181cccd49a870e5fbef1deb01acaf",
+      "total_lines": 521,
+      "read_ranges": [
+        [
+          450,
+          521
+        ]
+      ],
+      "fully_read": false
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-210-lean-index.json.gz",
+    "sha256": "f6b8589d1d7776e85933384b422fdca2b40c2fb51bac6333d11ff9626448314a",
+    "bytes": 15143,
+    "local_files": 104,
+    "declarations": 756,
+    "placeholder_tokens": 0,
+    "axioms": 0,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "CheungIkenmeyerMkrtchyan2017",
+      "url": "https://arxiv.org/pdf/1509.03944v1",
+      "scope": "v1 Sep2015,14pages; selected introductory map definitions and Theorem6/Remark7 (rendered0-59,81-137); not whole algorithm/performance audit",
+      "summary": "Theorem6 gives injective Psi5,6, a nonzero Psi5,5 kernel, and listed sixth-diagonal kernel constituents under its stable-dimension assumptions. The sixth list is restricted to a multiplicity-one search subset, not a complete kernel. Equivariant representation comparison is distinct from the canonical map. Remark7 links canonical kernels with Chow ideals.",
+      "content_verified": true
+    },
+    {
+      "key": "EvseevPagetWildon2014",
+      "url": "https://arxiv.org/pdf/1202.0067v3",
+      "scope": "v3 revised16Nov2013,33pages; selected Prop5.1/proof and comparison discussion pp18-20,Cor5.2 p20 (rendered1092-1296). Initial v2 locator mismatch retained, no claim whole paper read.",
+      "summary": "Proposition5.1 recursively computes multiplicities through signed border-strip deflation. Corollary5.2 checks comparison when m<=n and m+n<=19. The authors report a same-machine 34 versus350 minute comparison for degree66, with a memory tradeoff; this is historical author-reported timing, not a project benchmark. For m=6 the old verified range ends n=13.",
+      "content_verified": true
+    },
+    {
+      "key": "Brion1997",
+      "url": "https://smf.emath.fr/publications/sur-certains-modules-gradues-associes-aux-produits-symetriques",
+      "scope": "Publisher metadata/abstract only,1997 volume2 pp157-183. Email-gated download not submitted; sample and guessed full PDF inaccessible to web tool; Theorem3.3 not read.",
+      "summary": "Bibliographic identity and publication pages checked. Companion attributes a prior effective stabilization bound to this work; the original bound, hypotheses and proof have not been verified here. No numerical bound invented or cited as independently checked.",
+      "content_verified": false
+    }
+  ],
+  "result_notes": {
+    "M::thm:main": "Over C, all finite-dimensional V including dimension zero and all integer b>=6: SOME GL(V)-equivariant injection Sym^6(Sym^b V) -> Sym^b(Sym^6 V). Equivalent stable Schur positivity, not injectivity of the specified canonical Psi_6,b. Diagonal b=6 uses identity representation, canonical Psi_6,6 can have a kernel. Two alternative large-degree proof routes; neither local C++ recomputation nor complete formal/human proof audit performed.",
+    "M::cor:quadratic-range": "At a=6 the companion canonical MULTIPLICATION mu_6,b=Psi_b,6 is surjective for b>=30; complete reducibility supplies a section and hence a representation embedding. Direction is reversed from Psi_6,b. This route reduces needed nontrivial finite b to7..29; independent chart route remains separately available.",
+    "M::lem:rectangles": "In six gap coordinates d_i=lambda_i-lambda_(i+1), lambda_7=0, target Q(d+6e_i)>=Q(d) for each i. Multiply by ONE nonzero highest-weight vector in a domain, not product of multiplicities. Source F(d+6e_6)=F(d) since determinant^6 is trivial on permutation S6. For b>=26,d6>=6, reduce b by6 leaving>=20.",
+    "M::lem:chart": "For a>=2, finite V and f in equal-row degree k invariant R_k, z(v)^L f lies in A_(k+L) if k+L>=a k, where A is generated by R_1 and z(v)=v tensor a. Local chart requires nonzero v, and ratio invariant of total degree t uses <=t polarized elementary factors. Cancellation in a polynomial domain; no numeric condition estimate.",
+    "M::cor:first-row": "For lambda of6b with tail t1=lambda2+...+lambda6<=b, the full lambda highest-weight space of R_b is in A_b; hence coefficient comparison. This is an exact invariant-space argument, not empirical finite-grid observation.",
+    "M::lem:polarization": "For L>=1 and j>=a L, W_j is spanned by z(v)^L W_(j-L) over all v; averaging yields the R analogue. Iterated directional derivatives use strictly positive source-minus-destination degree at every shift. Field C and polarization factorials matter.",
+    "M::cor:module-generation": "Equal-row invariant ring R is generated as A-module by pieces of degrees0..a-1, using L=1 polarization. Finite module generation does not make all low-degree pieces already generated by R_1 or compute least stabilization.",
+    "M::prop:large": "Independent chart and polarization route, without companion quadratic theorem: R_b=A_b for a>=2,b>=a(a-1)^2, hence representation embedding; at a=6 threshold150. Combined with FULL finite b6..149 certificates supplies an alternative proof route. No runtime/rank-conditioning statement.",
+    "M::lem:strips": "For |gamma|-|mu|=i b, coefficient [s_gamma] h_b(X^i)s_mu belongs to{0,+1,-1}. Nonzero requires gamma_j>=mu_j>=gamma_(j+i) and residue matching; determinant sorting determines sign. Do not drop signs or transfer to arbitrary plethysm coefficients.",
+    "M::prop:upper": "U(d) bounds F(d) via cycle formula on S6 and gap-width products for equal-weight Kostka counts, minimizing over removal orders; U is coordinatewise monotone on all nonnegative gaps even inadmissible weight. Discarding cycle signs/constraints gives upper bound, not exact source multiplicity.",
+    "M::lem:sumset": "Old Matolcsi-Ruzsa-type lower bound for finite D with C elements and affine real dimension h: |kD|>=binom(k+h,h)+(C-1-h)binom(k+h-1,h). Triangulation includes every point, and half-open assignments avoid double counts. This lemma is not a new F210 application improvement.",
+    "M::prop:power": "From Q(x)>=C>0 with positive degree d0=w(x)/6, choose z=min(18,min{h:binom(d0+h,h)>=C}); Q(kx)>=f(C,z,k). Row-reduced distinct leading monomials give C exponent vectors on degree d0 hyperplane and affine dimension>=z; distinct SUMS certify independent products. Does not assert C^k independent products. Cap18 weakens a lower bound.",
+    "M::ver:certificates": "Upstream recorded finite tables: base b0..25 exact fallback145435/equality9272/failure0; residue7776 and grid6611697; minimal modes87354/downclosure114314; flagged4969698, every tail t2<=27. Reference-file/checker inspection passed locally; appendix A was NOT executed locally. A computational statement, not a project application experiment.",
+    "M::ver:band": "Upstream recorded band for b26..149,1908 weakly decreasing tails eta of size<=27:57065668 distinct coefficients,177134 zero, none negative, all divisible720. Seven rational numerators, signed final S4 alternation, exact division; appendix B was NOT executed locally. Reference streams and elementary bounds checked, not these coefficients independently recomputed.",
+    "Q::thm:main": "For finite-dimensional complex V including zero,a>=2,b>=a(a-1), normalized canonical mu:Sym^b(Sym^a V)->Sym^a(Sym^b V) is SURJECTIVE. Equivalent A_b=R_b. Sufficient quadratic threshold, not least/sharp threshold, and not injectivity of the reverse canonical map. a=1 is separately bijective.",
+    "Q::lem:shift": "With any finite independent spectator variables, D_Y/U=sum Y_i partial_Ui is injective on bihomogeneous (p,q) piece if p>q. Fischer monomial norm alpha!, adjoint E, ED-DE=N_U-N_Y gives norm(Dh)^2-norm(Eh)^2=(p-q)norm(h)^2. Main paper complex proof; selected Lean algebraic analogue additionally needs sl2 commutators and opposite local nilpotence over CharZero, not arbitrary operators.",
+    "Q::prop:vanishing": "Symmetric a-linear form T on Sym^b V whose diagonal vanishes on every product of b vectors is zero under b>=a(a-1),a>=1,b>=1. Induct r=a-1,m=b-r>=r^2; binary X^r+cY^r splitting, first m distinct directional shifts with positive weights, induction on r, then r^2 common-destination shifts. Product inputs may repeat or be zero; does not test merely finitely many samples.",
+    "Q::cor:comparison": "There EXISTS a GL(V)-equivariant injection in reverse direction under same complex finite-dimensional/quadratic hypotheses. Natural proof uses invariant complement; actual selected Lean uses perfect pairings and surjection at V dual. Neither proves that arbitrary computational choice of inverse is equivariant nor a fast/noise-stable section."
+  },
+  "method_contracts": [
+    {
+      "key": "COMPARISON-VS-CANONICAL",
+      "title": "表示嵌入与指定映射",
+      "input": "Complex finite-dimensional plethysms, b>=6",
+      "output": "Existence of comparison embedding",
+      "cannot_transfer": "An isomorphic diagonal representation does not make canonical Psi invertible",
+      "source_labels": [
+        "M::thm:main"
+      ]
+    },
+    {
+      "key": "AVERAGED-MULTIPLICATION",
+      "title": "归一化的反方向乘法",
+      "input": "R equal row invariants, A generated by R1; quotient-to-invariant average1/a!",
+      "output": "mu_a,b=Psi_b,a has image A_b",
+      "cannot_transfer": "Reversing source and target changes injective/surjective claims; characteristic zero factorials",
+      "source_labels": [
+        "Q::thm:main"
+      ]
+    },
+    {
+      "key": "SHORT-ROUTE",
+      "title": "二次阈值路线",
+      "input": "Companion theorem plus finite b7..29 and identity b6",
+      "output": "All b>=6 comparison",
+      "cannot_transfer": "Alternative to full independent b7..149 route; not AND premise of both routes",
+      "source_labels": [
+        "M::cor:quadratic-range",
+        "Q::thm:main"
+      ]
+    },
+    {
+      "key": "INDEPENDENT-ROUTE",
+      "title": "独立图表与极化路线",
+      "input": "Independent bound150 plus finite b7..149 and identity b6",
+      "output": "All b>=6 comparison without companion theorem",
+      "cannot_transfer": "Entire finite certificate required; a failed companion alone does not refute this route",
+      "source_labels": [
+        "M::prop:large",
+        "M::ver:certificates",
+        "M::ver:band"
+      ]
+    },
+    {
+      "key": "RECTANGLE-PROPAGATION",
+      "title": "矩形间隙的单因子传播",
+      "input": "Nonnegative six gaps, target highest-weight domain",
+      "output": "Target monotonicity, source invariance on e6 shift",
+      "cannot_transfer": "One fixed factor gives injection, not multiplicity multiplication",
+      "source_labels": [
+        "M::lem:rectangles"
+      ]
+    },
+    {
+      "key": "DIMENSION-TRANSFER",
+      "title": "六行支持与维数转移",
+      "input": "Stable Schur positivity and length<=6 source support",
+      "output": "Comparison for all finite V",
+      "cannot_transfer": "Specializing to six variables does not restrict theorem to dimV=6; canonical kernel examples have own dimension assumptions",
+      "source_labels": [
+        "M::thm:main",
+        "M::lem:rectangles"
+      ]
+    },
+    {
+      "key": "LOCAL-CHART",
+      "title": "局部比值不变量的分母预算",
+      "input": "f in R_k, nonzero v, k+L>=a k",
+      "output": "z(v)^L f in A",
+      "cannot_transfer": "Total invariant degree counts polarized factors; no arbitrary denominator elimination",
+      "source_labels": [
+        "M::lem:chart"
+      ]
+    },
+    {
+      "key": "FIRST-ROW",
+      "title": "首行尾和证书",
+      "input": "Six-row partition of6b, t1<=b",
+      "output": "Full highest-weight space generated",
+      "cannot_transfer": "Not a finite sampling claim",
+      "source_labels": [
+        "M::cor:first-row"
+      ]
+    },
+    {
+      "key": "POLARIZED-GENERATORS",
+      "title": "极化与低次数模生成",
+      "input": "j>=a L and positive degree gaps for shifts",
+      "output": "Span by z(v)^L times lower degree; module generation0..a-1",
+      "cannot_transfer": "C factorials and all vector parameters, not finite numerical basis sampling",
+      "source_labels": [
+        "M::lem:polarization",
+        "M::cor:module-generation"
+      ]
+    },
+    {
+      "key": "POSITIVE-WEIGHT",
+      "title": "正权微分单射",
+      "input": "Bihomogeneous p>q and spectator independence",
+      "output": "D injective on specified piece",
+      "cannot_transfer": "Not injectivity on all polynomials or arbitrary differential operators",
+      "source_labels": [
+        "Q::lem:shift"
+      ]
+    },
+    {
+      "key": "VANISHING-INDUCTION",
+      "title": "分裂二元式与两轮平移",
+      "input": "Complex binary splitting, r=a-1,m=b-r>=r^2",
+      "output": "Vanishing on all products implies multilinear form zero",
+      "cannot_transfer": "Actual annihilator equality/all inputs needed; finite data fit insufficient",
+      "source_labels": [
+        "Q::prop:vanishing"
+      ]
+    },
+    {
+      "key": "PERFECT-PAIRING",
+      "title": "对偶满射转嵌入",
+      "input": "Actual compatible perfect pairings and dual-space surjection",
+      "output": "Injective equivariant transpose",
+      "cannot_transfer": "Additional pairing/naturality proofs; no equality to opposite specified canonical map",
+      "source_labels": [
+        "Q::cor:comparison"
+      ]
+    },
+    {
+      "key": "SIGNED-STRIP",
+      "title": "带符号条带系数",
+      "input": "Nested partitions, divisibility/residue assignment",
+      "output": "Coefficient in0,+1,-1",
+      "cannot_transfer": "Sort sign essential; no general coefficient positivity",
+      "source_labels": [
+        "M::lem:strips"
+      ]
+    },
+    {
+      "key": "UPPER-ENVELOPE",
+      "title": "单调上包络",
+      "input": "Six cycle indices and gap widths",
+      "output": "U>=F, valid at inadmissible coordinate maxima",
+      "cannot_transfer": "Not exact F; removing signs is one-sided",
+      "source_labels": [
+        "M::prop:upper"
+      ]
+    },
+    {
+      "key": "SUMSET-POWER",
+      "title": "首项和集的幂次下界",
+      "input": "C independent homogeneous highest-weight forms, degree d0>0",
+      "output": "Distinct exponent SUMS certify product-space dimension",
+      "cannot_transfer": "Collision count invalidates C^k independence; old sumset theorem baseline",
+      "source_labels": [
+        "M::lem:sumset",
+        "M::prop:power"
+      ]
+    },
+    {
+      "key": "RESIDUE-DOWNCLOSURE",
+      "title": "残数类与下闭包",
+      "input": "d=r+6m,d6<6,7776 admissible residues",
+      "output": "Separate residue envelopes/minimal modes and common M0",
+      "cannot_transfer": "Pointwise minimum across residues valid as common lower bound; do not erase residue-specific exceptions",
+      "source_labels": [
+        "M::ver:certificates"
+      ]
+    },
+    {
+      "key": "FIXED-TABLE-SCOPE",
+      "title": "有限表的精确作用域",
+      "input": "Four retained partition/tail restricted tables",
+      "output": "Exact fallback when Q<U",
+      "cannot_transfer": "b0..149 unrestricted six-row table was not stored; four domains differ",
+      "source_labels": [
+        "M::ver:certificates"
+      ]
+    },
+    {
+      "key": "TAIL-BAND",
+      "title": "窄尾带生成函数",
+      "input": "b26..149,eta4 sorted nonnegative,|eta|<=27",
+      "output": "Exact coefficient extraction with seven numerator terms",
+      "cannot_transfer": "b26,k27 includes a b-k=-1 term canceled across seven terms; no termwise arbitrary drop",
+      "source_labels": [
+        "M::ver:band"
+      ]
+    },
+    {
+      "key": "SIGNED-LOOKUP",
+      "title": "对称原始表与末端交替",
+      "input": "Symmetric raw tail and exterior S4 alternation",
+      "output": "Sort raw lookup without sign, alternate at final step",
+      "cannot_transfer": "Different from alternant shifted-coordinate lookup with sorting sign",
+      "source_labels": [
+        "M::ver:band",
+        "M::lem:strips"
+      ]
+    },
+    {
+      "key": "INTEGER-ARITHMETIC",
+      "title": "整数界与任意精度边界",
+      "input": "Appendix A/B fixed degree/tail windows and proved coefficient bounds",
+      "output": "128-bit safe predivision; convert to arbitrary precision before division/summation",
+      "cannot_transfer": "Lower caps2^100 never treated as upper estimates; zero-outside window requires support proof",
+      "source_labels": [
+        "M::ver:certificates",
+        "M::ver:band"
+      ]
+    },
+    {
+      "key": "REFERENCE-VS-EXECUTION",
+      "title": "参考完整性与重新计算",
+      "input": "Audited bundled --check with frozen expectation",
+      "output": "Hashes,62 rows and elementary bounds passed",
+      "cannot_transfer": "C++ programs unexecuted; no57million-coefficient independent computation or application initial",
+      "source_labels": [
+        "M::ver:certificates",
+        "M::ver:band"
+      ]
+    },
+    {
+      "key": "FORMAL-SCOPE",
+      "title": "登记入口与额外静态声明",
+      "input": "Registered quadratic endpoint and selected unregistered Sixth modules",
+      "output": "Registered b>=30; extra b>=25/formal finite reduction statements recorded",
+      "cannot_transfer": "104-file index not Lean build or full proof; extra stronger claim not silently promoted",
+      "source_labels": [
+        "Q::thm:main",
+        "M::thm:main"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "应用输入与输出的真实对应",
+      "input": "Actual invariant-feature or symbolic multiplicity workload",
+      "output": "Specified finite input, desired rank/coefficient output",
+      "cannot_transfer": "No actual consumer/data/API frozen; complex universal space dimension is not empirical feature rank",
+      "source_labels": []
+    },
+    {
+      "key": "BASELINE-COST-GATE",
+      "title": "强旧基线与总成本",
+      "input": "EPW recursive multiplicities/CIM canonical kernels plus actual implementation",
+      "output": "Compare full setup, memory, arithmetic and output cost",
+      "cannot_transfer": "Old methods may already suffice; no benchmark/new initial without independent judge",
+      "source_labels": []
+    }
+  ],
+  "source_reference_check": "reports/reproducibility/20261021-foulkes/source-reference-check.json",
+  "notes": [
+    "An early relative-path read ran in wrong cwd and printed not-found; all affected appendix/verifier reads subsequently completed. This was not a verifier failure.",
+    "An overlong combined formal read truncated its middle; only explicit whole files and selected ranges above are claimed.",
+    "docs210/registered endpoint b>=30 does not describe every unregistered module: FoulkesSixth.Main imports extra chart/recurrence/range reduction; selected BlockInjection claims b>=25, RangeReduction full iff7..24. Extra claim remains unbuilt/unregistered/full-chain unaudited, not promoted to registered full theorem.",
+    "EPW v2 lacks cited Cor5.2; actual v3 selected Prop5.1 and Cor5.2 checked. Brion1997 publisher metadata read, full/download email gate and inaccessible sample leave Theorem3.3 body unverified. No email sent."
+  ],
+  "remaining": [
+    "Full recursive history incomplete: two old works have selected primary mathematical scopes; Brion1997 only metadata, its Theorem3.3 unverified; all other root bodies unverified.",
+    "No local Lean/Comparator build or human mathematical specification audit; selected extra unregistered b>=25 claim needs full chain checking; complete b>=6 formal proof absent from audited registered scope.",
+    "Appendix C++ proofs not executed: reference integrity/elementary bounds check is not local recomputation of recorded certificates.",
+    "No actual application consumer/strong old full-cost baseline frozen; no new candidate, application initial, numerical hypothesis, or pilot. Human/other-provider review deferred."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false,
+  "formal_status": "Registered canonical quadratic endpoint selected local B (b>=30 at six); main full b>=6 comparison C. Extra unregistered Sixth source has b>=25 and full-iff-base7..24 static declarations, not registered/human/build verified.104 files756 declarations index, not proof audit."
+}

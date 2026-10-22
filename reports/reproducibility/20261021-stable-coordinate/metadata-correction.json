@@ -1,0 +1,13 @@
+{
+  "recorded_at": "2026-10-21T02:32:16.522658+00:00",
+  "issue": "Post-check metadata finisher numericbinding count substitution accidentally touched matchingdigitsinside upstreamcommit in status prose;detectedinimmediatediffreviewbeforecommit. Canonicalgraph/sourceledger unchanged.",
+  "fixed_files": [
+    "state/status.md"
+  ],
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "source_ledger_sha256": "91feff40f0ff4d14bc9a9759999cf7f3a996eec4564ca59ef5370712e3aaf6d0",
+  "checked": {
+    "source_ledger_commit": true,
+    "checkpoint_overall": "active_incomplete"
+  }
+}

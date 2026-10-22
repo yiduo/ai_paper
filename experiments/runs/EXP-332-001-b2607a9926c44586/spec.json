@@ -1,0 +1,214 @@
+{
+  "id": "EXP-332-001",
+  "version": 1,
+  "connection_id": "APP-332-01",
+  "registered_at": "2026-10-21T07:56:54.658802+00:00",
+  "status_at_registration": "preregistered_before_implementation_and_any_benchmark_fixture_outputs",
+  "hypothesis": "On a separately frozen admitted finite-graph heavy-tailed unnormalized real-feature denoising pack,the deterministic expected-median3 resolvent smoother will reduce mean pi-weighted l1 clean-signal error by at least10% against the strongest qualified old baseline per case on at least two thirds of core cases,with no case suffering more than5% relative risk loss,while an independent finite judge certifies source energy<=3024 times Cesaro cost and declared full time/memory budgets. Freeze fixtures,seeds,input scales,t,tuning,baseline qualification,zero-risk handling and independent judge before any numerical output;the source theorem alone does not imply this denoising prediction.",
+  "input": {
+    "exposure": "F332 source and three historical scopes read WP084;one-hot7/9 source-interface example known symbolically beforehand,not blind discovery or benchmark outcome. No benchmark fixture noise,algorithm risk or timing output computed before this spec.",
+    "synthetic": true,
+    "scope": "Finite small reversible stationary chains and unnormalized R^2/R^4 features;not telemetry deployment,global state-of-the-art comparison,theorem proof or incremental l1 theorem validation by scalar controls alone.",
+    "graphs": [
+      {
+        "id": "path5",
+        "n": 5,
+        "edges": [
+          [
+            0,
+            1,
+            "1"
+          ],
+          [
+            1,
+            2,
+            "1"
+          ],
+          [
+            2,
+            3,
+            "1"
+          ],
+          [
+            3,
+            4,
+            "1"
+          ]
+        ]
+      },
+      {
+        "id": "cycle6",
+        "n": 6,
+        "edges": [
+          [
+            0,
+            1,
+            "1"
+          ],
+          [
+            1,
+            2,
+            "1"
+          ],
+          [
+            2,
+            3,
+            "1"
+          ],
+          [
+            3,
+            4,
+            "1"
+          ],
+          [
+            4,
+            5,
+            "1"
+          ],
+          [
+            5,
+            0,
+            "1"
+          ]
+        ]
+      },
+      {
+        "id": "clusters6",
+        "n": 6,
+        "edges": [
+          [
+            0,
+            1,
+            "1"
+          ],
+          [
+            1,
+            2,
+            "1"
+          ],
+          [
+            0,
+            2,
+            "1"
+          ],
+          [
+            3,
+            4,
+            "1"
+          ],
+          [
+            4,
+            5,
+            "1"
+          ],
+          [
+            3,
+            5,
+            "1"
+          ],
+          [
+            2,
+            3,
+            "1/8"
+          ]
+        ]
+      }
+    ],
+    "chain": "W symmetric listed positive edges,zero loops;Dmax=max row sum;A=I-(diag(deg)-W)/(2Dmax);pi_i=1/n. All exact rational,lazy,connected. Graph and kernel full costs included.",
+    "profiles": [
+      {
+        "id": "constant2",
+        "dimension": 2,
+        "formula": "clean_i=(1,-1) for every i"
+      },
+      {
+        "id": "ramp2",
+        "dimension": 2,
+        "formula": "clean_i=(i/(n-1),1-i/(n-1))"
+      },
+      {
+        "id": "step4",
+        "dimension": 4,
+        "formula": "b_i=0 if i<n//2 else1;clean_i=(b_i,2*b_i-1,1,i/(n-1))"
+      }
+    ],
+    "noise_scales": [
+      "1/4",
+      "1"
+    ],
+    "noise": "For each coordinate independently draw K as number of consecutive one bits from Random.getrandbits(1) before first zero;draw next bit sign (1->+1,0->-1);eta=scale*sign*2^K. Ideal K law P(K=k)=2^-(k+1) yields discrete power-law amplitude tail;finite observed synthetic sample,not claim representing every real heavy-tailed process. K>64 invalidates pack (no clipping or reselection).",
+    "train_seeds": [
+      33201,
+      33203,
+      33205,
+      33207
+    ],
+    "test_seeds": [
+      332101,
+      332102,
+      332103,
+      332104,
+      332105,
+      332106,
+      332107,
+      332108
+    ],
+    "seed_derivation": "Random(int.from_bytes(sha256(f\"{root_seed}|{graph_id}|{profile_id}|{scale}\".encode()).digest(),\"big\"));coordinates drawn node-major then coordinate-major;scale string preserved exactly.",
+    "core_case_count": 18,
+    "core": "Cartesian3graphs x3profiles x2noise_scales;8heldout draws each. Training4independent draws for each case;no core deletion or seed tuning.",
+    "scalar_controls": "path5 atscale1/4,constant1=(1) andramp1=(i/(n-1));train seeds same4,test first2. Old exact scalar quadratic source-objective minimizer checked;not counted among18corecases or risk wins.",
+    "parameters": {
+      "candidate_t": [
+        1,
+        3
+      ],
+      "linear_resolvent_t": [
+        1,
+        3
+      ],
+      "weighted_median_t": [
+        1,
+        3
+      ],
+      "quadratic_alpha": [
+        "1/4",
+        "1",
+        "3",
+        "6"
+      ]
+    },
+    "selection": "For each case and method family choose parameter with smallest mean training pi-weighted l1 clean risk;ties use listed parameter order. Hold fixed across all8test seeds. Identity has no parameter. No test-based tuning. Report best heldout-risk family among qualified old methods as conservative ORACLE diagnostic comparator per case;this is not a deployable selector. Also report all family risks and training choices."
+  },
+  "methods": {
+    "candidate": "G=(I+t(I-A))^-1;deterministic expected median of3independent row-G endpoint indices. Sorted coordinate threshold gaps times3h^2-2h^3. All exact rational.",
+    "identity": "Observed x unchanged;zero kernel cost.",
+    "linear_resolvent": "Gx with own training-selected t.",
+    "weighted_median": "Per output node/coordinate choose lowest observed value whose cumulative row-G weight>=1/2;minimizes row-weighted absolute deviation. Same qualified G family,own training-selected t;not reproduction of Ge etal temporal recursive graph filter.",
+    "quadratic": "Unique minimizer sum_i pi_i||y_i-x_i||2^2+alpha sum_ij pi_i aij||y_i-y_j||2^2,solution (I+2alpha(I-A))^-1x for reversible chain. Standard graph Tikhonov reference,own train-selected alpha. This is Euclidean/separable convex reference,not full multidimensional squared-l1 source-objective optimum or TV solver."
+  },
+  "judges": {
+    "kernel": "Exact stochastic/nonnegative rows and full matrix residual G*(I+t(I-A))=I. Strictly diagonally-dominant matrix nonsingular;residual certifies exact solution without another inverse routine.",
+    "constructor": "Independent grouped enumeration of unordered triples j<=k<=l with multiplicities1/3/6 and product row probabilities;coordinate median=a+b+c-min-max. No CDF or cubic formula in reference.",
+    "weighted_median": "For each output coordinate evaluate weighted absolute objective at every distinct observed candidate value and certify minimality of selected median.",
+    "quadratic": "Exact first-order residual;strict convex fidelity certifies unique optimum of declared quadratic objective. Scalar controls also compare source energy against all other produced outputs,not multidimensional optimum.",
+    "energy": "Whole squared l1 distances,not sum coordinate squared distances. Direct row loops for fidelity+t one-step energy and Cesaro powers1..t;check exact <=3024*cost for every fast candidate output on train and test. No tolerance.",
+    "risk": "Exact mean pi-weighted l1 distance to frozen clean features across heldout seeds;independent absolute-coordinate arithmetic;store every input and output.",
+    "zero_risk": "Old mean risk0/new0 ->tie,no10%win,noharm. Old0/new>0 ->harm. Otherwise win when10*new<=9*old;harm when20*new>21*old. No division-based tolerance."
+  },
+  "success": {
+    "core_case_count": 18,
+    "minimum_cases_with_ten_percent_risk_reduction": 12,
+    "maximum_harmed_cases": 0,
+    "maximum_source_energy_violations": 0,
+    "maximum_constructor_or_baseline_judge_mismatches": 0,
+    "all_fixtures_complete": true
+  },
+  "resource_limit_seconds": 300,
+  "resource_limit_mb": 128,
+  "resource_limit_rss_mb": 512,
+  "resources": "Standard library only,no downloads/optimizer/Lean/ML install. Full wall cap includes generation,all training choices,all selected testing algorithms,independent judges;per-method preprocessing/evaluation timing and cache-use reported. Full graph inputs/kernels cost retained;no speed gain predicted.",
+  "stop": "Run frozen pack once;retain all outcomes and failures;no noise/t/threshold grid expansion or changed10%prediction to find support. If resource envelope fails or pack incomplete,it cannot count as completed application initial check.",
+  "outputs": "Use shared experiment runner;raw and summary plus all spec/code/config snapshots gzip-archived with exact SHA roundtrips. Store timing separately from deterministic scientific replay comparison.",
+  "human_review": null,
+  "second_provider_review": null
+}

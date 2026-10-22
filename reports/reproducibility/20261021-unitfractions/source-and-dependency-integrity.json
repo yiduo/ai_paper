@@ -1,0 +1,79 @@
+{
+  "recorded_at": "2026-10-21T04:37:58.026026+00:00",
+  "old_canonical_records_byte_unchanged": 3202,
+  "changed_old_record_ids": [
+    "ANALYSIS-F-025"
+  ],
+  "exact_history_records": 2,
+  "new_canonical_records": 7,
+  "all_old_explicit_edges_byte_unchanged": true,
+  "new_explicit_edges": 16,
+  "full_nodes": 5500,
+  "full_edges": 13946,
+  "canonical_citations": 5134,
+  "snapshot_files": 3,
+  "snapshot_gzip_bytes": 4962,
+  "snapshot_member_hashes_and_roundtrip": true,
+  "actual_upstream_source_AST_entry_parameters": [
+    "r",
+    "algorithm"
+  ],
+  "pinned_source_functions": 6,
+  "whole_API_executed": false,
+  "dependency_installed": false,
+  "new_candidate": true,
+  "new_application_run": false,
+  "all_current_source_hashes_verified": true,
+  "application_gate_cases": [
+    {
+      "changed": "PART-025-CONSUMER-GATE",
+      "application_requires_review": true,
+      "source_claims_not_affected": true
+    },
+    {
+      "changed": "PART-025-BITCOST-GATE",
+      "application_requires_review": true,
+      "source_claims_not_affected": true
+    },
+    {
+      "changed": "PART-025-SYMPY-RUNTIME-GATE",
+      "application_requires_review": true,
+      "source_claims_not_affected": true
+    }
+  ],
+  "comparison_edges_not_source_proof_premises": true,
+  "source_bindings_and_grades_unchanged": true,
+  "pre_output_plan_v1_v2_preserved": true,
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "analogy": {
+    "near": 26,
+    "far": 9,
+    "bold": 1
+  },
+  "metrics": {
+    "nodes": 5500,
+    "research_nodes": 3206,
+    "edges": 13946,
+    "citations_checked": 5124,
+    "candidate_connections": 36,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 44,
+    "source_decomposition_drafts": 38,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

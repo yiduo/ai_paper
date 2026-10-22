@@ -1,0 +1,34 @@
+{
+  "id": "APP-366-01",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_generation_id": "GEN-20261021-041",
+  "title": "认证梯度场的固定字宽裁剪误差预算",
+  "problem_id": "PROB-366-FIELD-BUDGET",
+  "domain": "Conditional scientific gradient-field storage or transmission with fixed coefficient wordwidth",
+  "analogy": "near",
+  "hypothesis": "Given independentlycertified F366gradienttail C andfinitefield L2representationerror e0,an explicitclip/quantizebudget canmeet prescribedfieldL2error delta without a finitecontinuumpeak bound. Actualbitwidth/fullstorage advantageoverstrongoldmethods may be zero.",
+  "mapping": {
+    "status": "Existinglayercake/projection/nearest-grid budgetcomposition,notnewmathematicalresult",
+    "input": "A=areaU>0,C>0certifiedforallthresholdtailbound,f=gradactualcontinuumminimizer,qhpiececonstant onknownpositive-areaNcells withcertifiedL2error<=e0,delta>e0",
+    "tail_squared_error": "Integral_|f|>T |f|^2 =T²mu(|f|>T)+2Integral_T^infinity s mu(|f|>s)ds <=2C/T²",
+    "codec": "Componentwiseboxclipqh to[-T,T];eachcomponentnearestof2^b uniformlevels includingendpoints;b>=1;cellweights sumA",
+    "total_error": "e0+sqrt(2C)/T+sqrt(2A)*T/(2^b-1)",
+    "parameter_choice": "r=delta-e0>0;T=2sqrt(2C)/r;2^b-1>=8sqrt(AC)/r²;b>=1;actualimplementationmustoutward-roundandbudgetarithmeticerror",
+    "payload": "2Nb bits forcoefficients only;headers,partition,C,T,weights andcertificates separate",
+    "degeneracies": "C0 canusezerofield ifcertificatevalid;A0trivial;delta<=e0 insufficientbudget;Cnegative/missingandinvalidareasreject"
+  },
+  "judge": "Freeze actual independentlycertified field/source/partition/weights/C/e0,license andnormintegrationoracle beforeoutputs. Buildexact/outward-roundedparameterandcodecimplementation;independentdecode/normintegrationcheck totalerror andallmetadata. Compareuniformfinite-maxquantization,genericLp budgets andavailableoldcodec inmatchedaccuracy/size modes. Actualinputnone;knowncracktip/Pareto/controlarrays onlycalibration,notapplicationinitialcheck.",
+  "baseline": [
+    "GenericstrongLp tail<=Mp*T^(2-p),p>2;genericweakLp layeredtail;needactualcertifiedconstants",
+    "No-clipknownfinitearraymaxM uniformquantization,e0+sqrt(2A)*M/(2^b-1)",
+    "Existingzfpmanualabsolute-error mode ifactualsupportedformat/precision verified;variablecompletefilesize,not samefixedwordconstraint",
+    "EarlierDeangelisclassificationclaim plusmonographweakL4mayalreadysupplysamefunctionclass;noexclusiveF366benefit"
+  ],
+  "limits": "F366onlyguaranteesCUexists;no currentCU/e0/certifiedcontinuumminimizerinput orfinitebridge fromChanVese. No reconstruction/curl/compressiongain guarantee;payload2Nb excludesmetadata. Classictail/projectionalgebra mayalreadyfullysuffice;earlierclassificationalsooverlaps. MainC/fullclosureunknown,nohumanreview.",
+  "resource_envelope": "No numericalallocation/newdependencies. Futureexecutorinputsize andbudget must be fixed withrealtest;losslessgzip originalinput/output/source snapshots andverify decompressedhashes.",
+  "external_check": false,
+  "old_methods_may_suffice": true,
+  "revisit_when": "Actualcertifiedgradientfield/C/e0 andfixedwordneed;independentnormjudge/finiteprecisionerrorbudget andstrongmatchedbaselineavailable"
+}

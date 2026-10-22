@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-10-20T23:54:14.156015+00:00",
+  "gzip_bytes": 25919,
+  "gzip_sha256": "ff69abad90b8d5be7fc068c6a4ab356cb2847a0520d955240070b421d5588c7b",
+  "payload_sha256": "ca94f6fd039015d1fb1693dcce3e5fdbf188a6fd621fe514fd3f6b8bd6e22824",
+  "members": [
+    {
+      "name": "prepare_f243.py",
+      "bytes": 15474,
+      "sha256": "261aaecbcc3a3bc3605f095e7586ad819d7726ca03af2574d41c49d9f97cb1f8"
+    },
+    {
+      "name": "curate_f243.py",
+      "bytes": 28975,
+      "sha256": "72bff36cab903f2255d1a986523b74ef5f7f42dc98be3040fa032697b6d46b85"
+    },
+    {
+      "name": "fix_f243_links.py",
+      "bytes": 2120,
+      "sha256": "bd5813e8306278d263d2559b86d24a66ec2c3b6e365d1d40e14d793c0e518db8"
+    },
+    {
+      "name": "quality_f243.py",
+      "bytes": 2895,
+      "sha256": "46a3f2ad0c6cfecdf17239ed7851b0ebc87cc2e44025590bfb6685683617c9d3"
+    },
+    {
+      "name": "finish_f243.py",
+      "bytes": 13027,
+      "sha256": "c9a46e4a9ecba678052728c0f1de809d3bb6da372b4144d8f0a30ba174a1468e"
+    }
+  ],
+  "roundtrip": true,
+  "temporary_plaintext_removed": true,
+  "total_temporary_bytes_removed": 62491,
+  "purpose": "Evidence helpers;non-idempotent curation/cleanup must not be blindly rerun."
+}

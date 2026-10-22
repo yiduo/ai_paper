@@ -1,0 +1,107 @@
+{
+  "recorded_at": "2026-10-21T02:42:17.571884+00:00",
+  "source_archive_members": 4,
+  "source_gzip_bytes": 55456,
+  "source_roundtrip": true,
+  "helper_gzip_bytes": 17849,
+  "helper_gzip_sha256": "7b9db9a13a9af6d755c74da15060b6ea1d7b3f7af049962d3a820ffa860e0c8a",
+  "helper_uncompressed_sha256": "cd9781d529d7fcbecbcaf45cc521bfb2ba4a7a91ae961951008e0591d8b951ee",
+  "helper_roundtrip": true,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-WP070/quality_cas.py",
+      "bytes": 2996,
+      "sha256": "9fe655bfaeed678d3b938b1684d46c0623a9bc3427d34c8df6bb5a0f240e9f82",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/SINGULAR-COPYING",
+      "bytes": 5654,
+      "sha256": "53d2a2b37105ad8ca4fe5d1450d592e8ee1367955ff8cb9c27995a405353e29b",
+      "retained_as": "GPLsourcesexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/core.log",
+      "bytes": 8530,
+      "sha256": "9e8df0ef624a2453e3dcab4b5b1dc8aaf5e42074f39299d6b05d74efa3102e54",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/integrity.log",
+      "bytes": 891,
+      "sha256": "27ee1d4afba7508abd90230a3e71f4f9e5bc52f06381c7c837e737d2144a58e9",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/archive_regression.py",
+      "bytes": 1310,
+      "sha256": "b1e0ab008ac7a99ab8ddf64bef0479d54a43807dc47c82787bc6b6c9a28c2ac9",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/quality.log",
+      "bytes": 83,
+      "sha256": "21712eac940dd10827e64add042d2def9cee398c12e1a0ea1f0a75447eaff883",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/finish_cas.py",
+      "bytes": 12503,
+      "sha256": "0f578c969e1a7fac210081be1ef849086a748e2153d10f0d30f058c75086e68c",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/sage-morphism.pyx",
+      "bytes": 123193,
+      "sha256": "b4a8aa51234a6d36972b4bd9d82735c6198e86c842961813f88674286d246629",
+      "retained_as": "GPLsourcesexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/export.log",
+      "bytes": 542,
+      "sha256": "b727dcbf16c164fe2fd70aedb6df119c52b1b0a0f2d5b7e388df58fb9b20a067",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/singular-algebra.lib",
+      "bytes": 38457,
+      "sha256": "49dc35f701b156d427118aec34bd3304938bdcdd396aa7b4ddc8cefa11a2f88c",
+      "retained_as": "GPLsourcesexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/progress.json",
+      "bytes": 5741,
+      "sha256": "f13e2f555b254f9ea57df4196e16292678ef05fb294509ed8bb7ad4e13b9c088",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/archives.log",
+      "bytes": 3,
+      "sha256": "1a252402972f6057fa53cc172b52b9ffca698e18311facd0f3b06ecaaef79e17",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/integrity_cas.py",
+      "bytes": 4204,
+      "sha256": "70f3e2f1a796233939fb0592609b6a71d5d8642c4731ec177a2e78ba3b12e37f",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/curate_cas.py",
+      "bytes": 13294,
+      "sha256": "86e050012522eabf5b2485f890d2040923c5f4491dce7f213072455c924951bc",
+      "retained_as": "Ownhelper/progress/logexactgzip"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP070/SAGE-COPYING",
+      "bytes": 61362,
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "retained_as": "GPLsourcesexactgzip"
+    }
+  ],
+  "temporary_bytes_removed": 278763,
+  "temporary_directory_removed": true,
+  "no_installs": true,
+  "no_datasets_downloaded": true,
+  "new_application_run": false
+}

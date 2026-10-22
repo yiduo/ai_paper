@@ -1,0 +1,38 @@
+{
+  "recorded_at": "2026-10-21T06:40:27.433101+00:00",
+  "work_package": "WP-082",
+  "generation_id": "GEN-20261021-078",
+  "goal_status": "active_incomplete",
+  "local_quality_passed": true,
+  "mandatory_retrospective": "029 completed",
+  "packages_since_retrospective": 0,
+  "next_package": "WP-083",
+  "next_coverage_reservation": "F332 after bounded historical package;only inventory so far",
+  "running_research_experiments": [],
+  "local_save_only_before_commit": true,
+  "no_remote_push_or_publication": true,
+  "storage": {
+    "recorded_at": "2026-10-21T06:40:27.433101+00:00",
+    "helper_gzip_bytes": 21552,
+    "helper_uncompressed_bytes": 63245,
+    "helper_members": 13,
+    "all_member_roundtrips_and_hashes_verified": true,
+    "temporary_bytes_removed": 4170262,
+    "external_primary_and_rendering_bytes_removed": 4083631,
+    "already_archived_previous_helper_bytes_removed": 25931,
+    "external_original_hashes_saved": "retrieval-and-reading.json;hashes are observations,full texts not retained",
+    "temporary_directory_removed": true,
+    "new_numerical_data": false,
+    "old_numerical_archives_verified": 14,
+    "dependencies_installed": false
+  },
+  "post_document_update_verification": {
+    "local_canonical_hash_annotations_verified": 5104,
+    "helper_members_verified": 13,
+    "checkpoint_and_backlog_consistent": true,
+    "git_diff_check_passed": true,
+    "preview_listen_pid": 49683,
+    "preview_fresh_browser_visual": false,
+    "available_disk": "29GiB observed;rounded OS value,not project savings"
+  }
+}

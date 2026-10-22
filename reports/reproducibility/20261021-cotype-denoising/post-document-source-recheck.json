@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-21T09:25:50.474399+00:00",
+  "local_source_annotations_verified": 5248,
+  "distinct_local_files": 935,
+  "compressed_helper_members_verified": 21,
+  "temporary_directory_absent": true,
+  "latest_retrospective": "030",
+  "next_package": "WP-086",
+  "goal_incomplete": true
+}

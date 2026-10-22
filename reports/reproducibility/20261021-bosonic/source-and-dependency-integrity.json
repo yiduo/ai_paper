@@ -1,0 +1,74 @@
+{
+  "recorded_at": "2026-10-21T05:46:00.490120+00:00",
+  "full_nodes": 5626,
+  "full_edges": 14296,
+  "canonical_citations": 5281,
+  "local_source_hashes_verified": 4971,
+  "unhashed_external_URL_observations": 310,
+  "unchanged_old_canonical_records": 3290,
+  "new_canonical_records": 10,
+  "changed_old_ids": [
+    "ANALYSIS-F-273",
+    "LIT-273-29D2C9C677",
+    "LIT-273-B400A34A76",
+    "LIT-273-DE87AB233D"
+  ],
+  "exact_old_versions_preserved": 4,
+  "old_explicit_edges_byte_unchanged": true,
+  "new_explicit_edges": 22,
+  "source_ledger_and_claim_bindings_and_grades_unchanged": true,
+  "all_source_hashes_verified": true,
+  "application_impact_cases": [
+    {
+      "seed": "CLM-273-THM-EPNI",
+      "new_application_requires_review": true,
+      "source_not_reverse_invalidated": null
+    },
+    {
+      "seed": "PART-273-EXACT-POLYNOMIAL-ORACLE",
+      "new_application_requires_review": true,
+      "source_not_reverse_invalidated": true
+    }
+  ],
+  "old_comparison_not_proof_premise": true,
+  "old_far_candidate_has_no_borrowed_run": true,
+  "new_card_full_theory_chain": "unknown",
+  "new_card_application_result": "观察",
+  "formal_rejection": false,
+  "preregistration_bytes_unchanged": true,
+  "own_initial_check_failure": "Literalcitationcount5281mistakenlycomparedto4971localhashbearingcitations;310externalURLobservationshave no locallypinnedbytes. Correctedscopes,no canonicalorresultchange,initialscript/log retained",
+  "navigation_consistent": true,
+  "upstream_readonly_and_clean": true,
+  "new_candidate_count": 1,
+  "new_initial_check_count": 1,
+  "all14archive_integrity": true,
+  "actual_frozen_source_replay": {
+    "raw.json": true,
+    "summary.json": true
+  },
+  "metrics": {
+    "nodes": 5626,
+    "research_nodes": 3300,
+    "edges": 14296,
+    "citations_checked": 5271,
+    "candidate_connections": 38,
+    "externally_checked_cards": 12,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 12,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 45,
+    "source_decomposition_drafts": 39,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

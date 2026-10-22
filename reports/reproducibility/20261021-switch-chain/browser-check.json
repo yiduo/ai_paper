@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-20T17:54:28.709659+00:00",
+  "url": "http://127.0.0.1:8768/",
+  "family": "F-131",
+  "nodes": 3018,
+  "edges": 7321,
+  "actual_actions": [
+    "reload current graph",
+    "search131 and select exact family",
+    "inspect exact-sampling C node",
+    "inspect conditional APP13102 pending/no runs",
+    "reload corrected candidate version2 and F149 deterministic mass-action wording",
+    "scroll to overview and capture screenshot"
+  ],
+  "scope": "Only this family/candidate path and narrow actual viewport; no full UI regression or extra breakpoint claim",
+  "screenshots": {
+    "graph-F131-overview.png": {
+      "bytes": 44081,
+      "sha256": "1e534edc8537514680ab61fdad10273c23762af9df23e42072cd9db5e4f2bf13"
+    },
+    "graph-F131.png": {
+      "bytes": 39211,
+      "sha256": "ada55112f98379abd0d4fe2accc97984bfc696c23b104bd8eedc7fd5cf93b374"
+    }
+  }
+}

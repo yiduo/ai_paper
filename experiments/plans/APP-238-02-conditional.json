@@ -1,0 +1,26 @@
+{
+  "id": "APP-238-02",
+  "status": "conditional_not_preregistered_not_run",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_generation_id": "GEN-20261021-032",
+  "target": "Hypothetical non-security switching-fabric simulator with N=2^d distinct jobs,independent fair pair gates and fixed cyclic cube schedule",
+  "observation": "Fix half of the job labels before the run;observe every path of those jobs. Retain the actual environment distribution;do not adaptively pick or filter observations.",
+  "mapping": "Unobserved job slots induce g_E in S_(N/2). Compare the joint law of(environment,g_E) to actual environment law times uniform free permutation,using E TV(conditional g_E,uniform). This target includes observation-dependent residual structure absent from unconditional endpoint audits.",
+  "hypothesis": "For a separately frozen eligible simulator workload,the joint environment/assignment audit will identify any specified violation of residual uniformity that an unconditional endpoint or one-job audit misses. The source predicts asymptotic mean conditional convergence at16040000sweeps,not a finite circuit tolerance or per-trace guarantee.",
+  "deduplication": "APP23801 checks unconditional joint permutation support/marginal failure. This candidate adds fixed labelled observed paths and a distinct joint(environment,residual assignment)target;no duplicate card for warehouse or pixel variants.",
+  "judge": "Acquire an eligible simulator/actual routing test contract. Freeze input,gates,observed label set,finite budget and independent exact conditional/full-law oracle or justified finite statistical test. Separately judge whether this conditional audit changes an operational decision; source-law QA alone is not application gain.",
+  "strong_old_baseline": "Exact Bayes/disintegration and finite-state enumeration for small cases;older sequential conditional-TV/coupling arguments and full conditional-law verification. A marginal-only check is an intentionally weak diagnostic,not the sole baseline.",
+  "limits": "No real simulator workload,implementation,finite d0/tolerance,practical run budget or external check. The new asymptotic theorem may add no finite engineering advantage. Conditioning on selected/adaptive paths,changing gate laws or retaining only some outcomes needs separate justification. No security/privacy deployment claim. The newly read Theorem4.1 controls a FURTHER ORDERED LIST only when r0+k-1<=pn for a fixed p<1. Observing half and querying ALL other half gives n-1<=pn,which fails for large n. It supplies a selected-list conditional bridge with a positive reservoir,not the full residual-half permutation target. Keep the original revealed-environment main/Fourier dependencies;no new external check or finite circuit tolerance.",
+  "resource_envelope": "No numerical allocation. Do not expand the existing n<=8 Thorp QA grid merely to obtain another initial card. A future distinct experiment must freeze protocol first andgzip raw/summary/source snapshots with decompressed hash checks.",
+  "new_numerical_run": null,
+  "version": 2,
+  "updated_by_generation_id": "GEN-20261021-033",
+  "prior_version_archive": "experiments/plans/history/APP-238-02-before-GEN033.json.gz",
+  "conditional_endpoint_bridge": {
+    "source_claim_id": "CLM-238-INFORMATION-THM-BASE-PATH-JOINT",
+    "scope": "The newly read Theorem4.1 controls a FURTHER ORDERED LIST only when r0+k-1<=pn for a fixed p<1. Observing half and querying ALL other half gives n-1<=pn,which fails for large n. It supplies a selected-list conditional bridge with a positive reservoir,not the full residual-half permutation target. Keep the original revealed-environment main/Fourier dependencies;no new external check or finite circuit tolerance.",
+    "T": "2ceil(10/c_p)d,c_p=-(1/8)log2((3+p)/4)",
+    "bound": "actual-base-path expectedTV<=k n^-4 eventually",
+    "run_ids": []
+  }
+}

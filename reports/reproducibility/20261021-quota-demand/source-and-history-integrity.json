@@ -1,0 +1,99 @@
+{
+  "recorded_at": "2026-10-20T20:16:18.947740+00:00",
+  "source_archive_sha256": "230ec0be13c6d8660e30b9a74efbf5467cbf6df776b8ac99ad58045c57e94f90",
+  "decompressed_sha256": "cba2faf5a0b9b2baf106e0d4c5584d7b926ad2513e88808f19d65d9b2004c10b",
+  "member_hashes_checked": 10,
+  "prior_nodes_match_HEAD": 4,
+  "old_plan_matches_HEAD": true,
+  "temporary_source_files_removed": [
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/networkx-mst.txt",
+      "bytes": 47459,
+      "sha256": "96522defb0a8e5aa86b53cd171868547444d9da1eea1271c0fe50fb415332d90",
+      "archive_member": "networkx/networkx/algorithms/tree/mst.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/graphillion-readme.txt",
+      "bytes": 61032,
+      "sha256": "26d0eb68d43a864255653796a8f43694e2b51e63ec43d599f50d7eb04ac75793",
+      "archive_member": "graphillion/README.md"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/graphillion-source.txt",
+      "bytes": 96853,
+      "sha256": "8d5edd21ca44aa9a99ad7c4b6e6aa2d768452188bad0072039dc645cbbb3503a",
+      "archive_member": "graphillion/graphillion/graphset.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/graphillion-license.txt",
+      "bytes": 1425,
+      "sha256": "72690a70c2005716a85fbb03221ab09e791ddb3bac1b8592b9d79b3eea668bb9",
+      "archive_member": "graphillion/LICENSE.txt"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-readme.txt",
+      "bytes": 19942,
+      "sha256": "3a0219cf9d4d5736871b69d451108c150626f601fcfcfa85abccb112090e1c4c",
+      "archive_member": "dnet/README.md"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-configset.txt",
+      "bytes": 8941,
+      "sha256": "9fc798b281c99ff924a4cc08f0fd984c3abe31c4802330630fb50302621ff0bf",
+      "archive_member": "dnet/dnet/configset.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-network.txt",
+      "bytes": 21485,
+      "sha256": "1c4c67a8f636f410056b01b069c6dcab381242da47b5a33c90246de19edf58d6",
+      "archive_member": "dnet/dnet/network.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-release.txt",
+      "bytes": 1194,
+      "sha256": "f1511df7513d10140459a33658ca48b3250cb5781664ed79c9edddb6724fb4a3",
+      "archive_member": "dnet/dnet/release.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-example.txt",
+      "bytes": 5881,
+      "sha256": "39038b0070ca75dcf03d4193507c2348af78e59f848904b0284b959e731d5b63",
+      "archive_member": "dnet/data/test.yaml"
+    }
+  ],
+  "temporary_api_metadata_removed": [
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-files.json",
+      "sha256": "3bf58a118ee53d5089f59d224ff87e40a0504496962bce91a880e64008ded027",
+      "bytes": 8159,
+      "retention": "Only necessary commit/ref/date/message and input paths in source ledger;full API personal metadata not retained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-data-files.json",
+      "sha256": "d65db1461c0d70c8f0a0a966eb404e368f507c522c8816e1fd8a2c3ff6d2001a",
+      "bytes": 5081,
+      "retention": "Only necessary commit/ref/date/message and input paths in source ledger;full API personal metadata not retained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/graphillion-commit.json",
+      "sha256": "58fcd53dce0beba804b2d6ab02c665e95ef1bbbdcd24baf90113812bcdc15e87",
+      "bytes": 5678,
+      "retention": "Only necessary commit/ref/date/message and input paths in source ledger;full API personal metadata not retained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/sage-commit.json",
+      "sha256": "146e8dd01602265f0eab9b50f4895b32561132b116b0d8fa761d7a1a3bc1cabf",
+      "bytes": 17709,
+      "retention": "Only necessary commit/ref/date/message and input paths in source ledger;full API personal metadata not retained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-quota-tools/dnet-commit.json",
+      "sha256": "4c1c74eba7d06fdeff73ec12d419ff4888573961203ba7510ee292dc9bfd9533",
+      "bytes": 4582,
+      "retention": "Only necessary commit/ref/date/message and input paths in source ledger;full API personal metadata not retained"
+    }
+  ],
+  "total_removed_bytes": 305421,
+  "new_numerical_application_run": false,
+  "scope": "Static source/input review only;no extra dependencies or upstream copies"
+}

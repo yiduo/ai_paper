@@ -1,0 +1,606 @@
+{
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/contour.tex": {
+      "sha256": "867295bd1b1b795eadd9a85334fa8262874170fc29411939b45a748872b088fc",
+      "total_lines": 336,
+      "read_ranges": [
+        [
+          1,
+          336
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/decoding.tex": {
+      "sha256": "4243d6e67bb0d45715cc3d8dab30fa7ff1808975843effae26a755b19126107f",
+      "total_lines": 421,
+      "read_ranges": [
+        [
+          1,
+          421
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/history.tex": {
+      "sha256": "651ece4e1d07d23c461a973222071c5e6950b31038211034d7923f22978fa764",
+      "total_lines": 64,
+      "read_ranges": [
+        [
+          1,
+          64
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/main.tex": {
+      "sha256": "b4b4353f7c0ab2e95b1ee88fd44e66956245f50bbd566bf8d2f426e8f8ca1f1c",
+      "total_lines": 184,
+      "read_ranges": [
+        [
+          1,
+          184
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/multiscale.tex": {
+      "sha256": "61f92945d092f65fcf305d780bc41c55cbcddf24bdff434704808ac27f4ff9d8",
+      "total_lines": 399,
+      "read_ranges": [
+        [
+          1,
+          399
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/separation.tex": {
+      "sha256": "5634ae3938de7fed6737e19b4527f2df1c3ccd96f94b6c718a62e24f25e95326",
+      "total_lines": 548,
+      "read_ranges": [
+        [
+          1,
+          548
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/manuscript/setup.tex": {
+      "sha256": "7cc821a1c9135bebf0ba8454ecacf137a4f98e61fc430cbf56a04f9b17bfc946",
+      "total_lines": 163,
+      "read_ranges": [
+        [
+          1,
+          163
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Uniform-quasipolynomial-time-trace-reconstruction-October-5-2026/build/references/references.tex": {
+      "sha256": "17638c82db657db09c8012e3137c44bf8ac66c4f73883e0ca116e536b6616a3f",
+      "total_lines": 131,
+      "read_ranges": [
+        [
+          1,
+          131
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026/build/main.tex": {
+      "sha256": "1f56e97e7001f0e939a85975b51de0e8c8487b492ac5657daea1121ca096da37",
+      "total_lines": 9,
+      "read_ranges": [
+        [
+          1,
+          9
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026/build/part-1.tex": {
+      "sha256": "ca8c16bb132bc0755a7fc54f803d6fa8a769ac5e4555a785a51766ff7c035a39",
+      "total_lines": 488,
+      "read_ranges": [
+        [
+          1,
+          488
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-latest-anchor-induction-with-spectrally-compact-masks-for-worst-case-trace-reconstruction-October-5-2026/build/summary.tex": {
+      "sha256": "2fe395cd1013a96cad4ef96a13aa53ef406e0e725fb56913bb2a07a84083efee",
+      "total_lines": 117,
+      "read_ranges": [
+        [
+          1,
+          117
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/figures/forced-subtree-jitter.tex": {
+      "sha256": "193dfacdc73a5670ad6f3b0c39513e775350bdb1a51e64ca0c1a78840ac68097",
+      "total_lines": 94,
+      "read_ranges": [
+        [
+          1,
+          94
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/figures/paired-hiding.tex": {
+      "sha256": "0ef71d12ddd8429afaca5bd4a0c1907b52ac73d43272fe557b019a66118f3d00",
+      "total_lines": 61,
+      "read_ranges": [
+        [
+          1,
+          61
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/main.tex": {
+      "sha256": "7ab265e9724836bed63a98c5ed11c23f9ced0b1ff71c37b250d780a157ca5047",
+      "total_lines": 25,
+      "read_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/preamble.tex": {
+      "sha256": "85ae68968d8b52e6e59549d7f3cd0b7818df66ff2ba5a554ac824c8d1c056378",
+      "total_lines": 45,
+      "read_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/block.tex": {
+      "sha256": "ef2df3d4f5c560b2319053d1f435459673a44e684c1140b7619a67cf5c99ce69",
+      "total_lines": 232,
+      "read_ranges": [
+        [
+          1,
+          232
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/coefficients.tex": {
+      "sha256": "a944b5343877becd243cddc07fd4ba038d9b359c628b014a1e7f7a90e171dae2",
+      "total_lines": 279,
+      "read_ranges": [
+        [
+          1,
+          279
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/initial.tex": {
+      "sha256": "35d61a80f86848a37e44fa8f69e32f9c109cee21317235069ef23c3514e47a27",
+      "total_lines": 704,
+      "read_ranges": [
+        [
+          1,
+          704
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/introduction.tex": {
+      "sha256": "1e553ce3e4bbad52e1632116d8fcb178b58081f1ab2ad6b0ceebf36245ed2972",
+      "total_lines": 76,
+      "read_ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/layout.tex": {
+      "sha256": "f2a80018369bedbd84e895f305f16cb73446463bcae2e94a51bc325734b359eb",
+      "total_lines": 132,
+      "read_ranges": [
+        [
+          1,
+          132
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/scales.tex": {
+      "sha256": "22c66e8c5ea58714bc3df7597b684e3a6db4ee8a754692c5b0faaf90886c44d9",
+      "total_lines": 118,
+      "read_ranges": [
+        [
+          1,
+          118
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/tools.tex": {
+      "sha256": "be92f8fea551a9df6d4c1e8fa98dacf26b851708f59c0087deb0bf3ee21d2932",
+      "total_lines": 158,
+      "read_ranges": [
+        [
+          1,
+          158
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/sections/transfer.tex": {
+      "sha256": "5a1e3011d80e58c7cfb81a006160d015ecce3eeebbd4960b9b7771eefa34b7b6",
+      "total_lines": 98,
+      "read_ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "additional_bibliography": {
+    "path": "math/preprints/quantitative-lower-bounds-for-trace-reconstruction-September-24-2026/build/references.bib",
+    "sha256": "fd3c09324072c781b6ea662b359df014efc4edd987997bcd32c299053f6ce422",
+    "lines": 245,
+    "fully_read": true
+  },
+  "formal_selected": {
+    "math/lean/docs/122.md": {
+      "sha256": "4bd3067e31390bc08d91e69ce143afd1460fed929fa8ce70d450add0a7b50ff3",
+      "read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "whole_file_read": true
+    },
+    "math/lean/ComparatorChallenges/TraceReconstruction.lean": {
+      "sha256": "68df708f0b20b524cbc8fd02164731245982749eba0b2e8e0e1a520c85b0e70d",
+      "read_ranges": [
+        [
+          1,
+          91
+        ]
+      ],
+      "whole_file_read": true
+    },
+    "math/lean/ComparatorChallenges/TraceReconstruction.json": {
+      "sha256": "551a93a8bcf750ecfae7257ec91c36de8ae6fabd1b4d2f0bd43edfad67cf276b",
+      "read_ranges": [
+        [
+          1,
+          16
+        ]
+      ],
+      "whole_file_read": true
+    },
+    "math/lean/OAI/Probability/TraceReconstruction.lean": {
+      "sha256": "e74413607c5181f58bebe218cdafef3dc527a45ebfb00c55f1695b0b4477c12d",
+      "read_ranges": [
+        [
+          1,
+          427
+        ]
+      ],
+      "whole_file_read": true
+    },
+    "math/lean/OAI/Probability/TraceReconstruction/Model.lean": {
+      "sha256": "a0d4c43bd31a46e28f4da4d17ab5ea4ccf2a6b5afc88f3d66fc668dbff7a1c7a",
+      "read_ranges": [
+        [
+          1,
+          82
+        ]
+      ],
+      "whole_file_read": false
+    },
+    "math/lean/OAI/Probability/TraceReconstruction/Testing.lean": {
+      "sha256": "329e785751e2f46c83e2f82ea6df3596971764b10944e7a98c0fc30bcf0820c6",
+      "read_ranges": [
+        [
+          1,
+          40
+        ]
+      ],
+      "whole_file_read": false
+    },
+    "math/lean/OAI/Probability/TraceReconstruction/Induction.lean": {
+      "sha256": "8f3eeecd903f4adf3e97680cc34834c6006b9ec1c8d489f4e642df44d040102f",
+      "read_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "whole_file_read": false
+    }
+  },
+  "formal_index": {
+    "path": "data/provenance/readings/F-122-lean-index.json.gz",
+    "sha256": "187f839d1b8b2f97904902131f2a5719ee4af5a24ac4072865613feb625e5f29",
+    "files": 31,
+    "declarations": 2234,
+    "lexical_placeholders": 0,
+    "local_axiom_declarations": 0,
+    "external_missing": [
+      "Mathlib"
+    ],
+    "local_build": "not_run",
+    "human_spec_review": "missing",
+    "registration_search": "Targetedformalization.yamltrace/title searchnohits;docsactualsource+Comparatorconfigexist"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "BVW2026",
+      "url": "https://arxiv.org/html/2607.04073v1",
+      "scope": "Actualrendered35-91 introductorysamplevsruntime and879-907Theorem43proof/parameterprescriptions",
+      "summary": "Originalsameindependentbinarychannel;allp>0sampleexp(p^-7/3(log2n)^c). Pairtestingquasipolynomialtime viaDP likelihood;unknownstringefficientreconstruction leftopen. b=ceil(log_1.1 log2n),pbase=3^-bmin(1/4,p),dbase=max(pbase^-6,Cs),taupowers retained;cannotclaim sourceF122firstquasipolysamples.",
+      "raw_downloaded": false
+    },
+    {
+      "key": "Chase2021Upper",
+      "url": "https://arxiv.org/html/2009.03296v3",
+      "scope": "Actualrendered27-83and108-109;introTheorem1 andpreviousversionrestriction;selectedidentitytextrequiresPDFnormalizationconfirmation",
+      "summary": "v3Jan11 2022 extendsallfixedqin(0,1),earlierversionq<=1/2;Cdependsq/confidence,exp(Cn^1/5log^5n)samplebound,notuniformpbitcomplexity. Oldperiodavoid/identitybackgroundalreadyexists;notnewF122invention.",
+      "raw_downloaded": false
+    },
+    {
+      "key": "Chase2021Lower",
+      "url": "https://arxiv.org/html/1905.03031v2",
+      "scope": "Actualrendered29-99;explicitdefectpair,Theorem1,indistinguishabilityenergy andlemma1statement",
+      "summary": "v2Jul23 2020,2021journal;explicitn4k3pair(01)^k1(01)^(k+1) versusreversed;oldn^1.5/log^7 lower. DisplayTheorem1literallydeltaall(0,1)buttwohypothesisboundmeaningfulonlysuccess>1/2;F122historyalreadyqualifiesthis. Do notcopyoverbroadliteralconfidenceclaim orpretend oldpairnewbenchmark. Fixedq proofshownq1/2 withgeneralqclaimedanalogous.",
+      "raw_downloaded": false
+    },
+    {
+      "key": "HoldenLyonsErratum2022",
+      "url": "https://rdlyons.pages.iu.edu/errata/trace-erratum-pub.pdf",
+      "scope": "ExtractedPDF3pagesselectedopeninglines0-21andclosing218-234;otherformula-textavailablebutnotproof/pixel-audited",
+      "summary": "Official2022erratum DOI22-AAP1827 repairsoriginal2020Lemma3.1proof missingfournegativeterms;statementretained. ClosingalsoProp1.4X/Ycshouldsqrtc. No wholepaperwithdrawal,currentF122refnotDautomatically. OriginalHL2020bodyNOTreadinthispackage.",
+      "raw_downloaded": false
+    }
+  ],
+  "notes": [
+    "Uniform main:known n>=2 and rational retention p=a/b,bitlength L;ordinary independent complete deletion traces,per-string success>=2/3. M=ceil(exp(CB));B=p^-1 logn X^2(1+logX)^6;X=1+logn/(1+log1/q),q0X1. Worst-stream multitape bit cost(n+L+M)^c includespreprocess/input/output;onlyexternaltracegenerationoracle;machineignoresinternalrandomness. p1 branch returnsonefulltrace ordefaultonbadlength.",
+    "Uniform separation isagainst ALL PSD truncatedBooleanmoment completions fixingwrongprefix,NOT merelyactual distributions. Moments of nonlocal rank products0iftrace short. D*=4^(ceil(log2Y)+H),H=J*+3 with .001J*>=3 -> J*>=3000,H>=3003;notbudget-feasible at practicaln;subsetindexes truncate at n. FixedKD/Km chosen sufficientlylarge no practicalvalues given.",
+    "Rational prefix feasibility only guaranteedaccept under strictslack;anyreturnedvector exactfeasible;boundedfailureotherwise doesnotdecidegeneralSDP. l=sumC(r,j),j1..min(2D,r),G=sumC(r,j),j0..min(D,r);lambda=zeta/(16G),capceil(10(1+l)/lambda²);clip+dyadicrounding;exactSchurcomplementPSD/negativevector. Uniformtruecompletionmixedwithuniformsigns yieldsslack. Testbothbits,default0ifambiguous;no adaptiveprefixunion extra needed good eventuniformrankmoments.",
+    "Uniform7.98signal-loss vs4degreegrowth,alpha.001,sector2.002;Gramchaining2J²xi,Gaussiancontour anddistinctedge/gapspanningtree charge,simultaneousCayleystrip avoids per-coordinate loss. Theseanalytic existencewitnesses NOTalgorithmsearch.",
+    "Anchor isSAMPLEONLY,not efficientdecoder. Oneunlabelledthm inpart-1;parser named_results maymiss;needsmanualqualifiedbindingexactsource span,notmadeup natural label. General-symbol sample extension exactretainedsymbols andpreliminaryobservedalphabet,not uniformbinaryalgorithmextension.",
+    "Anchorperiodavoidbase P0=ceil1/a0,a0=e^(-10^16)/(10^14 L0),B_j=10^100 ell*8^j(b+1)^3,verylargeasymptoticn;knownzeropaddingdoublesn,simulatetraceswithindependentrandomzero-padding. PairwiseTV/embeddingcounttest+unionallcandidatesnotcomputationallyefficient. Weakorder/ties,maskcoverage,r2..4frequencyproducts,radialcompactification/complexmeasureTV andsimultaneousstrip. OldBVW logpowercomparison refersspecificprovenparameterprescriptions,notalloptimizations.",
+    "Lean122doc readwhole:ONLYlowerboundpaper listed,notuniformdecoder oranchor;formalization.yamltargetedtrace/title searchnohits. ActualComparator/Mainunread. No naturalB yet,all chainunknown.",
+    "math/history.md targeted trace/latestanchor/quasipolynomial search nohits;not proof entireversionhistory absent. ThreeREADMEread.",
+    "Allthree23TeX4882lines nowactuallyread,pluslowerreferences.bib separately. Oneearlierlongtooltruncatedanchorpart261-488 andlayoutfirstmiddle;repeated261-370,371-488,andlayout1-72 bounded tofill;wholeallcurrentfilescomplete now.",
+    "Lowerproof:commonpartpairedhidingmassomega² leavesfairconditionalorientations;completechronologicalprojection beforeclip/fitconditioning,errorE_i/ell_i<= (i+1)Delta. Conditionalmetadata D0 excludescompleteleafoldoraclepayload;hiddenbitsstillindependentbetweenmechanisms,globalplateauoffsetsharedbysiblings keptjoint,nofalseindependentoffset assumption.",
+    "Lowerseedalternating01+1defect,PTMsignss0300 => 2^300 exceptionalperiods,degreecutoffR03000,onlyasymptoticverylargen. Rankkernelsconditionfixedreturncountjointtagretention/ranks notretagconditional. Markemptyvaluedentry!=emptylist. Score squaredN^-2.20,commonrunoverlapomega=exp(-Cdelta^-3),uniformchanneldependence tracked.",
+    "Lowerblockb2preliminaryj0=5*2^B thenBdepthblocks liftsstrongoldscore,degreecutoffr*=2^(10B+40),PTMordergrowsO_B(D+1)^2;forcedbinarysubtree2^bscorefactors,shared+localjointanchornorm yields(b-1)/4gain. Cannotmaterializehardinstances smallnorclaimconstructorruntime practical;no hardpairbenchmarkyet.",
+    "Finalrestorepadcommonkernel toexacteverylargen,TVproduct<=sqrt(m n^-dD)+2m n(D+1)Delta. OnefixedchannelminTV n^-A allA viaDgrowth;arbitraryfixeds usesg independentgadgets,STRONGERboundaryseparatedobservations andposteriorfactorization;not2pointratealonefor s<=1/2.",
+    "HistorylowerrefsincludesHL2022erratum DOI22-AAP1827 officialauthorhttps://rdlyons.pages.iu.edu/errata/trace-erratum-pub.pdf,notreadybodyclaim. FourbodypriorityBVW/Chaseupper/Chaselower/HLerratum;CDLSlocalSQ remainsupstream-only unlessdecisionbudgetchanged.",
+    "ActualLeanMain417whole+Model1-82+Comparator/config/docsread. Mainmatchesvaryingq³logn sequence/allfixeds,c thresholdandtwoendpoints;proofactuallypresent,butfull31file2234declclosureonlylexicalindex,no buildorhuman. Comparator3sorryarechallengeplaceholdersnotproofsourcefailure. Uniform/anchorNOTcoveredbylowerboundMain.",
+    "Fourselectedoriginalbodyrangesnowactuallyreadviaweb,notdownloaded:noinventedSHA256forunobtainedbytes. Allotherrefs remainbibliography-only. ErratumclosingalsoProp1.4c->sqrtc,notjustLemma3.1.",
+    "ChaselowerliteralTheorem1deltaall(0,1)cannotbeusedasbinarytestingconfidence<=1/2lowerbound(randomguesssuffices). Preserveliteralandmeaningfulscopequalified;donotdeclarewholepaperwrongorformalnegative. F122alreadyspecifiesoldratesfor>1/2."
+  ],
+  "family_id": "F-122",
+  "work_package": "WP-062",
+  "generation_id": "GEN-20261021-058",
+  "recorded_at": "2026-10-21T01:02:36.067623+00:00",
+  "source_tex_files": 23,
+  "source_tex_lines": 4882,
+  "result_notes": {
+    "u/thm:main": "Known n>=2,rational retention p and ordinary independent binary deletion traces;per-string success>=2/3. M=ceil exp(CB),uniform bit time(n+L+M)^c for EVERY well-formed stream/internal random sequence;input/output/preprocessing charged. p=1 branch one trace/default. Constants absolute but not practical values.",
+    "u/lem:moment-bounds": "Boolean sign moment matrix PSD of orderD implies all moments up to2D bounded by1;polynomial functional Hermitian/Cauchy-Schwarz after quotient. Feasible array need not be a distribution.",
+    "u/thm:separation": "Every PSD moment completion fixing correct prefix then one wrong bit has some NONLOCAL rank-product expectation gap>exp(-Csep B);D>=4^(ceil log2Y+H). This is stronger than separation of actual input strings.",
+    "u/prop:multiscale": "Orderk feature,4k<=D,sector|omega|<=2.002s,and explicit height/error/scale hypotheses. One step order<=4k,signal exp(-7.98E),controlled new gap factors/height;analytic existence,not witness-search runtime.",
+    "u/lem:cauchy-matching": "Positive matching measure along prescribed real difference,marginal sum dominated by Cauchy density;2mass=1-4/pi atan(exp(-pi/r));r0mass1/2. Not an independent pair-sampling oracle.",
+    "u/lem:good-frequencies": "Cauchy logarithmic deficit<=1.001E,center<=2.003s gives one frequency within2s deficit2.40E and bounded prescribed-difference pairs deficit2.74E.",
+    "u/lem:gram-chain": "Complex Hilbert vectors with squared norm and adjacent inner products withinxi of1 give endpoint inner product error<=2J^2xi. Does not certify arbitrary nonPSD pseudo-moments.",
+    "u/lem:balanced-product": "Under multiscale hypotheses a product of1..4 windowed Fourier sums/conjugates with small total frequency has discrepancy>=exp(-7.94E);positivity and Gram chain required.",
+    "u/lem:edge-gap-assignment": "Connected ordered multigraph admits distinct crossing edge per consecutive vertex gap,via spanning-tree incidence determinant. Avoids overcharging damping under tuple interleavings.",
+    "u/lem:product-cayley": "At mostN damped exponential factors with a>=gamma min(|theta|,N theta²) give positive quantitative Cayley half-plane margin c gamma. No deletion-model-free statistical guarantee.",
+    "u/lem:prefix-slack": "On one empirical-good event all wrong next-bit prefixes infeasible;correct prefix mixtures withuniform signs givePSD slackzeta/8 andstatisticalslack. Data-adaptiveprefixes use sameuniform event.",
+    "u/lem:rational-feasibility": "Exact rational affine/Boolean-moment PSD feasibility with dyadiczeta:bounded procedure alwayshalts,accepts only validvector,guaranteedacceptONLYifslacksolutionexists. capceil10(1+l)/lambda²,lambda=zeta/(16G);notgeneralSDPdecision.",
+    "l/thm:main": "For fixeds>0,c<1/(4log2),along EVERY varying-channel sequence n->infty,q³logn->infty,eventually Tq,s(n)>=n^(c log(q³logn)). Fixed-budget unrestricted estimator,deterministicbinaryinput/completeindependenttraces. No finite usable threshold.",
+    "l/thm:tv": "At eachfixedq,minimumone-traceTV between distinctlengthnwords is smaller than everyinversepower alongalllargen;samplecomplexitybeats everyfixedpower foranyfixeds>0. Not everyinputpair/average-inputclaim.",
+    "l/lem:scale-margins": "Backwardscales,preliminaryb2 thenBblocks anddelta^-3 channelcost haveuniformsmallestscale/absorption margins onlyjointasymptoticdelta³logn->infty;deltafixedinsideinstance.",
+    "l/prop:construction": "Allinductionlevels existwithdistinctequal-lengthwordpairs,auxiliarylikelihoodscore,commonpostprocessingerrors,andadjacentpoweroverlap. Existentialasymptoticconstructor,nopracticalhardinstancegenerator supplied.",
+    "l/lem:moment": "Independentcenteredrealvariables,evenmomentt,nosymmetry/iidrequired;degree-rmultilinearscore L^t <=(C t h)^r coefficientl2. Independenceisessential.",
+    "l/lem:lift": "Adjacentword-poweroverlapomega andsufficientF>=CkP,C>=Cabs/omega giveoverlap>=2/3 forpowersFPandFP+P;requireslargeP,notfreehiddenorientationoracle.",
+    "l/lem:clipping": "Commonmetadata/conditionalreference normalizeddensities,typicalmomentbounds andsmallscoregap;conditionBOTHlawsonsamesettypical&Gx>=1/2 toobtain domination atchargedTVloss. Do not recondition hiddenbitsasifstillfair.",
+    "l/prop:initial": "Alternating01periodswithshifted1defects andPTMorder300 signs,growingadmissiblerankkernels;initialsquaredscoreN^-2.20 anderror<=Delta,omega=exp(-Cdelta^-3). RequiresenormousasymptoticN,2^300exceptionalperiods.",
+    "l/lem:base-kernel": "Admissiblefixedreturncount,jointtagretention/rankkernel,deterministicperiodtypes;degree-rcoefficientl2² <=(C/delta)^r(u/m)^(r/2)r^(-r/2). Noextra conditioningalltagsreturn.",
+    "l/lem:base-differences": "Fixeddegree<3000,disjointfirst/secondtagshiftdifferences,coarsegapsandadmissiblecount;fulltagdenominatorandtotalfixed. Fourierlengthdifferenceestimatewithchannelpowers.",
+    "l/lem:base-fixed-sums": "Fixedinvolvedperiod in centralK/3..2K/3 givesgapweight sums;boundedinternalgap adds m^-1/2. Countsallcoarseconstraints,not independent gap approximation.",
+    "l/prop:block": "Fromleveli-1pair,depthb2orBconstructleveli withscoregain(b-1)/4-.05 andE_i<=Delta+(ell_i/ell_old)E_old;commonoverlapconstant mayenlarge once withoutinvalidatingpriorlevels.",
+    "l/lem:binomial-smoothing": "PTMsignconvolutionwithtranslated/reflectedfairbinomial g>=comega²m givesexplicitl∞/l2decay andexp(order²+orderLambda)cost. Signedsequenceisnotaprobabilitylaw.",
+    "l/lem:nested-overlap": "Allnestedatomadjacentpowertraceoverlaps>=omega;earlydepth2rootneedssharpercomparison,lateBphaserequiresstrongeroldscore. Cannotapplywithouttwo-phasestrength.",
+    "l/lem:tree-simulation": "UNCONDITIONEDsurrogatechronologicalkernel approximatesgenuinetraceswithfailedlayoutoDelta+leafcount*olderror. ReportfixedrelativeIDs,nohiddenabsoluteboundaries;proveprojectionBEFOREclipping.",
+    "l/lem:tree-score": "Fixexacttypicalmetadataexcludingoldleafpayload;averageoverremaininghiddenbitsINCLUDINGfailedlayouts. Oddchosen-termrecursion forces2^bleaves unlesssingletonsignedsmoothing applies;jointshared/localanchorsgivegain. Nofalseindependenttotaloffsets.",
+    "l/lem:restoration": "Commonpaddingtoeverylargeexactn andadditionaldeletionkernelrestoreq;TVm <=sqrt(m n^-dD)+2mn(D+1)Delta. AuxiliaryscorealoneisnotgenuinetraceTV.",
+    "a/unlabelled-main": "Knownlength andretention,iidordinarydeletion;binary/generalexactobservedsymbols sampleboundexp(O(B)) andlowdeletepolysamples. Pairwisecomparison/unionoverallcandidates ONLY;not polynomial/quasipolynomial decoding time ormatchingoptimality."
+  },
+  "method_contracts": [
+    {
+      "key": "DELETION-OBSERVATION",
+      "title": "完整独立删除观测",
+      "input": "Known originaln,knownretentionp;onefixedbinaryword;independentpositionsandtraces",
+      "output": "Complete ordered survivingbits andlength;nooriginalpositions",
+      "cannot_transfer": "No insertions,substitutions,correlateddropout,mixedsources,unknownlength/channel,orautomaticDNA4letterruntimeextension."
+    },
+    {
+      "key": "UNIFORM-DECODER",
+      "title": "统一二进制解码与位成本",
+      "input": "n>=2,rationalp=a/b,encodingL;externalordinarytracestream",
+      "output": "Per-string success>=2/3 withM=ceil exp(CB),worst-stream bitcost(n+L+M)^c",
+      "cannot_transfer": "Absoluteconstantsunspecified;notpracticalruntime orsampleadmission;onlybinaryalgorithm."
+    },
+    {
+      "key": "NONLOCAL-MOMENTS",
+      "title": "非局部秩乘积统计",
+      "input": "EveryranksubsetI size<=D;shorttraceobservablezero",
+      "output": "EmpiricalT_I andexplicitrationalinputtuplecoefficients",
+      "cannot_transfer": "Fewrankpositionsneednotconsecutive;localSQlowerboundsnotautomaticallyapplicable."
+    },
+    {
+      "key": "PSD-PREFIX",
+      "title": "错误前缀的正矩泛函分离",
+      "input": "Order2D BooleanmomentarrayPSD,firstwrongbitprefix,D>=D*",
+      "output": "A rank-moment gap>exp(-Csep B)",
+      "cannot_transfer": "Pseudo-momentsnotnecessarilyrealizablelaw;pairwiseseparationaloneinsufficientforfeasibilitydecoder."
+    },
+    {
+      "key": "RESOURCE-SCALE",
+      "title": "极大固定阶数与完整资源闸门",
+      "input": "D*=4^(ceil(log2Y)+H),.001J*>=3,H=J*+3;KD,Kmsufficientlylarge",
+      "output": "Enumerations<= (n+1)^(2D),momentmatrixG=sumC(r,j),l=sumC(r,j)to2D",
+      "cannot_transfer": "H>=3003 andDfixedfactor>=4^3003;truncatingDton orsmallerforresourceschangesprotocol. No feasiblematrixallocated."
+    },
+    {
+      "key": "SLACK-FEASIBILITY",
+      "title": "带余量的有界有理可行性",
+      "input": "Rationalaffinecoeffl1<=1,zeta dyadic,BooleanPSDmomentmatrix",
+      "output": "Validvectororboundedfailure;successifPSD/affineslackexists",
+      "cannot_transfer": "NotgeneralexactSDPdecider. lambda=zeta/(16G),capceil10(1+l)/lambda²,clip+dyadicrounding;bitlengthcharged."
+    },
+    {
+      "key": "PREFIX-STRICT-SLACK",
+      "title": "正确前缀混合与统一良好事件",
+      "input": "AllN empiricalrankmomentsgoodzeta/8,T=512(1+N)zeta^-2",
+      "output": "UniformsignmixgivesPSDfloorzeta/8;bothbitstest,default0ifambiguous",
+      "cannot_transfer": "Atmost2n tests;no successclaimonbadstream;onegood-eventcontrolsdata-dependentprefixes."
+    },
+    {
+      "key": "GRAM-CHAIN",
+      "title": "正半定内积链",
+      "input": "Norms/adjacentinnerproducts near1,complexHilbertvectors",
+      "output": "Endpointdeviation<=2J²xi",
+      "cannot_transfer": "NotarbitrarynonPSDarrays orfrequencysamplingalgorithm."
+    },
+    {
+      "key": "CAUCHY-MATCHING",
+      "title": "柯西差频配对",
+      "input": "Prescribeddifferencer andCauchyweight",
+      "output": "Jointmeasurewithdominatedmarginalsandexplicitmass",
+      "cannot_transfer": "Analyticexistencecanselectwitnessforproof;doesnotprovideefficientdecoderwitnesssearch."
+    },
+    {
+      "key": "EDGE-GAP-CHARGE",
+      "title": "交织路径的不同边计费",
+      "input": "Connectedmultigraphonorderedmergedpositions",
+      "output": "Distinctcrossingedgepergap;dampingheightchargedonce",
+      "cannot_transfer": "TiesmergeBooleanvariables;fullweakorderingneeded,notdisjointtuplesonly."
+    },
+    {
+      "key": "SIMULTANEOUS-STRIP",
+      "title": "同步Cayley条带迁移",
+      "input": "AllgapcoordinatesquantitativeCayleymarginandcoefficientheight",
+      "output": "Onecomplexvariabletransfersinputsignal totracepolydisk",
+      "cannot_transfer": "Do notpayoromitper-coordinatelossarbitrarily;stripwidthcostO(Y^.001/p)included."
+    },
+    {
+      "key": "ANCHOR-SAMPLE-ONLY",
+      "title": "最近锚点与紧谱掩膜",
+      "input": "Pairknowncandidates,exactadjacencies/looseedges/complexlevelmasks",
+      "output": "Quasipolysamplepairtests andexhaustivecandidateidentification",
+      "cannot_transfer": "a0=e^-10^16/(10^14L0),B_j=10^100ell*8^j(b+1)^3;sample-only,notefficientsearch."
+    },
+    {
+      "key": "GENERAL-SYMBOLS",
+      "title": "一般符号的样本扩展",
+      "input": "Exactretainedsymbols,preliminaryobservedsetS<=n;freshtraces",
+      "output": "Pairwisesymbolindicatorreductions overS^n withsameasymptotic samples",
+      "cannot_transfer": "Notuniformrationalbinarydecoder runtimeextension;no substitutionerrorsorunknownsymbolaliases."
+    },
+    {
+      "key": "PAIRED-COMMON-MASS",
+      "title": "成对共同质量隐藏方向",
+      "input": "Twoadjacentwordpowertrace laws shareomegaU",
+      "output": "Jointcommoncomponentomega² UxU keepsorientationfairgivenreportedsideoutputs",
+      "cannot_transfer": "Hiddenflagsfreshpertrace;revealedresidualjointlawmustrestorecorrectproductmarginal."
+    },
+    {
+      "key": "AUXILIARY-CLIPPING",
+      "title": "共同事件裁剪与投影误差",
+      "input": "Normalizedconditionaldensities/commonmetadataandmomentmargins",
+      "output": "Auxiliarydomination score pluschargedTVloss",
+      "cannot_transfer": "Distinctgenuinewordlawshaveexclusivefulltraces,soauxiliarydominationnotgenuinefullsupportdomination."
+    },
+    {
+      "key": "PTM-SMOOTHING",
+      "title": "符号有限差分平滑",
+      "input": "PTMsigns andhiddenbinomialoffsetwithenoughtrials",
+      "output": "High-orderconvolutioncancellation withchannel/ordercost",
+      "cannot_transfer": "Signedcoefficientsnotprobabilityweights;seed2^300andlater2^s*costsnotsmallbenchmarks."
+    },
+    {
+      "key": "SHARED-ANCHOR",
+      "title": "共同位移与局部位移联合界",
+      "input": "FixedtypicalD0,distinctcentralsiblings,sharedglobal+independentlocalbits",
+      "output": "Jointanchorl1/l∞ norms andrecursiveforcedsubtreesum",
+      "cannot_transfer": "Totaloffsetscorrelated;nofitconditioningorcoincidentsiblingbound."
+    },
+    {
+      "key": "FORCED-SUBTREE",
+      "title": "奇项二叉子树与高阶分数",
+      "input": "Complementaryroottypes,chosen-termparity,twophasedscorestrength",
+      "output": "Singletonsmoothingorforced2^bscorefactors,scoregain(b-1)/4-.05",
+      "cannot_transfer": "Oddisroleofchosentermnotintrinsicnode. r*=2^(10B+40) anduniformasymptoticmarginrequired."
+    },
+    {
+      "key": "RESTORE-PAD",
+      "title": "恢复真实迹及精确长度",
+      "input": "Auxiliarycommonkernel,score+accumulatederrors,commonpadding",
+      "output": "Alllargenlengths andproductTVbound",
+      "cannot_transfer": "Everymaskindependent;delta=min(q,1/2)fixedwithininstance thencommonpostdelete,notrechoosechannelperscale."
+    },
+    {
+      "key": "ALL-SUCCESS-GADGETS",
+      "title": "任意固定成功率的多部件测试",
+      "input": "Fixeds>0,chooseconstantg;independenthardbinarygadgets",
+      "output": "Posteriorfactorization instrongerboundary-separatedexperiment givesjointsuccessobstruction",
+      "cannot_transfer": "Two-pointguessboundalonedoesnotcover success<=1/2;thisisdistinctmany-hypothesisargument."
+    },
+    {
+      "key": "LOWER-REGIME",
+      "title": "最坏情形样本下界范围",
+      "input": "q³logn->infty,knownq,arbitraryfixedbinaryinput,unrestrictedcomputation",
+      "output": "EventuallyT>=n^(c log(q³logn)),c<1/(4log2)",
+      "cannot_transfer": "Notaverageinput,encodedstrings,finiteusablethreshold,lowdeletionq<=n^-epsilon,orallindividualpairs."
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "真实二元事件流与删除语义前提",
+      "input": "ActualrepeatedobservationsofSAMEbinaryeventstream,knownn/rationalp,iidpuredeletion",
+      "output": "Certifiedeligibleconsumerbatch andexactreconstructionjudge",
+      "cannot_transfer": "prerequisite_status=unestablished;noactualconsumer/tracesselected."
+    },
+    {
+      "key": "BUDGET-BASELINE-GATE",
+      "title": "有限参数与强旧方法前提",
+      "input": "Executableconstants,fullmomentdataadmission,strongolddecoderandtotalcost",
+      "output": "Frozenmatchedresourceprotocolbeforeoutputs",
+      "cannot_transfer": "prerequisite_status=unestablished;noSDP/benchmarkallocated;oldlowdeletealgorithm/ML/structuredinputbaselinemayalreadybesufficient."
+    }
+  ],
+  "remaining": [
+    "Completeoriginalandrecursivehistoricalbodiesunread exceptfourselectedscopes.",
+    "31file2234declarationindexnotfullproofread/build;nohumanmathspec/secondprovider.",
+    "Noactualeventstreamconsumer,executablelargeconstants,resource-admittedbatch,strongbaselineorapplicationrun."
+  ],
+  "formal_status": "Actuallower-boundMain+Model/Comparatorconfig/docsselectedspecsread;3challengeplaceholdersnotproofsourcefailures;31file2234declindexno lexicalplaceholder/axiom,notbuild. Only2lowerclaimsselectedB;uniform/anchornaturalC;allfullchainsunknown."
+}

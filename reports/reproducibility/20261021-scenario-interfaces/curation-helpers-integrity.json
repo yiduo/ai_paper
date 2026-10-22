@@ -1,0 +1,27 @@
+{
+  "recorded_at": "2026-10-20T23:35:42.124465+00:00",
+  "gzip_bytes": 12044,
+  "gzip_sha256": "4764701834ff3ce14149990a8838e8ef1ea959bc844c5c714a05a3efba9cc2f9",
+  "payload_sha256": "3d5dcdffbcd955eb7273dff8c90aa8ac3813eb9b2224379ba3885db88b1269ec",
+  "members": [
+    {
+      "name": "curate_f089_interfaces.py",
+      "bytes": 15955,
+      "sha256": "c1f26f039da0c5faa89e9e02328180333e92ef381bbc571b111204f4489bbb5f"
+    },
+    {
+      "name": "quality_f089_interfaces.py",
+      "bytes": 2909,
+      "sha256": "7d8e1dcad3c70678cdcfc82345dd6305ce1058a0634b316eb599aa0e55c97ed8"
+    },
+    {
+      "name": "finish_f089_interfaces.py",
+      "bytes": 11079,
+      "sha256": "abd36953ab02b010ebfb9d135e006a965f0adba72340c3c22a60e7d364a2e59b"
+    }
+  ],
+  "roundtrip": true,
+  "temporary_plaintext_removed": true,
+  "total_temporary_bytes_removed": 29943,
+  "purpose": "Evidence helpers;do not blindly rerun canonical curators or cleanup."
+}

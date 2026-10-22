@@ -1,0 +1,34 @@
+{
+  "recorded_at": "2026-10-20T15:11:43.837073+00:00",
+  "core_exit_code": 1,
+  "tests_run": 34,
+  "failure": "Duplicate or dangling graph edge",
+  "duplicates": [
+    {
+      "id": "E-E5BA685276A9A3F1",
+      "source": "LIT-325-6FEAC7A724",
+      "relation": "cites",
+      "target": "SOURCE-5F2FC0C3696CC034",
+      "version": 1,
+      "evidence_status": "source_content_checked",
+      "source_locator": "Original arXivmath/0501184v1,2005-01-12;Theorem5.2/Corollary5.3,printedpp18-19",
+      "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "created_at": "upstream-commit:1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "derivation": "foreign-key projection from canonical corpus tables; no mathematical inference"
+    },
+    {
+      "id": "E-E5BA685276A9A3F1",
+      "source": "LIT-325-6FEAC7A724",
+      "relation": "cites",
+      "target": "SOURCE-5F2FC0C3696CC034",
+      "version": 1,
+      "evidence_status": "source_content_checked",
+      "source_locator": "Original v1,Section5.1 Theorem5.1,printedpp17-18:complete disk constant2 and similarity;selected statement and argument checked",
+      "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "created_at": "upstream-commit:1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+      "derivation": "foreign-key projection from canonical corpus tables; no mathematical inference"
+    }
+  ],
+  "dangling": [],
+  "reason": "One literature node appended a second source scope at the same URL;derived cites relation ID is identical. Merge locators into its existing citation;retain version1 archive. No numerical results or thresholds changed."
+}

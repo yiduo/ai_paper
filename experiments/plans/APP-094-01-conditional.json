@@ -1,0 +1,25 @@
+{
+  "id": "APP-094-01",
+  "title": "带置信下限的成对偏好聚合噪声证书",
+  "analogy": "far",
+  "input": "Hypothetical complete pairwise score-difference table, positive scales delta and positive confidence lambda summing1. Declared additive latent-score truth plus bounded normalized observation noise; no actual annotation data yet.",
+  "output": "Gradient-consistent normalized difference estimates and independently checked worst-case l_inf noise amplification maxrow|P|, while retaining sigma>=lambda/2.",
+  "hypothesis": "On a separately frozen eligible finite synthetic confidence/scale workload, a source-inspired certificate-seeking reweighting may reduce exact worst-noise amplification at least10% against the strongest eligible classical raw-lambda WLS, half-uniform mixtures, row balancing and direct minimax retraction baseline, with all search time and memory counted.",
+  "judge": "Before output freeze instances, algorithms, exact/rational Laplacian or KKT independent oracle, P A=A/range/idempotence, sigma floor and row-sum error bounds. Adversarial sign noise attains each row sum. Hold latent-truth model fixed; report failure to find certificate separately from nonexistence.",
+  "baseline": "Old weighted least squares, lambda/uniform mixtures, generic row balancing and constrained direct minimax l_inf retractions on the SAME feasible class. GGNS/SRS localization are old; iterative Phi convergence not assumed.",
+  "limits": "No proved convergence, implemented reweighting, actual data, application run or new formal guarantee for this sigma claim. Formal controlled_retraction is a different witness. Cyclic human preferences, biased annotators and incomplete pairs are outside declared model; certified consistency is not semantic truth.",
+  "revisit": "Bounded actual old preference/least-squares and reweighting interfaces first; if old minimax already supplies full target cheaply, retain no incremental gain. Then independently freeze finite component hypothesis, not whole embedding runtime.",
+  "source_labels": [
+    "lem:projection",
+    "lem:localization"
+  ],
+  "part_keys": [
+    "FIXED-POINT-WEIGHTS",
+    "SCALED-GRADIENT",
+    "SYMMETRIC-LOCALIZATION"
+  ],
+  "dedup_key": "F-094|complete scaled pairwise preference differences|certified bounded-noise reweighting",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-050"
+}

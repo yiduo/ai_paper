@@ -1,0 +1,151 @@
+{
+  "recorded_at": "2026-10-21T06:17:18.281310+00:00",
+  "helper_gzip_bytes": 81664,
+  "helper_uncompressed_bytes": 525223,
+  "helper_member_count": 26,
+  "files": [
+    {
+      "name": "archive-integrity.log",
+      "bytes": 110,
+      "sha256": "7c07426d1b28a44da10d371429a396d63e213e84b4a16641a338f3dd107826cd"
+    },
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1354,
+      "sha256": "d2adc936d27716ecbd773ead51409413bbd64a72adfccc6f4ebd13f8723af39c"
+    },
+    {
+      "name": "core-before-card-fix.log",
+      "bytes": 10644,
+      "sha256": "8cd09c86a599f033eedb0b8b6afbafbafc17a15d02923d5d391e15823dccb6db"
+    },
+    {
+      "name": "core-before-format-fix.log",
+      "bytes": 10681,
+      "sha256": "c58442bf093114d143d0fa0a01d3f9d1ccb6c50b6353f3161f0a6945958b9bbf"
+    },
+    {
+      "name": "core.log",
+      "bytes": 10244,
+      "sha256": "96163370b9925e164aef9b549ad27d049f882c61218de624605a8b350cb21d76"
+    },
+    {
+      "name": "curate.log",
+      "bytes": 116,
+      "sha256": "07b6091092368bb776d2ace24e45b17965ecc6973c9fa5e6b1ac605e8e1a166e"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 37218,
+      "sha256": "fa53492872f0d5e03b3e007b43c001582c0a51fdd6435090851cecd3d674d55c"
+    },
+    {
+      "name": "export-before-format-fix.log",
+      "bytes": 542,
+      "sha256": "5f7e2f1e0b82dff792ffb9995fb66ac4684f4938fc962e923bd81ce502d4033d"
+    },
+    {
+      "name": "export.log",
+      "bytes": 542,
+      "sha256": "8a0c8f960399b395b6d5784e9b8f3d21b4a59ec1702b7932c75146d0cc9a6757"
+    },
+    {
+      "name": "finish.py",
+      "bytes": 14942,
+      "sha256": "bbb9248c25f67caffb01a0a4f6489377a5b44160d2cd96488853e440684780be"
+    },
+    {
+      "name": "fix-card-format.py",
+      "bytes": 3781,
+      "sha256": "c4af95d174aa4693d9f89e6f1bb6173d7fc66d6212709c5b1ed7e3ed00573bf1"
+    },
+    {
+      "name": "fix-comparison-format.py",
+      "bytes": 5313,
+      "sha256": "9e02a889a946b70e25e2b602cd858b4d3d699b9cfa9ef81507151d6468da1c04"
+    },
+    {
+      "name": "forest-index-before-import-fix.json",
+      "bytes": 339325,
+      "sha256": "f80619f96cdd4efcbbabe9aeb91750d4291d5c9c095d4e059c6397015b39d086"
+    },
+    {
+      "name": "formal-forest-index-fixed.log",
+      "bytes": 348,
+      "sha256": "322d11f7c79a68897996537f7e0631a0466e1e828771ba3fe30ec08d5563f761"
+    },
+    {
+      "name": "formal-forest-index.log",
+      "bytes": 359,
+      "sha256": "f3303b4539988aed576a01af4b2217b4186a0f90925d8539f9c472d68bfc986a"
+    },
+    {
+      "name": "formal-sr-index-fixed.log",
+      "bytes": 220,
+      "sha256": "a6ab5c4cc4dadeb48210a5b198e4fd9fa6f647f5dde2520beb7e5d7bceb905d4"
+    },
+    {
+      "name": "formal-sr-index.log",
+      "bytes": 220,
+      "sha256": "5ff440c219b88d58472490a7150c48ddfd62edd6a02820fa0607c4f9dc43ec2c"
+    },
+    {
+      "name": "index-lean-before-import-modifier-fix.py",
+      "bytes": 4381,
+      "sha256": "cfa33631ebcd3ba2b6925ade0d0bde9a873fbe9b07d6a1ba81376e252333e523"
+    },
+    {
+      "name": "index-tests.log",
+      "bytes": 374,
+      "sha256": "07eefc733e05434f8734277bcae6970a8994ba26a93760b73917598dbb02102c"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 2360,
+      "sha256": "f438e13d03a735308e38012a17abf014a41ce571be5af463d1b916547eba1de0"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 6637,
+      "sha256": "8ad43dd5f764ded311fe6f9bc16f6aba8880d6487a0571a76915e52732ee0213"
+    },
+    {
+      "name": "progress.json",
+      "bytes": 10716,
+      "sha256": "a7c54e85ad5535cbc4f5e4120a8ce0f2a17bf2fd64013417bc74daafa2cf5c8b"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "ff4fa5ce2523481e781cc9020379e58d02ad1afcc335c45a174c0ad33ae18870"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 2998,
+      "sha256": "b439e71000b4054096e41d110a68708d5201a0b1721d7f472a98970187a3025b"
+    },
+    {
+      "name": "read-index.py",
+      "bytes": 4313,
+      "sha256": "85ee9f6d64e382c14e5ce812c7e5f9141b440cdb5574fc1c7f2e895af9efb3cd"
+    },
+    {
+      "name": "source-index.json",
+      "bytes": 13172,
+      "sha256": "d3874449f21fb26df083dc308896bf3a506c71775919c3e9edd7898b05b071d1"
+    }
+  ],
+  "all_helper_member_roundtrips_and_hashes_verified": true,
+  "formal_index_gzip_bytes": {
+    "forest": 41175,
+    "SR_DPP": 17928
+  },
+  "temporary_bytes_removed": 480993,
+  "new_application_run": false,
+  "no_new_numerical_payload": true,
+  "all14_run_archives_verified": true,
+  "external_fulltext_or_whole_upstream_copy_created": false,
+  "dependencies_installed": false,
+  "cleanup": "All own UTF8 temporary helpers/logs/progress/priorindexandcode archived exactly and verified before unlink. Two original canonical formatting versions/history and earlier parser output/failure logs retained. Staticsource indices compressed. No numericalexperiment rerun or externalfulltextmirror.",
+  "temporary_directory_removed": true
+}

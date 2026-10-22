@@ -1,0 +1,83 @@
+{
+  "recorded_at": "2026-10-21T06:13:57.489110+00:00",
+  "full_nodes": 5710,
+  "full_edges": 14533,
+  "canonical_citations": 5395,
+  "local_source_hashes_verified": 5085,
+  "unhashed_external_URL_observations": 310,
+  "old_canonical_byte_unchanged": 3304,
+  "new_canonical_records": 61,
+  "old_explicit_edges_byte_unchanged": true,
+  "new_explicit_edges": 123,
+  "exact_initial_new_records_preserved": 3,
+  "old_coverage_bytes_preserved": true,
+  "natural_named_results": 14,
+  "source_contracts": 18,
+  "extra_application_gates": 2,
+  "selected_source_B": 5,
+  "remaining_natural_C": 9,
+  "actual_registered_formal_endpoints": 7,
+  "static_index_files": 331,
+  "static_index_declarations": 2724,
+  "index_not_build_or_full_proof": true,
+  "impact_cases": [
+    {
+      "seed": "PART-231-FINITE-QUERY-ORACLE-GATE",
+      "app_and_problem_require_review": true,
+      "source_not_reverse_affected": true
+    },
+    {
+      "seed": "PART-231-QUERY-CONSUMER-GATE",
+      "app_and_problem_require_review": true,
+      "source_not_reverse_affected": true
+    },
+    {
+      "seed": "CLM-231-LEM-SR-RESPONSE",
+      "SR_DPP_affected": true,
+      "FUSF_not_affected": true
+    },
+    {
+      "seed": "CLM-231-LEM-TREE-RESPONSE",
+      "FUSF_query_affected": true,
+      "SR_branch_not_affected": true
+    },
+    {
+      "seed": "CLM-231-LEM-INNOVATION",
+      "joint_law_branches_affected": true,
+      "finite_response_not_affected": true
+    }
+  ],
+  "all_current_source_hashes_verified": true,
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "all14archives_verified": true,
+  "new_candidate": "APP-231-01",
+  "new_application_run": false,
+  "new_initial_check": false,
+  "metrics": {
+    "nodes": 5710,
+    "research_nodes": 3361,
+    "edges": 14533,
+    "citations_checked": 5385,
+    "candidate_connections": 39,
+    "externally_checked_cards": 12,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 12,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 46,
+    "source_decomposition_drafts": 40,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  },
+  "own_failures": "Initialwrongallmoduleandtwo owncanonicalrecordformatfailures preserved;fixedwithofficialsyntax/tests/exactversions,never sourceprooffailureorgradepromotion."
+}

@@ -1,0 +1,534 @@
+{
+  "family_id": "F-049",
+  "work_package": "WP-069",
+  "generation_id": "GEN-20261021-065",
+  "recorded_at": "2026-10-21T02:29:05.146153+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/main.tex": {
+      "sha256": "d6916e604fb93f0258b1831dc144c245ce76b6641c18ba1b0de349d5944c3f07",
+      "total_lines": 51,
+      "read_ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/sections/01-introduction.tex": {
+      "sha256": "18f064a0ac5200eae26ed5aec3d65981fc13956b83108115646efc4d153ec67d",
+      "total_lines": 50,
+      "read_ranges": [
+        [
+          1,
+          50
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/sections/02-construction.tex": {
+      "sha256": "8882699fbc553ef2194503b2c13bd633a737f0afac8499afb1b00945bc617fbf",
+      "total_lines": 200,
+      "read_ranges": [
+        [
+          1,
+          200
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/sections/03-filtration.tex": {
+      "sha256": "89d6dac1deb5cb3c118e38a7e7d2da96725f7a65676e4bc92408e6c31711cf89",
+      "total_lines": 276,
+      "read_ranges": [
+        [
+          1,
+          276
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/sections/04-bundle.tex": {
+      "sha256": "332df2ac44774e20ab0c4b4d988c1274c7579b9ae0f4d1112199b4f50b217414",
+      "total_lines": 233,
+      "read_ranges": [
+        [
+          1,
+          233
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/sections/05-rigidity.tex": {
+      "sha256": "a27d1e5381626ace7c75640598312beb6a44b8f8f5bc183f5b7f2f114c444819",
+      "total_lines": 125,
+      "read_ranges": [
+        [
+          1,
+          125
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-explicit-noncoordinate-polynomial-with-affine-three-space-zero-fibre-September-24-2026/build/paper.tex": {
+      "sha256": "60993c0b524291b7f707e42eec89ec7e910c22760d81f1d3af007c229228c13c",
+      "total_lines": 465,
+      "read_ranges": [
+        [
+          1,
+          465
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 7,
+  "source_tex_lines": 1400,
+  "additional_bibliography": {
+    "path": "math/preprints/A-stable-coordinate-that-is-not-a-coordinate-in-four-variables-October-5-2026/build/source/refs.bib",
+    "sha256": "6fd2f565f8be7bcacce86264367f076210f4772ac8138b76236112af8433fd03",
+    "lines": 129,
+    "read_ranges": [
+      [
+        1,
+        129
+      ]
+    ]
+  },
+  "formal_selected": {
+    "math/lean/docs/049.md": {
+      "sha256": "8435f8f960425976c5f2060bb9a528216c3ed3c8e67c4f3b3944270d95661861",
+      "total_lines": 22,
+      "read_ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/StableCoordinateFour.json": {
+      "sha256": "bcbeb10eb23938131e989ae41926998752b66660a24659b04dc4a0f8ded11cfd",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/AbhyankarSathaye.json": {
+      "sha256": "c7e954153e064582ebcbaf85deacc29f933dca1c7188e90a6a78eb17b929148f",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/StableCoordinateFour.lean": {
+      "sha256": "6fe7a164a37c2296e98fc3854dab48dfcd10af35001eb7ac488fb6c4f523f325",
+      "total_lines": 54,
+      "read_ranges": [
+        [
+          1,
+          54
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/AbhyankarSathaye.lean": {
+      "sha256": "a7db47dbd441d730d082f3cae61a2d7f22fd37aae46429dc269b290f262504c6",
+      "total_lines": 21,
+      "read_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/StableCoordinate/All.lean": {
+      "sha256": "c4155fa241583fc924be57e6f8548bf4c2aeb4ef5357d133b532a2429c021056",
+      "total_lines": 38,
+      "read_ranges": [
+        [
+          1,
+          38
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/StableCoordinate/Definitions.lean": {
+      "sha256": "162b628b3c2fa9dca6bfebf1e57dcff51914d83a946d8da7704343e524593a37",
+      "total_lines": 75,
+      "read_ranges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/StableCoordinate/Principal.lean": {
+      "sha256": "cef6b29398785cf010f771dff88e86a9c8a2d1898ae227b5779895af75bf8c0b",
+      "total_lines": 80,
+      "read_ranges": [
+        [
+          1,
+          80
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/StableCoordinate/AffineGeometry.lean": {
+      "sha256": "7412e9da297eb0802461328d195c09c9d500e5e4b5c5bd10ac68bf7aece461d0",
+      "total_lines": 205,
+      "read_ranges": [
+        [
+          1,
+          205
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/StableCoordinate/MatrixChange.lean": {
+      "sha256": "48c0ab0ee2affa5eedf74594b321455e76c3bdde9f388d0f23b56034fd4dd38f",
+      "total_lines": 130,
+      "read_ranges": [
+        [
+          1,
+          130
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/StableCoordinate/NonCoordinate.lean": {
+      "sha256": "fb26d111fb74b31a9578c256a057af1a605458a359800341639c1878538b7846",
+      "total_lines": 32,
+      "read_ranges": [
+        [
+          1,
+          32
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/AbhyankarSathaye/Counterexample.lean": {
+      "sha256": "75c94499e489e26905564aa853cde0875bbab6354d29aff7ebb8bf80899bb04f",
+      "total_lines": 45,
+      "read_ranges": [
+        [
+          1,
+          45
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/AbhyankarSathaye/CriticalPoint.lean": {
+      "sha256": "8482fed2b765a9cdcbb651302ce0f1dd9916a009bd785bca371640b01974e33b",
+      "total_lines": 65,
+      "read_ranges": [
+        [
+          1,
+          65
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/AbhyankarSathaye/Presentation.lean": {
+      "sha256": "0e7b8ed7ab6d7634969b226198f273458b4a7c0b5737a803584f5c17a8e1b6a0",
+      "total_lines": 149,
+      "read_ranges": [
+        [
+          1,
+          149
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/AbhyankarSathaye/Identities.lean": {
+      "sha256": "821185a3f4e290139437d03fac7e77bd07c0c17ebde1bb12557e3a4b17791bb0",
+      "total_lines": 75,
+      "read_ranges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/AlgebraicGeometry/AbhyankarSathaye/Lifting.lean": {
+      "sha256": "1572068ef8754f570b77049940b69f9c6fe4450390f818394c40f5a9af1dd323",
+      "total_lines": 142,
+      "read_ranges": [
+        [
+          1,
+          142
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-049-lean-index.json.gz",
+    "sha256": "0f65542c6f381250eecf5f737c67a2a562b91c71bcd4ab456609ef8053b086f8",
+    "bytes": 24167,
+    "local_files": 124,
+    "declarations": 1394,
+    "placeholder_tokens": 0,
+    "axioms": 0,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "O::ShpilrainYu2002",
+      "url": "https://arxiv.org/pdf/math/0110324v1",
+      "scope": "31Oct2001v1,12pages;rendered41–72(pp2),182–208(pp5–6),Conjecture3/Proposition1.1(c)andproof;selectedonly",
+      "summary": "Stablecoordinateconjectureformulatedseparatelyfromcancellation/embedding. Positivefor2and3complexvariables,usingcurvecancellation/AbhyankarMohandaffinesurfacecancellation/Kaliman. Notproofgeneral4variabledescent;allfibrequotientsandambientautomorphismconditionsdistinguished."
+    },
+    {
+      "key": "O::DuttaLahiri2021",
+      "url": "https://arxiv.org/pdf/1908.03549v1",
+      "scope": "9Aug2019v1,9pages;rendered237–306(pp5–7),Theorem3.2,Lemma3.3proof,Theorem3.4;not2021journalversion",
+      "summary": "Localizedcoordinateovermultiplicativenonzerodivisors admitsRlinearexponentialshiftP->P+aWforascaledcoefficient. Underone-dimensionalaffinebase/algebraicallyclosedfieldandchar0orseminormalreduction, residualcoordinatesareone-stable. Thisoldshiftmachinerydoesnotremoveaddedvariable."
+    },
+    {
+      "key": "S::SY",
+      "url": "https://arxiv.org/pdf/math/0010211v1",
+      "scope": "22Oct2000v1,11pages;rendered137–213(pp4–5),gradientinvariant,Examples1/2andstatedopenProblem;notwholepaperproof",
+      "summary": "Ambientcriticalpointcountfromchainrulealreadydistinguishesembeddings;criticalpointscanlieoutsidechosenhypersurface. Oldproblemaskswhetherthegradientmustbenowherezeroifzerofibreisahyperplane. Oldexamplesnotnecessarilyaffine-spacezerofibres;knowncriterionnotnewF049applicationgain."
+    }
+  ],
+  "result_notes": {
+    "O::thm:main": "Literaldegree5 f=x1-2Q(Q(x2+x4)+x1x4),Q=x2²-x4²+x1x3 overC;noncoordinatein4variables,coordinateafterONEindependentvariable. Stabilizingautomorphismunrestricted,nopreservationoriginal4-variablesubring. NotclaimcancellationofunderlyingA4orSeptexample.",
+    "O::cor:fibers": "EVERYcomplexlambda fibre schemeisomorphicA3 butclosedhypersurfaceembeddingnonrectifiablebyANYambientcomplexpolynomialautomorphism. Fibreidealprime;idealtransportgivesgeneratorsdiffernonzeroscalar. Notsetbijection/isometry/oneglobaltrivializationoverbase.",
+    "O::prop:polynomial": "Fiveindependentp,s,u,F,J; x=s²-u²+pF,H=x²F-(1+2sx)J-pJ²-u. M2x2 rankoneunipotentleftmultiplicationpreservesnegative determinantx andJ,explicitinverse;uprime=u-eTMe,H=-J-uprime,quotientA polynomialfourvariables,distinguishedp becomesliteraldegree5f.",
+    "O::prop:stable": "Localizedcoordinatesx,y,z,u overk[p,p^-1] givexy-z(z+1)=p(H+u). Delta=-pdupreservesoriginalP andDeltaH=p;exp(wDelta)finite/invertible fixes p, sendsHtoH+pw. SL2 substitutionL,Ndet1 andwprime=w+Q0 eliminatelinearL-u+pwprime. Notdeletingwfromarbitrarycoordinateautomorphism.",
+    "O::prop:fibers": "lambda0 usesunimodularL,N andH=L-u+pQ0;lambda!=0 useslocalizedquadricrelation xy-z(z+1)=lambda u andeliminatesu. Twofibrewisechartargumentsnotglobalp-preservingproducttrivialization;noanalyticmetricstructure.",
+    "O::prop:graded": "Integerweights(-1,0,0,1,1),quotientfiltrationEXHAUSTIVE+SEPARATED usingF_-rA subsetp^rA andpnonunitinpolynomialUFD. InitialidealprincipalHstar sincegradedPdomain;Hstarirreducibleafterinvertp andnotdivisiblep =>domainbeforelocalization. Negativeindicesessential.",
+    "O::gr:positive-piece": "B=k[x,y,z,u]/(xy-z(z+1)),tau=initialp weight-1,I=(x-sB²+u²,z-sBx),sB=y-x(x+u²). G=B[tau,I/tau]subsetB[tau,tau^-1],positivepieceG_l=tau^-l I^l forALLintegerl>0. Notpositivefiltrationorordinarypolynomialextension.",
+    "O::prop:coordinate-obstruction": "Hypotheticalcoordinatep withA=k[p,q1,q2,q3] forcespositivefiltrationdegreeq1;D=d/dq2 killsp,q1. Maxshiftongenerators yieldsNONZERO locallynilpotentleadingD0 alsofornegativedegrees. Localizetauinvariant,descendEonB withnonzeroh∈I^l⊂Iinitskernel. Notanyarbitraryderivationorfiniteheuristic.",
+    "O::bun:charts": "C=k[a,d,b,c,u]/(ac-bd-1),x=ab,y=dc,z=db;B injects. Complementzero sectionoflinebundleoverSpecB,chartsD(z+1),D(z),invertiblefibrea,dwithtransitiond=a*y/(z+1),inversefactorx/z. Fibreweights(1,1,-1,-1,0);nottriviallinebundleglobally.",
+    "O::bun:principalization": "IC=(v),v=a³b+a²u²-d². Onainvertchart I=(j),j=x+u²-(d/a)²,twocoefficientsgenerateunitidealexplicitly. Atprimescontaininga,bd=-1 givesg0andvunits. MustcoverALLprimes,notgenericlocalizationonly.",
+    "O::bun:homotopy": "EverylinebundleonA1×Y pulledbackfromzero;twoUFDchartpolynomialextensionslinebundlestrivialandtransitionunitindomainR[T]independentofT. SpecificaffinequadricYconditions,notuniversalPicinvarianceforarbitraryschemes/ringswithnilpotents.",
+    "O::bun:action-lift": "AffinEINTEGRALX withlinebundleA1homotopyproperty:GaactionliftstoANYlinebundlelinearly,fibre-scalingcommuting. Normalizeat0;defectratioR[S,T]*constantindomainandnormalized1 givesgrouplaw. Notautomaticliftunderarbitrarygrouporbasewithoutproperty.",
+    "O::bun:factorial-closure": "Characteristic0DOMAINandLNDdelta:nonzeroproductrsinkernel=>eachfactorinkernel;exp(Tdelta)polynomialdegreesadd. Zero-divisor/positive-characteristic/generalderivationtransfernotclaimed.",
+    "O::prop:lift": "NONZERO LND E onactualBwithnonzeroI∩kerE liftsviaGaactiontoNONZERO fibreweightpreservingLNDonC;ICprincipal+factorialclosureforcesvfixed. Requiresbothlinebundleliftandnonzeroinvariant,nogenericcoefficientliftpromise.",
+    "O::prop:rigidity": "NoNONZERO fibreweight-preservingLNDonCkillingv. Auxiliarydegrees(0,1,-1,0,1) isolatea²u²-d²;highestshiftEprimeLND kills(au-d)(au+d),factorialclosure=>a,d,u fixed. Eprimeb=aq,Eprimec=dq;localizeK=k(a,d,u),LNDK[b]constantcoefficient,intersectioncharts=>q∈k[a,d,u]butfibreweight-2 impossible.",
+    "S::thm:main": "DifferentliteralF=h-p(x,y,s)-1 inC[h,u,v,w],x=u³+hv,y=-u²+hw,s=(x²+y³)/h explicitpolynomial,p=-2s²x+3sy²-3s³y. QuotientF0=A3,criticalpointP=(2,0,-1/2,1/2)onF=-1;notcoordinatebychainrule. NotallfibresA3/one-stableOctpolynomial.",
+    "S::cor:dimension": "SameSeptFwithn-4UNUSEDvariables retainsaffineA^(n-1)zeroquotientANDambientcriticalpoint,soNONcoordinateforEVERYn>=4. Thisextensionisnotstablecoordinateness;actuallycriticalobstructionpersistsafterANYunusedvariables. Threevariablecaseunaddressed.",
+    "S::lem:lift": "ARBITRARYcommutativeunitalB (inclzerodivisors/zeroring),x²+y³=hs and(h,y)=Bwithcertificatealpha*h+beta*y=1. C=B[U,V,W]/(U³+hV-x,-U²+hW-y,S-s) ≅B[T]. G=V+UW;compatiblehW=a,y²W=b solvedwithr=alpha(1+beta*y),q=beta²,rh+qy²=1. U=hT-beta*x,G=yT+alpha*x,Winverseexplicit,V=G-UW;no divisionbyhory."
+  },
+  "method_contracts": [
+    {
+      "key": "TWO-POLYNOMIALS",
+      "title": "两个不同反例与变量扩张",
+      "input": "Source-qualifiedSeptFandOctf,complexbase",
+      "output": "Separatezero-fibrecriticalobstructionandone-stableallfibreobstruction",
+      "cannot_transfer": "Nevercombinecriticalpoint/stablecoordinateclaimsorlabelthemasreplacementversions",
+      "source_labels": [
+        "S::thm:main",
+        "O::thm:main"
+      ]
+    },
+    {
+      "key": "AMBIENT-VS-QUOTIENT",
+      "title": "商代数同构与环境自同构",
+      "input": "Polynomialhypersurfacequotientandcandidateambientautomorphism",
+      "output": "Intrinsicfibrealgebra vsambientcoordinatecertificate",
+      "cannot_transfer": "Quotientisomorphismalonecannotreplaceambientinverse;schemeoverCnotsetbijection",
+      "source_labels": [
+        "O::cor:fibers",
+        "S::thm:main"
+      ]
+    },
+    {
+      "key": "DETERMINANT-CHANGE",
+      "title": "保持行列式的显式变量替换",
+      "input": "Fiveindependentvariables,rankoneunipotentmatrix eTn0",
+      "output": "PolynomialautomorphismwithinverseandHlinearized",
+      "cannot_transfer": "Specificformulas,notgenericdeterminant-preservingmapisinvertible",
+      "source_labels": [
+        "O::prop:polynomial"
+      ]
+    },
+    {
+      "key": "EXPONENTIAL-SHIFT",
+      "title": "局部坐标导子的多项式指数",
+      "input": "DeltaLNDafterlocalizationpreservesP,DeltaH=p",
+      "output": "exp(wDelta)automorphism,Hshiftpw,pfixed",
+      "cannot_transfer": "Oldexponentialshiftroute;char0finitepowersandactualpreservationrequired",
+      "source_labels": [
+        "O::prop:stable"
+      ]
+    },
+    {
+      "key": "STABLE-SCOPE",
+      "title": "增加变量的证书范围",
+      "input": "AutomorphismofR[w]andimagef=x1",
+      "output": "One-stabilityonly",
+      "cannot_transfer": "Nooriginalsubringpreservationorno-workspaceprojectionguarantee",
+      "source_labels": [
+        "O::thm:main",
+        "O::prop:stable"
+      ]
+    },
+    {
+      "key": "FIBRE-PARAMETERS",
+      "title": "零与非零纤维的分别参数化",
+      "input": "lambda0or!=0,matchingeliminationcharts",
+      "output": "IndividualA3fibrealgebrasforalllambda",
+      "cannot_transfer": "Familywisechartformulasdonotproduceoneambientrectification",
+      "source_labels": [
+        "O::prop:fibers"
+      ]
+    },
+    {
+      "key": "NEGATIVE-FILTRATION",
+      "title": "含负指标的可分离滤过",
+      "input": "Weights(-1,0,0,1,1),pnonunitinApolynomialUFD",
+      "output": "Separatedquotientfiltrationandgradedomain",
+      "cannot_transfer": "Noassumptionstandardnonnegativegradedfinitepieces",
+      "source_labels": [
+        "O::prop:graded"
+      ]
+    },
+    {
+      "key": "MODIFICATION-PIECES",
+      "title": "仿射修改的正次数部分",
+      "input": "Bdomain,idealI,tauinvertibleinLaurentambient",
+      "output": "G_l=tau^-l I^l",
+      "cannot_transfer": "ALLpositiveintegerl,notreplaceidealpowerbyIitself",
+      "source_labels": [
+        "O::gr:positive-piece"
+      ]
+    },
+    {
+      "key": "LEADING-LND",
+      "title": "坐标假设导出非零首项导子",
+      "input": "Coordinatep,positiveq1,d/dq2,maxgeneratorshift",
+      "output": "NonzeroLNDofBwithnonzeroinvariantinI",
+      "cannot_transfer": "Needfiltrationseparation/nonzerohighestpart,invariantlocalizationanddomain",
+      "source_labels": [
+        "O::prop:coordinate-obstruction"
+      ]
+    },
+    {
+      "key": "BUNDLE-CHARTS",
+      "title": "两开集与理想主化",
+      "input": "Actualquadric,SL2torusbundle",
+      "output": "IC=(v),fullprimecover",
+      "cannot_transfer": "Genericainvertchartaloneinsufficient;notglobaltrivialbundle",
+      "source_labels": [
+        "O::bun:charts",
+        "O::bun:principalization"
+      ]
+    },
+    {
+      "key": "NORMALIZED-LIFT",
+      "title": "归一化群作用提升",
+      "input": "AffineintegralX,PicA1property,Gaaction",
+      "output": "Weightpreservingliftandgrouplaw",
+      "cannot_transfer": "Unitpolynomialconstantusesdomain;notarbitrarygroup/base",
+      "source_labels": [
+        "O::bun:homotopy",
+        "O::bun:action-lift",
+        "O::prop:lift"
+      ]
+    },
+    {
+      "key": "FACTORIAL-KERNEL",
+      "title": "局部幂零导子核的乘法封闭",
+      "input": "Char0domain,LND,nonzerofactors",
+      "output": "Productinvariantforcesfactorinvariants",
+      "cannot_transfer": "Notcommringwithzerodivisors/generalderivations",
+      "source_labels": [
+        "O::bun:factorial-closure"
+      ]
+    },
+    {
+      "key": "DOUBLE-GRADING",
+      "title": "辅助最高次与负权障碍",
+      "input": "FibreweightpreservingLNDkillingv,auxgrading",
+      "output": "a,d,u fixed,q∈k[a,d,u]andweight-2contradiction",
+      "cannot_transfer": "Specificvfactorization/domain/localization;notblackboxgeneralcoordinatetest",
+      "source_labels": [
+        "O::prop:rigidity"
+      ]
+    },
+    {
+      "key": "DIVISION-FREE-LIFT",
+      "title": "带Bézout证书的无除法消元",
+      "input": "CommRingB,x²+y³=hs,alpha*h+beta*y=1",
+      "output": "ExplicitB[T]equivalenceandtwoinversecomposites",
+      "cannot_transfer": "No h/y inverses;fullcost includesfinding/verifyingBezoutandrelations",
+      "source_labels": [
+        "S::lem:lift"
+      ]
+    },
+    {
+      "key": "ZERO-FIBRE-CERT",
+      "title": "零纤维参数化的两个方向",
+      "input": "SeptB=C[h,x,y,s]/(h-1-p,x²+y³-sh)",
+      "output": "ShiftX=x+s³,Y=y-s² andB≅C[X,Y],thenliftB[T]",
+      "cannot_transfer": "Relationsarequotientidentities;notambient4variablecoordinates",
+      "source_labels": [
+        "S::thm:main",
+        "S::lem:lift"
+      ]
+    },
+    {
+      "key": "AMBIENT-CRITICAL",
+      "title": "全环境临界点旧判据",
+      "input": "X²+Y³=s(1+F),atP X=Y0,s1,F-1",
+      "output": "dF(P)0 blockscoordinatebychainrule",
+      "cannot_transfer": "OldSY2001method;zerofibresmoothdoesnotremovecriticalpointonotherfibre",
+      "source_labels": [
+        "S::thm:main",
+        "S::cor:dimension"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "实际坐标化或消元消费者",
+      "input": "ActualCASworkflowclaimingambientrectificationorcertifiedquotientelimination",
+      "output": "Typedrequestandcertificateclasswithadmissibleinputs",
+      "cannot_transfer": "prerequisite_status=unestablished;noactualCASclaimexamined",
+      "source_labels": [
+        "O::thm:main",
+        "S::lem:lift"
+      ]
+    },
+    {
+      "key": "BASELINE-COST-GATE",
+      "title": "强旧方法与可执行证书预算",
+      "input": "Fixedconsumer,qualifiedoldJacobian/normalforms/unimodularlinearalgebra",
+      "output": "Matchedcorrectness/cost/preregisteredjudge",
+      "cannot_transfer": "prerequisite_status=unestablished;sourceexplicitformulasnotbenchmarkornewQA",
+      "source_labels": [
+        "S::lem:lift",
+        "O::prop:rigidity"
+      ]
+    }
+  ],
+  "notes": [
+    "Bothdifferentliteralpolynomials;Septambientcriticalpointpersistsafterunusedvariables,Octdegree5one-stable/allfibresA3. Notrevisionofsameexample/notinterchangeable.",
+    "Octwholeproofsourceclaims:integernegativefiltration,principalization,linebundlelift,aux/fibregradingrigidity;formalMain/DefinitionsselectedlocalB,notfullproof/build/human.",
+    "SeptliftingactualCommRingBeziercertificateandexplicitinverse inclzerodivisors;criticalobstructionoldchainrule,no knownpointQAfornewinitial.",
+    "Threeprimaryrootsselected only;SY2002lowdimension,DL2019expshift/SY2001gradient. Wrongguessedmath0110232openedtitleanddiscardedasdiscovery;actualSY2002math0110324verified. Noextraoriginalbodyused.",
+    "No localPDFbytes/hash/pixelsclaimed;noCAS/Leaninstall or numericalrun."
+  ],
+  "formal_status": "BothactualregisteredComparatorconfigs/endpoints/Definitionsread:Octdegree5+oneindependentvariable+allfibres/nonrectifiability,SeptliteralcriticalF+alln>=4extension;localB. ActualgeneralCommRingliftingequivalenceselectedB,otherintermediateC;124file1394declindexnotproof/build/human.",
+  "remaining": [
+    "21otherexternalrootbodies/recursivehistoryandinternalF047wholeconstructionunread;threeoriginalselectedscopesnotfullproofaudit.",
+    "124file1394declarationstaticindexnotLean/Comparatorbuild/human;otherproofcontractsremainC/fullchainsunknown.",
+    "NoactualCASconsumer/strongoldfullcosttest;no newcandidate/initial/numericalrun;human/secondproviderdeferred."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false
+}

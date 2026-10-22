@@ -1,0 +1,26 @@
+{
+  "curate_f120_interfaces.py": {
+    "path": "reports/reproducibility/20261021-factor-interfaces/curate_f120_interfaces.py.gz",
+    "gzip_sha256": "a5e2a5a49e0ca940e4790de8d1a4532ecd4864380240ec04b231ea1a0da3690c",
+    "decompressed_sha256": "e74bcc5113aed3a1af68e8b7e75a2f2f04c1468b85ac2f6f33fab8da339296cd",
+    "bytes": 19853
+  },
+  "quality_f120_interfaces.py": {
+    "path": "reports/reproducibility/20261021-factor-interfaces/quality_f120_interfaces.py.gz",
+    "gzip_sha256": "6c52bd034e773b79e7c1e2676da4dc29462dff7e2c0a2d185dcd73ee26366078",
+    "decompressed_sha256": "7ca0e2cb6c71e8e3239d67f060d26cdc75de52559dd72c0d4e9e854f295736fc",
+    "bytes": 2905
+  },
+  "integrity_factor_interfaces.py": {
+    "path": "reports/reproducibility/20261021-factor-interfaces/integrity_factor_interfaces.py.gz",
+    "gzip_sha256": "208818d282e99c00790f2bf29674a4ee585aed84a45012328a17041515091223",
+    "decompressed_sha256": "2596cfbc91a1c728c8620b393e10e02c3d51d66d3fd7b12479e7b5c6bf33850b",
+    "bytes": 4111
+  },
+  "finish_factor_interfaces.py": {
+    "path": "reports/reproducibility/20261021-factor-interfaces/finish_factor_interfaces.py.gz",
+    "gzip_sha256": "0653e38b76a5c484298d3136a65bd7f014690cf3dc0e4ed4bfcb5e9f47889b97",
+    "decompressed_sha256": "5f91fbe54f0af66b89a508f8789293661e09fcf20893bd514922f9bbd2ddb366",
+    "bytes": 11544
+  }
+}

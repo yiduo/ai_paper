@@ -1,0 +1,37 @@
+{
+  "recorded_at": "2026-10-20T14:51:06.733004+00:00",
+  "core_tests": 31,
+  "last_core_exit_code": 0,
+  "validation": {
+    "nodes": 2184,
+    "research_nodes": 755,
+    "edges": 5115,
+    "citations_checked": 1152,
+    "candidate_connections": 12,
+    "externally_checked_cards": 8,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 8,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_export_consistent": true,
+  "graph_files": {
+    "index.html": {
+      "bytes": 4678788,
+      "sha256": "49a512bb25dd5922de0b01d95e55b503dbce18ecf3dc6869de963a5f692f89a5"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 700397,
+      "sha256": "c9080d5163b9dbcbffac65e528def59cbd20fe2e1b03f903b84d36620f1e7aae"
+    },
+    "knowledge.json.gz": {
+      "bytes": 607835,
+      "sha256": "a00efe0d44d5ae7a39a0b60fead3e43efa3ab3544028d6d2da9b5785d9aba2bb"
+    }
+  },
+  "history_gzip_hash_verified": true,
+  "new_experiment": false,
+  "baseline_code_executed": false,
+  "new_Lean_or_remote_CI": false,
+  "curation_correction": "Temporary helper first rejected corpus family ID omitted from its research-only ID set;no canonical mutation occurred;corrected to include corpus IDs then ran full validation."
+}

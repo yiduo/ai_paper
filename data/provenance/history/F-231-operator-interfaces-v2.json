@@ -1,0 +1,355 @@
+{
+  "family_id": "F-231",
+  "work_package": "WP-083",
+  "generation_id": "GEN-20261021-079",
+  "recorded_at": "2026-10-21T07:05:10.206821+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "fed8a31",
+  "primary_works": [
+    {
+      "key": "Lyons2003",
+      "node": "LIT-231-A15DA4F7BA",
+      "url": "https://www.numdam.org/article/PMIHES_2003__98__167_0.pdf",
+      "revision": "Published2003;Numdam PMIHES_2003__98__167_0",
+      "file": "lyons2003.pdf",
+      "doi": "10.1007/s10240-003-0016-0",
+      "scope": "Section1 Eq1.1/uniqueness,printed167-168(PDF1-2);Section7 projection limit printed189-190(PDF23-24);Section8 dilation/finite-cylinder interfaces printed198-200(PDF32-34);author errata29May2014 bothpages",
+      "limits": "Selected existence/uniqueness/cylinder and version interfaces;not whole proof of negative association/tail triviality or full paper. Author homepage2004 revision identified,not downloaded or equated bytewise with2003 publication.",
+      "retrieved_bytes": 699804,
+      "retrieved_sha256": "e84c37bdad09a9337d41266311b9d266d34d6e1fae5bfa81fcdb75e4ac1d9aba",
+      "retained_full_text": false
+    },
+    {
+      "key": "FujisakiKallianpurKunita1972",
+      "node": "LIT-231-54000BDA30",
+      "url": "https://ir.library.osaka-u.ac.jp/repo/ouka/all/5728/ojm09_01_03.pdf",
+      "revision": "Version of Record1972;OsakaJMath9(1)19-40;OUKA5728",
+      "file": "fkk1972.pdf",
+      "doi": "10.18910/5728",
+      "scope": "Section2 assumptions2.1-2.6,Lemmas2.1-2.2/proofs,Remarks2.1-2.2;printed20-23(PDF3-6;one repository cover sheet;printed19 starts onPDF2)",
+      "limits": "Finite N observation/filtering innovation scope,not all later filtering equations,signal SDEs,or countable-dimensional theorem. Three observation-assumption/filtration/lemma pages visually checked.",
+      "retrieved_bytes": 1814554,
+      "retrieved_sha256": "81a27c04a0070c0477d329af790376454fc5f4d6583920eafcbc761f6c1f17ba",
+      "retained_full_text": false
+    },
+    {
+      "key": "BurtonPemantle1993",
+      "node": "LIT-231-35C3BF1814",
+      "url": "https://arxiv.org/html/math/0404048v1",
+      "revision": "arXiv:math/0404048v1;submitted2004-04-02",
+      "file": "bp.html",
+      "scope": "Section1 periodic/regularized graph assumptions,Theorem1.1;Section3 Corollaries3.2-3.4 interface;Section4 Theorems4.1-4.2,Lemma4.3/proof,Corollary4.4,finite-graph discussion;PDFpage16/19 formula pixels",
+      "limits": "Original preprint associated with1993 work by title/authors and bibliography;not byte-compared to1993 journal. Selected unweighted finite/periodic graph statements;arbitrary positive-weight extension not inferred;BP finite paragraph has unresolved normalization inconsistency.",
+      "retrieved_bytes": 1113627,
+      "retrieved_sha256": "fd461478108f7d409e46d4775aec522e6fd16c28c623dc541257dd412aa3ceb1",
+      "retained_full_text": false
+    }
+  ],
+  "associated_author_errata": {
+    "url": "https://rdlyons.pages.iu.edu/errata/bases.pdf",
+    "revision": "Author errata29May2014,two pages",
+    "file": "lyons-errata.pdf",
+    "scope": "Whole2page author correction;printed200 entry corrected to 1_A(e)*delta_e,f+(-1)^1_A(e)*Q_e,f;infinite conditional/NA proof interfaces clarified;BBL removes commutativity in domination",
+    "retrieved_bytes": 59886,
+    "retrieved_sha256": "4f1bf702e0d141d430c19be5d4eb5cf92f0ed841b15d2c396426bb945307d288",
+    "retained_full_text": false
+  },
+  "extra_same_work_format": {
+    "file": "bp.pdf",
+    "url": "https://arxiv.org/pdf/math/0404048v1",
+    "bytes": 412179,
+    "sha256": "5ac77ebeb5a5e81b043c13563717fdf6a203dfbb18a9ee9cd30bbded7bba39a0",
+    "reason": "Resolve HTML normalization ambiguity with PDFpixels;same original work,not fourthwork"
+  },
+  "actual_pixel_checks": [
+    {
+      "temporary_image": "fkk-assumptions.png",
+      "source_file": "fkk1972.pdf",
+      "pdf_page": 3,
+      "printed_page": "20",
+      "scope": "assumptions2.1-2.3,joint measurability and integral E|h|^2",
+      "bytes": 207897,
+      "sha256": "25cd4396cdd4392901ad7869a2731c55775144ef0ac67c5b8fc9cc762a6aecb9",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "fkk-filtration.png",
+      "source_file": "fkk1972.pdf",
+      "pdf_page": 4,
+      "printed_page": "21",
+      "scope": "nonanticipation2.4,observation filtration2.5,measurable posterior version and Lemma2.1",
+      "bytes": 199308,
+      "sha256": "5529768f47b1371dd005f4f56e36aa02d6c2055e9b880962c95ea682ad9858c3",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "fkk-innovation.png",
+      "source_file": "fkk1972.pdf",
+      "pdf_page": 5,
+      "printed_page": "22",
+      "scope": "Lemma2.2 vector Wiener and independence from full observation past",
+      "bytes": 141041,
+      "sha256": "afb0cc217e9a21f72342e08ed901fd72b853fe85300029e6d5157c12641e01ed",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "lyons-dilation.png",
+      "source_file": "lyons2003.pdf",
+      "pdf_page": 32,
+      "printed_page": "198",
+      "scope": "positive contraction definition and block projection dilation",
+      "bytes": 277923,
+      "sha256": "6ac2734d459c262998249184cff6505d1e3b955b8be6972064280cd398a3e3b5",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "lyons-cylinder-original.png",
+      "source_file": "lyons2003.pdf",
+      "pdf_page": 34,
+      "printed_page": "200",
+      "scope": "original last display omits delta in identity-row entry",
+      "bytes": 241250,
+      "sha256": "c015791ff9ae3f162eb0dab617eb2802cc109879b15df74fed5576057ea1fef9",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "lyons-errata-formula.png",
+      "source_file": "lyons-errata.pdf",
+      "pdf_page": 1,
+      "printed_page": "1",
+      "scope": "author correction of printed200 last display",
+      "bytes": 230685,
+      "sha256": "3e1774edf7a902944ebe49bce812ec48fa891ddfc9462f860f31cbc1ad2f3b93",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "bp-transfer-definition.png",
+      "source_file": "bp.pdf",
+      "pdf_page": 16,
+      "printed_page": "15",
+      "scope": "explicit normalized M(i,j)=D^-1*g(e_i,e_j),Theorem4.2",
+      "bytes": 267294,
+      "sha256": "cde07249264e2e3362c327460a83383b4b61e8cdd01b4f6fe8d53ea4f0c79e4d",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "bp-finite-normalization.png",
+      "source_file": "bp.pdf",
+      "pdf_page": 19,
+      "printed_page": "18",
+      "scope": "finite paragraph displays M=raw g difference then asserts loop-regularization invariance",
+      "bytes": 342391,
+      "sha256": "e05ede802c754a68386ee69039f15d44756566a4a3c5d8f99eb4803709e3c476",
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "scope_records": [
+    {
+      "id": "HIST-231-LYONS-PROJECTION-LIMIT",
+      "kind": "construction",
+      "title": "投影行列式分布的可数极限",
+      "work_key": "Lyons2003",
+      "locator": "Section7 opening,Eq7.1;printed189-190/PDF23-24",
+      "contract": {
+        "input": "Closed subspace H of l2(E),E finite or countable",
+        "output": "Projection determinantal probability law from finite-dimensional subspace approximation",
+        "conditions": [
+          "Increasing finite-dimensional subspaces with dense union",
+          "SOT convergence yields convergence of finite principal determinants and weak-star laws"
+        ],
+        "cannot_transfer": "Qualitative measure limit is not finite spatial convergence rate or a finite query algorithm"
+      }
+    },
+    {
+      "id": "HIST-231-LYONS-CONTRACTION-DILATION",
+      "kind": "construction",
+      "title": "正收缩到投影的扩张",
+      "work_key": "Lyons2003",
+      "locator": "Section8 opening;printed198/PDF32",
+      "contract": {
+        "input": "Self-adjoint bounded positive contraction0<=Q<=I on l2(E),finite/countableE",
+        "output": "Projection on two copies with block[Q,sqrt(Q)sqrt(I-Q);sqrt(Q)sqrt(I-Q),I-Q];coordinate restriction gives DPP(Q)",
+        "conditions": [
+          "Positive functional calculus square roots;no trace-class or nonsingularity condition",
+          "Use existing projection law on enlarged countable set"
+        ],
+        "cannot_transfer": "Existence construction does not provide evaluated infinite kernel entries or computational error/runtime bounds"
+      }
+    },
+    {
+      "id": "HIST-231-LYONS-CYLINDER-UNIQUENESS",
+      "kind": "claim",
+      "title": "包含概率确定可数二元分布",
+      "work_key": "Lyons2003",
+      "locator": "Section1 Eq1.1 and following paragraph;printed167-168/PDF1-2",
+      "contract": {
+        "input": "All finite subset inclusion probabilities det Q_A,A",
+        "output": "At most one finite/countable binary law;restriction to J is law of compressed kernel Q_J",
+        "conditions": [
+          "Inclusion-exclusion determines every finite pattern;finite cylinder sets generate the product sigma-algebra"
+        ],
+        "cannot_transfer": "Uniqueness alone is not existence or sampling;finitely many observed marginal checks do not establish all finite-cylinder identities"
+      }
+    },
+    {
+      "id": "HIST-231-LYONS-MIXED-CYLINDER",
+      "kind": "method",
+      "title": "按勘误保留单位矩阵行的混合圆柱公式",
+      "work_key": "Lyons2003",
+      "locator": "Remark8.4 Eq8.3 printed200/PDF34 plus authorerrata29May2014p1",
+      "contract": {
+        "input": "Finite disjoint present/absent sets with evaluated DPP kernel entries",
+        "output": "Mixed cylinder probability via determinant using Q rows for present sites and(I-Q)rows for absent sites",
+        "conditions": [
+          "Corrected row entry 1_A(e)*delta_e,f+(-1)^1_A(e)*Q_e,f for absent-row setA",
+          "Use author correction,not original isolated erroneous entry"
+        ],
+        "cannot_transfer": "No infinite event/conditioning-on-zero-event guarantee;kernel evaluation and numerical certification are additional oracle costs"
+      }
+    },
+    {
+      "id": "HIST-231-FKK-FINITE-INNOVATION",
+      "kind": "claim",
+      "title": "有限维全观测滤过的联合创新",
+      "work_key": "FujisakiKallianpurKunita1972",
+      "locator": "Section2 conditions2.1-2.6,Lemmas2.1-2.2/proofs;printed20-22/PDF3-5",
+      "contract": {
+        "input": "Finite N-vector observation z_t=integral h_s ds+w_t on[0,T]",
+        "output": "v_t=z_t-integral E[h_s|F_s]ds is standard N-vector Wiener;future increment sigma-field independent of observation pastF_s",
+        "conditions": [
+          "w standard N-Wiener;h jointly measurable;integral E|h_t|^2 dt finite",
+          "Nonanticipation:joint signal/noise past independent of future noise increments;complete signal/noise independence not assumed",
+          "F_t is generated by the entire finite-N observation history"
+        ],
+        "cannot_transfer": "Marginal Brownian laws do not imply joint independence;finite subvector observation filtration is generally smaller than all countable observations. No automatic N=infinity or Hilbert l2 signal-energy extension"
+      }
+    },
+    {
+      "id": "HIST-231-FKK-MEASURABLE-POSTERIOR",
+      "kind": "method",
+      "title": "时间积分所需的后验可测版本",
+      "work_key": "FujisakiKallianpurKunita1972",
+      "locator": "Section2 afterEq2.5;Remark2.1;printed21/23(PDF4/6)",
+      "contract": {
+        "input": "Jointly measurable square-integrable finite-vector signal and increasing observation sigma-fields",
+        "output": "Jointly measurable adapted version of conditional mean,defined a.e.time and a.s.",
+        "conditions": [
+          "Use declared measurable modification for ordinary time integration",
+          "Lemma2.2 main square-energy assumption suffices;weaker Remark2.1 conditions separately stated,not silently substituted"
+        ],
+        "cannot_transfer": "Fixed-time a.s.identity does not promise a single exceptional set for all real times or all possible path inputs"
+      }
+    },
+    {
+      "id": "HIST-231-BP-FINITE-TRANSFER",
+      "kind": "claim",
+      "title": "有限无权图的转移阻抗边概率",
+      "work_key": "BurtonPemantle1993",
+      "locator": "Theorem1.1;Section4 finite discussion;PDFpage19 printed18 with normalization caveat",
+      "contract": {
+        "input": "Finite connected unweighted graph,parallel edges allowed;loops may regularize degree and aperiodicity",
+        "output": "Joint edge-inclusion probabilities are determinants of oriented-edge transfer matrix from signed random-walk transits",
+        "conditions": [
+          "Theorem1.1 gives expected signed traversals before hitting opposite endpoint",
+          "Changing an edge orientation flips matching row and column;determinant unchanged",
+          "Retain explicit transition/conductance normalization;isolated finite-paragraph formula is flagged"
+        ],
+        "cannot_transfer": "Arbitrary real positive conductances not established by this selected original alone;F231 cites weighted BLPS and gives own proof. Distributional determinant is not an all-input root-free IID map"
+      }
+    },
+    {
+      "id": "HIST-231-BP-PERIODIC-LIMIT",
+      "kind": "claim",
+      "title": "周期图上的Green函数与自由极限接口",
+      "work_key": "BurtonPemantle1993",
+      "locator": "Section1 graph assumptions;Corollaries3.2-3.4;Theorem4.2/Lemma4.3 proof",
+      "contract": {
+        "input": "Connected locally finite Z^d-periodic graph with finite fundamental domain,regularized by loops",
+        "output": "Uniform essential spanning forest finite marginals from D^-1*Green-difference transfer matrix",
+        "conditions": [
+          "Specified periodic graph class and finite contractions",
+          "Bounded harmonic uniqueness/Harnack and induced-box hitting-probability limits support the proof",
+          "d<=2 uses potential-kernel differences rather than divergent ordinary Green sum"
+        ],
+        "cannot_transfer": "Not arbitrary locally finite graph/free-wired identification or a uniform computable truncation rate;nonlocal Green calculation cannot be omitted from budget"
+      }
+    },
+    {
+      "id": "HIST-231-BP-MIXED-EDGE-EVENTS",
+      "kind": "method",
+      "title": "旧森林混合边事件的行替换",
+      "work_key": "BurtonPemantle1993",
+      "locator": "Corollary4.4 and proof;Section4 afterTheorem4.2",
+      "contract": {
+        "input": "Finite query edges and normalized transfer matrix in admitted graph class",
+        "output": "Present/absent pattern determinant replaces absent rows by(I-M)rows",
+        "conditions": [
+          "Fixed query of the same underlying random forest;correct delta_ij in each identity row"
+        ],
+        "cannot_transfer": "Requires globally correct kernel;does not generate a persistent infinite IID sample or certify joint TV query error at a finite radius"
+      }
+    }
+  ],
+  "BP_normalization_observation": {
+    "classification": "source-version-local normalization consistency observation;not author-confirmed correction or formal rejection",
+    "version": "arXiv:math/0404048v1 PDFpage19 printed18 vsPDFpage16 printed15",
+    "observed": "Section4 defines M=D^-1*g(e_i,e_j). Finite paragraph writes M(e,f)=g^(delta_x-delta_y)(z)-g^(delta_x-delta_y)(w) without1/D,then states adding one loop per vertex leaves M unchanged while also g_new=(1+1/D)*g. Both displays visually checked and HTML agrees.",
+    "inference": "With transition-normalized(I-A)g=u,the raw g difference scales by(D+1)/D under the stated loop addition. The earlier normalized1/D*g is invariant. Finite Theorem1.1 expected-signed-transit convention is an unambiguous independent locator.",
+    "limits": "Journal1993 version and author confirmation not obtained;do not silently fix upstream or mark theorem/familyD. F231 gives its own weighted Laplacian determinant proof and cites BP as historical context;no new-source contradiction inferred.",
+    "implementation_admission": "Carry transition-vs-conductance normalization and identity-row conventions explicitly in any later old oracle/baseline implementation;do not copy the isolated ambiguous finite-paragraph display."
+  },
+  "Lyons_author_correction": {
+    "author_date": "2014-05-29",
+    "actual_original_page": "Printed200/PDF34 last displayed entry omits delta_e,f;correct surrounding prose says corresponding identity matrix row",
+    "corrected_entry": "1_A(e)*delta_e,f + (-1)^1_A(e)*Q_e,f",
+    "proof_scope": "Author also supplies omitted infinite-set conditional/negative-association arguments and clarifies infinite-A conditioning;none treated as formal theorem refutation or project human audit",
+    "scope_not_automatically_checked": "Underlying external functional calculus/measure extension/exterior algebra and full proof closure not audited"
+  },
+  "selected_external_roots_before": 6,
+  "selected_external_roots_after": 9,
+  "total_external_roots": 16,
+  "remaining_original_body_scopes": [
+    "ElAlaouiMontanari2022",
+    "Eldan2013",
+    "Lyons2013",
+    "Pemantle1991",
+    "Eldan2020",
+    "AngelRaySpinka2024",
+    "GhoshLiggettPemantle2017"
+  ],
+  "remaining_gaps": [
+    "7 original background/attribution scopes remain;internalF236body unread",
+    "BBL original earlier stability tools and selected references not recursively audited",
+    "All formal proof bridges/localLean/Comparator/human/second-provider absent",
+    "Application finite kernel oracle/spatial/bit/integration/readout bounds/real workload still absent"
+  ],
+  "full_history_complete": false,
+  "complete_family": false,
+  "human_review": null,
+  "second_provider": null,
+  "new_candidate": false,
+  "new_application_run": false,
+  "numerical_data_generated": false,
+  "reading_method": "pdftotext-layout selected sections plus8 actual rendered PNGpages;BP HTML mathalttext selected range with saved own reader. Temporary originals/images removed after hashes;no full-text mirror.",
+  "ledger_version": 2,
+  "supersedes_ledger": {
+    "path": "data/provenance/history/F-231-operator-interfaces.json",
+    "sha256": "b8c77d9d1cb84d15cd16a476d27fe9bd3bd7bbbf3e5c9d7e36f6b1471e1f13bd",
+    "reason": "Own cover-offset annotation wrong;exact PDF/printed page pairs and mathematical scopes unchanged"
+  },
+  "locator_correction": {
+    "recorded_at": "2026-10-21T07:14:40.359605+00:00",
+    "original_inaccurate_text": "coveroffset3",
+    "correct_mapping": "One repository cover sheet;PDF2=printed19,PDF3=printed20,PDF4=printed21,PDF5=printed22,PDF6=printed23",
+    "evidence": "Original8pixel receipts include actual printed20/21/22 andPDF3/4/5;existing PDFs were already cleaned;no redownload required",
+    "grade_prediction_counts_changed": false
+  }
+}

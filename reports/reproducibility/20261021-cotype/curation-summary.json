@@ -1,0 +1,94 @@
+{
+  "generation_id": "GEN-20261021-080",
+  "old_canonical": 3391,
+  "old_edges": 7350,
+  "new_canonical": 38,
+  "new_edges": 96,
+  "seven_named_results": [
+    {
+      "id": "CLM-332-THM-MAIN",
+      "natural_label": "thm:main",
+      "kind": "theorem",
+      "lines": [
+        88,
+        93
+      ],
+      "statement": "For every finite n,positive integer t,probability pi,row-stochastic A reversible w.r.t.pi,and x_i in real l1,there exist ambient y_i satisfying fidelity+t one-step squared-l1 energy <=3024 times t-step Cesaro squared-l1 endpoint cost. N2(l1)<=12sqrt21.",
+      "conditions": "Dimension/coordinate/time independent;no optimized constant;zero pi_i allowed;not linear cotype,Markov type,pointwise risk or subspace-preserving smoothing."
+    },
+    {
+      "id": "CLM-332-LEM-CUTS",
+      "natural_label": "lem:cuts",
+      "kind": "lemma",
+      "lines": [
+        200,
+        222
+      ],
+      "statement": "Unless all x_i coincide,finite positive weights w_B,binary z_i and affine T reconstruct x_i;pair l1 distance equals weighted binary l1 distance equals Hilbert norm SQUARED;T is weighted-l1 contractive on all real cut coordinates.",
+      "conditions": "At most2^n-2 cut types;ambient b_B vectors retained. Infinite original coordinates not automatically finite computation;T need not stay in span of input."
+    },
+    {
+      "id": "CLM-332-LEM-FLAT",
+      "natural_label": "lem:flat",
+      "kind": "lemma",
+      "lines": [
+        290,
+        298
+      ],
+      "statement": "For u,uprime in weighted cube Q and BINARY e,||Phi(uprime)-Phi(u)||1,w^2<=108*(F_e(uprime)-F_e(u)-4||u-e||H^2*<u-e,uprime-u>H),F_e=||u-e||H^4,Phi(r)=3r^2-2r^3.",
+      "conditions": "Bounded cube and binary center essential;not arbitrary real or simplex map."
+    },
+    {
+      "id": "CLM-332-COR-MARTINGALE",
+      "natural_label": "cor:martingale",
+      "kind": "corollary",
+      "lines": [
+        345,
+        358
+      ],
+      "statement": "Q-valued finite-dimensional H martingale converging a.s.;e is F0-measurable binary. Sum expected squared Phi increments <=108*(E terminal quartic-E initial quartic)<=108 E terminal quartic.",
+      "conditions": "Center may depend on initial state. Bounded convergence for potential and monotone convergence for nonnegative jump series;no generic unbounded martingale assertion."
+    },
+    {
+      "id": "CLM-332-LEM-COMPARISON",
+      "natural_label": "lem:comparison",
+      "kind": "lemma",
+      "lines": [
+        385,
+        396
+      ],
+      "statement": "For any stationary finite Markov chain and metric data,S independent with P(S=s)=p q^s,s>=0,p=1/(t+1),q=t/(t+1),t>=1;E d(XS,X0)^2 <=(28/t)*sum_s=1^t E d(Xs,X0)^2.",
+      "conditions": "Only stationarity;no detailed balance needed. Metric cost comparison,not entrywise matrix domination;mean S=t and zero-step endpoint included."
+    },
+    {
+      "id": "CLM-332-COR-COMPLEX",
+      "natural_label": "cor:complex",
+      "kind": "corollary",
+      "lines": [
+        596,
+        599
+      ],
+      "statement": "Real-linear interleaving Re/Im map has norm distortion at most sqrt2;N2(complex l1)<=12sqrt42,energy square6048.",
+      "conditions": "Pull back real constructor;no direct coordinatewise complex median or same3024 constant claimed."
+    },
+    {
+      "id": "CLM-332-COR-EXTENSION",
+      "natural_label": "cor:extension",
+      "kind": "corollary",
+      "lines": [
+        627,
+        633
+      ],
+      "statement": "There exists universal unspecified finite K:for every real Hilbert H,any subset S and every Lipschitz f:S->real l1,there exists F:H->l1 extending f with LipF<=K Lipf.",
+      "conditions": "Uses MN13Cor1.13 plus Hilbert Markov type2=1,l1=c0* dual and main cotype. No effective extension constructor or explicit K=12sqrt21."
+    }
+  ],
+  "selected_original_roots": 3,
+  "total_roots": 5,
+  "typed_parts": 14,
+  "new_candidate": 1,
+  "new_initial_check": 0,
+  "new_numerical_run": 0,
+  "old_coverage_archive": "data/graph/history/reading-coverage-before-GEN080.json.gz",
+  "old_coverage_sha256": "06bb844bac5397d715a1f54af756af88d50bbd4f7fb149b584ee8c6d4dc9d5ae"
+}

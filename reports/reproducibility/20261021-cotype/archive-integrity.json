@@ -1,0 +1,92 @@
+{
+  "recorded_at": "2026-10-21T07:44:15.786727+00:00",
+  "archives": [
+    {
+      "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 18,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 15,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-076-002-1f8537b7fd40d564",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 22,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+      "outputs_verified": 5,
+      "snapshot_members_verified": 9,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-119-001-e9d098be0b1dda8f",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 24,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-128-001-adf42abc31aca23e",
+      "outputs_verified": 5,
+      "snapshot_members_verified": 9,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-130-001-eadb2e7b3a00d556",
+      "outputs_verified": 5,
+      "snapshot_members_verified": 9,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-200-001-a8300854205212bf",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 18,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-221-001-be34f84b97b2e9a9",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 19,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 16,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-273-001-28f6d541ddfebd6e",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 26,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-314-001-ce8cf18c32275b81",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 20,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 21,
+      "compressed_payloads_verified": 2
+    },
+    {
+      "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+      "outputs_verified": 4,
+      "snapshot_members_verified": 13,
+      "compressed_payloads_verified": 2
+    }
+  ],
+  "total_archives": 14,
+  "plaintext_created": false,
+  "new_application_run": false
+}

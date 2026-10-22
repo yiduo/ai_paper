@@ -1,0 +1,25 @@
+{
+  "id": "MAP-178-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-178-01",
+  "registered_at": "2026-10-20T14:44:57.639581+00:00",
+  "object_mapping": {
+    "input": "Fixed evenn andd>=3,unweighted synchronousaverageconsensus x(t+1)=A x(t)/d",
+    "output": "Fullsimpledregularnonbipartitecommunicationgraphandmeasuredconsensusconvergence",
+    "metric": "Rounds andtotalwalltime torelativeL2residual1e-6,includinggraphconstruction;uniformper-edgecommunicationcost only"
+  },
+  "additional_assumptions": [
+    "Usable finite n0(d),parameter hierarchy and actual full source-constructor implementation must be supplied",
+    "The chosen workload mustfitfixeddegree,unweighted,synchronous,unconstrainedtopology;geometry/bandwidth/faultconstraints are additionalresearch",
+    "Oldbaselineimplementation andseeds/tolerances frozen beforevalidation;do notsubstitutefamiliarRamanujangraphs for the newconstructor"
+  ],
+  "hypothesis": "On a frozen same-order/degree consensus workload, the actual source constructor produces strictly certified graphs and reduces communication rounds by at least10percent versus an older prescribed-order near-Ramanujan builder without increasing total wall time including construction. This is an empirical hypothesis,not a consequence of the new bound.",
+  "baseline": "Alon2021 prescribed admissible order with2sqrt(d-1)+epsilon;seededrandomregularalternative;exactoldspecialdegree/sizeconstructionwhereavailable",
+  "incremental_value": "The source claims removalofepsilon andsimultaneousprescribedorder/simple/nonbipartiteconstraints;whetherthat changes practicaldesignversusoldmethods is unknown.",
+  "judge": "Exact rational graph/spectralcheck plus independent directconsensus simulation andmeasuredfullconstructioncost. Spectralenvelope is not used as a replacementforobservations.",
+  "success": "All structural/spectralcertificatesvalid;allfixedvalidationworkloads assessed;meanrounds improve>=10percent,totalelapsednotworse. Include negative/timeoutresults.",
+  "failure": "Any invalidgraph,missingconstructor,unmetfinite-scaleconditions,exceededdeclaredresourcebudget orabsenceofmeasuredgain. No parameterretuningafteroutputs.",
+  "resource_envelope": "Executionbudget not allocated until actualparameter/implementation/workloadfeasibility established. No giant asymptotic enumeration orGPUdependencies installed bythisplan.",
+  "limits": "No numericalresults,no realworkload,noexperimentrun. Fullmathematical dependencygradeunknown,sourceC,humans/providerabsent."
+}

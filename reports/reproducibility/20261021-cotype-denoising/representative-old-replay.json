@@ -1,0 +1,12 @@
+{
+  "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+  "replay_run_id": "EXP-374-001-bc1d2887fa6a5d33",
+  "deterministic_outputs_match": {
+    "raw.json": true,
+    "summary.json": true
+  },
+  "comparison_scope": "Exact complete JSON payloads; no fields excluded",
+  "replay_resource_envelope_met": null,
+  "runtime": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "isolation": "temporary directory; standard library; no upstream clone or credentials"
+}

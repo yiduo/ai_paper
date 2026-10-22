@@ -1,0 +1,100 @@
+{
+  "recorded_at": "2026-10-20T22:50:32.618373+00:00",
+  "old_canonical_nodes_unchanged": 2151,
+  "old_canonical_nodes_sha256": "e53c0608394a6c79e97c297330279331125c70f702d35ccbfac94b00d83d8a6c",
+  "all_old_nodes_exact_bytes": true,
+  "selected_original_bodies_checked": 6,
+  "whole_natural_read_files": 3,
+  "formal_files_with_scoped_reads": 9,
+  "formal_index_gzip_roundtrip": true,
+  "upstream_commit_unchanged": true,
+  "upstream_worktree_clean": true,
+  "temporary_files": [
+    {
+      "name": "srs.txt",
+      "bytes": 45637,
+      "sha256": "a770d39dd96dece7973dca700ab4682f9617225bf391af4eac16c1507258fb1d"
+    },
+    {
+      "name": "lamperti.txt",
+      "bytes": 24885,
+      "sha256": "de0c6dd76ecf32e9a0f1f440d6b0ee510fc62122ca2abb4cf187cbba82bf5914"
+    },
+    {
+      "name": "naor-ren.txt",
+      "bytes": 85504,
+      "sha256": "5a827347d726f2b815cbd0f8d74ace177219228e737112918abfc282740c5a4d"
+    },
+    {
+      "name": "lamperti-page461.png",
+      "bytes": 284060,
+      "sha256": "80f54a42c4c5b0e6c9702af97a19bbdf2e8021cfb19f679271173d237b367253"
+    },
+    {
+      "name": "eskenazis.txt",
+      "bytes": 60492,
+      "sha256": "817f5dcc89d76a09979876deee9076a89a59c3c27233ea589119eb75c67f2f90"
+    },
+    {
+      "name": "jl1984.txt",
+      "bytes": 58951,
+      "sha256": "b7c6f41a3cd043eade664ae47675d571ae7d9b1049efe27a996fc2d12ba39958"
+    },
+    {
+      "name": "eskenazis-page2.png",
+      "bytes": 422647,
+      "sha256": "8e2a82d6f35592c823db3ecb5e4805d0139f813d962bd80731e2e752cca158ee"
+    },
+    {
+      "name": "eskenazis.pdf",
+      "bytes": 203313,
+      "sha256": "638b34c35ae03bebb0dea2a501d69071468f6165a83c83360e2adbc5609adcf9"
+    },
+    {
+      "name": "jl-page191.png",
+      "bytes": 130826,
+      "sha256": "4f2c6a25925e3b47c743ebca7f467810621fcdf5a3ad9ee1e80c95f05d267ce5"
+    },
+    {
+      "name": "jl1984.pdf",
+      "bytes": 868204,
+      "sha256": "500ee7eb53cfe202b2b9d7bccd2c0bbba7e65a007e1dd640ce31a63e34f847bf"
+    },
+    {
+      "name": "jl-page190.png",
+      "bytes": 174150,
+      "sha256": "68a9acaf776dd268e232e0098e529d22320ca4b2332e901e5cac91a9c9a9f019"
+    },
+    {
+      "name": "srs.pdf",
+      "bytes": 173696,
+      "sha256": "b9ec93d08632275755e3aad74599fc198fa5860d544fe453ecc84df6c3ecf218"
+    },
+    {
+      "name": "lamperti.pdf",
+      "bytes": 960727,
+      "sha256": "35dad520d84260aaac422b4636ff6eec5c1fd0bbc354d733dcec9008dad4c0c5"
+    },
+    {
+      "name": "naor-ren.pdf",
+      "bytes": 272354,
+      "sha256": "f160d61d19d3260fd8955becee861aad8455d51a44b7e6ec685303215ec66b0e"
+    },
+    {
+      "name": "ggns.txt",
+      "bytes": 28104,
+      "sha256": "823105004d6f436ea7f1171a26cd1f84ba4efc45f466ec11b9c2c5ec36fed296"
+    },
+    {
+      "name": "ggns.pdf",
+      "bytes": 327746,
+      "sha256": "780d6a75786f82b5ece1dabdc9e2623163d7ea0f4fa982d08d6192da26f1758f"
+    }
+  ],
+  "temporary_bytes_removed": 4121296,
+  "temporary_directory_removed": true,
+  "third_party_papers_redistributed": false,
+  "new_application_run": false,
+  "dependencies_installed": false,
+  "old_experiment_replays": "Not repeated: WP052 receipts already13archives and actual314/076 unchanged experiments. No numerical-source change this package."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "MAP-314-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-314-01",
+  "registered_at": "2026-10-20T14:17:40.187548+00:00",
+  "exposure": "Source andoldbaselinesknown;same-modelhypothesis;noindependentrediscovery",
+  "object_mapping": {
+    "input": "Finite p-group multiplication table with identity and explicit embedded subgroup element set",
+    "output": "ell(G,H),actual chain witness,baseline comparison and conditional graph metadata",
+    "required_identity": "Use embedding sets under the same group presentation;abstract subgroup isomorphism is not enough"
+  },
+  "additional_assumptions": [
+    "Validate finite group axioms,subgroup closure,normal inclusions andcyclicquotients exactly",
+    "A cyclic p-power quotient counts once irrespective its order",
+    "If labeling loss=r_n,retain n>=0,finite p-local genuine spectra and unaudited theorem dependency;calculation returns ell only"
+  ],
+  "hypothesis": "在固定小群的全部嵌入子群上，循环链算法与独立全链裁判逐项相同；至少一个已知控制中按子群抽象类型或log_p指数合并会造成错误元数据，而保留嵌入可区分。仅检验组合元数据正确性，不声称数值证实r_n=ell。",
+  "baseline": "Conflated key(group,abstract subgroup type) andlog_p[G:H];compare older abelian quotientgenerator rank and elementaryquotient lowerbound whereavailable.",
+  "incremental_value": "Metadata reliability and explicit witnesses may aid the existing graph. Known controls are already decidable with older theory;no incremental mathematical benefit assigned to2026sharpness without independent spectral evidence.",
+  "test_plan": {
+    "fixtures": "Initially bounded synthetic multiplication tables for C4,C2xC2,C4xC2,C2xC2xC2,D8 andorder27upperunitriangular F3 matrices;enumerate every subgroup. Freeze final exact fixture definitions in a separate experiment spec before execution.",
+    "oracle": "Shortest-path method with normal/cyclic tests versus independently organized exhaustive strict subgroup chains and coset quotient generator checks;known quotient controls and explicit relabeling invariance.",
+    "metrics": [
+      "chain equality",
+      "witness validity",
+      "embedding collisions",
+      "incorrect index surrogates",
+      "runtime",
+      "peak Python allocations"
+    ],
+    "success": "All exact agreement and valid witnesses;at least one invalid-surrogate decision corrected. Newtheorem increment explicitly untested.",
+    "failure": "Any oracle mismatch,invalid witness,unhandledcyclicquotient orabsenceofdeclaredcollision;retain adverse evidence."
+  },
+  "limits": "合成有限群元数据QA，无真实外部数据库用户、谱非零性裁判或2026新理论增益。小群可能全部落在历史已解决范围。完整谱系、人审与形式化证明缺失。",
+  "resource_envelope": "Proposed standard-library exact small groups;120seconds,128MiB Python allocations;compressed payloads andsources;not run.",
+  "execution_requirement": "Freeze executableexperiment specbeforetargetoutputs;thisplanisnotanexperimentrun"
+}

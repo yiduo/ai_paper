@@ -1,0 +1,123 @@
+{
+  "recorded_at": "2026-10-21T04:52:46.579249+00:00",
+  "old_canonical_records_byte_unchanged": 3210,
+  "new_canonical_records": 77,
+  "all_old_explicit_edges_byte_unchanged": true,
+  "new_explicit_edges": 165,
+  "full_nodes": 5594,
+  "full_edges": 14213,
+  "canonical_citations": 5236,
+  "natural_TeX_files": 9,
+  "natural_TeX_lines": 2274,
+  "inline_bibliography_lines": 216,
+  "transitive_input_closure_verified": true,
+  "new_named_bindings": 17,
+  "total_named_source_draft_bindings": 1016,
+  "total_manual_unlabelled": 2,
+  "method_contracts": 21,
+  "bibliography_roots": 33,
+  "selected_primary_scopes": 3,
+  "formal_index_files": 26,
+  "formal_index_declarations": 2097,
+  "actual_Comparator_registered_solution_present": true,
+  "YAML_title_absence_not_proof_absence": true,
+  "challenge_placeholder_not_solution_failure": true,
+  "local_Lean_or_Comparator": false,
+  "proof_impact_cases": [
+    {
+      "case": "interpolation",
+      "changed": [
+        "CLM-273-THM-INTERPOLATION"
+      ],
+      "requires_review": [
+        "APP-273-01",
+        "CLM-273-COR-BROADCAST-CAPACITY",
+        "CLM-273-COR-THERMAL-ATTENUATOR",
+        "CLM-273-THM-EPNI"
+      ],
+      "not_affected": []
+    },
+    {
+      "case": "EPnI",
+      "changed": [
+        "CLM-273-THM-EPNI"
+      ],
+      "requires_review": [
+        "CLM-273-COR-BROADCAST-CAPACITY",
+        "CLM-273-COR-THERMAL-ATTENUATOR"
+      ],
+      "not_affected": [
+        "APP-273-01",
+        "CLM-273-THM-INTERPOLATION"
+      ]
+    },
+    {
+      "case": "minimumHessian",
+      "changed": [
+        "CLM-273-PROP-HESSIAN"
+      ],
+      "requires_review": [
+        "CLM-273-COR-BROADCAST-CAPACITY",
+        "CLM-273-COR-THERMAL-ATTENUATOR",
+        "CLM-273-THM-EPNI"
+      ],
+      "not_affected": [
+        "APP-273-01",
+        "CLM-273-THM-INTERPOLATION"
+      ]
+    },
+    {
+      "case": "codingYHD",
+      "changed": [
+        "LIT-273-827ADEAABC"
+      ],
+      "requires_review": [
+        "CLM-273-COR-BROADCAST-CAPACITY"
+      ],
+      "not_affected": [
+        "APP-273-01",
+        "CLM-273-COR-THERMAL-ATTENUATOR",
+        "CLM-273-THM-EPNI",
+        "CLM-273-THM-INTERPOLATION"
+      ]
+    }
+  ],
+  "application_gates_not_theorem_premises": true,
+  "crossfamily_context_not_theorem_premise": true,
+  "interpolation_not_graded_by_final_formal_endpoint": true,
+  "navigation_consistent": true,
+  "all_current_source_hashes_verified": true,
+  "upstream_clean": true,
+  "new_candidate": "APP-273-01",
+  "new_application_run": false,
+  "analogy": {
+    "near": 26,
+    "far": 10,
+    "bold": 1
+  },
+  "metrics": {
+    "nodes": 5594,
+    "research_nodes": 3283,
+    "edges": 14213,
+    "citations_checked": 5226,
+    "candidate_connections": 37,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 45,
+    "source_decomposition_drafts": 39,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

@@ -1,0 +1,488 @@
+{
+  "family_id": "F-294",
+  "work_package": "WP-067",
+  "generation_id": "GEN-20261021-063",
+  "recorded_at": "2026-10-21T01:59:14.520582+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/01-introduction.tex": {
+      "sha256": "40f289e1166d4af753d193921859b1d7165378f870564a39d90c1b902438bb4b",
+      "total_lines": 222,
+      "read_ranges": [
+        [
+          1,
+          222
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/02-preliminaries.tex": {
+      "sha256": "e5ff07f6eb992d48ea44e1a8ca9d44e9ce5e67063c2e0417c5e049d9694f45a2",
+      "total_lines": 59,
+      "read_ranges": [
+        [
+          1,
+          59
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/03-scaling.tex": {
+      "sha256": "191328b159019b3e3fcf62d08c63c4de60e6b6745bc54880f9467105d0cd039f",
+      "total_lines": 233,
+      "read_ranges": [
+        [
+          1,
+          233
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/04-bundles.tex": {
+      "sha256": "0d5a551c6967c038c3f30ec15b56f2966b48065a96dea2454a8b783fc5f86f65",
+      "total_lines": 243,
+      "read_ranges": [
+        [
+          1,
+          243
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/05-algebra.tex": {
+      "sha256": "d94829b42e44c7b9f8b792de786ed9e4fde8cb65ce9d001f7fb69898813eaf2f",
+      "total_lines": 222,
+      "read_ranges": [
+        [
+          1,
+          222
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/06-conclusion.tex": {
+      "sha256": "216576011d6a16f378b9a1a7aa420b8b94e7182f73be3becd9c156bf4eec39af",
+      "total_lines": 15,
+      "read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/07-consequences.tex": {
+      "sha256": "2d307b38986eb7dcc183038725224ed451ced5959d49fddc48919a80e26a1ba4",
+      "total_lines": 90,
+      "read_ranges": [
+        [
+          1,
+          90
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/bibliography.tex": {
+      "sha256": "a0a4a3a665ba1423003a396a6309de5000805239bc3bb4c9b1047eb555ee0681",
+      "total_lines": 90,
+      "read_ranges": [
+        [
+          1,
+          90
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/figures/finite-test.tex": {
+      "sha256": "8c6e8ca4f1caa38827bbc113a2883c451789f9104670f0f5f1ead06f8ebd5593",
+      "total_lines": 36,
+      "read_ranges": [
+        [
+          1,
+          36
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-counterexample-to-Kaplanskys-quasitrace-conjecture-September-23-2026/build/paper.tex": {
+      "sha256": "9571e1498e22438f4daa0f5e54098e8f1c539f85f09ddc857a94e3bcb7b05864",
+      "total_lines": 53,
+      "read_ranges": [
+        [
+          1,
+          53
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 10,
+  "source_tex_lines": 1263,
+  "formal_selected": {
+    "math/lean/OAI/Analysis/Kaplansky/Main.lean": {
+      "sha256": "63e244d411fe541fe96d7ec9f285a2b99a0bc62230fa8202f73af06bdef5d7ff",
+      "read_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/Kaplansky/StableFiniteness.lean": {
+      "sha256": "ee461b29d8d9a9dfa6898cc84494a9d7ad411e1eba029c0679234a38c0f5cadd",
+      "read_ranges": [
+        [
+          1,
+          26
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/Kaplansky/ActualAlgebra.lean": {
+      "sha256": "2c399a528020b4009b1591659f71e7d05503dd16f86f5b103df87d6ecefdcbb5",
+      "read_ranges": [
+        [
+          1,
+          124
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/Quasitrace/Basic.lean": {
+      "sha256": "2840cfcccac06e2d3b45beac47c9e2c907276962de1c5d369cc9a53250a90ffd",
+      "read_ranges": [
+        [
+          1,
+          85
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/Analysis/Quasitrace/Matrix.lean": {
+      "sha256": "6845d3c4d893daf3a641451480035e1a6b59236be988c7aee5fec86f157c4c20",
+      "read_ranges": [
+        [
+          1,
+          111
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/Kaplansky/StableFiniteness/Definitions.lean": {
+      "sha256": "fd756644f15533858b4ec9c439f9c2fab02bed3916c9acfb6f73372e516f83e4",
+      "read_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/Kaplansky/Regular/HilbertTensorModel.lean": {
+      "sha256": "fabd075a27b71bff05bb6ea8376588579d45112d131d2afd5c4dfbaeeff54c21",
+      "read_ranges": [
+        [
+          1,
+          129
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/docs/294.md": {
+      "sha256": "bb14fd4a298967693717407eb84048fe71a014aee80e87bea77f5b126822aa2c",
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/KaplanskyQuasitrace.lean": {
+      "sha256": "2036e2a1555f6d789950f47c471d081854b3871f4bac90459343dc3b8af2d3f8",
+      "read_ranges": [
+        [
+          1,
+          55
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/KaplanskyQuasitrace.json": {
+      "sha256": "e0eeb8758e6ac605038ed26b0ce7ff86f9e52efcc6fb08e17eccc15ba316f3ac",
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/KaplanskyStableFiniteness.lean": {
+      "sha256": "58a4437a30003caee59975020f91a97d7fdee6e8790b36bfec7170adb46d078e",
+      "read_ranges": [
+        [
+          1,
+          247
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/KaplanskyStableFiniteness.json": {
+      "sha256": "3b81e56943b9e3e1bd7368a13037200be6feefc8e3b7064e875e0b0251eddeba",
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-294-lean-index.json.gz",
+    "sha256": "f22be886a5d90937299cf1229bf0f6dab033f9fbb7d9296a48e592779fa18b35",
+    "local_files": 181,
+    "declarations": 2900,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "MR",
+      "url": "https://arxiv.org/html/2309.17412v2",
+      "scope": "v2 2023-11-30;rendered26-94,101-130,249-263 selecteddefinitions/Thm2.3/3.1/Remark4.7;notwholeproof",
+      "summary": "Old2quasitraceiffnotstablyproperlyinfinite;strongerthanmerelyfiniteandweakerthanstablyfinite,general/simple distinction. No traceiffproperlyinfinitetensorCrFinftyandboundedtraceobstructiontuple. Oldhypotheticalboundednu/delayedmuultraproductstrategy,noclaimcurrentBstablyfinite."
+    },
+    {
+      "key": "Haagerup",
+      "url": "https://arxiv.org/html/1403.7653v1",
+      "scope": "v1 2014-03-29;rendered25-67,70-122,188-219 and944-973 selectedLemma2.1/Thm2.4/Remark2.5/Thm5.11;notwholeproof",
+      "summary": "1991circulateddraft/2014publication;all2quasitracesexactunitalaretraces. Oldfinitecolumn/rowtraceobstructionandFinfty->F2embedding. OriginalThm2.4saysnonunitaryisometry;properlyinfiniteformusedMR3.1separately. Onequasitracenot2oldKirchbergexampledoesnotsettle2problem."
+    },
+    {
+      "key": "Gurvits2003",
+      "url": "https://arxiv.org/html/quant-ph/0303055v1",
+      "scope": "v1 2003-03-11;rendered35-77,384-500 selectedSection4capacity/scaling/Thm4.6/4.7;notwholealgorithmproof",
+      "summary": "OldsquarepositiveM(N)->M(N) scaling,ranknondecrease iff approximateDS;capacityattainmentgivesexactDS,indecomposabilityattainment+uniqueandgeometricOSIrate. Newrectangularrowinequality+bundlecontinuitymustcomparescopes;notfirstevernormalizationoruniqueness/nogenericruntimeadvantage."
+    }
+  ],
+  "result_notes": {
+    "thm:main": "There exists separableunitalcomplexCstarA=M48(B) admittingnormalized2quasitrace andFIXEDpositivecontractionsa,b suchthatEVERYnormalized2tau hasREALdefect>=1/144. Matrixextensioncornerpreservingunit2,nottwonormalizedextension. Necessarilynonexact;notfinitequantumstateprobabilitynonadditivity.",
+    "cor:stable-finiteness": "THREEdifferentobjects:minimaltensorofsimpleunitalstablyfiniteMwithCrF2properlyinfinite,noseparabilityclaimedM;explicitseparableBhas2tau butB tensorCrF2properlyinfinite/no2tau,NOTclaimedstablyfiniteB;separableunitalstablyfinitetracelessCsubalgebraoffactor,notsimpleclaimed. Naturalminimal/spatialmodelversusactualfaithfulregularrepresentationqualified.",
+    "thm:existence": "OLDcriterion:unitalCstarC normalized2quasitraceiffNOmatrixM_m(C)properlyinfiniteforALLpositiveintegersm. Noexactness/simplicity/representationassumptions. Absenceofstableproperinfinitenessweakerthanstablefinitenessingeneral;equivalentforsimpleonly.",
+    "lem:incidence": "Hermitiancomplexbundleranksd,r,compactbase realdim2h,qmaps andfinite(s,t)list satisfying(qs-t)(r-t)-s(d-s)>h. Genericjointmapscollectiveimageanysplane>t inEVERYfiber. Sarddimnullsetargument,notpracticalgenerator/finitegridcertificate.",
+    "lem:scaling": "CompactbasecontinuousrectangularT_i:E->F,ALLfiber subspacesS collectiveimage>=2dimS. UniformGrassmannmargin,coercivelogdet(I+D(P))-1.5logdetP uniquePDminimizercontinuousandunitary-frameequivariant;X_i=sqrt(2/3)Q^-1/2 T_i P^1/2 givescolumnI,row<=2/3I. r>=2d;notclaimedrate/conditionnumber/smoothmap.",
+    "prop:bundle-test": "ForEVERYm,R>=1 chooseY productCP^Ki,bundlesallj>=0;d0=64m4^R,dj=4^jd0throughR;24continuousmapscolumnI,row<=2/3. TopChernclass forbids trivialsubbundle rank2md0 in(sum_j<=R Ej)^m. 16oldblockmaps smallsubspacesflagproof+8freshgenericlargeones;dimensionbase grows,not24fixedsmallmatrices.",
+    "thm:construction": "B=Cstar(1,x1..x24) insideboundedproduct overallm,R,y withINFINITEHilbertlevelshifts. Separablerationalpolynomials;columns1,row<=2/3,noM_mproperlyinfinite. Polynomialapproxwithin1/5 thenchooseR compresslevel0to0..Rbundleinjectioncontradiction. Finitewordwindowdoesnotmakeglobalalgebrafinite-dimensional.",
+    "lem:defect": "GeneralN>=1,0<=c<1,abstractBtuplecolumns1,row<=c. Explicitpositivecontractionsa,b inM2N(B),EVERYnormalizedONEquasitrace onM2N(B) hasdefect>=(1-c)/(2N). Cornerphi1=1/(2N),commutingdiagonalentries/scalartranslationsandui/vi equality telescopephi1-phiJN. ExistenceofsuchquasitraceSEPARATE;cannotassertontupleoffiniteSQUAREmatrices."
+  },
+  "method_contracts": [
+    {
+      "key": "QUASITRACE-LEVEL",
+      "title": "拟迹、矩阵延拓与归一化",
+      "input": "1quasitracepositive/squareswap/abelianlinearity/realimag;2extensioncornercompatible",
+      "output": "Normalizedtau1=1;M2extensionunitvalue2",
+      "cannot_transfer": "Notnormalizeextensionto1orapplycommutativelinearitytoarbitrarya,b.",
+      "source_labels": [
+        "thm:main",
+        "thm:existence"
+      ]
+    },
+    {
+      "key": "EXACTNESS-BOUNDARY",
+      "title": "非正合前提与有限矩阵边界",
+      "input": "MainnonadditivityinunitalabstractnonexactCstar",
+      "output": "No finite/nuclear/exactcounterexample implied",
+      "cannot_transfer": "OldHaagerupexact2quasitracesalreadytraces;noquantumprobabilityclaim.",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "THREE-OBJECTS",
+      "title": "三个推论对象分开",
+      "input": "FactorM,constructedB,separabletracelesssubalgebraC",
+      "output": "Simple/stablyfiniteorquasitracelossexampleswithdifferentpromises",
+      "cannot_transfer": "Do notcombinealladjectivesintoonesimple/separable/stablyfiniteB.",
+      "source_labels": [
+        "cor:stable-finiteness"
+      ]
+    },
+    {
+      "key": "MIN-TENSOR",
+      "title": "空间最小张量积及单态性",
+      "input": "AbstractunitaltracelessD,CrFinfty embeddedCrF2",
+      "output": "ProperlyinfinitetensorunderOLDstrongformtraceobstruction",
+      "cannot_transfer": "Notmaximaltensor/finitetensorarraylibrary;HaageruporiginalweakernonunitaryisometryscopevsMRproperformseparate.",
+      "source_labels": [
+        "cor:stable-finiteness"
+      ]
+    },
+    {
+      "key": "QUASITRACE-EXISTENCE",
+      "title": "所有矩阵层的存在条件",
+      "input": "NoM_m(C)properlyinfiniteallm>=1",
+      "output": "Normalized2quasitraceexists",
+      "cannot_transfer": "Weakerthanstablefinitenesswithout simplicity;finitechecksnotallmatrixlevels.",
+      "source_labels": [
+        "thm:existence"
+      ]
+    },
+    {
+      "key": "INCIDENCE",
+      "title": "子空间坏事件的维数排除",
+      "input": "Finite(s,t)list,(qs-t)(r-t)-s(d-s)>h,compactbase",
+      "output": "Smoothqmaps avoidallbadsubspaces",
+      "cannot_transfer": "Genericnullsetchoice,noseed/rate/efficientexplicitmaps.",
+      "source_labels": [
+        "lem:incidence"
+      ]
+    },
+    {
+      "key": "RECTANGULAR-EXPANSION",
+      "title": "矩形全子空间扩张",
+      "input": "AllS/allfibersdim sumT_iS>=2dimS",
+      "output": "r>=2d;uniformpositiveepsilonovercompactGrassmannbundles",
+      "cannot_transfer": "Sampledsubspaces/parametergridnotcertificate;finiteSQUAREglobalalgebrarelationsimpossiblebytrace.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    },
+    {
+      "key": "LOGDET-POTENTIAL",
+      "title": "带单位项的行列式势",
+      "input": "D(P)=sumT_iPT_i*,P>0",
+      "output": "g=logdet(I+D(P))-3/2logdetP coercive/uniquePDminimizer",
+      "cannot_transfer": "Identityterm/rectangularoutputandstrictmargin essential;notoldsquarecapacityexactly.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    },
+    {
+      "key": "GEODESIC-STRICTNESS",
+      "title": "正定测地线与严格凸性",
+      "input": "P0>0,nonzeroHermitianH,commonkernelzero",
+      "output": "Gramdetnonnegativeexponentialsumempty+singleton=>positivevariance",
+      "cannot_transfer": "No globalstrongconvexityoriterationboundgiven.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    },
+    {
+      "key": "CONTINUOUS-FRAMES",
+      "title": "连续最优解与酉标架兼容",
+      "input": "Compactbaseuniformsublevels,uniqueintrinsicminimizer",
+      "output": "ContinuousP(y)gluesunderunitaryconjugation",
+      "cannot_transfer": "Notquantitativesmoothness/Lipschitzconstant orfixedphysicalchannelpreservation.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    },
+    {
+      "key": "ROW-COLUMN-NORMALIZE",
+      "title": "列单位和行上界",
+      "input": "PositivePminimizer,Q=I+D(P)",
+      "output": "X_i=sqrt(2/3)Q^-1/2T_iP^1/2,columnI,row=(2/3)(I-Q^-1)",
+      "cannot_transfer": "Changesoriginaloperators;normalizingKrausfamilydoesnotpreservechannel/capacity/physicalactionautomatically.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    },
+    {
+      "key": "CHERN-BUDGET",
+      "title": "保留最高Chern类的有限预算",
+      "input": "m,R,d0=64m4^R,CPmultiplicitiesKi",
+      "output": "No trivialrank2md0subbundle inselectedfinitewindow",
+      "cannot_transfer": "Largebase/ranks;notpointwiseinjectivitytestorcountdimonly.",
+      "source_labels": [
+        "prop:bundle-test"
+      ]
+    },
+    {
+      "key": "SMALL-LARGE-MAPS",
+      "title": "小大子空间与固定24图",
+      "input": "16blockdiagonaloldmaps smallS<=m;8freshmaps S>m",
+      "output": "ExpandALLcorrelatedsubspacesviaflagandprefixbase",
+      "cannot_transfer": "Blockestimatesalonewithoutflagargumentinsufficient;mapchoicesexistential.",
+      "source_labels": [
+        "prop:bundle-test",
+        "lem:incidence"
+      ]
+    },
+    {
+      "key": "BOUNDED-PRODUCT",
+      "title": "所有有限测试共同的有界乘积",
+      "input": "Uniform24shiftoperatorsnorm<=1overALLm,R,y",
+      "output": "SeparablegeneratedB,columns1,row<=2/3",
+      "cannot_transfer": "Product/eachHilbertspaceinfinite;notfinitecollectionofmatricesorassumingwholeproductseparable.",
+      "source_labels": [
+        "thm:construction"
+      ]
+    },
+    {
+      "key": "WORD-WINDOW",
+      "title": "固定多项式后的有限传播",
+      "input": "CandidateWpairisometries inM_m(B),approxPwithin1/5,THENdegreeR",
+      "output": "P0*P0>=.5I embedsforbiddentrivialbundle",
+      "cannot_transfer": "Coefficientsidenticalallcoordinates;onefinitewindowdoesnotcertifyallB.",
+      "source_labels": [
+        "thm:construction",
+        "prop:bundle-test"
+      ]
+    },
+    {
+      "key": "UNIFORM-DEFECT",
+      "title": "正对角块的统一非可加缺陷",
+      "input": "Abstractsquaretuplecolumns1,row<=c<1,Nterms",
+      "output": "a,b inM2N(B);allnormalized1tau defect>=(1-c)/2N",
+      "cannot_transfer": "Separatequasitraceexistence;ordinaryfinitetracewouldruleoutinputnotshowdefect.",
+      "source_labels": [
+        "lem:defect"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "实际参数化矩形归一化前提",
+      "input": "Actualconsumerallowsoperatorfiltering andneedscolumnI,rowcap2/3/continuousframecoherence",
+      "output": "Certifiedcompactparameterfamily andALLsubspaceexpansion",
+      "cannot_transfer": "prerequisite_status=unestablished;noactualconsumer/model/APIidentified.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    },
+    {
+      "key": "BASELINE-BUDGET-GATE",
+      "title": "强旧缩放与完整成本前提",
+      "input": "Resourceadmittedfamily,conditionmargin,independentPSD/equivariancejudge",
+      "output": "Frozenmatchedoldgeneralizedscaling/genericgeodesicoptimizer comparison",
+      "cannot_transfer": "prerequisite_status=unestablished;oldGurvits/uniquenessalreadyexists,Sra2015bodyunread,noiterationratefromsource.",
+      "source_labels": [
+        "lem:scaling"
+      ]
+    }
+  ],
+  "notes": [
+    "Whole10TeX1263lines incl90bibliography13keys andfigure36read. MainseparableunitalA=M48(B)hasnormalized2quasitrace,fixedpositivecontractionsa/bEVERYnormalized2tau defect>=1/144. Matrixextension cornerpreservingnotnormalizedonM2(unitvalue2). Nonexactrequired;finiteexact/nuclearcasesoldHaageruptraces.",
+    "CorstablefinitenessTHREEdifferentobjects:nonseparablemaybefactorM simple/stablyfinite tensorCrF2properlyinfinite;explicitseparableBhasnoneproperlyinfiniteM_mbutnotclaimedstablyfinite/simple;separablefinitelygeneratedsubalgebraCoffactorstablyfinite/tracelessnotclaimsimple. minnotmax/spatialtensor.",
+    "ConstructionB24generatorsboundedproductoverALLm,R,y plusinfiniteHilbertlevelshifts;Bnotproductitself,separablerationalpolynomials. No finitematrixmodelcanhavecolumnsame-dimIandrow<=2/3I byordinarytrace. FiniteRECTANGULARscalingpartindependentofglobalalgebra.",
+    "Incidencelemmafinite(s,t)list,compactdim2h,ranksd/r,qmaps: (qs-t)(r-t)-s(d-s)>h. GenericmapsavoidbadGrassmannimagesviafiniteparameters+Sardnullset;existencenotnumericalconstructor.",
+    "NormalizationallsubspacesS expansion>=2dimS atEVERYfiber,positivebundleE/F compactbase=>r>=2d,uniformeps viaGrassmanncompactness. Potentiallogdet(I+D_y(P))-1.5logdetP onP>0. Eigenvalue2pairboundgivescoercivity/compactsublevels.",
+    "PotentialstrictalongPDgeodesics viaGramdetexponentialsumempty1+nonzerosingletonterms ->positivevariance;linearlogdetP. UniqueminimizerP(y)continuous/gluesunderunitaryframes;notclaimsmooth,explicitconditionnumber,iterationrate orquantitativeuniformmarginfromsamples. X_i=sqrt(2/3)Q^-1/2 T_i P^1/2,columnsI,row(2/3)(I-Q^-1)<=2/3I.",
+    "Bundlefinite(m,R):d0=64m4^R,dj=4^jd0;oldline multiplicitiesdivide4,new15/4block;K_i=320m²4^(2i-2)(4^(R-i+1)-1),baseproductCP^Ki. h0<2md0,nonzerohighestChern retained. Sixteenoldblockmaps expandallsmallSviaflagincludingcorrelations,eightfreshgenericmapslargeSusingprefixbaseeta_j<20/3m*dj.",
+    "BeyondRlevels doublewith2orthogonalinclusionsscaled1/sqrt2 and22zeromaps;knownrow.5controlnotnewbenefit. Infiniteshiftsnorm<=1,rowsumzeroatlevel0,columnidentityalllevels. PolynomialapproxW m x2m within1/5 =>P*P>=.5I;chooseR AFTERpolynomialfixed,coefficientssameatallcoordinates;wordfinitepropagationE0..R compressesglobalinequalitytogenuinebundleinjectioncontradiction. Notfinitegridtestofnonproperinfinity.",
+    "DefectlemmaGENERALN,c<1 fromtupleinsquareabstractB:positivea=diag H0..HN-1,1-J0..1-JN-1;b=diag ui,1-vi inM2N(B). Eachcornerphi1=1/(2N),cornercommutativelinearityandui/viquasitracesquares allow telescoping exactphi1-phiJN>=(1-c)/2N. tau1ontheM2N notnecessarily2;existenceseparate.",
+    "MRoriginalv2Thm2.3criterionno matrixproperinf infinity vs strongerstablefinite;simpleequiv andtraceobstructionThm3.1vproperlyinfinite. Remark4.7oldboundedtraceobstructionlength+delayedmatrixinfiniteness alreadystrategy;newsourceusesboundedproductgeneratedsubalgebra notassumedfiniteultraproductoracle.",
+    "Haageruporiginalv1exactunitalall2tau traceThm5.11,oldfinitecolumn/rowcriterionLemma2.1,andRemark2.5F_infty->F2inclusionBUToldThm2.4statesnonunitaryisometryonly;strongproperlyinfiniteformusedMR3.1separately.",
+    "Gurvits2003v1selectedSection4alreadyoperatorscaling,capacity,ranknondecrease/approxdouble stochastic,attainment/uniquenessiffindecomposable andgeometricconvergencecase;NOTsourcefirstnormalization/uniquenessinallsettings. OldsquareM(N)->M(N) scope vsnewrectangularrowinequality/continuousbundlecoherence mustcompare,notautomaticallystronger/faster.",
+    "Potentialconditionalfiniteapplication:canonicalparameter-dependentrectangularframe normalizationwithcolumnI androwcap,ALLsubspaceexpansioncertificateandactualconsumer/costcaps needed. OldsquareSinkhorn/genericgeodesicoptimizer orsamepotentialmayalready suffice. Noactualconsumer/run;do notuseglobalquasitracenonadditivityonfinitequantumstates."
+  ],
+  "formal_status": "ActualmainMainTarget/OneQuasitraceMatrixBasic/ActualAlgebra andstablebundledefinitions/faithfulregularspatialHilbertmodelselected;main+corlocalB,nohuman/build. RectangularnormalizationnaturalC,not upgradedfromMainpresence;181file2900declindexnotfullproof.",
+  "remaining": [
+    "10otheroriginalroots/recursivehistoryunread;MRsurveyproofreferencesnotoriginalfullclosure.",
+    "181file2900declarationstaticindexnotbuild/fullproof;nohumanmathspec/secondprovider.",
+    "Actualparameterdependentrectangularconsumer,ALLsubspaceexpansioncertificate,conditionmargin,stronggeneralizedbaseline/costprotocolmissing;no numericalrun."
+  ],
+  "new_candidate_count": 1,
+  "new_application_run": false
+}

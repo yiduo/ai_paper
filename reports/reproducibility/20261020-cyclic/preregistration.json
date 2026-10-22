@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-20T14:26:19.628008+00:00",
+  "commit": "281ef38",
+  "spec": "experiments/specs/EXP-314-001.json",
+  "committed_current_executed_sha256": "cf5663e0199be7ea9029e9bccbfde8f5c5c73bea915950ed44563f6d7c49426c",
+  "all_frozen_source_inputs_unchanged_after_run": true,
+  "outputs_known_at_registration": false,
+  "known_control_expectations_reasoned_before_registration": true
+}

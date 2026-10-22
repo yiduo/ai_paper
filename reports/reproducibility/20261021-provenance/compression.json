@@ -1,0 +1,10 @@
+{
+  "path": "reports/graph/provenance-audit.json.gz",
+  "compressed_bytes": 699,
+  "uncompressed_bytes": 1489,
+  "compressed_sha256": "e4941251e259e1eeb2b8b2cd5705cabbde22fb722144ff1567a590abcda2770c",
+  "decompressed_sha256": "c028fcf2b204282185d5d9b0e497d99760bebb4171520995917cb51e4e1ada1d",
+  "json_and_gzip_roundtrip_verified": true,
+  "numerical_runs_added": 0,
+  "previous_source_payload_checks": "reports/reproducibility/20261021-demand/compression.json"
+}

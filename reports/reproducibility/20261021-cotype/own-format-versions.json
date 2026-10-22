@@ -1,0 +1,23 @@
+{
+  "scope": "Own graph format/navigation repairs,not source math or new application evidence",
+  "prior_versions": [
+    {
+      "archive": "data/graph/history/GEN080-method-contracts-before.json.gz",
+      "records": 14,
+      "sha256_uncompressed": "a02490e9644ef5c2b4e0b184fa14e9fe808918b90685d6c2683ec99c50b9a82b"
+    },
+    {
+      "archive": "data/graph/history/GEN080-gate-navigation-before.json.gz",
+      "records": 2,
+      "sha256_uncompressed": "b3a25fed3be6e7e7d33de9e38aab6730323226d081ef3c5bd17adac6ba211229"
+    },
+    {
+      "archive": "data/graph/history/GEN080-citation-relation-before.json.gz",
+      "records": 6,
+      "sha256_uncompressed": "29774026bbd0b4313b2bdb936d3112c34bcd27d19ded966b1fa53e4d1d0b8d7f"
+    }
+  ],
+  "all_roundtrips_verified": true,
+  "source_ledger_unchanged": true,
+  "prediction_unchanged": true
+}

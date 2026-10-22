@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-21T06:10:28.583417+00:00",
+  "generation_id": "GEN-20261021-077",
+  "failure": "After analysis repair,61 unit tests and validate pass,report raisesKeyError external_check_type onnewAPP23101.",
+  "cause": "Ownnewcandidatecuratoromittedexistingreport-requiredtypefield;notnumericalor sourcefailure.",
+  "repair": "AddexplicitPLANNEDnotrunexternalchecktype,retainexactAPPv1/reviewv1andsecondfailedcorelog. No newexperiment,eligibility,prediction,grade or theory change. No reporterloosened orfailuresdiscarded.",
+  "history": "data/graph/history/GEN-20261021-077-card-format-before.json.gz",
+  "prediction_unchanged": true,
+  "all_renderer_required_fields_audited_after_fix": true
+}

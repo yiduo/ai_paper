@@ -1,0 +1,48 @@
+{
+  "run_id": "EXP-128-001-adf42abc31aca23e",
+  "experiment_id": "EXP-128-001",
+  "started_utc": "2026-10-20T11:15:21.347639+00:00",
+  "specification_written_utc": "2026-10-20T11:14:20.661383+00:00",
+  "finished_utc": "2026-10-20T11:15:21.595418+00:00",
+  "inputs": {
+    "experiments/specs/EXP-128-001.json": "037f4b5e9184fd89a00246ffb907b1d045ca54f842e215c18b29b2ccef325612",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/cli.py": "5e80be4fc924595987a16f5a0a9db1e1632cc346c4d770e74569565164bc5023",
+    "src/ai_value/corpus.py": "d693f07ec4ad28947dfcd83c69a0c98f0764794e85dab0d1ff9765e94c9b1327",
+    "src/ai_value/experiments.py": "3a077fbfec80e7a7a88609574cef1fb600e53e6ac34cf54970fdd84f61fe980f",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "configs/research.json": "b344b3bb396750278ee71b4513f8f4052b82732dd9f02f11e924073d222ff430",
+    "data/corpus/baseline.json": "14a0bf28fe26c0b3f264f09d7a58aecc731a2e381f0465a755ffc1e1774cfbd4"
+  },
+  "outputs": {
+    "spec.json": "f7f3ad29082c8135de98d8a734d80011fb210206998a59c339dfa2ca4e83e8e1",
+    "inputs.json.gz": "78a7327e82d204e954d1891c981683a8c30ee5b8da75e5d685fc3d22ec5a5b4c",
+    "raw.json.gz": "ed40dcd405559c4b0e20faf4c99cc6b0f742856e5fd58716c4c1fcf6ecf70e32",
+    "summary.json.gz": "78677d2b1c2a4864e9586739798f19e4a9d72bf7170ff65f9c6dc2ec864d1e3c",
+    "manifest.before-compression.json.gz": "d837ed05f97548cb0a25cec6f76dd972915eb19386268eb281cbe9cc29fdeb97"
+  },
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment EXP-128-001",
+  "environment": {
+    "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "dependencies": "Python standard library only"
+  },
+  "elapsed_seconds": 0.24537362501723692,
+  "peak_traced_python_bytes": 392500,
+  "memory_scope": "Python allocations only; not process RSS or child processes",
+  "result": "prediction_not_supported",
+  "formal_rejection": false,
+  "source_snapshot": "inputs.json.gz",
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "c3f23deb52f0a86f513a51bf95b4aa5d4f84cdfb6ce6c713923522756d7ad935"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "bdb711a9239d473d1a1d107b7defac064cf396ca3f46c7d953bfc95ce46cb135"
+    }
+  },
+  "storage_policy": "gzip all experiment numerical payloads after successful roundtrip SHA-256 check; keep configuration and metadata readable"
+}

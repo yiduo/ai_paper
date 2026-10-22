@@ -1,0 +1,31 @@
+{
+  "recorded_at": "2026-10-21T09:24:45.375323+00:00",
+  "primary_scope_ledger": "data/provenance/history/F-332-denoising-baselines.json",
+  "files": [
+    {
+      "temporary_name": "shuman.pdf",
+      "bytes": 2968573,
+      "sha256": "8700aa3efea85f5024a39588c842e7445a5db04396105e63294e2de2ef8361f5",
+      "retained": false
+    },
+    {
+      "temporary_name": "shuman.txt",
+      "bytes": 122482,
+      "sha256": "06f9ac71f812f83c4d1f511144d360f4f0ed66aafedb1d8ccc043cc1c7e82c4f",
+      "retained": false
+    },
+    {
+      "temporary_name": "tikhonov-formula.png",
+      "bytes": 561527,
+      "sha256": "14d441a958093bc561de43ee7c41ad867f8e591526f1be61be68a904c5cc5179",
+      "retained": false
+    }
+  ],
+  "actual_formula_pixels": 1,
+  "original_works_selected": 2,
+  "full_papers_read": false,
+  "normal_TLS": true,
+  "retrieval_limits": "Public arxivPDF<=4MB/max35s;localpdftotext/pdftoppm existing,no install. Authorwebtimeout,webscreenshotcachemiss anddeadconfiguredproxy retained;authorized normalTLS direct retrieval succeeded.",
+  "copyrighted_fulltexts_not_mirrored": true,
+  "new_dependencies": false
+}

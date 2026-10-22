@@ -1,0 +1,121 @@
+{
+  "recorded_at": "2026-10-21T03:02:25.504992+00:00",
+  "helper_gzip_bytes": 33887,
+  "helper_uncompressed_bytes": 105464,
+  "helper_roundtrip_verified": true,
+  "source_reference_log_roundtrip_verified": true,
+  "formal_index_gzip_bytes": 15143,
+  "temporary_bytes_removed": 159542,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-F210/core.log",
+      "bytes": 8692,
+      "sha256": "b3f8172a1ff3932567238aed973f3deb35d2f89716aa90f13baef8918d8c38df",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/report_f210.py",
+      "bytes": 6642,
+      "sha256": "4b9ac924611770e0f0c84d4a88689657bea466a9c0d15430bf156386bf686440",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/integrity.log",
+      "bytes": 1277,
+      "sha256": "e7618482e90f92202d9096aa7d7b698d74c86b46e2464cf971669df0c5708562",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/reference_curate_f049.py",
+      "bytes": 31382,
+      "sha256": "596aea1d599fdfe9466eb885602c9a811ffebce045a8fb58ea928289ca888175",
+      "retained_as": "WP069 existing helper archive, extracted read-only reference"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/core-first-failure.log",
+      "bytes": 8779,
+      "sha256": "75cdac10114b96816871b2816030949851a65b126a1183bd2a9c03ecc67e7d3c",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/prepare_f210.py",
+      "bytes": 5454,
+      "sha256": "00f64560403708d2f790ff4b280923e07c07a36a4ac7512c5caef62f6528ec5a",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/upstream-check.log",
+      "bytes": 891,
+      "sha256": "06686e96585703d0aea8523a6eb4ddcd6d5e297e611368c515bc14eb5f9ed588",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/reference_prepare_f049.py",
+      "bytes": 4580,
+      "sha256": "89e263c6f3b231b7250f3bcbafa331d5f0ee19c6a4638dc915cbd74e0d120cb7",
+      "retained_as": "WP069 existing helper archive, extracted read-only reference"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/finish_f210.py",
+      "bytes": 11800,
+      "sha256": "4196f57a1a964fef28d3eaaea22b949b444a20e0340785b958ddf3be168627fb",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/quality.log",
+      "bytes": 83,
+      "sha256": "136563746b2dee2ff6c03adb674862b07a80e0cd2efe63e3bc02290aa8d00813",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/integrity_f210.py",
+      "bytes": 6323,
+      "sha256": "45f3863e75fb0ab104b0b246111505aa5687a459fbb6b9aa50413f8167b61c93",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/export.log",
+      "bytes": 542,
+      "sha256": "4bf0cf1218423839f1b0de85678e41d8d8f2609d526a60854f2155b9188ca539",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/progress.json",
+      "bytes": 16168,
+      "sha256": "89ba97895c7f50b2114c9f6901629bc6a1f18475f2d3509d5f3d35d694395c25",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/reference_quality_f049.py",
+      "bytes": 3006,
+      "sha256": "1b4ee7bb66df55d1caf9f01f8a253f287a9c178647aa0c15d87ac42ab9f00333",
+      "retained_as": "WP069 existing helper archive, extracted read-only reference"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/reference_finish_f049.py",
+      "bytes": 12002,
+      "sha256": "3f308f7df06560fdee141c24bf888c23f9933347546c69248e981175e44acbba",
+      "retained_as": "WP069 existing helper archive, extracted read-only reference"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/reference_integrity_f049.py",
+      "bytes": 5269,
+      "sha256": "89c6027a99a84869182889b8dd6a33c426ef842fcdd56df702a5d1e749ed9c61",
+      "retained_as": "WP069 existing helper archive, extracted read-only reference"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/curate_f210.py",
+      "bytes": 33656,
+      "sha256": "88b895dddd8569cf28e82df68835983ba1180218f96994f5f643ba63b0e65618",
+      "retained_as": "Own exact helper/log gzip member"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F210/quality_f210.py",
+      "bytes": 2996,
+      "sha256": "a347e52b640c20116d228b8ae431214a658b8bed075f2b26b93de9be4b0f1a19",
+      "retained_as": "Own exact helper/log gzip member"
+    }
+  ],
+  "cleanup": "Only exact archived own helpers/logs and previously archived extracted reference helpers removed; upstream unchanged",
+  "disk_free_observed": "33GiB; external prior increase unattributed, not project savings"
+}

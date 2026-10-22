@@ -1,0 +1,33 @@
+{
+  "id": "APP-122-01",
+  "title": "二元事件流恢复的前缀矩证书与资源核查",
+  "version": 2,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-058",
+  "analogy": "near",
+  "input": "ActualconsumerproducesseveralindependentlydeletedcopiesofONEfixedbinaryeventstream,knownn/rationalp,no retainedpositionlabels",
+  "output": "Exactbinarysequence plusboundedprefixfeasibilitystatuses,allobservation/preprocessing/arithmetic/outputcostcharged",
+  "extra_assumptions": "Actualknownlength/channel/independencecertificate andexecutableconstants/resourceadmissionbeforeoutput. Realisticcorrelatedlogsormixedsourcesmayfailthemodel.",
+  "hypothesis": "On a separately frozen resource-admitted heldout batch of genuine repeated binary-event traces,the complete capped prefix decoder will attain the preregistered at-least2/3 per-input success target and reduce total reconstruction cost by at least10% against the strongest eligible old backend at matched confidence;either a resource failure or an old sufficient method fails this incremental prediction. The source asymptotic theorem does not imply this finite benefit.",
+  "judge": "Freezeconsumerbatch,trialcount/confidenceprocedure,allconstantsandcaps beforeoutputs;exactgroundtruthmatch andindependentoldlikelihood/channelchecks;failedbudgetnotretrospectivelyexcluded. Knownsyntheticword/maskQAaloneisnotapplicationvalidation.",
+  "baseline": "实际旧基线包括BMA前后向投票、编码trellis／BCJR后验和ML-SCS的元组动态规划及共同超序列筛选；不能只比较指数全候选搜索。已知n及纯删除／二元模拟入口部分匹配，但四元随机簇平均误差、编码IDS浮点后验均不是未知二元事件流逐输入保证。需按真实输入、精度、置信度和总资源比较，旧方法可能已足够；本包未执行基准。",
+  "limits": "No actualconsumer,data,implementation,preregistrationor run. H>=3003 andunknownKD/Km createhugefixedmomentorder;mayreduceenumerationtoallnsubsetsbutnotinventsmallD. Binaryuniformruntimeonly;general-symbolanchor is sample-only. NaturalC/boundedformalB local,completechainsunknown;nohuman/provider. APP12201的二元事件流目标保持原样；没有悄悄改成DNA恢复。降低数值实现优先级、保留待定，重启需真实合格请求、独立裁判、可执行参数与强旧方法的总成本比较；不把已知随机字／删除恒等式QA增加为第十二初检。",
+  "revisit": "提供同一个固定二元事件流的独立纯删除观测、已知n／有理p及实际数据来源；固定所有参数和完整资源准入，给出可执行F122常数与独立精确裁判。与合格BMA／动态规划／结构化解码器比较同等置信度及全部预处理成本。只提供DNA簇、模拟器、平均成功率或小阶PSD替代不足以重启。",
+  "source_labels": [
+    "u/thm:main",
+    "u/thm:separation",
+    "u/lem:rational-feasibility"
+  ],
+  "part_keys": [
+    "UNIFORM-DECODER",
+    "PSD-PREFIX",
+    "SLACK-FEASIBILITY",
+    "RESOURCE-SCALE",
+    "CONSUMER-GATE",
+    "BUDGET-BASELINE-GATE"
+  ],
+  "dedup_key": "F-122|actual binary eventstream repeated pure deletion|capped PSD prefix decoder versus strongest eligible old reconstruction",
+  "updated_at": "2026-10-21T01:18:52.832877+00:00",
+  "revision_generation_id": "GEN-20261021-059",
+  "actual_tool_review_id": "CHECK-122-RECONSTRUCTION-CONTRACTS"
+}

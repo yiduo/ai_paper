@@ -1,0 +1,298 @@
+{
+  "family_id": "F-372",
+  "generation_id": "GEN-20261021-046",
+  "recorded_at": "2026-10-20T21:48:40.672298+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-896ace9df9a3005f"
+  ],
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "total_tex_files": 7,
+  "total_tex_lines": 1953,
+  "body_source_lines": 1890,
+  "bound_source_lines": 1953,
+  "bibliography_lines": 229,
+  "bibliography_unique_roots": 20,
+  "selected_original_roots": 5,
+  "original_bodies_unread": 15,
+  "read_files": [
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/README.md",
+      "sha256": "7ad925c0e5d494e8c642e767990255b06011b9cc147edd5247f9773571c6966d",
+      "lines": 18,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/main.tex",
+      "sha256": "6bcef41f845106bd10219b920717b7f99d10a45a22376e893b96482cfd743514",
+      "lines": 63,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/analytic-estimates.tex",
+      "sha256": "260ae799948c889ae125b81b756216f3d085cc8c66a5954f575a54055e2c2134",
+      "lines": 297,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/boundary-reduction.tex",
+      "sha256": "dcf42332efe94212ad4dffbddbf8cf5264020d79d3cd14da719f1511bc812528",
+      "lines": 78,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/coefficient-recovery.tex",
+      "sha256": "443d34bfc0b3998bedb4ea1fdc714ac0e66c74c51b090905f68e0479f1033016",
+      "lines": 299,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/introduction.tex",
+      "sha256": "1472cc03ac1ed0546c0bacec93e0c7820bf15d5e1928af2909515c30f8156687",
+      "lines": 217,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/physical-amplitudes.tex",
+      "sha256": "325b113beab400718495b72f8f00f9d1525b82384e6dcf1cf6cd8a4e5a63749a",
+      "lines": 412,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/sections/transport-matching.tex",
+      "sha256": "f608d14a65e98f1ede20fd677e291fc8f28e69f39fc4e11e04f5d3011be7ab2a",
+      "lines": 587,
+      "read_scope": "Wholeactuallyread"
+    },
+    {
+      "path": "math/preprints/Global-Uniqueness-for-the-Smooth-Isotropic-Elasticity-Inverse-Problem-September-24-2026/build/references.bib",
+      "sha256": "07b5cfbc1b62153b976f32fb8f2025c8538efada142bec78e6470f6e9b37eb02",
+      "lines": 229,
+      "read_scope": "Wholeactuallyread"
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "statement": "任意有界连通光滑三维域中，完整静态位移—牵引算子相等唯一确定两组实光滑Lamé系数。",
+      "conditions": "μ>0、3λ+2μ>0于闭包；两者C∞延拓至闭包邻域；全边界全部位移数据，固定Euclidean坐标。",
+      "limits": "无解析性／小梯度／先验边界邻域相等要求；不是有限传感、噪声稳定性、重建算法或各向异性定理。",
+      "selected_grade": "B"
+    },
+    "lem:common-extension": {
+      "statement": "相等全边界算子给全部边界jets，再构造共同外域且球外常值的可容许光滑延拓。",
+      "conditions": "用Tan–Liu边界全阶判定；凸可容许集保严格能量正性；允许域补集有有界分量。",
+      "limits": "不假定原系数事先在边界邻域相等；全jets不是有限噪声测量的可计算数据。",
+      "selected_grade": "C"
+    },
+    "prop:physical-transfer": {
+      "statement": "第一介质每个球内光滑物理解可传递至第二介质，位移及实际散度在域外相等。",
+      "conditions": "同Dirichlet迹、同物理牵引和共同外域系数；界面弱拼接后强椭圆正则。",
+      "limits": "不是把非单射辅助变量的任意Cauchy数据也识别为相等。",
+      "selected_grade": "C"
+    },
+    "lem:augmented-system": {
+      "statement": "物理L u=R(u,div u)，且对独立(u,d)恒有divR−S=P(divu−d)，规范后主部ΔId4。",
+      "conditions": "m=μ,k=λ+μ,ell=λ+2μ正；光滑坐标导数可交换；P=mΔ+∇m·∇。",
+      "limits": "R=S=0只给缺陷P(divu−d)=0，缺少额外约束不能推d=divu；不同介质规范算子差仅一阶。",
+      "selected_grade": "C"
+    },
+    "prop:carleman": {
+      "statement": "紧支撑四分量增强系统满足加权Hh1≤Ch加权Hh−1强迫界。",
+      "conditions": "固定球／系数／非零复零向量θ，h=1/τ充分小；先定ε吸收再定h。",
+      "limits": "C和阈值未可计算；固定凸化权重乘子移除后不再次吸收；复点积双线性，范数Hermitian。",
+      "selected_grade": "C"
+    },
+    "cor:physical-solvability": {
+      "statement": "物理共轭算子有L2测试界及任意L2强迫的分布解，解范数≤C强迫。",
+      "conditions": "使用实际散度并抵消h损失；形式自伴算子配对−共轭θ；Hahn–Banach对偶。",
+      "limits": "只在球内分布解且非边值重建算法；未知C不是1。",
+      "selected_grade": "C"
+    },
+    "lem:scaled-interior": {
+      "statement": "共轭物理解在内球有Σj≤2 h^j||∇^jz||≤C(||z||+h²||f||)。",
+      "conditions": "B紧含B；h尺度重缩放保持强椭圆及系数族紧性；每个固定τ光滑。",
+      "limits": "常数依赖域间距、系数／导数界和方向；非所有τ统一无条件误差条。",
+      "selected_grade": "C"
+    },
+    "lem:planar-frames": {
+      "statement": "平面矩阵dbar系统有可逆光滑框架，局部横向参数光滑，并有保横向支撑的非齐次解。",
+      "conditions": "圆盘Stein且可缩；先局部Neumann小盘再Oka/Grauert拼接；参数局部邻域。",
+      "limits": "不保证可指定任意初值或无穷远归一化为Id；框架本身不唯一。",
+      "selected_grade": "C"
+    },
+    "prop:physical-amplitudes": {
+      "statement": "约束三维运输纤维的局部三框架可由实际弹性解及其真实散度强L2实现，权一阶导O(τ)。",
+      "conditions": "N≥4兼容递推，normal约束θ·a_j=−(diva_j−1−b_j−1)，物理残差O(τ^(1−N))。",
+      "limits": "散度校正损失一阶为O(τ^(2−N))；只校正物理位移方程，不能任意辅助解代替。",
+      "selected_grade": "C"
+    },
+    "lem:transport-normal-form": {
+      "statement": "正系数可逆变换把约束运输化为上块通用Dp=θs、下块Qθ·p+Tθs。",
+      "conditions": "Eθ=θ正交平面⊕C，维数3；p=√μa，s=−(λ+μ)b/(2√μ)−∇logμ·p/2。",
+      "limits": "Qθ是对p的协向量，θ点积双线性而非Hermitian；θ依赖线性／全纯。",
+      "selected_grade": "C"
+    },
+    "lem:supported-transport": {
+      "statement": "紧支撑平面齐次运输唯一为零，固定支撑Sobolev空间有下界；稠密参数存在延为每参数唯一光滑解。",
+      "conditions": "γ(ρ)非零，A光滑；固定较小支撑圆盘和较大算子域；T=(P*P)^−1P*。",
+      "limits": "只构造左逆不要求对全部目标空间满射；参数求导须固定Hilbert内积／支撑空间。",
+      "selected_grade": "C"
+    },
+    "prop:transport-matching": {
+      "statement": "由物理传递弱极限得唯一紧支撑比较G，方向投影不变并在固定x全纯。",
+      "conditions": "仅第一介质框架Y1须可逆；Y2初仅L2；逐固定方向先取子列，再靠唯一性拼接方向。",
+      "limits": "非先指定任意辅助边界数据；移动坐标只证光滑，bar方向导数必须回固定物理x再算。",
+      "selected_grade": "C"
+    },
+    "lem:conic-bundle": {
+      "statement": "零锥方向上的H≅O(−1)²、N≅O(−2)，商H/N平凡且H无非零全局全纯截面。",
+      "conditions": "复投影零二次曲线C≅CP1；显式齐次θ,h1,h2覆盖两图端点。",
+      "limits": "短正合列不全纯分裂；H自身仍有非标量全纯自同态，不能仅靠无截面就称全部自同态标量。",
+      "selected_grade": "C"
+    },
+    "prop:comparison-rigidity": {
+      "statement": "运输比较G必为Id，因而两限制运输在Eθ上相等。",
+      "conditions": "无H截面消上右块，商线束消F−fId；上块秩≤1对dimH=2强迫Df=0；外域值定f=1。",
+      "limits": "保留运输结构及维数；不能搬到任意秩／任意参数空间的规范变换。",
+      "selected_grade": "C"
+    },
+    "lem:finite-type": {
+      "statement": "Hessianη=B∇η+qId自动闭为(∇η,q)齐次一阶系统，非空开集零值沿路径传播至连通域。",
+      "conditions": "n≥2，B光滑已给；每s选择i≠s且不求和，交换三阶导。",
+      "limits": "不是噪声稳定常数或重建；完成主定理中B本身由两未知系数对决定，不能当已知反演输入。",
+      "selected_grade": "C"
+    }
+  },
+  "selected_original_scopes": {
+    "NU2003": {
+      "file": "nu2003.pdf",
+      "url": "https://sites.math.washington.edu/~gunther/Papers/Global%20uniqueness%20for%20an%20inverse%20boundary%20value%20problem%20arising%20in%20elasticity%20%28erratum%202003%29.pdf",
+      "scope": "All3pages205-207includingreferencesread;printed206renderedandpixelsviewed",
+      "finding": "Originalauthorssay1994Theorem0.7proofincorrect;correctedThm1requiresbothgradmu smallinCm forsomeepsilon,m. PrescribedmatrixtransportIVPnotgenerallysolvable;correctCGOsubstitutionyieldsPDO ratherthanassertedPDE. Doesnotdisproveuniquenessstatement/F372.",
+      "pdf_sha256": "729686af92a42c0e7d230674d4fe810c445fa595e8e78629b1fe335ccd91d658",
+      "pdf_bytes": 187980,
+      "extracted_text_sha256": "d284dc31b2fe05e44ca92618eb4e095e3dea1301ee429471ebc50b31138ba0d0",
+      "content_checked": true,
+      "rendered_page206_sha256": "93a7b770b9e8cd042800c138485492c6c29ddecf335153bef339c3f643e390b3"
+    },
+    "TanLiu2023": {
+      "file": "tan2022v1.pdf",
+      "url": "https://arxiv.org/pdf/2211.06650v1",
+      "scope": "Actual12Nov2022v1,selectedpp1-5intro/modelDN1.12/Thm1.1-1.3andnextpageanalyticcontinuation;notfullpublished2023edition/proof",
+      "finding": "mu>0,lambda+mu>=0;Thm1.2allboundaryjets,Thm1.3globalanalyticmanifoldandcoefficientsrequired. PhysicalDNtractionagreesEuclideanspecialization. Publishedversiondiffunread.",
+      "pdf_sha256": "76a6d6614804e49e320c4e95b91590a26d95553e1388e0288899fa1e911d28a1",
+      "pdf_bytes": 264348,
+      "extracted_text_sha256": "9b53b621ebd853bde89ec6c727c4d5245a0d6e022b877341a6028317c5b8a42d",
+      "content_checked": true
+    },
+    "EskinRalston2004": {
+      "file": "er2004v1.pdf",
+      "url": "https://arxiv.org/pdf/math/0403507v1",
+      "scope": "Fixedarxivv1,selectedSec1Lemma1.1frames;Sec2recursion2.2-2.4;Sec3reduction3.2 andThm3.1/context;notwholeproof. PDFcoverprintsJune14,2018despitearxiv2004v1stamp;notassumepublishedchapteridentical",
+      "finding": "GeneralframecannotalwaysnormalizeIdatinfinity. Auxiliaryvector-scalarmaptophysicalw=mu^-1/2 u+mu^-1 gradf-f grad(mu^-1). Wholevector-systemDNtheoremdoesnotautomatically transferphysicaldata. Fixedconstantmu givesnonzero fconstant,u0 kernel;sourceinferenceonly,notexperiment. Olderknown-oneshear/lambda andsmallgradmu restrictedconclusions alreadyexist.",
+      "pdf_sha256": "4a7c01e4ac251e476958f15a4c36e791c9c6cb69de574e0a98e5592d961fd20d",
+      "pdf_bytes": 134004,
+      "extracted_text_sha256": "6b6b46b6fa575a251d7862a7bffe29b3ec22bd68a8f2c88fd51317cc2f536714",
+      "content_checked": true
+    },
+    "Cekic2025": {
+      "file": "cekic2025v3.pdf",
+      "url": "https://arxiv.org/pdf/2309.09348v3",
+      "scope": "13Apr2025v3selectedpp1-2model/Thm1.1,Thm3.4statement+initialproofstep, Lemma4.1statementandholomorphicparameterproofselectedsegment;notwhole36pages",
+      "finding": "FullconnectionsystemDN ontrivialbundle,conformalproductR2xM0 geometry,up togauge. ComparisonIdinconnectedouterexteriorcomponent;complexparameterderivativeandLiouvillemechanism,notphysicalelasticitydataequivalence.",
+      "pdf_sha256": "97b0a8fccf9445dc6018278417fe7d7995219d3b2fef5a4f4f03e09208bd970a",
+      "pdf_bytes": 550934,
+      "extracted_text_sha256": "75aff5ae2a4f583c29857c58b764689574d9441ff9b512abe07240a1dd50a666",
+      "content_checked": true
+    },
+    "SaloTzou2009": {
+      "file": "salo2008v2.pdf",
+      "url": "https://arxiv.org/pdf/0709.2282v2",
+      "scope": "8Sep2008v2selectedprintedp5Lemma2.1statementandfirstproofsteps,notwholeproof;actualarxivv2statusalsochecked",
+      "finding": "Allreals gain2derivatives, h/sqrt(epsilon)H^(s+2) bound toH^s forcompactlysupportedfunctions,h<<epsilon<<1. F372usess=-1. v2removedv1incorrectProp2.4harmonicweights;notusedbythisdependency,notrejectionofLemma2.1.",
+      "pdf_sha256": "74efcc8db8b482c27a1ae2d35f876f323be01baf46dd68e70b45e03d2aa2468b",
+      "pdf_bytes": 244236,
+      "extracted_text_sha256": "fdca21a51686013c8eae39501fa75ec168ca505f32631aab300868f6c3ae1ec8",
+      "content_checked": true
+    }
+  },
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/docs/372.md",
+      "sha256": "5c6a8e21366181a580d561cfdc50d32306ac2f428ea487084db21bc5d603e3d6",
+      "scope": "Whole"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ElasticityUniqueness.json",
+      "sha256": "91b68c7c74c9e3a29813b2a205d9d078072bc69de056d9ef980304258fdf8444",
+      "scope": "Whole;presentnotregisteredinthepinnedcatalogue"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ElasticityUniqueness.lean",
+      "sha256": "c4c928a811cce5bd5bc46642e8dbf7e6ffd698856f1bf6ff12a511dddfaccb20",
+      "scope": "Whole challenge;expectedone sorry"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Elasticity/Basic.lean",
+      "sha256": "b956d8960fd3688037e57b66b27867db5383ea52d8907c0c81a6610609c7dcda",
+      "scope": "Whole114lineactualModel"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Elasticity/Uniqueness.lean",
+      "sha256": "e61417ed8ca267164c811d75019bd5097c125a519fdb512f54381ae96a4f40ad",
+      "scope": "Wholeactualproofentry"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Elasticity/Variational.lean",
+      "sha256": "c264b0bd3a95ec75b7791ee295d8d087e8b62eee6619e8fbd76a113750aceec1",
+      "scope": "Only968-1128selectedexistence/uniqueness/trace-invariance/physicaltransferread"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Elasticity/BoundaryCharts.lean",
+      "sha256": "d47d0e96f70c874f90d3e0257b17e555e57238b28760c52978e002aee71ca3ce",
+      "scope": "Only1-40SourceDomain/SourceSmoothBoundaryread"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Elasticity/Augmented.lean",
+      "sha256": "3c4bf3c38f8214521c82c8c35725c42478f94df41e554ef08b0cee1e2e431634",
+      "scope": "Only1-80coordinatealgebramodelread,notwholeidentityproof"
+    },
+    {
+      "path": "math/lean/OAI/MathematicalPhysics/Elasticity/Rigidity.lean",
+      "sha256": "abcbd172dcf0a019ed82656335fb76395d91a391ae6865535cf715be5e144847",
+      "scope": "Only1-100selectedgaugealgebraread,notwholeproof"
+    }
+  ],
+  "formal_index_only": {
+    "path": "data/graph/lean_indices/F-372.json.gz",
+    "sha256": "3ccbf492cf5c17f60113b6a4a5df9c4f19e24c1f2937edc78ebd4b4be0164e6d",
+    "local_files": 42,
+    "declarations": 2691,
+    "lexical_placeholders": 0,
+    "local_axioms": 0,
+    "external_unread_modules": [
+      "Mathlib"
+    ],
+    "build": false,
+    "comparator": false
+  },
+  "registration": "Actual372scope/config/Model/Uniquenesspresent;case-insensitiveElasticity/filename search hasnomatchinpinnedformalization.yaml;registrationfalse,notabsenceofactualproof.",
+  "semantic_gap": "ActualH1jetsandvariationaltracequotientDN;chartH1/2quotientnormidentificationexplicitlynotestablished. SelectedphysicalmodelscopeBonly,nofullconcordance/humanaudit/build.",
+  "history_gaps": [
+    "NU1994DOIwebopenfailed;publisheractuallandingmetadata/summaryavailablebutbodybehindsubscription. Authors2003erratumwholeoriginalread;do notreuseunrestricted1994proofasvalidpositivepremise.",
+    "15otheroriginalbodies/recursiveclosures/versiondiffunread;Eskin2004arxivv1notassumedidentical2003chapter;Tan2022v1notpublished2023proofaudit."
+  ],
+  "source_conditions": [
+    "ExactcompleteDNforalldisplacementdata,nofinite-noiseoracle",
+    "Commonboundaryjets/physicalu,actualdivu,weaktransfernotarbitraryauxiliaryCauchydata",
+    "KnownfiniteN>=4expansion stillhasunknownconstants/large-tau threshold",
+    "Finite-typeBdeterminedbytwounknowncoefficientpairs,notdirectreconstructioninput"
+  ],
+  "new_numerical_run": null,
+  "new_application_connection_ids": [
+    "APP-372-01",
+    "APP-372-02"
+  ],
+  "storage": "FiveprimaryPDF/textandone206PNGhashedthenremovedaftercurationchecks;nofullthirdpartypapersredistributed;staticindex/helpergziproundtrip."
+}

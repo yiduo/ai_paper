@@ -1,0 +1,86 @@
+{
+  "recorded_at": "2026-10-21T01:42:44.770201+00:00",
+  "source_archive_bytes": 42502,
+  "helper_gzip_bytes": 15684,
+  "helper_roundtrip": true,
+  "helper_sha256": "dcc33985935a5d351abf8826315095d580e02a35facc9fd6d39fb07396351887",
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-WP065/COPYING.txt",
+      "bytes": 61362,
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "retained_in": "data/provenance/demand/tiling-interfaces-20261021.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/core.log",
+      "bytes": 8529,
+      "sha256": "6d92b3371bd83b54e2a819d29b271e969ad2fbb99d928a2239e73fd9fb61f952",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/integrity.log",
+      "bytes": 724,
+      "sha256": "5f4a88bdef2a11819d903db9915e69fb5ed2b342bd2a9e1103e4b76ce0f1804c",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/finish-failed-count.log",
+      "bytes": 231,
+      "sha256": "34dacece65c97917a7aa011e1543facee79197c229f936e1a0294a06009759df",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/curate_solver.py",
+      "bytes": 16261,
+      "sha256": "9d6c5bd33a0cedc97f56462e4f6fa30558f3c61e6b0abf40c98482f842d0ff24",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/dancing_links.pyx",
+      "bytes": 37737,
+      "sha256": "6df2d1b46bbc2601534692974761d9429df0bf14aaf422703160a94bb0e85db1",
+      "retained_in": "data/provenance/demand/tiling-interfaces-20261021.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/finish_solver.py",
+      "bytes": 10354,
+      "sha256": "6cc259ac7cabe65b2daa730ca9e3b831727b172636bdfab0397d329b5bff70cd",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/quality.log",
+      "bytes": 83,
+      "sha256": "5f7723ab3a3d700cb244e435820d6037f7dc4751ac66f14319a64aaccd636946",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/export.log",
+      "bytes": 542,
+      "sha256": "0d37edc2617d7ddacb4f808fa2d1e30de7e884814eea99854aeb2324a3af7095",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/tiling.py",
+      "bytes": 90963,
+      "sha256": "9584d598c752357c7678732e863dcd2b4201fae90f8166fbe82b6237c11998a8",
+      "retained_in": "data/provenance/demand/tiling-interfaces-20261021.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/quality_solver.py",
+      "bytes": 3007,
+      "sha256": "4ab413244c0bdd9ade18266361fac73143e3d1495e3bae96f3a63fc72f11edef",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP065/integrity_solver.py",
+      "bytes": 3723,
+      "sha256": "c77e717a800d5f8cff3a0c6c770f0d04a5277b2350a7ace6e811eecb13b219a6",
+      "retained_in": "reports/reproducibility/20261021-tiling-consumer/curation-helpers.json.gz"
+    }
+  ],
+  "temporary_bytes_removed": 233516,
+  "temporary_directory_removed": true,
+  "no_installs": true,
+  "new_application_run": false,
+  "upstream_clean": true
+}

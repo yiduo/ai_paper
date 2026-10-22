@@ -1,0 +1,87 @@
+{
+  "recorded_at": "2026-10-21T01:51:49.850782+00:00",
+  "helper_gzip_bytes": 24947,
+  "helper_gzip_sha256": "901bcf039e6193a81a1708a01d7283ed997d4ac72f29804b90249134b5ee8efa",
+  "helper_roundtrip": true,
+  "formal_index_gzip_bytes": 77556,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-WP066/quality_f155.py",
+      "bytes": 2990,
+      "sha256": "d157023afdcaae0d1fae9e029c8a97d51d81d5f83a05236ad2657a01abb42324",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/core.log",
+      "bytes": 8529,
+      "sha256": "f7a707507fbf7e0354e63cfcf14f082b35f192dec695194f7ea43f2b444d3521",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/integrity.log",
+      "bytes": 1037,
+      "sha256": "ce1737e568bb0e99036c8d0f097e6162c5c8fe27b33b5e4a1d89894f14527483",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/finish_f334.py",
+      "bytes": 12274,
+      "sha256": "19c7130023721c1782d2b9cde0e586d8b5b4b66497c8e438152a73be83d0aaa5",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/integrity_f155.py",
+      "bytes": 4387,
+      "sha256": "e0646a1af1da8ba890c3bc189baf518398f2e99a77f0cc7b727295c2c564a530",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/quality.log",
+      "bytes": 83,
+      "sha256": "9f559644f43f74c69e5c1bfb07ae01298309c4b13e4f637a9d0635cbb6c6bee2",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/finish_f155.py",
+      "bytes": 11773,
+      "sha256": "e68e7499150da52a6996f6d3801fc0f98fe9ca97d53cc321b0f4c4b708c2a426",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/export.log",
+      "bytes": 542,
+      "sha256": "0475a8c7e4c0871582b90ca6e7cd55710a477b2de2e038a9fd374162fe839ac9",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/integrity_f334.py",
+      "bytes": 5032,
+      "sha256": "b78d521627db34411c87a0a0ab07b28156929838ec4caee150821aab7324c1e1",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/progress.json",
+      "bytes": 8583,
+      "sha256": "0174bebd0ead719e4d43a8c0de2147c5cfd83c1fbdee875037b7281e5f59c748",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/curate_f334.py",
+      "bytes": 27743,
+      "sha256": "853f0dde3e97bca8f7fa728a4163faaa97a65542423953cc5d1caf98516bdefa",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP066/quality_f334.py",
+      "bytes": 3004,
+      "sha256": "11904aba1786b51f0072c272af889e55de7905ab4f04f153b8b4549dd1470b06",
+      "retained_in": "reports/reproducibility/20261021-local-immersion/curation-helpers.json.gz"
+    }
+  ],
+  "temporary_bytes_removed": 85977,
+  "temporary_directory_removed": true,
+  "no_installs": true,
+  "external_raw_downloads": false,
+  "third_party_fulltext_redistributed": false,
+  "new_application_run": false
+}

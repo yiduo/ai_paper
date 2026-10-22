@@ -1,0 +1,143 @@
+{
+  "recorded_at": "2026-10-21T00:07:00.968078+00:00",
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-COPYING",
+      "bytes": 35147,
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/finish_f089_interfaces.py",
+      "bytes": 11079,
+      "sha256": "abd36953ab02b010ebfb9d135e006a965f0adba72340c3c22a60e7d364a2e59b",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-run-make",
+      "bytes": 7517,
+      "sha256": "31e2fec0df3a6e384e5f7d56793b8bf2aef061e54d71087850459684843235e9",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/souffle-types.md",
+      "bytes": 16537,
+      "sha256": "0ec0b5ac861b39d103aa299d9e372d5aeda05b05add94960f6cd20dd87ac73bf",
+      "retention": "External document temp only;hash retained,full file not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-lang.texi",
+      "bytes": 1746,
+      "sha256": "8c11cae8a03567991a5bbe03ddaa3d7a58a1ba8f994c94152c5e34eb35494502",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/integrity_query_interfaces.py",
+      "bytes": 3692,
+      "sha256": "ff6c8d77e4ce3cbe818118022cfc4a3159e056bd87ac0dcbdfc851730c2836f4",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/curate_f089_interfaces.py",
+      "bytes": 15955,
+      "sha256": "c1f26f039da0c5faa89e9e02328180333e92ef381bbc571b111204f4489bbb5f",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/quality_f089_interfaces.py",
+      "bytes": 2909,
+      "sha256": "7d8e1dcad3c70678cdcfc82345dd6305ce1058a0634b316eb599aa0e55c97ed8",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-lib.texi",
+      "bytes": 305841,
+      "sha256": "c47a9727423c60ec2af17694fffe1407a2a92ef43852918b3d771688b6558982",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/curate_query_interfaces.py",
+      "bytes": 19501,
+      "sha256": "f2d27a18ba23512425601b181c2a2252a0bf0a909fd9387dfc8f154984215d2d",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-doc-make",
+      "bytes": 5747,
+      "sha256": "6906652318fc7266c22462f41abe175fd5c786090201ec052f7f3bd1c10504ad",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/quality_query_interfaces.py",
+      "bytes": 2903,
+      "sha256": "404bb91359322dc1061d329cd7e15915b7e1125841b724ac1ae23806ab2bddd2",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/souffle-LICENSE",
+      "bytes": 1868,
+      "sha256": "a8fa2b59b71f4bf1aaf8713e9fd8015becf1dcab9d77330799f0641135367526",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-lib.c",
+      "bytes": 247757,
+      "sha256": "8c2bf0e4bdb0bd5ec2dae67e309aa6e66cf78cc49f4ad1e03166f49874b6795f",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/souffle-tutorial.md",
+      "bytes": 22914,
+      "sha256": "d17e0b1824f6443d1edc9d444a530cfd03a4097db2f263260de2951fe80d0679",
+      "retention": "External document temp only;hash retained,full file not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-LICENSE",
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/finish_query_interfaces.py",
+      "bytes": 11815,
+      "sha256": "c2bf285887eafc90b6d3b3b0653ae9101bd018af1bbd7096797dca551feb4d28",
+      "retention": "Own helper verified in compressed current or prior helper archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-src-make",
+      "bytes": 2869,
+      "sha256": "9e45e81f16fe951945288e651349165e0653e9030832aff275522d9c9720e1bd",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/souffle-RecordTable.h",
+      "bytes": 2189,
+      "sha256": "ef309393493656b446b4adecccb8d48616830b54638130e7688a0a308775bc42",
+      "retention": "Source/license in verified archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/souffle-functors.md",
+      "bytes": 9017,
+      "sha256": "94a72918f58f88bacc5779f445e1509143d6133a8be5768b7de2fe9fd0b7be42",
+      "retention": "External document temp only;hash retained,full file not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP058/setl-lib.html",
+      "bytes": 882146,
+      "sha256": "2947aada63d6aae0d97987f966ba9e26b9fdad554c8acf44187c7ff21e9b14fd",
+      "retention": "External document temp only;hash retained,full file not redistributed"
+    }
+  ],
+  "temporary_bytes_removed": 1644298,
+  "temporary_directory_removed": true,
+  "source_members_verified": 10,
+  "source_archive_gzip_bytes": 178181,
+  "helpers": {
+    "files": 4,
+    "gzip_bytes": 14389,
+    "gzip_sha256": "bb1fde251f36a6c68c85eb570b252c1bfecfec3c1d799dd29ceb929054de6f08",
+    "uncompressed_sha256": "3be648e1a63074c90febbbccb638ae286693c76ea784fac9266cbb0139ce15c3",
+    "roundtrip": true
+  },
+  "numerical_outputs": "No new numerical experiment;old replays compressed in temporary directories then automatically removed."
+}

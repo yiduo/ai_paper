@@ -1,0 +1,362 @@
+{
+  "family_id": "F-243",
+  "work_package": "WP-058",
+  "generation_id": "GEN-20261021-055",
+  "recorded_at": "2026-10-21T00:02:25.062217+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "selected_source_lines": 1740,
+  "sources": {
+    "setl/LICENSE": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/LICENSE",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "bytes": 35149,
+      "read_ranges": [
+        [
+          1,
+          90
+        ]
+      ],
+      "read_lines": 90,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/COPYING": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/COPYING",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "COPYING",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147,
+      "read_ranges": [
+        [
+          1,
+          10
+        ]
+      ],
+      "read_lines": 10,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/doc/Makefile.am": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/doc/Makefile.am",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "doc/Makefile.am",
+      "sha256": "6906652318fc7266c22462f41abe175fd5c786090201ec052f7f3bd1c10504ad",
+      "bytes": 5747,
+      "read_ranges": [
+        [
+          1,
+          157
+        ]
+      ],
+      "read_lines": 157,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/src/Makefile.am": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/src/Makefile.am",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "src/Makefile.am",
+      "sha256": "9e45e81f16fe951945288e651349165e0653e9030832aff275522d9c9720e1bd",
+      "bytes": 2869,
+      "read_ranges": [
+        [
+          1,
+          84
+        ]
+      ],
+      "read_lines": 84,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/src/run/Makefile.am": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/src/run/Makefile.am",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "src/run/Makefile.am",
+      "sha256": "31e2fec0df3a6e384e5f7d56793b8bf2aef061e54d71087850459684843235e9",
+      "bytes": 7517,
+      "read_ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "read_lines": 60,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/doc/setl-lang.texi": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/doc/setl-lang.texi",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "doc/setl-lang.texi",
+      "sha256": "8c11cae8a03567991a5bbe03ddaa3d7a58a1ba8f994c94152c5e34eb35494502",
+      "bytes": 1746,
+      "read_ranges": [
+        [
+          1,
+          86
+        ]
+      ],
+      "read_lines": 86,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/doc/setl-lib.texi": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/doc/setl-lib.texi",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "doc/setl-lib.texi",
+      "sha256": "c47a9727423c60ec2af17694fffe1407a2a92ef43852918b3d771688b6558982",
+      "bytes": 305841,
+      "read_ranges": [
+        [
+          1,
+          10
+        ],
+        [
+          68,
+          150
+        ],
+        [
+          426,
+          450
+        ],
+        [
+          770,
+          860
+        ],
+        [
+          1076,
+          1094
+        ],
+        [
+          1278,
+          1306
+        ],
+        [
+          2463,
+          2490
+        ],
+        [
+          4458,
+          4478
+        ],
+        [
+          4564,
+          4588
+        ],
+        [
+          6097,
+          6123
+        ],
+        [
+          9351,
+          9437
+        ]
+      ],
+      "read_lines": 445,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "setl/src/run/lib.c": {
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/src/run/lib.c",
+      "repository": "https://github.com/davidjbacon/SETL",
+      "revision": "078734b704433bc700d20d7f46f748094773585d",
+      "path": "src/run/lib.c",
+      "sha256": "8c2bf0e4bdb0bd5ec2dae67e309aa6e66cf78cc49f4ad1e03166f49874b6795f",
+      "bytes": 247757,
+      "read_ranges": [
+        [
+          1,
+          35
+        ],
+        [
+          983,
+          1039
+        ],
+        [
+          2206,
+          2227
+        ],
+        [
+          4074,
+          4080
+        ],
+        [
+          4184,
+          4249
+        ],
+        [
+          4768,
+          4819
+        ]
+      ],
+      "read_lines": 239,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "GPL3 corresponding COPYING/LICENSE retained;own file carries GPL notice"
+    },
+    "souffle/LICENSE": {
+      "url": "https://raw.githubusercontent.com/souffle-lang/souffle/f53dab8bf4bbf2395a26d2771f6b75395825cc46/LICENSE",
+      "repository": "https://github.com/souffle-lang/souffle",
+      "revision": "f53dab8bf4bbf2395a26d2771f6b75395825cc46",
+      "path": "LICENSE",
+      "sha256": "a8fa2b59b71f4bf1aaf8713e9fd8015becf1dcab9d77330799f0641135367526",
+      "bytes": 1868,
+      "read_ranges": [
+        [
+          1,
+          25
+        ]
+      ],
+      "read_lines": 25,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "UPL1.0 own header plus repository LICENSE retained"
+    },
+    "souffle/src/include/souffle/RecordTable.h": {
+      "url": "https://raw.githubusercontent.com/souffle-lang/souffle/f53dab8bf4bbf2395a26d2771f6b75395825cc46/src/include/souffle/RecordTable.h",
+      "repository": "https://github.com/souffle-lang/souffle",
+      "revision": "f53dab8bf4bbf2395a26d2771f6b75395825cc46",
+      "path": "src/include/souffle/RecordTable.h",
+      "sha256": "ef309393493656b446b4adecccb8d48616830b54638130e7688a0a308775bc42",
+      "bytes": 2189,
+      "read_ranges": [
+        [
+          1,
+          64
+        ]
+      ],
+      "read_lines": 64,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "UPL1.0 own header plus repository LICENSE retained"
+    },
+    "souffle-docs/pages/docs/types.md": {
+      "url": "https://raw.githubusercontent.com/souffle-lang/souffle-lang.github.io/95fe314b75412e452863b77dbec0f89b05b49fec/pages/docs/types.md",
+      "repository": "https://github.com/souffle-lang/souffle-lang.github.io",
+      "revision": "95fe314b75412e452863b77dbec0f89b05b49fec",
+      "path": "pages/docs/types.md",
+      "sha256": "0ec0b5ac861b39d103aa299d9e372d5aeda05b05add94960f6cd20dd87ac73bf",
+      "bytes": 16537,
+      "read_ranges": [
+        [
+          1,
+          60
+        ],
+        [
+          175,
+          245
+        ]
+      ],
+      "read_lines": 131,
+      "full_file_retained": false,
+      "full_file_read": false,
+      "license": "Separate documentation-repository license closure unresolved;full text not redistributed"
+    },
+    "souffle-docs/pages/docs/functors.md": {
+      "url": "https://raw.githubusercontent.com/souffle-lang/souffle-lang.github.io/95fe314b75412e452863b77dbec0f89b05b49fec/pages/docs/functors.md",
+      "repository": "https://github.com/souffle-lang/souffle-lang.github.io",
+      "revision": "95fe314b75412e452863b77dbec0f89b05b49fec",
+      "path": "pages/docs/functors.md",
+      "sha256": "94a72918f58f88bacc5779f445e1509143d6133a8be5768b7de2fe9fd0b7be42",
+      "bytes": 9017,
+      "read_ranges": [
+        [
+          1,
+          227
+        ]
+      ],
+      "read_lines": 227,
+      "full_file_retained": false,
+      "full_file_read": true,
+      "license": "Separate documentation-repository license closure unresolved;full text not redistributed"
+    },
+    "souffle-docs/pages/docs/tutorial.md": {
+      "url": "https://raw.githubusercontent.com/souffle-lang/souffle-lang.github.io/95fe314b75412e452863b77dbec0f89b05b49fec/pages/docs/tutorial.md",
+      "repository": "https://github.com/souffle-lang/souffle-lang.github.io",
+      "revision": "95fe314b75412e452863b77dbec0f89b05b49fec",
+      "path": "pages/docs/tutorial.md",
+      "sha256": "d17e0b1824f6443d1edc9d444a530cfd03a4097db2f263260de2951fe80d0679",
+      "bytes": 22914,
+      "read_ranges": [
+        [
+          1,
+          32
+        ],
+        [
+          291,
+          354
+        ],
+        [
+          378,
+          403
+        ]
+      ],
+      "read_lines": 122,
+      "full_file_retained": false,
+      "full_file_read": false,
+      "license": "Separate documentation-repository license closure unresolved;full text not redistributed"
+    }
+  },
+  "archive": {
+    "path": "data/provenance/demand/query-interfaces-20261021.json.gz",
+    "gzip_sha256": "199c7e7af9f933de3b2e8be2ce9424dc3601ae6067814a52775b62ffc9f0bdf5",
+    "uncompressed_sha256": "10907bd5ad01c53a5df3941da3475bb88bfa16c3ab396314580bdedb18b8924b",
+    "gzip_bytes": 178181,
+    "members": 10,
+    "roundtrip": true
+  },
+  "selected_primary_versions": [
+    {
+      "title": "GNU SETL Library Reference",
+      "author": "David Bacon",
+      "version": "Pinned repository 078734b704433bc700d20d7f46f748094773585d;file Id revision1.405 2025-02-07",
+      "url": "https://raw.githubusercontent.com/davidjbacon/SETL/078734b704433bc700d20d7f46f748094773585d/doc/setl-lib.texi",
+      "sha256": "c47a9727423c60ec2af17694fffe1407a2a92ef43852918b3d771688b6558982",
+      "scope": "Selected original author-maintained semantics ranges recorded above;not whole reference,not historic SETL proof,not interpreter operational/resource certification."
+    }
+  ],
+  "contracts": {
+    "setl_values": "Author-maintained Library Reference explicitly has value semantics for arbitrarily nested sets/tuples,cardinality # and opaque newat atoms. This is a real set-oriented host,not a certified full countingCPT fragment;arbitrary nesting is a type capability,not a polynomial active-object bound.",
+    "setl_choice": "arb returns an arbitrary,not uniformly random,member;empty returns om. Actual l_arb selects first internal table entry via ordsee;from uses set_from and removes an element. Implementation determinism or isomorphism-invariant final Boolean answers do not establish choiceless intermediate states. No orbit-transitivity or history-fixing witness is provided,so this is not WSC by inspection. Table/key/atom allocator internals remain unread.",
+    "setl_order_and_host": "String comparisons expose character-code order and tuple comparisons recurse;do not claim opaque atoms have a documented comparison order. newat creates fresh values,which are not simply preexisting input atoms. callout is a C hook whose shipped stub returns om;do not claim that stub already solves rank. Ordinary external procedures/ordered encoding can implement old exact F3 elimination;neither its implementation nor a native rank operator was found/run here.",
+    "setl_resources": "pow specifies all 2^|s| subsets;actual l_pow materializes each subset and inserts it,with machine-word 1<<m in this selected implementation. No large-input correctness/overflow claim from this static audit. npow enumerates all k-subsets;fixed k may give polynomial output but arbitrary k or the whole host does not guarantee CPT bounds. The --restricted mode list restricts OS calls,not arb/pow or global polynomial time/active HF objects. Main language-reference file is explicitly a placeholder,not a complete operational semantics.",
+    "souffle_values": "Pinned Types manual supports nested and recursively typed records and ADTs;nil is a record base case and nested I/O reads/writes composed records. It is incorrect to describe the whole language as flat bounded-rank Datalog. Typed ordered records/terms are also not automatically extensional unordered HF sets.",
+    "souffle_order_and_host": "Symbols are strings with exposed ord numbers that may change across runs. Tutorial autoinc creates identifiers and is forbidden in recursive relations. Arithmetic/ordered comparisons and external C/C++ functors are exposed. Functors must be functional and reentrant,which does not prove permutation equivariance,CPT eligibility or resource bounds. Stateful interface passes SymbolTable/RecordTable pointers;actual runtime RecordTable declares pack/unpack/enumerate. No interpreter or external functor executed.",
+    "souffle_resources": "Tutorial warns about nontermination under arithmetic-generated values,while Types documents finite default32/configurable64bit numeric domains. Treat the tutorial Turing-equivalence slogan as an idealized/unbounded semantic warning,not a proof about a particular finite-word build. Recursive records and generated values require separate termination/cardinality/cost arguments. A fixed positive function-free no-new-values relation fragment has at most sum_i n^arity_i possible facts,so standard finite saturation is polynomial for fixed syntax;this source-grounded derivation does not certify arbitrary extensions,aggregates,compiler-generated objects or expose full arbitrary-rank CPT power.",
+    "compiler_gate": "A candidate eligible fragment must specify opaque input atoms,permitted constants and full8 input relations;extensional set equality/counting,union,unique-element tests and comprehension;parallel/choiceless iteration semantics;no atom IDs/ord,arbitrary pick,fresh input atoms,host solver or uncharged lazy oracle. Supply a syntax-to-CPT translation preserving Boolean/empty/error behavior and uniform polynomial runtime/active transitive-closure space including temporary/rejected objects. A blacklist or finite relabel test alone is insufficient. This is a required interface specification,not an implemented or certified compiler.",
+    "strong_old_baseline": "Q is already decidable on ordinary ordered input encodings by exact F3 elimination,or rank(A)=rank([A|b]);the arbitrary ordering may change the path while preserving the Boolean answer. An order/host-functor/rank-enabled consumer is not excluded by CPT nondefinability. Ordinary flat fixed-arity Datalog is below the full CPT target;old FPC/CFI and already-read preordered-CFI positive algorithm must be compared before claiming any new obstruction. No general GNN,SQL,SETL or Souffle impossibility inferred.",
+    "sparse_gate": "No audited interface provides the paper full8-relation charged structures with a verified compact implementation. Finite sparse/lazy evaluator must preserve relation membership and quantification,charge both construction/queries and all represented/temporary objects,hide generator coordinates and charge summary from tested programs,and independently crosscheck F3 consistency and special-case divergence. A generator coordinate tuple,convenient input enumeration or free total-charge oracle changes the permitted information. No memory-feasible witness scale,unknown program-dependent threshold or equivalent HF cost model has been established;this does not prove no feasible implementation exists.",
+    "decision": "Two actual hosts found but no certified actual order-free polynomial nested-set consumer and no budget-closed witness encoding. Lower APP24301 numerical implementation priority,retain conditional candidate,not a formal rejection. No new candidate,initial checked card,hypothesis or numerical run. Organize these scope mismatches and reopening prerequisites in the knowledge graph before selecting another source family."
+  },
+  "decisions": [
+    "Two actual hosts found but no certified actual order-free polynomial nested-set consumer and no budget-closed witness encoding. Lower APP24301 numerical implementation priority,retain conditional candidate,not a formal rejection. No new candidate,initial checked card,hypothesis or numerical run. Organize these scope mismatches and reopening prerequisites in the knowledge graph before selecting another source family."
+  ],
+  "unresolved": [
+    "No actual compiler-equivalence proof,certified consumer/program or complete dependency audit.",
+    "No equivalent sparse input and total HF resource accounting/feasible witness threshold.",
+    "Souffle separate doc repository licensing unresolved;only hashes/locators and audit notes retained.",
+    "GNU SETL deep runtime internals and compiler,third-party dependencies not audited;no installation/run.",
+    "No human or independent-provider review."
+  ],
+  "numerical_runs": [],
+  "initial_check_eligible": false,
+  "source_methods_credibility": "C",
+  "full_dependency_chain": "unknown"
+}

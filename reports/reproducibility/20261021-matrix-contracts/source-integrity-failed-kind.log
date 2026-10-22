@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/private/tmp/ai-paper-WP061/integrity_matrix.py", line 21, in <module>
+    f=next(x for x in nav['families']if x['id']=='F-142');assert set(nodes['ANALYSIS-F-142']['properties']['method_ids'])==set(f['method_ids'])
+                                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

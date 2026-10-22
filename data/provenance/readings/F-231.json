@@ -1,0 +1,645 @@
+{
+  "family_id": "F-231",
+  "work_package": "WP-081",
+  "generation_id": "GEN-20261021-077",
+  "recorded_at": "2026-10-21T06:02:39.770082+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": [
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/paper.tex",
+      "sha256": "66bcdbe2cea06d1ca105512785eed4d721ce61fce636108ea408f02fc54f138d",
+      "lines": 59,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/decoder.tex",
+      "sha256": "cc95c74cd44ce38b0acced7739fd779b955e041540b6048840abd46afc55708c",
+      "lines": 222,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/implementation.tex",
+      "sha256": "c2f7bbc0ef25981e07cd21729ccf4d61ab323f92c3d9a0faf289422447cd5e06",
+      "lines": 137,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/introduction.tex",
+      "sha256": "dad6116c16a38c646f88a315e46faf5ee0c2df84d84830af9b7c3c7a5bf88e3a",
+      "lines": 223,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/observation.tex",
+      "sha256": "35e4460d8f525f885560c1392d153788af2aad2a74f4ef3fa90217bc7c3de72d",
+      "lines": 171,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/response.tex",
+      "sha256": "9d929e17b839fe38aa49e54f716ece23e69e553d04c10f70927ef9637fc84a5c",
+      "lines": 332,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/strongly-rayleigh.tex",
+      "sha256": "0edd0187ada0775ef144da2d936d534221cec2281734a075dd8ebd0703477df9",
+      "lines": 192,
+      "actual_read_scope": "Whole natural TeX including all proof/figure text"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/references.bib",
+      "sha256": "2f67692ee1b1b3e2a620aa6ab54b00bcc5814b585203b50ade04e73b50307681",
+      "lines": 220,
+      "actual_read_scope": "Whole bibliography metadata;not full external bodies"
+    },
+    {
+      "path": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/README.md",
+      "sha256": "854ffdcdd86351fa88e40705130e2747632cb9673e6cccc1f73fbfdcc2f4189a",
+      "lines": 18,
+      "actual_read_scope": "Whole source identity/citation README"
+    }
+  ],
+  "source_tex_files": 7,
+  "source_tex_lines": 1336,
+  "additional_bibliography_lines": 220,
+  "formal_selected": [
+    {
+      "path": "math/lean/docs/231.md",
+      "sha256": "845749e5c67607039ce5a266a849a1d5c239ca34f063f37aad0787c6eec360c1",
+      "lines": 18,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FreeUniformSpanningForest.json",
+      "sha256": "8de9824bd745146b43507600d6073c5c86dab5c516da89e4f060e8464f177694",
+      "lines": 14,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StronglyRayleighDPP.json",
+      "sha256": "cbdd5d6185b5a5af1fb02250a934c798b1588bda294e5b83f1a9b04648f477b3",
+      "lines": 19,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FreeUniformSpanningForest.lean",
+      "sha256": "65256a3edbf550d34d54125b8fbdb4859845daee77601ea41c97e78aacb3fb39",
+      "lines": 149,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/StronglyRayleighDPP.lean",
+      "sha256": "2058dbda79146234fc04b8d1d1168dc48814d8af2e2295be6ecbbe47f2dfca60",
+      "lines": 185,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/SpanningForest/Factor.lean",
+      "sha256": "63304e8b198792334b23644dfd41fc16b89ea3ad9f832a1a7e24227545ed0ba6",
+      "lines": 28,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/SpanningForest/Theory.lean",
+      "sha256": "13025a7378ed7d95d71f4f7f45c08d773394d0d70011cf52ffb223f0cc4253a7",
+      "lines": 45,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/SpanningForest/FinalFactor.lean",
+      "sha256": "5f6f81d1c74ca5f95d61d387a8ed12d86d5f3c58d098e65961fb9f313499ddad",
+      "lines": 65,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/SpanningForest/GraphLaw.lean",
+      "sha256": "13a2c5122398eca5a5b7d2cc9a01e7f0eefd61dd338d5e85b93a7db9170555da",
+      "lines": 50,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/SpanningForest/AllPairAllocation.lean",
+      "sha256": "297ca548f6ec8ccf7ae3bf13f20295255390a79d6ed319755425a02121b989ac",
+      "lines": 202,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/StrongRayleigh/Main.lean",
+      "sha256": "8476097aa9792736d7d49a403d1d5cdd676d4bdf896927cd8b466fa5d7c397d0",
+      "lines": 90,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/StrongRayleigh/Model.lean",
+      "sha256": "95779cc77f3de4ce46cfde43f9e6d702d9dba7e9ea82eec26aa23dfab9c95ffd",
+      "lines": 136,
+      "actual_read_scope": "Whole selected metadata/definition/endpoint/bridge file,not complete proof closure"
+    },
+    {
+      "path": "math/lean/OAI/Probability/SpanningForest/JointProcessLaw.lean",
+      "sha256": "980b1e70613f918953b4f42e4c0a8b3f26c0084d10c93b3b888d0108242e294c",
+      "lines": 141,
+      "actual_read_scope": "Selected1-90 actual module/public import/import all and joint-process lemma;rest unread"
+    }
+  ],
+  "formal_index": {
+    "forest": {
+      "path": "data/provenance/F-231-forest-lean-index.json.gz",
+      "files": 224,
+      "declarations": 1943
+    },
+    "strongly_rayleigh": {
+      "path": "data/provenance/F-231-strongrayleigh-lean-index.json.gz",
+      "files": 107,
+      "declarations": 781
+    },
+    "union_files": 331,
+    "union_declarations": 2724,
+    "local_build": "not_run",
+    "Comparator": "not_run",
+    "human_spec_review": "missing",
+    "remaining_external_modules": [
+      "Mathlib",
+      "Mathlib.LinearAlgebra.Matrix.ToLin",
+      "Mathlib.Probability.Independence.Process.HasIndepIncrements.IsGaussianProcess"
+    ],
+    "static_only": true
+  },
+  "selected_original_scopes": [
+    {
+      "key": "BLPS2001",
+      "url": "https://rdlyons.pages.iu.edu/pdf/usf.pdf",
+      "observed_version": "AuthorPDFVersion27Jan2009;published2001",
+      "scope": "SelectedSec3 Theorem3.1/pp7-8 weightedWilson,Sec4 transfercurrent/negativedependence,Sec5Theorem5.1/Prop5.6 pp17-19 wired transient and equality recurrent,Sec7Theorem7.8p25 and finite-cycle distinction;not whole72pages",
+      "finding": "FiniteweightedUST already samplable;rootedatinfinity transientscope WUSF notuniversalFUSF;lawroot/order invariance is not same as oneall-input isomorphism-equivariant map."
+    },
+    {
+      "key": "Timar2025",
+      "url": "https://arxiv.org/html/2306.15120v2",
+      "observed_version": "v2 16Dec2025",
+      "scope": "IntroductionTheorems1/2(1),Sec2definitionshyperfinite/ordinaryvsfinitary,Sec3compatiblemonotonelimitsTheorem4/Cor5;not all proof dependencies",
+      "finding": "Recurrentand invariantlyamenable unimodular laws haveoldFIID;underinvariantamenability finite-valuedfinitary isstrongerthannewordinaryBorelguaranteeinthatdomain. Sourceuniversalgraphwiserangebeyondthatdomainnotidenticaltotheoldresult."
+    },
+    {
+      "key": "AlishahiBarzegarZamani2023",
+      "url": "https://arxiv.org/html/2203.03935v2",
+      "observed_version": "v2 22May2022;publication2023",
+      "scope": "Sec2.2DefinitionSR,Prop2.4/Lemma2.5andEq1 row covariance bound,Remark2.7;selected only",
+      "finding": "Absolute covariance row<=2Var<=1/2alreadyold;uniformpositivefieldtilts requireclosureSRunderpositiveexternalfields (sourceBBL reference,body not checked this package). NA orpairwise sign alone not fullSR/admission. No newfiniteboundcredit."
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "title": "OnegraphwiseBorelFUSFrule",
+      "scope": "Infinite connected locallyfinite simple undirected UNWEIGHTED graph;one Borel root-independent edge rule transportedby every labelledgraphisomorphism,fulljoint FUSFlaw fromcontinuous IIDvertexUniform[0,1]. Noamenability/transience/uniformdegree/degree-moment hypothesis. OrdinaryBorel factor,NOTfinitary/finitealphabet/runtime guarantee.",
+      "selected_source_grade": "B"
+    },
+    "cor:unimodular": {
+      "title": "Unimodularlawconsequence",
+      "scope": "Samegraphwiseruleworksconditionaloneachadmittedgraph foranyunimodular randomgraphlaw;mass-transportidentitynotusedformain. No intersectionofconull-labelsetsacrossuncountablymanygraphsrequired.",
+      "selected_source_grade": "B"
+    },
+    "thm:sr-group": {
+      "title": "StronglyRayleighregular-groupfactor",
+      "scope": "CountablegroupGamma,includingfinite/nonfinitelygenerated/nonamenable;invariantbinarylawwhoseeveryfinitemarginalisSR. Borelmap MAYdependonGammaandnu;equivariantunderregularLEFTtranslations forALLg/ALLlabelinputs. Notarbitrarygroupaction/allgraphisomorphisms/finitary/Bernoulliisomorphism.",
+      "selected_source_grade": "B"
+    },
+    "cor:dpp-group": {
+      "title": "InvariantHermitianDPPregular-groupfactor",
+      "scope": "SelfadjointpositivecontractionK onell2(countableGamma),DPP law invariantunderregularleftaction. Lawinvarianceissufficient;Kcommutingleftrepresentationisstrongersufficientcondition,notnecessaryhypothesisoflaw-invariantbranch. ComplexHermitian/singular/projectionkernelsallowed,no traceclassassumption.",
+      "selected_source_grade": "B"
+    },
+    "lem:tree-response": {
+      "title": "Finiteweightedtreeexactrowresponse",
+      "scope": "Finiteconnectedgraph>=2vertices,strictlypositiveconductancese^h,allreallogfields. DerivativeisCov;negativeoffdiagonal+fixed|V|-1give SUMabsoluteCov=2p(1-p)<=1/2,globalmaxfieldLipschitz1/2. Bridgesp1/zerorow included. Finiteoldidentitynotinfiniteforestcardinalityidentity.",
+      "selected_source_grade": "C"
+    },
+    "prop:free-limit": {
+      "title": "Freeconnectedexhaustionlimit",
+      "scope": "IncreasingfiniteCONNECTEDsubgraphscoverALLedges ofadmittedinfinitegraph,notnecessarilyinduced. USTlawszeroextendedoutsidewindow convergeweaklytoexhaustionindependentacycliclaw. KernelI-PclosedfiniteCYCLEspace,notallinfinitedivergencefreeflows. No finite-volume convergence rate.",
+      "selected_source_grade": "C"
+    },
+    "lem:forest-response": {
+      "title": "Finite-fieldforestresponse",
+      "scope": "FiniteobservedS,actualinfiniteFUSFlawnubase,exp(sum(y-t/2)X)tilt;positivefinitepartitionratio. t>=0/arbitraryfinitefields:range[0,1],continuity,Lipschitz1/2 inobservedfieldmax. Semptyconstant. No infinite externalfield partition or spatialradiusbound.",
+      "selected_source_grade": "C"
+    },
+    "prop:canonical-drift": {
+      "title": "CanonicaleverywhereBoreldrift",
+      "scope": "Intrinsicunordered-edgeballsSn;innerfreevolumem->infinitywithnFIXED,thenouterlimsupn. JointBorelboundeddrift atEVERYfield,rootfreeisomorphism-equivariant. SupnormLipschitz1/2onlyrequiresBOUNDED DIFFERENCE;individualfields maybothunbounded. Outerlimitexistencenotassertedatarbitraryfields.",
+      "selected_source_grade": "C"
+    },
+    "lem:posterior": {
+      "title": "Countablebinaryposterior",
+      "scope": "ANYcountablebinarylaw,independentstandardBrownianobservationY=tX+B,finiteobservedexhaustions. b_i(t,Y(t))=E[Xi|rawfullobservationhistory] forEACHFIXEDi,t almostsurely. No uniformresponseassumption oroneexceptionalsetforallreal-timeposterioridentitiesrequired.",
+      "selected_source_grade": "C"
+    },
+    "lem:innovation": {
+      "title": "Fulljointinnovationlaw",
+      "scope": "Samearbitrarycountablebinaryobservation;Y-integralposterior definesJOINTindependentBrownianfamily;finite-coordinateincrements independentofentireobservationpast. Fixed-timeposterior identitiesintegratedbyboundedFubini;notassumingcorrectionindependentofGaussianincrement. No Lipschitzresponsehypothesis here.",
+      "selected_source_grade": "C"
+    },
+    "lem:inverse": {
+      "title": "Bounded-differencePicardinverse",
+      "scope": "Countableproductcontinuouspathspace;JOINTBOREL b(t,y)in[0,1]^I andUNIFORMfiniteL onboundedfielddifferences. EVERYcontinuousinputw hasauniqueBorelcausal integral-equationsolution/equivarianceforintertwineddrift. Picardincrement<=L^k t^(k+1)/(k+1)!,includingL0;uniformboundsareonCORRECTIONS/differences,not w orindividualpathfamily. Exactdrift/integrals;notfinitequeryoraclecost.",
+      "selected_source_grade": "C"
+    },
+    "prop:brownian-sampler": {
+      "title": "Response-controlledjointlawtransfer",
+      "scope": "ANYcountablebinarynuwithactualfinitemarginaltilts anduniformL forallcoordinates,exhaustionstages,t,finitefields. Buildlimsupdrift,deterministicinverse,readout1{limsupinteger n Z_i(n)/n>1/2}. SendsfullproductWienerlawtofullJOINTnu. AllinputBoreldefaultdefinedonbadslopes;equivarianceONLYforchosenexhaustion/driftsymmetries. No uniformLforall-zero/all-one mixture (row|S|/4).",
+      "selected_source_grade": "C"
+    },
+    "lem:edge-noise": {
+      "title": "VertexIIDtoedgeWienernoise",
+      "scope": "ContinuousIIDvertexlabels splitintokeys/privateinfiniteuniformpools;onGLOBALkey-distincteventrankneighboratlower-keyendpointselectsdisjointcoordinates,thenBoreluniformtoWienermap. Simplelocallyfinitegraphneededforinjection;allkeycollisionlabelingsgloballydefaultzero. AlmostsureIIDBrownianlaw,pointwiseequivariance;finitebits/floatkeyscollisionnotassumednull.",
+      "selected_source_grade": "C"
+    },
+    "lem:sr-response": {
+      "title": "OldSRcovariancerowboundunderalltilts",
+      "scope": "FiniteNONEMPTYbinarySRlaw,arbitrarypositiveexternalfields. DerivativeCov,SUMabsoluteCov<=2p(1-p)<=1/2 andmaxfieldLipschitz1/2. SymmetrichomogenizationaddsN dummycoordinatesmakingfixedNtotal,BBLstability+negativecrosscov. No fullsupport orfixedcardinalityassumedoforiginallaw. ThisrowboundalreadyoldABZ/GLP,notnewfiniteconstant.",
+      "selected_source_grade": "B"
+    }
+  },
+  "method_contracts": [
+    {
+      "id": "PART-231-TREE-RESPONSE",
+      "title": "加权树响应与旧常数",
+      "input": "FiniteweightedUST withpositiveweights",
+      "output": "Exactcovariance/Jacobianrow2p(1-p)<=1/2",
+      "cannot_transfer": "Oldfiniteidentity;no infinite-cardinality argument",
+      "natural_result_label": "lem:tree-response"
+    },
+    {
+      "id": "PART-231-FREE-CYCLE-LIMIT",
+      "title": "自由边界与有限循环空间",
+      "input": "Increasingconnectedfreeexhaustioncoveringedges",
+      "output": "LawkernelI-Pclosure(finitecycles)",
+      "cannot_transfer": "Notwiredkernel/allinfinitedivergencefreeflows;no cutoffrate",
+      "natural_result_label": "prop:free-limit"
+    },
+    {
+      "id": "PART-231-FINITE-TILT",
+      "title": "真实有限边缘的后验倾斜",
+      "input": "Actualnu finitemarginals,finiteS,t,y",
+      "output": "Positiveexponentialtiltmean in[0,1]",
+      "cannot_transfer": "No infinitepartition;finitevolumetargetnotquietlysubstituted",
+      "natural_result_label": "lem:forest-response"
+    },
+    {
+      "id": "PART-231-ORDERED-SPATIAL-LIMITS",
+      "title": "双空间极限的次序",
+      "input": "Forfixedobservedradiusn,t,y letfreevolumemgrow",
+      "output": "Innerlimitthenouterlimsupdefinesallfielddrift",
+      "cannot_transfer": "Diagonal m=n passage not established",
+      "natural_result_label": "prop:canonical-drift"
+    },
+    {
+      "id": "PART-231-BOUNDED-DIFFERENCE",
+      "title": "无界场的有界差分稳定性",
+      "input": "Bothfieldspossiblyunbounded,butsupdifferencefinite",
+      "output": "Uniform1/2supresponsedifference",
+      "cannot_transfer": "NotBrownianfieldinlinfinity;notspatialdecay",
+      "natural_result_label": "prop:canonical-drift"
+    },
+    {
+      "id": "PART-231-BINARY-OBSERVATION",
+      "title": "二元高斯观测的真实后验",
+      "input": "Anycountablebinarylaw,independentBrownianY=tX+B",
+      "output": "Fixed-timeposteriorusingfiniteendpointtiltandbridges",
+      "cannot_transfer": "No globalconullsetforallt orresponseconditionasserted",
+      "natural_result_label": "lem:posterior"
+    },
+    {
+      "id": "PART-231-JOINT-INNOVATIONS",
+      "title": "联合创新而非逐坐标边缘",
+      "input": "Rawfullobservationfiltrationandboundedposteriordrift",
+      "output": "FullindependentWienerlawandincrementsindependentofpast",
+      "cannot_transfer": "MarginalBrownianchecksnotfulljointlaw;noindependentcorrectionassumption",
+      "natural_result_label": "lem:innovation"
+    },
+    {
+      "id": "PART-231-PICARD-INVERSE",
+      "title": "可测、因果的全输入逆",
+      "input": "BoundedBoreldrift/uniformL/exactintegrals/everycontinuousinput",
+      "output": "Uniqueinverseandfactorialiterationincrementtail",
+      "cannot_transfer": "Finiteiterationtailnotspatialoracle/integration/finitebiterror",
+      "natural_result_label": "lem:inverse"
+    },
+    {
+      "id": "PART-231-INTEGER-SLOPE",
+      "title": "整数时刻的联合读出",
+      "input": "Exactdecodedobservationlaw/independentWiener",
+      "output": "limsupZ_i(n)/n>1/2 recoverswholebinarylaw",
+      "cannot_transfer": "Infinite-timeordinaryBorelfactor;finite-timefalseclassificationneedsseparatebound",
+      "natural_result_label": "prop:brownian-sampler"
+    },
+    {
+      "id": "PART-231-VERTEX-EDGE-ALLOCATION",
+      "title": "无根标签到不相交边随机坐标",
+      "input": "Distinctrealkeys/privateIIDstreams/simplelocalfiniteness",
+      "output": "Everyedgeusesdifferentvertex-rankpoolcoordinate",
+      "cannot_transfer": "Globalcollisionfallbacknotfiniteprecisionguarantee;notfinitealphabet",
+      "natural_result_label": "lem:edge-noise"
+    },
+    {
+      "id": "PART-231-UNIFORM-WIENER",
+      "title": "一个均匀变量到完整布朗路径",
+      "input": "ExactcontinuousUniform[0,1]withinfinitebinarydigits",
+      "output": "EverywhereBoreldyadicGaussianbridgepathwithdefaultonbadinputs",
+      "cannot_transfer": "Notfinitepseudorandomseed/exactWieneronfinitebits",
+      "natural_result_label": "lem:edge-noise"
+    },
+    {
+      "id": "PART-231-VARYING-GRAPH-BOREL",
+      "title": "跨图可测与重新指定边",
+      "input": "Intrinsicunordered-edgeballs/finitelabel-keylistings",
+      "output": "Onegraphwiserulefromcountablelimits/timeintegrals",
+      "cannot_transfer": "MeasurableevaluationmaydependonWHOLEgraph,notfinite-radiusfunction",
+      "natural_result_label": "thm:main"
+    },
+    {
+      "id": "PART-231-SR-HOMOGENIZATION",
+      "title": "强Rayleigh的补足坐标",
+      "input": "FiniteSRlawafterpositivefieldtilt",
+      "output": "Stablefixed-sizeextensionandnonnegativecovrow",
+      "cannot_transfer": "NeedSRclosure;negativeassociation/fixedsizealoneinsufficient",
+      "natural_result_label": "lem:sr-response"
+    },
+    {
+      "id": "PART-231-REGULAR-GROUP-EXHAUSTION",
+      "title": "正则左作用的协变穷竭",
+      "input": "CountableGamma/finiteFn containingidentity",
+      "output": "Sn(h)=hFn,pointwisefullinputequivariantdrift",
+      "cannot_transfer": "NoFolner/finitegenerationneeded;notarbitrarygroupaction",
+      "natural_result_label": "thm:sr-group"
+    },
+    {
+      "id": "PART-231-DPP-FINITE-MARGINAL",
+      "title": "Hermitian核与有限包含行列式",
+      "input": "CountablepositivecontractionK,actualfinitecompressions",
+      "output": "AllfinitemarginalsSRandconsistentDPP laws",
+      "cannot_transfer": "No traceclassrequirement;merecorrelationmatrixnotqualified",
+      "natural_result_label": "cor:dpp-group"
+    },
+    {
+      "id": "PART-231-LAW-VS-KERNEL-INVARIANCE",
+      "title": "分布不变与核不变分别建模",
+      "input": "DPP lawleftinvariant,orstrongerKcommuteslefttranslations",
+      "output": "Regular-groupfactor;kernelbranchimplieslawbranch",
+      "cannot_transfer": "Kernelcommutationnotnecessaryconditionforlawbranch",
+      "natural_result_label": "cor:dpp-group"
+    },
+    {
+      "id": "PART-231-ORDINARY-VS-FINITARY",
+      "title": "普通因子与有限可解码能力",
+      "input": "BorelIIDfactoronfullinfinitegraph",
+      "output": "Sharedjointsampleexistencewithisomorphismequivariance",
+      "cannot_transfer": "No a.sfinitecodingradius/finitealphabet/finiteexpectedwork;oldamenableresultstrongerthere",
+      "natural_result_label": "thm:main"
+    },
+    {
+      "id": "PART-231-RESPONSE-ADMISSION",
+      "title": "响应资格不由相关直觉替代",
+      "input": "Uniformfinite-tiltrowboundindependentofsite/window/time",
+      "output": "AdmitabstractBrownianinverseonlywhenLfinite",
+      "cannot_transfer": "All-zero/all-one mixture row|S|/4fails;innovationlawaloneinsufficient",
+      "natural_result_label": "prop:brownian-sampler"
+    }
+  ],
+  "bibliography_entries": [
+    {
+      "key": "BLPS2001",
+      "title": "Uniform Spanning Forests",
+      "entry": "@article{BLPS2001,\n  author = {Benjamini, Itai and Lyons, Russell and Peres, Yuval and Schramm, Oded},\n  title = {Uniform Spanning Forests},\n  journal = {The Annals of Probability},\n  volume = {29},\n  number = {1},\n  pages = {1--65},\n  year = {2001},\n  doi = {10.1214/aop/1008956321},\n  note = {\\url{https://doi.org/10.1214/aop/1008956321}},\n  url = {https://rdlyons.pages.iu.edu/pdf/usf.pdf}\n}\n\n",
+      "lines": [
+        1,
+        13
+      ],
+      "urls": [
+        "https://doi.org/10.1214/aop/1008956321",
+        "https://rdlyons.pages.iu.edu/pdf/usf.pdf"
+      ]
+    },
+    {
+      "key": "Timar2025",
+      "title": "Factor of iid's through stochastic domination",
+      "entry": "@article{Timar2025,\n  author = {Tim{\\'a}r, {\\'A}d{\\'a}m},\n  title = {Factor of iid's through stochastic domination},\n  year = {2025},\n  journal = {Israel Journal of Mathematics},\n  doi = {10.1007/s11856-025-2884-1},\n  eprint = {2306.15120v2},\n  archivePrefix = {arXiv},\n  primaryClass = {math.PR},\n  note = {Published online 11 December 2025. Version cited:\n          arXiv:2306.15120v2, 16 December 2025; first posted in 2023.\n          \\url{https://arxiv.org/abs/2306.15120v2}},\n  url = {https://arxiv.org/abs/2306.15120v2}\n}\n\n",
+      "lines": [
+        14,
+        28
+      ],
+      "urls": [
+        "https://arxiv.org/abs/2306.15120v2"
+      ]
+    },
+    {
+      "key": "ElAlaouiMontanari2022",
+      "title": "An Information-Theoretic View of Stochastic Localization",
+      "entry": "@article{ElAlaouiMontanari2022,\n  author = {El Alaoui, Ahmed and Montanari, Andrea},\n  title = {An Information-Theoretic View of Stochastic Localization},\n  journal = {IEEE Transactions on Information Theory},\n  volume = {68},\n  number = {11},\n  pages = {7423--7426},\n  year = {2022},\n  doi = {10.1109/TIT.2022.3180298},\n  eprint = {2109.00709v2},\n  archivePrefix = {arXiv},\n  primaryClass = {cs.IT},\n  note = {Preprint version: arXiv:2109.00709v2.\n          \\url{https://arxiv.org/abs/2109.00709v2}},\n  url = {https://arxiv.org/abs/2109.00709v2}\n}\n\n",
+      "lines": [
+        29,
+        45
+      ],
+      "urls": [
+        "https://arxiv.org/abs/2109.00709v2"
+      ]
+    },
+    {
+      "key": "BurtonPemantle1993",
+      "title": "Local Characteristics, Entropy and Limit Theorems for Spanning Trees and Domino Tilings via Transfer-Impedances",
+      "entry": "@article{BurtonPemantle1993,\n  author = {Burton, Robert and Pemantle, Robin},\n  title = {Local Characteristics, Entropy and Limit Theorems for Spanning Trees\n           and Domino Tilings via Transfer-Impedances},\n  journal = {The Annals of Probability},\n  volume = {21},\n  number = {3},\n  pages = {1329--1371},\n  year = {1993},\n  eprint = {math/0404048},\n  archivePrefix = {arXiv},\n  note = {\\url{https://arxiv.org/abs/math/0404048}}\n}\n\n",
+      "lines": [
+        46,
+        59
+      ],
+      "urls": [
+        "https://arxiv.org/abs/math/0404048"
+      ]
+    },
+    {
+      "key": "Eldan2013",
+      "title": "Thin Shell Implies Spectral Gap up to Polylog via a Stochastic Localization Scheme",
+      "entry": "@article{Eldan2013,\n  author = {Eldan, Ronen},\n  title = {Thin Shell Implies Spectral Gap up to Polylog via a Stochastic\n           Localization Scheme},\n  journal = {Geometric and Functional Analysis},\n  volume = {23},\n  number = {2},\n  pages = {532--569},\n  year = {2013},\n  doi = {10.1007/s00039-013-0214-y},\n  note = {\\url{https://doi.org/10.1007/s00039-013-0214-y}}\n}\n\n",
+      "lines": [
+        60,
+        72
+      ],
+      "urls": [
+        "https://doi.org/10.1007/s00039-013-0214-y"
+      ]
+    },
+    {
+      "key": "LyonsThom2016",
+      "title": "Invariant Coupling of Determinantal Measures on Sofic Groups",
+      "entry": "@article{LyonsThom2016,\n  author = {Lyons, Russell and Thom, Andreas},\n  title = {Invariant Coupling of Determinantal Measures on Sofic Groups},\n  journal = {Ergodic Theory and Dynamical Systems},\n  volume = {36},\n  number = {2},\n  pages = {574--607},\n  year = {2016},\n  doi = {10.1017/etds.2014.70},\n  note = {\\url{https://doi.org/10.1017/etds.2014.70}}\n}\n\n",
+      "lines": [
+        73,
+        84
+      ],
+      "urls": [
+        "https://doi.org/10.1017/etds.2014.70"
+      ]
+    },
+    {
+      "key": "Lyons2013",
+      "title": "l2-Betti Numbers, Cost, and the Free Uniform Spanning Forest",
+      "entry": "@article{Lyons2013,\n  author = {Lyons, Russell},\n  title = {{$\\ell^2$}-{Betti} Numbers, Cost, and the Free Uniform Spanning Forest},\n  journal = {Oberwolfach Reports},\n  volume = {10},\n  number = {3},\n  pages = {2391--2392},\n  year = {2013},\n  doi = {10.4171/OWR/2013/42},\n  note = {Contribution to Report 42/2013, Group Theory, Measure, and\n          Asymptotic Invariants. Published 1 June 2014.\n          \\url{https://doi.org/10.4171/OWR/2013/42}}\n}\n\n",
+      "lines": [
+        85,
+        98
+      ],
+      "urls": [
+        "https://doi.org/10.4171/OWR/2013/42"
+      ]
+    },
+    {
+      "key": "FujisakiKallianpurKunita1972",
+      "title": "Stochastic Differential Equations for the Non Linear Filtering Problem",
+      "entry": "@article{FujisakiKallianpurKunita1972,\n  author = {Fujisaki, M. and Kallianpur, G. and Kunita, H.},\n  title = {Stochastic Differential Equations for the Non Linear Filtering Problem},\n  journal = {Osaka Journal of Mathematics},\n  volume = {9},\n  number = {1},\n  pages = {19--40},\n  year = {1972},\n  note = {\\url{https://ir.library.osaka-u.ac.jp/repo/ouka/all/5728/}}\n}\n\n",
+      "lines": [
+        99,
+        109
+      ],
+      "urls": [
+        "https://ir.library.osaka-u.ac.jp/repo/ouka/all/5728/"
+      ]
+    },
+    {
+      "key": "NamSlyZhang2022",
+      "title": "Ising Model on Trees and Factors of IID",
+      "entry": "@article{NamSlyZhang2022,\n  author = {Nam, Danny and Sly, Allan and Zhang, Lingfu},\n  title = {Ising Model on Trees and Factors of {IID}},\n  journal = {Communications in Mathematical Physics},\n  volume = {389},\n  number = {2},\n  pages = {1009--1046},\n  year = {2022},\n  doi = {10.1007/s00220-021-04260-2},\n  eprint = {2012.09484v2},\n  archivePrefix = {arXiv},\n  note = {\\url{https://arxiv.org/abs/2012.09484v2}}\n}\n\n",
+      "lines": [
+        110,
+        123
+      ],
+      "urls": [
+        "https://arxiv.org/abs/2012.09484v2"
+      ]
+    },
+    {
+      "key": "Pemantle1991",
+      "title": "Choosing a Spanning Tree for the Integer Lattice Uniformly",
+      "entry": "@article{Pemantle1991,\n  author = {Pemantle, Robin},\n  title = {Choosing a Spanning Tree for the Integer Lattice Uniformly},\n  journal = {The Annals of Probability},\n  volume = {19},\n  pages = {1559--1574},\n  year = {1991},\n  eprint = {math/0404043},\n  archivePrefix = {arXiv},\n  note = {\\url{https://arxiv.org/abs/math/0404043}}\n}\n\n",
+      "lines": [
+        124,
+        135
+      ],
+      "urls": [
+        "https://arxiv.org/abs/math/0404043"
+      ]
+    },
+    {
+      "key": "Eldan2020",
+      "title": "Taming Correlations through Entropy-Efficient Measure Decompositions with Applications to Mean-Field Approximation",
+      "entry": "@article{Eldan2020,\n  author = {Eldan, Ronen},\n  title = {Taming Correlations through Entropy-Efficient Measure Decompositions\n           with Applications to Mean-Field Approximation},\n  journal = {Probability Theory and Related Fields},\n  volume = {176},\n  pages = {737--755},\n  year = {2020},\n  doi = {10.1007/s00440-019-00924-2},\n  note = {\\url{https://doi.org/10.1007/s00440-019-00924-2}}\n}\n\n",
+      "lines": [
+        136,
+        147
+      ],
+      "urls": [
+        "https://doi.org/10.1007/s00440-019-00924-2"
+      ]
+    },
+    {
+      "key": "AngelRaySpinka2024",
+      "title": "Uniform Even Subgraphs and Graphical Representations of Ising as Factors of iid",
+      "entry": "@article{AngelRaySpinka2024,\n  author = {Angel, Omer and Ray, Gourab and Spinka, Yinon},\n  title = {Uniform Even Subgraphs and Graphical Representations of {Ising}\n           as Factors of i.i.d.},\n  journal = {Electronic Journal of Probability},\n  volume = {29},\n  pages = {1--31},\n  year = {2024},\n  doi = {10.1214/24-EJP1082},\n  note = {Paper No. 39. \\url{https://doi.org/10.1214/24-EJP1082}}\n}\n\n",
+      "lines": [
+        148,
+        159
+      ],
+      "urls": [
+        "https://doi.org/10.1214/24-EJP1082"
+      ]
+    },
+    {
+      "key": "BorceaBrandenLiggett2009",
+      "title": "Negative Dependence and the Geometry of Polynomials",
+      "entry": "@article{BorceaBrandenLiggett2009,\n  author = {Borcea, Julius and Br{\\\"a}nd{\\'e}n, Petter and Liggett, Thomas M.},\n  title = {Negative Dependence and the Geometry of Polynomials},\n  journal = {Journal of the American Mathematical Society},\n  volume = {22},\n  number = {2},\n  pages = {521--567},\n  year = {2009},\n  doi = {10.1090/S0894-0347-08-00618-8},\n  note = {\\url{https://doi.org/10.1090/S0894-0347-08-00618-8}},\n  url = {https://www.ams.org/journals/jams/2009-22-02/S0894-0347-08-00618-8/S0894-0347-08-00618-8.pdf}\n}\n\n",
+      "lines": [
+        160,
+        172
+      ],
+      "urls": [
+        "https://doi.org/10.1090/S0894-0347-08-00618-8",
+        "https://www.ams.org/journals/jams/2009-22-02/S0894-0347-08-00618-8/S0894-0347-08-00618-8.pdf"
+      ]
+    },
+    {
+      "key": "AlishahiBarzegarZamani2023",
+      "title": "On Tail Triviality of Negatively Dependent Stochastic Processes",
+      "entry": "@article{AlishahiBarzegarZamani2023,\n  author = {Alishahi, Kasra and Barzegar, Milad and Zamani, Mohammadsadegh},\n  title = {On Tail Triviality of Negatively Dependent Stochastic Processes},\n  journal = {The Annals of Probability},\n  volume = {51},\n  number = {4},\n  pages = {1548--1558},\n  year = {2023},\n  eprint = {2203.03935v2},\n  archivePrefix = {arXiv},\n  note = {Version cited: arXiv:2203.03935v2.\n          \\url{https://arxiv.org/abs/2203.03935v2}}\n}\n\n",
+      "lines": [
+        173,
+        186
+      ],
+      "urls": [
+        "https://arxiv.org/abs/2203.03935v2"
+      ]
+    },
+    {
+      "key": "GhoshLiggettPemantle2017",
+      "title": "Multivariate CLT Follows from Strong Rayleigh Property",
+      "entry": "@inproceedings{GhoshLiggettPemantle2017,\n  author = {Ghosh, Subhroshekhar and Liggett, Thomas M. and Pemantle, Robin},\n  title = {Multivariate {CLT} Follows from Strong {Rayleigh} Property},\n  booktitle = {2017 Proceedings of the Fourteenth Workshop on Analytic\n               Algorithmics and Combinatorics (ANALCO)},\n  publisher = {Society for Industrial and Applied Mathematics},\n  pages = {139--147},\n  year = {2017},\n  doi = {10.1137/1.9781611974775.14},\n  eprint = {1607.03036v1},\n  archivePrefix = {arXiv},\n  note = {Version cited: arXiv:1607.03036v1.\n          \\url{https://arxiv.org/abs/1607.03036v1}}\n}\n\n",
+      "lines": [
+        187,
+        201
+      ],
+      "urls": [
+        "https://arxiv.org/abs/1607.03036v1"
+      ]
+    },
+    {
+      "key": "Lyons2003",
+      "title": "Determinantal Probability Measures",
+      "entry": "@article{Lyons2003,\n  author = {Lyons, Russell},\n  title = {Determinantal Probability Measures},\n  journal = {Publications Math{\\'e}matiques de l'IH{\\'E}S},\n  volume = {98},\n  pages = {167--212},\n  year = {2003},\n  doi = {10.1007/s10240-003-0016-0},\n  note = {\\url{https://doi.org/10.1007/s10240-003-0016-0}},\n  url = {https://www.numdam.org/article/PMIHES_2003__98__167_0.pdf}\n}\n\n",
+      "lines": [
+        202,
+        213
+      ],
+      "urls": [
+        "https://doi.org/10.1007/s10240-003-0016-0",
+        "https://www.numdam.org/article/PMIHES_2003__98__167_0.pdf"
+      ]
+    },
+    {
+      "key": "SharpFreeIsing2026",
+      "title": "The sharp factor-of-IID threshold for the free Ising model on regular trees",
+      "entry": "@misc{SharpFreeIsing2026,\n  author = {{OpenAI}},\n  title = {{The sharp factor-of-IID threshold for the free Ising model on regular trees}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026/article.pdf}{OAI:The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026}},\n  year = {2026}\n}\n",
+      "lines": [
+        214,
+        220
+      ],
+      "urls": [
+        "https://github.com/openai/math/blob/main/preprints/The-sharp-factor-of-IID-threshold-for-the-free-Ising-model-on-regular-trees-September-26-2026/article.pdf"
+      ]
+    }
+  ],
+  "formal_status": "Actual forestComparator1endpoint andSR/DPPComparator6endpoints/actual definitions/Main/Factor/FinalFactor/allpair bridge selected. Main/unimodular/SRgroup/DPP/SRresponse locallyB;other9source resultsC. Additional countableDPPexistsunique formalendpoint separatelynoted,notnewnaturalnamedclaim. No localbuild/Comparator/human/fullproofclosure.",
+  "formal_semantic_boundaries": [
+    "Graphcode is countablyinfiniteNat vertices/simpleBooleanadjacency;WorksOnGraphconditionalconnected/localfinite,arbitrarycodedgraphotherwisevacuous;sourceadmittedgraphs countablebyconnected/localfinite. Ruleallcodes/allreallabelsequivariant.",
+    "Formal fixedEdgeCodeindexesALL unordered Nat pairs,includingnonedges. Actualallpairnoiseusesdistance+ballrankandNat.pair/privatecoordinatepool;source onlyactualedges withneighborrank. SelectedsamefinalFUSFlaw/rootfree result,notidenticalnoiseallocationsteps. No mismatch/invalidation inferred.",
+    "SR/DPPMain allg/alllabels regularleft action,lawinvariantbranch weakerthankerneltranslationbranch;countablepositivequadratickernel condition,not traceclass. FiniteDPPendpointNonemptyfiniteF,emptycountablecases handledinbroadassemblynotauditedhere.",
+    "Onlyselectedendpoint/boundaryfilesactuallyread;331fileindexdoesnotmean331proofschecked. NamespaceProblem336notcataloguefamily336. Intentionalchallenge sorry not solution failure."
+  ],
+  "index_fix": {
+    "actual_source": "math/lean/OAI/Probability/SpanningForest/JointProcessLaw.lean:3-4",
+    "old_false_external_module": "all",
+    "official_grammar": "https://lean-lang.org/doc/reference/latest/Source-Files-and-Modules/",
+    "scope": "public? meta? import all? ident;allaccessmodifier,public/meta preserved separately",
+    "old_helper_source_preserved": "index-lean-before-import-modifier-fix.py inowncompressedhelpers",
+    "old_unreferenced_output_preserved": "forest-index-before-import-fix.json inowncompressedhelpers",
+    "new_tests": 2,
+    "no_upstream_or_mathematical_grade_change": true
+  },
+  "historical_remaining": "Three selectedexternal roots of16checked;13externalbodies andrecursiveclosure includingBBL2009/GLP/LyonsThom/NamSlyZhang unread thispackage. InternalF236companionidentifiedbyactualcitationandcatalogue butbodyunread. No completefamily/historycredit.",
+  "new_candidate_count": 1,
+  "new_application_run": false,
+  "notes": [
+    "OrdinaryBorelnotfinitaryfinitealphabetnorcomputationaloracle;globalkeycollisionfallbackisnotfiniteprecisionnull-event argument.",
+    "WeightedtreefinitekernelresponseandSRcovariancerowconstantalreadyold. Uniformresponseboundsfieldchanges,NOTspatialerrors or L2spectralgap/fastMCMC guarantee.",
+    "Twoorderedspatiallimits+Picarditeration+infinitetime readoutcannotbequietlyreplacedbydiagonalfiniteUSTalgorithm.",
+    "SourcecoverageF273follow-upnotecorrectedtoactualWP080nearapplicationwithoutlendingrun tofarAPP27301;oldcoveragebytesretained."
+  ]
+}

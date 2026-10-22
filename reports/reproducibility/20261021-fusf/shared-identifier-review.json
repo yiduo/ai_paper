@@ -1,0 +1,21 @@
+{
+  "recorded_at": "2026-10-21T06:13:54.821293+00:00",
+  "shared_identifier": "doi:10.1090/s0894-0347-08-00618-8",
+  "actual_nodes_read": [
+    {
+      "id": "LIT-231-165AF653E4",
+      "version": 1,
+      "canonical_record_sha256": "449cce1e610c5c2a2774a0902de9b72f0017f323804060ffc09dca1145a03bce",
+      "scope": "Bibliographymetadataonly;originalbodyunread"
+    },
+    {
+      "id": "LIT-238-REVEALED-87930BF1BA",
+      "version": 1,
+      "canonical_record_sha256": "568dec9417a2226ba93cd411b680e7a2eed4b22a055d56b2679577061b88afe5",
+      "scope": "Strongly Rayleigh implies CNA+; partial symmetrization preserves stability. The source uses a restricted elementary all-blocked-cylinder inequality,not an assertion that arbitrary path conditioning preserves strong negative dependence."
+    }
+  ],
+  "prior_F238_selected_scope": "CNA+ andpartial symmetrization,arXiv0707.2340v2",
+  "new_F231_required_scope": "Symmetric homogenization/external-fieldclosure/finiteDPP SR;body not checked this package",
+  "decision": "Keepbothsource/version/scope records. DOIequalsdoesnotautomaticallymergeversionsortransferF238selectedscope asF231homogenizationverification. Newexactidentifierreviewgroupobserved;no automaticmathgradepromotion."
+}

@@ -1,0 +1,70 @@
+{
+  "recorded_at": "2026-10-20T21:12:33.328079+00:00",
+  "old_nodes_match_HEAD": 2,
+  "source_archive_sha256": "4dc160e5f74722e2c5409112496c95c4eb7b96a704e6ce40aedda04b8e8ef084",
+  "source_archive_decompressed_sha256": "38ff7b9b95d9c34a41e72f9fa59c91af17c968df00e75ef3292f75f95c05c216",
+  "all_8_member_hashes_verified": true,
+  "roundtrip": true,
+  "temporary_files": [
+    {
+      "file": "source-1.txt",
+      "bytes": 46,
+      "sha256": "d2a8a19e2bff6e299b8964a48cb020e9df2d27eaebd8ee62a39153e4ccbe2f86",
+      "verified_archive_member": "Examples/Tests/langmuir/inputs_test_3d_langmuir_multi"
+    },
+    {
+      "file": "source-2.txt",
+      "bytes": 3428,
+      "sha256": "24938ad273053b4e08889d9827a4d9fe673a9693a7ec6b2c94bbcc3c2b15bdfc",
+      "verified_archive_member": "Examples/Tests/langmuir/inputs_base_3d"
+    },
+    {
+      "file": "source-3.txt",
+      "bytes": 13754,
+      "sha256": "a18e2ded1a7ffc31752b94c6727eed1ecf2eb02cd477ac68295978130a70ebbd",
+      "verified_archive_member": "Examples/Tests/langmuir/CMakeLists.txt"
+    },
+    {
+      "file": "source-4.txt",
+      "bytes": 3066,
+      "sha256": "6f6251a571858fc7548bd78ed03b119dea8828bf4cdacd5b0741bbce2d15e08a",
+      "verified_archive_member": "Examples/Tests/gaussian_beam/inputs_test_3d_gaussian_beam_picmi.py"
+    },
+    {
+      "file": "source-6.txt",
+      "bytes": 2582,
+      "sha256": "73890f67d88fe4386822cc62be41e06ccbbf15748270f1d01b6499d9e900a922",
+      "verified_archive_member": "LICENSE.txt"
+    },
+    {
+      "file": "source-7.txt",
+      "bytes": 347,
+      "sha256": "13d72878fc4aa8ee8425a02e225abd97c43b13db88a2d7c72cffb89d361a2d39",
+      "verified_archive_member": "dependencies.json"
+    },
+    {
+      "file": "more-0.txt",
+      "bytes": 7389,
+      "sha256": "3890350ae011d5688adef38fa0bb04667dfa88ef2c39fafebd4fcb3c61f01039",
+      "verified_archive_member": "Examples/Tests/langmuir/analysis_3d.py"
+    },
+    {
+      "file": "more-1.txt",
+      "bytes": 4935,
+      "sha256": "0cfdb5bded4b4c650de1f567a35c9466615f371444c5dc2057bb8dac639d2e71",
+      "verified_archive_member": "Examples/Tests/langmuir/README.rst"
+    },
+    {
+      "file": "inputs_base_3d",
+      "bytes": 3428,
+      "sha256": "24938ad273053b4e08889d9827a4d9fe673a9693a7ec6b2c94bbcc3c2b15bdfc",
+      "verified_archive_member": "Examples/Tests/langmuir/inputs_base_3d"
+    }
+  ],
+  "temporary_bytes_removed": 38975,
+  "temporary_directory_removed": true,
+  "new_application_run": false,
+  "numericaldata_generated": false,
+  "dependencies_installed": false,
+  "upstream_copy": false
+}

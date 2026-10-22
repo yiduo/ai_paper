@@ -1,0 +1,135 @@
+{
+  "recorded_at": "2026-10-21T06:35:02.481720+00:00",
+  "full_nodes": 5729,
+  "full_edges": 14615,
+  "canonical_citations": 5428,
+  "local_source_hashes_verified": 5104,
+  "external_URL_annotations_without_retained_local_bytes": 324,
+  "old_canonical_byte_unchanged": 3361,
+  "changed_old_records_exactly_preserved": 4,
+  "new_canonical_records": 13,
+  "old_explicit_edges_unchanged": true,
+  "new_explicit_edges": 49,
+  "exact_intermediate_format_versions": 15,
+  "source_reading_ledger_coverage_plan_and_validator_byte_unchanged": true,
+  "original_F238_BBL_record_unchanged": true,
+  "new_historical_scope_records": 11,
+  "selected_external_roots": 6,
+  "total_external_roots": 16,
+  "impact_cases": [
+    {
+      "seed": "HIST-231-BBL-SYMMETRIC-HOMOGENIZATION",
+      "required_affected": [
+        "PART-231-SR-HOMOGENIZATION",
+        "CLM-231-LEM-SR-RESPONSE",
+        "CLM-231-THM-SR-GROUP",
+        "CLM-231-COR-DPP-GROUP"
+      ],
+      "required_unaffected": [
+        "CLM-231-THM-MAIN",
+        "APP-231-01"
+      ],
+      "actual_affected_count": 8
+    },
+    {
+      "seed": "HIST-231-BBL-FINITE-DPP",
+      "required_affected": [
+        "PART-231-DPP-FINITE-MARGINAL",
+        "CLM-231-COR-DPP-GROUP"
+      ],
+      "required_unaffected": [
+        "CLM-231-LEM-SR-RESPONSE",
+        "CLM-231-THM-SR-GROUP",
+        "CLM-231-THM-MAIN",
+        "APP-231-01"
+      ],
+      "actual_affected_count": 4
+    },
+    {
+      "seed": "HIST-231-NSZ-ROOT-LIMIT",
+      "required_affected": [],
+      "required_unaffected": [
+        "CLM-231-PROP-BROWNIAN-SAMPLER",
+        "CLM-231-THM-MAIN",
+        "APP-231-01"
+      ],
+      "actual_affected_count": 1
+    },
+    {
+      "seed": "HIST-231-LT-AMENABLE-BERNOULLI",
+      "required_affected": [],
+      "required_unaffected": [
+        "CLM-231-COR-DPP-GROUP",
+        "CLM-231-THM-MAIN",
+        "APP-231-01"
+      ],
+      "actual_affected_count": 1
+    },
+    {
+      "seed": "PART-231-FINITE-QUERY-ORACLE-GATE",
+      "required_affected": [
+        "APP-231-01",
+        "PROB-231-CONSISTENT-FOREST-QUERIES"
+      ],
+      "required_unaffected": [
+        "CLM-231-THM-MAIN"
+      ],
+      "actual_affected_count": 3
+    },
+    {
+      "seed": "PART-231-QUERY-CONSUMER-GATE",
+      "required_affected": [
+        "APP-231-01",
+        "PROB-231-CONSISTENT-FOREST-QUERIES"
+      ],
+      "required_unaffected": [
+        "CLM-231-THM-MAIN"
+      ],
+      "actual_affected_count": 3
+    },
+    {
+      "seed": "CLM-231-LEM-INNOVATION",
+      "required_affected": [
+        "CLM-231-PROP-BROWNIAN-SAMPLER",
+        "CLM-231-THM-MAIN",
+        "CLM-231-THM-SR-GROUP",
+        "APP-231-01"
+      ],
+      "required_unaffected": [
+        "CLM-231-LEM-TREE-RESPONSE"
+      ],
+      "actual_affected_count": 15
+    }
+  ],
+  "navigation_consistent": true,
+  "source_result_bindings_and_grades_unchanged": true,
+  "new_candidate": false,
+  "new_initial_check": false,
+  "new_application_run": false,
+  "upstream_clean": true,
+  "metrics": {
+    "nodes": 5729,
+    "research_nodes": 3374,
+    "edges": 14615,
+    "citations_checked": 5418,
+    "candidate_connections": 39,
+    "externally_checked_cards": 12,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 12,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 46,
+    "source_decomposition_drafts": 40,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

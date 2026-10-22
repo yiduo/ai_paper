@@ -1,0 +1,25 @@
+{
+  "id": "APP-231-01-conditional",
+  "version": 1,
+  "status": "conditional_not_preregistered",
+  "created_at": "2026-10-21T06:02:39.770082+00:00",
+  "source": "CLM-231-THM-MAIN",
+  "prediction": "On a separately frozen admitted finite-window query pack for a fixed infinite locally finite simple unweighted graph, a finite source-linked approximation will answer overlapping/repeated forest queries consistently from the same persistent IID labels, commute with graph relabeling, and have independently certified JOINT window total-variation error at most1/100 within frozen full time/memory/random-bit budgets. Compare the strongest applicable old finite-DPP/kernel sampler or qualified free-volume Wilson method at the same accuracy and complete input cost; no speed or physical-network gain follows from ordinaryBorel existence alone.",
+  "target": "Own proposed persistent local-query forest simulator,not existing thirdparty deployment. Finite windows of an explicitly fixed infinite graph,sharedsample across query batches without chosen graph root.",
+  "admission": [
+    "Certified actualFUSF finite marginal/posterior oracle and spatialfree-limit error;SDEfinite-volume replacementnotassumed",
+    "FullBrownianpath/time-integration/finitebit/collision errors andfrozenworkbudget",
+    "Independentfulljointwindowjudge;singleedgemarginals insufficient",
+    "OldappropriatefiniteDPP/kernel orWilsonfree-volume baselinesincludinginputoraclecost;wiredsamplerexcludedwhenFUSF!=WUSF"
+  ],
+  "source_finite_parts": "UniformL=1/2 andfactorialPicardtailforEXACToracle/integrals;source Gaussianintegernoise tailallowsreferencefinite-timeanalysis. These do NOTcertifyspatialtruncation/oracleevaluation/finitebits.",
+  "missing": [
+    "No implementedfiniteposteriororacle/spatialrate/random-bitconstructor",
+    "No concreteexternalcallerorrepresentativefixedgraphquerypack",
+    "No frozenfullcaps/oldbaselinequalification/externalrun"
+  ],
+  "stop": "No finiteUST identity QA as proof of infinite universalFIID;no tuningadmittedwindows toclaimbenefit;oldmethodmayalready suffice. Pendingcandidateonly,not12thplus1initial.",
+  "run_ids": [],
+  "human_review": null,
+  "second_provider_review": null
+}

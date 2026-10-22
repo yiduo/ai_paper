@@ -1,0 +1,66 @@
+{
+  "recorded_at": "2026-10-20T20:35:41.933761+00:00",
+  "source_members_checked": 3,
+  "source_archive_sha256": "29a50b92154364c98c11989204bad0d5ff617abf71b9bdb924056aaebcd5e1ad",
+  "decompressed_sha256": "aca38ac80e16c7388820ff062c3771869e70cef1f0d89d4f9fecb41395d60252",
+  "selected_original_pdf_and_text_hashes_checked": 2,
+  "old_nodes_match_HEAD": 2,
+  "temporary_files_removed": [
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/approx2023.txt",
+      "sha256": "13ad7ed09459f3f4b94529bbe5963435891493327dba3f4ac1bc8e398cdaa8dd",
+      "bytes": 129151,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/approx2023.pdf",
+      "sha256": "7af1142c2fba2d52428ea16c26fbaf28a3d26e2b971ec03b1c0367dd75a70be7",
+      "bytes": 649653,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/scikit-commit.json",
+      "sha256": "c41367558dd56162e39cbe272ce59e7ad44e9f0a886aeea4bf2350c3716dafc3",
+      "bytes": 16994,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/chan1999.pdf",
+      "sha256": "366be6a90659a40590f1deb28195f95d54bc9d37f30cd7d5faf6db11064b573f",
+      "bytes": 197902,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/LICENSE.txt",
+      "sha256": "611d3207504dcb4a808df209d2e7c9b4f2e89fe690f84735c0d548160966b527",
+      "bytes": 6435,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/gallery.py",
+      "sha256": "5cd8610442e7aa1180098ab261379fa374ee72ba8881f410cfcb56b3cee9e242",
+      "bytes": 2877,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/chan1999.txt",
+      "sha256": "d6cb8e2ec9c99fcb63c563f8a130713612f72a07ef90abc566c2116a6c3693e5",
+      "bytes": 25048,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/chan-vese.py",
+      "sha256": "1c7827ee08c4f1d3aa740b7a40cf33cb2619b75484fc4403b69ef773d19dd3d2",
+      "bytes": 13774,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366-tools/root-contents.json",
+      "sha256": "b1079b7713f2f7df635c502ede18b6dd00fd598f0a03cd66deba6b8185c5aa3b",
+      "bytes": 34386,
+      "retention": "Necessary source/licensebytes in archive;PDF/text hashes andfacts inledger;fullAPIcontacts notretained"
+    }
+  ],
+  "removed_bytes": 1076220,
+  "new_numerical_application_run": false
+}

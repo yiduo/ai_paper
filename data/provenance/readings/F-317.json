@@ -1,0 +1,592 @@
+{
+  "family_id": "F-317",
+  "work_package": "WP-072",
+  "generation_id": "GEN-20261021-068",
+  "recorded_at": "2026-10-21T03:10:10.833131+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/paper.tex": {
+      "sha256": "5d73cdf078d54c39437be177192e3b4208f397370d06b451b5ad08ede0cd2728",
+      "total_lines": 98,
+      "read_ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/01-introduction.tex": {
+      "sha256": "fb8ad87400e64fa582bf54cd1bf501861be6b3e7d49d837c6dc538282dfc76e2",
+      "total_lines": 205,
+      "read_ranges": [
+        [
+          1,
+          205
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/02-foundations.tex": {
+      "sha256": "fedc325d41ee943214e8475462a87f9ea9c0be673290b6c3824dbb60a1e9012d",
+      "total_lines": 512,
+      "read_ranges": [
+        [
+          1,
+          512
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/03-relative-prisms.tex": {
+      "sha256": "3ac75635b5cd4e790ae96f76ef2fe99d4cb26ce2a2a5f76782d423769fc0239b",
+      "total_lines": 285,
+      "read_ranges": [
+        [
+          1,
+          285
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/04-labelled-pieces.tex": {
+      "sha256": "879d685b1878e453642f394cf9cbe646fec809e64f4539bfec7e4df9a1a3dfaa",
+      "total_lines": 319,
+      "read_ranges": [
+        [
+          1,
+          319
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/05-couniversality.tex": {
+      "sha256": "5fa75d15ee7b2493911a0e67c1dff006f08c73cd781a0c6ca724600a3ca0d493",
+      "total_lines": 295,
+      "read_ranges": [
+        [
+          1,
+          295
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/06-subdivided-attachments.tex": {
+      "sha256": "ceaaa5c56f5f1eaba31db2fdbd53c7a0c1e9420451618884af228d18228a1afc",
+      "total_lines": 303,
+      "read_ranges": [
+        [
+          1,
+          303
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/07-model-structure.tex": {
+      "sha256": "a6c6fcc4c4006436796b91c06ce862a29c97f5aca2979b477018a64a1e85ad5e",
+      "total_lines": 357,
+      "read_ranges": [
+        [
+          1,
+          357
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/08-method-context.tex": {
+      "sha256": "3a816af0e73a236d30c5f3ae494876421492c9939eddd68dab5449aa3e2f8c67",
+      "total_lines": 59,
+      "read_ranges": [
+        [
+          1,
+          59
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/sections/09-presentability.tex": {
+      "sha256": "58730e2c6a6232db36161853886864604f7c9907cbc61a73cc9461cdf6a5367e",
+      "total_lines": 341,
+      "read_ranges": [
+        [
+          1,
+          341
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Thomason-Model-Structures-in-Every-Strict-Higher-Dimension-September-25-2026/build/references.bib": {
+      "sha256": "78dadd3441b38e99c4b5cf204b20a8febbe4b0a28a818b8ffc5d84d958547fa1",
+      "total_lines": 254,
+      "read_ranges": [
+        [
+          1,
+          254
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 10,
+  "source_tex_lines": 2774,
+  "additional_bibliography_lines": 254,
+  "formal_selected": {
+    "math/lean/docs/317.md": {
+      "sha256": "3cd6360f128b3873567572fc77537e308a203bb91f7c4ae250fee90336bff114",
+      "total_lines": 17,
+      "read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/ThomasonModelStructures.json": {
+      "sha256": "28eafb4f133fa8f5b5f965315e9f67153d4c5d47cb2098d05734caadb9399416",
+      "total_lines": 15,
+      "read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/ThomasonModelStructures.lean": {
+      "sha256": "aa3ffee573610e67b982792280731b8071a69294fef61e28835b6b19e913ac60",
+      "total_lines": 2473,
+      "read_ranges": [
+        [
+          1,
+          60
+        ],
+        [
+          2439,
+          2473
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/CategoryTheory/Thomason/Definitions.lean": {
+      "sha256": "b98c53dda6519d4b06cd94dc1c60a360332350e6040777fcff13b44d3f568508",
+      "total_lines": 2455,
+      "read_ranges": [
+        [
+          1,
+          133
+        ],
+        [
+          1236,
+          1282
+        ],
+        [
+          1328,
+          1356
+        ],
+        [
+          1868,
+          1988
+        ],
+        [
+          2000,
+          2070
+        ],
+        [
+          2138,
+          2190
+        ],
+        [
+          2285,
+          2455
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/CategoryTheory/Thomason/RankedFaithfulness.lean": {
+      "sha256": "c32ec14d6ab95361a80153bda7dfd5091e98c708d3340e795f977470382f81b0",
+      "total_lines": 690,
+      "read_ranges": [
+        [
+          1,
+          25
+        ],
+        [
+          606,
+          690
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/CategoryTheory/Thomason/DimensionOne.lean": {
+      "sha256": "2b97a85ecb830f10d70bf3809ceac49f65ea004ebddbc39484a57ff33a34be18",
+      "total_lines": 806,
+      "read_ranges": [
+        [
+          490,
+          545
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/CategoryTheory/Thomason/StandardComparison.lean": {
+      "sha256": "f41e4ad6f5527fc0bcb37ddc50907832ede4b087389e1f846d51b8d70fc3c80b",
+      "total_lines": 777,
+      "read_ranges": [
+        [
+          730,
+          777
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/CategoryTheory/Thomason/Transfer/Main.lean": {
+      "sha256": "37d3f912ec40ab05413353241ccde27b00ff32bdea77fad230981b73524d8874",
+      "total_lines": 460,
+      "read_ranges": [
+        [
+          406,
+          460
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/CategoryTheory/Thomason/Construction.lean": {
+      "sha256": "4c02bd86a9bbd43c6042702c6b3ee87eaf8df43df57c986cc4266bc48e744965",
+      "total_lines": 6,
+      "read_ranges": [
+        [
+          1,
+          6
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-317-lean-index.json.gz",
+    "sha256": "d89c406faf6dd4e1b7341ac6b5e7b90b40108e75a5f9ae52961365336a63ea72",
+    "bytes": 49787,
+    "local_files": 85,
+    "declarations": 4471,
+    "placeholder_tokens": 0,
+    "axioms": 0,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "AraMaltsiniotis2014",
+      "url": "https://arxiv.org/pdf/1305.5086v3",
+      "scope": "AraMaltsiniotis2014 arxiv1305.5086v3,92PDFpages;Scholie5.14 pp32-33/render1856-1913,Cor6.26/Th6.27/Cor6.32 pp45-46/render2780-2818. All-target right-adjoint sieve condition and old n2 model, not fullproofaudit.",
+      "summary": "Scholie5.14 isolates couniversality of right-adjoint sieve images under every cobase change and the poset-unit condition. Cor6.26/Th6.27/Cor6.32 establish the proper combinatorial two-dimensional structure and Quillen equivalence. These are old premises/baselines; higher dimensions remain conditional in this selected version."
+    },
+    {
+      "key": "AraMaltsiniotis2020",
+      "url": "https://arxiv.org/pdf/1607.00668v4",
+      "scope": "AraMaltsiniotis2020 arxiv1607.00668v4,227PDFpages; A15/A16/A18 pp159-161/render11358-11438, A29 p164/render11602-11607. Completed tensor all-colimits/separatevariables/strongSteiner canonical iso/biclosed/internalhom truncation. Earlier incomplete Steiner proof not used as completed extension.",
+      "summary": "A15 gives the monoidal extension from strong Steiner complexes to all strict omega-categories, separately preserving small colimits, and biclosedness. A16 specifies the canonical tensor comparison; A18 fixes the oplax/lax adjunction orientations. A29 keeps internal hom into an n-category n-truncated. The deeper extension proof dependencies are not all audited."
+    },
+    {
+      "key": "Gagna2018",
+      "url": "https://arxiv.org/pdf/1612.04450v2",
+      "scope": "Gagna2018 arxiv1612.04450v2,18PDFpages;intro0-44,Th5.6 p12/render766-772,Th6.9 andproof p16/render1063-1122. Old localized homotopy-category equivalence/posetunit, not full Thomason model structure.",
+      "summary": "Theorem5.6 already identifies the localization of strict n-categories with homotopy types in all positive finite dimensions and omega. Theorem6.9 verifies the poset-unit condition with an explicit simplicial homotopy. This does not establish the prescribed unrestricted Thomason model structure. No project algorithm benchmark or full old proof audit."
+    }
+  ],
+  "result_notes": {
+    "thm:main": "For all positive finite n and omega, SMALL STRICT GLOBULAR n-categories/strict functors in a fixed universe admit a proper combinatorial model structure; weak equivalences detected by Street nerve N_n (equivalently Ex^2N_n), fibrations by Ex^2N_n, cofibrations LLP against trivial fibrations. Generators c_n Sd^2 I/J; Quillen equivalence c_n Sd^2 adjoint Ex^2N_n. No cell invertibility, cofibrant/free-target restriction, finite factorization algorithm, or complexity guarantee.",
+    "lem:internal-truncation": "Right Gray internal hom H(Y)=Hom_oplax(D1,Y) is an n-category for finite n targetY; reflection X->tau_nX gives natural bijection of cylinders intoY preserving endpoints/restrictions. Tensor stays in omega-category and may contain dimension n+1 cells. Reflection identifies n-cell boundaries of(n+1)cells; not the q-cell-preserving unique-filler cutoff.",
+    "lem:gray-nerve": "Natural map N_inftyX x Delta1 -> N_infty(X tensor D1), endpoint/counit formulas, yields nerve homotopy; stationary strict functor restricts to constant old-nerve homotopy. Positive Alexander-Whitney diagonal is natural for monotone ordinal maps including degeneracies, not arbitrary chain maps. Right interval convention fixed.",
+    "lem:filtered": "Strict n-categories locally finitely presentable; filtered colimits computed on cells, each reflected finite oriental finitely presentable, Street nerve and finite Ex iterates preserve filtered colimits. Simplicial weak equivalences closed under filtered colimits of arrows without injective transition maps. Finite support/equality witnesses, not finite object cardinality.",
+    "lem:simplicial-gluing": "Map of spans of simplicial sets with three objectwise weak equivalences and ONE SPECIFIED MONOMORPHIC leg in each row gives pushout weak equivalence; ordinary pushouts compute homotopy pushouts. Other attaching leg may be nonmonic. Uses old simplicial left properness/cofibrant undercategories, not unconditional weak-equivalence preservation for arbitrary pushouts.",
+    "lem:relative-prism": "A sieve A in posetE, monotone f<=g, f|A=g|A, g constant on E minusA: positive normalized chain formula [w] tensor u ->[f(w0),...,f(wp),g(wp)] defines strict RIGHT Gray cylinder, stationary relative to common endpoint map on all U(A). Agreement on all chain degrees/degeneracies essential. A zero top chain can be identity on a NONidentity lower cell; top-chain zero alone does not prove full stationarity.",
+    "lem:pushout-cylinder": "For arbitrary strict i:B0->B and attachment a:B0->X, endpointF0i=F1i=i plus strict stationarity P(i tensor1)=i pi glues cylinder to constant one onX across actual nCat pushout. Transpose into H(Y), an n-category. No injectivity/freeness/cofibrancy needed. A mere homotopy of endpoint nerves without strict old-side equality is insufficient.",
+    "lem:fibers": "Fibers at0/1 of nCat/D1 ->nCat preserve ALL small colimits because explicit right adjoints adjoin terminal/initial object with terminal forward homs/empty reverse homs. Ob preserves colimits by chaotic-category right adjoint. No assertion arbitrary categorical limits commute with arbitrary fibers.",
+    "lem:oriental-segments": "Initial or final vertex segment I of[m] gives FULL reflected oriental subcategory; endpoints force every atom support into interval, clamp retraction proves injectivity after reflection. Empty case has no cells. Does not claim full subcategory on arbitrary disconnected vertex subset has the same simple face description.",
+    "lem:poset-pieces": "Ob U(P)=P; sieve/cosieve S subsetP maps to actual full0/1 fiber. Slice-colimit fiber adjoints and initial/final oriental segments identify entire cells, not just vertices. Natural for compatible labelled maps, including empty posets/fibers.",
+    "prop:labelled-pushout": "For ANY a:U(A)->X, poset label lambda:P->[1] and targetlabel xi:X->D1 MUST agree on every old cell. Actual full fiber Y_epsilon = X_epsilon coproduct_U(Aepsilon)U(Pepsilon). Objects ObX coproduct(P minusA), even old-object identifications; joint max/min labels compute intersections. Not an arbitrary labelling of new objects after gluing.",
+    "cor:attachment-covers": "Two sieves P1,P2 containA and coverP -> attached full sieve cover with expected intersection. Dual cosieve case needsA subsetT1 and A disjointT2. IfA sieve thenX->attachment is full sieve. Actual arbitrary attaching functor may identify objects/arrows/parallel cells; label compatibility controls all identifications.",
+    "lem:nerve-cover": "Two FULL sieves or two FULL cosieves covering objects give ordinary nerve pushout over full intersection, all legs monic, also homotopy pushout. A simplex belongs to sieve containing its last vertex or cosieve containing first vertex. Arbitrary full-object covers without common sieve/cosieve orientation need not cover simplices.",
+    "lem:greatest-new": "Sieve A->E with right-adjoint retraction and GREATEST new elementx,possibly infiniteE: choose t=r(x),k oldidentity/newt,g oldidentity/newx. id<=g>=k fixesA, relative cylinders glue to arbitraryX; actual retraction p and zigzag of nerve homotopies gives weak equivalence. Do not assert id comparable withk or reverse directed Gray cylinder.",
+    "thm:couniversal": "Sieve inclusion of SMALL POSETS with RIGHT-adjoint retraction remains Street weak equivalence after EVERY strict n-category attachment, all positive finite n/omega. Finite induction deletes two distinct maximal NEW elements and glues full sieve nerve covers; infinite case uses finite q=ir-stable subsets and fixedX, not necessarily sieves inE/injective transition functors.",
+    "prop:poset-unit": "For every small posetS, N(S)->N_n c_n N(S) is weak homotopy equivalence, natural, all positive finite n/omega. Independent finite greatest-point/prism/sieve-cover proof then filtered colimits. Old known result; proof does not depend on model-structure transfer or couniversality theorem itself.",
+    "prop:attachment-comparison": "A sieveA inB; right adjoint required only for A->upward closureZ. ANY a:U(A)->X: pushout of Street nerves -> nerve of categorical pushout is weak equivalence, natural inX, U(A)->U(B) nerve monic. First couniversality onZ, then cosieve cover Z and B minusA; exact monic leg U(Z minusA)->U(B minusA). Not global nerve preservation of all pushouts.",
+    "lem:subdivision-posets": "Twice subdivision of a GENERATING boundary d or horn d is N(A)->N(B):B nonempty chains of nonempty simplex faces,A chains of allowed faces; A sieve,Z upwardclosure,retraction sigma->sigma intersectP_K. Boundary0 hasA=Z empty,Bsingleton; horns m>=1 only. Does not say Sd^2 of EVERY simplicial set is poset nerve.",
+    "cor:horn-acyclic": "Every arbitrary-target pushout of c_n Sd^2 of a horn is Street weak equivalence. Uses old subdivision weak-equivalence theorem, posetunit and attachment comparison with actual monic source nerve. No restriction to cofibrant targets or injective horn attaching maps.",
+    "cor:attachment-invariance": "For generating boundary/horn pair and ANY attachment a, ifX->Xprime is Street weak equivalence then attachedY->Yprime is. Pushout-of-nerves comparison naturality and a specific monic nerve leg, not arbitrary algebraic attachment invariance.",
+    "lem:transfinite-horns": "Every relative L_nJ-cell map (transfinite composite of pushouts of coproducts) is Street weak equivalence. Well-order simultaneous attachments; at nonzero limit ordinal filtered-colimit arrows have fixed original source. No computable finite termination or work bound.",
+    "prop:model-structure": "Unrestricted model structure with prescribed weak/fibration/cofibration classes, locally presentable and cofibrantly generated by L_nI/J. Regular-kappa all-squares small object argument gives BOTH WFS, actual fixed-source retract and D=(L_nJ)-cof=C_n intersectW_n. Not merely a left semi-model structure on cofibrant sources.",
+    "prop:properness": "Right proper via actual right-adjointR preservation of pullbacks and simplicial Kan properness. Left proper via generating boundary attachment invariance, transfinite limits and FIXED-SOURCE retract of relative L_nI-cell map; no cofibrancy/fibrancy base restrictions. Old Dwyer maps not assumed closed under arbitrary retracts.",
+    "prop:subdivided-unit": "For EVERY simplicial K, eta_(Sd^2K):Sd^2K ->N_n c_n Sd^2K weak equivalence. Attach boundary simplices allowing noninjective/degenerate old maps, use known poset description only for GENERATING pieces, two specified monic gluing legs and actual canonical unit identity, then filtered limits. Not poset identification for arbitrary K.",
+    "thm:quillen-equivalence": "Composite c_n Sd^2 adjoint Ex^2N_n Quillen equivalence using actual model structure and allK unit. id->Ex weak-equivalence theorem is independently needed; a mate of Sd->id is NOT automatically weak equivalence. Explicit composite units yield adjunct iff original weak equivalence, stronger allK,Y criterion implies standard cofibrant/fibrant version.",
+    "lem:strict-presentations": "For sorted generatorsG and STRONG raw-term equationsR, simultaneous definedness/equality closure with finite inference rules gives small strict n-category P(G,R). Composition guard requires actual boundary equality; interchange all four inner guards; reflexivity ONLY defined terms. Equations can create NEW composable pairs and composites; ordinary quotient of existing cell set insufficient.",
+    "prop:strict-presentability": "All strict positive finite/omega nCat locally small, complete/cocomplete, locally FINITELY presentable; cellwise filtered colimits and common regular bound for any set of objects. Finite strong presentation finitely presentable even if infinitely many cells; countably sorted omega signature is finitary. Arbitrary generators/relations still give only cardinal existence, no effective solver or bounded factorization."
+  },
+  "method_contracts": [
+    {
+      "key": "STRICT-DOMAIN",
+      "title": "严格globular对象与宇宙",
+      "input": "Small strict globular categories and strict functors, finite n>=1 oromega",
+      "output": "Prescribed homotopy/model classes",
+      "cannot_transfer": "Not n-fold internal categories, weak groupoids, finite posets or arbitrary software diagrams",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "PRESCRIBED-CLASSES",
+      "title": "实际弱等价与纤维化",
+      "input": "R=Ex^2 Street nerve, simplicial weak homotopy/actual Kan lifting",
+      "output": "W=N^-1W=R^-1W, F=R^-1Fib,C=LLP(F intersectW)",
+      "cannot_transfer": "Weak-equivalence of localized spaces differs from actual category isomorphism or algorithm",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "COMPLETED-TENSOR",
+      "title": "完成的Gray扩展接口",
+      "input": "Strong Steiner directed complexes plus external completed extension",
+      "output": "Biclosed tensor on ALL omega-categories, separate colimit preservation",
+      "cannot_transfer": "nu itself not arbitrary-colimit preserving; incomplete earlier extension proof not sufficient",
+      "source_labels": []
+    },
+    {
+      "key": "RIGHT-REFLECTION",
+      "title": "右圆柱与有限反射",
+      "input": "Finite n targetY, right internal hom",
+      "output": "Cylinder factors through tau_n first factor",
+      "cannot_transfer": "Tensor can exceed n, reflection can identify n-cells; no symmetric factor swap",
+      "source_labels": [
+        "lem:internal-truncation"
+      ]
+    },
+    {
+      "key": "POSITIVE-PRISM",
+      "title": "受限正链棱柱",
+      "input": "A sieve,f<=g,agree onA,g constant outsideA",
+      "output": "Whole strict stationary RIGHT Gray cylinder",
+      "cannot_transfer": "Not arbitrary ordered endpoints; repeated tuples0 retain lower boundary data",
+      "source_labels": [
+        "lem:relative-prism"
+      ]
+    },
+    {
+      "key": "WHOLE-STATIONARITY",
+      "title": "整个旧子范畴上的严格相等",
+      "input": "Endpoints fixB0 andP restricted equalsi pi",
+      "output": "Glue at ANY attaching functorX",
+      "cannot_transfer": "Endpoint homotopy/top-chain zero alone insufficient",
+      "source_labels": [
+        "lem:pushout-cylinder"
+      ]
+    },
+    {
+      "key": "AW-NERVE",
+      "title": "Alexander–Whitney与神经同伦",
+      "input": "Positive AW diagonal natural for ordinal simplex operators",
+      "output": "Strict cylinder -> simplicial relative homotopy",
+      "cannot_transfer": "Only cosimplicial naturality, not all chain maps",
+      "source_labels": [
+        "lem:gray-nerve"
+      ]
+    },
+    {
+      "key": "LABEL-FIBERS",
+      "title": "兼容标签的实际全纤维",
+      "input": "Old poset/target labels agree onalloldcells",
+      "output": "Actual full pushout fibers and intersections",
+      "cannot_transfer": "Objects can be identified by attaching map; arbitrary label choices fail",
+      "source_labels": [
+        "lem:fibers",
+        "prop:labelled-pushout"
+      ]
+    },
+    {
+      "key": "COVER-ORIENTATION",
+      "title": "同向sieve覆盖",
+      "input": "Two full sieves or two full cosieves cover objects",
+      "output": "All nerve simplices covered, intersection pushout",
+      "cannot_transfer": "Arbitrary object cover not sufficient; exact monic leg matters",
+      "source_labels": [
+        "cor:attachment-covers",
+        "lem:nerve-cover"
+      ]
+    },
+    {
+      "key": "MONIC-GLUING",
+      "title": "单指定单射边的粘合",
+      "input": "Three objectwise weak equivalences, chosen monic leg inbothspans",
+      "output": "Ordinary pushout weak equivalence/homotopy pushout",
+      "cannot_transfer": "Other attachment leg may be nonmonic; not every pushout preserves weak equivalences",
+      "source_labels": [
+        "lem:simplicial-gluing"
+      ]
+    },
+    {
+      "key": "COMMON-UPPER",
+      "title": "最大新元的共同上界",
+      "input": "Sieve+right-adjoint retraction,greatestnewx",
+      "output": "id<=g>=k relative zigzag/retraction",
+      "cannot_transfer": "Reverse ordinary realized homotopy only, not reverse directed cylinder",
+      "source_labels": [
+        "lem:greatest-new"
+      ]
+    },
+    {
+      "key": "DELETE-MAX",
+      "title": "有限删除与无兼容局部收缩",
+      "input": "Finite complement with two distinct maximal new cells",
+      "output": "Two sieve attachments glued viaactualintersection",
+      "cannot_transfer": "Need not synchronize contractions on overlaps; cofibers arbitrary",
+      "source_labels": [
+        "thm:couniversal"
+      ]
+    },
+    {
+      "key": "FILTERED-FIXED-TARGET",
+      "title": "固定目标的滤过极限",
+      "input": "Finite qstable subposets q=ir, fixedX",
+      "output": "Couniversality extends to all small posets",
+      "cannot_transfer": "Stages not required sieve/injective; fixed source matters",
+      "source_labels": [
+        "thm:couniversal",
+        "lem:filtered"
+      ]
+    },
+    {
+      "key": "POSET-UNIT",
+      "title": "旧的偏序单位比较",
+      "input": "Allsmallposets,prism/fullcovers/filteredcolimits",
+      "output": "Canonical N S->N U S weak equivalence",
+      "cannot_transfer": "Known old theorem, independent of model transfer/couniversality",
+      "source_labels": [
+        "prop:poset-unit"
+      ]
+    },
+    {
+      "key": "UPWARD-CLOSURE",
+      "title": "只在向上闭包取右伴随",
+      "input": "A sieve inB,A->Z right-adjoint retraction",
+      "output": "Arbitrary-target nerve attachment comparison",
+      "cannot_transfer": "Not global B->A adjoint, not arbitrary categorical pushout preservation",
+      "source_labels": [
+        "prop:attachment-comparison"
+      ]
+    },
+    {
+      "key": "TWICE-GENERATORS",
+      "title": "两次重分生成片",
+      "input": "Boundary/horn ofstandard simplex",
+      "output": "Finite face-chain posets andintersectionretraction",
+      "cannot_transfer": "Not allSd2Kposetnerve,includesemptyboundary0",
+      "source_labels": [
+        "lem:subdivision-posets"
+      ]
+    },
+    {
+      "key": "HORN-WFS",
+      "title": "角粘接与全部源的弱分解",
+      "input": "Alltarget horn acyclicity/localpresentability/commonregularbound",
+      "output": "Both WFS by all-squares transfinite smallobject",
+      "cannot_transfer": "Not finite executable procedure orcofibrant-source semi-model",
+      "source_labels": [
+        "cor:horn-acyclic",
+        "lem:transfinite-horns",
+        "prop:model-structure"
+      ]
+    },
+    {
+      "key": "FIXED-SOURCE-RETRACT",
+      "title": "保持源对象的收缩",
+      "input": "Cofibration fixed-source retract of relativeboundarycellmap",
+      "output": "Leftproperness via transfinite attachment invariance",
+      "cannot_transfer": "Do not assume Dwyer class closed under allretracts",
+      "source_labels": [
+        "prop:properness",
+        "cor:attachment-invariance"
+      ]
+    },
+    {
+      "key": "ALL-K-UNIT",
+      "title": "任意单纯集的实际单位",
+      "input": "Generating simplex/boundary posets plus canonical natural unit",
+      "output": "AllK twice-subdivided unit weakequivalence",
+      "cannot_transfer": "Faces mayidentify/degenerate; old legnot necessarilymonic",
+      "source_labels": [
+        "prop:subdivided-unit"
+      ]
+    },
+    {
+      "key": "MATE-NOT-ENOUGH",
+      "title": "伴随单位与独立弱等价输入",
+      "input": "Old id->Ex theorem and two-out-of-three",
+      "output": "Composite unitQuillencriterion",
+      "cannot_transfer": "Beingamate alone is not weak-equivalence proof",
+      "source_labels": [
+        "thm:quillen-equivalence"
+      ]
+    },
+    {
+      "key": "GUARDED-PRESENTATIONS",
+      "title": "定义性与等式同步生成",
+      "input": "Strong equations/finiteguards/allpartialcompositions",
+      "output": "Newcomposites created afterboundaryidentifications",
+      "cannot_transfer": "Finitepresentation canhave infinitecells; no ordinary-set quotient shortcut",
+      "source_labels": [
+        "lem:strict-presentations",
+        "prop:strict-presentability"
+      ]
+    },
+    {
+      "key": "CONTEXT-NOT-PREMISE",
+      "title": "弱群胚方法仅作比较",
+      "input": "F312cellular/cofibrant weakcoherator context",
+      "output": "Directedstationaryprism replacesinverse/treeintuition",
+      "cannot_transfer": "Context neitherproofdependency norcertificate for arbitrarystrict targets",
+      "source_labels": []
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "应用消费者与语义桥接",
+      "input": "An actual rewrite/schema/process model with verified strict category semantics",
+      "output": "Specified homotopy invariant/application objective",
+      "cannot_transfer": "No actual consumer/domainbridge frozen; category equivalence alone not workflow correctness",
+      "source_labels": []
+    },
+    {
+      "key": "BASELINE-COST-GATE",
+      "title": "旧方法与有效成本",
+      "input": "Old graph/poset nerve/localized homotopy methods on actual finiteworkload",
+      "output": "Measured setup/size/factorization/completion cost andindependentjudge",
+      "cannot_transfer": "Transfinite existence no speed bound; old n1 or simplicial methods may suffice",
+      "source_labels": []
+    }
+  ],
+  "notes": [
+    "All10TeX2774 and254Bib actual whole read. Small strict globular n>=1/omega,no invertibility,universe fixed; not n-fold or weak groupoids.",
+    "All-target stationary right Gray cylinders/strict old-subcategory equality; top-chain zero retains lower nonidentity boundary. Only tensor cocontinuity, not nu arbitrary colimit preservation; completed external tensor extension essential.",
+    "Finite reflection identifies n-cell endpoints of(n+1)cells; cutoff analogue in context preserves qcells instead,not interchangeable. Internal hom remains n-category, permits pushout gluing even noninjective attaching map.",
+    "Two full sieve/cosieve object covers give nerve pushouts via last/first vertex,not arbitrary category covers. Fibers/Ob left adjoints preserve colimits,compatible old labels crucial.",
+    "Couniversality sieve with RIGHT-adjoint retraction: greatest-new common-upper zigzag then finite delete-max sieve covers, then finite qstable subsets with fixed arbitraryX; transition maps need not injective.",
+    "Dwyer-style source A sieve inB plus right adjoint only inupclosureZ. Two Sd applies generatingboundary/horn pieces,not claimSd2ANYK is poset nerve. Monomorphic gluing leg verifiedoncorrectside, oldtarget map arbitrary.",
+    "Small object argument uses regular-cardinal/transfinite all-squares enumeration,not finite algorithm/complexity. Fixed-source retract forleft properness; R rightadjoint preservespullbacks forrightproperness.",
+    "Unit provesallK byboundarycells+filteredcolimits; mate unit weak-equivalence needs independent theorem id->Ex,not formal mate alone.",
+    "Guarded partial-operation presentation creates new composites afterboundaryidentification; strong equation t=t declaresdefinedness; reflexivityonlydefinedterms. Finitepresentation notfinitecells; countablysortedsignaturefinitaryevenomega.",
+    "Methodcontext weakcoherator groupoid cellular/cofibrant result internalF318?actualIDnotresolvedyet. NOT premise ofmainproof; directedfork0->1<-2 witness no single joining arrow between0,2 despitecontractiblenerve.",
+    "Main FullMain package actual ModelCategory/weak-fibration-cofibration equations, generating right-lifting classes, both WFS, completeness/cocompleteness/local presentability, left/rightproperness and Quillen criterion; finite n>=1 plusomega.",
+    "Actual nerve Hom(oriental,C),orientals normalized simplex chain nu; doubleSd/doubleEx and finite truncation types inspected. One-sorted all-cell strict model finite_dimension percell, no assumption globally boundedomega.",
+    "Endpoint main applies fullMain_of_standardSimplexComparison_isIso;selected ranked proof uses finite-cell bijectivity. Whole internal proofchain unknown/no Lean or Comparator build.",
+    "Registered nerveDetection_allDimensions actual DimensionOne proof:Ex2 preservation/reflection,all finite n even0 auxiliary versusmain finite n>=1.",
+    "Challenge has2sorry placeholders, not local source proof failure. 85file4471declaration static index, no claim every proof read."
+  ],
+  "remaining": [
+    "Full recursive lineage incomplete:3 selected original scopes,16 other external root bodies and internalF312 whole proof unread; cited corrections not independently read here.",
+    "Actual registered FullMain/nerve detection and selected definitions/endpoints read;85file4471decl static index is not Lean/Comparator build,full proof audit or human mathematical specification review.",
+    "No actual consumer semantic bridge/finite workload/old full-cost comparator/independent application judge; no newcandidate,initial,numericalhypothesis orpilot.",
+    "Human and independent-provider resources deferred, remaining gates not waived."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false,
+  "formal_status": "Registered FullMain/actual ExactModelEndpoint and nerve detection selected local B. Positive finite n plusomega, real ModelCategory/WFS/properness/localpresentability/Quillencriterion; no proofclosure/build/human. Intermediate natural results C;85file4471decl static index."
+}

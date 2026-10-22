@@ -1,0 +1,155 @@
+{
+  "recorded_at": "2026-10-21T09:15:14.033527+00:00",
+  "full_nodes": 5818,
+  "full_edges": 14954,
+  "canonical_citations": 5599,
+  "local_source_hashes_verified": 5248,
+  "external_URL_annotations_without_retained_local_bytes": 351,
+  "old_unchanged_records": 3425,
+  "changed_old_exact_versions": 4,
+  "new_records": 10,
+  "old_explicit_edges_unchanged": true,
+  "new_explicit_edges": 28,
+  "original_prediction_source_C_and_reading_coverage_unchanged": true,
+  "impact_cases": [
+    {
+      "seed": "BASE-332-QUADRATIC",
+      "required_affected": [
+        "CHECK-332-FINITE-DENOISING-001",
+        "PART-332-DENOISING-BENCHMARK-GATE",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-THM-MAIN",
+        "CLM-332-COR-EXTENSION",
+        "APP-231-01"
+      ],
+      "actual_affected_count": 6
+    },
+    {
+      "seed": "LIT-332-SHUMAN2013",
+      "required_affected": [
+        "BASE-332-QUADRATIC",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-LEM-COMPARISON",
+        "CLM-332-THM-MAIN"
+      ],
+      "actual_affected_count": 7
+    },
+    {
+      "seed": "BASE-332-WEIGHTED-MEDIAN",
+      "required_affected": [
+        "CHECK-332-FINITE-DENOISING-001",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-THM-MAIN"
+      ],
+      "actual_affected_count": 6
+    },
+    {
+      "seed": "PART-332-REAL-DENOISING-CONSUMER-GATE",
+      "required_affected": [
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CHECK-332-FINITE-DENOISING-001",
+        "CLM-332-THM-MAIN"
+      ],
+      "actual_affected_count": 2
+    },
+    {
+      "seed": "CHECK-332-FINITE-DENOISING-001",
+      "required_affected": [
+        "PART-332-EXACT-MEDIAN-JUDGE-GATE",
+        "PART-332-DENOISING-BENCHMARK-GATE",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-THM-MAIN",
+        "CLM-332-COR-EXTENSION"
+      ],
+      "actual_affected_count": 5
+    },
+    {
+      "seed": "METHOD-332-FROZEN-DENOISING-PACK",
+      "required_affected": [
+        "CHECK-332-FINITE-DENOISING-001",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-THM-MAIN"
+      ],
+      "actual_affected_count": 6
+    },
+    {
+      "seed": "PART-332-EXPECTED-MEDIAN",
+      "required_affected": [
+        "METHOD-332-FROZEN-DENOISING-PACK",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-THM-MAIN",
+        "CLM-332-COR-EXTENSION"
+      ],
+      "actual_affected_count": 9
+    },
+    {
+      "seed": "CLM-332-LEM-FLAT",
+      "required_affected": [
+        "CLM-332-THM-MAIN",
+        "APP-332-01",
+        "CLM-332-COR-EXTENSION"
+      ],
+      "required_unaffected": [
+        "LIT-332-SHUMAN2013",
+        "BASE-332-QUADRATIC"
+      ],
+      "actual_affected_count": 8
+    },
+    {
+      "seed": "SOURCE-735CF6B4B592EB37",
+      "required_affected": [
+        "BASE-332-QUADRATIC",
+        "BASE-332-WEIGHTED-MEDIAN",
+        "CHECK-332-FINITE-DENOISING-001",
+        "APP-332-01"
+      ],
+      "required_unaffected": [
+        "CLM-332-THM-MAIN",
+        "CLM-332-COR-EXTENSION"
+      ],
+      "actual_affected_count": 10
+    }
+  ],
+  "direct_baseline_edges": 6,
+  "remaining_real_consumer_gate": true,
+  "metrics": {
+    "nodes": 5818,
+    "research_nodes": 3435,
+    "edges": 14954,
+    "citations_checked": 5589,
+    "candidate_connections": 40,
+    "externally_checked_cards": 13,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 13,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 47,
+    "source_decomposition_drafts": 41,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  },
+  "upstream_read_only_clean": true
+}

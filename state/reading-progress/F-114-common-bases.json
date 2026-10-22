@@ -1,0 +1,1055 @@
+{
+  "work_package": "WP-040",
+  "status": "canonical_source_draft_curated_WP040_complete",
+  "recorded_at": "2026-10-20T19:48:07.977997+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "family_id": "F-114",
+  "manuscripts": [
+    "P-37d510a7d91dc2f7",
+    "P-a46100c82af7f163"
+  ],
+  "full_read_files": [
+    {
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "lines": 1831,
+      "sha256": "dbe14950d1ad4a065878f1bdb1e9c346d3fd7f6f564024580a8dfdc287b7fab9",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/figures/transport.tex",
+      "lines": 41,
+      "sha256": "ec6d0bb133be764606e75dfb0dc6a5b871138ca3787d34fc923cd131253b50ea",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/main.tex",
+      "lines": 89,
+      "sha256": "c53f0306aa453deec734d13348ffb485917c46878c18d59dd6f0995f9859e756",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/introduction.tex",
+      "lines": 216,
+      "sha256": "a01b3b784016e2f32ccdc67068ad3ea52d8707de98518d185a80237b108f110a",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "lines": 417,
+      "sha256": "029c5355b8513a2c6cb6a3e670c93bda27e21f93b9ec141ec22a140dd9cb370b",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "lines": 448,
+      "sha256": "0a5abfc85d7a44e5377cd4844330617aba8f300ea55fb8515b0d6dd1780cb568",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "lines": 574,
+      "sha256": "422eefc3e84e990b0c7f9aed784f6c6ec76db3167e8483c553047e65ba9203d8",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "lines": 496,
+      "sha256": "143e49ec91b14bd22151d585a535d5f041cd1ec599870c42b4d75765e1765d6b",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "lines": 333,
+      "sha256": "e02374f3986139d6fc7c8e8f015a9beb362a2cf73f94e8c9aad279a511a6ad44",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "lines": 670,
+      "sha256": "3eecf532f9aafca49c784bff7171de8bf7d8448dc496bc7e8adaee895aef20d0",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    },
+    {
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "lines": 256,
+      "sha256": "6c9f71fdfa13aacac3e76d20109827cb491e073e54890c5ca585c615eead7548",
+      "read_scope": "Entire natural source read; no mathematical proof audit"
+    }
+  ],
+  "part_read_files": [],
+  "source_result_index_in_full_read_files": [
+    {
+      "label": "thm:main",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 86,
+      "statement": "There is a single randomized oracle algorithm with the following\nguarantee.  Given independence oracles for arbitrary rank-$r$ matroids\n$M_1,M_2$ on $[n]$, and rational $\\epsilon,\\delta\\in(0,1)$, it outputs a\nnonnegative rational $\\widehat Z$ such that\n\\[\n \\Prob\\bigl[(1-\\epsilon)Z(M_1,M_2)\\le\\widehat Z\n                  \\le(1+\\epsilon)Z(M_1,M_2)\\bigr]\\ge1-\\delta.\n\\]\nIf $Z(M_1,M_2)=0$, its output is always zero.  On every execution, the\nnumber of oracle calls and the number of other bit operations are bounded\nby a fixed polynomial in\n\\[\n n,\\qquad \\ell,\\qquad \\epsilon^{-1},\\qquad \\log\\delta^{-1},\n\\]\nwhere $\\ell$ is the binary encoding length of $n,r,\\epsilon,\\delta$.\nThe algorithm uses only independent unbiased random bits and does not\nrequire a representation of either matroid."
+    },
+    {
+      "label": "thm:BH",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 334,
+      "statement": "For a matroid $N$ on a ground set $E$ and $0<q\\le1$, the polynomial\n\\[\n T_{q,N}(z_0,z)=\\sum_{A\\subseteq E}\n        q^{-\\rank_N(A)}z_0^{|E|-|A|}\\prod_{a\\in A}z_a\n\\]\nis Lorentzian.  Lorentzian polynomials are closed under partial\nderivatives and nonnegative linear substitutions, and a quadratic\nLorentzian polynomial has a Hessian with at most one positive eigenvalue.\nIn particular, $T_{q,N}$ has the quadratic signature property."
+    },
+    {
+      "label": "lem:coefficient",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 389,
+      "statement": "For distinct unassigned indices $i,j$,\n\\begin{equation}\\label{eq:coefficientpair}\n 4c^{\\sigma}_{ij}c^{\\sigma}_{ji}\\le z_{\\sigma}^2.\n\\end{equation}\nFor distinct unassigned indices $i,j,k$,\n\\begin{equation}\\label{eq:coefficient}\n c^{\\sigma}_{ij}c^{\\sigma}_{jk}\\le z_{\\sigma}c^{\\sigma}_{ik}.\n\\end{equation}"
+    },
+    {
+      "label": "lem:transport",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 497,
+      "statement": "With the notation above,\n\\begin{equation}\\label{eq:transport}\n (\\overline H_p-\\overline H_d)^2\n \\le\n \\left(\\frac1{s_pW_p}+\\frac1{s_dW_d}\n       +\\frac2{s_ps_d}\\sum_{t=1}^m\\frac{v_t}{W_t}\\right)\n D_{\\mathcal X}(H).\n\\end{equation}"
+    },
+    {
+      "label": "lem:transversalvariance",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 777,
+      "statement": "For good multipliers and every $H:\\Om\\to\\R$,\n\\begin{equation}\\label{eq:transversalvariance}\n \\Var_\\mu H\\le C_{\\rm p}\\frac{D(H)}{c_0},\n \\qquad C_{\\rm p}=n(1+8n).\n\\end{equation}"
+    },
+    {
+      "label": "lem:defecttransfer",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 851,
+      "statement": "Assume the multipliers are good, and let $H:\\Om\\to\\R$.\nFor each defect type $ij$ there is an event $\\mathcal A\\subseteq\\Om_0$\nobtained by prescribing the selected elements in pairs $i,j$, with\n$\\mu(\\mathcal A)\\ge1/4$.  Its conditional mean\n$\\overline H'=\\E_\\mu[H\\mid\\mathcal A]$ satisfies\n\\begin{equation}\\label{eq:defecttransfer}\n (\\overline H_{ij}-\\overline H')^2\n       \\le C_{\\rm d}\\frac{D(H)}{c_0},\n \\qquad C_{\\rm d}=8+32n,\n\\end{equation}\nand\n\\begin{equation}\\label{eq:conditionalmean}\n (\\overline H'-\\overline H_0)^2\\le4\\Var_\\mu H.\n\\end{equation}"
+    },
+    {
+      "label": "prop:observable",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 927,
+      "statement": "For good multipliers and every $H:\\Om\\to\\R$,\n\\begin{equation}\\label{eq:observable}\n \\Var_\\pi(\\Qproj H)\\le K_{\\rm obs}\\calE(H),\n \\qquad K_{\\rm obs}=2000n^6.\n\\end{equation}"
+    },
+    {
+      "label": "lem:timeaverages",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 976,
+      "statement": "Suppose the multipliers are good.  If $G=\\Qproj G$ and a trajectory\n$(X_t)$ of $P$ starts with law $\\nu\\le U\\pi$, then for every integer\n$N\\ge1$,\n\\begin{equation}\\label{eq:MSE}\n \\E_\\nu\\left[\\left(\\frac1N\\sum_{t=0}^{N-1}G(X_t)-\\E_\\pi G\\right)^2\\right]\n \\le\\frac{2UK_{\\rm obs}\\Var_\\pi G}{N}.\n\\end{equation}"
+    },
+    {
+      "label": "lem:trace",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 1029,
+      "statement": "With good multipliers, $P_A$ is reversible with stationary law $\\mu$,\nirreducible, and lazy.  Its inverse spectral gap is at most $18n^4$.\nIn particular, for every integer $s\\ge0$,\n\\begin{equation}\\label{eq:tracemixing}\n \\left|\\frac{P_A^s(x,y)}{\\mu(y)}-1\\right|\n \\le\\frac{\\exp(-s/(18n^4))}{\\min_{z\\in A}\\mu(z)}\n \\quad(x,y\\in A).\n\\end{equation}\nIf a trace step begins with a law $\\nu\\le U\\mu$, its expected number of\nunderlying transitions is at most\n\\begin{equation}\\label{eq:returncost}\n \\frac{U}{\\pi(A)}\\le5Un^2.\n\\end{equation}"
+    },
+    {
+      "label": "cor:intersection",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 1479,
+      "statement": "Let $M_1,M_2$ be arbitrary matroids on an explicitly enumerated ground\nset $[n]$, supplied by fixed exact independence oracles with $n$-bit\nsubset queries.  Their ranks may differ.  For an integer $k$, let\n$\\mathcal C_k$ consist of the $k$-element subsets of $[n]$ independent\nin both matroids, and put\n\\[\n \\mathcal C=\\bigcup_{j=0}^n\\mathcal C_j,\\qquad\n h=\\max_{I\\in\\mathcal C}|I|,\\qquad\n \\mathcal C_{\\max}=\\mathcal C_h.\n\\]\nThe maximum $h$ is well defined because $\\varnothing\\in\\mathcal C$.\nEach family $\\mathcal F\\in\\{\\mathcal C_k,\\mathcal C,\\mathcal C_{\\max}\\}$\nhas the following algorithms.\n\\begin{enumerate}[label=(\\roman*)]\n\\item Given rational $\\epsilon,\\delta\\in(0,1)$, a randomized oracle\nalgorithm returns a nonnegative rational $\\widehat N$ satisfying\n\\[\n \\Prob\\bigl[(1-\\epsilon)|\\mathcal F|\\le\\widehat N\n                         \\le(1+\\epsilon)|\\mathcal F|\\bigr]\\ge1-\\delta.\n\\]\nIf $\\mathcal F=\\varnothing$, an exact pretest returns $0$ before\nrandomization.  On every execution, oracle calls and other bit operations\nare bounded by a fixed polynomial in\n$n,\\ell,\\epsilon^{-1},\\log\\delta^{-1}$.\n\\item Given rational $\\theta\\in(0,1)$, a randomized oracle algorithm\ndecides emptiness exactly.  If $\\mathcal F=\\varnothing$, it returns a\ndistinguished symbol $\\bot$.  Otherwise it returns $S\\in\\mathcal F$ on\nevery execution, and its output law satisfies\n\\[\n d_{\\rm TV}\\bigl(\\mathcal L(S),\\operatorname{Unif}(\\mathcal F)\\bigr)\n =\\frac12\\sum_{I\\in\\mathcal F}\n       \\left|\\Prob[S=I]-\\frac1{|\\mathcal F|}\\right|\\le\\theta.\n\\]\nOn every execution, oracle calls and other bit operations are bounded by\na fixed polynomial in $n,\\ell,\\theta^{-1}$.\n\\end{enumerate}\nHere $\\ell$ is the binary encoding length of the numerical inputs to the\nalgorithm in question, including $k$ only for $\\mathcal C_k$.\nBoth algorithms use only the two given independence oracles and\nindependent unbiased random bits."
+    },
+    {
+      "label": "thm:main",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/introduction.tex",
+      "line": 52,
+      "statement": "There is a single uniform randomized algorithm which, for every input\ndescribed above, outputs a nonnegative rational $\\widehat Z$ satisfying\n\\[\n \\PP\\bigl((1-\\eps)Z\\le\\widehat Z\\le(1+\\eps)Z\\bigr)\n \\ge1-\\delta.\n\\]\nIf $Z=0$, the algorithm outputs zero on every execution. On every\nexecution, both its number of oracle calls and its number of other bit\noperations are bounded by one fixed polynomial in\n\\[\n n,\\qquad \\ell,\\qquad \\eps^{-1},\\qquad \\log(\\delta^{-1}).\n\\]\nThe bit-operation bound includes rational arithmetic, generation of\nindependent unbiased random bits, and the encoding of the output."
+    },
+    {
+      "label": "prop:oracle-tools",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 33,
+      "statement": "The following operations have deterministic oracle and bit complexity\nbounded by fixed polynomials in the indicated input sizes.\n\\begin{enumerate}\n \\item An integer-valued submodular function on a finite ground set can\n be minimized, with a minimizing set returned, from an exact value oracle\n and a bound on the binary lengths of its values.  The size parameters are\n the ground-set cardinality and that value-length bound.\n \\item Let $Q\\subseteq\\mathbb R^d$ be a bounded rational polytope, supplied\n by strong separation, a coordinate bound, and a bound on the binary\n encoding length of each individual defining inequality.  The separator\n returns inequalities of length polynomial in the query length and\n the supplied description bounds.  Exact rational\n linear optimization, including an emptiness decision and the production\n of an optimal vertex when $Q$ is nonempty, is polynomial in $d$, these\n bounds, and the objective length.  This assertion includes\n lower-dimensional polytopes.  All separation queries have polynomial\n encoding length.\n\\end{enumerate}\nThe first operation also applies to an integer submodular function with\na rational modular term added, and with prescribed elements required to\nbelong or not to belong to the minimizing set."
+    },
+    {
+      "label": "lem:base-calculus",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 103,
+      "statement": "Let $f,g:2^E\\to\\mathbb R$ be normalized submodular functions and let\n$v\\in\\mathbb R^E$.\n\\begin{enumerate}\n \\item If $w_{\\pi(1)}\\geq\\cdots\\geq w_{\\pi(n)}$ and\n $A_k=\\{\\pi(1),\\ldots,\\pi(k)\\}$, the vector\n \\[\n b_{\\pi(k)}=f(A_k)-f(A_{k-1})\n \\]\n belongs to $B(f)$ and maximizes $w\\cdot x$ there.\n \\item With $(f+v)(A)=f(A)+v(A)$ and\n $f^{\\mathrm{ref}}(A)=f(E\\setminus A)-f(E)$, one has\n \\[\n B(f+g)=B(f)+B(g),\\qquad B(f+v)=B(f)+v,\\qquad\n B(f^{\\mathrm{ref}})=-B(f).\n \\]\n \\item For a partition $\\mathcal D$ of $E$, define\n $\\pi_{\\mathcal D}(x)=(x(D):D\\in\\mathcal D)$ and\n $\\bar f(\\mathcal J)=f(\\bigcup_{D\\in\\mathcal J}D)$.\n Then $\\pi_{\\mathcal D}(B(f))=B(\\bar f)$.\n \\item For distinct $a,b\\in E$ and $t\\geq0$, the segment\n $[-t,t](e_a-e_b)$ is $B(q_{ab})$, where\n \\[\n q_{ab}(A)=t\\,|\\mathbf1_A(a)-\\mathbf1_A(b)|.\n \\]\n In particular, adding any collection of these segments to a base\n polytope again gives a base polytope, with integral rank if $f$ and\n the segment lengths are integral.\n\\end{enumerate}"
+    },
+    {
+      "label": "lem:expansion-matroid",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 179,
+      "statement": "Let $r:2^E\\to\\mathbb Z_{\\geq0}$ be normalized, nondecreasing, and\nsubmodular.  Replace each $j\\in E$ by any finite number of labelled\ncopies.  Declare a set of copies independent when its occupancy vector\n$z$ satisfies $z(A)\\leq r(A)$ for every $A\\subseteq E$.\nThis defines a matroid.  A set of copies with occupancy vector $v$ has\nmatroid rank\n\\begin{equation}\\label{eq:expansion-rank}\n m(v)=\\min_{A\\subseteq E}\\{r(A)+v(E\\setminus A)\\}.\n\\end{equation}"
+    },
+    {
+      "label": "lem:polyhedral-controls",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 227,
+      "statement": "Let $Q\\subseteq\\mathbb R^E$ be nonempty and be defined either by\n$B(f_1)\\cap B(f_2)$ or by $B(f)$ together with equations\n$x(D)=a_D$ for the parts $D$ of a partition of $E$.\nThe functions are normalized and submodular.  In either case arbitrary\ncoordinate lower and upper bounds may also be imposed.\n\\begin{enumerate}\n \\item If the ranks and all other right sides are integral, every\n vertex of $Q$ is integral.\n \\item Suppose $x\\in\\mathbb R^E$ satisfies every defining inequality\n with additive violation at most $b\\geq0$, and every defining equality\n with absolute error at most $b$.  Then\n \\begin{equation}\\label{eq:polyhedral-distance}\n  \\operatorname{dist}_{\\infty}(x,Q)\\leq10(n+1)^2b.\n \\end{equation}\n \\item Fix $a\\in Q$ and an affine function $F$ whose linear part is\n integral.  The function\n \\[\n  \\phi(l)=\\max\\{F(y):y\\in Q,\\ \\|y-a\\|_\\infty\\leq l\\},\n  \\qquad l\\geq0,\n \\]\n is continuous, nondecreasing, concave, and piecewise affine.  Every\n positive slope of an affine piece is an integer and hence at least\n one.  Eventually $\\phi(l)=\\max_Q F$.\n Consequently, if $F\\geq0$ on $Q$ and $\\phi(L)<L$ for some $L>0$,\n then $\\phi(L)=\\max_QF$.\n\\end{enumerate}"
+    },
+    {
+      "label": "lem:center",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 358,
+      "statement": "Let $Q\\subseteq\\mathbb R^n$ be a nonempty bounded rational polytope\nsatisfying the hypotheses of Proposition~\\ref{prop:oracle-tools}.\nOne can find a rational $c\\in Q$, with polynomial encoding length,\nsuch that every affine $F$ nonnegative on $Q$ satisfies\n\\begin{equation}\\label{eq:center-slack}\n \\max_{x\\in Q}F(x)\\leq4(n+1)F(c).\n\\end{equation}\nThe construction has polynomial oracle and bit complexity.\nIt also returns an affinely spanning vertex simplex of $Q$ such that\nevery point of $Q$ has all barycentric coordinates of absolute value\nat most two with respect to that simplex."
+    },
+    {
+      "label": "lem:balanced-summation",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "line": 74,
+      "statement": "Let $F>0$ on the entire slice $\\mathcal B(m,r)$ and suppose it has\nthe removal signature.  Choose disjoint coordinate pairs\n$\\{a_t,b_t\\}$ with $m_{a_t}=m_{b_t}=M_t\\ge1$.\nTheir balanced sum\n\\[\n \\Phi(z)=\\sum_{0\\le k_t\\le M_t}\n F\\bigl(z,(k_t,M_t-k_t)_t\\bigr)\n\\]\nis strictly positive on the entire remaining box slice of total\n$r-\\sum_tM_t$ and has the removal signature.\nThe same statement holds with ``addition'' in place of ``removal''.\nFixing coordinates at prescribed box-valid values preserves either\nsignature and positivity on the resulting valid slice."
+    },
+    {
+      "label": "lem:rank-signatures",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "line": 238,
+      "statement": "Partition a set of count coordinates $I$ into groups indexed by $E$,\nallowing empty groups, and let $b\\in\\Z_{\\ge0}^E$.\nFor either of the two consistent orientations\n\\[\n v_e=b_e+\\sum_{i\\text{ in group }e}z_i,\n \\qquad\\text{or}\\qquad\n v_e=b_e+\\sum_{i\\text{ in group }e}(m_i-z_i),\n\\]\nthe factor $G(z)=\\Phi_{r,H}(v)$ satisfies\n$\\one\\one^{\\mathsf T}-Q\\succeq0$ for both signs in\n\\eqref{eq:signature-normalization}.\nThe product of such factors on disjoint sets of count coordinates\nhas both integer signatures on every total slice.  The assertion\nholds for every nonnegative power of the product, and for any\ncoordinates fixed at box-valid values.\n\nMore generally, a base constraint for an arbitrary integral\nnormalized submodular rank, with a fixed integer translation and\neither consistent orientation of its grouped arguments on a finite\nbox, can be imposed as a limit of factors of this kind."
+    },
+    {
+      "label": "prop:shift-logconcavity",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "line": 355,
+      "statement": "Let $f_1,f_2$ be integral normalized submodular functions on $E$,\nnot necessarily nondecreasing, and define\n\\[\n Y(d)=\\#\\{(x_1,x_2)\\in(B(f_1)\\cap\\Z^E)\\times\n                         (B(f_2)\\cap\\Z^E):x_1-x_2=d\\}.\n\\]\nFor $d_0\\in\\Z^E$ and distinct $j,k\\in E$, put\n$y(t)=Y(d_0+t(e_j-e_k))$, $t\\in\\Z$.\nThe positive support of $y$ is an integer interval, possibly\nempty or a singleton.  For integers $a<t<b$ with\n$y(a),y(b)>0$,\n\\begin{equation}\n y(t)\\ge y(a)^{(b-t)/(b-a)}y(b)^{(t-a)/(b-a)}.\n \\label{eq:shift-interpolation}\n\\end{equation}"
+    },
+    {
+      "label": "lem:generator-prefixes",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 70,
+      "statement": "Let \\(\\mathcal A=(A_1,\\ldots,A_m)\\) be a family of subsets of \\(E\\).\nIts atoms admit an order such that every prefix is a union of at most\n\\(n\\) intersections of members of \\(\\mathcal A\\), allowing \\(E\\) as\nthe empty intersection.  If \\(s\\) is normalized, nonnegative, and submodular,\n\\(s(E)=0\\), and \\(s(A_j)\\le b\\) for every \\(j\\), where \\(b\\ge0\\),\nthen in this order\nevery prefix \\(F\\) satisfies\n\\[\n s(F)\\le n(m+1)b.\n\\]\nConsequently, suppose that \\(Q\\subseteq B(r)\\) and\n\\(r(A_j)-x(A_j)\\le b\\) for all \\(x\\in Q\\) and all \\(j\\).\nFor every atom \\(D\\) of \\(\\mathcal A\\) and every \\(x,y\\in Q\\),\n\\begin{equation}\\label{eq:part-range}\n |x(D)-y(D)|\\le 2n(m+1)b.\n\\end{equation}"
+    },
+    {
+      "label": "lem:partitions",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 103,
+      "statement": "Each part of \\(\\mathcal D_i\\) is contained in a superblock.\nThe three partitions can be found with polynomially many oracle calls\nand bit operations.  Each has a generating family of at most \\(n^2\\)\nsets satisfying its defining strict slack bound.\n\nFix a superblock order \\(G_1,\\ldots,G_g\\) supplied by\nLemma~\\ref{lem:generator-prefixes} for the \\(s_*\\)-generators.\nEvery prefix \\(F_k=G_1\\cup\\cdots\\cup G_k\\), including the empty\nand full prefixes, satisfies\n\\begin{equation}\\label{eq:superblock-prefix-slack}\n s_*(F_k)\\le N^4S.\n\\end{equation}\nFor system 1 use this order, and for system 2 use its reverse.  The\nsets preceding a superblock \\(G_k\\) in these orders are therefore\n\\begin{equation}\\label{eq:superblock-prefixes}\n A_{1G_k}=F_{k-1},\\qquad A_{2G_k}=E\\setminus F_k.\n\\end{equation}"
+    },
+    {
+      "label": "lem:shift-average",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 207,
+      "statement": "For \\(F=Y\\) and for \\(F=Y^+\\), every integral full or restricted\nstar shift with \\(|l_j|\\le S/N^{25}\\) satisfies\n\\begin{equation}\\label{eq:small-shift-ratio}\n e^{-N^{-8}}\\le \\frac{F(d(l))}{F(0)}\\le e^{N^{-8}}.\n\\end{equation}\nFor \\((\\kappa,A_\\kappa)=(\\omega,A_\\omega)\\) or \\((\\psi,J)\\),\non its corresponding star lattice,\n\\begin{equation}\\label{eq:average-comparison}\n e^{-3N^{-8}}F(0)\n \\le \\frac{1}{A_\\kappa}\\sum_l\\kappa(l)F(d(l))\n \\le e^{3N^{-8}}F(0).\n\\end{equation}\nThe lower bound remains valid if the sum is restricted to\n\\(\\max_j|l_j|\\le S/N^{25}\\)."
+    },
+    {
+      "label": "lem:refinement-witnesses",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 304,
+      "statement": "Fix integer \\(w\\) for which both \\(Q_i(w)\\) are nonempty.\nFor each system separately, its lattice points and those of its\nexpanded slice can be partitioned by fixing integer totals on\nsuccessively finer parts.  Each resulting original slice has the\nform\n\\[\n Q=\\{x\\in B(r_i):x(D)=v_D\\ (D\\in\\mathcal P)\\},\n\\]\nwhere \\(\\mathcal P\\) refines \\(\\mathcal G\\) and every part of\n\\(\\mathcal P\\) is a union of \\(\\mathcal D_i\\)-parts.  Its\nexpanded partner is exactly \\(Q+\\Delta_i\\).  Every nonempty\nterminal slice has a point \\(a^*\\in Q\\) satisfying\n\\begin{align}\n \\|a^*-c\\|_\\infty&\\le N^{60}S,\n                       \\label{eq:witness-distance}\\\\\n r_i(A)-a^*(A)&\\ge S\n       &&\\text{if \\(A\\) cuts a part of \\(\\mathcal P\\)},\n                       \\label{eq:witness-terminal-slack}\\\\\n r_i(A)-a^*(A)&\\ge W/2\n       &&\\text{if \\(A\\) cuts a part of \\(\\mathcal D_i\\)}.\n                       \\label{eq:witness-fine-slack}\n\\end{align}"
+    },
+    {
+      "label": "prop:expansion",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 437,
+      "statement": "The expanded common-base count satisfies\n\\begin{equation}\\label{eq:expansion-comparison}\n Z\\le Z^+\\le e^{20N^{-8}}Z.\n\\end{equation}"
+    },
+    {
+      "label": "lem:tree-coordinates",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 67,
+      "statement": "There is a unique pair $X_i(u,z)$ with these properties and\n$X_{1e}=z_e$ on nontree edges. Its coordinates are integral linear\nfunctions of $(u,z)$, with coefficients of absolute value at most\n$10(n+1)$. Each coordinate depends only on variables in its superblock.\nFor integral $(u,z)$ this is a bijection onto integral pairs with the\nspecified $\\mathcal D_1$-totals for $X_1$ and $\\mathcal D_2$-totals\nfor $X_2$, and with $X_1-X_2$ supported on the representatives."
+    },
+    {
+      "label": "lem:port-penalties",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 149,
+      "statement": "An original base pair with a representative shift satisfies\n\\eqref{eq:hard-port-conditions} and $\\sum_GV_G\\le N^7S$.\nConversely, if~\\eqref{eq:hard-port-conditions} holds, then\n\\[\n X_i(A)-r_i(A)\\le\\sum_G V_G\\qquad(A\\subseteq E, i=1,2).\n\\]\nIf in addition $\\sum_GV_G\\le T$, then $X_i\\in B_i^+$ for both $i$,\nwhere $B_i^+$ is defined in~\\eqref{eq:expanded-bases}."
+    },
+    {
+      "label": "lem:smooth-derivatives",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 345,
+      "statement": "In block count coordinates, $g=\\log\\widetilde I_G$ is $C^3$, is concave,\nand satisfies, everywhere,\n\\begin{equation}\\label{eq:smooth-derivative-bounds}\n |g''_{ij}|\\le A_2=N^{800}/W^2,\\qquad\n |g'''_{ijk}|\\le A_3=N^{1250}/W^3.\n\\end{equation}"
+    },
+    {
+      "label": "lem:block-signatures",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 380,
+      "statement": "For $0\\le s\\le1$, every block factor $F_G^s$ has both normalized\npositive-semidefinite tests of~\\eqref{eq:signature-normalization}:\n$\\one\\one^{\\mathsf T}-Q\\succeq0$, for additions and removals."
+    },
+    {
+      "label": "prop:port-model",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 468,
+      "statement": "For every nonempty input after the deterministic feasibility test,\nthe preceding construction gives at most $2n$ paired ports of lengths\n$d_{iD}\\le N^{21}W$, with $p=\\sum d_{iD}$ polynomial in $N$, and a\nstrictly positive weight $h$ on the entire slice~\\eqref{eq:paired-count-slice}.\nFor every real $s\\in[0,1]$, $h^s$ has both integer signatures of\nDefinition~\\ref{def:integer-signatures}. Its balanced mass\n\\[\n \\mathcal Z_{\\rm port}\n   =\\sum_{\\substack{(a,b)\\in\\mathcal S\\\\\n                    a_{iD}+b_{iD}=d_{iD}\\ \\forall(i,D)}}h(a,b)\n\\]\nsatisfies\n$|\\log(\\mathcal Z_{\\rm port}/(JZ))|\\le100N^{-7}$.\nThese statements include $p=0$, when there is a single profile."
+    },
+    {
+      "label": "lem:weight-bounds",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "line": 14,
+      "statement": "For every block and every port argument in its box,\n\\begin{equation}\\label{eq:integral-bounds}\n e^{-N^{50000}}\\le\\widetilde I_G(u)\\le e^K.\n\\end{equation}\nFor the weight $h$ on the full paired slice of\nProposition~\\ref{prop:port-model},\n\\begin{equation}\\label{eq:weight-log-bound}\n |\\log h(a,b)|\\le N^{60000}.\n\\end{equation}\nAll rational coefficients needed to define or evaluate its factors\nhave polynomial encoding length in the input and in the query."
+    },
+    {
+      "label": "lem:volume-lift",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "line": 158,
+      "statement": "The polytope~\\eqref{eq:volume-lift} has dimension $f+6m+d_0$, a\npolynomial facet-encoding bound, and an exact polynomial-time strong\nseparation oracle. It contains a known rational ball of radius $1/32$\nand has an outer ball of polynomial encoding length. Furthermore,\n\\begin{equation}\\label{eq:volume-lift-accuracy}\n (1-\\rho/10)\\widetilde I_G(u)\n       \\le\\vol(\\mathcal Q)\\le\\widetilde I_G(u).\n\\end{equation}\nAll polynomial bounds are in the original input length, the encoding\nlengths of $u$ and $\\rho$, $N$, and $\\rho^{-1}$, with absolute fixed exponents."
+    },
+    {
+      "label": "prop:weight-evaluator",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "line": 227,
+      "statement": "Given a profile in the entire slice $\\mathcal S$, rational\n$0<\\rho,\\beta<1$, and a rational power $s\\in[0,1]$ with denominator\n$q_s$, there is an evaluator using fresh random bits and returning a strictly positive rational\n$\\widehat h_s$ such that\n\\[\n \\PP\\bigl[(1-\\rho)h^s\\le\\widehat h_s\\le(1+\\rho)h^s\\bigr]\n       \\ge1-\\beta.\n\\]\nIts output length, number of rank queries, and other bit operations\nare bounded on every execution by fixed polynomials in $N$, the\ninput encoding lengths, $\\rho^{-1}$, $\\log(\\beta^{-1})$, and $q_s$.\nIn particular an equally spaced schedule with a polynomial number of\nphases has polynomially bounded denominators. Moreover $J$ admits\na deterministic positive rational approximation $\\widehat J$ with\n$|\\log(\\widehat J/J)|\\le N^{-7}$ in polynomial work."
+    },
+    {
+      "label": "lem:counting-lifts",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 76,
+      "statement": "If $k$ has both integer signatures of Definition~\\ref{def:integer-signatures},\nthen $f$ has the omission property and $\\widetilde f$ has the addition\nproperty.  Both properties persist under fixing included or excluded\nelements and summing disjoint labelled pairs at occupancy one, on each\nresulting full valid-degree domain.  Moreover, with $q=(p+1)^2$,\n\\begin{equation}\n q^{-1}f(S)\\leq\\widetilde f(S)\\leq qf(S)\n \\quad\\left(S\\in\\mathcal A\\cup\\bigcup_{i\\ne l}\\mathcal A_{il}\\right).\n \\label{eq:counting-comparison}\n\\end{equation}"
+    },
+    {
+      "label": "prop:counting-transport",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 177,
+      "statement": "Suppose $f$ is positive on all $p$-subsets and has the omission property,\n$\\widetilde f$ is positive on that domain and has the addition property,\nthe weights agree on $\\mathcal A$, and\n\\eqref{eq:counting-comparison} holds with $q\\geq1$.\nFor good multipliers put\n\\begin{equation}\n C_{\\rm p}=p(1+8pq^2),\\qquad\n C_{\\rm d}=8+32pq^3,\\qquad\n K_{\\rm obs}=10p^4(9C_{\\rm p}+2C_{\\rm d}).\n \\label{eq:counting-constants}\n\\end{equation}\nThen for every real function $g$ on $\\mathcal X$,\n\\begin{equation}\n C\\operatorname{Var}_\\mu(g)\\leq C_{\\rm p}\\mathfrak D(g),\\qquad\n \\operatorname{Var}_\\pi(\\mathcal Qg)\n \\leq(9C_{\\rm p}+2C_{\\rm d})\\frac{\\mathfrak D(g)}C\n \\leq K_{\\rm obs}\\mathcal E_P(g).\n \\label{eq:counting-variance}\n\\end{equation}\nIf $\\mathcal QG=G$ and an initial law satisfies $\\nu\\leq D\\pi$\npointwise, then $m\\geq1$ consecutive observations satisfy\n\\begin{equation}\n \\mathbb E_\\nu\\left[\n  \\left(m^{-1}\\sum_{t=0}^{m-1}G(S_t)-\\mathbb E_\\pi G\\right)^2\\right]\n \\leq\\frac{2D K_{\\rm obs}}m\\operatorname{Var}_\\pi(G).\n \\label{eq:counting-time-average}\n\\end{equation}\nThe trace on $\\mathcal A$, counting every strictly positive return as\none step, is lazy and reversible with stationary law $\\mu$ and inverse\nspectral gap at most $2p^2C_{\\rm p}\\leq K_{\\rm obs}$.  In particular,\n\\begin{equation}\n \\left|\\frac{P_{\\rm tr}^t(x,y)}{\\mu(y)}-1\\right|\n \\leq\\mu_{\\min}^{-1}\\exp(-t/K_{\\rm obs}).\n \\label{eq:counting-trace-mixing}\n\\end{equation}\nIf a trace starts from $\\nu\\leq D\\mu$, the expected cost of $t$ trace\nsteps in underlying transitions is at most $tD/\\pi(\\mathcal A)$;\nat each deterministic trace index its law is still at most $D\\mu$."
+    },
+    {
+      "label": "lem:counting-initialization",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 272,
+      "statement": "For every $p$-subset and $0\\leq j<H_o$,\n\\begin{equation}\n \\frac12\\leq\\frac{f_{j+1}(S)}{f_j(S)}\\leq1.\n \\label{eq:counting-adjacent}\n\\end{equation}\nThus $C_j/c_{il}(j)$ changes by a factor in $[1/2,2]$ between\nconsecutive phases, and $\\mu_j=f_j/C_j$ on $\\mathcal A$ satisfies\n$\\mu_j\\leq2\\mu_{j+1}$.  Moreover\n\\begin{equation}\n \\min_{S\\in\\mathcal A}\\mu_j(S)\n       \\geq2^{-(H_o+p+K_o)}.\n \\label{eq:counting-minimum}\n\\end{equation}\nThe initial masses are exact rational numbers computable in polynomial\nbit time, and $\\mu_0$ can be sampled by independent uniform port counts\nfollowed by uniform subsets of the pairs realizing those counts."
+    },
+    {
+      "label": "prop:counting-reference",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 395,
+      "statement": "With probability at least $1-1/50$, this experiment does not abort,\nevery stored multiplier collection is good at its own phase, and\n\\begin{equation}\n \\left|\\log\\frac{Y_{\\rm ref}}{C_{H_o}}\\right|\\leq4H_o\\eta.\n \\label{eq:counting-reference-error}\n\\end{equation}"
+    },
+    {
+      "label": "lem:counting-bits",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 510,
+      "statement": "The implemented experiment has deterministic polynomial bounds on\noracle calls, bit operations, and output length, on every execution.\nIt can be coupled to the capped reference experiment so that, except\nwith probability at most $20J_*\\xi$, all states, type counts,\nmultiplier updates, and cap decisions coincide, every weight evaluation\nmeets its tolerance, and each positive observed ratio differs from\nits reference value by log error at most $4\\xi$."
+    }
+  ],
+  "natural_reading_notes": [
+    "Parentwhole1831lineTeX incl21embeddedbibliographyentries plus41linefigure read. Exact fixedindependenceoracles,equalrankexplicitn,bits/oraclecostseparate,deterministicemptiness pretest.",
+    "ParentM1directsumdualM2 pairedencoding,qdeficiency,n(n-1)ordereddefects. Primalanddual selected/omitted quadratic signature from BH; signed demandtransport ordinaryholecancel,disjointleafedges;actualalgorithm doesnotbuildconditioningtree.",
+    "Parentgoodmultipliersfactor4;transversalvarCp=n(1+8n),defectCd8+32n,Cobs2000n^6 controlsblockprojectiononly,tracegapinverse18n^4 notwholechain. Warmstarttrajectorydomination;freshuniformrestarts throughstoredparameters;no conditioningoncapsurvival.",
+    "Parentrho1-1/(2n),L2n(n+b),etaeps/(32(L+1)),Navceil(10^10(L+1)n^14/eta^2),tau20n^4(n(L+1)+2);largefixedpolynomialsnotpracticaltiming. Exactrationalintegeraccumulator;boundedrejectiontrials,independentmedianamplification29/32run.",
+    "Parentcorintersectiontruncatesbothranksk<=h,all-cardinalitysumwithallocatedconfidence;samplerexactfeasibilityoneverystep,originaltargethfixedaftercontraction,alpha=theta/4n,beta=theta/8n,dyadicthreshold;TV<=3theta/4,poly1theta notlog/exact.",
+    "Polymatroidnewintro+polyhedra+signatures+geometryfullread;main+fourbodymodules at initialcheckpoint;allsevenbodymodulesnowread. Exact normalized nondecreasing integral submodular rankvalueoracles,commonbinaryR,eachvectoronce,oracleinternalworkexcluded. Actual114formalscopedoc onlyparentmatroidtheorem;actualproofentrancesnotyetread.",
+    "PolyhedralcontrolsTU2laminarchains,coordinatebounds;integrality,distinfty<=10(n+1)^2b(actualnbstronger),integerpositiveslopes. Rationalcenter simplexdetreplacement barycentricabs<=2,affineslackmax<=4(n+1)F(c);nophysicalvertexenumeration.",
+    "Rankfactorbothsignatures normalized11T-QPSDparallelblocks,disjointfactorcoordinatesonly,consistentorientationgrouping;modulartranslationgeneralintegralsubmodularallowedproofdevice. BalancedpairsM1nullaxisimportant;positivitybeforelimitandglobalinterpolationensurenogapssupport. Rootdirectiondifferencepaircountslogconcave notarbitraryweights.",
+    "NewN10^10+n+ell+ceil1eps,K=N5,S=N5000,W=N20000,T=W/N300,h=S/N50,M=N2000. D_i smallslackW,s_star differencepolytope slackSsuperblocks,computableorderedpairconstrainedminimizers<=n(n-1). Oppositeprefixordersessential.",
+    "Shiftaveragesfullstar/restrictedGaussian differ;smallshifts|l|<=S/N25 havee+-N^-8ratio byoldglobalrootlogconcavity+positiveinterval. Refinementterminalpartitionsmaybedifferentbytwo systems andexponentiallymany,proofonlynotenumerated. HomothetythetaN^-200+unitcells yieldsZ<=Zplus<=e^(20N^-8)Z,evenlowerdimensional andexpandednegativecoordshandled.",
+    "Ports1-245:parttotalboxeswidth<=N21W,incidencemultigraphspanningtree coefficientbound10(n+1),X1-X2onlyrepresentatives t_C;integralbijection,nolatticedeterminant. Freez ranges0..R discrete/[0,R+1]continuous. Contractedrankpenalties withreverseblockorders,lambdaN320/W. Hardprojectedbaseconstraints+blockbalance+sumVG<=T ensureexpandedfeasibility;proxyA/(JZ) log<=40N^-8. IntegralIGpositive logconcave andL0=N330/WlogLipschitz. Remainingregularizationsignature/evaluation/countingnotread.",
+    "Portsremainingfullread:6uniformsmoothing b0=W/N400 andstrictcurvaturealpha=N^-100/W² providebothdiscretesignatures ofh^s forALLs0..1;ordinaryintegrallogconcavityalone insufficient. Side2reflectioncommon+1orientation ofallcomponentimbalances,rankvsblockfactorcoordinatesDISJOINT. Balancedportmasswithinexp100N^-7ofJZ.",
+    "Evaluationfullread:positiveintegralsandh logbounded N50000/N60000 independentnumericalR;exponentialintegral approximatedbyrationalconvexpolytopevolume withd0=ceil1000E0²/rho,E0=N51000+ceil log2(100/rho),dimensionf+6m+d0. Strongseparatorusesactualattainingsubsets,innerball1/32/outerbits,affinesimplexrounding. Expectedvolumealgorithmcap16B,median+positivefallback/clippingmakesallhistoriesfinite. Powersrequiredenominatorq_snumericpoly,schedulefixed. JdettruncationB_J=M*N10;notRgrid.",
+    "Countingfullread:twofactorialliftsonALLp-subsets,fomission/ftildeaddition,agreeONtransversalsonly,defectcomparisonq=(p+1)². ImportactualF115boundedCBnaturaltransportsections4/5 notunrestrictedparentonly. C_p=p(1+8p q²),C_d8+32p q³,Kobs10p4(9Cp+2Cd).",
+    "PowerannealingU=N61000,Ho10U,K_o10(p+U+1),k_j=(2^-U h)^(j/Ho). C0prod(d_v+1),explicitinitialdefectsum andmultiplier6sameport/6(d_hole+1)/(d_full+2)different. Actualexpandedp<=2nN20021isinputpolynomialbutastronomicalnotengineeringruntime.",
+    "Cappedreferencefreshmu0throughstoredlevelswarmtrace,etaeps/(20000(Ho+1)),Nav10^8p8Kobs(Ho+1)/eta². Fullyboundedapproxweightcallsfresh,dyadicuniform/acceptance;matchingpathsEXACTtypecountsupdatesdespiteratioerrors,actionbudgetJstar,20Jstarxi. p0directevaluation,p1nodefects,R0returns1,Z0det0. No arbitraryadaptiveconditioningonsuccess.",
+    "Selectedactualformal26126lineonefileonlyrangesread;inputoracle/machine/resource/allrandomtapes/finitefairword law andactual proofentrancesstaticscopeparentonlyB. Entireproofnotread/build. Erroneouswholefilecatoutputwastruncated;no wholeproofreadingcredit. Polymatroidmain/corintersectionandsupports remainC/unknownclosure."
+  ],
+  "pending": [],
+  "canonical_counts_unchanged": true,
+  "new_numerical_experiment": false,
+  "text_lines_fully_read": 5371,
+  "formal_selected_read_files": [
+    {
+      "path": "math/lean/docs/114.md",
+      "lines_total": 15,
+      "sha256": "cd25483c953693a061aeb0da2ea51c152a749c9026cf48df17755f8d45884190",
+      "read_scope": "Entire file",
+      "read_line_ranges": null
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CommonBasesFPRAS.json",
+      "lines_total": 14,
+      "sha256": "b4d68930a3d2d6b026c00c72104ffa7276b7691ab36569a1ee060a20f2ddd667",
+      "read_scope": "Entire file",
+      "read_line_ranges": null
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CommonBasesFPRAS.lean",
+      "lines_total": 131,
+      "sha256": "f20d91f7fe7f1cccee71d1312754a258c0b4f69925be9485ba80957b76d09f95",
+      "read_scope": "Entire file",
+      "read_line_ranges": null
+    },
+    {
+      "path": "math/lean/OAI/Combinatorics/MatroidCounting/CommonBases.lean",
+      "lines_total": 26126,
+      "sha256": "0e5fa4d146154656ca6f89fad0d255159ca3e895b76b8bc3af731882e28725a9",
+      "read_scope": "Only displayed selected ranges; NOT whole26126lineproof",
+      "read_line_ranges": [
+        [
+          1,
+          142
+        ],
+        [
+          11840,
+          11896
+        ],
+        [
+          25555,
+          25602
+        ],
+        [
+          25955,
+          26126
+        ]
+      ]
+    }
+  ],
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-114.json.gz",
+    "sha256": "64cf934a7ee95f5500a167aeb054c2d0811eb5384705897121ae6a6fe9cbfe20",
+    "local_files": 1,
+    "declarations": 2963,
+    "gzip_bytes": 27199,
+    "external_modules_not_present": [
+      "Mathlib"
+    ],
+    "local_build": "not_run",
+    "comparator": "not_run"
+  },
+  "selected_original_scopes": {
+    "AOV2021": {
+      "url": "https://arxiv.org/html/1807.00929v2",
+      "locator": "Thm1.3,Cor1.4,Section7Eq13",
+      "scope": "Old deterministic2^O(r)approx and relative randomized2^O(r)poly;alreadyFPRAS forr=O(logn). M directsumdualN paired coefficientencoding precedes source.",
+      "verification": "Selected original body scope content checked; not full paper/proof audit",
+      "retrieved_at": "2026-10-20T19:50:42.233409+00:00",
+      "content_bytes_pinned": false
+    },
+    "ALOV2024": {
+      "url": "https://arxiv.org/html/1811.01816v3",
+      "locator": "Thm1.1,1.6,Section1.1/1.2",
+      "scope": "Single-matroid basis counting FPRAS,homogeneous stronglylogconcave downupwalk spectralgap>=1/d. Fixedk q^-rank(S)weightedpolynomial q0..1 stronglylogconcave. Doesnotdirectlyproveuniformpairedintersectionlaw.",
+      "verification": "Selected original body scope content checked; not full paper/proof audit",
+      "retrieved_at": "2026-10-20T19:50:42.233409+00:00",
+      "content_bytes_pinned": false
+    },
+    "CGM2021": {
+      "url": "https://arxiv.org/html/1903.06081v4",
+      "locator": "Introduction andTheorem1,commonbasesquestion",
+      "scope": "ModifiedlogSobolev>=1/r forhomogeneousSLC distribution;uniformcommonbases sampling asked explicitly. Doesnotautomaticallyapplytosupportoftwomatroidintersection.",
+      "verification": "Selected original body scope content checked; not full paper/proof audit",
+      "retrieved_at": "2026-10-20T19:50:42.233409+00:00",
+      "content_bytes_pinned": false
+    },
+    "IFF2001": {
+      "url": "https://www.opt.mist.i.u-tokyo.ac.jp/~iwata/papers/sfm.pdf",
+      "locator": "Thm3.3pp769-770,Thm3.7pp770-771 andencodingparagraph",
+      "scope": "Exactintegervaluedsubmodularminimization,O(n^5logM)evaluations/arithmetics;Gaussianeliminationhaspolynomialbitlength. Rationalmodularclearingconsistentwithbinarylength,numericalMnotpolynomialrequirement.",
+      "verification": "Selected original body scope content checked; not full paper/proof audit",
+      "retrieved_at": "2026-10-20T19:50:42.233409+00:00",
+      "content_bytes_pinned": false
+    },
+    "Prekopa1973": {
+      "url": "https://rutcor.rutgers.edu/Prekopa/pdf/SCIENT2.pdf",
+      "locator": "Theorem6/7andproofs,PDFpp7-8,1973pp342-343authortranscription",
+      "scope": "Integratejointlogconcavefunctionoverfixedconvexsettogetlogconcavemarginal;convolutionpreserveslogconcavity. Doesnotgiveintegerquadraticsignatures without additional proof.",
+      "verification": "Selected original body scope content checked; not full paper/proof audit",
+      "retrieved_at": "2026-10-20T19:50:42.233409+00:00",
+      "content_bytes_pinned": false
+    },
+    "JSV2004": {
+      "url": "https://www.math.cmu.edu/~af1p/Teaching/MCC17/Papers/approxpermanent.pdf",
+      "locator": "PublishedJACM2004 pp695-696,Section8 Corollaries8.1/8.2;Section3 sample/weight update",
+      "scope": "Bipartite allowed-edge degree-constrained subgraphs and0/1flows already have FPRAS. Hole-class weighting/annealed estimated weights old. Does not settle generalbinary capacities.",
+      "verification": "Original published PDF text via web;selected scope only;bytes/hash not retained. Author-hostPDF open403;CMUcopy opened.",
+      "reuse_from": "data/provenance/readings/F-115.json",
+      "fresh_original_verification_this_package": false
+    },
+    "CDR2010": {
+      "url": "https://homepages.inf.ed.ac.uk/mcryan/cdr-sicomp.pdf",
+      "locator": "Author21pagejournalmanuscript pp2-9,Definitions1/3,Theorem5,Corollary6,Theorems7/8",
+      "scope": "Attainable-bound tightening and max-capacity spanning tree precede source. Large tight capacities permit volume route;arbitrarybounds requirefixed numberrows inTheorem8. Arc-vectors differ from net-flow merging. Uniform versus hypergeometric explicitly distinguished.",
+      "verification": "Original author PDF selected text via web;bytes/hash not retained. Broader proofs not read.",
+      "reuse_from": "data/provenance/readings/F-115.json",
+      "fresh_original_verification_this_package": false
+    }
+  },
+  "application_original_scope": {
+    "url": "https://www.combinatorics.org/ojs/index.php/eljc/article/download/v33i1p34/pdf/",
+    "locator": "Ardra/Babu/Krithika/Rajendraprasad2026EJC33(1)#P1.34;intropp2-3;Thm2pp6-7,Thm7p8;Thm10p10",
+    "scope": "Undirectedcoloredspanningtrees=graphicpluspartitiontwo-matroidcommonbases;directedcoloredarborescencesrequirethirdmatroidingeneral. ColoredLaplaciancoefficientcounts exact;fixedqalgorithmroughly2^q n^(q+3),sooldspecializedbaseline can suffice. Versionpublished2026-02-27,CCBYND4;selectedscopeonly,noauthorcodeexecuted.",
+    "verification": "Selected original body scope content checked; not full paper/proof audit",
+    "retrieved_at": "2026-10-20T19:50:42.233409+00:00",
+    "content_bytes_pinned": false
+  },
+  "retrieval_issues": [
+    "InitialguessedCMUvolumePDFpathinaccessible;actualauthorTexfiles/volume.pdf foundbutextractedtextgarbled,bodyNOTcredited. No largepaperdownloadattempt or retries.",
+    "Whole26126lineformalfilecatoutputtruncated;boundedselectedranges reread explicitly;notwholeproofcredit.",
+    "SearchedCorollary6coloredpaperbutactualDefinition6/Thm7;correctactualThm7bodyread,notimaginedcorollary."
+  ],
+  "history_bibliography_bindings": 43,
+  "history_unique_roots": 38,
+  "history_external_roots": 36,
+  "selected_original_unique_roots": 7,
+  "fresh_selected_original_unique_roots": 5,
+  "named_result_bindings": [
+    {
+      "qualified_label": "matroid:thm:main",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 86,
+      "statement_end_line": 104,
+      "kind": "theorem",
+      "conditions": "Two equal-rank matroids on explicit [n],fixed exact independence oracles; rational epsilon/delta in(0,1); all random tapes have polynomial separate oracle/bit cost; zero count always0.",
+      "selected_grade": "B",
+      "statement_tex": "There is a single randomized oracle algorithm with the following\nguarantee.  Given independence oracles for arbitrary rank-$r$ matroids\n$M_1,M_2$ on $[n]$, and rational $\\epsilon,\\delta\\in(0,1)$, it outputs a\nnonnegative rational $\\widehat Z$ such that\n\\[\n \\Prob\\bigl[(1-\\epsilon)Z(M_1,M_2)\\le\\widehat Z\n                  \\le(1+\\epsilon)Z(M_1,M_2)\\bigr]\\ge1-\\delta.\n\\]\nIf $Z(M_1,M_2)=0$, its output is always zero.  On every execution, the\nnumber of oracle calls and the number of other bit operations are bounded\nby a fixed polynomial in\n\\[\n n,\\qquad \\ell,\\qquad \\epsilon^{-1},\\qquad \\log\\delta^{-1},\n\\]\nwhere $\\ell$ is the binary encoding length of $n,r,\\epsilon,\\delta$.\nThe algorithm uses only independent unbiased random bits and does not\nrequire a representation of either matroid."
+    },
+    {
+      "qualified_label": "matroid:thm:BH",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 334,
+      "statement_end_line": 344,
+      "kind": "theorem",
+      "conditions": "One matroid N and0<q<=1; homogenized Tutte polynomial Lorentzian; derivatives and nonnegative linear substitutions preserve required quadratic signature.",
+      "selected_grade": "C",
+      "statement_tex": "For a matroid $N$ on a ground set $E$ and $0<q\\le1$, the polynomial\n\\[\n T_{q,N}(z_0,z)=\\sum_{A\\subseteq E}\n        q^{-\\rank_N(A)}z_0^{|E|-|A|}\\prod_{a\\in A}z_a\n\\]\nis Lorentzian.  Lorentzian polynomials are closed under partial\nderivatives and nonnegative linear substitutions, and a quadratic\nLorentzian polynomial has a Hessian with at most one positive eigenvalue.\nIn particular, $T_{q,N}$ has the quadratic signature property."
+    },
+    {
+      "qualified_label": "matroid:lem:coefficient",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 389,
+      "statement_end_line": 398,
+      "kind": "lemma",
+      "conditions": "Positive rank-deficiency weights on paired n-subsets; every actual partial transversal assignment; ordered distinct unassigned defect indices, factor4 retained.",
+      "selected_grade": "C",
+      "statement_tex": "For distinct unassigned indices $i,j$,\n\\begin{equation}\\label{eq:coefficientpair}\n 4c^{\\sigma}_{ij}c^{\\sigma}_{ji}\\le z_{\\sigma}^2.\n\\end{equation}\nFor distinct unassigned indices $i,j,k$,\n\\begin{equation}\\label{eq:coefficient}\n c^{\\sigma}_{ij}c^{\\sigma}_{jk}\\le z_{\\sigma}c^{\\sigma}_{ik}.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:lem:transport",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 497,
+      "statement_end_line": 506,
+      "kind": "lemma",
+      "conditions": "Full positive omitted-element quadratic signature; fixed B,C,two singleton slots,ordinary two-element slots; |B|+1+m=n; positive slot multipliers; auxiliary full-domain displays needed.",
+      "selected_grade": "C",
+      "statement_tex": "With the notation above,\n\\begin{equation}\\label{eq:transport}\n (\\overline H_p-\\overline H_d)^2\n \\le\n \\left(\\frac1{s_pW_p}+\\frac1{s_dW_d}\n       +\\frac2{s_ps_d}\\sum_{t=1}^m\\frac{v_t}{W_t}\\right)\n D_{\\mathcal X}(H).\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:lem:transversalvariance",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 777,
+      "statement_end_line": 783,
+      "kind": "lemma",
+      "conditions": "Good defect multipliers within factor4 of c0/cij; function on whole extended state space; Cp=n(1+8n); not full stationary variance.",
+      "selected_grade": "C",
+      "statement_tex": "For good multipliers and every $H:\\Om\\to\\R$,\n\\begin{equation}\\label{eq:transversalvariance}\n \\Var_\\mu H\\le C_{\\rm p}\\frac{D(H)}{c_0},\n \\qquad C_{\\rm p}=n(1+8n).\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:lem:defecttransfer",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 851,
+      "statement_end_line": 866,
+      "kind": "lemma",
+      "conditions": "Same good multipliers; choose actual two-pair transversal event mass>=1/4; Cd=8+32n and additional conditionalmean bound4Var.",
+      "selected_grade": "C",
+      "statement_tex": "Assume the multipliers are good, and let $H:\\Om\\to\\R$.\nFor each defect type $ij$ there is an event $\\mathcal A\\subseteq\\Om_0$\nobtained by prescribing the selected elements in pairs $i,j$, with\n$\\mu(\\mathcal A)\\ge1/4$.  Its conditional mean\n$\\overline H'=\\E_\\mu[H\\mid\\mathcal A]$ satisfies\n\\begin{equation}\\label{eq:defecttransfer}\n (\\overline H_{ij}-\\overline H')^2\n       \\le C_{\\rm d}\\frac{D(H)}{c_0},\n \\qquad C_{\\rm d}=8+32n,\n\\end{equation}\nand\n\\begin{equation}\\label{eq:conditionalmean}\n (\\overline H'-\\overline H_0)^2\\le4\\Var_\\mu H.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:prop:observable",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 927,
+      "statement_end_line": 933,
+      "kind": "proposition",
+      "conditions": "Projection retains individual transversal values and only each defect mean; Kobs2000n^6; arbitrary within-defect fluctuations excluded.",
+      "selected_grade": "C",
+      "statement_tex": "For good multipliers and every $H:\\Om\\to\\R$,\n\\begin{equation}\\label{eq:observable}\n \\Var_\\pi(\\Qproj H)\\le K_{\\rm obs}\\calE(H),\n \\qquad K_{\\rm obs}=2000n^6.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:lem:timeaverages",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 976,
+      "statement_end_line": 984,
+      "kind": "lemma",
+      "conditions": "Observable fixed by block projection,actual nu<=U*pi pointwise start; consecutive N states,MSE<=2U Kobs Var/N; no conditioned successful-cap law.",
+      "selected_grade": "C",
+      "statement_tex": "Suppose the multipliers are good.  If $G=\\Qproj G$ and a trajectory\n$(X_t)$ of $P$ starts with law $\\nu\\le U\\pi$, then for every integer\n$N\\ge1$,\n\\begin{equation}\\label{eq:MSE}\n \\E_\\nu\\left[\\left(\\frac1N\\sum_{t=0}^{N-1}G(X_t)-\\E_\\pi G\\right)^2\\right]\n \\le\\frac{2UK_{\\rm obs}\\Var_\\pi G}{N}.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:lem:trace",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 1029,
+      "statement_end_line": 1043,
+      "kind": "lemma",
+      "conditions": "Strictly positive returns inclholding to transversals; lazy reversible trace inversegap<=18n^4; underlying expected return cost requires U-warm nu<=U*mu.",
+      "selected_grade": "C",
+      "statement_tex": "With good multipliers, $P_A$ is reversible with stationary law $\\mu$,\nirreducible, and lazy.  Its inverse spectral gap is at most $18n^4$.\nIn particular, for every integer $s\\ge0$,\n\\begin{equation}\\label{eq:tracemixing}\n \\left|\\frac{P_A^s(x,y)}{\\mu(y)}-1\\right|\n \\le\\frac{\\exp(-s/(18n^4))}{\\min_{z\\in A}\\mu(z)}\n \\quad(x,y\\in A).\n\\end{equation}\nIf a trace step begins with a law $\\nu\\le U\\mu$, its expected number of\nunderlying transitions is at most\n\\begin{equation}\\label{eq:returncost}\n \\frac{U}{\\pi(A)}\\le5Un^2.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "matroid:cor:intersection",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "line": 1479,
+      "statement_end_line": 1520,
+      "kind": "corollary",
+      "conditions": "Two exact independence oracles,possibly unequal ranks; k/all/max cardinality count by truncation; original max target fixed under minors; always feasible TVtheta sampler poly1/theta,not exact/logaccuracy.",
+      "selected_grade": "C",
+      "statement_tex": "Let $M_1,M_2$ be arbitrary matroids on an explicitly enumerated ground\nset $[n]$, supplied by fixed exact independence oracles with $n$-bit\nsubset queries.  Their ranks may differ.  For an integer $k$, let\n$\\mathcal C_k$ consist of the $k$-element subsets of $[n]$ independent\nin both matroids, and put\n\\[\n \\mathcal C=\\bigcup_{j=0}^n\\mathcal C_j,\\qquad\n h=\\max_{I\\in\\mathcal C}|I|,\\qquad\n \\mathcal C_{\\max}=\\mathcal C_h.\n\\]\nThe maximum $h$ is well defined because $\\varnothing\\in\\mathcal C$.\nEach family $\\mathcal F\\in\\{\\mathcal C_k,\\mathcal C,\\mathcal C_{\\max}\\}$\nhas the following algorithms.\n\\begin{enumerate}[label=(\\roman*)]\n\\item Given rational $\\epsilon,\\delta\\in(0,1)$, a randomized oracle\nalgorithm returns a nonnegative rational $\\widehat N$ satisfying\n\\[\n \\Prob\\bigl[(1-\\epsilon)|\\mathcal F|\\le\\widehat N\n                         \\le(1+\\epsilon)|\\mathcal F|\\bigr]\\ge1-\\delta.\n\\]\nIf $\\mathcal F=\\varnothing$, an exact pretest returns $0$ before\nrandomization.  On every execution, oracle calls and other bit operations\nare bounded by a fixed polynomial in\n$n,\\ell,\\epsilon^{-1},\\log\\delta^{-1}$.\n\\item Given rational $\\theta\\in(0,1)$, a randomized oracle algorithm\ndecides emptiness exactly.  If $\\mathcal F=\\varnothing$, it returns a\ndistinguished symbol $\\bot$.  Otherwise it returns $S\\in\\mathcal F$ on\nevery execution, and its output law satisfies\n\\[\n d_{\\rm TV}\\bigl(\\mathcal L(S),\\operatorname{Unif}(\\mathcal F)\\bigr)\n =\\frac12\\sum_{I\\in\\mathcal F}\n       \\left|\\Prob[S=I]-\\frac1{|\\mathcal F|}\\right|\\le\\theta.\n\\]\nOn every execution, oracle calls and other bit operations are bounded by\na fixed polynomial in $n,\\ell,\\theta^{-1}$.\n\\end{enumerate}\nHere $\\ell$ is the binary encoding length of the numerical inputs to the\nalgorithm in question, including $k$ only for $\\mathcal C_k$.\nBoth algorithms use only the two given independence oracles and\nindependent unbiased random bits."
+    },
+    {
+      "qualified_label": "integer:thm:main",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/introduction.tex",
+      "line": 52,
+      "statement_end_line": 67,
+      "kind": "theorem",
+      "conditions": "Two normalized nondecreasing integral submodular rank-value oracles with same binary totalR; each integer vector once; all execution oracle/bit work poly in encoding; oracle internal work excluded.",
+      "selected_grade": "C",
+      "statement_tex": "There is a single uniform randomized algorithm which, for every input\ndescribed above, outputs a nonnegative rational $\\widehat Z$ satisfying\n\\[\n \\PP\\bigl((1-\\eps)Z\\le\\widehat Z\\le(1+\\eps)Z\\bigr)\n \\ge1-\\delta.\n\\]\nIf $Z=0$, the algorithm outputs zero on every execution. On every\nexecution, both its number of oracle calls and its number of other bit\noperations are bounded by one fixed polynomial in\n\\[\n n,\\qquad \\ell,\\qquad \\eps^{-1},\\qquad \\log(\\delta^{-1}).\n\\]\nThe bit-operation bound includes rational arithmetic, generation of\nindependent unbiased random bits, and the encoding of the output."
+    },
+    {
+      "qualified_label": "integer:prop:oracle-tools",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 33,
+      "statement_end_line": 55,
+      "kind": "proposition",
+      "conditions": "Exact submodular value oracle with integer value bit bound; rational strong separation and individual facet encoding bound; bounded lower-dimensional polytopes allowed; query lengths counted.",
+      "selected_grade": "C",
+      "statement_tex": "The following operations have deterministic oracle and bit complexity\nbounded by fixed polynomials in the indicated input sizes.\n\\begin{enumerate}\n \\item An integer-valued submodular function on a finite ground set can\n be minimized, with a minimizing set returned, from an exact value oracle\n and a bound on the binary lengths of its values.  The size parameters are\n the ground-set cardinality and that value-length bound.\n \\item Let $Q\\subseteq\\mathbb R^d$ be a bounded rational polytope, supplied\n by strong separation, a coordinate bound, and a bound on the binary\n encoding length of each individual defining inequality.  The separator\n returns inequalities of length polynomial in the query length and\n the supplied description bounds.  Exact rational\n linear optimization, including an emptiness decision and the production\n of an optimal vertex when $Q$ is nonempty, is polynomial in $d$, these\n bounds, and the objective length.  This assertion includes\n lower-dimensional polytopes.  All separation queries have polynomial\n encoding length.\n\\end{enumerate}\nThe first operation also applies to an integer submodular function with\na rational modular term added, and with prescribed elements required to\nbelong or not to belong to the minimizing set."
+    },
+    {
+      "qualified_label": "integer:lem:base-calculus",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 103,
+      "statement_end_line": 132,
+      "kind": "lemma",
+      "conditions": "Normalized submodular ranks may be nonmonotone; greedy support identities,translation/reflection,partition projection,Minkowski root segments; all total equalities retained.",
+      "selected_grade": "C",
+      "statement_tex": "Let $f,g:2^E\\to\\mathbb R$ be normalized submodular functions and let\n$v\\in\\mathbb R^E$.\n\\begin{enumerate}\n \\item If $w_{\\pi(1)}\\geq\\cdots\\geq w_{\\pi(n)}$ and\n $A_k=\\{\\pi(1),\\ldots,\\pi(k)\\}$, the vector\n \\[\n b_{\\pi(k)}=f(A_k)-f(A_{k-1})\n \\]\n belongs to $B(f)$ and maximizes $w\\cdot x$ there.\n \\item With $(f+v)(A)=f(A)+v(A)$ and\n $f^{\\mathrm{ref}}(A)=f(E\\setminus A)-f(E)$, one has\n \\[\n B(f+g)=B(f)+B(g),\\qquad B(f+v)=B(f)+v,\\qquad\n B(f^{\\mathrm{ref}})=-B(f).\n \\]\n \\item For a partition $\\mathcal D$ of $E$, define\n $\\pi_{\\mathcal D}(x)=(x(D):D\\in\\mathcal D)$ and\n $\\bar f(\\mathcal J)=f(\\bigcup_{D\\in\\mathcal J}D)$.\n Then $\\pi_{\\mathcal D}(B(f))=B(\\bar f)$.\n \\item For distinct $a,b\\in E$ and $t\\geq0$, the segment\n $[-t,t](e_a-e_b)$ is $B(q_{ab})$, where\n \\[\n q_{ab}(A)=t\\,|\\mathbf1_A(a)-\\mathbf1_A(b)|.\n \\]\n In particular, adding any collection of these segments to a base\n polytope again gives a base polytope, with integral rank if $f$ and\n the segment lengths are integral.\n\\end{enumerate}"
+    },
+    {
+      "qualified_label": "integer:lem:expansion-matroid",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 179,
+      "statement_end_line": 189,
+      "kind": "lemma",
+      "conditions": "Integral normalized nondecreasing rank and finite labelled copies; rank min_A r(A)+v(E\\A); expansion may be huge and is proof-only.",
+      "selected_grade": "C",
+      "statement_tex": "Let $r:2^E\\to\\mathbb Z_{\\geq0}$ be normalized, nondecreasing, and\nsubmodular.  Replace each $j\\in E$ by any finite number of labelled\ncopies.  Declare a set of copies independent when its occupancy vector\n$z$ satisfies $z(A)\\leq r(A)$ for every $A\\subseteq E$.\nThis defines a matroid.  A set of copies with occupancy vector $v$ has\nmatroid rank\n\\begin{equation}\\label{eq:expansion-rank}\n m(v)=\\min_{A\\subseteq E}\\{r(A)+v(E\\setminus A)\\}.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:polyhedral-controls",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 227,
+      "statement_end_line": 254,
+      "kind": "lemma",
+      "conditions": "Nonempty two-base intersection OR one base with partition equalities; coordinatebounds allowed. Integral RHS gives integral vertices; violation distance<=10(n+1)^2b; positive integral-objective slopes integer.",
+      "selected_grade": "C",
+      "statement_tex": "Let $Q\\subseteq\\mathbb R^E$ be nonempty and be defined either by\n$B(f_1)\\cap B(f_2)$ or by $B(f)$ together with equations\n$x(D)=a_D$ for the parts $D$ of a partition of $E$.\nThe functions are normalized and submodular.  In either case arbitrary\ncoordinate lower and upper bounds may also be imposed.\n\\begin{enumerate}\n \\item If the ranks and all other right sides are integral, every\n vertex of $Q$ is integral.\n \\item Suppose $x\\in\\mathbb R^E$ satisfies every defining inequality\n with additive violation at most $b\\geq0$, and every defining equality\n with absolute error at most $b$.  Then\n \\begin{equation}\\label{eq:polyhedral-distance}\n  \\operatorname{dist}_{\\infty}(x,Q)\\leq10(n+1)^2b.\n \\end{equation}\n \\item Fix $a\\in Q$ and an affine function $F$ whose linear part is\n integral.  The function\n \\[\n  \\phi(l)=\\max\\{F(y):y\\in Q,\\ \\|y-a\\|_\\infty\\leq l\\},\n  \\qquad l\\geq0,\n \\]\n is continuous, nondecreasing, concave, and piecewise affine.  Every\n positive slope of an affine piece is an integer and hence at least\n one.  Eventually $\\phi(l)=\\max_Q F$.\n Consequently, if $F\\geq0$ on $Q$ and $\\phi(L)<L$ for some $L>0$,\n then $\\phi(L)=\\max_QF$.\n\\end{enumerate}"
+    },
+    {
+      "qualified_label": "integer:lem:center",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/polyhedra.tex",
+      "line": 358,
+      "statement_end_line": 370,
+      "kind": "lemma",
+      "conditions": "Bounded rational polytope with exact optimization,possibly lower-dimensional; affine spanning simplex and determinant replacements; barycentricabs<=2,nonnegativeaffineslackmax<=4(n+1)F(c).",
+      "selected_grade": "C",
+      "statement_tex": "Let $Q\\subseteq\\mathbb R^n$ be a nonempty bounded rational polytope\nsatisfying the hypotheses of Proposition~\\ref{prop:oracle-tools}.\nOne can find a rational $c\\in Q$, with polynomial encoding length,\nsuch that every affine $F$ nonnegative on $Q$ satisfies\n\\begin{equation}\\label{eq:center-slack}\n \\max_{x\\in Q}F(x)\\leq4(n+1)F(c).\n\\end{equation}\nThe construction has polynomial oracle and bit complexity.\nIt also returns an affinely spanning vertex simplex of $Q$ such that\nevery point of $Q$ has all barycentric coordinates of absolute value\nat most two with respect to that simplex."
+    },
+    {
+      "qualified_label": "integer:lem:balanced-summation",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "line": 74,
+      "statement_end_line": 89,
+      "kind": "lemma",
+      "conditions": "Strict positivity on entire box/total slice; disjoint equal-capacity coordinate pairs M>=1 summed at balance; M1nullaxis case retained; global limits only after positivity.",
+      "selected_grade": "C",
+      "statement_tex": "Let $F>0$ on the entire slice $\\mathcal B(m,r)$ and suppose it has\nthe removal signature.  Choose disjoint coordinate pairs\n$\\{a_t,b_t\\}$ with $m_{a_t}=m_{b_t}=M_t\\ge1$.\nTheir balanced sum\n\\[\n \\Phi(z)=\\sum_{0\\le k_t\\le M_t}\n F\\bigl(z,(k_t,M_t-k_t)_t\\bigr)\n\\]\nis strictly positive on the entire remaining box slice of total\n$r-\\sum_tM_t$ and has the removal signature.\nThe same statement holds with ``addition'' in place of ``removal''.\nFixing coordinates at prescribed box-valid values preserves either\nsignature and positivity on the resulting valid slice."
+    },
+    {
+      "qualified_label": "integer:lem:rank-signatures",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "line": 238,
+      "statement_end_line": 260,
+      "kind": "lemma",
+      "conditions": "Grouped count coordinates consistently increasing OR decreasing within each factor; factors use disjoint coordinate sets; normalized complement11T-Q PSD; arbitrary nonnegative powers; huge expansions proof-only.",
+      "selected_grade": "C",
+      "statement_tex": "Partition a set of count coordinates $I$ into groups indexed by $E$,\nallowing empty groups, and let $b\\in\\Z_{\\ge0}^E$.\nFor either of the two consistent orientations\n\\[\n v_e=b_e+\\sum_{i\\text{ in group }e}z_i,\n \\qquad\\text{or}\\qquad\n v_e=b_e+\\sum_{i\\text{ in group }e}(m_i-z_i),\n\\]\nthe factor $G(z)=\\Phi_{r,H}(v)$ satisfies\n$\\one\\one^{\\mathsf T}-Q\\succeq0$ for both signs in\n\\eqref{eq:signature-normalization}.\nThe product of such factors on disjoint sets of count coordinates\nhas both integer signatures on every total slice.  The assertion\nholds for every nonnegative power of the product, and for any\ncoordinates fixed at box-valid values.\n\nMore generally, a base constraint for an arbitrary integral\nnormalized submodular rank, with a fixed integer translation and\neither consistent orientation of its grouped arguments on a finite\nbox, can be imposed as a limit of factors of this kind."
+    },
+    {
+      "qualified_label": "integer:prop:shift-logconcavity",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/signatures.tex",
+      "line": 355,
+      "statement_end_line": 372,
+      "kind": "proposition",
+      "conditions": "Two integral normalized submodular base polytopes,possibly nonmonotone; ordinary pair counts at difference d0+t(ej-ek); global interpolation/interval support from positive finite approximants.",
+      "selected_grade": "C",
+      "statement_tex": "Let $f_1,f_2$ be integral normalized submodular functions on $E$,\nnot necessarily nondecreasing, and define\n\\[\n Y(d)=\\#\\{(x_1,x_2)\\in(B(f_1)\\cap\\Z^E)\\times\n                         (B(f_2)\\cap\\Z^E):x_1-x_2=d\\}.\n\\]\nFor $d_0\\in\\Z^E$ and distinct $j,k\\in E$, put\n$y(t)=Y(d_0+t(e_j-e_k))$, $t\\in\\Z$.\nThe positive support of $y$ is an integer interval, possibly\nempty or a singleton.  For integers $a<t<b$ with\n$y(a),y(b)>0$,\n\\begin{equation}\n y(t)\\ge y(a)^{(b-t)/(b-a)}y(b)^{(t-a)/(b-a)}.\n \\label{eq:shift-interpolation}\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:generator-prefixes",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 70,
+      "statement_end_line": 87,
+      "kind": "lemma",
+      "conditions": "Nonnegative normalized submodular slack,zero atE; finite generator family with common bound; atom prefix sums and part-total ranges,not arbitrary partition totals.",
+      "selected_grade": "C",
+      "statement_tex": "Let \\(\\mathcal A=(A_1,\\ldots,A_m)\\) be a family of subsets of \\(E\\).\nIts atoms admit an order such that every prefix is a union of at most\n\\(n\\) intersections of members of \\(\\mathcal A\\), allowing \\(E\\) as\nthe empty intersection.  If \\(s\\) is normalized, nonnegative, and submodular,\n\\(s(E)=0\\), and \\(s(A_j)\\le b\\) for every \\(j\\), where \\(b\\ge0\\),\nthen in this order\nevery prefix \\(F\\) satisfies\n\\[\n s(F)\\le n(m+1)b.\n\\]\nConsequently, suppose that \\(Q\\subseteq B(r)\\) and\n\\(r(A_j)-x(A_j)\\le b\\) for all \\(x\\in Q\\) and all \\(j\\).\nFor every atom \\(D\\) of \\(\\mathcal A\\) and every \\(x,y\\in Q\\),\n\\begin{equation}\\label{eq:part-range}\n |x(D)-y(D)|\\le 2n(m+1)b.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:partitions",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 103,
+      "statement_end_line": 122,
+      "kind": "lemma",
+      "conditions": "Actual rational center; fine slacks<W and difference slack<S; ordered-pair constrained minimizers produce<=n²generators; fine parts inside superblocks; system2 reversed order.",
+      "selected_grade": "C",
+      "statement_tex": "Each part of \\(\\mathcal D_i\\) is contained in a superblock.\nThe three partitions can be found with polynomially many oracle calls\nand bit operations.  Each has a generating family of at most \\(n^2\\)\nsets satisfying its defining strict slack bound.\n\nFix a superblock order \\(G_1,\\ldots,G_g\\) supplied by\nLemma~\\ref{lem:generator-prefixes} for the \\(s_*\\)-generators.\nEvery prefix \\(F_k=G_1\\cup\\cdots\\cup G_k\\), including the empty\nand full prefixes, satisfies\n\\begin{equation}\\label{eq:superblock-prefix-slack}\n s_*(F_k)\\le N^4S.\n\\end{equation}\nFor system 1 use this order, and for system 2 use its reverse.  The\nsets preceding a superblock \\(G_k\\) in these orders are therefore\n\\begin{equation}\\label{eq:superblock-prefixes}\n A_{1G_k}=F_{k-1},\\qquad A_{2G_k}=E\\setminus F_k.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:shift-average",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 207,
+      "statement_end_line": 222,
+      "kind": "lemma",
+      "conditions": "Full/restricted star shifts in computed superblocks; |l|<=S/N25; F=Y orYplus positive region and directional logconcavity; normalized tails with coarse e^K bound; empty star exact.",
+      "selected_grade": "C",
+      "statement_tex": "For \\(F=Y\\) and for \\(F=Y^+\\), every integral full or restricted\nstar shift with \\(|l_j|\\le S/N^{25}\\) satisfies\n\\begin{equation}\\label{eq:small-shift-ratio}\n e^{-N^{-8}}\\le \\frac{F(d(l))}{F(0)}\\le e^{N^{-8}}.\n\\end{equation}\nFor \\((\\kappa,A_\\kappa)=(\\omega,A_\\omega)\\) or \\((\\psi,J)\\),\non its corresponding star lattice,\n\\begin{equation}\\label{eq:average-comparison}\n e^{-3N^{-8}}F(0)\n \\le \\frac{1}{A_\\kappa}\\sum_l\\kappa(l)F(d(l))\n \\le e^{3N^{-8}}F(0).\n\\end{equation}\nThe lower bound remains valid if the sum is restricted to\n\\(\\max_j|l_j|\\le S/N^{25}\\)."
+    },
+    {
+      "qualified_label": "integer:lem:refinement-witnesses",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 304,
+      "statement_end_line": 327,
+      "kind": "lemma",
+      "conditions": "Fixed shared integer superblock totals; terminal partitions can differ by system and depend on totals; refinements potentially exponential,proof-only; fine slack W/2 and terminal slackS.",
+      "selected_grade": "C",
+      "statement_tex": "Fix integer \\(w\\) for which both \\(Q_i(w)\\) are nonempty.\nFor each system separately, its lattice points and those of its\nexpanded slice can be partitioned by fixing integer totals on\nsuccessively finer parts.  Each resulting original slice has the\nform\n\\[\n Q=\\{x\\in B(r_i):x(D)=v_D\\ (D\\in\\mathcal P)\\},\n\\]\nwhere \\(\\mathcal P\\) refines \\(\\mathcal G\\) and every part of\n\\(\\mathcal P\\) is a union of \\(\\mathcal D_i\\)-parts.  Its\nexpanded partner is exactly \\(Q+\\Delta_i\\).  Every nonempty\nterminal slice has a point \\(a^*\\in Q\\) satisfying\n\\begin{align}\n \\|a^*-c\\|_\\infty&\\le N^{60}S,\n                       \\label{eq:witness-distance}\\\\\n r_i(A)-a^*(A)&\\ge S\n       &&\\text{if \\(A\\) cuts a part of \\(\\mathcal P\\)},\n                       \\label{eq:witness-terminal-slack}\\\\\n r_i(A)-a^*(A)&\\ge W/2\n       &&\\text{if \\(A\\) cuts a part of \\(\\mathcal D_i\\)}.\n                       \\label{eq:witness-fine-slack}\n\\end{align}"
+    },
+    {
+      "qualified_label": "integer:prop:expansion",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/geometry.tex",
+      "line": 437,
+      "statement_end_line": 442,
+      "kind": "proposition",
+      "conditions": "Only root-segment expansion within computed fine parts; nonempty integral common-base case. Homothety N^-200 and unit lattice cells inclnegative expanded coordinates yield Z<=Zplus<=exp20N^-8Z.",
+      "selected_grade": "C",
+      "statement_tex": "The expanded common-base count satisfies\n\\begin{equation}\\label{eq:expansion-comparison}\n Z\\le Z^+\\le e^{20N^{-8}}Z.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:tree-coordinates",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 67,
+      "statement_end_line": 75,
+      "kind": "lemma",
+      "conditions": "Computed bipartite part-incidence multigraph; spanning tree contains representative edge; all component imbalance carried there; integral bijection,coefficient bound10(n+1),no determinant multiplicity.",
+      "selected_grade": "C",
+      "statement_tex": "There is a unique pair $X_i(u,z)$ with these properties and\n$X_{1e}=z_e$ on nontree edges. Its coordinates are integral linear\nfunctions of $(u,z)$, with coefficients of absolute value at most\n$10(n+1)$. Each coordinate depends only on variables in its superblock.\nFor integral $(u,z)$ this is a bijection onto integral pairs with the\nspecified $\\mathcal D_1$-totals for $X_1$ and $\\mathcal D_2$-totals\nfor $X_2$, and with $X_1-X_2$ supported on the representatives."
+    },
+    {
+      "qualified_label": "integer:lem:port-penalties",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 149,
+      "statement_end_line": 158,
+      "kind": "lemma",
+      "conditions": "Projected base conditions and exact per-superblock balance; contracted ranks use opposite prefix orders. SumV<=T puts pair in expanded bases; not arbitrary nearfeasible allocations.",
+      "selected_grade": "C",
+      "statement_tex": "An original base pair with a representative shift satisfies\n\\eqref{eq:hard-port-conditions} and $\\sum_GV_G\\le N^7S$.\nConversely, if~\\eqref{eq:hard-port-conditions} holds, then\n\\[\n X_i(A)-r_i(A)\\le\\sum_G V_G\\qquad(A\\subseteq E, i=1,2).\n\\]\nIf in addition $\\sum_GV_G\\le T$, then $X_i\\in B_i^+$ for both $i$,\nwhere $B_i^+$ is defined in~\\eqref{eq:expanded-bases}."
+    },
+    {
+      "qualified_label": "integer:lem:smooth-derivatives",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 345,
+      "statement_end_line": 352,
+      "kind": "lemma",
+      "conditions": "Six-uniform compact convolution at b0=W/N400; positive log-Lipschitz block integral. C3log derivatives A2=N800/W²,A3=N1250/W³ globally; ordinary logconcavity alone insufficient.",
+      "selected_grade": "C",
+      "statement_tex": "In block count coordinates, $g=\\log\\widetilde I_G$ is $C^3$, is concave,\nand satisfies, everywhere,\n\\begin{equation}\\label{eq:smooth-derivative-bounds}\n |g''_{ij}|\\le A_2=N^{800}/W^2,\\qquad\n |g'''_{ijk}|\\le A_3=N^{1250}/W^3.\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:block-signatures",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 380,
+      "statement_end_line": 384,
+      "kind": "lemma",
+      "conditions": "Every real annealing power s0..1; strict alpha curvature dominates derivative/discrete error. Side2reflection makes imbalance count slopes all+1; invalid repeat diagonal corrected.",
+      "selected_grade": "C",
+      "statement_tex": "For $0\\le s\\le1$, every block factor $F_G^s$ has both normalized\npositive-semidefinite tests of~\\eqref{eq:signature-normalization}:\n$\\one\\one^{\\mathsf T}-Q\\succeq0$, for additions and removals."
+    },
+    {
+      "qualified_label": "integer:prop:port-model",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/ports.tex",
+      "line": 468,
+      "statement_end_line": 483,
+      "kind": "proposition",
+      "conditions": "All positive short port slice; rank factors and block factors on DISJOINT count groups; both signatures ofh^s; balanced mass within exp100N^-7 ofJZ; p0soleprofile allowed.",
+      "selected_grade": "C",
+      "statement_tex": "For every nonempty input after the deterministic feasibility test,\nthe preceding construction gives at most $2n$ paired ports of lengths\n$d_{iD}\\le N^{21}W$, with $p=\\sum d_{iD}$ polynomial in $N$, and a\nstrictly positive weight $h$ on the entire slice~\\eqref{eq:paired-count-slice}.\nFor every real $s\\in[0,1]$, $h^s$ has both integer signatures of\nDefinition~\\ref{def:integer-signatures}. Its balanced mass\n\\[\n \\mathcal Z_{\\rm port}\n   =\\sum_{\\substack{(a,b)\\in\\mathcal S\\\\\n                    a_{iD}+b_{iD}=d_{iD}\\ \\forall(i,D)}}h(a,b)\n\\]\nsatisfies\n$|\\log(\\mathcal Z_{\\rm port}/(JZ))|\\le100N^{-7}$.\nThese statements include $p=0$, when there is a single profile."
+    },
+    {
+      "qualified_label": "integer:lem:weight-bounds",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "line": 14,
+      "statement_end_line": 26,
+      "kind": "lemma",
+      "conditions": "Every profile and smoothing displacement; integral log lower -N50000,logh magnitude<=N60000; exact rank queries/submodularminimization and rational coefficient bit lengths.",
+      "selected_grade": "C",
+      "statement_tex": "For every block and every port argument in its box,\n\\begin{equation}\\label{eq:integral-bounds}\n e^{-N^{50000}}\\le\\widetilde I_G(u)\\le e^K.\n\\end{equation}\nFor the weight $h$ on the full paired slice of\nProposition~\\ref{prop:port-model},\n\\begin{equation}\\label{eq:weight-log-bound}\n |\\log h(a,b)|\\le N^{60000}.\n\\end{equation}\nAll rational coefficients needed to define or evaluate its factors\nhave polynomial encoding length in the input and in the query."
+    },
+    {
+      "qualified_label": "integer:lem:volume-lift",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "line": 158,
+      "statement_end_line": 170,
+      "kind": "lemma",
+      "conditions": "Nonnegative convex piecewiseaffine penaltyD; d0=ceil1000E0²/rho withE0=N51000+ceil log2(100/rho); exact separator/innerball1/32/full dimension; relative integral approximation,huge fixed polynomialdimension.",
+      "selected_grade": "C",
+      "statement_tex": "The polytope~\\eqref{eq:volume-lift} has dimension $f+6m+d_0$, a\npolynomial facet-encoding bound, and an exact polynomial-time strong\nseparation oracle. It contains a known rational ball of radius $1/32$\nand has an outer ball of polynomial encoding length. Furthermore,\n\\begin{equation}\\label{eq:volume-lift-accuracy}\n (1-\\rho/10)\\widetilde I_G(u)\n       \\le\\vol(\\mathcal Q)\\le\\widetilde I_G(u).\n\\end{equation}\nAll polynomial bounds are in the original input length, the encoding\nlengths of $u$ and $\\rho$, $N$, and $\\rho^{-1}$, with absolute fixed exponents."
+    },
+    {
+      "qualified_label": "integer:prop:weight-evaluator",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/evaluation.tex",
+      "line": 227,
+      "statement_end_line": 243,
+      "kind": "proposition",
+      "conditions": "Fresh volume calls capped16Bthenmedian,positivefallback/clipping on failures; positive rational approximations ofh^s,everyrun bounded. Complexity includes numeric power denominatorq_s; deterministicJ truncation length M*N10.",
+      "selected_grade": "C",
+      "statement_tex": "Given a profile in the entire slice $\\mathcal S$, rational\n$0<\\rho,\\beta<1$, and a rational power $s\\in[0,1]$ with denominator\n$q_s$, there is an evaluator using fresh random bits and returning a strictly positive rational\n$\\widehat h_s$ such that\n\\[\n \\PP\\bigl[(1-\\rho)h^s\\le\\widehat h_s\\le(1+\\rho)h^s\\bigr]\n       \\ge1-\\beta.\n\\]\nIts output length, number of rank queries, and other bit operations\nare bounded on every execution by fixed polynomials in $N$, the\ninput encoding lengths, $\\rho^{-1}$, $\\log(\\beta^{-1})$, and $q_s$.\nIn particular an equally spaced schedule with a polynomial number of\nphases has polynomially bounded denominators. Moreover $J$ admits\na deterministic positive rational approximation $\\widehat J$ with\n$|\\log(\\widehat J/J)|\\le N^{-7}$ in polynomial work."
+    },
+    {
+      "qualified_label": "integer:lem:counting-lifts",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 76,
+      "statement_end_line": 88,
+      "kind": "lemma",
+      "conditions": "Count weight has BOTH integer signatures; f omission andftilde addition on ALLp-subsets; coincide ontransversals only; q=(p+1)²comparison onactualdefects; factorials cancel labelled multiplicity.",
+      "selected_grade": "C",
+      "statement_tex": "If $k$ has both integer signatures of Definition~\\ref{def:integer-signatures},\nthen $f$ has the omission property and $\\widetilde f$ has the addition\nproperty.  Both properties persist under fixing included or excluded\nelements and summing disjoint labelled pairs at occupancy one, on each\nresulting full valid-degree domain.  Moreover, with $q=(p+1)^2$,\n\\begin{equation}\n q^{-1}f(S)\\leq\\widetilde f(S)\\leq qf(S)\n \\quad\\left(S\\in\\mathcal A\\cup\\bigcup_{i\\ne l}\\mathcal A_{il}\\right).\n \\label{eq:counting-comparison}\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:prop:counting-transport",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 177,
+      "statement_end_line": 217,
+      "kind": "proposition",
+      "conditions": "Full positive omission/addition pair,agreementontransversals,defectqcomparison,goodmultipliers; companionCBsource transport/variance/trace only forspecifiedobservables,not globalmixing.",
+      "selected_grade": "C",
+      "statement_tex": "Suppose $f$ is positive on all $p$-subsets and has the omission property,\n$\\widetilde f$ is positive on that domain and has the addition property,\nthe weights agree on $\\mathcal A$, and\n\\eqref{eq:counting-comparison} holds with $q\\geq1$.\nFor good multipliers put\n\\begin{equation}\n C_{\\rm p}=p(1+8pq^2),\\qquad\n C_{\\rm d}=8+32pq^3,\\qquad\n K_{\\rm obs}=10p^4(9C_{\\rm p}+2C_{\\rm d}).\n \\label{eq:counting-constants}\n\\end{equation}\nThen for every real function $g$ on $\\mathcal X$,\n\\begin{equation}\n C\\operatorname{Var}_\\mu(g)\\leq C_{\\rm p}\\mathfrak D(g),\\qquad\n \\operatorname{Var}_\\pi(\\mathcal Qg)\n \\leq(9C_{\\rm p}+2C_{\\rm d})\\frac{\\mathfrak D(g)}C\n \\leq K_{\\rm obs}\\mathcal E_P(g).\n \\label{eq:counting-variance}\n\\end{equation}\nIf $\\mathcal QG=G$ and an initial law satisfies $\\nu\\leq D\\pi$\npointwise, then $m\\geq1$ consecutive observations satisfy\n\\begin{equation}\n \\mathbb E_\\nu\\left[\n  \\left(m^{-1}\\sum_{t=0}^{m-1}G(S_t)-\\mathbb E_\\pi G\\right)^2\\right]\n \\leq\\frac{2D K_{\\rm obs}}m\\operatorname{Var}_\\pi(G).\n \\label{eq:counting-time-average}\n\\end{equation}\nThe trace on $\\mathcal A$, counting every strictly positive return as\none step, is lazy and reversible with stationary law $\\mu$ and inverse\nspectral gap at most $2p^2C_{\\rm p}\\leq K_{\\rm obs}$.  In particular,\n\\begin{equation}\n \\left|\\frac{P_{\\rm tr}^t(x,y)}{\\mu(y)}-1\\right|\n \\leq\\mu_{\\min}^{-1}\\exp(-t/K_{\\rm obs}).\n \\label{eq:counting-trace-mixing}\n\\end{equation}\nIf a trace starts from $\\nu\\leq D\\mu$, the expected cost of $t$ trace\nsteps in underlying transitions is at most $tD/\\pi(\\mathcal A)$;\nat each deterministic trace index its law is still at most $D\\mu$."
+    },
+    {
+      "qualified_label": "integer:lem:counting-initialization",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 272,
+      "statement_end_line": 290,
+      "kind": "lemma",
+      "conditions": "All powersk_j=(2^-U h)^(j/Ho),U=N61000,Ho10U; exactC0prod(d+1),initialsameport6or6(dhole+1)/(dfull+2); finite uniformcount/subset initializer.",
+      "selected_grade": "C",
+      "statement_tex": "For every $p$-subset and $0\\leq j<H_o$,\n\\begin{equation}\n \\frac12\\leq\\frac{f_{j+1}(S)}{f_j(S)}\\leq1.\n \\label{eq:counting-adjacent}\n\\end{equation}\nThus $C_j/c_{il}(j)$ changes by a factor in $[1/2,2]$ between\nconsecutive phases, and $\\mu_j=f_j/C_j$ on $\\mathcal A$ satisfies\n$\\mu_j\\leq2\\mu_{j+1}$.  Moreover\n\\begin{equation}\n \\min_{S\\in\\mathcal A}\\mu_j(S)\n       \\geq2^{-(H_o+p+K_o)}.\n \\label{eq:counting-minimum}\n\\end{equation}\nThe initial masses are exact rational numbers computable in polynomial\nbit time, and $\\mu_0$ can be sampled by independent uniform port counts\nfollowed by uniform subsets of the pairs realizing those counts."
+    },
+    {
+      "qualified_label": "integer:prop:counting-reference",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 395,
+      "statement_end_line": 403,
+      "kind": "proposition",
+      "conditions": "Fresh initialmu0atEVERYphase,storedgoodmultipliers fixedconditionalonpast; virtualuncapped trace endpoint used forbound,capfailureseparate; direct empiricalupdates and telescopingratios.",
+      "selected_grade": "C",
+      "statement_tex": "With probability at least $1-1/50$, this experiment does not abort,\nevery stored multiplier collection is good at its own phase, and\n\\begin{equation}\n \\left|\\log\\frac{Y_{\\rm ref}}{C_{H_o}}\\right|\\leq4H_o\\eta.\n \\label{eq:counting-reference-error}\n\\end{equation}"
+    },
+    {
+      "qualified_label": "integer:lem:counting-bits",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/sections/counting.tex",
+      "line": 510,
+      "statement_end_line": 519,
+      "kind": "lemma",
+      "conditions": "Fresh approximateweightoracle/Dyadic finite choices,allactionscapped; coupling20Jstarxi; matchingpaths have EXACT typecounts/multiplierupdates althoughpositiveobservations approximate; allfailurehistories bounded.",
+      "selected_grade": "C",
+      "statement_tex": "The implemented experiment has deterministic polynomial bounds on\noracle calls, bit operations, and output length, on every execution.\nIt can be coupled to the capped reference experiment so that, except\nwith probability at most $20J_*\\xi$, all states, type counts,\nmultiplier updates, and cap decisions coincide, every weight evaluation\nmeets its tolerance, and each positive observed ratio differs from\nits reference value by log error at most $4\\xi$."
+    }
+  ],
+  "bibliography_bindings": {
+    "matroid:AldousFill2002": {
+      "key": "AldousFill2002",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[AF02]{AldousFill2002}\nDavid Aldous and James Allen Fill.\n\\newblock {\\em Reversible Markov Chains and Random Walks on Graphs}.\n\\newblock Unfinished monograph, 2002, recompiled 2014.\n\\newblock \\url{https://www.stat.berkeley.edu/~aldous/RWG/book.html}."
+    },
+    "matroid:AASV2021": {
+      "key": "AASV2021",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[AASV23]{AASV2021}\nYeganeh Alimohammadi, Nima Anari, Kirankumar Shiragur, and Thuy-Duong Vuong.\n\\newblock Fractionally log-concave and sector-stable polynomials:\n  Counting planar matchings and more.\n\\newblock arXiv:2102.02708, version~3, April 3, 2023; first posted 2021.\n\\newblock \\url{https://arxiv.org/abs/2102.02708v3}."
+    },
+    "matroid:ALOV2024": {
+      "key": "ALOV2024",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[ALOV24]{ALOV2024}\nNima Anari, Kuikui Liu, Shayan {Oveis Gharan}, and Cynthia Vinzant.\n\\newblock Log-concave polynomials {II}: High-dimensional walks and an {FPRAS}\n  for counting bases of a matroid.\n\\newblock {\\em Annals of Mathematics}, 199(1):259--299, 2024.\n\\newblock \\url{https://doi.org/10.4007/annals.2024.199.1.4}.\n\\newblock Preprint locators refer to arXiv version~3, January 18, 2019:\n  \\url{https://arxiv.org/abs/1811.01816v3}."
+    },
+    "matroid:AO2017": {
+      "key": "AO2017",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[AO17]{AO2017}\nNima Anari and Shayan {Oveis Gharan}.\n\\newblock A generalization of permanent inequalities and applications\n  in counting and optimization.\n\\newblock arXiv:1702.02937, version~1, February 9, 2017.\n\\newblock \\url{https://arxiv.org/abs/1702.02937v1}."
+    },
+    "matroid:AOR2016": {
+      "key": "AOR2016",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[AOR16]{AOR2016}\nNima Anari, Shayan {Oveis Gharan}, and Alireza Rezaei.\n\\newblock Monte Carlo Markov chain algorithms for sampling strongly\n  Rayleigh distributions and determinantal point processes.\n\\newblock In {\\em 29th Annual Conference on Learning Theory},\n  volume~49 of {\\em Proceedings of Machine Learning Research},\n  pages 103--115. PMLR, 2016.\n\\newblock \\url{https://proceedings.mlr.press/v49/anari16.html}."
+    },
+    "matroid:AOV2021": {
+      "key": "AOV2021",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[AOV21]{AOV2021}\nNima Anari, Shayan {Oveis Gharan}, and Cynthia Vinzant.\n\\newblock Log-concave polynomials, {I}: Entropy and a deterministic\n  approximation algorithm for counting bases of matroids.\n\\newblock {\\em Duke Mathematical Journal}, 170(16):3459--3504, 2021.\n\\newblock \\url{https://doi.org/10.1215/00127094-2020-0091}.\n\\newblock Preprint locators refer to arXiv version~2, November 5, 2018:\n  \\url{https://arxiv.org/abs/1807.00929v2}."
+    },
+    "matroid:BS2007": {
+      "key": "BS2007",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[BS07]{BS2007}\nAlexander Barvinok and Alex Samorodnitsky.\n\\newblock Random weighting, asymptotic counting, and inverse isoperimetry.\n\\newblock {\\em Israel Journal of Mathematics}, 158:159--191, 2007.\n\\newblock \\url{https://doi.org/10.1007/s11856-007-0008-8}.\n\\newblock Preprint version~2, June 4, 2003:\n  \\url{https://arxiv.org/abs/math/0302177v2}."
+    },
+    "matroid:BrandenHuh2018": {
+      "key": "BrandenHuh2018",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[BH19]{BrandenHuh2018}\nPetter Br{\\\"a}nd{\\'e}n and June Huh.\n\\newblock Hodge--Riemann relations for Potts model partition functions.\n\\newblock arXiv:1811.01696, version~2, February 11, 2019; first posted 2018.\n\\newblock \\url{https://arxiv.org/abs/1811.01696v2}."
+    },
+    "matroid:BH2020": {
+      "key": "BH2020",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[BH20]{BH2020}\nPetter Br{\\\"a}nd{\\'e}n and June Huh.\n\\newblock Lorentzian polynomials.\n\\newblock {\\em Annals of Mathematics}, 192(3):821--891, 2020.\n\\newblock \\url{https://doi.org/10.4007/annals.2020.192.3.4}."
+    },
+    "matroid:CFJMYZ2025": {
+      "key": "CFJMYZ2025",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[CFJMYZ25]{CFJMYZ2025}\nXiaoyu Chen, Weiming Feng, Zhe Ju, Tianshun Miao, Yitong Yin, and Xinyuan Zhang.\n\\newblock Faster mixing of the Jerrum--Sinclair chain.\n\\newblock arXiv:2504.02740, version~1, April 3, 2025.\n\\newblock \\url{https://arxiv.org/abs/2504.02740v1}."
+    },
+    "matroid:CVY2026": {
+      "key": "CVY2026",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[CVY26]{CVY2026}\nXiaoyu Chen, Eric Vigoda, and Xiongxin Yang.\n\\newblock Faster {FPRAS} for the permanent via restricted {Poincar\\'e}\n  inequalities and coupled flows.\n\\newblock arXiv:2608.26599, version~1, August 27, 2026.\n\\newblock \\url{https://arxiv.org/abs/2608.26599v1}."
+    },
+    "matroid:CGM2021": {
+      "key": "CGM2021",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[CGM21]{CGM2021}\nMary Cryan, Heng Guo, and Giorgos Mousa.\n\\newblock Modified log-Sobolev inequalities for strongly log-concave\n  distributions.\n\\newblock {\\em Annals of Probability}, 49(1):506--525, 2021.\n\\newblock \\url{https://doi.org/10.1214/20-AOP1453}.\n\\newblock Preprint locators refer to arXiv version~4, August 8, 2020:\n  \\url{https://arxiv.org/abs/1903.06081v4}."
+    },
+    "matroid:DoyleSnell2006": {
+      "key": "DoyleSnell2006",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[DS06]{DoyleSnell2006}\nPeter G. Doyle and J. Laurie Snell.\n\\newblock {\\em Random Walks and Electric Networks}.\n\\newblock Web edition dated July 5, 2006, derived from the 1984 MAA book.\n\\newblock \\url{https://math.dartmouth.edu/~doyle/docs/walkspdf/walks.pdf}."
+    },
+    "matroid:Edmonds1979": {
+      "key": "Edmonds1979",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[Edm79]{Edmonds1979}\nJack Edmonds.\n\\newblock Matroid intersection.\n\\newblock In {\\em Discrete Optimization {I}}, volume~4 of {\\em Annals of\n  Discrete Mathematics}, pages 39--49. North-Holland, 1979.\n\\newblock \\url{https://doi.org/10.1016/S0167-5060(08)70817-3}."
+    },
+    "matroid:FM1992": {
+      "key": "FM1992",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[FM92]{FM1992}\nTom{\\'a}s Feder and Milena Mihail.\n\\newblock Balanced matroids.\n\\newblock In {\\em Proceedings of the Twenty-Fourth Annual ACM Symposium\n  on Theory of Computing}, pages 26--38. Association for Computing\n  Machinery, 1992.\n\\newblock \\url{https://doi.org/10.1145/129712.129716}."
+    },
+    "matroid:JSV2004": {
+      "key": "JSV2004",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[JSV04]{JSV2004}\nMark Jerrum, Alistair Sinclair, and Eric Vigoda.\n\\newblock A polynomial-time approximation algorithm for the permanent of a\n  matrix with nonnegative entries.\n\\newblock {\\em Journal of the ACM}, 51(4):671--697, 2004.\n\\newblock \\url{https://doi.org/10.1145/1008731.1008738}."
+    },
+    "matroid:JVV1986": {
+      "key": "JVV1986",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[JVV86]{JVV1986}\nMark R. Jerrum, Leslie G. Valiant, and Vijay V. Vazirani.\n\\newblock Random generation of combinatorial structures from a uniform\n  distribution.\n\\newblock {\\em Theoretical Computer Science}, 43(2--3):169--188, 1986.\n\\newblock \\url{https://doi.org/10.1016/0304-3975(86)90174-X}."
+    },
+    "matroid:KipnisVaradhan1985": {
+      "key": "KipnisVaradhan1985",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[KV85]{KipnisVaradhan1985}\nClaude Kipnis and S. R. S. Varadhan.\n\\newblock Central limit theorems for additive functionals of reversible\n  Markov chains and applications.\n\\newblock {\\em Ast{\\'e}risque}, 132:65--70, 1985.\n\\newblock \\url{https://www.numdam.org/item/AST_1985__132__65_0/}."
+    },
+    "matroid:Liu2023": {
+      "key": "Liu2023",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[Liu23]{Liu2023}\nKuikui Liu.\n\\newblock {\\em Spectral Independence: A New Tool to Analyze {Markov} Chains}.\n\\newblock PhD thesis, University of Washington, 2023.\n\\newblock Section 13.2, Problem 1, p. 197.\n  \\url{https://kuikuiliu.github.io/files/dissertation.pdf}."
+    },
+    "matroid:Schrijver2003": {
+      "key": "Schrijver2003",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[Sch03]{Schrijver2003}\nAlexander Schrijver.\n\\newblock {\\em Combinatorial Optimization: Polyhedra and Efficiency}, volume~24\n  of {\\em Algorithms and Combinatorics}.\n\\newblock Springer, Berlin, 2003.\n\\newblock \\url{https://homepages.cwi.nl/~lex/co/}."
+    },
+    "matroid:SV2016": {
+      "key": "SV2016",
+      "path": "math/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/build/main.tex",
+      "entry": "\\bibitem[SV16]{SV2016}\nDamian Straszak and Nisheeth K. Vishnoi.\n\\newblock Real stable polynomials and matroids: Optimization and counting.\n\\newblock arXiv:1611.04548, version~1, November 14, 2016.\n\\newblock \\url{https://arxiv.org/abs/1611.04548v1}."
+    },
+    "integer:Parent": {
+      "key": "Parent",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@misc{Parent,\n  author = {{OpenAI}},\n  title = {{Approximate counting of common bases of two matroids}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/Approximate-counting-of-common-bases-of-two-matroids-September-23-2026/main.pdf}{OAI:Approximate-counting-of-common-bases-of-two-matroids-September-23-2026}},\n  year = {2026}\n}"
+    },
+    "integer:CB": {
+      "key": "CB",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@misc{CB,\n  author = {{OpenAI}},\n  title = {{An FPRAS for Cell-Bounded Contingency Tables}},\n  howpublished = {OpenAI Math Release preprint\n                  \\href{https://github.com/openai/math/blob/main/preprints/An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026/main.pdf}{OAI:An-FPRAS-for-Cell-Bounded-Contingency-Tables-September-24-2026}},\n  year = {2026}\n}"
+    },
+    "integer:Edmonds1970": {
+      "key": "Edmonds1970",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@incollection{Edmonds1970,\n  author = {Edmonds, Jack},\n  title = {Submodular functions, matroids, and certain polyhedra},\n  booktitle = {Combinatorial Structures and Their Applications},\n  editor = {Guy, Richard and Hanani, Haim and Sauer, Norbert and\n    Sch{\\\"o}nheim, Johanan},\n  publisher = {Gordon and Breach},\n  address = {New York},\n  pages = {69--87},\n  year = {1970}\n}"
+    },
+    "integer:Helgason1974": {
+      "key": "Helgason1974",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@incollection{Helgason1974,\n  author = {Helgason, Thorkell},\n  title = {Aspects of the theory of hypermatroids},\n  booktitle = {Hypergraph Seminar},\n  editor = {Berge, Claude and Ray-Chaudhuri, Dijen},\n  series = {Lecture Notes in Mathematics},\n  volume = {411},\n  publisher = {Springer},\n  address = {Berlin},\n  pages = {191--213},\n  year = {1974},\n  doi = {10.1007/BFb0066195}\n}"
+    },
+    "integer:GH1964": {
+      "key": "GH1964",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{GH1964,\n  author = {Ghouila-Houri, Alain},\n  title = {Flots et tensions dans un graphe},\n  journal = {Annales scientifiques de l'{\\'E}cole Normale Sup{\\'e}rieure},\n  series = {3},\n  volume = {81},\n  number = {3},\n  pages = {267--339},\n  year = {1964},\n  doi = {10.24033/asens.1132}\n}"
+    },
+    "integer:GLS1988": {
+      "key": "GLS1988",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@book{GLS1988,\n  author = {Gr{\\\"o}tschel, Martin and Lov{\\'a}sz, L{\\'a}szl{\\'o} and\n    Schrijver, Alexander},\n  title = {Geometric Algorithms and Combinatorial Optimization},\n  series = {Algorithms and Combinatorics},\n  volume = {2},\n  publisher = {Springer},\n  address = {Berlin},\n  year = {1988},\n  doi = {10.1007/978-3-642-97881-4}\n}"
+    },
+    "integer:IFF2001": {
+      "key": "IFF2001",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{IFF2001,\n  author = {Iwata, Satoru and Fleischer, Lisa and Fujishige, Satoru},\n  title = {A combinatorial strongly polynomial algorithm for minimizing\n    submodular functions},\n  journal = {Journal of the ACM},\n  volume = {48},\n  number = {4},\n  pages = {761--777},\n  year = {2001},\n  doi = {10.1145/502090.502096}\n}"
+    },
+    "integer:AHK2018": {
+      "key": "AHK2018",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{AHK2018,\n  author = {Adiprasito, Karim and Huh, June and Katz, Eric},\n  title = {Hodge theory for combinatorial geometries},\n  journal = {Annals of Mathematics},\n  series = {2},\n  volume = {188},\n  number = {2},\n  pages = {381--452},\n  year = {2018},\n  doi = {10.4007/annals.2018.188.2.1}\n}"
+    },
+    "integer:ALOV2024": {
+      "key": "ALOV2024",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{ALOV2024,\n  author = {Anari, Nima and Liu, Kuikui and Oveis Gharan, Shayan and\n    Vinzant, Cynthia},\n  title = {Log-concave polynomials {II}: High-dimensional walks and an\n    {FPRAS} for counting bases of a matroid},\n  journal = {Annals of Mathematics},\n  series = {2},\n  volume = {199},\n  number = {1},\n  pages = {259--299},\n  year = {2024},\n  doi = {10.4007/annals.2024.199.1.4},\n  note = {First circulated in 2018, arXiv:1811.01816}\n}"
+    },
+    "integer:AOV2021": {
+      "key": "AOV2021",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{AOV2021,\n  author = {Anari, Nima and Oveis Gharan, Shayan and Vinzant, Cynthia},\n  title = {Log-concave polynomials, {I}: Entropy and a deterministic\n    approximation algorithm for counting bases of matroids},\n  journal = {Duke Mathematical Journal},\n  volume = {170},\n  number = {16},\n  pages = {3459--3504},\n  year = {2021},\n  doi = {10.1215/00127094-2020-0091}\n}"
+    },
+    "integer:BH2020": {
+      "key": "BH2020",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{BH2020,\n  author = {Br{\\\"a}nd{\\'e}n, Petter and Huh, June},\n  title = {Lorentzian polynomials},\n  journal = {Annals of Mathematics},\n  series = {2},\n  volume = {192},\n  number = {3},\n  pages = {821--891},\n  year = {2020},\n  doi = {10.4007/annals.2020.192.3.4}\n}"
+    },
+    "integer:DFK1991": {
+      "key": "DFK1991",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{DFK1991,\n  author = {Dyer, Martin and Frieze, Alan and Kannan, Ravi},\n  title = {A random polynomial-time algorithm for approximating the\n    volume of convex bodies},\n  journal = {Journal of the ACM},\n  volume = {38},\n  number = {1},\n  pages = {1--17},\n  year = {1991},\n  doi = {10.1145/102782.102783}\n}"
+    },
+    "integer:DyerFrieze1991": {
+      "key": "DyerFrieze1991",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@incollection{DyerFrieze1991,\n  author = {Dyer, Martin and Frieze, Alan},\n  title = {Computing the volume of convex bodies: A case where\n    randomness provably helps},\n  booktitle = {Probabilistic Combinatorics and Its Applications},\n  editor = {Bollob{\\'a}s, B{\\'e}la},\n  series = {Proceedings of Symposia in Applied Mathematics},\n  volume = {44},\n  publisher = {American Mathematical Society},\n  address = {Providence, RI},\n  year = {1991},\n  pages = {123--169},\n  doi = {10.1090/psapm/044/1141926},\n  note = {Author manuscript dated January 4, 1991}\n}"
+    },
+    "integer:Prekopa1973": {
+      "key": "Prekopa1973",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{Prekopa1973,\n  author = {Pr{\\'e}kopa, Andr{\\'a}s},\n  title = {On logarithmic concave measures and functions},\n  journal = {Acta Scientiarum Mathematicarum (Szeged)},\n  volume = {34},\n  pages = {335--343},\n  year = {1973}\n}"
+    },
+    "integer:AK2004": {
+      "key": "AK2004",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@inproceedings{AK2004,\n  author = {Awerbuch, Baruch and Kleinberg, Robert D.},\n  title = {Adaptive routing with end-to-end feedback: Distributed learning\n    and geometric approaches},\n  booktitle = {Proceedings of the Thirty-Sixth Annual ACM Symposium on\n    Theory of Computing},\n  publisher = {ACM},\n  pages = {45--53},\n  year = {2004},\n  doi = {10.1145/1007352.1007367}\n}"
+    },
+    "integer:JSV2004": {
+      "key": "JSV2004",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{JSV2004,\n  author = {Jerrum, Mark and Sinclair, Alistair and Vigoda, Eric},\n  title = {A polynomial-time approximation algorithm for the permanent\n    of a matrix with nonnegative entries},\n  journal = {Journal of the ACM},\n  volume = {51},\n  number = {4},\n  pages = {671--697},\n  year = {2004},\n  doi = {10.1145/1008731.1008738}\n}"
+    },
+    "integer:CVY2026": {
+      "key": "CVY2026",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@misc{CVY2026,\n  author = {Chen, Xiaoyu and Vigoda, Eric and Yang, Xiongxin},\n  title = {Faster {FPRAS} for the Permanent via Restricted {Poincar\\'e}\n    Inequalities and Coupled Flows},\n  year = {2026},\n  note = {Preprint, arXiv:2608.26599, August 27, 2026},\n  url = {https://arxiv.org/abs/2608.26599}\n}"
+    },
+    "integer:DKM1997": {
+      "key": "DKM1997",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{DKM1997,\n  author = {Dyer, Martin and Kannan, Ravi and Mount, John},\n  title = {Sampling contingency tables},\n  journal = {Random Structures \\& Algorithms},\n  volume = {10},\n  number = {4},\n  pages = {487--506},\n  year = {1997},\n  doi = {10.1002/(SICI)1098-2418(199707)10:4<487::AID-RSA4>3.0.CO;2-Q}\n}"
+    },
+    "integer:CD2003": {
+      "key": "CD2003",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{CD2003,\n  author = {Cryan, Mary and Dyer, Martin},\n  title = {A polynomial-time algorithm to approximately count contingency\n    tables when the number of rows is constant},\n  journal = {Journal of Computer and System Sciences},\n  volume = {67},\n  number = {2},\n  pages = {291--310},\n  year = {2003},\n  doi = {10.1016/S0022-0000(03)00014-X}\n}"
+    },
+    "integer:CDR2010": {
+      "key": "CDR2010",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{CDR2010,\n  author = {Cryan, Mary and Dyer, Martin and Randall, Dana},\n  title = {Approximately Counting Integral Flows and Cell-Bounded\n    Contingency Tables},\n  journal = {SIAM Journal on Computing},\n  volume = {39},\n  number = {7},\n  pages = {2683--2703},\n  year = {2010},\n  doi = {10.1137/060650544}\n}"
+    },
+    "integer:BBV2007": {
+      "key": "BBV2007",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@article{BBV2007,\n  author = {Bez{\\'a}kov{\\'a}, Ivona and Bhatnagar, Nayantara and Vigoda, Eric},\n  title = {Sampling binary contingency tables with a greedy start},\n  journal = {Random Structures \\& Algorithms},\n  volume = {30},\n  number = {1--2},\n  pages = {168--205},\n  year = {2007},\n  doi = {10.1002/rsa.20155}\n}"
+    },
+    "integer:GKM2011": {
+      "key": "GKM2011",
+      "path": "math/preprints/An-FPRAS-for-Common-Integer-Polymatroid-Bases-with-Binary-Capacities-October-5-2026/build/references.bib",
+      "entry": "@inproceedings{GKM2011,\n  author = {Gopalan, Parikshit and Klivans, Adam and Meka, Raghu and\n    {\\v S}tefankovi{\\v c}, Daniel and Vempala, Santosh and Vigoda, Eric},\n  title = {An {FPTAS} for {\\#Knapsack} and Related Counting Problems},\n  booktitle = {Proceedings of the 52nd Annual IEEE Symposium on\n    Foundations of Computer Science},\n  publisher = {IEEE},\n  pages = {817--826},\n  year = {2011},\n  doi = {10.1109/FOCS.2011.32}\n}"
+    }
+  },
+  "generation_id": "GEN-20261021-037",
+  "quality_evidence": "reports/reproducibility/20261021-common-bases",
+  "retrospective": "reports/retrospectives/015-oracles-counts-and-real-workloads.md",
+  "next": "WP041actualquota-treedemand/oldmethodreversecheck"
+}

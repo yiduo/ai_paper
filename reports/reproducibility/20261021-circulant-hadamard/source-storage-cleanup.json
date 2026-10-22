@@ -1,0 +1,52 @@
+{
+  "recorded_at": "2026-10-20T19:42:23.074192+00:00",
+  "external_files_removed": [
+    {
+      "temporary_path": "/private/tmp/ai-paper-f179-index-summary.json",
+      "bytes": 4173,
+      "sha256": "25a9dbf437d99d9c59cb4a8e8974a99a1e5c79fcd4c3caf105774f3f4da0efce",
+      "retention": "removed; original URL and selected observed scope retained in ledger"
+    },
+    {
+      "temporary_path": "/private/tmp/ai-paper-f179-leung-schmidt.pdf",
+      "bytes": 274719,
+      "sha256": "200de03e1d4d61d5e264f3a52539e3821bb0bfb7d476e8076fab26ddc1d4a488",
+      "retention": "removed; original URL and selected observed scope retained in ledger"
+    },
+    {
+      "temporary_path": "/private/tmp/ai-paper-f179-ls-theorem35.png",
+      "bytes": 162776,
+      "sha256": "e990744ca66ec35a5d73e8b47202d0c2158d118555c6f3b15771be9061553924",
+      "retention": "removed; original URL and selected observed scope retained in ledger"
+    },
+    {
+      "temporary_path": "/private/tmp/ai-paper-f179-turyn-335.png",
+      "bytes": 195679,
+      "sha256": "b1e27246754d1bee0507a10532c7b9e9cf69f9572032058b2aa1a3dce5e38383",
+      "retention": "removed; original URL and selected observed scope retained in ledger"
+    },
+    {
+      "temporary_path": "/private/tmp/ai-paper-f179-turyn-337.png",
+      "bytes": 258377,
+      "sha256": "fd40a2b878c5f76ca3b7e1ee7a81b59666531445409e51157d3edb37e66d4c04",
+      "retention": "removed; original URL and selected observed scope retained in ledger"
+    },
+    {
+      "temporary_path": "/private/tmp/ai-paper-f179-turyn.pdf",
+      "bytes": 2844521,
+      "sha256": "abbc47e2b2b0a6d62a8089b16f354a069417d76e69861dc6a4e46f71aed94b0c",
+      "retention": "removed; original URL and selected observed scope retained in ledger"
+    }
+  ],
+  "external_temporary_bytes_removed": 3740245,
+  "curation_source": {
+    "path": "reports/reproducibility/20261021-circulant-hadamard/curation-source.py.gz",
+    "gzip_bytes": 11178,
+    "sha256": "f790e8d5159fda5d7486ce3b453a6eaf8921363d3d932ef81a0bbe4091fdca22",
+    "decompressed_sha256": "b3b4616ad3a50f9e114a95f4491ebc4b2e94609dafe04d112ef7dbf15e3ee1b6",
+    "roundtrip_verified": true
+  },
+  "new_numerical_experiment": false,
+  "upstream_copied": false,
+  "large_dependencies_installed": false
+}

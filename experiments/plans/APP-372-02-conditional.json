@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-046",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "id": "APP-372-02",
+  "title": "增强弹性代理模型的辅助散度与牵引一致性审计",
+  "problem": "PROB-372-AUGMENTED-SURROGATE",
+  "claim": "lem:augmented-system",
+  "parts": [
+    "AUGMENTED-DEFECT",
+    "NORMALIZED-PRINCIPAL",
+    "PHYSICAL-CGO"
+  ],
+  "analogy": "near",
+  "input": "Hypothetical3Dmixed/learnedelasticitysurrogateoutputsindependent(u,d),smoothadmissiblelambda/mu,declaredtractionandboundaryconstraints;actualtool/datasetnotyetverified",
+  "output": "Separatephysicaldefectd-divu andstress/tractionbasedonactualdivufromaugmentedR/Sresiduals;avoidacceptingnonphysicalauxiliarystate",
+  "hypothesis": "Onapredeclaredsetofactualmixedsurrogateoutputs,addingtheexplicitcompatibility/physicaltractionauditcoulddetecterrorsmissedbyR/S-onlyresidualacceptance. Needrealinterfaceevidencethatthisacceptancegapisnotalreadyclosed.",
+  "judge": "Freezeactualtooloutputsandboundaryconvention;independentautomaticdifferentiationversussymbolic/manufacturedphysicalresidualandtractionjudge. Knownconstantcoefficientu0,d=c!=0harmonicdefectillustratesgapbeforeoutputs,notblinddiscovery/externalcheck. Comparephysical-displacement-onlyandstandardmixedcompatibilityenforcement.",
+  "baseline": "ClassicalWeck/Imanuvilov-Yamamotoaugmentationanddirectphysicalstress/standardmixedcompatibilityalready sufficeifimplemented. Nospeed/accuracy/newmathgainassumed.",
+  "limits": "NotclaimthatallPINNsoractualsoftwareomitcompatibility;notF372uniquenessvalidation. R=S0onlyPdefect0;boundaryconditionsmayalreadyforcezero. No actualtrainingrun,benchmarkornewtheorem.",
+  "revisit": "Actualpublic3Dsurrogateinterfaceandresidualacceptance auditshowinguncloseddefect,thenfrozenmeaningfultest;do notrunknownconstant-controlsimplyforcounts."
+}

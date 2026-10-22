@@ -1,0 +1,93 @@
+{
+  "recorded_at": "2026-10-21T03:33:34.792081+00:00",
+  "helper_gzip_bytes": 16858,
+  "uncompressed_bytes": 56788,
+  "roundtrip_verified": true,
+  "temporary_bytes_removed": 55405,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-routes/ui-observations.json",
+      "bytes": 6669,
+      "sha256": "f00ca841352cb2e337cc65a7971458e92adb0c6a4b207de9b744b8ba347ffdc4"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/core.log",
+      "bytes": 9328,
+      "sha256": "bfbc5ec3c672fd88c014b2541479b761b1d355bd799abb9d1481438532d671b1"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/quality_routes.py",
+      "bytes": 3032,
+      "sha256": "194d92a1b08fb32b7cea8f947e2138e2697c8f232e0d61c75580be9dd6e38c9e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/integrity_routes.py",
+      "bytes": 6398,
+      "sha256": "30a6fcbdafa9a843477a3cf4ea0491ac961276e7d26bfbe47a779ad7f0802c6e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/archive-integrity.log",
+      "bytes": 110,
+      "sha256": "8310768bc37afcdd07df9cb0a2202ec0598b205ccacbc7b3ade9b6616d6d9c0b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/integrity.log",
+      "bytes": 819,
+      "sha256": "9d07e8a45695c71cba9e683c428a948f2c57b9217d92735a85c4aa9c92cfc830"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/integrity-first-failure.log",
+      "bytes": 1003,
+      "sha256": "4020538a8e0533c81fadbf10fb8a1a82c94a3b578980c475833786faaabde4ac"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/archive_integrity.py",
+      "bytes": 1362,
+      "sha256": "7d1b9a6d23ea78e88a3fc94be924f40967b5c5f8cadcdaccbf00ff9b37ea7af5"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/quality.log",
+      "bytes": 83,
+      "sha256": "e91961d93d1ce9c962d7eef0aa9a8fac058fa04a380c2d313923a37f36882078"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/curate_routes.py",
+      "bytes": 8131,
+      "sha256": "08129363dd0321d5876a57f4da6b08e09a997be7d73408af447e5cf0a187c118"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/replay-221.log",
+      "bytes": 363,
+      "sha256": "cc86bd34c6fa04d75f533ff2f95797737b5aebd640dd6b9b91289b5245f4804b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/export.log",
+      "bytes": 542,
+      "sha256": "956db192073dacc331e162d16f68d61853b2738dfa5e702493625d6efad2be9e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/finish_routes.py",
+      "bytes": 12747,
+      "sha256": "3a8514af15089b2a55dc53a900565bf35e5c02464a4c2c781c6d9fffda6016e9"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/progress.json",
+      "bytes": 3721,
+      "sha256": "78788946ab7b69f92dc9a9467b2de782f8689ff3128fc68754eb63682fce82f3"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/focused.log",
+      "bytes": 734,
+      "sha256": "754e83e61e3ab8b2bd561e195d66027d3150514ba137ac3a4bcee53e6760e93f"
+    },
+    {
+      "path": "/private/tmp/ai-paper-routes/replay-325.log",
+      "bytes": 363,
+      "sha256": "e67d0b898482d40ce56b4d1efa3f640dd8c6a3eb9048dce7dad5da6605c28e58"
+    }
+  ],
+  "screenshot": "Native JPEG retained as compressed image, exact bytes/MIME checked; initial wrong extension corrected",
+  "old_record_and_code_archives": "Exact three old records and prechange code gzip roundtrip verified; not deleted fromgit",
+  "cleanup": "Only exact archived own helper/log/AX files removed; replay/clean directory TemporaryDirectory removed automatically; upstream unchanged",
+  "disk_free_observed": "32GiB, external fluctuations not counted as project recovery"
+}

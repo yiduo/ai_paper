@@ -1,0 +1,15 @@
+{
+  "archive": "data/graph/lean_indices/F-131.json.gz",
+  "gzip_bytes": 28508,
+  "uncompressed_bytes": 260130,
+  "decompressed_sha256": "90361b7361ff3cab17f3d81d7ed002b37346c09a3e6a097fc06e00ff32bacb61",
+  "local_files": 165,
+  "declarations": 1594,
+  "all_indexed_source_hashes_match": true,
+  "external_modules_not_present": [
+    "Mathlib"
+  ],
+  "index_is_not_full_proof_reading_or_build": true,
+  "plaintext_index_present": false,
+  "numerical_outputs_generated": false
+}

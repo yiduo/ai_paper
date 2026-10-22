@@ -1,0 +1,48 @@
+{
+  "recorded_at": "2026-10-21T03:27:16.370030+00:00",
+  "core_tests_passed": 55,
+  "validation": {
+    "nodes": 5307,
+    "research_nodes": 3056,
+    "edges": 13389,
+    "citations_checked": 4898,
+    "candidate_connections": 35,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 1346,
+      "sha256": "429ee845f858c71350a404bc078539dc01641e0c9e386a73610ef930a290034f"
+    },
+    "index.html": {
+      "bytes": 14770580,
+      "sha256": "649e5e05d8f34c525b560c340c950e734d875d2b8b3fb94c970457f0fda150be"
+    },
+    "navigation.json.gz": {
+      "bytes": 51875,
+      "sha256": "fe3f737f019e01a3919faa8afdce55626359aef9d49a43c6b616f7f743af80a4"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 2287426,
+      "sha256": "56b1b2cd1b1cacc09d0cd94cd66c3d083ce178978c9cecb3d08e00d424073aff"
+    },
+    "navigation.md": {
+      "bytes": 73367,
+      "sha256": "ee0a72416402b2d47d0c424d19484b025464d83e29eb855a1d30bde23fa523a9"
+    },
+    "knowledge.json.gz": {
+      "bytes": 1982658,
+      "sha256": "5663dbeab17ca68b52a89d0ddde9f9f53aea19d296ef98acfdb19ade65f42ae2"
+    }
+  },
+  "browser_visual_check": "Actual IAB tab7 source/detail/single/both/empty/unknown/direct cases and JPEG receipt browser-ui.json; browser/Python logic parity in core. No external publication.",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

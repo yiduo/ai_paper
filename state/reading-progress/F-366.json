@@ -1,0 +1,83 @@
+{
+  "work_package": "WP-042",
+  "status": "natural_source_draft_curated_WP042_complete",
+  "saved_at": "2026-10-20T20:28:14.772135+00:00",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-47de73ec1cf82726",
+  "files": [
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/README.md",
+      "sha256": "14e96e8b1987ec24a7b7ccc0745c9e043da593b4000ad60e7944d436e76609da",
+      "lines": 16,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/figures/compact-translation.tex",
+      "sha256": "90c3a0a6be9261de3f874b820063c0d9495d73fb8227a032b73414fb938ca41b",
+      "lines": 61,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/main.tex",
+      "sha256": "371fbb4a8e83891db92b67d728a4332cae81ec731e492f151bdf78bd8f7a6dd4",
+      "lines": 46,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/blowup.tex",
+      "sha256": "39361ced96dcb3e04f92aba6f71dd13b288928d93be2466143e0bd9130209cd1",
+      "lines": 144,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/completion.tex",
+      "sha256": "c1c048e254cf9cfe72deb7584b2ba4c78ef208c766f23cb5fda792c54c8d155f",
+      "lines": 138,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/geometry.tex",
+      "sha256": "e1058122b6f347f67ef4bde8b53c8cb706cd8c8af4042319695355340fceaa86",
+      "lines": 57,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/interaction.tex",
+      "sha256": "b7bdec27b2a1ff156d479ad40651a26d7798006c83fef26d2c92f3cd346860a1",
+      "lines": 440,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/introduction.tex",
+      "sha256": "0308a981225f7e724597279b1799df232e1d6e96491a1ea0053509120b98c728",
+      "lines": 185,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/reductions.tex",
+      "sha256": "09bfdfeb956c0c009c0af837f5c532db7bad8ecb7443455a3f4175aa37627b78",
+      "lines": 344,
+      "read_scope": "whole file"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/references.bib",
+      "sha256": "e0f3951b27683991aba4522581da26faaf3ed486577a7cc2a986e59fe628fd85",
+      "lines": 245,
+      "read_scope": "whole file"
+    }
+  ],
+  "notes": [
+    "Whole8TeX1415lines and245line bibliography plus README actually read;source draft not yet curated/countable.",
+    "Absolute compact-comparison minimizers with arbitrary competitor cracks;not stationary/local-coordinate optimizers or approximate grid outputs. Reducedfinite-lengthclosedK,no initialrectifiability;boundedrealg,L2u and offK W12.",
+    "Interior arc,loose end,triod120;finitely many globalcomponents meeting U compactly insideOmega,not componentsof KcapU or boundaryglobalcount.",
+    "WeakL4 tail constantCU depends on U and actualminimizer,not computableuniformdiscretization certificate;not strongL4.",
+    "Whole-plane projection+finite cutoff interaction harmonic in translation;independent jump traces needed. GrowthO(R) kills affine field;Earnshaw analogy only,not bounded-domain sign rule.",
+    "22 bibliography roots include2026Deangelis earlier classification;must verify actual originals and erratum before noveltyclaim.",
+    "No366.md and no Mumford/366 formalizationyaml hits;broader actual formal path search pending. No proof or numerical run."
+  ],
+  "unread_original_history": true,
+  "counts_incremented": true,
+  "canonical_ledger": "data/provenance/readings/F-366.json",
+  "generation_id": "GEN-20261021-039",
+  "remaining": "Fullrecursivehistory18of22bodies,externalv2bodydiff,mainformalproof/fullclosure/humanreview andfiniteapplicationbridge"
+}

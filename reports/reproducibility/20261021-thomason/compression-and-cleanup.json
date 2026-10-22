@@ -1,0 +1,66 @@
+{
+  "recorded_at": "2026-10-21T03:15:31.490182+00:00",
+  "helper_gzip_bytes": 31402,
+  "uncompressed_bytes": 91201,
+  "roundtrip_verified": true,
+  "formal_index_gzip_bytes": 49787,
+  "temporary_bytes_removed": 89688,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-F317/core.log",
+      "bytes": 8692,
+      "sha256": "dc0129b4f3a569f0d9bd34f20a377e17a176605f715dead5f3ce4eb64b17ac7b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/quality_f317.py",
+      "bytes": 2997,
+      "sha256": "69e488c058ba52cb5affe5d4d57c901ce2de00384dae1b12377cb1e75a61d547"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/curate_f317.py",
+      "bytes": 35708,
+      "sha256": "208b4939e367b96bac5ae4f5f0678e36c0598b1d97beddd1073817b38ff68752"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/integrity_f317.py",
+      "bytes": 5127,
+      "sha256": "0f5f6449881574b8f6fde6f1287e934b93f1a2e90374149b4843bd7eb3fc0a0d"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/integrity.log",
+      "bytes": 1084,
+      "sha256": "f97d059e56c7b9b43dd22c630dfab7de305051d3eb7c6a26f6f1a203e654e27e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/quality.log",
+      "bytes": 83,
+      "sha256": "fc3a77a03dc42bc3b69ce235592d4bf6710f7daf49cebdad13fc2a0842572aab"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/prepare_f317.py",
+      "bytes": 4083,
+      "sha256": "44e065a9592dba60860f4594216332f7daeeb58a70db04f7a6bdce1c6d9aad70"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/export.log",
+      "bytes": 542,
+      "sha256": "416bfe7eadd8dc2cb2d75e62c04fee495d58ff98f1bdfc089299545199d88db6"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/finish_f317.py",
+      "bytes": 11310,
+      "sha256": "562cd70c76df553eef9ab285dd5fef79efc4fa334e17878b234d5a31c68e8fb9"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/progress.json",
+      "bytes": 13561,
+      "sha256": "e571898815002a5a9fdb517c033489560c15f1f8eef8bf9bf87af4922bec676a"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F317/report_f317.py",
+      "bytes": 6501,
+      "sha256": "6cefbb66c1759e8bda30c679d3d2ac831d726201908e8ad54e4a14436cde9549"
+    }
+  ],
+  "cleanup": "Only exact gzip-archived own helper/log files removed; upstream read-only, no installed dependency/cache"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "WP034-STATIC-INPUT-INSPECTION",
+  "classification": "Static source/input consistency inspection,not an application experiment",
+  "source_bundle": "data/provenance/demand/networkx-3.7-49ca2290.json.gz",
+  "source_bundle_sha256": "d06a97ce15a14207e0c6f78e690f4b075bb30a1f31c8ea508e86f8a8130c45b3",
+  "inspection_script": "scripts/inspect_networkx_f131_input.py",
+  "inspection_script_sha256": "6bb94fb01328d5f059175366b15851a64206a3f0dd831a5f8795934814ed4eac",
+  "purpose": "Extract literal public Florentine graph with ast.literal_eval only; check a specified legal degree-preserving switch that exits connected states; evaluate exact integer theorem formulas; no imported NetworkX code,chain simulation,uniformity test,performance benchmark or initial-card promotion.",
+  "input_scope": "NetworkX3.7 fixed source implementation; original1986 data paper not checked; historical unweighted graph is not a representative benchmark for every ecological network.",
+  "witness_removed": [
+    [
+      "Acciaiuoli",
+      "Medici"
+    ],
+    [
+      "Guadagni",
+      "Lamberteschi"
+    ]
+  ],
+  "witness_added": [
+    [
+      "Acciaiuoli",
+      "Lamberteschi"
+    ],
+    [
+      "Medici",
+      "Guadagni"
+    ]
+  ],
+  "acceptance": "Archive/source hashes valid;20distinct unweighted literal edges/15vertices,initial connected;specified switch valid,four distinct vertices,same labelled degrees,result disconnected. Derived integers are formula evaluations only.",
+  "allocation": "Standard library,one small static input,no numerical run or large dependencies",
+  "version": 2,
+  "prior_version_archive": "data/provenance/demand/F-131-networkx-inspection-v1.json.gz",
+  "revision_reason": "Output key correction: the source integer ntries is a counted retry limit, not the number of failures actually observed. Static acceptance and graph witness unchanged."
+}

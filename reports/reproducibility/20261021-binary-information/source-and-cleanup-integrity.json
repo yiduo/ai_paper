@@ -1,0 +1,71 @@
+{
+  "recorded_at": "2026-10-20T21:28:59.089238+00:00",
+  "ledger_sha256": "f87edc574dbd94b4fcffbc1779cd0b9d33a18fe723e4928f25c0dd7997736b85",
+  "natural_formal_and_verification_file_hashes": 38,
+  "all_static_index_members_hash_verified": 71,
+  "soft_index_files": 70,
+  "boolean_index_files": 43,
+  "index_overlap": 42,
+  "old_canonical_nodes_match_HEAD": 1851,
+  "prior_state_archive": "data/graph/history/GEN-20261021-044-before.json.gz",
+  "prior_state_gzip_sha256": "1cb796fbeb7788df94a51be6c1b9e46221181d2e1cb0126be7bc85ae1c8f564f",
+  "prior_state_decompressed_sha256": "395f17e0745e03200b12657598683e5daf3ce2ff0522a3ecc5ffab3e46fc587f",
+  "temporary_files": [
+    {
+      "file": "courtade2014.pdf",
+      "bytes": 489006,
+      "sha256": "035bf9040743238047efa673a17d848cbe5e664bc20520b29607d1079a34b258"
+    },
+    {
+      "file": "courtade2014.txt",
+      "bytes": 85550,
+      "sha256": "d5e2dffdc8a659ee1021e72d51b65d2ef9b35d3707b784b54bc6ecfba3d7665e"
+    },
+    {
+      "file": "abcjn2017.pdf",
+      "bytes": 211848,
+      "sha256": "22199b9beddd5e31f2d3586ec5b32c6d8afd8128d311421c7a751c91a91a1ed2"
+    },
+    {
+      "file": "abcjn2017.txt",
+      "bytes": 44263,
+      "sha256": "7e412d42707a2336b86ab849d0b3f7624642b74d02ea1db4356b354636b6afaf"
+    },
+    {
+      "file": "chen2025v2.pdf",
+      "bytes": 318316,
+      "sha256": "edefad8015071501002af5c7c8da3ed0120cd3464247c4c35580e57b31c28923"
+    },
+    {
+      "file": "chen2025v2.txt",
+      "bytes": 87947,
+      "sha256": "a60e3742da2937a58fd84bb689b6c5edb93fde7328824aedc9a10940b418e8f1"
+    },
+    {
+      "file": "chen2026.pdf",
+      "bytes": 1674285,
+      "sha256": "2bc70eaee2fd3b4f757020779a5d3c61e9236308fc37186019471d4a7babfae1"
+    },
+    {
+      "file": "chen2026.txt",
+      "bytes": 880946,
+      "sha256": "04c4aa59d9d0af4efe58ee45f68ad6326a578e2cff3c78ece01623886a58b4ac"
+    },
+    {
+      "file": "kramer2026.pdf",
+      "bytes": 379251,
+      "sha256": "7457f56763a717f3468d1cd9638712ff080629bcf5359421c9a8e8efa1651707"
+    },
+    {
+      "file": "kramer2026.txt",
+      "bytes": 51981,
+      "sha256": "ca400daf0b98edd0bc251b44bde46863e943c2068dd072bd25dad32fd7758a8a"
+    }
+  ],
+  "temporary_bytes_removed": 4223393,
+  "temporary_directory_removed": true,
+  "new_numerical_outputs": false,
+  "Lean_or_Comparator": false,
+  "dependencies_installed": false,
+  "upstream_copy": false
+}

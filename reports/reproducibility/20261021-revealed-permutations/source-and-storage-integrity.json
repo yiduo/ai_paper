@@ -1,0 +1,16 @@
+{
+  "recorded_at": "2026-10-20T18:30:42.554016+00:00",
+  "read_files_hash_checked": 8,
+  "lexical_index_source_files_hash_checked": 114,
+  "lexical_declarations": 1332,
+  "lexical_index_gzip_bytes": 21098,
+  "lexical_index_sha256": "afc587e0cdcad19da3c0e089564d1f608efef9b0800249799ea2f7c3f2f700b9",
+  "build_or_full_proof_audit": false,
+  "temporary_directory": "/private/tmp/ai-paper-f238-revealed",
+  "temporary_files_hash_checked": 8,
+  "temporary_bytes_removed": 1461359,
+  "temporary_payloads_recorded_in": "data/provenance/readings/F-238-revealed.json",
+  "numerical_experiments_this_package": 0,
+  "upstream_copied": false,
+  "temporary_directory_exists_after_cleanup": false
+}

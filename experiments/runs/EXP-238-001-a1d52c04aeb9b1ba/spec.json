@@ -1,0 +1,47 @@
+{
+  "id": "EXP-238-001",
+  "version": 1,
+  "connection_id": "APP-238-01",
+  "purpose": "Exact small-domain regression fixture for permutation randomization QA; tests a concrete full-law diagnostic, not the new asymptotic upper bound or a new shuffle algorithm.",
+  "hypothesis": "For N=4 and N=8, after d=log2(N) physical Thorp shuffles and under a uniform random cyclic shift, every one-card marginal passes an exact uniformity audit while the full permutation law has TV>1/4. A support-obstruction audit flags all four under-mixed regimes and has zero false alarms on exhaustive Fisher-Yates reference laws. N=2 is a boundary control.",
+  "input": {
+    "dimensions": [
+      1,
+      2,
+      3
+    ],
+    "physical_time_max_multiple_of_d": 2,
+    "coin_model": "independent fair pair coins; all coin outcomes enumerated and probabilities aggregated as integer path counts",
+    "controls": [
+      "uniform random cyclic shift",
+      "exhaustive Fisher-Yates choices"
+    ],
+    "randomness": "none; exact enumeration",
+    "source_frame": "MSB-first positions; physical step (b,u)->(u,b XOR coin[u]); permutation maps card labels to positions"
+  },
+  "baseline": "Exact marginal-only audit versus cheap support-size lower-bound audit; exact exhaustive Fisher-Yates is the already sufficient uniform sampler, not an algorithm claimed to be improved by Thorp.",
+  "judge": "Exact Fraction TV against uniform S_N, including absent permutations; all-card marginals and first-two-card joint laws. Independently implement physical split/interleave semantics for all N=4 starting decks and coins.",
+  "success": {
+    "under_mixed_regimes_detected": 4,
+    "marginal_only_under_mixed_regimes_detected": 0,
+    "full_tv_threshold": "1/4",
+    "reference_false_alarms": 0,
+    "transition_disagreements": 0,
+    "support_bound_violations": 0,
+    "probability_or_permutation_integrity_failures": 0
+  },
+  "failure": "Any transition mismatch, invalid probability/permutation, support lower bound above exact TV, failure to flag any of the four declared under-mixed regimes, or any Fisher-Yates false alarm.",
+  "metrics": [
+    "full-law TV",
+    "maximum one-card TV",
+    "two-card TV",
+    "support size and lower bound",
+    "physical steps and fair bits",
+    "exact transition cross-checks",
+    "runtime",
+    "peak_python_memory"
+  ],
+  "limits": "Synthetic N<=8 fixture. Does not validate 1600d asymptotics, compute a finite-N upper guarantee from that theorem, establish cryptographic security, improve Fisher-Yates, or justify large-domain factorial enumeration. Expected obstruction is already elementary; incremental benefit from the new optimal-order theorem remains unshown.",
+  "resource_limit_seconds": 120,
+  "resource_limit_mb": 128
+}

@@ -1,0 +1,246 @@
+{
+  "family_id": "F-120",
+  "generation_id": "GEN-20261021-048",
+  "recorded_at": "2026-10-20T22:15:34.249988+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-669239fdc7f9d479"
+  ],
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "total_tex_files": 15,
+  "total_tex_lines": 6402,
+  "body_source_lines": 6146,
+  "bibliography_lines": 443,
+  "read_files": [
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/README.md",
+      "sha256": "98814d9f99ee1c1e91d93e9c22fa58c74f5f45ab22f2220e5ab92ae316f48877",
+      "lines": 17,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/figures/arm-slots.tex",
+      "sha256": "ff93b7929db3370933b8ffff68da3f2ee96ba6c5babdf6c9727cd8e9e8fcc35e",
+      "lines": 65,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/figures/frozen-compression.tex",
+      "sha256": "f710c90902af47ebb13ecb199f542b1a5185f782f783c09f64501a16f78d9bc3",
+      "lines": 57,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/figures/local-projection.tex",
+      "sha256": "5d5b2c8ec4cd065bffa0464cce5d192612c2ff44bf563ffd85b8dc422fb3044b",
+      "lines": 57,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/main.tex",
+      "sha256": "c4bc55103a217456d0b1f4f33a047b5351011ca53749a13173d121e3fbe05f95",
+      "lines": 35,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/preamble.tex",
+      "sha256": "b2d9cb9fba2b5bd8814c15d04922d9e801f84978c3ea069e06781da42954aa3c",
+      "lines": 42,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/01-introduction.tex",
+      "sha256": "26eceebaac6b2ad869c9aa7451c9d57c98e835703130edbefc45a1a637503c22",
+      "lines": 289,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/02-preliminaries.tex",
+      "sha256": "3a90c3221576299a27cf3316b94e09ec69ae5a856a3a468cbe1d1a1e65d1d890",
+      "lines": 174,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/03-matching-state.tex",
+      "sha256": "8766fa319ba2587a4073d5e8aa228f25cd35cbed7c5240e55aa108cb8b3c2cc7",
+      "lines": 861,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/04-projection-analysis.tex",
+      "sha256": "06958b3d53b336f4dc0bb929d60ce729b03f9a230022b75e7ca3425540cd41a1",
+      "lines": 979,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/05-engine.tex",
+      "sha256": "939f221a14b39eee8ab0aca6417de5502983842c4f2d23579e00b4ea5f0885d3",
+      "lines": 707,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/06-routing-helper.tex",
+      "sha256": "25f5c0ecdcdd291635a76fa9acab05f7af3053165c3998cfed1535d6b22a7cd2",
+      "lines": 841,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/07-backend-quality.tex",
+      "sha256": "01699a433457bc787331cc2e76f8e99aa7697206be49ab7a639d43653d379401",
+      "lines": 798,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/08-backend-updates.tex",
+      "sha256": "cb0096aaf1abafdf559cd43e69af112d47a5f7785ee47b1e731ed4e765e1d567",
+      "lines": 958,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/09-uniformization.tex",
+      "sha256": "7c4f2d2ec41daf7f7d2113370d8f06c8f23de9ac87aa809135f357999342eed0",
+      "lines": 384,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/sections/10-f-factors.tex",
+      "sha256": "f3079478a9e8f8a3c20a070c75e45c7cfa6ac5e0de17a1bfd87f6c0681e5f404",
+      "lines": 155,
+      "read_scope": "Whole actually read"
+    },
+    {
+      "path": "math/preprints/Almost-Linear-Time-Maximum-Cardinality-Matching-in-Sparse-General-Graphs-September-24-2026/build/references.bib",
+      "sha256": "717797b47ce880c00ec2b80db7e9a58a31e46abdcf31346328179d6cc1b32785",
+      "lines": 443,
+      "read_scope": "Whole actually read"
+    }
+  ],
+  "result_notes": {
+    "thm:main": "简单无向图显式邻接输入p=n+m；同一随机word-RAM程序每条路径Cp^(1+eta(p))且eta非增趋零，输出显式最大基数匹配概率≥2/3；C和阈值无有效实用率。",
+    "lem:integral-flow": "固定旧确定性最小费用流实现用于多项式容量精确流；数位、地址、吞吐量及模拟均计费，不是动态免费oracle。",
+    "prelim:small-violation": "精确守恒且全部上下界总违反小于1时，整数割给可行整数流；回流弧也须计入，近似守恒不够。",
+    "lem:capacity-scaling": "容量按位倍增；截断残量容量到弧数保留所需增广，去循环路径流总量受限；逐位调用固定小容量算法。",
+    "lem:fallback": "旧Edmonds确定性多项式完美匹配回退，检查覆盖与原边ID；平行副本去重保留原见证，无可匹配承诺。",
+    "match:bottom-surplus": "底层零债整数分配、行注入匹配及严格正bin权推出严格Hall和每bin权≤L。",
+    "match:deletion": "删除bin集合并重定向存活分配所增债≤Lh(R)-cw(R)；一次增益≤2L，表示动作与匹配增益分开。",
+    "match:top-maintenance": "顶层正网格分配及债局部维护，缓存误差靠真实运动付费；4delta填充与精确最终批次，不能全局免费扫描。",
+    "match:exchange-projection": "整数交换流保行和L；源未饱和时取完整残量可达bin集满足y=Lh<cw，给可支付剥离。",
+    "match:tight-contraction": "严格Hall、h次模及最小交紧集合提供构造性factor-critical收缩；需要全部捕获行和实际接触边。",
+    "match:pair-action": "有界随机割探索及整数ledger步行返回接触／收缩动作；仅完全耗尽残量侧才是割，截断不能认证；可检测失败。",
+    "match:materialization": "已存因子临界树的接触见证线性展开为实际匹配；每子结构至多处理一次，不能重复扫描嵌套物理内部。",
+    "lem:projection": "父层高一个权重的ledger、债P给局部精确投影或剥离；O(P+1)工作区不是任意近似流替代。",
+    "proj:threshold": "16倍容量、返回弧权20000(P+1)、锁[4u,16u]的门槛搜索；成功和Low都由精确静态流复核。",
+    "proj:local-cut": "成功真区域与失败乐观区域联合恢复完整图最小割／残量可达集；边界容量beta+1排除未探索边界。",
+    "phase:accounting": "不需存在完美匹配的前缀记账；剥离和blocker受已实现增益约束，重置tick包括gain L。",
+    "phase:stall": "完美匹配承诺用于不停止的增益论证，存在性比较分配给方向比≥1/2；不每步构造比较对象。",
+    "phase:guard-adequacy": "固定充分大参数在充分大S所有随机路径均不因确定性前提暂停；S^20和S^100等前缀cap不是成功事件条件。",
+    "thm:subcubic": "一般loopless次三次实例返回已检查完美匹配或可能假NO；条件错误≤2^-sigma S^-5，所有路径近线性固定参数界。",
+    "lem:priced-steps": "有循环方向比≥1/2则不能Low；网格精确循环增量加权运动≤q/100、收益≥q²/1000；全过程原始遍历计费。",
+    "lem:flat-cycle": "动态度≤3整数价格图，森林路径和单边列表投影循环；原始长度比近似M^-10/a，显式稳定lifetimes与适应性错误预算。",
+    "engine:tree-cost": "带方向符号／绝对运动／阈值见证的link-cut树，每实际报告和树操作摊还O(log Nf)；evert不回溯改变物理累积。",
+    "engine:refresh-bound": "每坐标base+当前副本有符号和保精确值；副本死亡先冲刷，绝对量转bucket；刷新先清零再重定价，O(D)每步通知。",
+    "lem:routing-helper": "显式多重图稀疏代表边、每需求实际walk与稀疏资源；支持≤P*v+、跳数≤P*、每资源重复遍历负载≤P*C0，输出全部验证。",
+    "route:sampling": "按端点度采样的逆概率权同时控制所有cut误差和各资源负载；体积来自原piece，深度列表互斥；Tropp旧界仅分析。",
+    "route:overlay": "fresh符号中位分割配任意跨半匹配，r轮overlay高概率扩张；混合矩阵的reverse-round次序不可换，绝不建稠密矩阵。",
+    "route:cheeger": "多重／loop图以incidence计度，lazy核conductance为图conductance一半；gap≥phi²/4，足够长点对点混合。",
+    "route:router": "按终点组条件化的有界拒绝walk与递归虚拟job；端点唯一但起点可重，子图新随机，重复边负载与失败路径均受cap。",
+    "back:base": "底层枚举dyadic阈值的负闭walk，返回至少OPT/2的显式循环；整数位长和n_d³计费，非所有层枚举。",
+    "back:covers": "几何延迟、两最佳不同center的Dijkstra及margin>2R验证冻结覆盖；有界重试、树半径Gamma R；不是未经检验随机分区。",
+    "back:forest-family": "每层索引bit与两个OUT选项有限森林族，实现两不同低层slot的任意处方；固定参数log幂，不是所有路由枚举。",
+    "back:path-law": "概念上每起点固定边界距离归一化路由边际，边耦合后共同后缀抵消，期望全长≤A*ell；算法不计算这些概率。",
+    "back:frozen-decomposition": "冻结存活边不必自身守恒；固定每顶点路由边际使内部抵消，仅new-edge端点失衡；洞裁剪后精确分解，单项可非循环。",
+    "back:portals": "森林后序累加选≤|V|/k portals，去标点后每pocket<k；按顶点计数而不是加权长度大小。",
+    "back:compression": "森林向量仅terminals处有散度则Steiner外零流、压缩段有同向常系数；保持梯度及净长度范数。",
+    "lem:backend-reduction": "一个联合child含所有森林／原始余项／new edges和physical hubs；局部修正与child循环比较损失≤b²，条件同时对后选状态成立。",
+    "back:quality-induction": "单child递归每层b²损失与底层1/2得到外层至少M^-10/a；返回原始长度认证分数，不能以净抵消缩分母。",
+    "update:classes": "holes与cluster激活以fresh children split逻辑类；保持leg的类别不变，逻辑degree D_l=O(k log^Oa)，每物理编辑仅log幂单位。",
+    "update:anchor-core": "标记旧类祖先，截保旧路径prefix/suffix到anchors；O(E0)labels资源core重路由，旧根持久化不整份复制；中心新增支持O(P*E0)。",
+    "update:support": "初支持h_i log幂，任意epoch前缀t新增支持bt log幂；旧选边存活保留，assignment本地工作≠递归edit数。",
+    "update:compressed-edits": "保留promoted terminals，洞前提升双端，剪断无合并级联；原树端点挂selected chord，child slots/edges O(h_i b log幂)，单edit仅b log幂递归编辑。",
+    "update:flat-lift": "全森林副本加arm pools，child path经森林回退消除化为一个endpoint path；保物理投影且原始长度不增，省去实际展开。",
+    "update:multiplicity": "每物理slot公共occurrence≤D_i，含dormant arms；segment内只来自两端arm而无段长度乘因子；外层≤M^10/a/4。",
+    "update:recourse": "先求child最终批次，Q标签重建arm，其他日志逐项收费；旧映射失效前删除，未受影响dormant内部边重分配保lifetime。",
+    "update:recurrences": "A_i=L+M^-1/(2a)A_next，U_i=L+kA_i+M^1/a² U_next，O(a)层给绝对O(1/a)指数；无把arm长度乘每child内部日志。",
+    "update:reliability": "已发表结构逐项验证、拒绝尝试各自cap，前缀计数S^500和fresh条件union；确定性暂停与耗尽随机重试失败分开。",
+    "uniform:network": "Beneš递归DAG，2-regular输入对／输出对图交替着色，任意permutation顶点不交路由；s=1允许零长，O(s log s)。",
+    "uniform:cardinality": "b=n-2k mandatory sinks加split network positions，把恰k匹配归约PM，保原边ID；O(m+n log n)，不是把原问题当二部图。",
+    "uniform:degree": "无isolates的loopless图以2r-1奇位置attachment path替每度r顶点，恰一外边；4e-v顶点，双向线性见证解码。",
+    "uniform:fixed-branch": "a=1000+t,sigma=t+20固定branch，所有足够大输入各随机路径均不暂停且p^(1+O1/a+oa1)；阈值不是输入选择参数表。",
+    "uniform:physical-ram": "按word指令可中断的几何配额dovetail加旧多项式fallback，所有路径停机／实际地址多项式；长整数和巨大参数逐字分配收费。",
+    "cor:f-factor": "简单无权host，0≤f(v)≤degree，输出指定度边子集或NO；正见证逐项检查，无解不误报，但有解可能假NO≤1/3。",
+    "factor:reduction": "每边两port交叉，b_v=d_v-f_v mandatory sinks连Beneš分裂positions，PM当且仅当factor；总O(n+m log n)，非weighted／multiplicity。"
+  },
+  "selected_original_scopes": {
+    "Gabow2025FMatching": {
+      "url": "https://arxiv.org/pdf/2311.14236v1",
+      "scope": "实际24Nov2023v1；抽取1-185行：pp1-3及p4开头，摘要／引言／术语／Lemma2.1及迭代框架；后续证明未读。",
+      "finding": "旧算法直接求最大f-matching（逐点≤f），存在factor可由最大边数=Σf/2判断；简单图O(n^(2/3)m)，多重图另界。并非只能旧Tutte展开；未执行实现。",
+      "pdf_sha256": "bc081a44ff022594240684c6ffc94de9f60b8bb737caaab5adedd2062b39795e",
+      "pdf_bytes": 318797,
+      "text_sha256": "78b38a6ab4d0c18040122fb874a70574616cd90d395a50f984368dead483e79e",
+      "content_checked": true
+    },
+    "Tutte1954Factor": {
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3785657C35F370E32E5AEAFC3D1B84CE/S0008414X00023774a.pdf/short_proof_of_the_factor_theorem_for_finite_graphs.pdf",
+      "scope": "原发表PDF选读印刷347-349（抽取1-170覆盖至350开头），349页像素实际核对；后面因子判据推导未全文读。",
+      "finding": "旧局部X为每incidence port、Y为d-f个新点，X-Y完全二部，原边跨ports；Lemma双向factor↔1-factor，局部边d(d-f)。正文先假f正；F120含f=0需独立核对，不能冒充原文覆盖所有边界。",
+      "pdf_sha256": "71695683661179f447b57bcfc3b2e40907e059217d31dfe219d6b32fc89f71d7",
+      "pdf_bytes": 558684,
+      "text_sha256": "c150f72da1dced543b527daae174112ac8d94a67efe136bbc377d7e26b731ecd",
+      "content_checked": true,
+      "printed349_pixel_sha256": "e52937e2f7c7817791eecda38313f988ef4df331b899030d5ab6a378d7f6ddfb"
+    },
+    "FlowDeterministic": {
+      "url": "https://arxiv.org/pdf/2309.16629v1",
+      "scope": "28Sep2023v1封面／摘要和印刷p2 Theorem1.1及上下文（抽取175-210）；未读算法完整证明。",
+      "finding": "旧确定性精确最小费用流m^(1+o1)logUlogC，整数demand/cap/cost；不能据此自动推出一般非二部匹配，静态原语成本与F120动态engine不同。",
+      "pdf_sha256": "55f4e2049e577e02dff1788ab40fef52c84733cc40ecf40d22495165858029a0",
+      "pdf_bytes": 1365026,
+      "text_sha256": "ee43395eeed4569adcad66560f137cc39d03d2777e344ac8f1444957575433d8",
+      "content_checked": true
+    },
+    "IncrementalGraphs": {
+      "url": "https://arxiv.org/pdf/2311.18295v1",
+      "scope": "30Nov2023v1封面；抽取680-815定义2.1-2.4、Lemma2.6/2.7及Fact2.8开头；945-1093 Theorem3.5与证明、Theorem3.6完整；4.3/5/7未全文读。",
+      "finding": "虽然标题incremental，Theorem3.5后端为旧确定性fully dynamic min-ratio cycles，有flat forest拥塞／路径列表，Theorem3.6已维护隐式／显式流及阈值。F120的raw motion和lifetime细节增量需要逐项比较，不能称动态森林首次出现。",
+      "pdf_sha256": "de1bdba00c518db31657e513649f7614f0ddb77bd17bbba9d70ff927231ab46b",
+      "pdf_bytes": 1651752,
+      "text_sha256": "3db66fe5c4d702ddc30ffea457474dc1c850b743e912bd0f509feb26731b95a0",
+      "content_checked": true
+    },
+    "KyngMeierhansProbstGutenberg2023FlatForest": {
+      "url": "https://arxiv.org/pdf/2311.06402v1",
+      "scope": "10Nov2023v1封面与Sec3.3印刷30-32：抽取1750-1915包含Lemma3.21、Definition3.22、Algorithm5与证明；Theorem3.1完整输入依赖未追完。",
+      "finding": "旧flat lifting已预分配树副本、未用副本分配到新occurrence、路径长度支配及recourse界；F120沿用思想，精确edge lifetime／事务顺序不能当独立新应用收益。",
+      "pdf_sha256": "719e1b7d7ab5f3e9b8dae58af84de79cf989297ac1b2a9a758451da2e2017d28",
+      "pdf_bytes": 799083,
+      "text_sha256": "aa9935e7a77c88a6a214255c01e540962a6590f4d91e912910cf1ebb435d8533",
+      "content_checked": true
+    }
+  },
+  "formal_status": {
+    "registration": false,
+    "matching_doc_present": false,
+    "build": false,
+    "comparator": false,
+    "selected_grade": "C",
+    "scope": "Targeted title/matching/cardinality searches in pinned formalization.yaml and docs find no matching F120 entry; docs/120.md absent. Other matching formalizations are different manuscripts, not transferred. No global proof absence theorem."
+  },
+  "result_bindings_pending_curation": false,
+  "source_index_audit": {
+    "previous_immediate_label_count": 51,
+    "actual_statement_level_results": 53,
+    "missed_labels": [
+      "lem:backend-reduction",
+      "update:flat-lift"
+    ],
+    "alias_labels_not_extra_results": true,
+    "parser_fix": "src/ai_value/source_results.py; outer environment labels, excludes nested equation/group labels; prior alias fixture retained"
+  },
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "bibliography_unique_roots": 39,
+  "selected_original_roots": 5,
+  "original_bodies_unread": 34
+}

@@ -1,0 +1,26 @@
+{
+  "prepare_quota_demand114.py": {
+    "path": "reports/reproducibility/20261021-quota-demand/prepare_quota_demand114.py.gz",
+    "gzip_sha256": "16724fc9c74e123e24a62aea99289d1e1276ec700398343307b9f9fcf1d00632",
+    "decompressed_sha256": "9a7bfe6096872d98bc17e304134e742bea8e9edce4f0b812401733788094f946",
+    "bytes": 10233
+  },
+  "curate_quota_demand114.py": {
+    "path": "reports/reproducibility/20261021-quota-demand/curate_quota_demand114.py.gz",
+    "gzip_sha256": "e512430dafc1d6437ec0f7a6ab5d2370bd0ad9abadb8e8b4582784a6f7399e5c",
+    "decompressed_sha256": "c8aec90caf4f27494b60230fd040d57046b3a2728d31665e8791dbacbd42032e",
+    "bytes": 13088
+  },
+  "quality_quota114.py": {
+    "path": "reports/reproducibility/20261021-quota-demand/quality_quota114.py.gz",
+    "gzip_sha256": "eb7d97559a7e5c934f4c14f355099909740c2b1d4fd5cf300622e5faac40e159",
+    "decompressed_sha256": "0a5d5dace3273d5e60463143e9df067414482f4c2121e65cb249d63751e79ece",
+    "bytes": 2899
+  },
+  "finish_quota114.py": {
+    "path": "reports/reproducibility/20261021-quota-demand/finish_quota114.py.gz",
+    "gzip_sha256": "fead333f7bc0c5aed035738a4bc5556567b209b93e418ed37125fb70c6d59c4d",
+    "decompressed_sha256": "1bd8c80a78e0f1744f2012d6f8daedbc7fea3712edc66530e3c0ba68255d4f9a",
+    "bytes": 7289
+  }
+}

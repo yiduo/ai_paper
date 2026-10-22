@@ -1,0 +1,40 @@
+{
+  "recorded_at": "2026-10-20T17:52:56.980890+00:00",
+  "core_tests_passed": 42,
+  "validation": {
+    "nodes": 3018,
+    "research_nodes": 1318,
+    "edges": 7321,
+    "citations_checked": 2066,
+    "candidate_connections": 20,
+    "externally_checked_cards": 10,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 10,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 865,
+      "sha256": "6cc3c4da1a1ae12a8f4a9cc221633f2bab6461f42f51247bfa267128726f0ae1"
+    },
+    "index.html": {
+      "bytes": 7543182,
+      "sha256": "116018c25a00f5bdb25961e1f3ec9108ea5e56feb0d611ebc342d0175b8a59fb"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 1126893,
+      "sha256": "131899e771545450be204b2533df6cd50bec528b5b9d47399131391d77192d33"
+    },
+    "knowledge.json.gz": {
+      "bytes": 982201,
+      "sha256": "5d8ab8157888dfca343ad7032d206b9b2799f870cbbbbd0295ab30dd3bdfee28"
+    }
+  },
+  "browser_visual_check": "Actual localhost reload, search131, family14claims/16methods/2candidates, exact-sampler gradeC, conditional candidate pending/no-runs and corrected F149 terminology/version2 checked. Screenshots saved. This is one path, not complete UI acceptance.",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

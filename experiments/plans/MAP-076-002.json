@@ -1,0 +1,19 @@
+{
+  "id": "MAP-076-002",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-076-02",
+  "registered_at": "2026-10-20T15:41:09.467761+00:00",
+  "input": "Freezeboundedactualfinitefixturesbeforeanyoutputs;noF076asymptoticguaranteeassumedatfiniteN",
+  "hypothesis": "Onapreregisteredsmallfixedsetofidealizedcomplexaperturetargets,theimplementeddefect-awarejointdyadicrounderhasatleastone>=10percentcertifiedcontinuumresidualreductionoverBOTHpointwisenearestantipodalroundingandafrozenoldgreedybaseline,withalloutputphaseseligibleandindependentexactoraclechecks. Preservezero/negativeincrementcases.",
+  "baselines": [
+    "Pointwiseclosestantipodalchoice",
+    "Frozenoldgreedysignflipcoordinate-descentrule",
+    "ExhaustiveeligiblewordoracleatsmallN;oracleisaccuracyjudge,notspeedbaseline"
+  ],
+  "judge": "Independentexactinteger/rationalpolynomialoracleandoutwardcontinuumcertificates;gridsamplesalonearenotupper/lowerproof",
+  "success": "Everycorrectness/eligibilitycheckpassesandthepredefinedpredictionholds",
+  "failure": "Anyfalsecertificate,wrongallowedphase,unsupportedmetricmigrationornoincrement;retainalloutputs",
+  "limits": "Noformalproof,newmathvalidation,practicalultraflatgenerator,hardwaregainorrealbusinesspilot. Existingmethodswhichalreadycoverscopegetzeronewtheoremincrement.",
+  "resource_envelope": "Noexperimentrunallocatedyet;stdliblightweight,cappedfiniteN;actualexecutionrequiresfrozenconfig/commitandcompressedraw/summary/sourcehashroundtrip"
+}

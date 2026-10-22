@@ -1,0 +1,249 @@
+{
+  "family_id": "F-294",
+  "work_package": "WP-068",
+  "generation_id": "GEN-20261021-064",
+  "recorded_at": "2026-10-21T02:17:45.349712+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "selected_source_lines": 1331,
+  "pins": {
+    "pymanopt/pymanopt": "e97efe32a3b8637f5b6589c976de4b6c13e13ec2",
+    "vprusso/toqito": "4baf22e6f3da78ac9a01352de1980e2441c6cc77"
+  },
+  "sources": {
+    "positive_definite.py": {
+      "repository": "https://github.com/pymanopt/pymanopt",
+      "revision": "e97efe32a3b8637f5b6589c976de4b6c13e13ec2",
+      "path": "src/pymanopt/manifolds/positive_definite.py",
+      "url": "https://raw.githubusercontent.com/pymanopt/pymanopt/e97efe32a3b8637f5b6589c976de4b6c13e13ec2/src/pymanopt/manifolds/positive_definite.py",
+      "sha256": "618e4ef5e4fa8b489fdf77bf0a96cab7c5cd7cfc2303c06ad69f9810652d7b51",
+      "bytes": 9096,
+      "total_lines": 280,
+      "read_ranges": [
+        [
+          1,
+          175
+        ]
+      ],
+      "read_lines": 175,
+      "full_file_read": false,
+      "full_file_retained": true,
+      "license": "BSD-3-Clause",
+      "dependency_closure_complete": false
+    },
+    "conjugate_gradient.py": {
+      "repository": "https://github.com/pymanopt/pymanopt",
+      "revision": "e97efe32a3b8637f5b6589c976de4b6c13e13ec2",
+      "path": "src/pymanopt/optimizers/conjugate_gradient.py",
+      "url": "https://raw.githubusercontent.com/pymanopt/pymanopt/e97efe32a3b8637f5b6589c976de4b6c13e13ec2/src/pymanopt/optimizers/conjugate_gradient.py",
+      "sha256": "be76bcedf573d2143f3cc28974fa6b0b66931b37c6f365966c8010319166487e",
+      "bytes": 11036,
+      "total_lines": 365,
+      "read_ranges": [
+        [
+          1,
+          365
+        ]
+      ],
+      "read_lines": 365,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "BSD-3-Clause",
+      "dependency_closure_complete": false
+    },
+    "optimizer.py": {
+      "repository": "https://github.com/pymanopt/pymanopt",
+      "revision": "e97efe32a3b8637f5b6589c976de4b6c13e13ec2",
+      "path": "src/pymanopt/optimizers/optimizer.py",
+      "url": "https://raw.githubusercontent.com/pymanopt/pymanopt/e97efe32a3b8637f5b6589c976de4b6c13e13ec2/src/pymanopt/optimizers/optimizer.py",
+      "sha256": "e61ef7eac881bccd31474d8835569a1f1beffd0e00124cc431a1dab3be5aa178",
+      "bytes": 5058,
+      "total_lines": 147,
+      "read_ranges": [
+        [
+          1,
+          147
+        ]
+      ],
+      "read_lines": 147,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "BSD-3-Clause",
+      "dependency_closure_complete": false
+    },
+    "numpy_backend.py": {
+      "repository": "https://github.com/pymanopt/pymanopt",
+      "revision": "e97efe32a3b8637f5b6589c976de4b6c13e13ec2",
+      "path": "src/pymanopt/backends/numpy_backend.py",
+      "url": "https://raw.githubusercontent.com/pymanopt/pymanopt/e97efe32a3b8637f5b6589c976de4b6c13e13ec2/src/pymanopt/backends/numpy_backend.py",
+      "sha256": "feee283cdb094e02428d467f68cc6dd5a5a0dd9d3086c9dcdfb39dfc19644156",
+      "bytes": 14702,
+      "total_lines": 454,
+      "read_ranges": [
+        [
+          1,
+          230
+        ],
+        [
+          287,
+          302
+        ],
+        [
+          319,
+          329
+        ],
+        [
+          361,
+          369
+        ],
+        [
+          403,
+          413
+        ]
+      ],
+      "read_lines": 277,
+      "full_file_read": false,
+      "full_file_retained": true,
+      "license": "BSD-3-Clause",
+      "dependency_closure_complete": false
+    },
+    "PYMANOPT-LICENSE": {
+      "repository": "https://github.com/pymanopt/pymanopt",
+      "revision": "e97efe32a3b8637f5b6589c976de4b6c13e13ec2",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/pymanopt/pymanopt/e97efe32a3b8637f5b6589c976de4b6c13e13ec2/LICENSE",
+      "sha256": "4d8bfb410b67df60ca22de605624e06dd75ec0b58ae94d86b3ede18688f2c2f2",
+      "bytes": 1491,
+      "total_lines": 27,
+      "read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "read_lines": 27,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "BSD-3-Clause",
+      "dependency_closure_complete": false
+    },
+    "is_quantum_channel.py": {
+      "repository": "https://github.com/vprusso/toqito",
+      "revision": "4baf22e6f3da78ac9a01352de1980e2441c6cc77",
+      "path": "toqito/channel_props/is_quantum_channel.py",
+      "url": "https://raw.githubusercontent.com/vprusso/toqito/4baf22e6f3da78ac9a01352de1980e2441c6cc77/toqito/channel_props/is_quantum_channel.py",
+      "sha256": "4741cc3c6a7570ac63f4664a77145112cb1e6f84d8b36dee4a346866fee423e4",
+      "bytes": 3733,
+      "total_lines": 101,
+      "read_ranges": [
+        [
+          1,
+          101
+        ]
+      ],
+      "read_lines": 101,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "MIT",
+      "dependency_closure_complete": false
+    },
+    "is_trace_preserving.py": {
+      "repository": "https://github.com/vprusso/toqito",
+      "revision": "4baf22e6f3da78ac9a01352de1980e2441c6cc77",
+      "path": "toqito/channel_props/is_trace_preserving.py",
+      "url": "https://raw.githubusercontent.com/vprusso/toqito/4baf22e6f3da78ac9a01352de1980e2441c6cc77/toqito/channel_props/is_trace_preserving.py",
+      "sha256": "8dbf136c29f1cd67810edfc64fe15bf1789b2d6e004ddd85e340b892dcd451fa",
+      "bytes": 4230,
+      "total_lines": 125,
+      "read_ranges": [
+        [
+          1,
+          125
+        ]
+      ],
+      "read_lines": 125,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "MIT",
+      "dependency_closure_complete": false
+    },
+    "kraus_to_choi.py": {
+      "repository": "https://github.com/vprusso/toqito",
+      "revision": "4baf22e6f3da78ac9a01352de1980e2441c6cc77",
+      "path": "toqito/channel_ops/kraus_to_choi.py",
+      "url": "https://raw.githubusercontent.com/vprusso/toqito/4baf22e6f3da78ac9a01352de1980e2441c6cc77/toqito/channel_ops/kraus_to_choi.py",
+      "sha256": "ae720495a8eb6a00a0a5598173dc61984bc22900da46fc11c061ba25283401a8",
+      "bytes": 3995,
+      "total_lines": 93,
+      "read_ranges": [
+        [
+          1,
+          93
+        ]
+      ],
+      "read_lines": 93,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "MIT",
+      "dependency_closure_complete": false
+    },
+    "TOQITO-LICENSE": {
+      "repository": "https://github.com/vprusso/toqito",
+      "revision": "4baf22e6f3da78ac9a01352de1980e2441c6cc77",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/vprusso/toqito/4baf22e6f3da78ac9a01352de1980e2441c6cc77/LICENSE",
+      "sha256": "24a81140b4ed6f42cee898f203727bd6c81a7e47c9ed0d6c0f35e132bfe0e483",
+      "bytes": 1081,
+      "total_lines": 21,
+      "read_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "read_lines": 21,
+      "full_file_read": true,
+      "full_file_retained": true,
+      "license": "MIT",
+      "dependency_closure_complete": false
+    }
+  },
+  "original_usage": {
+    "title": "Operator scaling with specified marginals",
+    "author": "Cole Franks",
+    "url": "https://sites.math.rutgers.edu/~wcf17/images/site_OSWSM_arxiv_ver3.pdf",
+    "cover_date": "January 2,2018",
+    "pages": 85,
+    "actual_selected_scope": "Author-host PDF rendered lines308–680 (pp7–13),3746–4184(pp46–49);Theorems3.8–3.13,Definition9.2,Lemma9.4 and selected proof context. Other proof/rounding details unread.",
+    "content_checked": true,
+    "full_text_read": false,
+    "notes": "Rectangular CP maps with prescribed PSD marginals are characterized using capacity and subspace/flag conditions. Approximate scaling algorithms depend polynomially on inverse tolerance, least nonzero marginal eigenvalues, dimensions and input bits; randomized success at least2/3 for general groups. The stated decision bound can be exponential in spectral bit size. Rational strict conditions give unique attainment under a determinant normalization. These are selected statements, not complete proof or local execution.",
+    "version_caveat": "Author filename ver3 does not identify verified arXivv3. arxiv.org/pdf/1801.01412v1 webrender returned84pages,Jan2018v1 watermark andDec14,2024cover,not assumed identical;authorhost85pages Jan2,2018cover selected. No localrawPDFhash or pixels asserted."
+  },
+  "decisions": [
+    "实际接口部分匹配：Toqito的Kraus→Choi默认路径按列向量化并构造外积，不要求算子为方阵；直接is_trace_preserving(Kraus列表)拼接后检验ΣK* K=I。它们提供有限点态通道性质检查，不提供行和≤2/3I、所有子空间扩张、全参数证书或连续标架选择，也没有建立实际消费者接受改变原通道的过滤。",
+    "矩形维数必须显式处理：is_trace_preserving(Choi)省略dim时假设等维；is_quantum_channel先把列表转Choi，却没有dim参数，并捕获ValueError为False。因此例如输入维2、输出维4时Choi阶8不是完全平方，源码路径会把该矩形情形拒绝为False；这是静态形状推演，未运行工具或其完整CP依赖。应使用显式dim的直接保持迹接口或独立Kraus裁判，不把高层False当数学反例。",
+    "Pymanopt的PD流形与CG可输入自定义势函数、初点和停止阈值，是旧通用优化基线的接口，不能视为F294实现。NumPy后端没有自动微分，需显式梯度或另一个后端；Problem、line-search和完整依赖未读／未安装。CG返回最后迭代和停止理由，时间／迭代／步长到限也会返回结果，不能以返回对象为收敛证书。",
+    "固定提交中的内积／梯度存在源公式不一致：NumPy后端tensordot是普通全收缩，PD源码使用Re〈P^-1A,P^-1B〉F，而梯度转换使用herm(PGP)。取P=diag(1,2)，A=G=[[0,1],[1,0]]，f(P)=Tr(GP)，PGP=[[0,2],[2,0]]，按源码内积得g(PGP,A)=5/2，但df[A]=2。该精确手算是源码代数审核，不是执行Pymanopt、数值实验或独立人审；矩阵皆实对称，投影按所声明的Hermitian投影解读。应独立核对实际梯度／方向导数后才作为计时基线，不改上游源码或声称整个库不可用。",
+    "另一项静态元数据问题：HermitianPositiveDefinite声明维数k*n*(n+1)，普通k个n阶Hermitian正定矩阵的实维数为k*n²；typical_dist依赖dim，实际运行影响尚未测试。CG调用停止检查时不传cost_evaluations，基类默认-1，故正的最大评价次数参数不能由该调用触发；结果中的iteration也不是完整line-search调用计数。完整成本比较需要外部统一计数／预算，不能直接采用该字段作为总费用。",
+    "强旧方法不能省略：Franks指定边际缩放已处理矩形CP映射、flag容量及子空间条件，并区分近似、精确达到与唯一性。其边际具有迹平衡；不能把行上界直接换成同阶双随机，或未经归约就宣称等同F294含I的势函数。详见原始选读定位；没有运行该算法，也没有证实旧方法已解全部连续规范合同。",
+    "结论：APP29401原10%总成本预测保留但降低数值优先级；真实／有代表性合成负载、全参数与ALL子空间证书、有效条件裕量及经核准强旧基线仍未闭合。没有新实验、初检或有效线索。停止扩大已知包含／矩阵恒等式QA，按覆盖转未读代数复几何。"
+  ],
+  "archive": {
+    "path": "data/provenance/demand/scaling-interfaces-20261021.json.gz",
+    "sha256": "8dd1f25925bb395d1ad611346ae544e03392947a04f998043f16dcdd2837f8d2",
+    "uncompressed_sha256": "e5ad5185ceaaa494b98111b61d5339fb6a4ac2b6fba6b03e88152a07d14f9030",
+    "bytes": 13383,
+    "members": 9,
+    "roundtrip": true,
+    "license": "PymanoptBSD3 andToqitoMIT licensefiles included;QETLAB adaptation attribution retained inKraus source"
+  },
+  "remaining": [
+    "Noactualconsumeror justifiedrepresentativeworkload/allsubspace-allparametercertificate/filteringacceptance.",
+    "Strongoldspecifiedmarginal/qualifiedsamepotentialoptimizerandcostprotocolnotimplemented;Sra2015body/fullFranksproofunread.",
+    "Actualdependencyclosure/runtimebugsnotverified;sourcealgebra/shapeobservations only.",
+    "Humanmath/domain/secondprovider deferred."
+  ],
+  "new_numerical_run": false,
+  "source_audit_not_external_application_check": true
+}

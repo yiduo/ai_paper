@@ -1,0 +1,474 @@
+{
+  "work_package": "WP-039",
+  "status": "full_natural_reading_selected_formal_history_done_canonical_curation_pending",
+  "recorded_at": "2026-10-20T19:37:48.645324+00:00",
+  "family_id": "F-179",
+  "manuscripts": [
+    "P-25bab455cfc62825"
+  ],
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "text_files_total": 8,
+  "text_lines_total": 1240,
+  "read_files": [
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/macros.tex",
+      "lines": 17,
+      "sha256": "7209f7c4d678d137387815bf2cd2e0198f81216dfae0ec881c97adada2141cd1",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/main.tex",
+      "lines": 62,
+      "sha256": "ce42a95743b9aea6093e9ac39467a3d9662054e38ae3a5878eab8e72a947b9e7",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/references.bib",
+      "lines": 191,
+      "sha256": "90bd720053e2c86f1789114609f64d4a4f4786f5f46dad1b0c9773ecae064055",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/contradiction.tex",
+      "lines": 243,
+      "sha256": "6aa2afed95cd8ecd8b0a28d71cc011ecf317af91bd356dd6406a7a0c17b145a3",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/introduction.tex",
+      "lines": 220,
+      "sha256": "54c2d276b2e90a0e8be2fe4c1c7aca56bd57ea7d17b5ea2c8e29e12b83e6e177",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/local.tex",
+      "lines": 140,
+      "sha256": "c1394bcbd5a4297a54648ffe51fed075f29f42d8aabec85cbe53aaf9e8fe1204",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/products.tex",
+      "lines": 295,
+      "sha256": "7d8beb0c7d77cf3146f3d7646964bc302005c6ad0e0a3d9586929190c7210514",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/reduction.tex",
+      "lines": 72,
+      "sha256": "d5377b2d6e559d091e358572e99d494ec06aca913115d8e21a86d0da7e2f844c",
+      "read_scope": "Entire source read; not independent proof audit"
+    }
+  ],
+  "formal_read_files": [
+    {
+      "path": "math/lean/docs/179.md",
+      "lines": 18,
+      "sha256": "47cf8bcf69c2cdf41b6b03051d8ae6cf998773c8fd85b83f1b15c130f166ce60",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CirculantHadamard.json",
+      "lines": 14,
+      "sha256": "c1fe62023b2b218840c7389b00a97473b48f3a59ab1af453f0dd4558b9e6b4b1",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CirculantHadamard.lean",
+      "lines": 30,
+      "sha256": "397ec4f1ab8e02877f4a4d0b5a12d0c9b26a06bf768999479210b365c3acb647",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EvenBarker.json",
+      "lines": 14,
+      "sha256": "103c2a7c7de9212a4988dd183c54803a999f3550693ee5f07df17cf606527bf9",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/EvenBarker.lean",
+      "lines": 28,
+      "sha256": "b4b6dbaa8ed4503d6381f4062818815e7c8474de4592e6a1b3f42057a86e25b2",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/Main.lean",
+      "lines": 38,
+      "sha256": "10ac97dc252ed99ef11e95b13a0b1e51f403c039cdd158f6a0ade4aa446c1c9a",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/Model.lean",
+      "lines": 26,
+      "sha256": "1f75b9d170bef0482c3c79d74642d9d214b51d45d856931c38fb53e14dc631c1",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/MatrixBridge.lean",
+      "lines": 153,
+      "sha256": "88113b0612a0eb4aafb1af2c8dc2678109a567b4547abc9c0e25d3abdcb4532a",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/BinaryContradiction.lean",
+      "lines": 55,
+      "sha256": "12dbb3029dd894e4a983b525cd3937257caed71c6686eac193c96de83deeebb5",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/OrderReduction.lean",
+      "lines": 48,
+      "sha256": "67072a861ec8040612d9627b210f900cf6062365ef826e8a787e6238afadbd40",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/Witnesses.lean",
+      "lines": 83,
+      "sha256": "7dac2782ff9b1dcbb87377538dc9032acc76bcfa91c0c6f543b29eba382353ab",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/LocalComparison.lean",
+      "lines": 158,
+      "sha256": "f00acbdb594db4610af811a8f5b516c3fe47833eab9b10817e36e7f2348a0ffb",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/CirculantHadamard/AlternatingTorsion.lean",
+      "lines": 133,
+      "sha256": "fc697631823d49160b2bb0932efb45e081545b9497256838256ce6e696525c8e",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/Barker/Main.lean",
+      "lines": 77,
+      "sha256": "d124b7c71cccde50726ec20c16473c84fb65a2461ed93a74f8f8f71a93011f5b",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/Barker/Model.lean",
+      "lines": 21,
+      "sha256": "a09be9fae1098d0683cb864ae92ec3d14f3cf94bbcb1f55ae7928e3db5f3c6ca",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/Barker/Parity.lean",
+      "lines": 45,
+      "sha256": "850ab9bc522b975af162bc54c320297d323c77362ff7836ab2793be01bb25724",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/Barker/PeriodicModFour.lean",
+      "lines": 61,
+      "sha256": "ae1632809b6939a02d06d9bfd4b8a3ca7f86d77509ea5d613eb176007216e9a3",
+      "read_scope": "Entire source read; not independent proof audit"
+    },
+    {
+      "path": "math/lean/OAI/LinearAlgebra/Barker/Wraparound.lean",
+      "lines": 73,
+      "sha256": "036d2f1a23d6225867873eaf8fe9678a889829cf7d7855a72a5fea548c7a5b73",
+      "read_scope": "Entire source read; not independent proof audit"
+    }
+  ],
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-179.json.gz",
+    "sha256": "f11849d6608e913929d419fa28f0d36128a5b765f998bf20a68e67d891c09200",
+    "local_files": 73,
+    "declarations": 742,
+    "placeholder_tokens": 0,
+    "local_axiom_declarations": 0,
+    "external_modules_not_present": [
+      "Lean.Elab.Tactic.Omega",
+      "Mathlib",
+      "Mathlib.Algebra.BigOperators.Fin",
+      "Mathlib.Algebra.BigOperators.Finsupp.Basic",
+      "Mathlib.Algebra.BigOperators.Group.Finset.Basic",
+      "Mathlib.Algebra.BigOperators.Group.Finset.Powerset",
+      "Mathlib.Algebra.BigOperators.Group.List.Lemmas",
+      "Mathlib.Algebra.BigOperators.Ring.Finset",
+      "Mathlib.Algebra.CharP.Algebra",
+      "Mathlib.Algebra.CharP.Defs",
+      "Mathlib.Algebra.CharP.Lemmas",
+      "Mathlib.Algebra.CharP.Two",
+      "Mathlib.Algebra.EuclideanDomain.Int",
+      "Mathlib.Algebra.Group.Hom.Defs",
+      "Mathlib.Algebra.Group.Nat.Even",
+      "Mathlib.Algebra.Group.Pi.Lemmas",
+      "Mathlib.Algebra.Group.Subgroup.Defs",
+      "Mathlib.Algebra.Group.TypeTags.Finite",
+      "Mathlib.Algebra.Group.Units.Hom",
+      "Mathlib.Algebra.Module.End",
+      "Mathlib.Algebra.MonoidAlgebra.Basic",
+      "Mathlib.Algebra.MonoidAlgebra.Lift",
+      "Mathlib.Algebra.MonoidAlgebra.MapDomain",
+      "Mathlib.Algebra.Polynomial.AlgebraMap",
+      "Mathlib.Algebra.Polynomial.Coeff",
+      "Mathlib.Algebra.Polynomial.Div",
+      "Mathlib.Algebra.Polynomial.EraseLead",
+      "Mathlib.Algebra.Polynomial.Inductions",
+      "Mathlib.Algebra.Prime.Defs",
+      "Mathlib.Algebra.Prime.Lemmas",
+      "Mathlib.Algebra.Regular.Basic",
+      "Mathlib.Algebra.Ring.GeomSum",
+      "Mathlib.Algebra.Ring.Hom.Defs",
+      "Mathlib.Algebra.Ring.Int.Defs",
+      "Mathlib.Algebra.Ring.Int.Parity",
+      "Mathlib.Algebra.Ring.Parity",
+      "Mathlib.Algebra.Star.BigOperators",
+      "Mathlib.Analysis.Complex.Basic",
+      "Mathlib.Basic.Complex.Basic",
+      "Mathlib.Data.Finsupp.Basic",
+      "Mathlib.Data.Finsupp.SMulWithZero",
+      "Mathlib.Data.Fintype.Basic",
+      "Mathlib.Data.Fintype.Powerset",
+      "Mathlib.Data.Int.Basic",
+      "Mathlib.Data.Int.ModEq",
+      "Mathlib.Data.Nat.Factorization.Basic",
+      "Mathlib.Data.Nat.GCD.BigOperators",
+      "Mathlib.Data.Nat.Prime.Basic",
+      "Mathlib.Data.Nat.Prime.Int",
+      "Mathlib.Data.Nat.PrimeFin",
+      "Mathlib.Data.ZMod.Basic",
+      "Mathlib.Data.ZMod.QuotientRing",
+      "Mathlib.FieldTheory.IntermediateField.Adjoin.Basic",
+      "Mathlib.GroupTheory.Index",
+      "Mathlib.GroupTheory.OrderOfElement",
+      "Mathlib.LinearAlgebra.Matrix.Notation",
+      "Mathlib.NumberTheory.NumberField.Basic",
+      "Mathlib.NumberTheory.NumberField.InfinitePlace.Embeddings",
+      "Mathlib.RingTheory.Adjoin.Basic",
+      "Mathlib.RingTheory.AdjoinRoot",
+      "Mathlib.RingTheory.Coprime.Lemmas",
+      "Mathlib.RingTheory.DiscreteValuationRing.Basic",
+      "Mathlib.RingTheory.DiscreteValuationRing.TFAE",
+      "Mathlib.RingTheory.Ideal.GoingUp",
+      "Mathlib.RingTheory.Int.Basic",
+      "Mathlib.RingTheory.IntegralClosure.Algebra.Basic",
+      "Mathlib.RingTheory.IntegralClosure.IsIntegral.Basic",
+      "Mathlib.RingTheory.IntegralClosure.IsIntegralClosure.Basic",
+      "Mathlib.RingTheory.IsAdjoinRoot",
+      "Mathlib.RingTheory.LocalRing.Basic",
+      "Mathlib.RingTheory.LocalRing.MaximalIdeal.Basic",
+      "Mathlib.RingTheory.LocalRing.ResidueField.Basic",
+      "Mathlib.RingTheory.Localization.AsSubring",
+      "Mathlib.RingTheory.Localization.AtPrime.Basic",
+      "Mathlib.RingTheory.Localization.Submodule",
+      "Mathlib.RingTheory.Noetherian.Basic",
+      "Mathlib.RingTheory.Polynomial.Cyclotomic.Basic",
+      "Mathlib.RingTheory.Polynomial.Cyclotomic.Eval",
+      "Mathlib.RingTheory.Polynomial.Cyclotomic.Roots",
+      "Mathlib.RingTheory.Polynomial.Eisenstein.IsIntegral",
+      "Mathlib.RingTheory.Polynomial.RationalRoot",
+      "Mathlib.RingTheory.Polynomial.UniqueFactorization",
+      "Mathlib.RingTheory.PrincipalIdealDomain",
+      "Mathlib.RingTheory.RootsOfUnity.Complex",
+      "Mathlib.RingTheory.RootsOfUnity.Minpoly",
+      "Mathlib.RingTheory.Spectrum.Maximal.Localization",
+      "Mathlib.RingTheory.Unramified.LocalRing",
+      "Mathlib.Tactic.Abel",
+      "Mathlib.Tactic.FinCases",
+      "Mathlib.Tactic.IntervalCases",
+      "Mathlib.Tactic.Linarith",
+      "Mathlib.Tactic.LinearCombination",
+      "Mathlib.Tactic.NormNum",
+      "Mathlib.Tactic.Ring"
+    ],
+    "compressed_bytes": 14855,
+    "local_build": "not_run"
+  },
+  "named_results": 8,
+  "history_status": "Selected primary scopes in progress; abstracts of earlier claimed full proofs are not proof audits",
+  "limits": [
+    "No Lean or Comparator build, no human review or independent provider review",
+    "Main static B only; full Barker classification C; even Barker extra proof not whole odd classification",
+    "No application check or new experiment; canonical counts unchanged until curation"
+  ],
+  "next": "CanonicalGEN036/ten-domain contracts,F076scope comparison,fullsource/index hashes/core/graph/export/clean checks",
+  "text_lines_fully_read": 1240,
+  "named_result_bindings": [
+    {
+      "label": "lem:first-order",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/contradiction.tex",
+      "kind": "lemma",
+      "line": 10,
+      "statement_end_line": 19,
+      "statement": "For a local domain O and nonzero t in its maximal ideal, (1+tL) -> L mod maximal ideal is an additive group map on 1+tO.",
+      "conditions": "Exact subgroup and domain divisibility, fixed SAME local ring/residue field for the final paired equations; not a numerical Taylor approximation.",
+      "constants_and_limits": "Use t=2 and t=1+i separately; odd-order residue-one torsion forces the products exactly one. Order 4 exception u=1 has Gaussian product i of even order.",
+      "selected_grade": "C"
+    },
+    {
+      "label": "thm:main",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/introduction.tex",
+      "kind": "theorem",
+      "line": 21,
+      "statement_end_line": 24,
+      "statement": "Real circulant sign matrix, positive integer order n: existence iff n=1 or 4.",
+      "conditions": "Cyclic shifts of ONE real sign row; exact HH^T=nI. Not general Hadamard matrices, complex phases or approximate conditioning.",
+      "constants_and_limits": "Witnesses (1) and (1,1,1,-1); no prime-factor restriction in final source claim.",
+      "selected_grade": "B"
+    },
+    {
+      "label": "cor:barker",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/introduction.tex",
+      "kind": "corollary",
+      "line": 43,
+      "statement_end_line": 49,
+      "statement": "For n>1, a sign Barker sequence exists iff n is in {2,3,4,5,7,11,13}.",
+      "conditions": "Every nonzero APERIODIC autocorrelation has absolute value <=1. Odd classification imported from Schmidt-Willms; selected additional Lean statement covers positive even lengths only.",
+      "constants_and_limits": "n=1 excluded by definition, although vacuously Barker if allowed. Even n>2 gives all nontrivial periodic correlations zero; n=2 handled separately.",
+      "selected_grade": "C"
+    },
+    {
+      "label": "lem:local-ring",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/local.tex",
+      "kind": "lemma",
+      "line": 39,
+      "statement_end_line": 67,
+      "statement": "Cyclotomic unramified base is a DVR; adjoining a primitive p^k root gives a ramified DVR with coefficientwise p-divisibility.",
+      "conditions": "p prime; p does not divide L; localize Z[eta_L] at a maximal ideal over p; k>=1. Free cyclotomic basis and integer valuation thresholds essential.",
+      "constants_and_limits": "D=(p-1)p^(k-1), v(p)=1, v(xi-1)=1/D. Eisenstein Phi_(p^k)(1+Y); no arbitrary local base substitution.",
+      "selected_grade": "C"
+    },
+    {
+      "label": "lem:comparison",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/products.tex",
+      "kind": "lemma",
+      "line": 62,
+      "statement_end_line": 73,
+      "statement": "At primitive order-p character, factor/augmentation ratios are units congruent to 1 in the ramified residue field.",
+      "conditions": "F,K in A[C_(p^e)], FK=p^e*b, b a unit, e>=1, unramified cyclotomic local base; same exponent in group order and scalar norm. Denominators nonzero.",
+      "constants_and_limits": "Projection qF/p after cyclotomic remainder division reduces e by one. Counterexample F=p-2J in C_p has norm p^2 and ratio -1 for odd p: exponent mismatch invalidates generalization.",
+      "selected_grade": "C"
+    },
+    {
+      "label": "lem:torsion",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/products.tex",
+      "kind": "lemma",
+      "line": 139,
+      "statement_end_line": 149,
+      "statement": "Integral all-conjugates-unit-modulus element is torsion; residue-one torsion in residue characteristic p has p-power order.",
+      "conditions": "Finitely many roots of unity generate B; ALL unital complex homomorphisms have modulus one. Second part requires a local domain and an actual root of unity.",
+      "constants_and_limits": "Finite integer characteristic polynomials of powers; non-torsion units congruent to 1 need not have finite order. One complex absolute value is insufficient.",
+      "selected_grade": "C"
+    },
+    {
+      "label": "prop:alternating",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/products.tex",
+      "kind": "proposition",
+      "line": 189,
+      "statement_end_line": 195,
+      "statement": "For odd u>1 and x in Z[i][C_(u^2)] with xx*=u^2, the common alternating character product is an odd-order root of unity.",
+      "conditions": "One fixed coefficient family x for every subset of all prime divisors of u; exact norm. Pair the SAME product in every prime direction and prove integrality at all maximal ideals.",
+      "constants_and_limits": "With at least two distinct primes product=1. For u=p^a, x=p^a X gives a possibly nontrivial order-p product; do not replace odd torsion by 1 universally.",
+      "selected_grade": "C"
+    },
+    {
+      "label": "prop:order",
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/sections/reduction.tex",
+      "kind": "proposition",
+      "line": 9,
+      "statement_end_line": 12,
+      "statement": "A circulant Hadamard matrix of order n>1 has n=4u^2 with u positive odd.",
+      "conditions": "Actual sign coefficients and scalar group-ring norm; augmentation gives n square; cyclic 2-primary projection and integral halving.",
+      "constants_and_limits": "If n=2^(2s)u^2, s>=2, descent leaves 2^(s+1) odd coefficients with squared sum 4u^2, contradicting mod 8. This is an old Turyn-type restriction.",
+      "selected_grade": "C"
+    }
+  ],
+  "bibliographies": [
+    {
+      "path": "math/preprints/The-circulant-Hadamard-conjecture-September-23-2026/build/references.bib",
+      "lines": 191,
+      "sha256": "90bd720053e2c86f1789114609f64d4a4f4786f5f46dad1b0c9773ecae064055",
+      "read_scope": "Entire source read; not independent proof audit"
+    }
+  ],
+  "selected_original_scopes": {
+    "Turyn1965": {
+      "url": "https://msp.org/pjm/1965/15-1/pjm-v15-n1-p32-p.pdf",
+      "locator": "pp328-329 Thm5; p333 Cor2; pp335-336 Lem6/7,Thm8/cor; p337 Lem8. PDF pp17,19 rendered locally to resolve OCR.",
+      "scope": "Old cyclic restrictions: odd u and non-prime-power u. Character-association Thm5 requires equal principal ideals and coprime subgroup/norm/character orders. Lem8 needs the explicit principal-ideal hypothesis; not arbitrary common binary blocks.",
+      "version": "journal 1965",
+      "verification": "selected_original_scope_content_checked; not entire paper/proof audit",
+      "retrieved_at": "2026-10-20T19:41:01.863842+00:00",
+      "content_bytes_pinned": false
+    },
+    "SchmidtWillms2016": {
+      "url": "https://arxiv.org/html/1501.06035v1",
+      "locator": "Section1 Theorem1, examples and correction footnote",
+      "scope": "Odd Barker lengths n>1: 3,5,7,11,13, with explicit examples. Later elementary proof of classical odd theorem; source footnote corrects a historical auxiliary induction range, not a refutation of odd classification.",
+      "version": "arXiv v1 2015-01-24; bibliography journal 2016",
+      "verification": "selected_original_scope_content_checked; not entire paper/proof audit",
+      "retrieved_at": "2026-10-20T19:41:01.863842+00:00",
+      "content_bytes_pinned": false
+    },
+    "LeungSchmidt2012": {
+      "url": "https://personal.ntu.edu.sg/bernhard/Publications/pub/chdm.pdf",
+      "locator": "Author PDF pp9-10 Thm3.5/proof; p11 Cor3.8",
+      "scope": "For u=p^a m, coprime(p,m)=1 and self-conjugate divisor r of m, require gcd of orders modulo p > u^2/(p^(2a)r^2) AND p^a>2m. Proof uses character-root quotients modulo2. These are conditional exclusions, not universal full classification.",
+      "version": "unversioned author manuscript observed",
+      "verification": "selected_original_scope_content_checked; not entire paper/proof audit",
+      "retrieved_at": "2026-10-20T19:41:01.863842+00:00",
+      "content_bytes_pinned": false
+    },
+    "Steinerberger2024": {
+      "url": "https://arxiv.org/html/2402.13202v1",
+      "locator": "Sections1.3,2 complete short proof; Section3.3 quantitative conjectures",
+      "scope": "Flat real Littlewood polynomials give circulant matrices with dimension-independent upper/lower singular bounds; DFT-root magnitudes are singular values. Exact orthogonality and approximate conditioning differ. Quantitative deviation n^(1/4) is conjectured there, not proved by F179.",
+      "version": "arXiv v1 2024-02-20",
+      "verification": "selected_original_scope_content_checked; not entire paper/proof audit",
+      "retrieved_at": "2026-10-20T19:41:01.863842+00:00",
+      "content_bytes_pinned": false
+    },
+    "Kronecker1857": {
+      "url": "https://www.e-rara.ch/download/pdf/5761115.pdf",
+      "locator": "Collected-works reprint PDF pp3-5 Satz I and proof; pp5-6 SatzII outside required use",
+      "scope": "Monic integer polynomial with all roots of modulus one has roots of unity; finite bounded integer coefficient vectors of powered-root polynomials. This scan is a collected-works reprint, not original 1857 journal pagination.",
+      "version": "e-rara collected works volume I reprint",
+      "verification": "selected_original_scope_content_checked; not entire paper/proof audit",
+      "retrieved_at": "2026-10-20T19:41:01.863842+00:00",
+      "content_bytes_pinned": false
+    }
+  },
+  "metadata_only_originals": {
+    "OrozcoLopez2019": {
+      "url": "https://arxiv.org/abs/1907.12683v3",
+      "scope": "Version3 metadata and abstract claim only; no proof or correctness audit; no withdrawal/acceptance inferred."
+    },
+    "Morris2023": {
+      "url": "https://arxiv.org/abs/2302.08346v1",
+      "scope": "Version1 metadata and abstract claim only; no proof or correctness audit; no withdrawal/acceptance inferred."
+    },
+    "Gallardo2024": {
+      "url": "https://arxiv.org/abs/2405.13033v1",
+      "scope": "Version1 metadata and abstract claim only; no proof or correctness audit; no withdrawal/acceptance inferred."
+    },
+    "LoganMossinghoff2017": {
+      "url": "https://combinatorialpress.com/jcmcc-articles/volume-101/double-wieferich-pairs-and-circulant-hadamard-matrices/",
+      "scope": "Journal landing page read,linked12pagePDF has no extracted text; numerical candidate exclusions not checked in original body."
+    }
+  },
+  "formal_scope": {
+    "main": "Selected actual statement B static; registered CirculantHadamard comparator; not built",
+    "full_barker_corollary": "C; odd lengths outside selected additional proof",
+    "additional_even_barker": "Selected actual statement/model/5 modules read; comparator exists but not registered in pinned formalization.yaml",
+    "all_other_named_results": "C per source binding; whole proof concordance not audited",
+    "full_dependency_grade": "unknown",
+    "local_build": "not_run",
+    "comparator": "not_run",
+    "human_math_specification_review": "missing"
+  },
+  "notes": [
+    "All7TeX1049lines and1bib191lines read; one manuscript,8named results. Whole source draft is not completed family/history audit.",
+    "C4 times C_(u^2) common sign blocks give c,d,g all exact norm u^2. Alternating ratios R=Delta(d)/Delta(c) and W=Delta(g)/Delta(c) have odd order and reduce to1 in ONE ring above2, hence exactly1. Separate t=2 and1+i first-order maps share residue field; Lr+Lw=J/c modulo maximal ideal. Nonempty character terms kill J, empty term u^2/c nonzero: contradiction.",
+    "u=1 has empty prime set; explicit c=d=1,g=i gives even-order W=i, preventing invalid universal odd-torsion extension.",
+    "Difference set equivalence (4u^2,2u^2-u,u^2-u) holds for all positive u before extra arithmetic oddness. General abelian Hadamard constructions do not contradict a cyclic theorem.",
+    "Positive even Barker n>2: periodic C(t)+C(n-t), mod4 congruence and shift2 imply4 divides n and all periodic nontrivial correlations vanish; n2 separate; odd classification old.",
+    "F076 source U approximate all-circle flatness,source S finite-Lp/merit,source L fixedlowerfloor are different quantifiers. n-root DFT flatness does not certify whole circle. Exact F179 does not supply a uniform positive deviation/stability bound.",
+    "APP07601 remains unexecuted; APP07602 six synthetic phase-rounding checks remain adverse. No new counterexamples,enumeration,application check or human review.",
+    "Earlier full-proof claims are logged by version,not accepted or declared D based only on titles/abstracts. Twelve of seventeen bibliography roots lack selected original body verification; recursive history incomplete."
+  ],
+  "retrieval_issues": [
+    "Web screenshot returned content-type errors for3PDF pages; locally rendered exact downloaded2PDFs and visually checked3pages.",
+    "LoganMossinghoff linkedPDF no text extracted; no original-body verification credited."
+  ]
+}

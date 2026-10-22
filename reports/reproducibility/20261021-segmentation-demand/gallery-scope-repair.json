@@ -1,0 +1,17 @@
+{
+  "actual_gallery_lines": 85,
+  "prior_nodes": 10,
+  "prior_source_and_ledger": [
+    {
+      "path": "data/provenance/demand/F-366-segmentation-tool-contracts.json",
+      "archive": "data/provenance/demand/history/F-366-segmentation-tool-contracts.json.before-gallery-scope.gz",
+      "sha256": "f497450f99fa8aca7cde32fccfbdb9fb5dce923ab73ca51ab98d9ca4b1ee7c7a"
+    },
+    {
+      "path": "data/provenance/demand/segmentation-interfaces-20261021.json.gz",
+      "archive": "data/provenance/demand/history/segmentation-interfaces-20261021.json.gz.before-gallery-scope.gz",
+      "sha256": "0de0065884758abfd89ac952fc1356ccef72785d48768a2273f468788ea27f9d"
+    }
+  ],
+  "grades_or_application_counts_changed": false
+}

@@ -1,0 +1,249 @@
+{
+  "family_id": "F-089",
+  "work_package": "WP-056",
+  "generation_id": "GEN-20261021-053",
+  "recorded_at": "2026-10-20T23:33:16.831459+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "selected_source_lines": 1712,
+  "sources": {
+    "pgmpy/LICENSE": {
+      "url": "https://raw.githubusercontent.com/pgmpy/pgmpy/82e589d5a8ac16973b668f97425445d89cb3ac26/LICENSE",
+      "repository": "https://github.com/pgmpy/pgmpy",
+      "revision": "82e589d5a8ac16973b668f97425445d89cb3ac26",
+      "path": "LICENSE",
+      "sha256": "89171dcc8977530b0c101fbbb1c1d34caee998fc7def9eded629753cd2616a15",
+      "bytes": 1083,
+      "read_ranges": [
+        [
+          1,
+          20
+        ]
+      ],
+      "read_lines": 20,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "pgmpy/pgmpy/sampling/Sampling.py": {
+      "url": "https://raw.githubusercontent.com/pgmpy/pgmpy/82e589d5a8ac16973b668f97425445d89cb3ac26/pgmpy/sampling/Sampling.py",
+      "repository": "https://github.com/pgmpy/pgmpy",
+      "revision": "82e589d5a8ac16973b668f97425445d89cb3ac26",
+      "path": "pgmpy/sampling/Sampling.py",
+      "sha256": "6475c83089f4979be2ce1090ce2c4a82d46b5c91d36f86596fa365ca666bb2a1",
+      "bytes": 23117,
+      "read_ranges": [
+        [
+          1,
+          255
+        ]
+      ],
+      "read_lines": 255,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "pgmpy/pgmpy/models/DiscreteBayesianNetwork.py": {
+      "url": "https://raw.githubusercontent.com/pgmpy/pgmpy/82e589d5a8ac16973b668f97425445d89cb3ac26/pgmpy/models/DiscreteBayesianNetwork.py",
+      "repository": "https://github.com/pgmpy/pgmpy",
+      "revision": "82e589d5a8ac16973b668f97425445d89cb3ac26",
+      "path": "pgmpy/models/DiscreteBayesianNetwork.py",
+      "sha256": "f9074144551b36615aaa18cd61e911d4d1b732bd7c77a08fe3bbfeb062f22aff",
+      "bytes": 66236,
+      "read_ranges": [
+        [
+          457,
+          505
+        ],
+        [
+          1390,
+          1687
+        ]
+      ],
+      "read_lines": 347,
+      "full_file_retained": true,
+      "full_file_read": false,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "pgmpy/pgmpy/models/JunctionTree.py": {
+      "url": "https://raw.githubusercontent.com/pgmpy/pgmpy/82e589d5a8ac16973b668f97425445d89cb3ac26/pgmpy/models/JunctionTree.py",
+      "repository": "https://github.com/pgmpy/pgmpy",
+      "revision": "82e589d5a8ac16973b668f97425445d89cb3ac26",
+      "path": "pgmpy/models/JunctionTree.py",
+      "sha256": "dc4afe04bd276c7f4eb195f3566f9cd4e3e638adcb769ef378d7ef8913d5db53",
+      "bytes": 4894,
+      "read_ranges": [
+        [
+          1,
+          154
+        ]
+      ],
+      "read_lines": 154,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "datasynthesizer/LICENSE": {
+      "url": "https://raw.githubusercontent.com/DataResponsibly/DataSynthesizer/b969f618015d6313d03e109ad58aae2f8b12124d/LICENSE",
+      "repository": "https://github.com/DataResponsibly/DataSynthesizer",
+      "revision": "b969f618015d6313d03e109ad58aae2f8b12124d",
+      "path": "LICENSE",
+      "sha256": "71f27f6f1bc7976f4cb3cf4327ce90be10a9d0c714c0c9a9b21f6efa4c278b0b",
+      "bytes": 1077,
+      "read_ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "read_lines": 22,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "datasynthesizer/README.md": {
+      "url": "https://raw.githubusercontent.com/DataResponsibly/DataSynthesizer/b969f618015d6313d03e109ad58aae2f8b12124d/README.md",
+      "repository": "https://github.com/DataResponsibly/DataSynthesizer",
+      "revision": "b969f618015d6313d03e109ad58aae2f8b12124d",
+      "path": "README.md",
+      "sha256": "883e8acd43b4698840ab4cf03cd89fb77b8278fcc7c89e72e1493d4a72832978",
+      "bytes": 1898,
+      "read_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "read_lines": 35,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "datasynthesizer/DataSynthesizer/DataGenerator.py": {
+      "url": "https://raw.githubusercontent.com/DataResponsibly/DataSynthesizer/b969f618015d6313d03e109ad58aae2f8b12124d/DataSynthesizer/DataGenerator.py",
+      "repository": "https://github.com/DataResponsibly/DataSynthesizer",
+      "revision": "b969f618015d6313d03e109ad58aae2f8b12124d",
+      "path": "DataSynthesizer/DataGenerator.py",
+      "sha256": "be6240abac6eef27d4389170833aaa338339476d52c90c1a402481111e235320",
+      "bytes": 6338,
+      "read_ranges": [
+        [
+          1,
+          132
+        ]
+      ],
+      "read_lines": 132,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "datasynthesizer/DataSynthesizer/DataDescriber.py": {
+      "url": "https://raw.githubusercontent.com/DataResponsibly/DataSynthesizer/b969f618015d6313d03e109ad58aae2f8b12124d/DataSynthesizer/DataDescriber.py",
+      "repository": "https://github.com/DataResponsibly/DataSynthesizer",
+      "revision": "b969f618015d6313d03e109ad58aae2f8b12124d",
+      "path": "DataSynthesizer/DataDescriber.py",
+      "sha256": "e73e2cbd4f42652bd21a946f1a67f5e53265e70e312f4a7caf70702479cfe73e",
+      "bytes": 17200,
+      "read_ranges": [
+        [
+          1,
+          315
+        ]
+      ],
+      "read_lines": 315,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "datasynthesizer/DataSynthesizer/ModelInspector.py": {
+      "url": "https://raw.githubusercontent.com/DataResponsibly/DataSynthesizer/b969f618015d6313d03e109ad58aae2f8b12124d/DataSynthesizer/ModelInspector.py",
+      "repository": "https://github.com/DataResponsibly/DataSynthesizer",
+      "revision": "b969f618015d6313d03e109ad58aae2f8b12124d",
+      "path": "DataSynthesizer/ModelInspector.py",
+      "sha256": "9bc1e0226689e8d10fd3b7246eec1960e23fde806d605c02057c2238c85b14e5",
+      "bytes": 5925,
+      "read_ranges": [
+        [
+          1,
+          140
+        ]
+      ],
+      "read_lines": 140,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    },
+    "datasynthesizer/DataSynthesizer/lib/PrivBayes.py": {
+      "url": "https://raw.githubusercontent.com/DataResponsibly/DataSynthesizer/b969f618015d6313d03e109ad58aae2f8b12124d/DataSynthesizer/lib/PrivBayes.py",
+      "repository": "https://github.com/DataResponsibly/DataSynthesizer",
+      "revision": "b969f618015d6313d03e109ad58aae2f8b12124d",
+      "path": "DataSynthesizer/lib/PrivBayes.py",
+      "sha256": "07655ee0ba6ee4b113957abc5c9558a924bf9135a6552f88a765a646f57106c0",
+      "bytes": 10921,
+      "read_ranges": [
+        [
+          1,
+          292
+        ]
+      ],
+      "read_lines": 292,
+      "full_file_retained": true,
+      "full_file_read": true,
+      "license": "MIT;complete corresponding repository LICENSE retained"
+    }
+  },
+  "archive": {
+    "path": "data/provenance/demand/scenario-interfaces-20261021.json.gz",
+    "gzip_sha256": "53eb7983071d367ffe399cab8501fde26a78ef7547ded7892d951990adceff2c",
+    "uncompressed_sha256": "4affb5f327bfa0e6a392d27537cee09cbb82dc671d9fd1249b2be6a622a36048",
+    "gzip_bytes": 29702,
+    "members": 10,
+    "roundtrip": true
+  },
+  "selected_primary_versions": [
+    {
+      "title": "DataSynthesizer: Privacy-Preserving Synthetic Datasets",
+      "authors": [
+        "Haoyue Ping",
+        "Julia Stoyanovich",
+        "Bill Howe"
+      ],
+      "doi": "10.1145/3085504.3091117",
+      "publication": "SSDBM2017,42:1–42:5;not SIGMOD",
+      "url": "https://faculty.washington.edu/billhowe/publications/pdfs/ping17datasynthesizer.pdf",
+      "pdf_sha256": "885f8e9cbf5a4d74ad55b5a99c8cdb42f07dfc26b5367c5d0fb7b6e6422da704",
+      "text_sha256": "f5392aef34dfb2e222d597ecfd763e42e1b5386bbf97436aaeb445d6e6d0fa71",
+      "actual_text_range": [
+        1,
+        344
+      ],
+      "scope": "Whole five-page extracted text including algorithms/captions/references actually read;figure pixels not inspected, cited PrivBayes/Dwork original proofs not read. PDF metadata creation2018 does not change printedSSDBM2017 identity.",
+      "original_paper_redistributed": false
+    }
+  ],
+  "contracts": {
+    "pgmpy_input": "Finite discrete DAG,TabularCPDs/cardinalities/state names;simulate calls check_model and copies model. check_model documents normalization tolerance0.01 and delegates CPD validity;not exact rational certification. No supplied global item metric/field Lipschitz/cutoff or downstream diversity objective in selected API.",
+    "pgmpy_sampling": "Forward sampler visits topological order, uses the full already-sampled parent-state tuple to select CPD, includes/excludes latents. partial_samples substitutes supplied values and bypasses their CPD, so it is not general posterior conditioning. simulate evidence goes to rejection sampling; virtual_evidence is restricted to individual-variable CPDs. No evidence event positivity check or iteration cap in selected rejection body;do not promise bounded cost for zero/rare evidence. All static,not executed.",
+    "pgmpy_junction_tree": "Clique/separator representation with potentials,cycle rejection and connectedness plus superclass checks. Selected file does not establish that arbitrary user-supplied clique potentials are normalized consistent bag marginals or independently prove all running-intersection checks;ClusterGraph/ExactInference not read. Do not identify potential multiplication with preserving specified bag laws.",
+    "datasynthesizer_input": "Private CSV tabular attributes,not an item-similarity graph/decomposition. Bins,domains,categorical/candidate-key flags. Correlated mode encodes bins,learns a DAG with at most k PARENTS (not treewidth/bag cardinality),then estimates conditional laws. k=0 calls calculate_k;no claim effective Ck or known treewidth.",
+    "datasynthesizer_generation": "Root distribution and ordered child CPDs over complete parent-instance tuples produce synthetic rows,not human reviews. Missing CPD parent entries fall back to unconditional attribute probabilities;this is not a certificate of preserving externally supplied full separator laws. Numeric bin decoding/other datatype helpers not fully audited.",
+    "datasynthesizer_estimation": "First k+1 attribute count table reused for initial CPDs,later parent+child noisy count tables separate;clip negative counts then normalize. Full categorical Cartesian products materialized in chunks and concatenated;chunk size is not a bound on total table memory. Original-paper DP formula and current implementation not independently certified or reproduced.",
+    "actual_consumer_judge": "Original urban collaboration demonstration asks structurally/statistically similar but visibly synthetic tabular data;examples include homelessness services,ProPublica sentencing and UCI. ModelInspector compares univariate distributions/KL/KS and pairwise mutual information,not metric Lipschitz/symmetric complete bag laws/remote binary-label uncertainty per stored field. No data downloaded and no downstream service/model benefit checked.",
+    "old_gluing_derivation": "Given an ACTUAL running-intersection tree and nonnegative normalized complete bag laws with identical separator marginals:sample root bag then each child-new-variable block from mu_child(s,new)/mu_separator(s). Zero separator mass is unreachable under consistent root propagation;an arbitrary conditional there does not change joint law. This follows already-read natural old gluing contract,not an executed pgmpy arbitrary-clique adapter. Block-to-scalar chain-rule conversion may require exponential tables in bag cardinality. Selecting/learning feasible bag laws and optimizing diversity remain separate problems.",
+    "law_vs_sample": "Ancestral generation implements a joint distribution in ideal arithmetic;finite empirical sample frequencies do not exactly equal prescribed laws. No library float output is an exact rational witness by inspection. Conditional law fidelity alone does not prove privacy,semantic realism or utility.",
+    "decision": "No actual audited consumer establishes the candidate conjunction of full symmetric threshold bag-law preservation,global metric Lipschitz envelope and endpoint-diversity objective. Old conditional sampling already covers the compatible-law sampling subtask. Lower APP08901 numerical implementation priority;retain conditional far candidate,not formally rejected,not an initial check;next non-geometry F243."
+  },
+  "decisions": [
+    "No actual audited consumer establishes the candidate conjunction of full symmetric threshold bag-law preservation,global metric Lipschitz envelope and endpoint-diversity objective. Old conditional sampling already covers the compatible-law sampling subtask. Lower APP08901 numerical implementation priority;retain conditional far candidate,not formally rejected,not an initial check;next non-geometry F243."
+  ],
+  "unresolved": [
+    "No actual eligible item-context consumer/data/semantic coverage judge.",
+    "No implementation of new particle construction,matched feasible-law optimizer,software runtime or privacy audit.",
+    "Superclass,CPD validity internals,exact inference,datatype helpers and all dependencies not fully read.",
+    "No human math audit,independent provider or new numerical output."
+  ],
+  "numerical_runs": [],
+  "initial_check_eligible": false,
+  "source_methods_credibility": "C",
+  "full_dependency_chain": "unknown"
+}

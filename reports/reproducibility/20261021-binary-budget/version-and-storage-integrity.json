@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-20T21:40:27.116653+00:00",
+  "old_canonical_nodes_unchanged": 1949,
+  "changed_nodes_archived_exactly": [
+    {
+      "id": "ANALYSIS-F-119",
+      "path": "data/graph/history/ANALYSIS-F-119-v1.json.gz",
+      "gzip_sha256": "6b805a358133cbaa85d8a56ad20cf9e08e6b15d55074dc5cafd4848f737c52f2",
+      "decompressed_sha256": "3a214888679c0f3caa5af5e29ddd3b0a53c06e2bb1fdc0fc5df795f25c0b03f6",
+      "old_node_matches_HEAD": true
+    },
+    {
+      "id": "APP-119-01",
+      "path": "data/graph/history/APP-119-01-v1.json.gz",
+      "gzip_sha256": "5926204905205f9f5232fae14d02d92f315f4fe1e0ffb698f55ab32332bca507",
+      "decompressed_sha256": "bf89188291167371f9684d2f0f131bb7475ab7f504bf66170b4b72d770743222",
+      "old_node_matches_HEAD": true
+    }
+  ],
+  "all_13_source_snapshots_have_complete_input_keys": true,
+  "no_upstream_copy": true,
+  "no_dependencies_installed": true,
+  "no_uncompressed_raw_or_summary": true,
+  "actual_affected_replay": "EXP-119-001-e9d098be0b1dda8f",
+  "new_numerical_hypotheses": 1
+}

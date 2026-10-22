@@ -1,0 +1,123 @@
+{
+  "recorded_at": "2026-10-20T23:24:04.180348+00:00",
+  "prior_canonical_nodes_exactly_unchanged": 2215,
+  "prior_canonical_bytes_sha256": "e6f481e45588863f7219560c43b9e36f37fa26ce3e27afd55fc433c24cc7ebcb",
+  "new_url_source_v1_before_representation_fix_retained": true,
+  "read_natural_files_hashes_verified": 27,
+  "selected_formal_files_hashes_verified": 12,
+  "static_index_files": 96,
+  "all13archives_verified": true,
+  "actual_replays": [
+    "EXP314 limited support",
+    "EXP076 adverse"
+  ],
+  "temporary_files": [
+    {
+      "name": "fpt.txt",
+      "bytes": 54444,
+      "sha256": "28859fece473fc0d77282cda87929b931482cc7731d9ab7801a3d4673763349c",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "fpt-p2.png",
+      "bytes": 417135,
+      "sha256": "b4aa62b60b1a57c6cdd3cdd243964447f3979997d3cbe1a7d664c27a5da3c915",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "padding.pdf",
+      "bytes": 649946,
+      "sha256": "7b8b87a032454a86afcf9af0b1bae7f4a7c66a752fc973a4dbefc8886499f598",
+      "scope": "Incomplete historical PDF bytes,not counted as completeoriginal"
+    },
+    {
+      "name": "fpt.pdf",
+      "bytes": 294849,
+      "sha256": "5522bbce431879dac7136d97a87ab7639dc9c9ad36c30af94e6bd52a80c86172",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "ls09-p248.png",
+      "bytes": 504539,
+      "sha256": "820c80cb8793523f5a2104db85b04ca4fa62691361c13e5fe5be36640d120b8f",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "afgn.pdf",
+      "bytes": 845676,
+      "sha256": "a117e7823baf2bbfdf1d7dbb14eee005ffb5f6e0169ddc601a5276c1ba05d461",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "gnrs-p7.png",
+      "bytes": 204624,
+      "sha256": "7060c5b388c1cd9e49ff7a7815b7d183e8281d58a01d369ab3b22818078988b2",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "gnrs.txt",
+      "bytes": 100167,
+      "sha256": "f3b8bc5a10cb01305eecd684cc4d45f6f81012254d1490fd11f6aefbe0490333",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "gtw.pdf",
+      "bytes": 552429,
+      "sha256": "f8958c210484fb8a67ec0185fc67e4defea6151e3c2092f1b0c22a89aad086c6",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "ls09.txt",
+      "bytes": 87409,
+      "sha256": "36af18ba560968609e9d65fccb9ffda131ea815280a105caa0e57c31247bb07f",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "ckr.txt",
+      "bytes": 80108,
+      "sha256": "a1c0dd4d7245ceda27a3caf9e2726688a1903b1c7ed13d68ec38824063e4f18a",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "gnrs.pdf",
+      "bytes": 378877,
+      "sha256": "3a3f3f76c228701b8ad5074fbecef943e2900161469f2716a78a22a07c19131d",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "afgn.txt",
+      "bytes": 97223,
+      "sha256": "22fa7d5fde12d20df3f2e21e9d9044e802aeb1c1af66e4de9173f3680ef95931",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "ls09.pdf",
+      "bytes": 573822,
+      "sha256": "618ec9ca63b7e53dbeb371e3266e13b7cf60c335cb987b83bf7caabd8ed3e2e3",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "ckr.pdf",
+      "bytes": 279027,
+      "sha256": "115e8774bf4cb65949c55d4bb90254ef8f32eb6ae8fc50be0124b44131515ff1",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    },
+    {
+      "name": "gtw.txt",
+      "bytes": 104415,
+      "sha256": "11ff3ce953566ea555111b3cecd8ba54d7af5cc71cd451f5e52fa210c387e016",
+      "scope": "Actual selected original or pixel;full paper not redistributed"
+    }
+  ],
+  "temporary_bytes_removed": 5224690,
+  "temporary_directory_removed": true,
+  "external_web_scopes_without_complete_local_hash": [
+    "2025TheoretiCSpadding selected originalwebPDFtext",
+    "2023SIAMcorrigendum actualfullHTML/PDFwebtext"
+  ],
+  "no_fake_missing_hash": true,
+  "upstream_unchanged_and_clean": true,
+  "dependencies_installed": false,
+  "new_application_run": false,
+  "third_party_papers_redistributed": false
+}

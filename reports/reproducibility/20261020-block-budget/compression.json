@@ -1,0 +1,10 @@
+{
+  "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+  "compressed_and_decompressed_hash_checks": {
+    "raw.json.gz": true,
+    "summary.json.gz": true
+  },
+  "all_output_hashes_match": true,
+  "uncompressed_raw_or_summary_on_disk": false,
+  "new_graph_history_versions_gzip": true
+}

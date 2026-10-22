@@ -1,0 +1,10 @@
+{
+  "recorded_at": "2026-10-20T14:13:05.822644+00:00",
+  "command": "python3 scripts/check.py",
+  "exit_code": 0,
+  "tests": 27,
+  "canonical_validation": "passed",
+  "report_generation": "passed",
+  "Lean_build": "not_run",
+  "experiments_rerun": "none;no numerical code orspecchanges"
+}

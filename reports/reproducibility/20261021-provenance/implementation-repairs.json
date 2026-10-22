@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-20T17:16:44.315503+00:00",
+  "failures": [
+    {
+      "stage": "First strict archive validation",
+      "error": "Prior-version archive identity/version mismatch: EXPLORE-F-149-001",
+      "cause": "New validator incorrectly assumed every historical archive was a single node;existing valid archives use records/nodes batch wrappers.",
+      "repair": "Handle exactly one matching predecessor inside all three existing formats;add real regression cases. No canonical records changed."
+    },
+    {
+      "stage": "First full42-test run with stricter envelope",
+      "error": "PROB-221-INFERENCE extra field updated_by_generation_id",
+      "cause": "Existing documented generation-reference metadata missing from strict schema.",
+      "repair": "Explicit optional schema field plus generation foreign-key validation;reject unknown fields. No blanket additionalProperties allowance."
+    }
+  ],
+  "final_checks": "42coretests andactualcitationroundtrippassed;clean/fullgraphreceiptsseparate",
+  "mathematical_claims_changed": false,
+  "numerical_outputs_changed": false
+}

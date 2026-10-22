@@ -1,0 +1,54 @@
+{
+  "recorded_at": "2026-10-20T20:00:07.738511+00:00",
+  "source_archives": [
+    {
+      "path": "reports/reproducibility/20261021-common-bases/curation-first-source.py.gz",
+      "gzip_bytes": 14859,
+      "sha256": "858ccb09b3a61d41a850395a0e4e04eca21bcc0f62ec69d30a9fb24adfcf41a0",
+      "decompressed_sha256": "ba2d6d23c5c0e3987ad05042f9c664738752129d74daa2a412d9e23de6b18e0b",
+      "roundtrip_verified": true
+    },
+    {
+      "path": "reports/reproducibility/20261021-common-bases/curation-final-source.py.gz",
+      "gzip_bytes": 14869,
+      "sha256": "1f98d280c251562e49cb1c721059303a1d80779f7d40bc1fb0fe754bcc9730f2",
+      "decompressed_sha256": "98cfdb85147a979da838c45c01ec938d2201023c2171b945c499baad48eb4a20",
+      "roundtrip_verified": true
+    },
+    {
+      "path": "reports/reproducibility/20261021-common-bases/quality-before-readability-source.py.gz",
+      "gzip_bytes": 2329,
+      "sha256": "40cb7985903291a588de4024606a550d44611a76ae1d30c83a713c13b9b0ac30",
+      "decompressed_sha256": "0149fd6110df75b4e78551c937dadd12d5ebbd5e1133c5ed9ae58e7488759e83",
+      "roundtrip_verified": true
+    },
+    {
+      "path": "reports/reproducibility/20261021-common-bases/quality-source.py.gz",
+      "gzip_bytes": 2380,
+      "sha256": "234c2dffb2b61e08bcf472adf863ab037d8e72d34f55918ee12acb95dac68bee",
+      "decompressed_sha256": "45020d22f634cee902d9c9e1e3235cc514740dc548e0677c7b8564e3112a9ee7",
+      "roundtrip_verified": true
+    },
+    {
+      "path": "reports/reproducibility/20261021-common-bases/readability-repair-source.py.gz",
+      "gzip_bytes": 3812,
+      "sha256": "2b4e1431dd3aa20e1ecdc2a5dbc321e2a668de2333e56e1caa2455caafb83404",
+      "decompressed_sha256": "8f7157547778c150a573f2613ca6bfc7d50593cd8d40abbbd86ba1defaad6232",
+      "roundtrip_verified": true
+    }
+  ],
+  "temporary_scripts_and_log_removed": 3,
+  "external_paper_bytes_downloaded_locally": 0,
+  "new_numerical_experiment": false,
+  "replayed_temporary_outputs": "Original archive-source replay only;TemporaryDirectory auto-removed",
+  "upstream_copied": false,
+  "large_dependencies_installed": false,
+  "additional_temporary_script_removals": 2,
+  "actual_directory_sizes_observed": {
+    "data": "16MiB rounded du",
+    "reports": "13MiB rounded du",
+    "experiments": "1.6MiB rounded du",
+    "math": "Existing read-only upstream excluded;notcopied"
+  },
+  "followup_recorded_at": "2026-10-20T20:03:59.356827+00:00"
+}

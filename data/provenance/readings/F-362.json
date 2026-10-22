@@ -1,0 +1,398 @@
+{
+  "family_id": "F-362",
+  "generation_id": "GEN-20261021-042",
+  "recorded_at": "2026-10-20T20:56:51.657764+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-8d5f9c2ed90564ce",
+  "body_source_lines": 3463,
+  "total_tex_lines": 3629,
+  "bibliography_lines": 372,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/figures/figure-dependencies-caption.tex",
+      "sha256": "8ac9c8b5dc1bc1b798eace722078c651d9c719b9c7219cbca5e6fcc7249adad7",
+      "lines": 7,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/figures/figure-dependencies.tex",
+      "sha256": "70c93d8d4a81d91b902c031e1078e202bcfb82b941748a58765baff89b6cb1b6",
+      "lines": 35,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/figures/figure-retarded.tex",
+      "sha256": "9ce4d4b9be645535fd8d9f3ea7f551166e13c823f46c7db15f1f2beaf64620cd",
+      "lines": 63,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/main.tex",
+      "sha256": "317160462afa0d68a6f8ba72cab9f29726b0f7903be3c12f4c8a0b3d54250236",
+      "lines": 61,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/cancellation.tex",
+      "sha256": "6b615a3b4ba0fbb6d04ea2e88b441dabdd51f6b33fc976b23407413fc9ae162a",
+      "lines": 382,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/closure.tex",
+      "sha256": "499230223647c95c6e9d536c78e9cd5dd098a011d9213b733daaab3d8bba8e89",
+      "lines": 87,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/continuation.tex",
+      "sha256": "82bd03affe1b8f623bac5725a57595289cb1caa0355c217c605c3a4bd27a4060",
+      "lines": 490,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/direct.tex",
+      "sha256": "aed0cd43a04c66b5ffb4bb30de2377dafa1eaa58a6c5e7d0c40865662f9e6de1",
+      "lines": 428,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/direction.tex",
+      "sha256": "aeab95505df9a9d2b8bca153832ea69039eb0fa078788775ea15e34fb8531432",
+      "lines": 377,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/introduction.tex",
+      "sha256": "09040019b94a641c4a0c4e5deda7c16ee4855daf0f398e692e1825f831da3de4",
+      "lines": 227,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/occupation.tex",
+      "sha256": "c9bd0387061b620018c710dd9f660564adf8c38ff2385ee134923f86bf8d3307",
+      "lines": 416,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/retarded.tex",
+      "sha256": "eedf365c0be2cefacecc93c2825b4991ccad1d32826d83aa24eb4b63ccf37be2",
+      "lines": 428,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/selection.tex",
+      "sha256": "1ece8e662bff978906fbc1ddc578ea09a89322accee598d043aa3a7403583445",
+      "lines": 488,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/setup.tex",
+      "sha256": "40a7d4abe6fa5d9dc96a6ffd689e602a10bb7a1cf3bd9fd8f0caa70cf72a9cf7",
+      "lines": 140,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/references.bib",
+      "sha256": "7d8b1f1bd74f759c8a1001abf572ad28870bbba572226cf6ca0118023b3d969e",
+      "lines": 372,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/README.md",
+      "sha256": "ceb1270373ac609e16f44070b021260c29d7e6588ef85cf88ab7321f2e9a6e9f",
+      "lines": 18,
+      "read_scope": "Whole naturalfile/proofs/figure orallbibliographyentries actuallyread"
+    }
+  ],
+  "result_notes": {
+    "thm:global": {
+      "statement": "三维单组分相对论Vlasov–Maxwell的任意光滑容许初值产生唯一全局经典解，每个有限时段光滑且粒子相空间支撑紧。",
+      "conditions": "R3位置与R3动量；f0非负光滑紧支撑；E0/B0每阶导有界且L2，满足Gauss；无小性、对称性、中性或背景电荷。",
+      "constants_and_limits": "有限T支撑界可随T增长；不是多组分、周期中性化PIC的稳定性、时间步数或可计算误差保证。实际Model/Main/Comparator主规格静态B；全部207文件证明、构建和数学人审未做。",
+      "selected_grade": "B"
+    },
+    "prop:increment": {
+      "statement": "固定初值/有限时域存在M,A,P0，使受支撑特征在能量带内的有向动量增量≤MP√Δt+AΔt P²log(2+P)/w。",
+      "conditions": "P为dyad且≥1024倍当前紧时段所有受支撑q；w为dyad；全区间w/8≤qX≤8w。M,A≥1独立于P和该紧区间。",
+      "constants_and_limits": "先选端点权重η，再M、A、最后P0；存在常数不等于已知仿真预算。不能把积分后范数换为力范数积分。",
+      "selected_grade": "C"
+    },
+    "prop:continuation": {
+      "statement": "容许初值有唯一极大经典解并在紧子时段光滑；有限极大时间前动量支撑一致有界则可延拓。",
+      "conditions": "经典解为点态C1、场CtL2、每紧时段粒子紧支撑；场初值仅Cb∞∩L2，无全局H5导数假设。",
+      "constants_and_limits": "先有H6局部理论、C1唯一性、高阶驯估计，再保Gauss的外域修改和真空转移；不是以每个已闭合时段有界偷换排除端点的一致有界。",
+      "selected_grade": "C"
+    },
+    "ret:energy": {
+      "statement": "特征保相体积、输运f0并保总能量；光锥上的切向好场G与粒子加权能量通量≤4H0。",
+      "conditions": "G=|E+n×B|+|n·B|，d=1−n·u；有限能量经典解及紧粒子支撑。",
+      "constants_and_limits": "光锥只控制指定场分量；不能据此控制全部场的点态大小或全部高阶导。",
+      "selected_grade": "C"
+    },
+    "ret:phase-change": {
+      "statement": "非锥尖的延迟相点到初始标签映射单射，Jacobian为dz=d dy dv；延迟根s+|x−Y(s,z)|=t唯一。",
+      "conditions": "亚光速源轨迹；初始标签位于后向光锥初始球；移除零测锥尖标签。",
+      "constants_and_limits": "势含1/(rd)；这是已有Lazarovici源标签换元的重推导，不是新增粒子近似率。",
+      "selected_grade": "C"
+    },
+    "ret:representation": {
+      "statement": "电磁场由自由波、初始球面边界项及延迟标签的输运/加速核精确表示。",
+      "conditions": "自由波初导为curlB0/−curlE0；源加速b=q^-1(Id−u⊗u)(E+u×B)，核含r^-2q^-2d^-3与r^-1d^-3。",
+      "constants_and_limits": "初始边界项不可删；这里两个自由波未必合成真空Maxwell对；势的电初导−j0另须计入。锥尖截断去除的中间常数不等于最终P一致常数。",
+      "selected_grade": "C"
+    },
+    "ret:direct-bounds": {
+      "statement": "输运分成法向与切向，源加速受G和B控制；投影到接收粒子动量正交平面后再获一个φ因子。",
+      "conditions": "θ²∼d，φ²∼D=1−n·a；加速核与锥法向的相消；接收动量非零。",
+      "constants_and_limits": "角尺度含逆动量缺额，不是裸几何角；已有Pallard2015正交相消属于历史输入。",
+      "selected_grade": "C"
+    },
+    "ret:receiver-time": {
+      "statement": "延迟源时间到接收时间dt/ds=d/D，测度ds f0dz=Ddt fdy dv；几乎所有标签无同一时刻碰撞。",
+      "conditions": "沿指定接收轨迹、非碰撞延迟分支；f0dz测度；初始锥进入后。",
+      "constants_and_limits": "闭分支上r正下界逐标签成立，非全标签统一下界；不能省略D或与源标签Jacobian混用。",
+      "selected_grade": "C"
+    },
+    "occ:crude-lemma": {
+      "statement": "箱命中质量同时≤C max(I,h)/p及CIφ²/θ²。",
+      "conditions": "dyadic源动量/接收动量、半径和角箱；接收合格时间在长度≤I的区间，I≤(w/P)²。",
+      "constants_and_limits": "非负箱估计可用于合格可测时间子集；不把任意离散采样命中率视为此连续质量。",
+      "selected_grade": "C"
+    },
+    "occ:cell-lemma": {
+      "statement": "每个实际箱的命中质量≤Chk1/p·max(1,I/λ,h/λ)。",
+      "conditions": "先假定有向增量bootstrap；λ=[C1(P/m)(M/ω+√(AL/ω))]^-2；m=min(p,w)，区分实际角与逆动量缺额。",
+      "constants_and_limits": "稳定单元和单调穿越要先验证；M/A/λ随bootstrap条件，非无条件粒子数预算。",
+      "selected_grade": "C"
+    },
+    "occ:refined-proposition": {
+      "statement": "在适用箱中以共享E_pφ预算改善占据，Mhit≤Chk1/p·(1+(I/λ)E)，并得R²形式。",
+      "conditions": "h≤I且排除h≤λ的缺额箱；小扇区E=E_pφ，余扇区E=1；联合p,φ预算独立θ,h。",
+      "constants_and_limits": "全h形式仍排除h≤min(I,λ)缺额箱；不可给每个θ/h独立重复使用同一能量预算。",
+      "selected_grade": "C"
+    },
+    "dir:direct": {
+      "statement": "输运/磁项/余扇区好场基线≤C[P√I+(M+√A)IS(w)]；全力绝对值积分多√w。",
+      "conditions": "有向增量bootstrap和联合场/占据预算；非负项允许合格可测子集。",
+      "constants_and_limits": "全绝对力估计不足以关闭原bootstrap；必须用后续有向相消，不能把√w删掉。",
+      "selected_grade": "C"
+    },
+    "can:identity": {
+      "statement": "沿源标签合并输运与源加速，写成−(k0/(rd))′加几何R与接收加速A两项。",
+      "conditions": "k0=u−(e/D)n，e=1−a·u；非锥尖、非碰撞分支；在正确测度中再乘D。",
+      "constants_and_limits": "R/A不含源加速b的坏分母，但原函数仍含d；接收加速a_t仍乘全力，尚未完成估计。",
+      "selected_grade": "C"
+    },
+    "can:cutoff-cancellation": {
+      "statement": "固定选中箱的截断和导数等于未选中和的负导数，且只在邻接重叠处非零。",
+      "conditions": "先抽出共同物理乘子；选择索引只依赖固定参数/区间而非被微分变量；相邻代表倍数≤4。",
+      "constants_and_limits": "不可对不同物理核的加权和直接相消，也不可对随时间重新选择的集合忽略选择导数。",
+      "selected_grade": "C"
+    },
+    "can:weighted-formula": {
+      "statement": "零端点Lipschitz时间权重下逐标签分部积分，保留初始锥边界、权重/截断导数及移动矩阵Π_t。",
+      "conditions": "固定选中箱和有界C1矩阵；Π=Id或wP_X/|VX|的专门核界，普通Π保留显式导数成本。",
+      "constants_and_limits": "移动投影纵向k0部分不可丢；初始边界有正号与受控成本，锥尖用支配移除而非统一r下界。",
+      "selected_grade": "C"
+    },
+    "ang:direction": {
+      "statement": "高接收能量轨迹的方向首退出划分，单元数≤C(M,A)L6/δ。",
+      "conditions": "w≥P^(3/5)，δ在w^(-3/5)到w^(-1/10)，J长≤(w/P)²且全段能量带；P充分大。",
+      "constants_and_limits": "此步只用基线与第一次有向选择，不借后面的改善占据，从而保留实际证明依赖次序。",
+      "selected_grade": "C"
+    },
+    "ang:improved-hit": {
+      "statement": "在高动量/中间接收角窗口，Mhit≤C(h/p)φ^(-29/25)max(1,I/Im0,h/Im0)。",
+      "conditions": "p,w≥P^.7；φ在j^(-.49)到j^(-.16)对j=p,w均成立；Im0=(min(p,w)/P)²；P≥P*(M,A)。",
+      "constants_and_limits": "C独立M,A而门槛依赖M,A；好坏命中划分共用接收单元与逐标签源单元，不能把数量相乘或扩大到所有角。",
+      "selected_grade": "C"
+    },
+    "sel:weight-sum": {
+      "statement": "W=(Pθ)^(-ε)φ^εh^ε可求和，未选中小扇区好场总成本≤CP√I。",
+      "conditions": "ε=10^-5为精确有理数；固定dyadic分解与所定义的选中不等式。",
+      "constants_and_limits": "不是通过浮点拟合指数得到；未选中有界不说明已选中力可以逐项取绝对值。",
+      "selected_grade": "C"
+    },
+    "sel:exponents": {
+      "statement": "固定M,A后充分大P使每个选中箱U≤w^-1/2 W。",
+      "conditions": "U=w^-1min[h²(pθ)³,1/(pθhφ²)]；先由不安全箱强制实际分离/高能量/中间角，再调用改善占据。",
+      "constants_and_limits": "选取依据是纯占据表达式的精确代表最小值，无隐藏常数；反证指数裕度不是可直接执行的P0值。",
+      "selected_grade": "C"
+    },
+    "sel:spatial-sum": {
+      "statement": "选中项的空间截断导数总误差≤C B(I,w)。",
+      "conditions": "在邻接过渡箱上θ与半径双几何求和，保留共享E_pφ预算。",
+      "constants_and_limits": "若逐层各取粗界会额外产生对数，原成本依赖完整联合求和，不能据单箱表移植。",
+      "selected_grade": "C"
+    },
+    "sel:time-weight": {
+      "statement": "时间权重导数总误差≤Cη B(I,w)。",
+      "conditions": "零端点权重的指定斜率；长半径h>I同时使用两项选择不等式。",
+      "constants_and_limits": "η影响常数；任意离散窗口或重新选择的时间权重不自动满足同一成本。",
+      "selected_grade": "C"
+    },
+    "sel:bulk-impulse": {
+      "statement": "加权有向总力≤Cη[P√I+(M+√A)IS(w)]，接收系数w^-1/2抵消全绝对力的√w。",
+      "conditions": "P≥P*(M,A)及既定ψ/固定选择；空间、时间、接收和初始边界项全部纳入。",
+      "constants_and_limits": "恢复端点须用有向bootstrap，依η→M→A→P0顺序严格改进1/2，再闭开论证；不是假设bootstrap后原样重述。",
+      "selected_grade": "C"
+    },
+    "cont:exterior": {
+      "statement": "已存在的闭C1时段外粒子锥处，场等于初始场的真空Maxwell演化；全局一阶空间导有界。",
+      "conditions": "初始场属于每阶Hk，f0空间紧支撑；外部|x|>R0+t。",
+      "constants_and_limits": "这是外域比较工具；原始仅Cb∞∩L2初值需先保Gauss修改，不能直接套Hk假设。",
+      "selected_grade": "C"
+    },
+    "cont:vacuum": {
+      "statement": "散度零Cb∞∩L2初场有全局光滑、CtL2的真空Maxwell解；初场在球内零则在内缩光锥零。",
+      "conditions": "第一阶Maxwell Fourier酉演化与有限传播；每有限时段各空间导有界。",
+      "constants_and_limits": "对无背景非零总电荷保留Coulomb尾，截断散度零向量势而非直接截断E；加回真空只保持粒子锥内场一致，非全空间相同。",
+      "selected_grade": "C"
+    }
+  },
+  "selected_original_scopes": {
+    "LukStrain2014Continuation": {
+      "url": "https://arxiv.org/pdf/1406.0165v1",
+      "file": "luk-strain.pdf",
+      "locator": "1Jun2014v1 selected printedpp2-3 Thm1.1/footnote1,Thm1.2;Prop2.2 andProp5.2 actualstatements",
+      "scope": "H5 data continuation from bounded actual support;footnote separates old approximation condition. Plane projection criterion and cone flux/moving cone inputs. Theirrho=4pi integral f;usefLS=f/(4pi). Fullproof not read.",
+      "pdf_sha256": "a3bbd52e5e9a15ca7219fe52b15cfc8a088644d0c8abe182f52870d49ea1e223",
+      "pdf_bytes": 287479,
+      "extracted_text_sha256": "3ced82895ccf88721f5fabe65b1a5c5161e582b07caf810ed1a1a7dbb3c72a53",
+      "content_checked": true
+    },
+    "Lazarovici2016": {
+      "url": "https://arxiv.org/pdf/1602.07251v1",
+      "file": "lazarovici.pdf",
+      "locator": "23Feb2016v1 selected printedpp10-14 Def5.1,Thm5.3 andRemarks5.4;pp25-26 Lemma9.2 includingproof",
+      "scope": "Source-label Jacobian checked. Particle approximation assumes N-uniform regularized density bound,shrinkingrigidcharges gamma<1/12,iidinput/Gauss-compatible incoming fields;quantitative bound onlyto regularized solution,unregularizedlimitwithout rate. Literalcompactinitialfieldissue separatelyqualified;no automatic PIC transfer.",
+      "pdf_sha256": "7a58512a004936fb51d4d5bd84e4517a42aa4d10d109804e4119c342da8ba263",
+      "pdf_bytes": 502201,
+      "extracted_text_sha256": "548eca7528c766932b65d20aea153d80ca376e2fde27393b016067e9a6267e89",
+      "content_checked": true
+    },
+    "Wang2026I": {
+      "url": "https://arxiv.org/pdf/2203.01199v2",
+      "file": "wang-I.pdf",
+      "locator": "16Jul2026v2 selected printedp3 Thm1.1 Eq1.2/1.3 andimmediateremarks;metadataoldv1Mar2022 notbodydiff",
+      "scope": "Cylindrical covariance;Hs s>=6 andpolynomiallyweightedparticlederivatives N0=10^10,not smallness;noncompactparticlesallowed;pointwisefieldsatmostpolynomialtimegrowth. UsesPartII estimates. Not a subset relation to F362 compactparticle/arbitraryCb∞L2field class;fullproof/versiondiff unread.",
+      "pdf_sha256": "4610ce1b94411b84077227e11fa9c904c488d5a90e8829a2dd92e476976d46c0",
+      "pdf_bytes": 927638,
+      "extracted_text_sha256": "22a261632a90abc4098adccbea16358f78053b7a05a59a99a768219e338d51b2",
+      "content_checked": true
+    },
+    "Wang2026II": {
+      "url": "https://arxiv.org/pdf/2607.14685v1",
+      "file": "wang-II.pdf",
+      "locator": "16Jul2026v1 selected printedp2 Thm1.1 samecombinedclaim andfollowingdependencyparagraph;p11 Thm1.4 statement only",
+      "scope": "PartII derivesfixed-timepointwiseestimatesusedbyPartI,notbyassumingPartIglobaltheorem. Selectedellipticestimate carriesangular/momentum/frequencywindows;not a universal finite-grid certificate. Remainingdefinitions/proofs/Thm1.5 closure unread.",
+      "pdf_sha256": "64d259c434b4769b641a4ef14833de5b48b747fdad8191dd6c6d6960cc5864de",
+      "pdf_bytes": 862809,
+      "extracted_text_sha256": "6f663f548182a062d9d9157372d45ff2e77c93522af445e6c8076d6f69607f14",
+      "content_checked": true
+    },
+    "Pallard2015Refined": {
+      "url": "https://intlpress.com/api/bgcloud-front/resource/pdf/volume/1806264353726877697-1806264353726877697-3c586cf8b1f95fd9c154ffa5eba9ad74.pdf",
+      "file": "pallard.pdf",
+      "locator": "PublisheroriginalCMS13(2)347-354;selectedThm1.1,Section2.2 Eq2.2-3/Lemma2.1+proof andSection2.3 beginning through near/far split",
+      "scope": "DensityL6 continuation criterion retainsclassical/compatibledata. Additionalaccelerationkernelorthogonalitytoconenormal givesreceiverprojectiongain. Whole8pageproofnotread;DOIentry403recoveredviaactualpublisherPDF. pdftotext emittedstatewarnings,selectedformulasreadwithcontext.",
+      "pdf_sha256": "d6577d59544ac9c4f9611685a2f09957e8c8a9aad67647ab4124d471960dafee",
+      "pdf_bytes": 167943,
+      "extracted_text_sha256": "3ceea960eb5e64f3215391c29c75f8370dafba6ec81074b5f8f33bbdc5affac7",
+      "content_checked": true
+    }
+  },
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/docs/362.md",
+      "sha256": "f3673d21484c486e032e6e4367da7927a1c0cb6899ebae657191dce4c731e693",
+      "scope": "Whole scope documentation"
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "scope": "Onlymatchingmanuscriptentry427-429/solution1757-1759"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VlasovMaxwell.json",
+      "sha256": "423df2cf9e072e1dc4bcdc848b1c37cb9a3b684109075c2122ea3f1825445a32",
+      "scope": "Wholeconfig"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/VlasovMaxwell.lean",
+      "sha256": "67941fd3f10cf129d42dc4ef6ea6b8585fb90ad942108d7d71827ce9960b9cf5",
+      "scope": "Wholechallenge,expectedonesorrynotactualsolution"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/VlasovMaxwell/Model.lean",
+      "sha256": "3f7e130e43e55a0358ff1ccb3dfd866bfc48457cfac38fae2407805e0f2ace9a",
+      "scope": "Wholeactualmodel"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/VlasovMaxwell/Main.lean",
+      "sha256": "32271d189735ec576f8000b501aa70502e7d32dbaa071b160615a5d615369b50",
+      "scope": "Wholeactualmain"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/VlasovMaxwell/Continuation/Bootstrap.lean",
+      "sha256": "e47631cb1189ce7c0cb60ec157b8802c71baf983f5ce4aec6381069a29c3f461",
+      "scope": "Only102-109PopulationIncrement definition;otherproofnotread"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/VlasovMaxwell/Continuation/IncrementBootstrap.lean",
+      "sha256": "798ce5f6ed8580941d23365286d8938ea35acf92b89b01bfd432743be1b0de0f",
+      "scope": "Only133-139IncrementBootstrap definition"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/VlasovMaxwell/Regularity/SlabEvolutionRegularity.lean",
+      "sha256": "95b83c5c976f4b7552f069d43ecbbff3322a3a6e163002a16ca5dc38de245bfe",
+      "scope": "Only109-120BoundedClassicalPrefix/existenceentrance"
+    }
+  ],
+  "formal_index_only": {
+    "path": "data/graph/lean_indices/F-362.json.gz",
+    "local_files": 207,
+    "declarations": 3951,
+    "external_modules": [
+      "Mathlib"
+    ],
+    "lexical_placeholders": 0,
+    "local_axiom_declarations": 0,
+    "local_build": false,
+    "comparator": false
+  },
+  "formal_registration": true,
+  "main_static_grade": "B",
+  "full_dependency_grade": "unknown",
+  "historical_caveat": {
+    "source": "Lazarovici2016arxivv1",
+    "locator": "Printedp10Def5.1 andp12Thm5.3;page10pixelsactuallyviewed",
+    "pixel_sha256": "7d257da8779ee3e87ad9c1dd08a5f6350717898b480d5d4b223bb0a7e371778e",
+    "literal": "f0massone;Ein/BinCc2;divEin=integralf0. CompactEin contradictsnonzeroGaussflux bydivergencetheorem.",
+    "interpretation": "Literalhypothesesincompatible;likelycondition/notationissue,authorconfirmationabsent. Do not silentlyreplaceCc2 withC2orL2oruseglobalparticlecorollary. Lemma9.2localJacobianindependent ofthiscompactfieldassumption. NotF362refutation,withdrawalorgradeD.",
+    "version_observed": "Currentarxivmetadataonlyv1;no laterarxivbodyobserved"
+  },
+  "bibliography_roots": 29,
+  "selected_original_roots": 5,
+  "original_bodies_unread": 24,
+  "failed_or_partial_access": [
+    {
+      "url": "https://doi.org/10.4310/CMS.2015.v13.n2.a4",
+      "result": "403;publisherPDFrecovered"
+    },
+    {
+      "url": "https://arxiv.org/html/2203.01199v2",
+      "result": "webtoo-large4.6MB;PDFselectedbodyrecovered"
+    },
+    {
+      "url": "https://arxiv.org/html/2607.14685v1",
+      "result": "webtoo-large5.6MB;PDFselectedbodyrecovered"
+    }
+  ],
+  "new_application_connection_ids": [],
+  "new_numerical_run": null,
+  "storage": "TemporaryPDF/text/pixels hashedthenremovedaftercuration;no fullcopyrightedsource redistribution/upstreamclone/Leancache;retain compressed207filelexicalindexandhelpers."
+}

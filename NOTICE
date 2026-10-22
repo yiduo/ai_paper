@@ -1,0 +1,174 @@
+AI Math Application Mining
+Local project, 2026.
+
+Upstream mathematical manuscripts and Lean artifacts:
+OpenAI, https://github.com/openai/math
+Pinned revision: 1581d4cbdd69a0faf34b2089614fe2a814316a6a
+Upstream includes Apache License 2.0. Its original notices remain in math/.
+
+The occurrence-count implementation is a translation of Section 2 of
+"A Polynomial-Time 2-Approximation for Shortest Common Superstring",
+OpenAI, September 24, 2026. It is not the complete approximation algorithm.
+The vector transfer implementation follows the positive-forward,
+negative-reverse argument in the pinned Steinitz manuscript; that argument
+credits earlier Chobanyan transference work. The FFT screen uses the
+explicit constants and cost model in the pinned uniform Fourier manuscript.
+
+External historical sources retain their own licenses. This project stores
+bibliography, necessary paraphrases and precise locators, not their full texts.
+Citation does not imply that every external theorem or dependency was verified.
+
+The exact transport fixture follows the three-affine-max construction in
+Section 2 of "Sharp One-Third Stability of Brenier Maps", OpenAI,
+September 25, 2026. Polygon integration and a finite transport LP oracle
+are independently implemented; this is not a proof of the general theorem.
+
+Pinned public NetworkX source files used for selected interface and input review:
+NetworkX Developers, https://github.com/networkx/networkx
+Revision: 49ca2290b80c1389eb4d8d8e49dcba73f8fec016 (networkx-3.7).
+The compact data/provenance/demand/networkx-3.7-49ca2290.json.gz bundle
+retains the original files and complete BSD-3-Clause LICENSE.txt.
+Only declared scopes were read; the library was not installed or executed.
+This third-party code keeps its own license and attribution.
+
+Pinned public mixed-elasticity interface source bundle:
+The unchanged data/provenance/demand/elasticity-surrogate-interfaces-20261021.json.gz
+contains selected files and complete original license texts from:
+- DeepXDE contributors, https://github.com/lululxvi/deepxde
+  revision 99b6620386d18cefb1549dddb7b7fe468cfad607; GNU LGPL version 2.1,
+  retained in that repository member LICENSE. This third-party source remains
+  LGPL-2.1 and is not relicensed under this project license.
+- NVIDIA CORPORATION & AFFILIATES, https://github.com/NVIDIA/physicsnemo-sym
+  revision 0c5f18c31d03d46ec0cc3ef4ccbf761a956dd38c; Apache-2.0 LICENSE.txt retained.
+- NVIDIA CORPORATION & AFFILIATES, https://github.com/NVIDIA/physicsnemo
+  revision db5a75532c8e41547b49f9a869a44b8e145e9e06; Apache-2.0 LICENSE.txt retained.
+Original source and notices are unmodified; only the ledger-declared ranges
+were reviewed. No framework was installed, linked, trained or executed.
+
+Pinned public factor-interface source excerpts:
+The data/provenance/demand/factor-interfaces-20261021.json.gz archive contains
+NetworkX3.7 source, tests, benchmark and declared matching excerpts at
+49ca2290b80c1389eb4d8d8e49dcba73f8fec016, with the original complete BSD-3-Clause
+LICENSE.txt (restored byte-for-byte from the earlier same-revision bundle).
+It also contains unchanged declared line excerpts, including the copyright
+header, of Sage10.8 src/sage/graphs/graph.py at
+981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c. That original library source is
+GPL-2.0-or-later, as its retained header states. The full upstream COPYING.txt,
+including GPL-3.0 text and component notices, is retained with it.
+These third-party materials retain their own licenses; they are not relicensed
+under this project's license or imported into the project's runtime.
+Only the ledger-declared ranges were reviewed. No NetworkX/Sage/MILP installation
+or execution occurred. The MNR2009 author preprint is referenced by URL, scope
+and SHA256 only; its full text and rendered pages are not redistributed.
+
+Pinned public HodgeRank baseline sources:
+data/provenance/demand/hodgerank-3e2768b7.json.gz retains six unmodified small
+files from jiangzian96/fast-HodgeRank at
+3e2768b70220998d2b09a742d7f81db7c69665fc, including its complete MIT LICENSE
+and original per-file author/attribution comments. The repository asserts MIT
+for its contents; older CGLS attribution is preserved and its separate upstream
+provenance has not been independently closed by this project. These materials
+retain their original terms and are not relicensed or imported into runtime.
+No MATLAB/Octave installation or execution was performed by this work package.
+The HodgeRank publisher author-copy and arXiv v1 are referenced by URL, exact
+selected scope and SHA256 only; full PDFs/text/page pixels are not redistributed.
+
+Pinned public scenario-interface sources:
+data/provenance/demand/scenario-interfaces-20261021.json.gz retains ten
+unmodified files from pgmpy/pgmpy at
+82e589d5a8ac16973b668f97425445d89cb3ac26 and
+DataResponsibly/DataSynthesizer at b969f618015d6313d03e109ad58aae2f8b12124d.
+Each corresponding complete MIT LICENSE is retained. Only the ranges in
+F-089-scenario-contracts.json were read; other retained portions are not
+claimed reviewed. These materials retain their original terms and are not
+relicensed or imported into this project's runtime. Neither framework nor
+any dataset was installed or executed. The original SSDBM2017 paper is
+referenced by URL, text scope and SHA256; its full PDF/text is not redistributed.
+
+Pinned public matrix/module interface sources:
+data/provenance/demand/matrix-interfaces-20261021.json.gz retains seven
+unmodified source/documentation/license files from gap-system/gap at
+4f8c1c0db617988f87c9cfdbb64bcaebb172463a and sagemath/sage at
+981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c. GPL-2.0-or-later per-file
+notices,full GAP LICENSE/COPYRIGHT and Sage COPYING.txt remain included.
+These materials retain their own terms and are not relicensed or imported
+into this project runtime. Only ledger-declared ranges were reviewed.
+No GAP/Sage installation or benchmark occurred. The original GAP issue6281
+is linked with selected author dates and qualified observations;its full
+body and discovery patch are not redistributed.
+
+Pinned public trace-reconstruction interface sources:
+data/provenance/demand/reconstruction-interfaces-20261021.json.gz retains
+five unmodified files from microsoft/TrellisBMA at
+77cb3d3965548e0ff63a37ff5de13f96fa15f5a8,including complete MIT LICENSE
+and original CRLF bytes where present. These materials retain their own
+license and are not relicensed or imported into this project runtime.
+Only the ledger-selected ranges were read. Five examined files from
+omersabary/Reconstruction at c50dec739bd2c7f18ac7678d921eecee02e86c6a
+have no established redistribution license here (README says TBA);their
+content is not retained or redistributed,only hashes/locations/own notes.
+The CC BY4.0 consumer paper is referenced by DOI/URL and selected scopes;
+this does not establish a license for its separate code repository. No
+software installation,compilation,benchmark or dataset download occurred.
+
+Pinned public finite-tiling interface sources:
+data/provenance/demand/tiling-interfaces-20261021.json.gz retains unmodified
+Sage tiling.py,dancing_links.pyx and fullCOPYING.txt at
+981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c.GPL-2.0-or-later per-file
+notices and full project licensing remain included;not relicensed or imported
+into project runtime. Only ledger-selected1169source lines were read;
+fullC++backend/dependencies unreviewed.No installation or benchmark.
+Knuth2000 original is linked by selected scope,no fulltext redistributed.
+
+Pinned finite operator-normalization interface audit:
+data/provenance/demand/scaling-interfaces-20261021.json.gz retains nine
+unmodified source/license files from pymanopt/pymanopt at
+e97efe32a3b8637f5b6589c976de4b6c13e13ec2 (BSD-3-Clause) and vprusso/toqito
+at 4baf22e6f3da78ac9a01352de1980e2441c6cc77 (MIT). Complete license files
+and Kraus-to-Choi QETLAB adaptation attribution are retained. Only ledger
+ranges were read; no installation or execution occurred. Dependencies
+are not audited or relicensed. The Franks paper is linked with selected
+locators and version caveat, not redistributed or represented as a
+verified arXiv version. Source formula/shape observations are static
+audit evidence, not runtime benchmarks or human verification.
+
+Pinned CAS-interface audit archive:
+data/provenance/demand/cas-interfaces-20261021.json.gz retains four
+unmodified files from sagemath/sage at
+981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c and Singular/Singular at
+4d253ff427cae6718de42b81149e3c3953f8e866,including their notices. Sage
+original library source is GPL-2.0-or-later; Singular permits GPL2 or GPL3.
+The complete GPL3 text in Sage COPYING.txt is included; source copyright
+and attribution remain intact. Dependencies are not audited or relicensed.
+Only ledger-selected lines were read; complete retention is not full
+reading, installation, execution or a performance benchmark. The Edo and
+Venereau paper is linked with selected published locators, not redistributed.
+
+Pinned unit-fraction consumer audit:
+data/provenance/tools/sympy-unit-fractions-16fa855.json.gz retains the
+unmodified egyptian_fraction.py, its test module, and the complete LICENSE
+from sympy/sympy at 16fa855354eb7bcabd3fe10993841e03b1382692, the source
+commit linked by the observed official SymPy 1.14.0 documentation.
+SymPy's BSD notice and bundled third-party notices remain intact.
+The complete retained modules were read; no SymPy installation, API call,
+upstream test execution, feature deployment or performance benefit is claimed.
+The proposed exact-marker wrapper is a conditional application connection;
+it is not evidence of an existing public user request or a new theorem.
+
+Pinned small perturbation-data admission audit:
+data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz
+retains unmodified file bytes from Peidli and coauthors' scPerturb
+collection, version1.3, DOI10.5281/zenodo.10044268 (CC BY4.0):
+https://zenodo.org/records/10044268
+License: https://creativecommons.org/licenses/by/4.0/
+Only an outer deterministic gzip wrapper was added; original manifest MD5
+and SHA256 are retained. This is partial read-only source qualification,
+not a biological finding, normalization or embedding experiment.
+
+data/provenance/tools/pyfive-0.4.0-py2.py3-none-any.whl and
+pyfive-1.0.0-py3-none-any.whl are unchanged PyPI wheels used by temporary
+zipimport with existing NumPy. Their BSD3-Clause notice is retained within
+the0.4wheel and as pyfive-1.0.0-LICENSE.txt extracted from the exact1.0
+source archive because that wheel omitted its license file. Both readers
+failed on chunked string metadata; errors are preserved, not patched away.
+No biological analysis stack was installed or independent review claimed.

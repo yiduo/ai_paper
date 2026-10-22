@@ -1,0 +1,79 @@
+{
+  "recorded_at": "2026-10-20T23:35:40.520155+00:00",
+  "source_archive_members_verified": 10,
+  "selected_source_lines": 1712,
+  "archive_gzip_bytes": 29702,
+  "source_roundtrip": true,
+  "prior_nodes_archived_exactly": 2,
+  "other_prior_nodes_exactly_unchanged": 2333,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/pgmpy/LICENSE",
+      "bytes": 1083,
+      "sha256": "89171dcc8977530b0c101fbbb1c1d34caee998fc7def9eded629753cd2616a15"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/pgmpy/Sampling.py",
+      "bytes": 23117,
+      "sha256": "6475c83089f4979be2ce1090ce2c4a82d46b5c91d36f86596fa365ca666bb2a1"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/pgmpy/DiscreteBayesianNetwork.py",
+      "bytes": 66236,
+      "sha256": "f9074144551b36615aaa18cd61e911d4d1b732bd7c77a08fe3bbfeb062f22aff"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/pgmpy/JunctionTree.py",
+      "bytes": 4894,
+      "sha256": "dc4afe04bd276c7f4eb195f3566f9cd4e3e638adcb769ef378d7ef8913d5db53"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer/LICENSE",
+      "bytes": 1077,
+      "sha256": "71f27f6f1bc7976f4cb3cf4327ce90be10a9d0c714c0c9a9b21f6efa4c278b0b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer/README.md",
+      "bytes": 1898,
+      "sha256": "883e8acd43b4698840ab4cf03cd89fb77b8278fcc7c89e72e1493d4a72832978"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer/DataGenerator.py",
+      "bytes": 6338,
+      "sha256": "be6240abac6eef27d4389170833aaa338339476d52c90c1a402481111e235320"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer/DataDescriber.py",
+      "bytes": 17200,
+      "sha256": "e73e2cbd4f42652bd21a946f1a67f5e53265e70e312f4a7caf70702479cfe73e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer/ModelInspector.py",
+      "bytes": 5925,
+      "sha256": "9bc1e0226689e8d10fd3b7246eec1960e23fde806d605c02057c2238c85b14e5"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer/PrivBayes.py",
+      "bytes": 10921,
+      "sha256": "07655ee0ba6ee4b113957abc5c9558a924bf9135a6552f88a765a646f57106c0"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer2017.pdf",
+      "bytes": 1252953,
+      "sha256": "885f8e9cbf5a4d74ad55b5a99c8cdb42f07dfc26b5367c5d0fb7b6e6422da704"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F089-interfaces/datasynthesizer2017.txt",
+      "bytes": 41414,
+      "sha256": "f5392aef34dfb2e222d597ecfd763e42e1b5386bbf97436aaeb445d6e6d0fa71"
+    }
+  ],
+  "temporary_bytes_removed": 1433056,
+  "temporary_directory_removed": true,
+  "upstream_unchanged_and_clean": true,
+  "new_application_run": false,
+  "software_executed": false,
+  "dependencies_installed": false,
+  "third_party_paper_redistributed": false,
+  "old_replays": "Not repeated:numerical code unchanged;WP05513archives and actual314support076adverse receipts preserved."
+}

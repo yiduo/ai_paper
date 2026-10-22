@@ -1,0 +1,73 @@
+{
+  "recorded_at": "2026-10-21T05:16:43.092232+00:00",
+  "old_canonical_records_byte_unchanged": 3285,
+  "changed_old_record_ids": [
+    "APP-094-02",
+    "ANALYSIS-F-094"
+  ],
+  "exact_history_records": 2,
+  "new_canonical_records": 7,
+  "all_old_explicit_edges_byte_unchanged": true,
+  "new_explicit_edges": 15,
+  "full_nodes": 5606,
+  "full_edges": 14242,
+  "canonical_citations": 5250,
+  "data_original_bytes": 550922,
+  "data_gzip_bytes": 143497,
+  "data_roundtrip_and_manifest_MD5_SHA256_verified": true,
+  "reader_wheels_verified": true,
+  "reader_full_BSD_notices_retained": true,
+  "metadata_fields_unread": 14,
+  "no_stubbed_metadata": true,
+  "original_prediction_and_plan_unchanged": true,
+  "old_source_bindings_and_grades_unchanged": true,
+  "all_current_source_hashes_verified": true,
+  "application_gate_cases": [
+    {
+      "changed": "PART-094-PERTURB-SEMANTICS-GATE",
+      "application_requires_review": true,
+      "source_claims_not_affected": true
+    },
+    {
+      "changed": "PART-094-FINITE-COMMON-LAW-GATE",
+      "application_requires_review": true,
+      "source_claims_not_affected": true
+    }
+  ],
+  "application_gates_not_theorem_premises": true,
+  "comparison_edges_not_proof_premises": true,
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "new_candidate": false,
+  "new_application_run": false,
+  "all13archive_integrity": true,
+  "actual_replays": [
+    "374",
+    "119"
+  ],
+  "metrics": {
+    "nodes": 5606,
+    "research_nodes": 3290,
+    "edges": 14242,
+    "citations_checked": 5240,
+    "candidate_connections": 37,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 45,
+    "source_decomposition_drafts": 39,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

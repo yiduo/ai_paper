@@ -1,0 +1,75 @@
+{
+  "recorded_at": "2026-10-21T01:20:06.851493+00:00",
+  "all_old_canonical_records": 2654,
+  "unchanged_prior_records": 2652,
+  "changed_exact_history_records": [
+    "ANALYSIS-F-122",
+    "APP-122-01"
+  ],
+  "all_old_explicit_edges_unchanged": true,
+  "new_canonical_records": 11,
+  "new_explicit_edges": 17,
+  "nodes": 4804,
+  "edges": 11913,
+  "canonical_citations": 4309,
+  "selected_source_lines": 1446,
+  "selected_source_files": 10,
+  "MIT_archive_members": 5,
+  "MIT_archive_roundtrip": true,
+  "original_CRLF_preserved": true,
+  "unclear_license_sources_not_redistributed": true,
+  "original_source_ledger_and_index_unchanged": true,
+  "conditional_prediction_unchanged": true,
+  "gate_impacts_exclude_source_theorems": {
+    "PART-122-CONSUMER-GATE": [
+      "APP-122-01",
+      "PART-122-CONSUMER-GATE"
+    ],
+    "PART-122-BUDGET-BASELINE-GATE": [
+      "APP-122-01",
+      "PART-122-BUDGET-BASELINE-GATE"
+    ],
+    "PART-122-CHANNEL-LOSS-GATE": [
+      "APP-122-01",
+      "PART-122-CHANNEL-LOSS-GATE"
+    ],
+    "PART-122-EXACT-COST-GATE": [
+      "APP-122-01",
+      "PART-122-EXACT-COST-GATE"
+    ]
+  },
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "new_application_run": false,
+  "analogy_distribution": {
+    "near": 25,
+    "far": 8,
+    "bold": 1
+  },
+  "old_replays": "Not repeated:WP06113archiveintegrity andactual314/076source replays recentlypassed;no numericalsourcechanged.",
+  "metrics": {
+    "nodes": 4804,
+    "research_nodes": 2664,
+    "edges": 11913,
+    "citations_checked": 4307,
+    "candidate_connections": 34,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 36,
+    "source_decomposition_drafts": 30,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

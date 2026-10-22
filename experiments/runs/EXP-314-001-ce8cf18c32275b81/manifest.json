@@ -1,0 +1,58 @@
+{
+  "run_id": "EXP-314-001-ce8cf18c32275b81",
+  "experiment_id": "EXP-314-001",
+  "started_utc": "2026-10-20T14:23:05.249773+00:00",
+  "specification_written_utc": "2026-10-20T14:19:51.153655+00:00",
+  "finished_utc": "2026-10-20T14:23:05.349834+00:00",
+  "inputs": {
+    "experiments/specs/EXP-314-001.json": "cf5663e0199be7ea9029e9bccbfde8f5c5c73bea915950ed44563f6d7c49426c",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/betti_budget.py": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5",
+    "src/ai_value/cli.py": "0c43fa1217581db6dfaf88dd1f62b466a42d6723966e0a0d3b8581dd7266e4dc",
+    "src/ai_value/component_checks.py": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa",
+    "src/ai_value/corpus.py": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc",
+    "src/ai_value/cyclic_chain.py": "7d61248a696a86b4049ff88c520cd5c50ebba4079dfb6664122b1e8e2a0493bc",
+    "src/ai_value/experiments.py": "68232927f966660ff53f49a5a95452cd9387868121abdcb5385393175b2581a3",
+    "src/ai_value/graph.py": "fcab1220d2a8a6a1dab8b904faa692deb23a31ae7e493aac0a5b1472e1d6746d",
+    "src/ai_value/knowledge.py": "f397c34e5675f522c9e175e869d6c0ba9e5e41586779e0715753266d10e2c17b",
+    "src/ai_value/permutation_audit.py": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/pressure_audit.py": "4760923b4223de11ef3b919204e2be2a629fba30674560132b51218cffcde304",
+    "src/ai_value/reporting.py": "99b5d5c17a56c295758dde119b9907d27ea16216dd3c7ce1eea32cbd533543fc",
+    "src/ai_value/source_results.py": "5f903e2f65db17ab057b12629cd559b66f3cabe4d016ec8859558759b7694b80",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "src/ai_value/transport.py": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d",
+    "src/ai_value/versioning.py": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c",
+    "configs/research.json": "250ae2914064a1ec1875a51d56588e73f1e48aa87e2e5823fd0d8816428de560",
+    "data/corpus/baseline.json": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+  },
+  "outputs": {
+    "spec.json": "0b52060c9afbc3c5596cff11cba90ab5f4708c48a87d8255e5c476e58deb737c",
+    "raw.json.gz": "5dac4a8d1666e8732419b5830d39cf622773544915c83a3397d567602a4fbdf7",
+    "summary.json.gz": "db8fc9b202864650fdcd939d59f8ab0f6cec900b6ca705ee31999ff4118a24f9",
+    "inputs.json.gz": "282d617327f4ea26264f6e341fcafb81b493347e2d11b4c0bb3c0122d01cd312"
+  },
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "92cb025127b10235389d7299b6bf4b16774d8ffc9186f2f5191877029071a331"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "1fef8734d69967333ef8d435ed20537f2da1cad55980d583ebb222eb6d71da0c"
+    }
+  },
+  "source_snapshot": "inputs.json.gz",
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment EXP-314-001",
+  "environment": {
+    "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "dependencies": "Python standard library only"
+  },
+  "elapsed_seconds": 0.08737966697663069,
+  "peak_traced_python_bytes": 165640,
+  "resource_envelope_met": true,
+  "memory_scope": "Python allocations only; not process RSS or child processes",
+  "result": "passes_preregistered_prediction",
+  "formal_rejection": false
+}

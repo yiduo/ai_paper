@@ -1,0 +1,254 @@
+{
+  "family_id": "F-131",
+  "generation_id": "GEN-20261021-030",
+  "recorded_at": "2026-10-20T17:49:05.222742+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-5c889f87b7686754",
+  "body_source_lines": 1466,
+  "total_tex_lines": 1689,
+  "bibliography_lines": 179,
+  "bibliography_in_total_tex": true,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/introduction.tex",
+      "sha256": "7c4684d2d3b698bf2be17088c17575e72a4588faf667bd71e2743430911a106f",
+      "lines": 180,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/setup.tex",
+      "sha256": "0395b99be0ea02763e92785bff613c1cbf1b65a5e6adfcf295dbe3a07004f8da",
+      "lines": 42,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/rows.tex",
+      "sha256": "10b7e086e56f20646886e12df3629bf2466f92734a300d113753712167437569",
+      "lines": 211,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/triples.tex",
+      "sha256": "71758aa067a57b54166886d2d54e8e521ddb4ba36ac9dc265b7ec7860be1274c",
+      "lines": 101,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/disjoint.tex",
+      "sha256": "00f42bbc7ed832217e01b7732a066f4040c87008c4e006345db2a05a274b5f1c",
+      "lines": 271,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/slice.tex",
+      "sha256": "a524487c4d84cc840ac0b63871614ed2bc5f85e030c6cd56eeac71aa6c324e9d",
+      "lines": 231,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/mixing.tex",
+      "sha256": "2b9d197997ca8126347c3ad93360243e55d6d0f761f1e02f8687023657b0fa55",
+      "lines": 259,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sections/exact-sampling.tex",
+      "sha256": "369ea35e5d8b70815aa79710b08f972bc4d05a5590d20e8fa23fefb5c725c017",
+      "lines": 171,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/main.tex",
+      "sha256": "d0eef94ce57e17252e2ef2fa81720493c79236f58c5a765cc4c8ce429ea030bd",
+      "lines": 44,
+      "read_scope": "Entire natural source, proofs and references read"
+    },
+    {
+      "path": "math/preprints/Polynomial-Mixing-of-the-Switch-Chain-for-Every-Graphical-Degree-Sequence-September-25-2026/build/sources/references.tex",
+      "sha256": "fcf0bf7d98cc2a6ecaaccc2ad2f983bfa4296f691299d469d746175a556b546a",
+      "lines": 179,
+      "read_scope": "Entire natural source, proofs and references read"
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "statement": "The prescribed lazy four-vertex switch chain mixes to total variation 1/4 within 2 n^8 steps for every graphical labelled degree vector.",
+      "conditions": "n>=4; all simple undirected realizations on the complete labelled vertex set; no additional constraints.",
+      "constants_and_limits": "For M>1, gap>=1/[24 n^2 C(n,4)]. Off-diagonal neighbor probability 1/[12 C(n,4)], not the arbitrary accepted-switch chain. Singleton mixes at time zero.",
+      "selected_grade": "B"
+    },
+    "cor:exact-sampling": {
+      "statement": "Exactly uniform graph sampler using unbiased bits terminates almost surely with expected polynomial bit cost in the explicit degree-vector encoding length.",
+      "conditions": "Input graphical finite labelled degree vector; small n enumerated separately; complete unrestricted simple undirected state space.",
+      "constants_and_limits": "Rare residual branch enumerates exponentially many graphs and transition entries. Expected polynomial cost gives no worst-case latency or memory guarantee; exact sampler is outside selected Lean scope.",
+      "selected_grade": "C"
+    },
+    "row:fixed-blocks": {
+      "statement": "Variance of a sum of three arbitrary row-block functions is at most twice the sum of their variances.",
+      "conditions": "Independent uniform ordered partitions of two finite labelled sets, with all six block sizes fixed.",
+      "constants_and_limits": "Factor 2 is an upper budget, not row independence or universal negative covariance. Fixed-size conditional partitions required.",
+      "selected_grade": "C"
+    },
+    "row:counts": {
+      "statement": "Variance of sum_i b_i(X_i) is at most 2 sum_i Var b_i(X_i) for arbitrary real coordinate functions.",
+      "conditions": "X>=0, sum X=m; probability proportional to product_i 1/[X_i!(X_i+alpha_i)!], all alpha_i,m nonnegative integers.",
+      "constants_and_limits": "Adjacent-total sandwich coupling and spectral argument. This special product-conditioned law is essential; old FQW26 Lemma5.3 already supplies the count-sector gap.",
+      "selected_grade": "C"
+    },
+    "row:variance": {
+      "statement": "Variance of a sum of arbitrary three binary-row functions is at most twice their marginal variance sum.",
+      "conditions": "Uniform distribution on the nonempty full set of three-row binary matrices with fixed row and column margins.",
+      "constants_and_limits": "Remove forced column sums0/3; condition on counts, independent partitions then total variance. Not arbitrary weighted matrices or symmetric adjacency matrices without further encoding.",
+      "selected_grade": "C"
+    },
+    "tri:gap": {
+      "statement": "Each three-vertex conditional pair-resampling generator satisfies H_T^2 >= H_T.",
+      "conditions": "Encode the full triple fiber as a three-row fixed-margin binary matrix with zero or one extra column.",
+      "constants_and_limits": "Internal edge count 0,1,2,3 uses row shifts and an extra column for cases1/2. Extra coordinate must retain both internal-edge choices, not freeze an individual edge.",
+      "selected_grade": "C"
+    },
+    "dis:interaction": {
+      "statement": "For disjoint pairs, 2<h_a f,h_b f> >=2||g_ab f||^2-||R_ab f||^2-||R_ba f||^2.",
+      "conditions": "Full graph-space pair fibers and actual cross-cell conditional laws; R are directed error-line projections.",
+      "constants_and_limits": "Disjoint pair projections need not commute; individual interaction may be negative. Cross total2 has a rank-one correlated plane; gain is a cross-toggle projection.",
+      "selected_grade": "C"
+    },
+    "sl:comparison": {
+      "statement": "On a uniform Boolean slice, the sum of centered equality-indicator projections is bounded by the unnormalized transposition generator.",
+      "conditions": "N>=0, 0<=q<=N; Q_ij=0 for constant equality indicator; G=(1/2)sum_{i<j}(I-tau_ij).",
+      "constants_and_limits": "S<=G, including degenerate slices. Coefficient sectors C0/C1/C2 and Gram eigenvalues used; not a claim that equality indicators are independent.",
+      "selected_grade": "C"
+    },
+    "sl:global": {
+      "statement": "For each pair a, sum of directed disjoint error energies is at most the sum of its cross-toggle gain energies.",
+      "conditions": "Apply the Boolean-slice operator comparison in each actual pair fiber, then average.",
+      "constants_and_limits": "Exact error-line localization and unordered indexing required; not pointwise domination of each error term.",
+      "selected_grade": "C"
+    },
+    "dis:nonnegative": {
+      "statement": "The ordered sum of h_a h_b over disjoint pairs is self-adjoint and positive semidefinite.",
+      "conditions": "Aggregate the interaction lower bounds and the full fiberwise error budget.",
+      "constants_and_limits": "Only the total ordered sum is positive; individual products may be noncommuting and need not be positive.",
+      "selected_grade": "C"
+    },
+    "mix:global": {
+      "statement": "The full unnormalized pair-resampling generator satisfies H^2 >= H.",
+      "conditions": "Triple-square bounds plus nonnegative aggregated disjoint interactions.",
+      "constants_and_limits": "H^2=sum_T H_T^2-(n-3)H+D; each pair belongs to n-2 triples. No unsupported disjoint commutation shortcut.",
+      "selected_grade": "C"
+    },
+    "mix:connectivity": {
+      "statement": "All simple labelled realizations of a graphical degree vector are connected by valid switches.",
+      "conditions": "Same nonempty full degree-vector state space.",
+      "constants_and_limits": "Direct Havel greedy alignment with a fixed tie order and strictly improving retained neighbors, not connectivity of each graph as a graph.",
+      "selected_grade": "B"
+    },
+    "mix:poincare": {
+      "statement": "The kernel of H is exactly constants and Var_pi(f)<=<f,Hf>.",
+      "conditions": "Switch connectivity and H^2>=H on the finite nonempty full state space.",
+      "constants_and_limits": "The pair resampling generator is not the discrete four-vertex transition matrix; a separate normalization and comparison are needed.",
+      "selected_grade": "C"
+    },
+    "mix:comparison": {
+      "statement": "h_a<=n^2 J_a, sum_a J_a=2L, hence H<=2 n^2 L.",
+      "conditions": "J_a is the unnormalized transposition generator on the uniform pair fiber; L is the simple switch-graph Laplacian.",
+      "constants_and_limits": "Permutation paths use at most N transpositions; each distinct switch appears in exactly two opposite-pair trades. I-P=L/[12 C(n,4)].",
+      "selected_grade": "C"
+    }
+  },
+  "quantifier_and_boundary_notes": [
+    "For M>1, gap>=1/[24 n^2 C(n,4)]. Off-diagonal neighbor probability 1/[12 C(n,4)], not the arbitrary accepted-switch chain. Singleton mixes at time zero.",
+    "Rare residual branch enumerates exponentially many graphs and transition entries. Expected polynomial cost gives no worst-case latency or memory guarantee; exact sampler is outside selected Lean scope.",
+    "Factor 2 is an upper budget, not row independence or universal negative covariance. Fixed-size conditional partitions required.",
+    "Adjacent-total sandwich coupling and spectral argument. This special product-conditioned law is essential; old FQW26 Lemma5.3 already supplies the count-sector gap.",
+    "Remove forced column sums0/3; condition on counts, independent partitions then total variance. Not arbitrary weighted matrices or symmetric adjacency matrices without further encoding.",
+    "Internal edge count 0,1,2,3 uses row shifts and an extra column for cases1/2. Extra coordinate must retain both internal-edge choices, not freeze an individual edge.",
+    "Disjoint pair projections need not commute; individual interaction may be negative. Cross total2 has a rank-one correlated plane; gain is a cross-toggle projection.",
+    "S<=G, including degenerate slices. Coefficient sectors C0/C1/C2 and Gram eigenvalues used; not a claim that equality indicators are independent.",
+    "Exact error-line localization and unordered indexing required; not pointwise domination of each error term.",
+    "Only the total ordered sum is positive; individual products may be noncommuting and need not be positive.",
+    "H^2=sum_T H_T^2-(n-3)H+D; each pair belongs to n-2 triples. No unsupported disjoint commutation shortcut.",
+    "Direct Havel greedy alignment with a fixed tie order and strictly improving retained neighbors, not connectivity of each graph as a graph.",
+    "The pair resampling generator is not the discrete four-vertex transition matrix; a separate normalization and comparison are needed.",
+    "Permutation paths use at most N transpositions; each distinct switch appears in exactly two opposite-pair trades. I-P=L/[12 C(n,4)].",
+    "Actual namespace OAI.Problem315 is a Lean namespace, not catalogue family F315; catalogue family here is F131.",
+    "Comparator challenge has three expected sorry placeholders; actual solution static closure165files has no lexical placeholders. Neither observation establishes a Lean build.",
+    "Natural main uses M<=2^C(n,2) and a tighter intermediate mixing time; selected Lean NumericMixing uses weaker M<=2^(n*n),sqrt(M)<=M and proves the same2n^8 final bound. Different proof estimates, not a discrepancy in the final specification.",
+    "Exact sampling proof: B=C(n,2),D=4B+10,delta=2^-D,t=ceil(gamma0^-1(B+2D+2)); TV<=delta^2 and Mdelta<=1 imply (1-delta)p_G<=1/M. Integer weights2^D q^t-M(2^D-1)a_G sum to Mq^t. Rare exponential cost is weighted bydelta; do not truncate the rare branch or bit rejection while claiming exact uniformity.",
+    "Seven selected external roots read;17 of24 external originals remain unchecked. Two other bibliography entries map internal manuscripts only. Complete recursive history missing."
+  ],
+  "selected_original_scopes": {
+    "Caputo08": {
+      "url": "https://alea.impa.br/articles/v4/04-10.pdf",
+      "locator": "Published2008, Section1.1, pp207-208, equations1.6-1.15; PDF text selected scope",
+      "scope": "Squared-generator/triple decomposition uses disjoint commutation in that collision model. F131 must replace this step with a noncommuting interaction budget; no general disjoint positivity inferred."
+    },
+    "CBS18": {
+      "url": "https://arxiv.org/html/1609.05137v3",
+      "locator": "26July2018v3, Section2.2, Lemma2, Section4/4.1",
+      "scope": "Undirected trades include each switch twice. Practical motivation is stopping time; experiments modify the proposal and estimate mixing using perturbation-score stabilization. That statistic is not a full-law TV certificate."
+    },
+    "CDG12": {
+      "url": "https://arxiv.org/html/1203.6111v1",
+      "locator": "27March2012v1, abstract, introductory transition rule and Theorem1",
+      "scope": "Regular-graph bound corrected by d^8 to d^23 n^8(dn log(dn)+log(1/epsilon)). This corrects a proof bound, not a withdrawal. It uses an edge-pair kernel; normalize before comparing with F131."
+    },
+    "Unified22": {
+      "url": "https://arxiv.org/html/1903.06600v5",
+      "locator": "31July2021v5, Definition1.2, Theorem1.3 and Section3 equation3.1",
+      "scope": "Rapid mixing on P-stable families, including directed/bipartite variants. Explicit unconstrained off-diagonal probability1/[2 C(n,2) C(n-2,2)] equals1/[12 C(n,4)]. Scope remains P-stability rather than every graphical family."
+    },
+    "FQW26": {
+      "url": "https://arxiv.org/html/2606.22636v2",
+      "locator": "13July2026v2, Section5.1 Theorem5.1, Section5.2 Lemmas5.2/5.3 and count identification",
+      "scope": "Three-row projection/count inequalities already precede F131. Lemma5.3 gives gap>=1/3 for the same factorial count law; dual synthesis gives the factor2 variance budget. Bipartite matrix results do not alone cover symmetric undirected adjacency constraints."
+    },
+    "GLMP2024": {
+      "url": "https://arxiv.org/html/2410.00882v2",
+      "locator": "6December2024v2, Section3.1 Algorithm1/Theorem6, Section5 Corollary15/proof",
+      "scope": "Existing generic rare residual-mixture conversion requires target and approximate-output probabilities from expensive oracles. Expected cost weights the oracle cost by the rare probability. F131 supplies rational finite-state oracles and a graph-specific error budget, not a new generic conversion."
+    },
+    "GS18": {
+      "url": "https://arxiv.org/html/1701.07101v2",
+      "locator": "12September2017v2, Theorem1.1 and adjacent correction note",
+      "scope": "With M=sum degrees, min degree>=1 and3<=max degree<=sqrt(M)/3, bound is maxdegree^14 M^9[(M/2)log M+log(1/epsilon)]. Earlier proof gap is repaired. Kernel/degree conditions cannot be silently dropped."
+    }
+  },
+  "original_reading_method": "Primary version-qualified web HTML or selected PDF extracted text; no new downloaded PDF/source cache retained and no local PDF visual claim.",
+  "formal_files_actually_read": [
+    "math/lean/docs/131.md",
+    "math/lean/ComparatorChallenges/SwitchChain.lean",
+    "math/lean/ComparatorChallenges/SwitchChain.json",
+    "math/lean/OAI/Probability/SwitchChain/Definitions.lean",
+    "math/lean/OAI/Probability/SwitchChain/Main.lean",
+    "math/lean/OAI/Probability/SwitchChain/MainFromGap.lean",
+    "math/lean/OAI/Probability/SwitchChain/NumericMixing.lean"
+  ],
+  "formal_index_only": {
+    "local_files": 165,
+    "declarations": 1594,
+    "external_modules_not_present": [
+      "Mathlib"
+    ],
+    "placeholder_tokens": 0,
+    "local_build": false,
+    "comparator": false
+  },
+  "new_numerical_run": null,
+  "new_application_connection_ids": [
+    "APP-131-01",
+    "APP-131-02"
+  ],
+  "storage": "Only compact gzip lexical index and reading locators retained; no upstream copy, Lean dependency/cache or numerical output generated.",
+  "curation_corrections": [
+    {
+      "reason": "Actual arXiv v2 header read after initial curation:12Sep2017,not a guessed5Dec date;version-qualified URL and selected theorem unchanged.",
+      "previous_source_ledger_sha256": "5c3b1d949dac0b516ce377a39a9e00024466aba93d7e4cda837ebaf446ad0a48"
+    },
+    {
+      "reason": "Cross-family term error: F149 is deterministic classwise mass-action permanence, not a permanent/Hadamard inequality. It does not establish independent Poisson counts; no application evidence or mathematical result added."
+    }
+  ]
+}

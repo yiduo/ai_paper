@@ -1,0 +1,73 @@
+{
+  "recorded_at": "2026-10-20T21:51:08.075500+00:00",
+  "ledger_sha256": "c2ecb1f52214fc9df7339e09c1b970ba1ea690cf9ea65124246db24bb6a2f445",
+  "source_read_files_hash_verified": 18,
+  "all_42_static_index_members_hash_verified": true,
+  "old_canonical_nodes_unchanged_from_HEAD": 1958,
+  "new_analysis_failed_v1_archived": true,
+  "temporary_files": [
+    {
+      "file": "nu2003.pdf",
+      "bytes": 187980,
+      "sha256": "729686af92a42c0e7d230674d4fe810c445fa595e8e78629b1fe335ccd91d658"
+    },
+    {
+      "file": "nu2003.txt",
+      "bytes": 6136,
+      "sha256": "d284dc31b2fe05e44ca92618eb4e095e3dea1301ee429471ebc50b31138ba0d0"
+    },
+    {
+      "file": "tan2022v1.pdf",
+      "bytes": 264348,
+      "sha256": "76a6d6614804e49e320c4e95b91590a26d95553e1388e0288899fa1e911d28a1"
+    },
+    {
+      "file": "tan2022v1.txt",
+      "bytes": 70699,
+      "sha256": "9b53b621ebd853bde89ec6c727c4d5245a0d6e022b877341a6028317c5b8a42d"
+    },
+    {
+      "file": "er2004v1.pdf",
+      "bytes": 134004,
+      "sha256": "4a7c01e4ac251e476958f15a4c36e791c9c6cb69de574e0a98e5592d961fd20d"
+    },
+    {
+      "file": "er2004v1.txt",
+      "bytes": 25408,
+      "sha256": "6b6b46b6fa575a251d7862a7bffe29b3ec22bd68a8f2c88fd51317cc2f536714"
+    },
+    {
+      "file": "cekic2025v3.pdf",
+      "bytes": 550934,
+      "sha256": "97b0a8fccf9445dc6018278417fe7d7995219d3b2fef5a4f4f03e09208bd970a"
+    },
+    {
+      "file": "cekic2025v3.txt",
+      "bytes": 137134,
+      "sha256": "75aff5ae2a4f583c29857c58b764689574d9441ff9b512abe07240a1dd50a666"
+    },
+    {
+      "file": "salo2008v2.pdf",
+      "bytes": 244236,
+      "sha256": "74efcc8db8b482c27a1ae2d35f876f323be01baf46dd68e70b45e03d2aa2468b"
+    },
+    {
+      "file": "salo2008v2.txt",
+      "bytes": 61776,
+      "sha256": "fdca21a51686013c8eae39501fa75ec168ca505f32631aab300868f6c3ae1ec8"
+    },
+    {
+      "file": "nu2003-page206.png",
+      "bytes": 365175,
+      "sha256": "93a7b770b9e8cd042800c138485492c6c29ddecf335153bef339c3f643e390b3"
+    }
+  ],
+  "temporary_bytes_removed": 2047830,
+  "temporary_directory_removed": true,
+  "original_papers_redistributed": false,
+  "upstream_copy": false,
+  "dependencies_installed": false,
+  "new_application_runs": false,
+  "representative_replay_temp_outputs_cleaned": true,
+  "local_Lean_or_Comparator": false
+}

@@ -1,0 +1,59 @@
+{
+  "recorded_at": "2026-10-21T06:40:27.433101+00:00",
+  "normal_TLS": true,
+  "commands": "curl --noproxy * -fsSL --max-time 35 --max-filesize 2500000 <specified arXiv HTML URL> -o <temporary file>;three successful bounded downloads",
+  "download_limit_per_work": 2500000,
+  "files": [
+    {
+      "temporary_name": "nsz.html",
+      "bytes": 1466532,
+      "sha256": "8da5757df43e4ba97bb233de620f4d911416f20023bfeb099264773c2fc706b0",
+      "url": "https://arxiv.org/html/2012.09484v2",
+      "kind": "temporary primary HTML",
+      "retained": false
+    },
+    {
+      "temporary_name": "nsz.txt",
+      "bytes": 147186,
+      "sha256": "7bb7740404c03586de5fb4a7b9fd13f2bcb1c1a626d7292a010d8c91fa7016be",
+      "url": "https://arxiv.org/html/2012.09484v2",
+      "kind": "temporary mechanical rendering",
+      "retained": false
+    },
+    {
+      "temporary_name": "bbl.html",
+      "bytes": 1203181,
+      "sha256": "ab1e6eebe1901bc9c3d24b02a7674586b4d1fc9173b35803928feae145cf239e",
+      "url": "https://arxiv.org/html/0707.2340v2",
+      "kind": "temporary primary HTML",
+      "retained": false
+    },
+    {
+      "temporary_name": "bbl.txt",
+      "bytes": 171825,
+      "sha256": "11da649e5ded8f7b6d1207573d201daf83e5f4155f890ef8eed5a92c6a358e22",
+      "url": "https://arxiv.org/html/0707.2340v2",
+      "kind": "temporary mechanical rendering",
+      "retained": false
+    },
+    {
+      "temporary_name": "lt.html",
+      "bytes": 950259,
+      "sha256": "2fb40ee246f42b8cf0b2a6f0a1f6030e45ef5190d72b3e7957123e58bd8eb530",
+      "url": "https://arxiv.org/html/1402.0969v2",
+      "kind": "temporary primary HTML",
+      "retained": false
+    },
+    {
+      "temporary_name": "lt.txt",
+      "bytes": 144648,
+      "sha256": "dc12d51d37b60a79fe86178c03bf10eadbf7887df92b9764a1fe0db82040295b",
+      "url": "https://arxiv.org/html/1402.0969v2",
+      "kind": "temporary mechanical rendering",
+      "retained": false
+    }
+  ],
+  "reader": "read-index.py in own helper archive;math alttext replaces MathML children;semantic labels durable;line ranges in immutable selected-history ledger",
+  "full_text_not_mirrored": true,
+  "full_text_hashes_are_observations_not_retained_local_bytes": true
+}

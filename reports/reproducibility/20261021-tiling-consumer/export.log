@@ -1,0 +1,20 @@
+{
+  "nodes": 4886,
+  "edges": 12157,
+  "graphml_gzip_bytes": 2087943,
+  "viewer": "reports/graph/index.html",
+  "navigation": {
+    "families": 372,
+    "actual_reading_families": 37,
+    "family_analysis_records": 32,
+    "source_drafts": 31,
+    "applications": 34,
+    "with_runs": 11,
+    "without_direct_comparator_edge": 20,
+    "with_explicit_unestablished_gates": 3,
+    "identity_review_candidate_groups": 1,
+    "gzip_bytes": 48409,
+    "index": "reports/graph/navigation.json.gz",
+    "report": "reports/graph/navigation.md"
+  }
+}

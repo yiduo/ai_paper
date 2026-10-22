@@ -1,0 +1,24 @@
+{
+  "id": "APP-332-01-conditional",
+  "version": 1,
+  "status": "conditional_not_preregistered",
+  "created_at": "2026-10-21T07:37:49.005144+00:00",
+  "source": "CLM-332-THM-MAIN",
+  "prediction": "On a separately frozen admitted finite-graph heavy-tailed unnormalized real-feature denoising pack,the deterministic expected-median3 resolvent smoother will reduce mean pi-weighted l1 clean-signal error by at least10% against the strongest qualified old baseline per case on at least two thirds of core cases,with no case suffering more than5% relative risk loss,while an independent finite judge certifies source energy<=3024 times Cesaro cost and declared full time/memory budgets. Freeze fixtures,seeds,input scales,t,tuning,baseline qualification,zero-risk handling and independent judge before any numerical output;the source theorem alone does not imply this denoising prediction.",
+  "target": "Own proposed finite-graph heavy-tailed real-feature denoising benchmark;no external deployment",
+  "admission": [
+    "Finite R^d unnormalized features;stationary stochastic A and probability pi;t positive integer",
+    "Expected median of three independent G-row endpoints,exact or separately certified;no replacement by one sample",
+    "Independent whole energy and clean-risk judges;source energy is not a risk theorem",
+    "Strongest qualified old identity,Gx,row-G weighted coordinatewise median and convex graph smoothing/TV reference;frozen budgets/tuning and no held-out retuning"
+  ],
+  "missing": [
+    "No frozen fixtures/seeds/caps/old-method qualification or judge",
+    "No implementation or numerical outputs",
+    "No human or second-provider review"
+  ],
+  "stop": "If old methods suffice or risk prediction fails,retain adverse outcome;no tuning noise pack to recover support. Conditional card not initial check.",
+  "run_ids": [],
+  "human_review": null,
+  "second_provider_review": null
+}

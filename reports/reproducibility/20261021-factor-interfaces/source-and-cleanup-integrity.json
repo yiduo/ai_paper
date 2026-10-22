@@ -1,0 +1,78 @@
+{
+  "recorded_at": "2026-10-20T22:31:36.325469+00:00",
+  "archive_gzip_sha256": "69f2a18ccf10bf3709fa0346bd0db02688282456b42d9e52d88da9edfda33f6a",
+  "decompressed_sha256": "4f32b262aa3be3647af2c4d85d5334e9e6b7b78ec378d8e093f382abe441cf66",
+  "archive_member_count": 10,
+  "member_hashes_and_roundtrip_verified": true,
+  "prior2nodes_match_HEAD": true,
+  "other_prior_nodes_unchanged": 2141,
+  "all13archives_verified": true,
+  "actual_replays": [
+    "EXP314 limited support",
+    "EXP076 adverse"
+  ],
+  "temporary_files": [
+    {
+      "file": "networkx-regular.py",
+      "sha256": "7c41c3e1505111b2704a5478f28915641bb082f0fbe865dd4f6f0d8ad248f2a4",
+      "bytes": 4877
+    },
+    {
+      "file": "networkx-test-regular.py",
+      "sha256": "a695c44bacefa6ca69a199b35cf1629be4b864c58f1b666186696073aef2fc60",
+      "bytes": 2951
+    },
+    {
+      "file": "networkx-benchmark-regular.py",
+      "sha256": "d6b80453775925f20031f92dc50ca4199f4c5733aa037011f2f93b4519dfaf1b",
+      "bytes": 1368
+    },
+    {
+      "file": "networkx-matching.py",
+      "sha256": "a6f4571c875d268690f89bec2f8a8e717531b1afb69bee8cea60f90ca8c48ca6",
+      "bytes": 44311
+    },
+    {
+      "file": "networkx-LICENSE.txt",
+      "sha256": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e",
+      "bytes": 1763
+    },
+    {
+      "file": "sage-graph.py",
+      "sha256": "b6c15da84969c96219d788eebd15d62ed8e8f827d0720cc95161e7863cde9472",
+      "bytes": 375893
+    },
+    {
+      "file": "sage-COPYING.txt",
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "bytes": 61362
+    },
+    {
+      "file": "mnr2009.pdf",
+      "sha256": "a909eb74454c8dfab7ed384b4369d094e7e910f5d8c4027b32353fc8ac4d0a59",
+      "bytes": 176516
+    },
+    {
+      "file": "mnr2009.txt",
+      "sha256": "1451aabebb566efad2a35233fd440d2ef93cb624719269a2f04f0ec1b2d0e03b",
+      "bytes": 23907
+    },
+    {
+      "file": "mnr-page4.png",
+      "sha256": "95dd79c581f7ff774e54265adfa190c622affc40a4937e00205a734b9bf58c0a",
+      "bytes": 210971
+    },
+    {
+      "file": "mnr-page6.png",
+      "sha256": "46cb6a1cec20a6a5578d63a287d6a07d3a6da0d7427bff610d2347e18105faa4",
+      "bytes": 194813
+    }
+  ],
+  "temporary_bytes_removed": 1098732,
+  "temporary_directory_removed": true,
+  "upstream_copy": false,
+  "dependencies_installed": false,
+  "new_application_run": false,
+  "third_party_papers_redistributed": false,
+  "software_interfaces_executed": false
+}

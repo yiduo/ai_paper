@@ -1,0 +1,236 @@
+{
+  "recorded_at": "2026-10-21T07:12:37.800243+00:00",
+  "normal_TLS": true,
+  "download_bounds": "3primary works:LyonsPDF<=4MB,FKKmetadata<=2MB/PDF<=3MB,BPHTML<=2.5MB;BPsameworkPDF<=4MB andLyonsassociatedauthorerrata<=1MB. Eachcurl max-time35,normalTLS,no insecure bypass.",
+  "observed_failure": "Webclick OUKA PDF link returned InternalError;normalTLS metadata HTML then actually supplied href ./ojm09_01_03.pdf;bounded direct retrieval succeeded,no repeated unbounded retries.",
+  "files": [
+    {
+      "temporary_name": "bp-finite-normalization.png",
+      "bytes": 342391,
+      "sha256": "e05ede802c754a68386ee69039f15d44756566a4a3c5d8f99eb4803709e3c476",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "bp-pdf.txt",
+      "bytes": 145607,
+      "sha256": "071c0dd6c73feea63e3b89825147e165a015ce22d4054186e25c7790b6d24eb2",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "bp-transfer-definition.png",
+      "bytes": 267294,
+      "sha256": "cde07249264e2e3362c327460a83383b4b61e8cdd01b4f6fe8d53ea4f0c79e4d",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "bp.html",
+      "bytes": 1113627,
+      "sha256": "fd461478108f7d409e46d4775aec522e6fd16c28c623dc541257dd412aa3ceb1",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "bp.pdf",
+      "bytes": 412179,
+      "sha256": "5ac77ebeb5a5e81b043c13563717fdf6a203dfbb18a9ee9cd30bbded7bba39a0",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "bp.txt",
+      "bytes": 142869,
+      "sha256": "3c52e68ab37e8d1b7d9bb01dea909b07815d233b35d72272c136c14522944daa",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "fkk-assumptions.png",
+      "bytes": 207897,
+      "sha256": "25cd4396cdd4392901ad7869a2731c55775144ef0ac67c5b8fc9cc762a6aecb9",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "fkk-filtration.png",
+      "bytes": 199308,
+      "sha256": "5529768f47b1371dd005f4f56e36aa02d6c2055e9b880962c95ea682ad9858c3",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "fkk-innovation.png",
+      "bytes": 141041,
+      "sha256": "afb0cc217e9a21f72342e08ed901fd72b853fe85300029e6d5157c12641e01ed",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "fkk-page.html",
+      "bytes": 49097,
+      "sha256": "f1d122fd759607f5a583b4e79d36e37b76d9a6725321d2036e9e61710b47831e",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "fkk1972.pdf",
+      "bytes": 1814554,
+      "sha256": "81a27c04a0070c0477d329af790376454fc5f4d6583920eafcbc761f6c1f17ba",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "fkk1972.txt",
+      "bytes": 49626,
+      "sha256": "87dbafa93fc7626720ec93146cf622dc0ea458f74a4068ec6b0a7f8e9edcbd2d",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons-cylinder-original.png",
+      "bytes": 241250,
+      "sha256": "c015791ff9ae3f162eb0dab617eb2802cc109879b15df74fed5576057ea1fef9",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons-dilation.png",
+      "bytes": 277923,
+      "sha256": "6ac2734d459c262998249184cff6505d1e3b955b8be6972064280cd398a3e3b5",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons-errata-formula.png",
+      "bytes": 230685,
+      "sha256": "3e1774edf7a902944ebe49bce812ec48fa891ddfc9462f860f31cbc1ad2f3b93",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons-errata.pdf",
+      "bytes": 59886,
+      "sha256": "4f1bf702e0d141d430c19be5d4eb5cf92f0ed841b15d2c396426bb945307d288",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons-errata.txt",
+      "bytes": 4131,
+      "sha256": "0610a1344528bf4da7330917014cc5b1a8b6bd56988bd9597816cf6e71500015",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons2003.pdf",
+      "bytes": 699804,
+      "sha256": "e84c37bdad09a9337d41266311b9d266d34d6e1fae5bfa81fcdb75e4ac1d9aba",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    },
+    {
+      "temporary_name": "lyons2003.txt",
+      "bytes": 142266,
+      "sha256": "9ee082fa39da782970c4403751078bf57523718077865c33471ef1249c68a775",
+      "retained": false,
+      "classification": "primary PDF/HTML or mechanical text/page rendering;no full-text mirror"
+    }
+  ],
+  "pdf_text_tool": "Existing /opt/homebrew/bin/pdftotext -layout",
+  "render_tool": "Existing pdftoppm -f <page> -l <same> -scale-to 1500/1600/1700 -singlefile -png",
+  "actual_visual_pages": [
+    {
+      "temporary_image": "fkk-assumptions.png",
+      "source_file": "fkk1972.pdf",
+      "pdf_page": 3,
+      "printed_page": "20",
+      "scope": "assumptions2.1-2.3,joint measurability and integral E|h|^2",
+      "bytes": 207897,
+      "sha256": "25cd4396cdd4392901ad7869a2731c55775144ef0ac67c5b8fc9cc762a6aecb9",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "fkk-filtration.png",
+      "source_file": "fkk1972.pdf",
+      "pdf_page": 4,
+      "printed_page": "21",
+      "scope": "nonanticipation2.4,observation filtration2.5,measurable posterior version and Lemma2.1",
+      "bytes": 199308,
+      "sha256": "5529768f47b1371dd005f4f56e36aa02d6c2055e9b880962c95ea682ad9858c3",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "fkk-innovation.png",
+      "source_file": "fkk1972.pdf",
+      "pdf_page": 5,
+      "printed_page": "22",
+      "scope": "Lemma2.2 vector Wiener and independence from full observation past",
+      "bytes": 141041,
+      "sha256": "afb0cc217e9a21f72342e08ed901fd72b853fe85300029e6d5157c12641e01ed",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "lyons-dilation.png",
+      "source_file": "lyons2003.pdf",
+      "pdf_page": 32,
+      "printed_page": "198",
+      "scope": "positive contraction definition and block projection dilation",
+      "bytes": 277923,
+      "sha256": "6ac2734d459c262998249184cff6505d1e3b955b8be6972064280cd398a3e3b5",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "lyons-cylinder-original.png",
+      "source_file": "lyons2003.pdf",
+      "pdf_page": 34,
+      "printed_page": "200",
+      "scope": "original last display omits delta in identity-row entry",
+      "bytes": 241250,
+      "sha256": "c015791ff9ae3f162eb0dab617eb2802cc109879b15df74fed5576057ea1fef9",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "lyons-errata-formula.png",
+      "source_file": "lyons-errata.pdf",
+      "pdf_page": 1,
+      "printed_page": "1",
+      "scope": "author correction of printed200 last display",
+      "bytes": 230685,
+      "sha256": "3e1774edf7a902944ebe49bce812ec48fa891ddfc9462f860f31cbc1ad2f3b93",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "bp-transfer-definition.png",
+      "source_file": "bp.pdf",
+      "pdf_page": 16,
+      "printed_page": "15",
+      "scope": "explicit normalized M(i,j)=D^-1*g(e_i,e_j),Theorem4.2",
+      "bytes": 267294,
+      "sha256": "cde07249264e2e3362c327460a83383b4b61e8cdd01b4f6fe8d53ea4f0c79e4d",
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "temporary_image": "bp-finite-normalization.png",
+      "source_file": "bp.pdf",
+      "pdf_page": 19,
+      "printed_page": "18",
+      "scope": "finite paragraph displays M=raw g difference then asserts loop-regularization invariance",
+      "bytes": 342391,
+      "sha256": "e05ede802c754a68386ee69039f15d44756566a4a3c5d8f99eb4803709e3c476",
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "new_dependencies_installed": false,
+  "three_distinct_primary_works_plus_associated_author_errata": true,
+  "retained_hashes_are_acquisition_observations_not_locally_retained_original_bytes": true
+}

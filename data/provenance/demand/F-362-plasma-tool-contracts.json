@@ -1,0 +1,174 @@
+{
+  "work_package": "WP-046",
+  "generation_id": "GEN-20261021-043",
+  "recorded_at": "2026-10-20T21:08:57.106637+00:00",
+  "status": "bounded_public_PIC_model_and_analysis_contract_review_complete",
+  "source_archive": "data/provenance/demand/plasma-interfaces-20261021.json.gz",
+  "source_archive_sha256": "4dc160e5f74722e2c5409112496c95c4eb7b96a704e6ce40aedda04b8e8ef084",
+  "decompressed_sha256": "38ff7b9b95d9c34a41e72f9fa59c91af17c968df00e75ef3292f75f95c05c216",
+  "sources": {
+    "Examples/Tests/langmuir/inputs_test_3d_langmuir_multi": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/Examples/Tests/langmuir/inputs_test_3d_langmuir_multi",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "d2a8a19e2bff6e299b8964a48cb020e9df2d27eaebd8ee62a39153e4ccbe2f86",
+      "bytes": 46,
+      "lines": 2,
+      "read_scope": "Whole2lines;includesinputs_base_3d"
+    },
+    "Examples/Tests/langmuir/inputs_base_3d": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/Examples/Tests/langmuir/inputs_base_3d",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "24938ad273053b4e08889d9827a4d9fe673a9693a7ec6b2c94bbcc3c2b15bdfc",
+      "bytes": 3428,
+      "lines": 103,
+      "read_scope": "Whole103linesincluding species/boundaries/deposition/diagnostics"
+    },
+    "Examples/Tests/langmuir/CMakeLists.txt": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/Examples/Tests/langmuir/CMakeLists.txt",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "a18e2ded1a7ffc31752b94c6727eed1ecf2eb02cd477ac68295978130a70ebbd",
+      "bytes": 13754,
+      "lines": 453,
+      "read_scope": "Onlylines1-125 and213-246read;three3Dtestregistrations andselectedearlierentries,remainingtestsnotread"
+    },
+    "Examples/Tests/gaussian_beam/inputs_test_3d_gaussian_beam_picmi.py": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/Examples/Tests/gaussian_beam/inputs_test_3d_gaussian_beam_picmi.py",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "6f6251a571858fc7548bd78ed03b119dea8828bf4cdacd5b0741bbce2d15e08a",
+      "bytes": 3066,
+      "lines": 123,
+      "read_scope": "Whole123linesincludingdouble-species/mixedboundaries/tensteps"
+    },
+    "LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/LICENSE.txt",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "73890f67d88fe4386822cc62be41e06ccbbf15748270f1d01b6499d9e900a922",
+      "bytes": 2582,
+      "lines": 45,
+      "read_scope": "Whole45lineBSD3ClauseLBNLlicense/extraenhancementsclause read;retainedwithsources"
+    },
+    "dependencies.json": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/dependencies.json",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "13d72878fc4aa8ee8425a02e225abd97c43b13db88a2d7c72cffb89d361a2d39",
+      "bytes": 347,
+      "lines": 13,
+      "read_scope": "Whole13linesactualversion/AMReX/PICSAR/PICMIdependencydeclarations;dependenciesnotfetched"
+    },
+    "Examples/Tests/langmuir/analysis_3d.py": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/Examples/Tests/langmuir/analysis_3d.py",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "3890350ae011d5688adef38fa0bb04667dfa88ef2c39fafebd4fcb3c61f01039",
+      "bytes": 7389,
+      "lines": 220,
+      "read_scope": "Whole220lineactualanalysisread;imports/calledhelperanalysis_utilsnotread;notexecuted"
+    },
+    "Examples/Tests/langmuir/README.rst": {
+      "url": "https://raw.githubusercontent.com/BLAST-WarpX/warpx/0c62c75e53a9ad08241535444bd7e53fd1deba88/Examples/Tests/langmuir/README.rst",
+      "revision": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+      "sha256": "0cfdb5bded4b4c650de1f567a35c9466615f371444c5dc2057bb8dac639d2e71",
+      "bytes": 4935,
+      "lines": 149,
+      "read_scope": "Whole149linesdocumentwithliteralincludeentrypathsread;notallreferencedotherdimensionfilesread"
+    }
+  },
+  "software_version": {
+    "repository": "https://github.com/BLAST-WarpX/warpx",
+    "tag": "26.09",
+    "commit": "0c62c75e53a9ad08241535444bd7e53fd1deba88",
+    "release_url": "https://github.com/BLAST-WarpX/warpx/releases/tag/26.09",
+    "commit_url": "https://github.com/BLAST-WarpX/warpx/commit/0c62c75e53a9ad08241535444bd7e53fd1deba88",
+    "version_evidence": "Actualreleasepage linksfullcommit0c62c75e53a9ad08241535444bd7e53fd1deba88;commitdependenciesdiffanddownloadeddependencies.jsonsay26.09. API TLS failed;not inventedAPIverification."
+  },
+  "selected_web_observations": [
+    {
+      "url": "https://warpx.readthedocs.io/en/25.11/theory/pic.html",
+      "locator": "SelectedPICcycle/normalizedMaxwellequations,particlepush/FDTD;currentdeposition/chargeconservationparagraphs",
+      "scope": "Older25.11manual,notfixed26.09implementationaudit. DiscreteGaussrequirescompatibleinitialdata/operators/currentdepositionorcleaning;continuumglobalregularitynotnumericalcertificate.",
+      "full_source_bytes_retained": false,
+      "content_checked": true
+    },
+    {
+      "url": "https://warpx.readthedocs.io/en/26.09/usage/examples/gaussian_beam/README.html",
+      "locator": "Wholelisted123lineinputandAnalyze/VisualizeTODOsections",
+      "scope": "Inputmatchesfixedsourceonmodel/boundaries;no executable correctnessjudge suppliedinthisselectedmanualpage.",
+      "content_checked": true,
+      "full_source_bytes_retained": false
+    }
+  ],
+  "actual_contracts": {
+    "langmuir": {
+      "model": "3Dperiodiccold electron-positron pairplasma inSI;twoequalmasscharges;finiteparticles/grid",
+      "input": "64^3cells,40micrometerbox,epsilon.01,sinusoidaloppositemomenta,oneparticleperspeciespercell,40steps,CFL1",
+      "deposition": "Esirkepov,currentgatherenergy-conserving,shape1,nofilter",
+      "judge": "analysis_3d.py comparesEx/Ey/Ez atgridcellcentersandparticlepositions toanalyticwavefields atactualt0;maxrelativeLinferror<.05;alsofield-selectiondiagnostics/openPMD andoptionaldivcleaningcheck<.01",
+      "judge_limit": "Finite40stepregressiononly. Denominatorismaxanalyticfield;notabsolutecontinuumerror,meshconvergenceorlongtimebound. check_charge_conservationcalledbuthelperbodyunread;no localtestpassclaim.",
+      "test_registration": "CMake213-246:base3D2processesanalysis_3d.py+checksum;PICMIvariantanalysisOFF/checksumonly.Notallvariantsuseanalyticjudge."
+    },
+    "gaussian_beam": {
+      "model": "Electronsandprotons,GaussianBunchDistribution,transverseperiodic/longitudinalopenfields andabsorbingparticles",
+      "input": "32^3cells;32768macroparticlesperspecies;CFL1;thirdorderstencilrequest;tensteps;directcurrentdeposition/nofilter",
+      "judge": "Fieldandparticlediagnostics;selectedmanualAnalyzeTODO;no theorem-matchedglobalregularity/errorjudge",
+      "limit": "Gaussianlaw/finiteparticleempiricaldistributionisnotgivenCcinfinitycompactphase-density;actualsamplingtruncationimplementationunread. Do notinferbunchmeasuretail/smoothnessfromclassname."
+    },
+    "theorem": "F362one-speciesR3,no backgroundcharge,smoothcompactf0,Cb∞L2Gaussfields,finiteTclassicalsolution;no knownP0/finite-gridrate",
+    "particle_bridge": "Lazarovici2016uniformNregularizeddensityconditionandliteralv1Cc2Gaussissueunchanged;no automatictransferfromsingleclassicalsolution"
+  },
+  "decisions": [
+    {
+      "route": "RunLangmuirasF362validation",
+      "status": "not_eligible",
+      "reason": "Differentdomain/species/coldempiricalinput;existinganalyticwavejudgebettertargeted. Passing5percentregressionwouldnotvalidateF362ornewbenefit."
+    },
+    {
+      "route": "RunGaussianbeamforglobalexistence",
+      "status": "not_eligible",
+      "reason": "Differentmodel/boundaries/inputclass;tenstepdiagnosticsnoerrorcertificate. No reasonfordownloadingsimulator."
+    },
+    {
+      "route": "TransferGaussregularity",
+      "status": "conditional_interface_only",
+      "reason": "Discretedeposition/initialconstraint/solvercouplingneedsitsowncontract;sourcecontinuumconstraintsdonotcertifynumericalMaxwell."
+    },
+    {
+      "route": "Generalfiniteplasmamapping",
+      "status": "no_new_candidate",
+      "reason": "No matchedfiniteobservable/certifiedinputornewalgorithm/errorbudget;retainconditions andoldmethods,redirectratherthanforceknowncalibration."
+    }
+  ],
+  "unresolved": [
+    "analysis_utils.check_charge_conservationbodyunread;nofulltest/sourceimplementationclosure.",
+    "AMReX/PICSAR/PICMIandotherdependenciesonlydeclaredversions,notfetchedorinstalled.",
+    "No representativeF362eligiblefiniteinputoruniformNregularizedbound;no runtime/cost/accuracyobservations.",
+    "Older25.11manualisqualifiedwebreadingonly,not26.09sourcepin. Latestdocspagerendered26.10andnotusedas26.09evidence."
+  ],
+  "failed_access": [
+    {
+      "url": "https://api.github.com/repos/BLAST-WarpX/warpx/commits/26.09",
+      "result": "curl35TLS;nooutput"
+    },
+    {
+      "url": "https://api.github.com/repos/BLAST-WarpX/warpx/git/ref/tags/26.09",
+      "result": "curl35TLS;stoppedAPIretrieval,releaselinkrecoveredfullSHA"
+    },
+    {
+      "path": "Examples/Tests/langmuir/analysis.py",
+      "result": "404;actualCMakepointsanalysis_3d.py,recovered"
+    },
+    {
+      "path": "Docs/source/usage/examples/langmuir/README.rst orREADME.md",
+      "result": "404;actualExampleREADME.rstrecovered"
+    },
+    {
+      "path": "Docs/source/theory/picsar_theory.rst",
+      "result": "404;older25.11manualselectedwebscopeusedwithlimit"
+    },
+    {
+      "path": "Tools/PostProcessing/analysis_utils.py",
+      "result": "404;helperunresolved,norepeatedguesses"
+    }
+  ],
+  "new_application_connection_ids": [],
+  "new_application_run": null,
+  "storage": "8licensedsource/license/versionmembers compressedwithmember/roundtriphashes;temporaryduplicate/downloads cleanedafterverification;no simulationarrays/build/cache."
+}

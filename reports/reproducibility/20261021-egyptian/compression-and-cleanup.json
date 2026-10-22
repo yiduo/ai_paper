@@ -1,0 +1,114 @@
+{
+  "recorded_at": "2026-10-21T04:21:42.996996+00:00",
+  "helper_gzip_bytes": 41920,
+  "uncompressed_bytes": 124206,
+  "roundtrip_verified": true,
+  "formal_index_gzip_bytes": 49651,
+  "temporary_bytes_removed": 121881,
+  "selected_primary_source_render_bytes_removed": 3753616,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-egyptian/curate.py",
+      "bytes": 28402,
+      "sha256": "7f468a6f20151f410dcfd7a5eaff6d921511d3449d2841b8792fa62076c4d8ef"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/curation-count-failure.json",
+      "bytes": 308,
+      "sha256": "49cfeedb391a7ee5f3f478d35450b648c2a026ccb86f0821bb51dc703a57d473"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/core.log",
+      "bytes": 9328,
+      "sha256": "213096d5db8e9fcd5bd0414c8b1f95e36408bd5c222afc954776e72a195c881f"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/archive-integrity.log",
+      "bytes": 110,
+      "sha256": "8310768bc37afcdd07df9cb0a2202ec0598b205ccacbc7b3ade9b6616d6d9c0b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/integrity.log",
+      "bytes": 2470,
+      "sha256": "5bd30d7bb0fdfc423421b2ec7066c209cda5138ca12f256c50e138a62869e351"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/reference-finish.py",
+      "bytes": 12476,
+      "sha256": "fd325059845b5aa8331dfee72cb925814001cce8864d563ef0afc8b1ca398ab9"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/archive_integrity.py",
+      "bytes": 1358,
+      "sha256": "ba48d0c31f35fcd28872061ca9c9f50f3182061ba5bdb6ca9dca3e6189950f45"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/start.py",
+      "bytes": 1519,
+      "sha256": "d9da514a2686802c18d88cd8a2d22d83225b882dde746db01f1500ac389e4dd4"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/quality.log",
+      "bytes": 83,
+      "sha256": "dc79f7c74b694ba2dbd724c22c798d288c056cb906efa221dc72c53d6d138238"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/curate.log",
+      "bytes": 118,
+      "sha256": "b7b8a11926482633027827ef48073f6c6455c4bcf964d1da5560fa4a718e5367"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/replay-221.log",
+      "bytes": 363,
+      "sha256": "cc86bd34c6fa04d75f533ff2f95797737b5aebd640dd6b9b91289b5245f4804b"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/export.log",
+      "bytes": 542,
+      "sha256": "90b91e6c44aaaaba36723a7f2a9ebdd2d651a31e577176c75e4ea9f0496781bc"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/progress.json",
+      "bytes": 19729,
+      "sha256": "6155ef9c1316e3a3ec44e78a7dd6faea0073def2d103f6f7c41b929c7ac1351d"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/quality.py",
+      "bytes": 3003,
+      "sha256": "10751726ac3e9a025194304c074fd9a8827d8240b06da74558f795b6b9467aca"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/integrity.py",
+      "bytes": 6801,
+      "sha256": "0728d8ff23f3b27feb0ed2bc360f2deaa5859210c6e729bcbcd861c20814e014"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/report.py",
+      "bytes": 6383,
+      "sha256": "77614cc5321a2a3058ec5bb2d8e5a0d50f2faf94f118e66d61c058ed9962315e"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/prepare.py",
+      "bytes": 11628,
+      "sha256": "6e27c838ba0841e00beb688f6b456f86f59d6ba55b3017e55b5a1a6e9a277033"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/finish.py",
+      "bytes": 13894,
+      "sha256": "85e04d86ef0568502c004cba5b20bfb5357944c54585b87a47672a1247d69681"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/replay-325.log",
+      "bytes": 363,
+      "sha256": "e67d0b898482d40ce56b4d1efa3f640dd8c6a3eb9048dce7dad5da6605c28e58"
+    },
+    {
+      "path": "/private/tmp/ai-paper-egyptian/reference-quality.py",
+      "bytes": 3003,
+      "sha256": "5d297d832eab9fa8af7d2bd2dbb5008f9f30932fc80b6a44ed5dc307ba1ec4f6"
+    }
+  ],
+  "no_new_numerical_payload": true,
+  "precanonical_failed_ledger_gzip_retained": true,
+  "cleanup": "Ownhelper/log/progressexactgziproundtripverifiedbeforeremoval. ExternalprimaryPDF/pagebytesremovedafterselected-primary-visualreceipt,notmirrored. Minimalclean/replayTemporaryDirectoriesremoved;upstreamread-only,noinstalleddependencies."
+}

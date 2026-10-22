@@ -1,0 +1,10 @@
+{
+  "generation_id": "GEN-20261021-078",
+  "recorded_at": "2026-10-21T06:31:32.458410+00:00",
+  "failure": "ValueError: Invalid external citation record at src/ai_value/graph.py:244;own source_for omitted required content_checked boolean",
+  "scope": "14 newly added external source annotations;actual original scopes had been read",
+  "repair": "Add content_checked=true to only those annotations;no source theorem,grade,prediction or count changes;keep exact previous nodes including nested earlier history",
+  "preserved_records": 15,
+  "history": "data/graph/history/GEN-20261021-078-citation-format-before.json.gz",
+  "schema_or_validator_changed": false
+}

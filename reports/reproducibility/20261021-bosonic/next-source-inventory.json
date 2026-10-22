@@ -1,0 +1,140 @@
+{
+  "scope": "Catalogue and filesystem counts only;no new source reading or accepted source claim",
+  "candidates": [
+    {
+      "family_id": "F-229",
+      "manuscripts": [
+        {
+          "id": "P-6f02d37a7ba80c5f",
+          "title": "The Reconstruction Threshold for the Ferromagnetic Four-State Potts Model",
+          "readme": "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/README.md",
+          "tex_files": 9,
+          "tex_lines": 1400,
+          "bib_lines": 0,
+          "source_files": [
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/main.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/references.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/01-introduction.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/02-experiments.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/03-cone.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/04-tree-decay.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/05-polynomial-certificates.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/06-finite-verification.tex",
+            "math/preprints/The-Reconstruction-Threshold-for-the-Ferromagnetic-Four-State-Potts-Model-October-5-2026/build/sections/07-code-appendix.tex"
+          ],
+          "source_body_read_for_selection": false
+        },
+        {
+          "id": "P-487751468997efee",
+          "title": "A Capacity Criterion for Four-State Potts Reconstruction on Trees",
+          "readme": "math/preprints/A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026/README.md",
+          "tex_files": 1,
+          "tex_lines": 758,
+          "bib_lines": 129,
+          "source_files": [
+            "math/preprints/A-Capacity-Criterion-for-Four-State-Potts-Reconstruction-on-Trees-October-5-2026/build/main.tex"
+          ],
+          "source_body_read_for_selection": false
+        },
+        {
+          "id": "P-678d3715cd69b71c",
+          "title": "The exact reconstruction threshold for the three-state symmetric channel",
+          "readme": "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/README.md",
+          "tex_files": 13,
+          "tex_lines": 3624,
+          "bib_lines": 196,
+          "source_files": [
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/main.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/preamble.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/01-introduction.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/02-foundations.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/03-positive.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/04-local.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/05-weighted.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/06-grid.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/07-conclusion.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/appendix-certificates.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/appendix-grid.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/appendix-interval.tex",
+            "math/preprints/The-exact-reconstruction-threshold-for-the-three-state-symmetric-channel-September-25-2026/build/sections/appendix-radial.tex"
+          ],
+          "source_body_read_for_selection": false
+        }
+      ]
+    },
+    {
+      "family_id": "F-231",
+      "manuscripts": [
+        {
+          "id": "P-d7fb1e01136d8684",
+          "title": "The free uniform spanning forest is a factor of IID",
+          "readme": "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/README.md",
+          "tex_files": 7,
+          "tex_lines": 1336,
+          "bib_lines": 220,
+          "source_files": [
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/paper.tex",
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/decoder.tex",
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/implementation.tex",
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/introduction.tex",
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/observation.tex",
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/response.tex",
+            "math/preprints/The-free-uniform-spanning-forest-is-a-factor-of-IID-September-25-2026/build/sections/strongly-rayleigh.tex"
+          ],
+          "source_body_read_for_selection": false
+        }
+      ]
+    },
+    {
+      "family_id": "F-239",
+      "manuscripts": [
+        {
+          "id": "P-a12e95803a6ff0ff",
+          "title": "The sharp exponential rate of singularity for symmetric Bernoulli matrices",
+          "readme": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/README.md",
+          "tex_files": 14,
+          "tex_lines": 5250,
+          "bib_lines": 0,
+          "source_files": [
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+            "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex"
+          ],
+          "source_body_read_for_selection": false
+        },
+        {
+          "id": "P-88bbfa0056a7bec9",
+          "title": "The sharp singularity rate for biased symmetric sign matrices",
+          "readme": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/README.md",
+          "tex_files": 10,
+          "tex_lines": 2833,
+          "bib_lines": 0,
+          "source_files": [
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+            "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex"
+          ],
+          "source_body_read_for_selection": false
+        }
+      ]
+    }
+  ]
+}

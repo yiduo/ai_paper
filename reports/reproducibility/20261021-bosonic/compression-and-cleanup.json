@@ -1,0 +1,136 @@
+{
+  "recorded_at": "2026-10-21T05:48:28.486348+00:00",
+  "helper_gzip_bytes": 33510,
+  "helper_uncompressed_bytes": 106445,
+  "helper_member_count": 23,
+  "files": [
+    {
+      "name": "archive-integrity.log",
+      "bytes": 110,
+      "sha256": "7c07426d1b28a44da10d371429a396d63e213e84b4a16641a338f3dd107826cd"
+    },
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1356,
+      "sha256": "d1b0fb1db73df43fb19f969546cadf7ab92de52a35141674a5033eaa750b091a"
+    },
+    {
+      "name": "audit-output.log",
+      "bytes": 3523,
+      "sha256": "a9213e2cf5446b985e7beff1005b689f32554e332e371997d755fc704a7eb0a7"
+    },
+    {
+      "name": "audit_outputs.py",
+      "bytes": 5081,
+      "sha256": "8cc295776394f1d1f598e5103e548c9e3e5df4c80d044fccd64b66dbfcea8d81"
+    },
+    {
+      "name": "core.log",
+      "bytes": 9968,
+      "sha256": "5a00a6cecb1724e358506069bfcaa744c8669f3fb59a68539a00ee3ae7d26ee6"
+    },
+    {
+      "name": "curate.log",
+      "bytes": 167,
+      "sha256": "506d57f831bddea0b9fcbaa714bdfd8156196cb520d712200996434e63104761"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 16928,
+      "sha256": "0b651bbdf94540de0f762e2cbfed8cab80b1d5b508489ab42802db4d7cfd37de"
+    },
+    {
+      "name": "export.log",
+      "bytes": 542,
+      "sha256": "84e57275105230890f2bddccbf528504b8ec64d4eed2863f231de07dacae80ea"
+    },
+    {
+      "name": "finish.py",
+      "bytes": 13332,
+      "sha256": "f3b189201487c3bcbff1e7d3ba1e09592df07cfd2e505603e45f725125a87047"
+    },
+    {
+      "name": "integrate.py",
+      "bytes": 4040,
+      "sha256": "2f76be34106227d83125694ea0ff0ced018523b5b871357d1ea9970aea50a2f1"
+    },
+    {
+      "name": "integrity-before-count-fix.py",
+      "bytes": 4923,
+      "sha256": "cf666e4c71e17b1e108a109298e9d05e20c922242be603d591f5f92dfe38ebe6"
+    },
+    {
+      "name": "integrity-count-failure.log",
+      "bytes": 174,
+      "sha256": "98779072e8049189d8364cfd92885c9b8df14359df5fcee59f6318bfd74321e6"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 2255,
+      "sha256": "277552bb0afa06f4f5500b58fd846ea68dc0b065e75cdb0dc8aa6f4a750bf5d7"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 5371,
+      "sha256": "fd0797c6b88bc62bf4276155a0f5eb732f7fba0fc76424547660689cdcd6f2db"
+    },
+    {
+      "name": "pre-run-core.log",
+      "bytes": 9968,
+      "sha256": "cdb9cbcbb8d396b88d3834874c7c4a9733153c97a5cb8dd398ba95169cb5fe8f"
+    },
+    {
+      "name": "progress.json",
+      "bytes": 1096,
+      "sha256": "02ecfd694acdd99b1ad835731c229da263338a3bf0534fb963fe7eb40761cf95"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "63515c84200158e4f0f03420876601fff0f828859ecb3c57f445b18f97158109"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3001,
+      "sha256": "bce4bef29352f76f917970a82dac1232dcc975dc4216e8c901016df82a591c0d"
+    },
+    {
+      "name": "register.py",
+      "bytes": 13118,
+      "sha256": "671d52e71bd7e7fcee950b68569abfcc43bf53d710de7fd6d325abd46687bb5a"
+    },
+    {
+      "name": "replay-273.log",
+      "bytes": 373,
+      "sha256": "1ceb9789b18aa817c75b0e891430df966c5b605e346521b1d1995dbbd0c3deb3"
+    },
+    {
+      "name": "replay-374.log",
+      "bytes": 363,
+      "sha256": "03388c36403bdda5447ba84ad17d4e4ffb00933da27e1eef6bb41b7cbe85f408"
+    },
+    {
+      "name": "run.log",
+      "bytes": 4824,
+      "sha256": "317fb7aed9797ce6d804775c60f87d959bb4afa1e2e168dc274a6ef1a4a0d8a6"
+    },
+    {
+      "name": "unit.log",
+      "bytes": 738,
+      "sha256": "068d074fda9ecb55a2a037392389433c13db3487100a85111bdff19db64107f2"
+    }
+  ],
+  "all_helper_member_roundtrips_and_hashes_verified": true,
+  "temporary_bytes_removed": 101334,
+  "new_application_run": "EXP-273-001-28f6d541ddfebd6e",
+  "run_payload_gzip_bytes": {
+    "raw.json.gz": 175568,
+    "summary.json.gz": 595,
+    "inputs.json.gz": 72361
+  },
+  "all14_run_archives_verified": true,
+  "external_fulltext_or_upstream_copies_created": false,
+  "dependencies_installed": false,
+  "cleanup": "All own temp helpers/logs/progress archived exactly and verified before unlink. Actual experiment raw/summary/source remain in immutable compressed run archive;original and replay no numerical plaintext retained. No remote full-text or package download in this package.",
+  "temporary_directory_removed": true
+}

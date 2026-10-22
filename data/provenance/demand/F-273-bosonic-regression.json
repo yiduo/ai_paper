@@ -1,0 +1,106 @@
+{
+  "work_package": "WP-080",
+  "generation_id": "GEN-20261021-076",
+  "recorded_at": "2026-10-21T05:40:45.245866+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "candidate": "APP-273-02",
+  "source_ledger": "data/provenance/readings/F-273.json",
+  "source_selected_reread": [
+    {
+      "path": "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/00-introduction.tex",
+      "sha256": "e9aacce4cf725d58cd99276a76c989adaee998706a3ffab2a2c0676b506ffb04",
+      "scope": "00introduction1-185 / entire01preliminaries; actual definitions/input/mixing/old sharp boundaries,not whole fresh family read"
+    },
+    {
+      "path": "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/01-preliminaries.tex",
+      "sha256": "b683c666a9d88280ad831e4065aaf89fb3de43d2098ae987a8ce0267765d5128",
+      "scope": "00introduction1-185 / entire01preliminaries; actual definitions/input/mixing/old sharp boundaries,not whole fresh family read"
+    }
+  ],
+  "primary_selected_scopes": [
+    {
+      "url": "https://arxiv.org/pdf/1605.00441v2",
+      "scope": "PDFp2 theorem1/II8 and vacuum channel semantics,render130-215"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1705.00499v1",
+      "scope": "Theorem11 input diagonal in some product basis,PDFpp10-11 selected; not all internal entanglement"
+    },
+    {
+      "url": "https://arxiv.org/html/1805.12469v3",
+      "scope": "sectionII thermal environment definition,Theorem6 eq33; selected,not full proof"
+    },
+    {
+      "url": "https://arxiv.org/html/1402.0404v2",
+      "scope": "Eqs3-5 independent ports arbitrary eta/exponential qEPI; no within-port product restriction"
+    }
+  ],
+  "no_external_fulltext_mirrored": true,
+  "preregistration_commit": "3a05131",
+  "implementation_commit": "d201e60",
+  "spec_sha256": "7e6391bacf77325ef7a75dfc9858822032e5e26ce9ed2262dbe9e1ea0bedc82c",
+  "run_id": "EXP-273-001-28f6d541ddfebd6e",
+  "actual_runtime": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "platform": "macOS-27.0-arm64-arm-64bit",
+    "dependencies": {
+      "standard_library": true,
+      "numpy": "2.3.5"
+    }
+  },
+  "results": {
+    "counts": {
+      "valid_cases": 36,
+      "valid_resolved_false_alarms": 0,
+      "candidate_reference_mismatches": 0,
+      "undefined_faults": 0,
+      "defined_faults": 252,
+      "exactly_distinct_output_faults": 183,
+      "EPnI_detections": 62,
+      "old_entropy_detections": 62,
+      "core_extra_entropy_only_detections": 0,
+      "direct_matrix_detections": 183
+    },
+    "failures": [],
+    "structural_or_numerical_failures": 0,
+    "correlated_port_negative_control": {
+      "joint_trace": "1",
+      "product_of_marginals_equal": false,
+      "entropy_inequality_eligible": false,
+      "both_qEPI_and_EPnI_skipped": true
+    },
+    "meets_prediction": false,
+    "all_precision_enclosures_overlap": true,
+    "max_candidate_reference_entry_difference": 2.3223610534639505e-16,
+    "old_direct_reference_superiority_claimed": false,
+    "theorem_validation": false,
+    "human_review": false,
+    "cross_provider_review": false,
+    "interpretation": "Finite synthetic simulator regression with exact channel reference and residual-validated entropy intervals; extra catches only versus eligible old scalar entropy floors, never versus full matrix reference. Not a theorem proof or observed external-library defect."
+  },
+  "resource_evidence": {
+    "elapsed_seconds": 21.118190999957733,
+    "peak_traced_python_bytes": 11802708,
+    "process_peak_rss_bytes": 65126400,
+    "resource_envelope_met": true,
+    "stage_runtime_metrics": {
+      "exact_channel_seconds": 0.20636966708116233,
+      "candidate_channel_seconds": 0.9894169563194737,
+      "certified_entropy_seconds": 19.521004620473832,
+      "runner_seconds": 20.953000833047554,
+      "spectral_cache": "CacheInfo(hits=599, misses=193, maxsize=2048, currsize=193)"
+    },
+    "archive_compression_seconds": 0.1227421659277752
+  },
+  "application_scope": "Own finite-support passive bosonic simulator regression,explicit synthetic mutations. Not execution/adoption/bugs of third-party simulator,hardware,capacity or theorem proof.",
+  "baseline_finding": "Old entropy-only bounds and new detect same62;0extra againstold. Full direct matrix reference detects all183distinct changes and already suffices. Tiny complete-reference environment does not establish scalable speed/value from new bound.",
+  "old_special_cases": "One-mode vacuum DTG1605v2 theorem1 and multimode product-basis-diagonal+thermalenv DTG1705v1 theorem11 receive sharpoldfloor,neverincrement. Old2019 theorem6 requiresindependentthermalenv; core B nonthermal,notthat channel. Exact physical-modefactorization audit finds no two-mode case with bothportsproduct; no omitted per-mode qEPI additivity branch on this pack.",
+  "numerical_qualification": "Exact rational pure-state positive mixtures and norms/trace/energy; entire <=4photon invariant basis. NumPy Hermitian-generator compared independent exact creation-polynomial reference. Eigenpair residual+orthogonality validated with exact Fractions; directed70/100digit Decimal scalar functions/entropy/inverseg,all intervals overlap; numerical-runtime certificates not formal math proof.",
+  "negative_control": "Actual exact two-port Bell density differs from tensor of its partial traces;both inequalities explicitly skipped. Internal entanglement witnesses tested separately by exactnegativePTminor.",
+  "review_limits": "Same selected OpenAI session auxiliary opinions,not independent provider/human. Full source dependency closure unknown;selected sourceB doesnot make appA.",
+  "new_candidate_count": 1,
+  "new_initial_checks": 1,
+  "new_application_run": true,
+  "formal_rejection": false,
+  "tuning_after_outputs": false
+}

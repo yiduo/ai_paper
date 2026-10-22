@@ -1,0 +1,38 @@
+{
+  "curate_f366.py": {
+    "path": "reports/reproducibility/20261021-mumford-shah/curate_f366.py.gz",
+    "gzip_sha256": "b09ddd2814281c02fc21c110daeb1f282a2e6d5ce2caafdf694f1c1c0751987b",
+    "decompressed_sha256": "73b3589ec8ce0468fbf19f5486a1de9ea91394b2f46daee3a044c6bab2afd54b",
+    "bytes": 24065
+  },
+  "repair_f366_metadata.py": {
+    "path": "reports/reproducibility/20261021-mumford-shah/repair_f366_metadata.py.gz",
+    "gzip_sha256": "c384ce27e143a56796e73c21166eeea591fd9be1145b5563483c793fa0557a74",
+    "decompressed_sha256": "8b6da124db282d3e9bb9c811dec16e033dcde3c03a668de989c52bf598e88018",
+    "bytes": 2604
+  },
+  "repair_f366_edges.py": {
+    "path": "reports/reproducibility/20261021-mumford-shah/repair_f366_edges.py.gz",
+    "gzip_sha256": "9a3296beb230cda6bef83391dddfdc1188b14aa99391565778cb2fecd5b2468f",
+    "decompressed_sha256": "4a3adffb1718ec7e14ae2421202f341599e0d68703fa7699538998891017f46b",
+    "bytes": 2434
+  },
+  "verify_cleanup_f366.py": {
+    "path": "reports/reproducibility/20261021-mumford-shah/verify_cleanup_f366.py.gz",
+    "gzip_sha256": "98ac55a65bf01883cb9c0a29bb7b007088186730382f6cb26c930b6397f41fb8",
+    "decompressed_sha256": "9680363b59ddb7175b427d1a77bed5e693d19e1d227f427fa623bb2ea381af71",
+    "bytes": 1704
+  },
+  "quality_f366.py": {
+    "path": "reports/reproducibility/20261021-mumford-shah/quality_f366.py.gz",
+    "gzip_sha256": "6ef7466ae4da3a4d6ed9545c653b54f4a78680af44fd1aa11ca76dc3c64fe24e",
+    "decompressed_sha256": "a5da7188dfcca93d629e7985ac90fb1e5a964ec834db415a02b87479e2df562b",
+    "bytes": 2901
+  },
+  "finish_f366.py": {
+    "path": "reports/reproducibility/20261021-mumford-shah/finish_f366.py.gz",
+    "gzip_sha256": "57e4b78da5c761ae2130b9ce5925ff4816b5b82e228fa5835ad5fbf97d06e3d4",
+    "decompressed_sha256": "c24637679a0873cc8387d0c84e822ba28dacf21a6c0dc582d9cfc99b54a980a4",
+    "bytes": 9340
+  }
+}

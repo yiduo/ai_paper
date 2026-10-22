@@ -1,0 +1,36 @@
+{
+  "recorded_at": "2026-10-20T17:06:49.060473+00:00",
+  "payloads": [
+    {
+      "path": "data/provenance/demand/ibm-brisbane-0e177896.json.gz",
+      "compressed_bytes": 34875,
+      "uncompressed_bytes": 415213,
+      "compressed_sha256": "afa03d4fa55576fb4743e32cd7e4f8e8b1fccdd0ba0a929f4cbc2cf52528d9a4",
+      "decompressed_sha256": "051ea6e99c49a22cd48cce10b8cd897045c5a2c9942757e23bbf52e08f8bd966"
+    },
+    {
+      "path": "data/graph/history/APP-276-01-v1.json.gz",
+      "compressed_bytes": 2918,
+      "uncompressed_bytes": 5315,
+      "compressed_sha256": "16b60bf61d912b69f267309a37717ec1225d169e68c9547ebbdb4f3fbe69fbf6",
+      "decompressed_sha256": "9f7aba81de5826fbc0ea6f3d7a276ac21cc21ffcebc3345586ce25ffc470d64e"
+    },
+    {
+      "path": "data/graph/history/APP-178-01-v2.json.gz",
+      "compressed_bytes": 3073,
+      "uncompressed_bytes": 6150,
+      "compressed_sha256": "f1851c6396a0696349bea2feb16545fb79493af67394fd89e90ebda2bdf27bb8",
+      "decompressed_sha256": "c5e2a056bb4831ea68373d578442b60f1cf0172bf6dc4f2f8612feb2cd2905b3"
+    },
+    {
+      "path": "data/graph/history/APP-333-01-v1.json.gz",
+      "compressed_bytes": 2139,
+      "uncompressed_bytes": 4312,
+      "compressed_sha256": "403565aa750a4584b68326b870ec66279fe165966189207ab256eefb2979eee4",
+      "decompressed_sha256": "574bf2fa73616cb652ca986b423f6febbd0799ec6f5770eff8b6e85d3227d272"
+    }
+  ],
+  "all_roundtrips_verified": true,
+  "new_numerical_runs": 0,
+  "unchanged_numerical_archives_last_full_integrity": "reports/reproducibility/20261021-polycyclic/archive-integrity.json"
+}

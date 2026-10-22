@@ -1,0 +1,19 @@
+{
+  "recorded_at": "2026-10-20T18:54:32.985990+00:00",
+  "prior_nodes_equal_pre_generation_HEAD": 20,
+  "prior_plan_bytes_equal_HEAD": true,
+  "read_source_files_hashes_checked": 19,
+  "read_source_lines": 6195,
+  "named_bindings": 64,
+  "index_source_hashes_checked": 57,
+  "index_declarations": 724,
+  "index_gzip_bytes": 11677,
+  "temporary_originals_removed_in_previous_reading_turn": {
+    "files_removed": 8,
+    "bytes_removed": 2102820,
+    "directory_exists_after": false
+  },
+  "new_numerical_run": null,
+  "upstream_copy_or_cache": false,
+  "Lean_build": false
+}

@@ -1,0 +1,136 @@
+{
+  "work_package": "WP-043",
+  "generation_id": "GEN-20261021-040",
+  "recorded_at": "2026-10-20T20:33:12.858642+00:00",
+  "status": "bounded_actual_interface_and_original_approximation_review_complete",
+  "source_archive": "data/provenance/demand/segmentation-interfaces-20261021.json.gz",
+  "source_archive_sha256": "29a50b92154364c98c11989204bad0d5ff617abf71b9bdb924056aaebcd5e1ad",
+  "decompressed_sha256": "aca38ac80e16c7388820ff062c3771869e70cef1f0d89d4f9fecb41395d60252",
+  "sources": {
+    "src/skimage/segmentation/_chan_vese.py": {
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8/src/skimage/segmentation/_chan_vese.py",
+      "sha256": "1c7827ee08c4f1d3aa740b7a40cf33cb2619b75484fc4403b69ef773d19dd3d2",
+      "bytes": 13774,
+      "read_scope": "Whole365line actual module including helpers/public routine/docstring read;dependencies not audited",
+      "revision": "ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8"
+    },
+    "doc/examples/segmentation/plot_chan_vese.py": {
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8/doc/examples/segmentation/plot_chan_vese.py",
+      "sha256": "5cd8610442e7aa1180098ab261379fa374ee72ba8881f410cfcb56b3cee9e242",
+      "bytes": 2877,
+      "read_scope": "Whole85line gallery script read;data.camera loader call only,image pixels not downloaded or inspected;no local execution",
+      "revision": "ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8"
+    },
+    "LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/scikit-image/scikit-image/ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8/LICENSE.txt",
+      "sha256": "611d3207504dcb4a808df209d2e7c9b4f2e89fe690f84735c0d548160966b527",
+      "bytes": 6435,
+      "read_scope": "Applicable default BSD3Clause header and permission/disclaimer read;full upstream license file retained with other notices,not all unrelated exceptions audited",
+      "revision": "ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8"
+    }
+  },
+  "source_version": {
+    "repository": "https://github.com/scikit-image/scikit-image",
+    "tag": "v0.26.0",
+    "commit": "ee0a7a3ebd9ac8c2602f40e55bc015a3c8a81ae8",
+    "commit_date": "2025-12-20T16:42:52Z",
+    "commit_message": "Designate 0.26.0 release"
+  },
+  "selected_original_scopes": {
+    "chan1999": {
+      "title": "An Active Contour Model without Edges",
+      "url": "https://www.math.ucla.edu/~lvese/PAPERS/SS99.pdf",
+      "file": "chan1999.pdf",
+      "locator": "Original ScaleSpace1999 authorhostedPDF;selectedpp141-146 Sections1/2/2.1/2.2,energy,units,levelset andnonconvex/local-minimum discussion. Laterexperiments/references not read.",
+      "scope": "Two-valued minimalpartition restriction,not fullpiecewisesmoothMumfordShah. Original nonconvex iteration may produce local minima;reported tendency toglobal minima is not a general certificate. Area nu and signed-distance reinitialization differ from inspected implementation.",
+      "pdf_sha256": "366be6a90659a40590f1deb28195f95d54bc9d37f30cd7d5faf6db11064b573f",
+      "pdf_bytes": 197902,
+      "extracted_text_sha256": "d6cb8e2ec9c99fcb63c563f8a130713612f72a07ef90abc566c2116a6c3693e5",
+      "content_checked": true
+    },
+    "FKST2023": {
+      "title": "Gamma-Convergence of an Ambrosio-Tortorelli approximation scheme for image segmentation",
+      "url": "https://arxiv.org/pdf/2202.04965v2",
+      "file": "approx2023.pdf",
+      "locator": "4Sep2023v2;selectedIntroduction Eq1.6-1.16/Ass1.1/Thm1.2/Cor1.3 andSection2.4 Def2.10-11/Prop2.12. Mainproofs/CLp technicalconstruction not fully read.",
+      "scope": "Thm1.2 is for CLp and normalized measures lambda|v|,lambda|1-v|,so binary-limit phase losses/gradients divided by phase volumes;not same fixed globalweights as F366 or scikit. Positive mu limit yields smoothphase functions,mu→infinity gives constantphase case. Cor1.3 has compactness/density/subsequence conditions;near-minimum objective gaps in Prop2.12 must tend tozero. No fixed-grid error,iteration-stopping certificate or quantitative topology/rate claimed from this selected scope.",
+      "pdf_sha256": "7af1142c2fba2d52428ea16c26fbaf28a3d26e2b971ec03b1c0367dd75a70be7",
+      "pdf_bytes": 649653,
+      "extracted_text_sha256": "13ad7ed09459f3f4b94529bbe5963435891493327dba3f4ac1bc8e398cdaa8dd",
+      "content_checked": true
+    }
+  },
+  "observed_software_contract": {
+    "model": "Two-phase region means c1/c2 plus contour-length penalty;no within-region grad(u)^2 term,no area nu;2Dgrayscale only.",
+    "normalization": "Actualroutine casts supportedfloat,subtracts image minimum,divides by postsubtractmaximum if nonzero. Pixel differences/padding are unscaled unit-grid;no physical pixel-spacing parameter.",
+    "output": "Boolean phi>0 segmentation;extended tuple also returns phi levelset and list of energies. Phi is not reconstructed intensity u of F366.",
+    "stopping": "while RMS(phi_new-phi_old)>tol anditeration<max_num_iter. No explicit energygap,KKT/globaloptimality comparison,wholecontinuumcompactcompetitor certificate orsuccess/failureflag. Energy list appends previous energy,so final state energy not automatically its last element.",
+    "helpers": "Hard sign means used in update,regularized Heaviside energy,edge padding,finite difference curvature andfloatingarithmetic. Reset function deliberately returns phi unchanged;wordplaceholderinitsdocstring isnot a Leanproofhole.",
+    "source_execution": "Notinstalled,imported orrun;NumPy/SciPy dependencyclosure,floatstability andperformance not audited"
+  },
+  "public_example": {
+    "source_path": "doc/examples/segmentation/plot_chan_vese.py",
+    "input": "img_as_float(data.camera())",
+    "parameters": {
+      "mu": 0.25,
+      "lambda1": 1,
+      "lambda2": 1,
+      "tol": 0.001,
+      "max_num_iter": 200,
+      "dt": 0.5,
+      "init_level_set": "checkerboard",
+      "extended_output": true
+    },
+    "scope": "Actual public gallery code/loader metadata only;image data/pixels not read,not a production workload ormeasuredresult"
+  },
+  "old_approximation": {
+    "original_AT1990": {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/cpa.3160430805",
+      "scope": "Publisher metadata/abstract only;institutional entry has no attached file;original theorem body not retrieved or credited",
+      "body_read": false
+    },
+    "precise_later_scope": "Actual FKST2023 selected theorem is a normalized-region two-phase variant withCLp topology andconditionalcompactness. Do not universalize to every ATdiscretization or full F366.",
+    "finite_gap": "Gamma-convergence plus compactness and vanishing globalobjective-gap concern limits/subsequences. Small successiveiterate change doesnot establish suchgap;CLp/L1 convergence alone doesnot givefiniteHausdorff/angle/globalcomponentcount error."
+  },
+  "manual_observations": [
+    {
+      "url": "https://scikit-image.org/docs/stable/api/skimage.segmentation.html#skimage.segmentation.chan_vese",
+      "scope": "Observed0.26.0 header andchan_vese parameter/return contract;actual source separatelypinned",
+      "bytes_retained": false
+    },
+    {
+      "url": "https://scikit-image.org/docs/stable/auto_examples/segmentation/plot_chan_vese.html",
+      "scope": "Stable gallery resolved after0.26.x pathfailure;actualgallery separatelypinned",
+      "bytes_retained": false
+    }
+  ],
+  "access_failures": [
+    "Initial old skimage/segmentation/_chan_vese.py path404;official pinnedroot inventory confirmedsrc layout andcorrectsrc pathretrieved.",
+    "Versioned0.26.x gallery webpath inaccessible;stablegallery andpinnedactualgallery succeeded.",
+    "Officialdocs sourceclick webInternalError;fixedcommit GitHubrawread succeeded."
+  ],
+  "decisions": {
+    "real_public_segmentation_use_found": true,
+    "F366_input_certificate_found": false,
+    "finite_new_prediction_established": false,
+    "new_candidate": false,
+    "new_application_validation": false,
+    "third_party_execution": false,
+    "decision": "Keep precise method/need boundary;defer prototype. Revisit with an actual scalar continuum absolute-minimizer certificate or proven quantitative solver/discretization bridge and strong oldbaseline. No automatic applicationcard from runningknown camera orcracktip examples."
+  },
+  "limitations": "Boundedsource/interface andselectedoriginal review only;not no-usefulness theorem,proofaudit,benchmark,independentprovider/humanreview orapplicationtest. MainF366C/supportselectedB unchanged. No numerical output produced;paperPDFs/text are hashed thenremoved,not redistributedscholarlytexts.",
+  "version": 2,
+  "prior_metadata_archives": [
+    {
+      "path": "data/provenance/demand/F-366-segmentation-tool-contracts.json",
+      "archive": "data/provenance/demand/history/F-366-segmentation-tool-contracts.json.before-gallery-scope.gz",
+      "sha256": "f497450f99fa8aca7cde32fccfbdb9fb5dce923ab73ca51ab98d9ca4b1ee7c7a"
+    },
+    {
+      "path": "data/provenance/demand/segmentation-interfaces-20261021.json.gz",
+      "archive": "data/provenance/demand/history/segmentation-interfaces-20261021.json.gz.before-gallery-scope.gz",
+      "sha256": "0de0065884758abfd89ac952fc1356ccef72785d48768a2273f468788ea27f9d"
+    }
+  ],
+  "metadata_repair": "Gallery whole file has85lines,not guessed90;actualfullfilescope unchanged. Sourcearchive metadata,ledger andcurrentciters refreshed;former bytes preserved."
+}

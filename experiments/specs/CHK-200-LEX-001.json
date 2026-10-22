@@ -1,0 +1,9 @@
+{
+  "id": "CHK-200-LEX-001", "version": 1, "connection_id": "CHECK-200-PUBLISHED-CELL",
+  "hypothesis": "The fixed published ordinary-lex cell disagrees with three exact computations. Replacing only that cell in the computed table by the printed value also violates the Hilbert numerator and rank-one Euler identities.",
+  "input": {"variables": 4, "hilbert_prefix": [1,4,10,14,17,18,17,17,17], "hilbert_tail": 17, "max_generator_degree": 20, "source_ideal_homological_degree": 3, "source_internal_degree": 9, "source_printed_value": 2, "source_url": "https://arxiv.org/pdf/1802.03035v2", "source_locator": "Example4.3, printed p12, ordinary lex table row6 column3", "exposure": "Follow-up registered after the two-oracle experiment exposed the discrepancy and original PDF pixels confirmed the printed cell; not blind"},
+  "judge": "Ordinary-degree Koszul homology compared with the Eliahou-Kervaire generator formula after checking strong stability; all-degree Hilbert numerator and rank-one alternating sum. First experiment separately supplies the multidegree Fraction oracle.",
+  "success": {"generator_formula_disagreements": 0, "source_cell_disagreements": 1, "printed_cell_substitution_breaks_hilbert_identity": true},
+  "limits": "Audits one illustrative table cell in the specified2018 preprint version. It is not a rejection of that paper's main theorem or of the2026 family; no author confirmation or other version audit. No additional application hypothesis is counted.",
+  "resource_limit_seconds": 120, "resource_limit_mb": 128
+}

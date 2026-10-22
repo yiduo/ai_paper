@@ -1,0 +1,36 @@
+{
+  "id": "APP-025-01",
+  "version": 2,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-073",
+  "analogy": "near",
+  "input": "Proposed exact-marker request total1,m integer>=4,existing positive-distinct proper-tail decomposition interface;actualcaller/representativefixture notfrozen",
+  "output": "Exactpositive strictlyincreasing denominators,markeroccursEXACTLYonce,unmodifiedtailalgorithm retained;explicitresourceadmission/failure",
+  "hypothesis": "For EVERY request in a separately frozen, pre-admitted exact-marker consumer pack with total1 and integer marker m>=4, a source-guided skip-marker prefix followed by an eligible unmodified positive-distinct proper-fraction tail decomposer will successfully return an exact strictlyincreasing positive integer denominator list containing m exactly once WITHIN the predeclared complete resource caps. Any in-pack timeout, resource failure, malformed sum, duplicate, missing marker or callback incompatibility falsifies this functional integration prediction. Out-of-admission requests must be explicitly rejected and never counted as successes. Compare full successcoverage, encoded denominatorbits, peakmemory and totaltime with strongest eligible OLD marker-aware construction; incremental costbenefit is separately measured and may be zero. No asymptoticlength/speed prediction is made.",
+  "judge": "Beforeoutputsfreezeactualversionedcaller orjustifiedsyntheticrequestdistribution,markerstrata,tailmethodchoices,limitsT/steps/bitlength/runtime/memory,heldoutinputs/negativecallbacks. Independentlyverifypositiveints/strictdistinct/membership/exactQsum bydenominatorLCM/common-numerator arithmetic separatefromconstructor. Checkfailurecontracts separatelyfromsuccessrate. Fullcostincludesprefix,tail,postvalidation,formatconversion,allrestarts;do not countstaticpublicfixtureknownidentityasnewapplicationvalidation.",
+  "baseline": [
+    "ActualoldvanDoornTangv2 exactmarker construction/padding; implementstrongeligibleoldmethodwithmatchedcostcaps beforecomparison",
+    "Oldmarker-awaregreedy/directconstruction maybealgebraicallysamewrapper;reportzeroincrementifso",
+    "OldTenenbaumYokota constrained-denominator methodifmaxdenominatorpromised;unimplementedtheoremnotfakebenchmark",
+    "UnmodifiedSymPyunmarkedAPIis onlynegativecontrol,notstrongoldbaseline"
+  ],
+  "limits": [
+    "Noactualcallerrequestorpublicdemandobserved",
+    "NoinstalledSymPy/liveintegration",
+    "Noimplementedshort-asymptoticconstructor/effectivefiniteC",
+    "Noapplicationbenefit/full-costcomparisonrun",
+    "Onlyproposedwrapperfeature,notpublicdemandornewtheoremincrement",
+    "Noexactk/multiplemarkers/optimality/upperdenominatorguarantee; sourceasymptoticconstructornotimplemented"
+  ],
+  "revisit": "Actualcallerandeligiblelibraryruntime/implementation,resource-admittedfrozenrequestpack,strongoldmarkerbaseline andindependentjudge established;thenpreregisterbeforeoutputs.",
+  "source_labels": [
+    "lem:marked-greedy-prefix"
+  ],
+  "part_keys": [
+    "EXACT-MARKER-PREFIX",
+    "CONSUMER-GATE",
+    "BITCOST-GATE",
+    "SYMPY-RUNTIME-GATE"
+  ],
+  "revision_reason": "Beforeanyprototype/output:makeALLpre-admittedrequestsuccessfalsifiable;explicitfailurecountsasfailure,notavacuousalternative. Version1retained."
+}

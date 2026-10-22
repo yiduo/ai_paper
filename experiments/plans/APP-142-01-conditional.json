@@ -1,0 +1,25 @@
+{
+  "id": "APP-142-01",
+  "title": "有限域符号验证的无随机秩一算子证书",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-056",
+  "analogy": "far",
+  "input": "A real symbolic verification/module-algebra consumer supplies a concrete basis of B subset M_d(Fp),with certified full-parabolic conjugacy;d oddprime,p>(d+1)^2. Actual consumer/certificate producer not selected.",
+  "output": "An explicit e in B with e^2=e andrank(e)=1,plus independently checkable fieldlinear-span/equality certificates,without random or polynomialfactoring oracle. This is an operator witness,not an invariant1Dcomponent orcentralprojector.",
+  "extra_assumptions": "Actual request semantics and full-block-upper-triangular conjugacy must be certified. A merely triangular/commutant algebra,trace degeneracy,or rankoneoutput alone doesnot prove this promise. Do not hide a basis/flag exported by the real consumer from baseline.",
+  "hypothesis": "On a separately frozen batch of actual consumer-produced resource-admitted eligible requests,the trace-kernel adapter returns a valid rank-one idempotent on every input with zero randomness/polynomial-factorization calls,and removes at least one such dependency of the strongest eligible existing backend on a nontrivial request under matched total caps. This incremental prediction is not implied by the source lemma;an already oracle-free structure-aware old method would show zero incremental value.",
+  "judge": "Freeze actual consumer semantics/eligibility proof,inputbatch and all resource caps before outputs. Independent exact fieldspan test,e²=e andrank1;record cutoff as failedprediction/status,not Boolean false or retrospectively excluded. Solver gets only actual consumer input;any real available flag/conjugator must also be given to baseline. Synthetic known conjugates/calibration cannot alone count an external application test. Membership/idempotency doesnot certify parabolicpromise,centrality or1Dmoduleinvariance.",
+  "baseline": "Old general finite-algebra radical/Wedderburn-Malcev/primitive-idempotent methods and actual structure-aware backend;IKR2017v3Lemma23 uses finite-field factoringoracle but covers broader hiddenmatrixalgebra problem. Restriction to concrete full-parabolic matrices may permit an already-known simpler deterministic baseline. Compare that,not only a deliberately generic random search.",
+  "limits": "No actual consumer/inputdata/implementation/run. F142 fiber lemma inputis concrete full-parabolic algebra,not arbitrary symbolicmodule orabstract structureconstants;conservative oddprime d andp>(d+1)^2 maintained. e neednot central andspan(v) neednot invariant underallB. No speed,fullnormsolver orfullfactoring claim;Heckeinput is not needed for this pure matrix sub-contract. Full dependency closure unknown,human/provider unavailable.",
+  "revisit": "Inspect at most two actual modular algebra/verification APIs and one original use-case with pinned versions/license/scopes. If no certified full-parabolic request or old deterministic structure-aware method already sufficient,retain/lower priority without known-lemma QA for12thinitial.",
+  "source_labels": [
+    "norm:fiber-idempotent"
+  ],
+  "part_keys": [
+    "PARABOLIC-FIBER",
+    "CONSUMER-PARABOLIC-GATE",
+    "RESOURCE-CAP-GATE"
+  ],
+  "dedup_key": "F-142|actual modular symbolic verification consumer|rank-one full-parabolic operator certificate without random/factoring backend"
+}

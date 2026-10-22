@@ -1,0 +1,97 @@
+[
+  {
+    "family_id": "F-327",
+    "title": "Markov type characterizes superreflexivity.",
+    "manuscripts": [
+      {
+        "id": "P-c8dfd12cc5f584aa",
+        "directory": "math/preprints/Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026",
+        "tex_files": 3,
+        "tex_lines": 1133,
+        "bib_lines": 0,
+        "files": [
+          {
+            "path": "math/preprints/Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026/build/figures/chart-transport.tex",
+            "sha256": "0e402f5e51f77d9fa20871d2a56eb5d4cc319222ef70262a5725556cd987ff61"
+          },
+          {
+            "path": "math/preprints/Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026/build/main.tex",
+            "sha256": "967be1ac13fe35f0a0dc48063d8bc9dc447163a3aaa86c793f924eef0b0c8ed4"
+          },
+          {
+            "path": "math/preprints/Nontrivial-Markov-Type-Forces-Superreflexivity-September-23-2026/build/references.tex",
+            "sha256": "8ccd4d2cf0b11a842a690c30b883cb8725a8f1c6ea7ece281e32720a794919c1"
+          }
+        ]
+      }
+    ],
+    "body_read": false,
+    "scope": "catalogue and file inventory only;not source reading coverage"
+  },
+  {
+    "family_id": "F-332",
+    "title": "Metric Markov cotype of <i>ℓ</i><sub>1</sub> and Hilbert-space Lipschitz extension.",
+    "manuscripts": [
+      {
+        "id": "P-fc6738ad200ddb0c",
+        "directory": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026",
+        "tex_files": 1,
+        "tex_lines": 648,
+        "bib_lines": 50,
+        "files": [
+          {
+            "path": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/main.tex",
+            "sha256": "656a6f35bf6543ecf0cf2dbc38a83a7a05427592123a5eb817be24250e2e6953"
+          },
+          {
+            "path": "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/references.bib",
+            "sha256": "7b7ccdb61e358ef3c2f5702c898a8ee550566f59ee9095e0530631a2b0b75776"
+          }
+        ]
+      }
+    ],
+    "body_read": false,
+    "scope": "catalogue and file inventory only;not source reading coverage"
+  },
+  {
+    "family_id": "F-153",
+    "title": "Arithmetic classification and non-Pisot singularity for Bernoulli convolutions.",
+    "manuscripts": [
+      {
+        "id": "P-c180c88bf9e78a1a",
+        "directory": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026",
+        "tex_files": 5,
+        "tex_lines": 2579,
+        "bib_lines": 252,
+        "files": [
+          {
+            "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/certificate.tex",
+            "sha256": "7d71cb685bcf4b33dd0ce8a9ae34dd0be0afdff28596d77f2515f5ee638ea47d"
+          },
+          {
+            "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+            "sha256": "adf8f2def37053838a980a052ffa9d37bfffc83a4953007cb8ec54ceae68712e"
+          },
+          {
+            "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/main.tex",
+            "sha256": "99878062e61cd5bc299afcb5f20181e87044a95616d1147d203ad4bcbefa232e"
+          },
+          {
+            "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+            "sha256": "e8d6e8537dc60f4142f629ac4c4e400efe74f6aed98a90f52630533b8955fb1a"
+          },
+          {
+            "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex",
+            "sha256": "6aba84f0a8b2fe51b1ca183c452cbdf1018da2f35499a95cf33217678a3636ea"
+          },
+          {
+            "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/references.bib",
+            "sha256": "3b9dc5050d8a152abedf38b1494b49b2f9d8976dedb9b34446db41e3cb2aa3da"
+          }
+        ]
+      }
+    ],
+    "body_read": false,
+    "scope": "catalogue and file inventory only;not source reading coverage"
+  }
+]

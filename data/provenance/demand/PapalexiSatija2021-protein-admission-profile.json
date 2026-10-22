@@ -1,0 +1,341 @@
+{
+  "recorded_at": "2026-10-21T05:06:06.925846+00:00",
+  "scope": "Read-only dataset admission/profile,notembedding/neighbor/application experiment",
+  "source": {
+    "record_id": "10044268",
+    "version": "1.3",
+    "license": "CC-BY-4.0",
+    "file": "PapalexiSatija2021_eccite_arrayed_protein.h5ad",
+    "bytes": 550922,
+    "md5": "5e4346855f70c7ae90da9eb75ea12414",
+    "sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4"
+  },
+  "runtime": {
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+    "numpy": "2.3.5",
+    "reader": "Unmodified pyfive1.0.0 zipimport from verified54097B wheel;no installation or stub",
+    "reader_wheel_sha256": "599a6cca6058d612b4e4a97e2fe3ea0f2f30a7729aa18ac8f2af6bfee38a2dcb"
+  },
+  "grain": "8984 individual cell observations,not8984 distinct perturbation-level response profiles",
+  "shape": [
+    8984,
+    4
+  ],
+  "encoding": "CSC",
+  "stored_nnz": 35933,
+  "stored_duplicate_sparse_entries": 0,
+  "obs_columns": [
+    "cancer",
+    "ncounts",
+    "ngenes",
+    "nperts",
+    "percent_mito",
+    "percent_ribo"
+  ],
+  "var_columns": [
+    "ncells",
+    "ncounts"
+  ],
+  "proteins": null,
+  "matrix": {
+    "dtype": "float32",
+    "finite_entries": 35936,
+    "entries": 35936,
+    "nonfinite_entries": 0,
+    "negative_entries": 0,
+    "minimum": 0.0,
+    "maximum": 2056.0,
+    "integer_valued": true,
+    "zero_rows": 0,
+    "exact_duplicate_feature_rows_beyond_first": 48,
+    "duplicate_feature_rows_rate": 0.005342831700801425
+  },
+  "metadata_profiles": {
+    "cancer": {
+      "rows": 8984,
+      "missing_count": 0,
+      "missing_rate": 0.0,
+      "distinct": 1,
+      "top_values": [
+        [
+          "1",
+          8984
+        ]
+      ],
+      "normalized_string_distinct": 1
+    },
+    "ncounts": {
+      "rows": 8984,
+      "missing_count": 0,
+      "missing_rate": 0.0,
+      "distinct": 406,
+      "top_values": [
+        [
+          "116.0",
+          97
+        ],
+        [
+          "114.0",
+          97
+        ],
+        [
+          "128.0",
+          95
+        ],
+        [
+          "103.0",
+          91
+        ],
+        [
+          "93.0",
+          90
+        ],
+        [
+          "115.0",
+          89
+        ],
+        [
+          "113.0",
+          88
+        ],
+        [
+          "108.0",
+          88
+        ],
+        [
+          "124.0",
+          87
+        ],
+        [
+          "119.0",
+          86
+        ],
+        [
+          "121.0",
+          86
+        ],
+        [
+          "101.0",
+          86
+        ],
+        [
+          "106.0",
+          85
+        ],
+        [
+          "120.0",
+          85
+        ],
+        [
+          "117.0",
+          84
+        ],
+        [
+          "98.0",
+          84
+        ],
+        [
+          "122.0",
+          84
+        ],
+        [
+          "131.0",
+          83
+        ],
+        [
+          "96.0",
+          81
+        ],
+        [
+          "94.0",
+          81
+        ],
+        [
+          "123.0",
+          81
+        ],
+        [
+          "111.0",
+          81
+        ],
+        [
+          "107.0",
+          80
+        ],
+        [
+          "110.0",
+          80
+        ],
+        [
+          "130.0",
+          80
+        ],
+        [
+          "112.0",
+          79
+        ],
+        [
+          "104.0",
+          79
+        ],
+        [
+          "95.0",
+          78
+        ],
+        [
+          "99.0",
+          78
+        ],
+        [
+          "105.0",
+          78
+        ]
+      ],
+      "normalized_string_distinct": 406
+    },
+    "ngenes": {
+      "rows": 8984,
+      "missing_count": 0,
+      "missing_rate": 0.0,
+      "distinct": 2,
+      "top_values": [
+        [
+          "4",
+          8981
+        ],
+        [
+          "3",
+          3
+        ]
+      ],
+      "normalized_string_distinct": 2
+    },
+    "nperts": {
+      "rows": 8984,
+      "missing_count": 0,
+      "missing_rate": 0.0,
+      "distinct": 2,
+      "top_values": [
+        [
+          "1",
+          6975
+        ],
+        [
+          "0",
+          2009
+        ]
+      ],
+      "normalized_string_distinct": 2
+    },
+    "percent_mito": {
+      "rows": 8984,
+      "missing_count": 0,
+      "missing_rate": 0.0,
+      "distinct": 1,
+      "top_values": [
+        [
+          "0.0",
+          8984
+        ]
+      ],
+      "normalized_string_distinct": 1
+    },
+    "percent_ribo": {
+      "rows": 8984,
+      "missing_count": 0,
+      "missing_rate": 0.0,
+      "distinct": 1,
+      "top_values": [
+        [
+          "0.0",
+          8984
+        ]
+      ],
+      "normalized_string_distinct": 1
+    }
+  },
+  "unread_metadata_fields": {
+    "obs/_index": {
+      "type": "ValueError",
+      "message": "cannot fit 'int' into an offset-sized integer"
+    },
+    "obs/cell_line": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/celltype": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/disease": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/gdo_barcode": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/guide_id": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/hto": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/hto_barcode": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/organism": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/perturbation": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/perturbation_type": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "obs/tissue_type": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "var/adt_barcode": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    },
+    "var/protein": {
+      "type": "error",
+      "message": "unpack_from requires a buffer of at least 16 bytes for unpacking 16 bytes at offset 0 (actual buffer size is 0)"
+    }
+  },
+  "profile_complete": false,
+  "count_reconciliation": {
+    "ncounts": {
+      "exact_matches": 8984,
+      "rows": 8984,
+      "maximum_absolute_difference": 0.0
+    },
+    "ngenes": {
+      "exact_matches": 8984,
+      "rows": 8984,
+      "maximum_absolute_difference": 0.0
+    }
+  },
+  "key_check": {
+    "cell_observation_index_unique": null,
+    "cell_ids_saved_in_summary": false
+  },
+  "limits": [
+    "No normalization/p/D/allpairreference/neighbor-gap semantics frozen",
+    "Guide assignment is experimental label,not independently validated biological phenotype geometry",
+    "Only4protein coordinates;original4-coordinate identity is a mandatory exact low-cost baseline",
+    "Pseudobulk aggregation changes grain and must be preregistered separately;no per-perturbation bank constructed",
+    "No temporal/drift test:one fixedpublishedversion and no longitudinalprofilehistory",
+    "No biological/clinical/causal orphysicalassayreductionclaim",
+    "No F094 finitecommonlaw compressor/10%comparison executed"
+  ]
+}

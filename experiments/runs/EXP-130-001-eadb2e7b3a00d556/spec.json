@@ -1,0 +1,28 @@
+{
+  "id": "EXP-130-001",
+  "version": 1,
+  "connection_id": "APP-130-01",
+  "hypothesis": "Under the deliberately favorable assumption of equal constants and no lower-order overhead, the corollary exponent delta=1e-13 supplies at least a 1 percent operation-count reduction for Fourier lengths 2^k with k between 4 and 40.",
+  "input": {
+    "k_min": 4,
+    "k_max": 40,
+    "delta": "0.0000000000001",
+    "precision_decimal_digits": 70
+  },
+  "baseline": "n*ln(n); favorable proxy n*ln(n)^(1-delta), neither is a measured implementation",
+  "judge": "70-digit Decimal calculation of exp(-delta*ln(ln(n))) and exact integer lower storage calculation for W*=2^71 scalar slots",
+  "success": {
+    "maximum_relative_saving_min": "0.01"
+  },
+  "failure": "favorable proxy still falls below 1 percent at every declared n",
+  "metrics": [
+    "proxy_relative_saving",
+    "one_percent_threshold_log_log_n",
+    "minimum_materialized_scalar_bytes",
+    "runtime",
+    "peak_python_memory"
+  ],
+  "limits": "A numerical applicability screen, not an FFT implementation, speed benchmark, general lower bound, or falsification of the theorem. Big-O constants and log-log factors are excluded favorably. Minimum scalar-slot calculation applies only if the stated W* roles are simultaneously materialized as 16-byte slots.",
+  "resource_limit_seconds": 30,
+  "resource_limit_mb": 128
+}

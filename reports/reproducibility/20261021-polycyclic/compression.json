@@ -1,0 +1,10 @@
+{
+  "path": "data/graph/lean_indices/F-255.json.gz",
+  "compressed_bytes": 334330,
+  "uncompressed_bytes": 2681606,
+  "compressed_sha256": "7be35fd17e7644ff4fb3edbb40dc69b925cac4182f5d2ebcaad1259969d94715",
+  "decompressed_sha256": "9a1158a6aed6602201c5e679ec27487d6fbb4d7f6a018a042dc85c1cb2dab925",
+  "canonical_serialization_roundtrip": true,
+  "numerical_experiments_added": 0,
+  "upstream_copied": false
+}

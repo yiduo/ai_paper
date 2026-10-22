@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:ai-math-value:graph-node:1.1",
+  "title": "Research graph node (corpus tables have their own dictionary)",
+  "type": "object",
+  "required": ["id", "kind", "version", "created_at", "evidence_status", "sources", "properties"],
+  "additionalProperties": false,
+  "properties": {
+    "id": {"type": "string", "pattern": "^[A-Z][A-Z0-9-]*$"},
+    "kind": {"enum": ["claim", "method", "construction", "literature", "problem", "connection", "generation", "review", "withdrawal", "exploration", "family_analysis"]},
+    "version": {"type": "integer", "minimum": 1},
+    "created_at": {"type": "string", "format": "date-time"},
+    "updated_at": {"type": "string", "format": "date-time"},
+    "prior_version_archive": {"type": "string", "pattern": "^data/graph/history/[^/]+\\.json\\.gz$"},
+    "updated_by_generation_id": {"type": "string", "pattern": "^GEN-[A-Z0-9-]+$"},
+    "evidence_status": {"enum": ["source_claim", "source_content_checked", "hypothesis", "experiment_observation", "human_decision"]},
+    "sources": {"type": "array", "minItems": 1, "items": {"type": "object", "required": ["locator"]}},
+    "properties": {"type": "object"}
+  },
+  "$comment": "Semantic checks including dependency grade, card fields, source hashes, experiments and real-review gates run in ai_value.graph.validate. This JSON schema alone does not certify research quality."
+}

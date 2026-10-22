@@ -1,0 +1,20 @@
+{
+  "curate_f362_demand.py": {
+    "path": "reports/reproducibility/20261021-plasma-demand/curate_f362_demand.py.gz",
+    "gzip_sha256": "5c159129b587e722a6edf2dc313286a7c82731f2564d6da1ed342e644dddaee2",
+    "decompressed_sha256": "f72a2b2a23bd20d4905ec149e7b17dc1e54258ff6bfa19d16b29f4f65668b245",
+    "bytes": 15060
+  },
+  "quality_f362_demand.py": {
+    "path": "reports/reproducibility/20261021-plasma-demand/quality_f362_demand.py.gz",
+    "gzip_sha256": "2d994cfbf2f64b1bc652b1a6f11e5e2ab77ebf862290cfb08d885b221cf3bfc5",
+    "decompressed_sha256": "416e92ab7179f8c57ca6a2b865661fdc4c576ab2b395537febe845115149085b",
+    "bytes": 2901
+  },
+  "finish_f362_demand.py": {
+    "path": "reports/reproducibility/20261021-plasma-demand/finish_f362_demand.py.gz",
+    "gzip_sha256": "76806f17cd22fc0debbf8ced0e6c2294bc12c3d775d4dfc793905f46cbfcbd47",
+    "decompressed_sha256": "8b874f2c8fc8684d132d142d68be769c57d401902514557e7de92e5a7d3c87b5",
+    "bytes": 12882
+  }
+}

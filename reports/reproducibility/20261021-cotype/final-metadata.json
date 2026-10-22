@@ -1,0 +1,29 @@
+{
+  "recorded_at": "2026-10-21T07:50:50.667574+00:00",
+  "work_package": "WP-084",
+  "generation_id": "GEN-20261021-080",
+  "goal_status": "active_incomplete",
+  "local_quality_passed": true,
+  "packages_since_retrospective": 2,
+  "latest_retrospective": "029",
+  "next_package": "WP-085 qualification/preregistration before numerical outputs;thenmandatoryretro030",
+  "new_candidate": 1,
+  "new_initial_check": false,
+  "new_application_run": false,
+  "remote_push_or_publication": false,
+  "storage": {
+    "recorded_at": "2026-10-21T07:50:50.667574+00:00",
+    "helper_gzip_bytes": 30562,
+    "helper_uncompressed_bytes": 115304,
+    "helper_members": 18,
+    "all_member_roundtrips_and_hashes_verified": true,
+    "temporary_bytes_removed": 2003801,
+    "external_primary_and_mechanical_text_bytes_removed": 1843465,
+    "borrowed_helpers_bytes_removed": 48944,
+    "borrowed_helpers_already_in": "reports/reproducibility/20261021-fusf-operators/{helpers,locator-correction-helpers}.json.gz",
+    "numerical_data_generated": false,
+    "old_numerical_archives_verified": 14,
+    "dependencies_installed": false,
+    "temporary_directory_removed": true
+  }
+}

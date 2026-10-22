@@ -1,0 +1,39 @@
+{
+  "id": "MAP-276-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-276-01",
+  "registered_at": "2026-10-20T14:17:40.187548+00:00",
+  "exposure": "Source andoldbaselinesknown;same-modelhypothesis;noindependentrediscovery",
+  "object_mapping": {
+    "channel": "GAD gamma,nu stationaryexcitedpopulation;calibration mustjustifyiidmodel",
+    "encoder": "phi+/-=sqrt(1-p)|0> +/-sqrt(p)|1>,equiprobable",
+    "receiver": "FixedprojectivePauliX on eachoutput,followed byclassicalcoding;not optimizedquantumPOVM",
+    "rate": "I_X=1-h2(1/2-sqrt(1-gamma)*sqrt(p*(1-p)));comparephasepairHolevo atsamep andoptimizedscalarbenchmark"
+  },
+  "additional_assumptions": [
+    "No feedback/presharedentanglement;finitequbitmemorylesschannel",
+    "FixedXreceiver restrictionmustbereal orclearlysynthetic;do notclaimbestseparate-measurementcapacity",
+    "Nearendpoints requirestableentropy/precisionchecks;allunitsbits"
+  ],
+  "hypothesis": "在事先固定的非零温合成参数点上，至少一处同一相位对编码的Holevo信息比固定X接收机互信息高0.01 bit/use以上；记录接收机条件的预算不会把这段差值当作该受限设备已实现的速率。端点和unital对照与独立输出矩阵/经典条件概率计算一致。",
+  "baseline": "Naive budget labelsoptimizedHolevoasachievedbyfixedXreceiver. Honestoldbaselinecomputes binaryconditionalprobabilities andmutualinformation;oldHolevoformula alreadyprovidescomparison.",
+  "incremental_value": "Receiverconstraint accounting maypreventanincorrectlinkbudget. No new2026numericalformula,hardwaregain orproof ofarbitrary-useconverseis inferred.",
+  "test_plan": {
+    "fixtures": "Freeze rationalgamma,nu,p meshwithinteriorthermalcases andidentity/replacement/unital/reflectioncontrols beforeexecution. Parameter selectionmustnotchasegapthreshold.",
+    "oracle": "ConstructfourKrausoutputs explicitly,diagonalize2x2densitymatrices andcomputeHolevo;separatelyderiveclassicalPauliXconditionalprobabilities/mutualinformation. Crossprecision/stabilitychecks.",
+    "metrics": [
+      "sameencoderHolevo",
+      "fixedreceiverMI",
+      "gapbits",
+      "endpoint/reflectionresiduals",
+      "runtime",
+      "peakallocation"
+    ],
+    "success": "Atleastoneinteriorgap>0.01;allindependentformulasandcontrolsagreewithdeclaredtolerance;reportrestrictedreceiveronly.",
+    "failure": "No gapabovefixedthreshold,invalidstates,unitmistake ororacle/controlmismatch;preserve results."
+  },
+  "limits": "合成固定接收机对照，非实际硬件标定、最优逐次POVM、有限块码或2026可加性证明。固定X不是所有逐次测量的最优上界；旧方法足以产生该差值。",
+  "resource_envelope": "Proposed Pythonstdlib2x2matrices,60seconds/64MiB;noquantumlibrary;not run.",
+  "execution_requirement": "Freeze executableexperiment specbeforetargetoutputs;thisplanisnotanexperimentrun"
+}

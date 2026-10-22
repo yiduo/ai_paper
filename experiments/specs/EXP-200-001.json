@@ -1,0 +1,20 @@
+{
+  "id": "EXP-200-001", "version": 1, "connection_id": "APP-200-01",
+  "hypothesis": "On the published characteristic-zero Hilbert-function example, retaining the original regular-sequence degrees instead of inflating them to satisfy the old growth condition reduces the total computed graded Betti budget by at least 20 percent. A case already covered by the old condition has identical exact-degree and baseline budgets. Two independently organized exact Koszul computations agree on every computed entry.",
+  "input": {
+    "source": "https://arxiv.org/html/1802.03035v2", "locator": "Example4.3; Theorem3.8; Remark4.4",
+    "exposure": "Example and published tables read before specification; known-benchmark calibration, not blind validation or a newly discovered application",
+    "cases": [
+      {"id": "published_example_4_3", "kind": "published_conditional_input", "variables": 4, "hilbert_prefix": [1,4,10,14,17,18,17,17,17], "hilbert_tail": 17, "degrees": [3,3,3], "baseline_degrees": [3,3,5], "expect_gain": true},
+      {"id": "covered_complete_intersection", "kind": "synthetic_old_scope_boundary", "variables": 2, "hilbert_prefix": [1,2,1], "hilbert_tail": 0, "degrees": [2,2], "baseline_degrees": [2,2], "expect_gain": false}
+    ],
+    "max_generator_degree": 20, "max_multidegrees": 30000, "coefficient_field": "rational exact arithmetic; theorem use conditional on characteristic zero and a real regular-sequence certificate"
+  },
+  "baseline": "Same Hilbert data with an ordinary lex ideal, an old degree-growth-admissible LPP ideal, and the exact-degree LPP ideal. No solver runtime benefit predicted.",
+  "judge": "Integer sparse elimination on the ordinary-degree Koszul complex versus separate Fraction Gaussian elimination on every bounded multidegree. Exact lcm Hilbert numerator equality certifies the entire infinite Hilbert sequence; full multidegree support bounded by generator coordinate maxima. Boundary complete intersection has its independently known Koszul Betti table.",
+  "success": {"oracle_disagreements": 0, "hilbert_numerator_mismatches": 0, "budget_reduction_fraction_min": 0.2, "covered_scope_budget_difference": 0},
+  "failure": "Any oracle or all-degree Hilbert disagreement, less than20 percent budget reduction on the declared published case, or a nonzero old-scope control difference. Unsupported assumptions stay outside application scope.",
+  "metrics": ["minimal generator degrees", "all graded ideal and quotient Betti entries", "Hilbert numerator", "total Betti budget by homological degree", "strict budget savings", "runtime", "peak Python allocations"],
+  "limits": "A conditional symbolic-computation budget prototype and replication of a known published example. No explicit original ideal generators or independently verified regular-sequence certificate are supplied by the benchmark. Does not prove the2026 theorem, establish general tightness, validate all geometric dependencies, certify positive characteristic, or improve Groebner/syzygy solver speed or memory. Monomial-only comparisons were already known.",
+  "resource_limit_seconds": 120, "resource_limit_mb": 128
+}

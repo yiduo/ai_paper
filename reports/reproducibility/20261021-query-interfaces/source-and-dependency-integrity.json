@@ -1,0 +1,162 @@
+{
+  "recorded_at": "2026-10-21T00:04:33.123314+00:00",
+  "source_archive_members_verified": 10,
+  "source_roundtrip": true,
+  "selected_source_lines": 1740,
+  "gzip_bytes": 178181,
+  "prior_nodes_exactly_archived": 2,
+  "other_prior_nodes_byte_unchanged": 2452,
+  "canonical_old_count": 2454,
+  "new_canonical_nodes": 13,
+  "dependency_invalidation_scope": {
+    "PART-243-CPT-COMPILER-GATE": [
+      "APP-243-01",
+      "PART-243-CPT-COMPILER-GATE"
+    ],
+    "PART-243-SPARSE-ENCODING-GATE": [
+      "APP-243-01",
+      "PART-243-SPARSE-ENCODING-GATE"
+    ]
+  },
+  "application_full_chain_grade": "unknown",
+  "all_13_experiment_archives_verified": [
+    {
+      "run_id": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+      "source_members": 18,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+      "source_members": 15,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-076-002-1f8537b7fd40d564",
+      "source_members": 22,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+      "source_members": 9,
+      "outputs": [
+        "inputs.json.gz",
+        "manifest.before-compression.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-119-001-e9d098be0b1dda8f",
+      "source_members": 24,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-128-001-adf42abc31aca23e",
+      "source_members": 9,
+      "outputs": [
+        "inputs.json.gz",
+        "manifest.before-compression.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-130-001-eadb2e7b3a00d556",
+      "source_members": 9,
+      "outputs": [
+        "inputs.json.gz",
+        "manifest.before-compression.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-200-001-a8300854205212bf",
+      "source_members": 18,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-221-001-be34f84b97b2e9a9",
+      "source_members": 19,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+      "source_members": 16,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-314-001-ce8cf18c32275b81",
+      "source_members": 20,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-325-001-9bedfaa5ac3a53d0",
+      "source_members": 21,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    },
+    {
+      "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+      "source_members": 13,
+      "outputs": [
+        "inputs.json.gz",
+        "raw.json.gz",
+        "spec.json",
+        "summary.json.gz"
+      ]
+    }
+  ],
+  "upstream_unchanged_clean": true,
+  "new_numerical_run": false,
+  "software_executed": false,
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

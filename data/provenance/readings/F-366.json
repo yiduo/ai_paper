@@ -1,0 +1,229 @@
+{
+  "family_id": "F-366",
+  "generation_id": "GEN-20261021-039",
+  "recorded_at": "2026-10-20T20:23:27.128509+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-47de73ec1cf82726",
+  "body_source_lines": 1308,
+  "total_tex_lines": 1415,
+  "bibliography_lines": 245,
+  "bibliography_in_total_tex": false,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/figures/compact-translation.tex",
+      "sha256": "90c3a0a6be9261de3f874b820063c0d9495d73fb8227a032b73414fb938ca41b",
+      "lines": 61,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/main.tex",
+      "sha256": "371fbb4a8e83891db92b67d728a4332cae81ec731e492f151bdf78bd8f7a6dd4",
+      "lines": 46,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/blowup.tex",
+      "sha256": "39361ced96dcb3e04f92aba6f71dd13b288928d93be2466143e0bd9130209cd1",
+      "lines": 144,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/completion.tex",
+      "sha256": "c1c048e254cf9cfe72deb7584b2ba4c78ef208c766f23cb5fda792c54c8d155f",
+      "lines": 138,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/geometry.tex",
+      "sha256": "e1058122b6f347f67ef4bde8b53c8cb706cd8c8af4042319695355340fceaa86",
+      "lines": 57,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/interaction.tex",
+      "sha256": "b7bdec27b2a1ff156d479ad40651a26d7798006c83fef26d2c92f3cd346860a1",
+      "lines": 440,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/introduction.tex",
+      "sha256": "0308a981225f7e724597279b1799df232e1d6e96491a1ea0053509120b98c728",
+      "lines": 185,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/reductions.tex",
+      "sha256": "09bfdfeb956c0c009c0af837f5c532db7bad8ecb7443455a3f4175aa37627b78",
+      "lines": 344,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/references.bib",
+      "sha256": "e0f3951b27683991aba4522581da26faaf3ed486577a7cc2a986e59fe628fd85",
+      "lines": 245,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    },
+    {
+      "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/README.md",
+      "sha256": "14e96e8b1987ec24a7b7ccc0745c9e043da593b4000ad60e7944d436e76609da",
+      "lines": 16,
+      "read_scope": "Whole naturalfile read including proofs or figure source"
+    }
+  ],
+  "result_notes": {
+    "thm:main": {
+      "statement": "二维Mumford–Shah约化绝对极小元的内部闭裂纹集局部为正则弧、单端弧或120度三叉；有限个全局连通分量与任一相对紧内部开集相交。",
+      "conditions": "有界Lipschitz域；实有界可测g；闭K总长有限且约化；u为L2并在域去K上W12；对全部紧支撑函数/裂纹改变绝对极小。",
+      "constants_and_limits": "不包含边界全局有限性、K与任意开集截交的分量数、近似/离散极小元或计算算法；C1alpha指数/尺度存在而非可计算预算。",
+      "selected_grade": "C"
+    },
+    "prop:initial-reduction": {
+      "statement": "不预设可求长性的有限长闭裂纹极小对可局部约化为有界SBV对，裂纹与跳集仅差零长度，且离裂纹满足Δu=u−g。",
+      "conditions": "原绝对比较类；g有界；好圆切片、截断与平滑边界Dirichlet替换；约化时闭裂纹为跳长度测度支撑。",
+      "constants_and_limits": "保留原极小对；边界缝合有两项独立长度误差；不是任意非极小图像的可求长性结论。",
+      "selected_grade": "C"
+    },
+    "lem:dirichlet-input": {
+      "statement": "光滑紧支撑外边界数据的SBV Dirichlet问题存在有界极小元，闭跳集新增部分在闭盘上零长度。",
+      "conditions": "光滑盘与外数据；有界保真数据；边界跳跃在能量中计费；调用既有存在/边界密度和必要闭包理论。",
+      "constants_and_limits": "原始专著选定B3/B4已读，非完整依赖证明审核；不要求法向导数C1匹配。",
+      "selected_grade": "C"
+    },
+    "prop:planar-facts": {
+      "statement": "记录缩放紧性、广义极小元的参数、连通补集下绝对比较、密度/线性能量增长、既有分类与ε正则性输入。",
+      "conditions": "广义极小元限定为约化绝对极小元的极限；保留各补分量的有限/无限相对常数；精确原始来源条件分别适用。",
+      "constants_and_limits": "非任意拓扑极小元；连通补集使外部分离条件空；不能删除跨裂纹支撑的测试。",
+      "selected_grade": "C"
+    },
+    "lem:compact-isolation": {
+      "statement": "任一非空有界连通分量可包在与闭余集正分离的正有限长紧片内；原补集连通则去除紧片后补集仍连通。",
+      "conditions": "闭、局部有限长、等于长度测度支撑；紧空间分量等于clopen邻域交。",
+      "constants_and_limits": "紧片可含多个分量；有界分量本身不必隔离，不能直接假定正距离。",
+      "selected_grade": "C"
+    },
+    "prop:compact-piece": {
+      "statement": "连通补集、线性局部梯度能量增长的全平面绝对极小元不含与余集正分离、含开C1弧的正长度紧片。",
+      "conditions": "全平面齐次能量；每球去裂纹W12；所有紧改变比较；增长C(1+R)；闭可求长局部有限长H。",
+      "constants_and_limits": "实际Model和compactPieceExclusion的选定规格静态相符，B仅此支持命题；未构建、未读全部证明闭包，不覆盖内部正则性主定理。",
+      "selected_grade": "B"
+    },
+    "lem:compact-projection": {
+      "statement": "紧支撑离零面积紧集Sobolev函数可分解成全平面梯度投影与携跳场，后者散度零且旋度支撑在紧集。",
+      "conditions": "L2全平面光滑紧支撑梯度闭包的正交投影；势归一化为无穷远趋零。",
+      "constants_and_limits": "外域势O(1/r)、k阶导O(r^(−1−k))，场O(r^−2)；不能移植为任意有界域Dirichlet投影符号规则。",
+      "selected_grade": "C"
+    },
+    "lem:translated-comparison": {
+      "statement": "平移紧片与携跳场并独立改跳幅，远端截断后得到对所有实幅度的二次能量不等式。",
+      "conditions": "紧片与余集分离；分解的势跨紧片延拓；梯度增长线性；变分可跨原裂纹。",
+      "constants_and_limits": "环带误差O((1+|σ|)R^−1/2)+O((1+|σ|)^2R^−2)；不相减无穷全平面能量。",
+      "selected_grade": "C"
+    },
+    "lem:harmonic-interaction": {
+      "statement": "平移参数中的携跳场与外部调和场相互作用调和；极小原理使其常数，独立幅度使线性项消失。",
+      "conditions": "全平面投影、旋度支撑与尾部导数可积；外部势在闭余集补上调和。",
+      "constants_and_limits": "不是Earnshaw类比自动给出的有界域稳定性结论。",
+      "selected_grade": "C"
+    },
+    "cor:classification": {
+      "statement": "由绝对极小元产生的全局广义极小元闭裂纹仅为空、直线、120度三射线或半直线。",
+      "conditions": "先按补集是否连通分情形；紧片排除与既有至多一无界分量/公共紧余项分类组合。",
+      "constants_and_limits": "非同质性假设；同一分类结论在更早Deangelis2026v1已声明，其证明与本稿方法区别不等于新应用收益。",
+      "selected_grade": "C"
+    },
+    "cor:weak-l4": {
+      "statement": "任一内部相对紧区域的近似梯度超水平面积满足某个有限C_U乘t^−4，并局部属于所有0<p<4的Lp。",
+      "conditions": "主定理全部极小元条件；C_U依赖区域与具体极小元；调用无不规则点与弱L4等价。",
+      "constants_and_limits": "不是强L4或可计算统一常数；未给网格、噪声、能量残差或运行时间误差率。旧专著印刷公式出现反向水平集符号，另保留核对，不照抄。",
+      "selected_grade": "C"
+    }
+  },
+  "selected_original_scopes": {
+    "delellis_focardi2025": {
+      "url": "https://www.math.ias.edu/delellis/sites/math.ias.edu.delellis/files/Libro_Mumford_Shah-versione-2025-01-04.pdf",
+      "file": "book.pdf",
+      "locator": "4Jan2025 authorversion228pages;selected setup/Thm1.3.3/1.4.6/1.5.2/1.5.4;Ass2.2.1/Def2.2.2-4/Thm2.2.3;Thm4.4.1/Cor4.4.3;Thm6.1.6 statement+proof;AppendixB3/B4 selected statements",
+      "scope": "Underlying normalization,blowup/relativeconstants,comparisonclass,epsilonregularity andweakL4 inputs. Book not wholly read;recursive proof closure not checked. LiteralEq1.5.3 reversed level inequality checked in page12 pixels;correct weak-space meaning retained with caveat.",
+      "pdf_sha256": "ab9642aad846ca47091e73db88bf1ef2055a6d771bf3473be21a4a559e828515",
+      "pdf_bytes": 1665031,
+      "extracted_text_sha256": "dc1a3a996ee5b23ddd8b42a5820a1ceb1958c678abbf0f9601b3b9533aefccdc",
+      "content_checked": true
+    },
+    "mumford_shah1989": {
+      "url": "https://www.dam.brown.edu/people/mumford/vision/papers/1989c--Mumford-Shah-Wiley.pdf",
+      "file": "mumford1989.pdf",
+      "locator": "Original authorhosted journalPDF;selectedIntroduction printed577-580 on image model,three energy terms,lattice/piecewise-constant variants and model limitations",
+      "scope": "Segmentation is an established application;old variants do not inherit a new finite solver guarantee. Not full109pagepaper.",
+      "pdf_sha256": "f1684041d7c2e89fc386ca3f31134879f558d884bce69c172c298416db561398",
+      "pdf_bytes": 3339293,
+      "extracted_text_sha256": "1cb6c8b71f7c51bbc0fb910d2dbe71a7790ea5d02d12f09087772344d376aad1",
+      "content_checked": true
+    },
+    "deangelis2026": {
+      "url": "https://arxiv.org/pdf/2609.26732v1",
+      "file": "deangelis-v1.pdf",
+      "locator": "22Sep2026v1 entire10pagePDF text530lines,includingauthornote,Thm1.1/3.4,Section3.2 and references read;not independent mathematical audit",
+      "scope": "Earlier sameclassification claim uses perpendicular translations,relaxedsecondvariations,Hodgeequality andholomorphicrigidity. Authorreports ChatGPTAstra assistance andongoingchecking;not second-provider validation or acceptedproof. v2dated5Oct2026 abstract/versionmetadata only checked,body not read.",
+      "pdf_sha256": "a70abfde797cdf5326b7585ced7ac4ea8d0b9df3e6ffd605565f80399d4d2ab7",
+      "pdf_bytes": 383542,
+      "extracted_text_sha256": "2202aaf22ba013cdd6a46919ad704d72e72414c6ec1873f3ec85d66cc2314aab",
+      "content_checked": true
+    },
+    "delellis_focardi_ghinassi_erratum": {
+      "url": "https://www.math.ias.edu/delellis/sites/math.ias.edu.delellis/files/Errata-crackip.pdf",
+      "file": "erratum.pdf",
+      "locator": "Whole3pageauthorcorrection extracted155lines read",
+      "scope": "ReplacesProposition5.2 Eq52 anddownstreamProp7.2 Eq88;newidentityintegral(v_phi sin(phi/2))=0 anda0=0 restorecontradiction. Underlyingfull2021paper not read here;erratum is not withdrawal.",
+      "pdf_sha256": "6b2581f26db24e18afd06bfe8a574c5bda1ad24c1d800027dad04ac6c204b793",
+      "pdf_bytes": 139835,
+      "extracted_text_sha256": "e7c013b761e78701b43f3463a61bdc81c362753fcdf074a96e574c9cc6fb5bce",
+      "content_checked": true
+    }
+  },
+  "external_version_observations": [
+    {
+      "url": "https://arxiv.org/abs/2609.26732v2",
+      "version_date": "2026-10-05",
+      "scope": "Abstract/versionmetadata only;v2body not read,no fullversiondiff"
+    }
+  ],
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/OAI/Analysis/MumfordShah/Model.lean",
+      "scope": "Whole156line model read"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/MumfordShah/CompactExclusion.lean",
+      "scope": "Only1-170 and350-371 read;remaining proof helpers not read"
+    }
+  ],
+  "formal_index_only": {
+    "path": "data/provenance/lean/F-366-compact-exclusion.json.gz",
+    "local_files": 24,
+    "declarations": 381,
+    "external_modules": [
+      "Mathlib"
+    ],
+    "lexical_placeholders": 0,
+    "local_axiom_declarations": 0,
+    "local_build": false,
+    "comparator": false
+  },
+  "formal_registration": "No366.md or matching formalizationyaml entry;Model.InteriorRegularity is a definition,not proof;actual supporting CompactPieceExclusion theorem only statically compared.",
+  "historical_caveat": {
+    "book_literal_formula": "Eq1.5.3 onprintedpage12 displays sublevel <=M boundedC/M;page18PDF pixels read;Eq6.1.1same literal text",
+    "pixel_sha256": "a56e7ce03902d1ce10e8601fb3d57300a0628228f5868ee13c192cefe7d89ab8",
+    "interpretation": "IncompatiblewithweakL4meaning andzerogradient:positive-areaU andMtoinfinitycontradictsublevelbound. Recordlikelytypographicaldirectionerror;book6.1.6 proof insteadusescracktip1/sqrt(r)weakL4. No authorconfirmation,main theorem refutationor gradeD."
+  },
+  "bibliography_roots": 22,
+  "selected_original_roots": 4,
+  "original_bodies_unread": 18,
+  "new_application_connection_ids": [],
+  "new_numerical_run": null,
+  "storage": "TemporaryPDF/text/imagebyteshashedthenremoved;retainfactualscopes andsmallcompressed lexicalindex,no redistributedbookorupstreamclone.",
+  "version": 2,
+  "prior_ledger_archive": "data/provenance/readings/history/F-366-before-metadata-repair.json.gz",
+  "metadata_repair": "ActualModelwc156,not155;source content/grades unchanged. Initial18bibliography nodes used unsupported evidence enum;normalized to existing source_claim while retaining explicit original-unread status."
+}

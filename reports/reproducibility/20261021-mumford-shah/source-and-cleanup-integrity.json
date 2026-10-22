@@ -1,0 +1,58 @@
+{
+  "recorded_at": "2026-10-20T20:25:40.884624+00:00",
+  "natural_file_hashes": 10,
+  "formal_index_source_hashes": 24,
+  "formal_index_gzip_sha256": "0bac311bfcbb296deef7511fa547dab98b75635854c68de12d8bfa7b91b66291",
+  "formal_index_decompressed_sha256": "be219d32bc56c0ba29d6992d2b00814ab30c923dfa1b7adc64598585a37a2ecd",
+  "temporary_files_removed": [
+    {
+      "path": "/private/tmp/ai-paper-F366/book.pdf",
+      "sha256": "ab9642aad846ca47091e73db88bf1ef2055a6d771bf3473be21a4a559e828515",
+      "bytes": 1665031
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/book-weakL4.png",
+      "sha256": "a56e7ce03902d1ce10e8601fb3d57300a0628228f5868ee13c192cefe7d89ab8",
+      "bytes": 327065
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/deangelis-v1.txt",
+      "sha256": "2202aaf22ba013cdd6a46919ad704d72e72414c6ec1873f3ec85d66cc2314aab",
+      "bytes": 32883
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/book.txt",
+      "sha256": "dc1a3a996ee5b23ddd8b42a5820a1ceb1958c678abbf0f9601b3b9533aefccdc",
+      "bytes": 731194
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/deangelis-v1.pdf",
+      "sha256": "a70abfde797cdf5326b7585ced7ac4ea8d0b9df3e6ffd605565f80399d4d2ab7",
+      "bytes": 383542
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/mumford1989.txt",
+      "sha256": "1cb6c8b71f7c51bbc0fb910d2dbe71a7790ea5d02d12f09087772344d376aad1",
+      "bytes": 146566
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/erratum.pdf",
+      "sha256": "6b2581f26db24e18afd06bfe8a574c5bda1ad24c1d800027dad04ac6c204b793",
+      "bytes": 139835
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/mumford1989.pdf",
+      "sha256": "f1684041d7c2e89fc386ca3f31134879f558d884bce69c172c298416db561398",
+      "bytes": 3339293
+    },
+    {
+      "path": "/private/tmp/ai-paper-F366/erratum.txt",
+      "sha256": "e7c013b761e78701b43f3463a61bdc81c362753fcdf074a96e574c9cc6fb5bce",
+      "bytes": 8647
+    }
+  ],
+  "removed_bytes": 6774056,
+  "new_numerical_application_run": false,
+  "book_not_redistributed": true,
+  "local_Lean_or_Comparator": false
+}

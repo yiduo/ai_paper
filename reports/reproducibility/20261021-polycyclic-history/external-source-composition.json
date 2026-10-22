@@ -1,0 +1,38 @@
+{
+  "pinned_commit": "8db79f13cf211b570e3116301d91379fbc01cf3e",
+  "patch_path": "math/lean/patches/gromov-lean4341.patch",
+  "patch_sha256": "26a1924bef774183a2e0865f144b782dc1f78eb0246993a31a5d63193b7781bb",
+  "git_apply_check_exit_code": 0,
+  "git_apply_exit_code": 0,
+  "scope": "Onlythreeselectedfilesina task-ownedtemporarydirectory;notfullpatch,nocloning,noLeanexecution",
+  "files": [
+    {
+      "module": "Gromov/FormalConjecturesCheck.lean",
+      "patched_bytes": 9429,
+      "patched_sha256": "7eaaf698951c7a4eb2d65a02d1aa2c019bc0e2c7074852f299e42188bc118d45",
+      "patched_git_blob_sha1": "52e4b65490d3c4ab735d928d891d356670f3a009",
+      "patch_blob_prefix": "52e4b65",
+      "raw_git_blob_sha1": "6c8c31e2fbf43b4c7e20bce475d4cf5d69c787dc",
+      "raw_sha256": "91132cbafc2824ee2afb8757d4fac9aba7aacbc67ccc52759ebfcbfad2d2b3b6",
+      "matches_pinned_git_tree": true
+    },
+    {
+      "module": "Gromov/Gromov.lean",
+      "patched_bytes": 35356,
+      "patched_sha256": "9fbe403611a59888d32a2078fe4805719312ae76acf75e85eea8466fc848702f",
+      "patched_git_blob_sha1": "bfc3ce3a32880c71f25c987d074727a57618cbd0",
+      "patch_blob_prefix": "bfc3ce3",
+      "raw_git_blob_sha1": "985ce009e34763c7277424f75fd3a050b27928f9",
+      "raw_sha256": "0170a5a55720e069df8d5103067ac29d2b90d6da666bc2060afebea0cab493a8",
+      "matches_pinned_git_tree": true
+    },
+    {
+      "module": "Gromov/PolynomialGrowth.lean",
+      "patched_bytes": 1304,
+      "patched_sha256": "a4116f9d906a0d078adc36ebc2eb8c39aec4a53e051c866660ffa0086e076850",
+      "patched_git_blob_sha1": "43f2bfeb54118b5c33bb7a67c7a8d5190cc89541",
+      "patch_blob_prefix": "43f2bfe",
+      "new_file_created_by_patch": true
+    }
+  ]
+}

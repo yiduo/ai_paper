@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "recorded_at": "2026-10-20T19:31:11.734802+00:00",
+  "licensed_source_members_checked": 8,
+  "source_archive_gzip_bytes": 65665,
+  "prior_nodes_equal_pre_generation_HEAD": 4,
+  "old_plan_bytes_match": true,
+  "compressed_witness_and_source_hashes_match": true,
+  "source_files_removed": [
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-multivariate.py",
+      "bytes": 274024,
+      "sha256": "9c4073ff8ed8d46628552431a0928be062d1e1c89203c2d7d0cbb17d5a7c202c",
+      "archive_member": "scipy/scipy/stats/_multivariate.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-LICENSE.txt",
+      "bytes": 1531,
+      "sha256": "221e59f5e910fd7f94e44f0dac77436a11338c285c6346232e4a850a50da0e94",
+      "archive_member": "scipy/LICENSE.txt"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont.pyx",
+      "bytes": 2549,
+      "sha256": "24e515a2f7e38d17490559fc8f900cb4ecf7fa277859893f268159d5591fae61",
+      "archive_member": "scipy/scipy/stats/_rcont/rcont.pyx"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont.c",
+      "bytes": 6164,
+      "sha256": "3c5130373b057ae55c30f0d7a1f01490fd64909488d29aa517cd261f24e0083c",
+      "archive_member": "scipy/scipy/stats/_rcont/_rcont.c"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont.h",
+      "bytes": 429,
+      "sha256": "b0bad1bb4c3f5692735ece5f0d30e00972475ecc73ad07f87afcf129502146c5",
+      "archive_member": "scipy/scipy/stats/_rcont/_rcont.h"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-networkx-mincost.py",
+      "bytes": 12853,
+      "sha256": "1b33182274b841c35ed322261ab5572746d177bb794d248c6bd8d279e9c8a0e9",
+      "archive_member": "networkx/networkx/algorithms/flow/mincost.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-networkx-networksimplex.py",
+      "bytes": 25098,
+      "sha256": "e85d49353d6930432df82dbb1f73ec759605fb9dd2ac932b1da6a443ca43ecd8",
+      "archive_member": "networkx/networkx/algorithms/flow/networksimplex.py"
+    }
+  ],
+  "metadata_files_removed": [
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-tag.json",
+      "bytes": 366,
+      "sha256": "1c53d429c024391493d28045bedafb3b9543b03f02a04ac7593b868aa8b8552c",
+      "retention": "Version/tag resolution fields and filemembermetadata retained in sourceledger;rawpersonalcontactmetadata not needed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-tag-object.json",
+      "bytes": 2693,
+      "sha256": "d2fb58eee1b69de3bc08014c8bc9a52d436d6b6ec3eb150e37a4e56ed8d4d25d",
+      "retention": "Version/tag resolution fields and filemembermetadata retained in sourceledger;rawpersonalcontactmetadata not needed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont-tree.json",
+      "bytes": 5393,
+      "sha256": "b1c18f489a821d99b408a37c3ee348b5ee59f7ee0ac2921a4954b7979ccf244d",
+      "retention": "Version/tag resolution fields and filemembermetadata retained in sourceledger;rawpersonalcontactmetadata not needed"
+    }
+  ],
+  "temporary_bytes_removed": 331100,
+  "last_full_numerical_archive_integrity": "reports/reproducibility/20261021-contingency-graph/archive-integrity.json",
+  "full_old_archives_repeated_this_package": false,
+  "new_application_run": null,
+  "third_party_software_executed": false
+}

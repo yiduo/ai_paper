@@ -1,0 +1,9 @@
+{
+  "state": "active_incomplete",
+  "archived_helpers": 23,
+  "all_helper_member_hashes_verified": true,
+  "graph_exports_unchanged_since_validation": true,
+  "optional_dependency_configuration_valid": true,
+  "next": "WP-081",
+  "all_required_local_artifacts_exist": true
+}

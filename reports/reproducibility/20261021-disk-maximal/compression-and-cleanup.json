@@ -1,0 +1,93 @@
+{
+  "recorded_at": "2026-10-21T04:03:48.172206+00:00",
+  "helper_gzip_bytes": 52076,
+  "uncompressed_bytes": 149755,
+  "roundtrip_verified": true,
+  "formal_index_gzip_bytes": 31900,
+  "temporary_bytes_removed": 147738,
+  "files": [
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/curate.py",
+      "bytes": 27952,
+      "sha256": "a2d5521127cc201650e96afecd6aac7c29171bfa4e7e88b1ce654ca5851fe636"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/reference-integrity.py",
+      "bytes": 5127,
+      "sha256": "0f5f6449881574b8f6fde6f1287e934b93f1a2e90374149b4843bd7eb3fc0a0d"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/core.log",
+      "bytes": 9328,
+      "sha256": "966a2770b3a9307a5efd4c1eb8b2d5710feb9238f192c75349950884a773f6e5"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/integrity.log",
+      "bytes": 2219,
+      "sha256": "c3be95969b36bbf6b4e089f88fba30b4b233e0ea2274fc2449784a8784b98c3a"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/reference-finish.py",
+      "bytes": 11310,
+      "sha256": "562cd70c76df553eef9ab285dd5fef79efc4fa334e17878b234d5a31c68e8fb9"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/start.py",
+      "bytes": 1244,
+      "sha256": "46ef5cfcc6d2b8d493b476e8a0480812a947a8420bee8a1f4df76bba2478d745"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/quality.log",
+      "bytes": 83,
+      "sha256": "cf0fe6a520fe0c0c7860773fa328d5469e4113d91bb1442f27e38e3dacad2e79"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/export.log",
+      "bytes": 542,
+      "sha256": "e828b245b87ef665c04b8b5272e82310bf2b048441acb305893a718b79c69eb6"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/progress.json",
+      "bytes": 15101,
+      "sha256": "c5b7444140f49aa04484e4bdcea1bc1d473ec7953dd41e65536e5481c607c739"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/reference-curator.py",
+      "bytes": 35708,
+      "sha256": "208b4939e367b96bac5ae4f5f0678e36c0598b1d97beddd1073817b38ff68752"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/quality.py",
+      "bytes": 3003,
+      "sha256": "5d297d832eab9fa8af7d2bd2dbb5008f9f30932fc80b6a44ed5dc307ba1ec4f6"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/integrity.py",
+      "bytes": 5418,
+      "sha256": "709b8b9d4fc38379d14ede548a91d4fd263c4537d09e1ef67e61eb72999d6473"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/report.py",
+      "bytes": 5579,
+      "sha256": "ed4a9516470d9692a763cfcc61f00c14a8c07725c02c34212356684f9fb3ea36"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/prepare.py",
+      "bytes": 9651,
+      "sha256": "c7df63738b922a628b9265587a616eb9cf24bb62461ff739d7f86122d2040ff7"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/finish.py",
+      "bytes": 12476,
+      "sha256": "fd325059845b5aa8331dfee72cb925814001cce8864d563ef0afc8b1ca398ab9"
+    },
+    {
+      "path": "/private/tmp/ai-paper-disk-maximal/reference-quality.py",
+      "bytes": 2997,
+      "sha256": "69e488c058ba52cb5affe5d4d57c901ce2de00384dae1b12377cb1e75a61d547"
+    }
+  ],
+  "no_numerical_payload": true,
+  "no_external_PDF_download": true,
+  "cleanup": "Only own roundtrip-verified helper/progress/log files removed;source read-only,no dependency install;minimal clean TemporaryDirectory automatically removed"
+}

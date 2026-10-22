@@ -1,0 +1,85 @@
+test_base_first_evaluation_preserves_noncommuting_coefficients (test_block_budget.BlockBudgetTests.test_base_first_evaluation_preserves_noncommuting_coefficients) ... ok
+test_independent_gram_and_analytic_singular_norms (test_block_budget.BlockBudgetTests.test_independent_gram_and_analytic_singular_norms) ... ok
+test_outward_roots_and_invalid_input (test_block_budget.BlockBudgetTests.test_outward_roots_and_invalid_input) ... ok
+test_coset_oracle_rejects_nonnormal_reflection (test_cyclic_chain.CyclicChainTests.test_coset_oracle_rejects_nonnormal_reflection) ... ok
+test_inventory_against_literal_subsets_and_moved_identity (test_cyclic_chain.CyclicChainTests.test_inventory_against_literal_subsets_and_moved_identity) ... ok
+test_nonassociative_table_is_rejected (test_cyclic_chain.CyclicChainTests.test_nonassociative_table_is_rejected) ... ok
+test_unitriangular_law_against_literal_matrix_product (test_cyclic_chain.CyclicChainTests.test_unitriangular_law_against_literal_matrix_product) ... ok
+test_circle_cover_and_exact_known_norms (test_phase_rounding.PhaseRoundingTests.test_circle_cover_and_exact_known_norms) ... ok
+test_independent_complex_oracle_and_mass_invariant (test_phase_rounding.PhaseRoundingTests.test_independent_complex_oracle_and_mass_invariant) ... ok
+test_reject_invalid_domain_and_phase_convention (test_phase_rounding.PhaseRoundingTests.test_reject_invalid_domain_and_phase_convention) ... ok
+test_external_url_does_not_collapse_versions_or_checked_scopes (test_provenance.ProvenanceTests.test_external_url_does_not_collapse_versions_or_checked_scopes) ... ok
+test_identifier_groups_are_review_only_and_keep_distinct_versions (test_provenance.ProvenanceTests.test_identifier_groups_are_review_only_and_keep_distinct_versions) ... ok
+test_node_contract_accepts_documented_history_but_rejects_silent_fields (test_provenance.ProvenanceTests.test_node_contract_accepts_documented_history_but_rejects_silent_fields) ... ok
+test_prior_archive_checks_single_and_both_existing_batch_formats (test_provenance.ProvenanceTests.test_prior_archive_checks_single_and_both_existing_batch_formats) ... ok
+test_shared_bytes_keep_every_scope_and_one_edge_per_pair (test_provenance.ProvenanceTests.test_shared_bytes_keep_every_scope_and_one_edge_per_pair) ... ok
+test_all_old_manuscripts_are_explained (test_research.CatalogueTests.test_all_old_manuscripts_are_explained) ... ok
+test_duplicate_papers_rejected (test_research.CatalogueTests.test_duplicate_papers_rejected) ... ok
+test_parentheses_in_pdf_path (test_research.CatalogueTests.test_parentheses_in_pdf_path) ... ok
+test_result_coverage_keeps_cleveref_label_types (test_research.CatalogueTests.test_result_coverage_keeps_cleveref_label_types) ... ok
+test_result_coverage_keeps_nested_citation_titles (test_research.CatalogueTests.test_result_coverage_keeps_nested_citation_titles) ... ok
+test_decomposition_draft_does_not_claim_full_completion (test_research.EvidenceTests.test_decomposition_draft_does_not_claim_full_completion) ... ok
+test_historical_version_graph_and_scope_boundaries (test_research.EvidenceTests.test_historical_version_graph_and_scope_boundaries) ... ok
+test_partial_family_never_counts_as_full_source_draft (test_research.EvidenceTests.test_partial_family_never_counts_as_full_source_draft) ... ok
+test_real_graph_and_export_fields (test_research.EvidenceTests.test_real_graph_and_export_fields) ... ok
+test_review_queue_is_stable_and_nonempty (test_research.EvidenceTests.test_review_queue_is_stable_and_nonempty) ... ok
+test_single_model_cannot_confirm_rejection_or_pilot (test_research.EvidenceTests.test_single_model_cannot_confirm_rejection_or_pilot) ... ok
+test_static_lean_index_ignores_comments_and_strings (test_research.EvidenceTests.test_static_lean_index_ignores_comments_and_strings) ... ok
+test_two_manuscripts_do_not_merge_same_labels_or_bibkeys (test_research.EvidenceTests.test_two_manuscripts_do_not_merge_same_labels_or_bibkeys) ... ok
+test_unknown_dependency_never_upgraded (test_research.EvidenceTests.test_unknown_dependency_never_upgraded) ... ok
+test_withdrawal_propagates_transitively (test_research.EvidenceTests.test_withdrawal_propagates_transitively) ... ok
+test_archived_numerical_payloads_compress_losslessly (test_research.ExperimentTests.test_archived_numerical_payloads_compress_losslessly) ... ok
+test_betti_oracles_against_complete_intersection (test_research.ExperimentTests.test_betti_oracles_against_complete_intersection) ... ok
+test_exact_polygon_and_transport_oracles (test_research.ExperimentTests.test_exact_polygon_and_transport_oracles) ... ok
+test_face_derivatives_and_gauge_invariance (test_research.ExperimentTests.test_face_derivatives_and_gauge_invariance) ... ok
+test_full_law_audit_keeps_absent_permutations (test_research.ExperimentTests.test_full_law_audit_keeps_absent_permutations) ... ok
+test_occurrence_counts_against_bruteforce (test_research.ExperimentTests.test_occurrence_counts_against_bruteforce) ... ok
+test_periodicity_is_a_substantive_ablation (test_research.ExperimentTests.test_periodicity_is_a_substantive_ablation) ... ok
+test_poisson_tail_majorants_cover_mass_and_first_moment (test_research.ExperimentTests.test_poisson_tail_majorants_cover_mass_and_first_moment) ... ok
+test_pressure_conditional_law_against_literal_index_enumeration (test_research.ExperimentTests.test_pressure_conditional_law_against_literal_index_enumeration) ... ok
+test_resource_failure_keeps_real_outputs_and_source_snapshot (test_research.ExperimentTests.test_resource_failure_keeps_real_outputs_and_source_snapshot) ... ok
+test_subset_dp_against_independent_permutations (test_research.ExperimentTests.test_subset_dp_against_independent_permutations) ... ok
+test_transfer_rejects_nonzero_sum (test_research.ExperimentTests.test_transfer_rejects_nonzero_sum) ... ok
+
+----------------------------------------------------------------------
+Ran 42 tests in 4.747s
+
+OK
+{
+  "nodes": 3107,
+  "research_nodes": 1368,
+  "edges": 7538,
+  "citations_checked": 2172,
+  "candidate_connections": 21,
+  "externally_checked_cards": 10,
+  "effective_leads": 5,
+  "distinct_validation_hypotheses": 10,
+  "human_grading_records": 0,
+  "pilots": 0
+}
+{
+  "nodes": 3107,
+  "research_nodes": 1368,
+  "edges": 7538,
+  "citations_checked": 2172,
+  "candidate_connections": 21,
+  "externally_checked_cards": 10,
+  "effective_leads": 5,
+  "distinct_validation_hypotheses": 10,
+  "human_grading_records": 0,
+  "pilots": 0,
+  "registered_families": 372,
+  "registered_manuscripts": 719,
+  "complete_family_decompositions": 0,
+  "structured_decomposition_fraction": 0.0,
+  "partial_reading_families": 22,
+  "source_decomposition_drafts": 17,
+  "component_checks": 2,
+  "all_six_stages_complete_families": 0,
+  "human_fact_error_rate": null,
+  "cross_provider_reviews": 0,
+  "human_spec_reviews": 0,
+  "full_lineages_complete": 0,
+  "release_state": "local repository; no remote publication performed"
+}
+{"canonical_citations": 2172, "source_artifacts": 588, "legacy_external_collisions": 4, "unmerged_identifier_groups": 0, "gzip_bytes": 865, "decompressed_sha256": "ca54aa89e856ab4937679d5032f77db10f797100adb597cf59bc1df9a9aa6834"}

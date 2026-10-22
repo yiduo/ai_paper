@@ -1,0 +1,20 @@
+{
+  "historical_withdrawal_affected_ids": [
+    "CLM-HIST-AFGN2022-THM4"
+  ],
+  "positive_main_or_candidate_wrongly_invalidated": false,
+  "natural_trace_change_affected_count": 6,
+  "natural_trace_change_reaches_candidate": true,
+  "main_own_grades": [
+    "B",
+    "B"
+  ],
+  "candidate_full_chain_grade": "unknown",
+  "candidate_initial_check": false,
+  "full_family_complete": false,
+  "analogy_distribution": {
+    "near": 23,
+    "far": 7,
+    "bold": 1
+  }
+}

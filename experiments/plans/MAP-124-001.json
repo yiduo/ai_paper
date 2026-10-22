@@ -1,0 +1,38 @@
+{
+  "id": "MAP-124-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-124-01",
+  "registered_at": "2026-10-20T14:17:40.187548+00:00",
+  "exposure": "Source andoldbaselinesknown;same-modelhypothesis;noindependentrediscovery",
+  "object_mapping": {
+    "input": "Explicit DAG,equal unit jobs,exactly3identicalworkers,makespanT",
+    "state": "Certified global descriptions withframe,boundarytriples andretainedupsetentries;not ancestor-relative predicatesusedglobally",
+    "oracle": "Exact completed-job subset DP,including every feasibleavailablejobbatch"
+  },
+  "additional_assumptions": [
+    "No release dates,communication delay,variable durations,extraresourceconstraints orheterogeneousworkereligibility",
+    "Do not use normalization witness as efficiently availableinputoracle",
+    "Every used description must satisfyglobal/localagreement andfuture-reorderinginvariants;retaincounterexamples ifconstructionfails"
+  ],
+  "hypothesis": "在实现并冻结的受限小DAG测试集上，真实有界描述DP与独立子集DP的最优makespan逐项一致；若其平均唯一状态数至少减少25%且描述生成后的总峰值内存和时间均不更差，才支持有限原型收益。任何构造/资源失败均保留，不以源文多项式性替代实际测量。",
+  "baseline": "Full exact subsetDP over completed-job ideals;source-aware implementationmustincludeall generation,normalizationandverificationcost. Older specialized cases/solvers may already win.",
+  "incremental_value": "Potentially compress exact scheduling states on inputs beyondolderpolynomialsubclasses. This is conjectural engineeringgain,notconsequence ofhugeasymptoticpolynomialdegree.",
+  "test_plan": {
+    "fixtures": "After a genuineexecutableboundeddescriptionconstruction exists,freeze >=24DAGs n<=18 acrosschains,antichains,layeredandnontrivialprecedencepatterns;separateimplementationdevelopmentandvalidationseeds.",
+    "oracle": "Independent exactsubsetDP validates optimalmakespan and reconstructedprecedences/capacity;compare identicalworkload andwallclock/resourceenvelope.",
+    "metrics": [
+      "optimalmakespan",
+      "schedulevalidity",
+      "uniquestates",
+      "descriptiongenerationtime",
+      "totaltime",
+      "peakmemory"
+    ],
+    "success": "All exact agreement;mean statesreduced>=25%;total elapsed andpeakallocation notworse;no omittedconstructioncost.",
+    "failure": "Mismatch,invalidglobalpredicate,missingconstruction,infeasiblecost orfailureofanyperformancecriterion;no gridretuning."
+  },
+  "limits": "尚无完整可执行的有界描述构造，无真实任务负载。单独重写旧子集DP或局部列表不能冒充实现新算法；K=10000枚举可能使该原型失去实用性。",
+  "resource_envelope": "Proposed validation cap10minutes/256MiB afterconstruction;no fullK10000enumerationauthorizedbythisplan;not implemented/run.",
+  "execution_requirement": "Freeze executableexperiment specbeforetargetoutputs;thisplanisnotanexperimentrun"
+}

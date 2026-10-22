@@ -1,0 +1,26 @@
+{
+  "recorded_at": "2026-10-20T19:20:03.933878+00:00",
+  "url": "http://127.0.0.1:8768/",
+  "tab": "1",
+  "actions": [
+    "reload",
+    "search115",
+    "selectF115",
+    "selectAPP11501",
+    "followSOURCE0ED7B6E88AFA799B"
+  ],
+  "observed": {
+    "nodes": 3348,
+    "edges": 8315,
+    "manuscripts": 2,
+    "claims": 42,
+    "parts": 24,
+    "candidates": 1,
+    "application_result": "待定",
+    "run_ids": [],
+    "source_annotations": 3,
+    "source_sha256": "1dcb781aa851aff270d8eb3a5a7357055103acf78cfcca89a84e0c17a551aa30"
+  },
+  "method": "Actualcua nativeAXstate check;no screenshot pixel claim",
+  "full_site_acceptance": false
+}

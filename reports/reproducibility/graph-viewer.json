@@ -1,0 +1,29 @@
+{
+  "checked_at": "2026-10-20T11:42:42.133380+00:00",
+  "tool": "native in-app browser via cua_repl",
+  "url": "http://127.0.0.1:8768/",
+  "observed_counts": {
+    "families": 372,
+    "nodes": 1237,
+    "edges": 1992,
+    "human_reviews": 0
+  },
+  "actions": [
+    {
+      "action": "search 374",
+      "observed": "one result: F-374"
+    },
+    {
+      "action": "open F-374",
+      "observed": "manuscript, claim, construction and APP-374-01 shown"
+    },
+    {
+      "action": "open APP-128-01 earlier",
+      "observed": "run ID, precise source locator, observation result and unknown dependency grade visible"
+    }
+  ],
+  "limitations": [
+    "UI inspection at narrow in-app browser viewport; not a comprehensive cross-browser test",
+    "displayed uncompleted six-stage coverage and pending real human review"
+  ]
+}

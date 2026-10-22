@@ -1,0 +1,6 @@
+{
+  "reason": "Derived Markdown table inspection found multiline raw TeX breaking table rows; replace display statement by concise factual summary while exact statement_tex/sourceconditions/sources/grades unchanged",
+  "claims": 37,
+  "prior_versions_preserved": true,
+  "math_or_experiment_status_changed": false
+}

@@ -1,0 +1,522 @@
+{
+  "family_id": "F-155",
+  "work_package": "WP-064",
+  "generation_id": "GEN-20261021-060",
+  "recorded_at": "2026-10-21T01:32:38.447421+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/figures/proof-route.tex": {
+      "sha256": "306be570dfc6a5b6a7693ffa5cf85e32aa5837425608a8bdfb223d2eaf4d3b9e",
+      "total_lines": 31,
+      "read_ranges": [
+        [
+          1,
+          31
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/figures/rigidity.tex": {
+      "sha256": "bedb5f3079d632fef5ee5cb0e55e68eff8b9c0460f9d09f74a71c98c3efb5f31",
+      "total_lines": 37,
+      "read_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/paper.tex": {
+      "sha256": "1c709c46640250f34e87d2b89638bdccfb75f90d6950279f2ea3b87b83c9b80c",
+      "total_lines": 98,
+      "read_ranges": [
+        [
+          1,
+          98
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/01-introduction.tex": {
+      "sha256": "2f43028b395da67a951d06379dc00154787b2322c7e0588cf0e30090cca82803",
+      "total_lines": 97,
+      "read_ranges": [
+        [
+          1,
+          97
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/02-word-rule.tex": {
+      "sha256": "6be11239544f1b5b50b7b6e136979ccf3d8ebe37c01fccd17fac641fd7c75710",
+      "total_lines": 295,
+      "read_ranges": [
+        [
+          1,
+          295
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/03-cyclic-encoding.tex": {
+      "sha256": "960fc866515885ce534bc02335027354f6da341a2fc20d3f312476e690f0adee",
+      "total_lines": 329,
+      "read_ranges": [
+        [
+          1,
+          329
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/04-activation.tex": {
+      "sha256": "4d8b6f23500bfad30566cbe75065fb9538039dbd6cb2bf95eebf11e26c1fc7c6",
+      "total_lines": 357,
+      "read_ranges": [
+        [
+          1,
+          357
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/05-common-solution.tex": {
+      "sha256": "08c188bd3ad1eda12a1c839d09085f68c08246ed18471b575de7152f1877ecc4",
+      "total_lines": 338,
+      "read_ranges": [
+        [
+          1,
+          338
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/06-stacking.tex": {
+      "sha256": "6f17c3d3fa81b81ee8b7f556b67e94b5d0555400f118887025509e30870be574",
+      "total_lines": 131,
+      "read_ranges": [
+        [
+          1,
+          131
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/sections/07-three-dimensions.tex": {
+      "sha256": "392bafc7b05349b5e7d9cbdfd1fb14967abbc1933d3331e5c43b55c9504269e4",
+      "total_lines": 400,
+      "read_ranges": [
+        [
+          1,
+          400
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 10,
+  "source_tex_lines": 2113,
+  "additional_bibliography": {
+    "path": "math/preprints/A-translational-tile-with-no-fully-periodic-tiling-in-dimension-three-September-23-2026/build/references.bib",
+    "sha256": "22d1ed87ac734bb9fc47002fe2e59ff92ea61326ee17b6b498a81492643e5c35",
+    "lines": 117,
+    "fully_read": true
+  },
+  "formal_selected": {
+    "math/lean/OAI/Geometry/PeriodicTiling/Counterexample.lean": {
+      "sha256": "2a7cac9d5ec1cfe91911599ebe9d58cff2b704e33296cb6495f00bb0ee6617ef",
+      "read_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/Model.lean": {
+      "sha256": "1fcc7ebc50e235d68d8eebd9f9b0310fa0452eaa41aa1bdc548a72b1adb307f4",
+      "read_ranges": [
+        [
+          1,
+          60
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/LowerDimensions.lean": {
+      "sha256": "8f180a67b96b43426a271a5cb76977f07cf53e6f7e3b6f8b47a88bf7db63a7ea",
+      "read_ranges": [
+        [
+          1,
+          38
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/ThreeDimensions.lean": {
+      "sha256": "0b21cbd4317c0013ba865c1a5025825ddbc08bf78f83bbe6277005892fd00ae3",
+      "read_ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/ThreeDimensionalTransfer.lean": {
+      "sha256": "7359a7044c120683f42489c9b92cd878926a61439b670af2a134c40106ca7c1c",
+      "read_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/RigidSectionGeometry.lean": {
+      "sha256": "bd88a54e446bbde5062444794dc8159f63374c0261b3715bd2edc04f8b8dfc59",
+      "read_ranges": [
+        [
+          1,
+          38
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/LatticeDimensions.lean": {
+      "sha256": "7fab40a376dcbcfbc0a7f2ebf5cb8a56dccd8e9f1b4c75ff18f8bc4ed6402cb0",
+      "read_ranges": [
+        [
+          1,
+          32
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/ResidueTransversal.lean": {
+      "sha256": "ec748db3f1c3384671209b3465db7f2e5ff78b8c6168415a1cb97b73b7120c50",
+      "read_ranges": [
+        [
+          1,
+          199
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/PlanarPeriodicity.lean": {
+      "sha256": "fdbcd6b2039164690375147c222ec40d827141f9418a4335fb0b5b6e7df08a6f",
+      "read_ranges": [
+        [
+          1,
+          117
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/PeriodicTiling/EncodingPrimeSelection.lean": {
+      "sha256": "357e047636b2ddd3651d1252979fc6dbcac3a9c2a2687e801051dbdd7d3fd0c1",
+      "read_ranges": [
+        [
+          140,
+          220
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/docs/155.md": {
+      "sha256": "a4a8e34b1d3c463db615c2a1af9e8b78db28f6ffb1dbd0d7109d95fd0a5f6b82",
+      "read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/PeriodicTilingThree.lean": {
+      "sha256": "056c498ce4a6e7b71b688eb8c499ebef70ad1bddfea98b7215d480eb11e08bba",
+      "read_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/PeriodicTilingThree.json": {
+      "sha256": "e87378eda65c42e0ecdf457306ef3f79db0ee94dbfe99f890ba1b351a64ce147",
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-155-lean-index.json.gz",
+    "sha256": "ffcee0232bde6b105af28a37d5eff8f4a6452a7f25c4ed49badb0af2d928926e",
+    "local_files": 122,
+    "declarations": 1275,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "GTPeriodic",
+      "url": "https://arxiv.org/html/2211.15847v3",
+      "scope": "v3 2024-09-08;rendered44-76,83-152,201-310 selected sections1-3,not wholeproof/figures",
+      "summary": "Old single uncolored counterexample in Z² x finite abelian2group and sufficientlyhigh lattice/Euclidean dimension;not cyclicG0 or dimension3. Old concatenation uses2power,partition strongercross-color intersections;O(M²logM) orderauthorbound. Rigid Euclideanfundamentaldomain replacesordinarycube because sliding possible;F155 instead proves specialvoxelrigidity."
+    },
+    {
+      "key": "MSSReduction",
+      "url": "https://arxiv.org/html/2211.07140v1",
+      "scope": "v1 2022-11-14;rendered23-76,81-140 and241-247 selected statements/construction,not wholeproof/figurepixels",
+      "summary": "Old surjective Z^d->Gamma reduction preserves tilecount and exactnormalizedtiling correspondence with inflated rigidtiles. k1 cyclicquotient gives3D once quotientaperiodicexists;does notsupply that witness or realtranslationvoxel claim. RenderedCor1.2 proofclosing reverses direction relative to theorem/argument;not PDF/pixelconfirmed,retain statementdirection and unresolvedliteral closing,not theoremD."
+    },
+    {
+      "key": "Bhattacharya",
+      "url": "https://arxiv.org/html/1602.05738v1",
+      "scope": "v1 2016-02-18;rendered25-64 and67-80,Theorem1.1/Cor1.2 andone-periodic distinction;not fullergodicproof",
+      "summary": "Every finite singletranslational Z2 tile admits some finite-indexperiodic complement;not every complement periodic. Periodicexistence impliesdecidability via oldWang argument. Covers disconnected/holes,unlikeearliersimplyconnected case. Not arbitrarymeasurableEuclidean2D or practicalruntimebound."
+    }
+  ],
+  "result_notes": {
+    "thm:main": "There exists one finite nonempty uncolored T subset Z3 which tiles exactly but no complement invariant under finite-index subgroup. SAME Omega=T+[0,1]^3 tiles R3 up to null sets but no translation set invariant under full-rank real lattice, arbitrary real translations. Not absence of every individual nonzero period; no rotations/connectedness asserted.",
+    "word:affine": "Prime p>200,N=p²,nonzero symbols,all integer-slope/intercept line words obey first/second affine-digit rule; W equals nonzero affine H=An+Bm+C off H=0. Exception-free4x4 square and slopes -1,0,1 propagate; enough p makes N-3-48p positive.",
+    "word:vertical": "Under line rule and global affine approximation,every column nonconstant iff B nonzero. Then every column takes all nonzero symbols;any positive vertical period divisible by p. B=0 means at least one constant column, not all.",
+    "word:obstruction": "No line-rule array with all columns nonconstant has positive vertical period. Minimal period M divisible by p; shear/rescale W(n,pm),use second digit to prove new vertical coefficient nonzero, then M/p smaller. Divisibility alone insufficient.",
+    "word:model": "Last nonzero p-adic digit f(m),f(0)=1,negative integers allowed; W(n,m)=f(m) satisfies all integer-slope line rules and all columns nonconstant. Not a finite patch simulation/proof of practical tile size.",
+    "enc:invariance": "Assuming graph equation A+H0 exact,one finite dependence tile enforces c_i(b-sigma)=c_i(b) for chosen base shift,leaving other outputs/high/z unrestricted. Two pieces partition H0 and shifted zero-output slice.",
+    "enc:exclusion": "Assuming useful-output dependencies,finite family of ordinary SET tiles,one per all joint arbitrary maps around a cycle,tiles with same A iff at each x at least one selected channel label inactive. Permutation bijectivity/collision criterion; exponential all-map family not efficient SAT compiler.",
+    "act:fibre-criterion": "Graph A;ordinary activation exactcoverage iff (l,delta)->(useful output+shift,high shear) is bijection K_i x Delta_i to P_i x K_i. Seed includes horizontal residue tau and SAME z,bijective into P_i x K_i x Z/D.",
+    "act:ordinary": "Any common solution of graph/dependence/exclusion/activation equations has each ordinary channel active at EVERY x. Nonconstant multiplicity mu contradicts required uniform useful-output marginal if function constant.",
+    "act:seed": "Each seed active SOMEWHERE, not everywhere. If nowhereactive,histogramQ nonnegativeinteger massD=p4 and mixed-difference zero implies Q=u+v;D=b sumu+a sumv impossible since b>D and seed a2/3 not dividingD.",
+    "act:nonperiodic": "Common finite system has no fully periodic common solution. Choose minimal active symbol in each channel,seed1/2 gives everycolumn nonconstant;finite-index period subgroup contains a positive pure vertical element with ZERO finite-coordinate component,contradicting word obstruction.",
+    "model:block-inverse": "Partition digit into copied labeled SUBSETS of sizes a/b,not subgroups. CRT offsets prescribe l,rho^a,rho^b;target block/high label plus fibre ordering uniquely recover delta,source digit,l;bijection proves ordinary activation.",
+    "model:system": "Finite cyclic V and finitely many finite nonempty Fnu in Z² x V have ONE common tiling complement A but no fully periodic common complement. Explicitlastdigitordinary outputs and shared z=lambda(R(x1)s(x)) satisfy both seed tests. Separate A_n solutions would not suffice.",
+    "stack:partition": "For any positive s and excluded finite prime set,a fresh sufficientlylarge odd prime q admits partition into s nonempty E_nu with E_nu-E_nu=Z/q. Unionbound s(q-1)(1-s^-2)^floor(q/2)<1;finite search possible,not prescribed practical q.",
+    "stack:equivalence": "For abelian H,finite nonempty F_nu and full-difference partition,stack Fst=union F_nu x E_nu tiles H x Z/q iff ONE A solves every equation in H. Periodic tiling gives periodic common complement and conversely. Injective projection and fibre cardinalities essential.",
+    "stack:cyclic": "Choose fresh q coprime |V|;V x Z/q cyclic Q=q|V|;stack yields finite tile F in Z² x Z/Q with no fullyperiodic tiling. All systemtile sizes M=|H0| imply |F|=qM.",
+    "geom:random-representatives": "For sufficientlylarge m>=2,one residue representative t(v)=v+m h_v with h_v in {-2..2}³,excluding markedzero,has all non-m-divisible differences supnorm<=m. Unionbound (2m+1)^3(1-27/15625)^(floor(m³/3)-1)<1. Existence by random lifts then finite selection.",
+    "geom:existence": "Normalize0 in quotientF,representativesU,ker pi=Zw,w=(0,0,Q). T=T1 union_{u!=0}(mu+T0),T1 moves markedpoint by mw. Pullback B invariantw gives mB+T exactZ3;unitcube thickening same translations tilesR3 a.e.;|T|=|U|m³.",
+    "geom:rounding": "m>=2,real delta supnorm<=m outside mZ³;choose integer d outside mZ³ with supnorm<=m and |delta-d|infty<1. Closedbox endpoints kept integral;needed positive-volume cube overlap.",
+    "geom:grid": "Only for an a.e. tiling assembly of BOTH constituent types preserved INCLUDING types by a full-rank real lattice,centers form one coset c0+mZ³. Commonpart prevents nearby nongrid offsets,periodic volume saturates auxiliarycube packing,closed cover intersection connected. Not every nonperiodic assembly grid.",
+    "geom:no-periodic": "Any hypothetical fullyperiodic real Omega tiling induces typed constituent assembly,grid centers,unique A x U representation. Markedcell multiplicity 1-b(a)+b(a-w)=1 forces kernel invariance;period lattice then lies in mZ³,descend fullyperiodic quotient complement,contradiction. Integer vertices alone do not force real translations integral."
+  },
+  "method_contracts": [
+    {
+      "key": "PERIOD-SEMANTICS",
+      "title": "满秩周期与逐方向周期",
+      "input": "Finite-index subgroup in Z3 or fullrank basis lattice in R3",
+      "output": "Exclude every FULLY periodic complement of one exact tile",
+      "cannot_transfer": "Does not exclude every nonzero period,rotations/reflections,or prove all3D tile problems undecidable.",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "WORD-RULE",
+      "title": "两层非零数字局部词规则",
+      "input": "p>200,N=p²;all integer slopes and intercepts",
+      "output": "Finite permitted words plus global affine rigidity",
+      "cannot_transfer": "p² zero arbitrarynonzero symbol;not ordinary nearest-neighbor colored Wang squares.",
+      "source_labels": [
+        "word:affine",
+        "word:vertical"
+      ]
+    },
+    {
+      "key": "PERIOD-DESCENT",
+      "title": "竖直周期的极小值下降",
+      "input": "Line rule,each column nonconstant,positive minimalM",
+      "output": "p dividesM,normalize/rescale and descend M/p",
+      "cannot_transfer": "Second-digit nondegeneracy proof needed;finite patch tests not equivalent.",
+      "source_labels": [
+        "word:obstruction"
+      ]
+    },
+    {
+      "key": "PADIC-MODEL",
+      "title": "无限铺法的末非零数字模型",
+      "input": "Integer m including0/negative,primep",
+      "output": "Explicit infinite word f(m),seedvalues1and2",
+      "cannot_transfer": "Computablelocalformula not enumerated globalfinite tile or measuredgeneratorspeed.",
+      "source_labels": [
+        "word:model"
+      ]
+    },
+    {
+      "key": "CYCLIC-CRT",
+      "title": "保持循环有限因子的互素坐标",
+      "input": "Distinct primes a_i,b_i,r_ij,p; r_ij=Aa+Bb",
+      "output": "V=Z/D x product (Z/r_i² x Z/a_i x Z/b_i) cyclic",
+      "cannot_transfer": "S=(Z/p²)² onlyoutputindex;highshear is not split cyclicgroup.",
+      "source_labels": [
+        "enc:invariance",
+        "model:system"
+      ]
+    },
+    {
+      "key": "GRAPH-DEPENDENCE",
+      "title": "图式补集与输出依赖编码",
+      "input": "A+H0 exact;one graphpoint per(x,k)",
+      "output": "Useful outputs invariant under chosen shifts;otheroutputs free",
+      "cannot_transfer": "All equations use SAME A;dependency tests do not constrain high/z.",
+      "source_labels": [
+        "enc:invariance"
+      ]
+    },
+    {
+      "key": "CYCLE-TEST",
+      "title": "循环碰撞排除共同活动",
+      "input": "Dependent channel outputs;all maps into selected digit groups",
+      "output": "Bijection test excludes simultaneous chosenactive labels",
+      "cannot_transfer": "All forbidden words and all maps finite but potentially enormous;not polynomial translation.",
+      "source_labels": [
+        "enc:exclusion"
+      ]
+    },
+    {
+      "key": "SHIFT-MULTIPLICITY",
+      "title": "非均匀重数与均匀边际",
+      "input": "mu=1+delta00-delta10-delta01+delta11",
+      "output": "Distinct CRT horizontaloffsets encode repeated indices as SET elements",
+      "cannot_transfer": "Not weighted/multiset tiles;all repeatede labels distinctbatchlocations.",
+      "source_labels": [
+        "act:fibre-criterion",
+        "act:ordinary"
+      ]
+    },
+    {
+      "key": "SEED-HISTOGRAM",
+      "title": "整数直方图与活动前提",
+      "input": "Seed a2or3,b>D=p4,coprimep",
+      "output": "Convolution forces impossiblenonnegativehistogram if seedinactiveeverywhere",
+      "cannot_transfer": "Integer/positivity and b>D matter;real-valued arbitraryhistograms notsame.",
+      "source_labels": [
+        "act:seed"
+      ]
+    },
+    {
+      "key": "BLOCK-INVERSE",
+      "title": "带标签块的双向反演",
+      "input": "Blocks sizea/b withfibreorderings andCRTshiftresidues",
+      "output": "Uniqueinverse for activation bijection",
+      "cannot_transfer": "Blocks are subsets,not additivecosets;arbitraryliftchoices preserveonly statedresidues.",
+      "source_labels": [
+        "model:block-inverse"
+      ]
+    },
+    {
+      "key": "COMMON-SEEDS",
+      "title": "两种子共享输出的兼容构造",
+      "input": "Disjoint seedregions sizes3and4,S0 divisible6;otherseed congruence",
+      "output": "Onez=lambda(R(x1)s(x)) solvesBOTH equations",
+      "cannot_transfer": "lambda/R onlysetbijections nothomomorphisms;two independent solutions insufficient.",
+      "source_labels": [
+        "model:system"
+      ]
+    },
+    {
+      "key": "FRESH-STACK",
+      "title": "新素数层的多约束合并",
+      "input": "CommonFnu system;full-differenceE partition;freshq notdivideV",
+      "output": "One F in Z² x Z/Q with exact common/periodic correspondence",
+      "cannot_transfer": "Oldstacking alreadyexists;freshcoprime cyclic preservation is relevant dimension improvement.",
+      "source_labels": [
+        "stack:partition",
+        "stack:equivalence",
+        "stack:cyclic"
+      ]
+    },
+    {
+      "key": "RESIDUE-RIGIDITY",
+      "title": "公共体素差集与闭箱舍入",
+      "input": "One representative permodm,commonpartdifferences allrequested",
+      "output": "Nearby non-grid realcenters cause positivevolumeoverlap",
+      "cannot_transfer": "Natural m sufficientlylarge;Lean fixed64 witness noncomputable;no finitepointlist extracted.",
+      "source_labels": [
+        "geom:random-representatives",
+        "geom:rounding"
+      ]
+    },
+    {
+      "key": "PERIODIC-GRID",
+      "title": "周期装配的体积饱和",
+      "input": "Typed fullrank-periodic assembly;equalcomponentvolume m³",
+      "output": "All constituentcenters one complete m-grid coset",
+      "cannot_transfer": "Uses periodicity;do not claim ALL nonperiodic assemblies grid.",
+      "source_labels": [
+        "geom:grid"
+      ]
+    },
+    {
+      "key": "MARKED-DESCENT",
+      "title": "移动标记与商空间下降",
+      "input": "Gridcenters,Bprime+U exact,one markedpoint moved bymw",
+      "output": "Coverageforces Bprime+w=Bprime thenunique quotient tiling",
+      "cannot_transfer": "Unitcube thickening alone insufficient for arbitraryrealtranslations.",
+      "source_labels": [
+        "geom:existence",
+        "geom:no-periodic"
+      ]
+    },
+    {
+      "key": "CONSTRUCTION-COST",
+      "title": "可终止选择与实际规模闸门",
+      "input": "Enumerate primefamilies,forbiddenword/maptiles,partitions andlifts",
+      "output": "Finite T,|T|=q|H0|m³;Lean m64 factor262144",
+      "cannot_transfer": "No practical Q/q/allmap enumeration bound or extracted executablewitness;do not allocate productgroup.",
+      "source_labels": [
+        "stack:cyclic",
+        "geom:existence"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "实际周期搜索器的资格前提",
+      "input": "Actualconsumer infiniteZ3 singleuncoloredtranslation-only exactcover with potentially disconnectedtile",
+      "output": "Explicit matching interface and claimed periodic-completeness behavior",
+      "cannot_transfer": "prerequisite_status=unestablished;no actual solver/API examined yet.",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "BUDGET-BASELINE-GATE",
+      "title": "紧凑见证与强旧方法闸门",
+      "input": "Explicit T admitted by resourcecap,independent groundtruth,old rigorous periodic-only status handling",
+      "output": "Frozen falsifiable solver-regression protocol before runs",
+      "cannot_transfer": "prerequisite_status=unestablished;colored/multiple/rotating examples already old;no newcandidate or initialcard thispackage.",
+      "source_labels": [
+        "thm:main",
+        "stack:cyclic"
+      ]
+    }
+  ],
+  "notes": [
+    "Single uncolored finite translational tile in Z3; no complement invariant under finite-index subgroup. R3 unit-cube thickening up to null sets with arbitrary real translations, no full-rank lattice; not no individual period, not rotations, connectedness not promised.",
+    "p>200; N=p²; allowed words require first/second nonzero affine digits, arbitrary at p² zeros. Affine rigidity, nonconstant columns iff B nonzero, minimal vertical period descent by p. Explicit p-adic last-nonzero-digit model.",
+    "G=Z² x cyclic V: horizontal residue S=(Z/p²)² indexes output, not ambient factor; all selected coordinate prime orders coprime. High coordinate shear not group splitting.",
+    "Graph tiling equation one A point per base; dependence tiles exact useful-output invariance without constraining auxiliary high/z outputs. Cycle test over all maps detects simultaneous activity by permutation collisions; finite but enormous all-map/all-forbidden-word enumeration. Each active product must be allowed; seed excludes non-t labels. Active sets may still be empty until next section.",
+    "Source not fully read yet; no canonical reading/family credit, no numerical test. Source figures schematic only.",
+    "Full natural10TeX2113lines and allreferences.bib read. Finite selection by terminating prime/partition/lift searches, no practical global bound. |T|=q*M*m^3, M=D product_i r_i*|P_i|; enormous forbidden-word/all-map enumeration.",
+    "Activation nonuniformmu=1+mixed-difference delta but uniform marginal counts. Ordinaryconstant usefuloutput contradiction, seedhistogramQ splitsu+v and D=b sumu+a sumv impossible b>D,seed a2/3 nondividesp4.",
+    "Explicitcommonmodel labeledblocks sizea/b are subsets notsubgroups; single sharedz=arbitrary lambda(R(x1)s(x)) forbothseedtests, no homomorphism claim. Negative x handled residues.",
+    "Freshprime stacking only same-color full difference sets needed, projection injective, exactcounts force all common equations; q coprimeV preservescyclic.",
+    "Randomlifttransversal commonpart differenceproperty usesclosedbox rounding; gridrigidity needs FULL PERIODIC assembly for volume saturation, not every real tiling grid. Markedcell 1-b(a)+b(a-w)=1 forceskernel invariance thenquotient.",
+    "ActualLean main/Model expresses Z3 and SAME unitcubethickening R3 plus lattice-onlyleastdimension3. Formal proof uses fixed64 residue section with32000 independentpairs and noncomputable Classical.choose; natural m sufficientlylarge; notexactfiniteenumeratedtile. Challengeonesorry notactualproofsourcefailure."
+  ],
+  "history_scope": "All ten current bibliographyentries read;three selectedoriginalbodies only. Targeted history title/id search nohit;catalogueone currentmanuscript is not proof fullhistoricalclosure.",
+  "formal_status": "ActualCounterexample+Model+lowerdimensions/transfer selected;main locallyB,no human/build. Noncomputablefixed64rigidassignment vs naturalsufficientlylarge m;no extractedT. OtherintermediateclaimsC unlessactualspec separatelyaudited;fullchainsunknown.",
+  "remaining": [
+    "Seven otherexternaloriginalroots andrecursivehistory/proofbodies unread.",
+    "Formalindex122files1275declarations not wholeproofread,build orComparator;mathlib absent;nohuman specificationreview/secondprovider.",
+    "Noactualsolverconsumer,enumeratedT,resource-admitted input,independentapplicationtest or numericalexperiment."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false
+}

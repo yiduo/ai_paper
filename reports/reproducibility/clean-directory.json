@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-20",
+  "isolation": "temporary clean project directory, existing Python 3.14.7 interpreter, no math clone, no credentials, no installed project dependencies; not a clean OS or remote CI",
+  "elapsed_seconds": 3.6310508251190186,
+  "commands": [
+    {
+      "command": [
+        "python3",
+        "scripts/check.py"
+      ],
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"nodes\": 1237,\n  \"research_nodes\": 63,\n  \"edges\": 1992,\n  \"citations_checked\": 76,\n  \"candidate_connections\": 4,\n  \"externally_checked_cards\": 4,\n  \"effective_leads\": 1,\n  \"distinct_validation_hypotheses\": 4,\n  \"human_grading_records\": 0,\n  \"pilots\": 0\n}\n{\n  \"nodes\": 1237,\n  \"research_nodes\": 63,\n  \"edges\": 1992,\n  \"citations_checked\": 76,\n  \"candidate_connections\": 4,\n  \"externally_checked_cards\": 4,\n  \"effective_leads\": 1,\n  \"distinct_validation_hypotheses\": 4,\n  \"human_grading_records\": 0,\n  \"pilots\": 0,\n  \"registered_families\": 372,\n  \"registered_manuscripts\": 719,\n  \"complete_family_decompositions\": 0,\n  \"structured_decomposition_fraction\": 0.0,\n  \"partial_reading_families\": 6,\n  \"all_six_stages_complete_families\": 0,\n  \"human_fact_error_rate\": null,\n  \"cross_provider_reviews\": 0,\n  \"human_spec_reviews\": 0,\n  \"full_lineages_complete\": 0,\n  \"release_state\": \"local repository; no remote publication performed\"\n}\n",
+      "stderr_tail": "cted) ... ok\ntest_parentheses_in_pdf_path (test_research.CatalogueTests.test_parentheses_in_pdf_path) ... ok\ntest_historical_version_graph_and_scope_boundaries (test_research.EvidenceTests.test_historical_version_graph_and_scope_boundaries) ... ok\ntest_real_graph_and_export_fields (test_research.EvidenceTests.test_real_graph_and_export_fields) ... ok\ntest_review_queue_is_stable_and_nonempty (test_research.EvidenceTests.test_review_queue_is_stable_and_nonempty) ... ok\ntest_single_model_cannot_confirm_rejection_or_pilot (test_research.EvidenceTests.test_single_model_cannot_confirm_rejection_or_pilot) ... ok\ntest_unknown_dependency_never_upgraded (test_research.EvidenceTests.test_unknown_dependency_never_upgraded) ... ok\ntest_withdrawal_propagates_transitively (test_research.EvidenceTests.test_withdrawal_propagates_transitively) ... ok\ntest_archived_numerical_payloads_compress_losslessly (test_research.ExperimentTests.test_archived_numerical_payloads_compress_losslessly) ... ok\ntest_exact_polygon_and_transport_oracles (test_research.ExperimentTests.test_exact_polygon_and_transport_oracles) ... ok\ntest_occurrence_counts_against_bruteforce (test_research.ExperimentTests.test_occurrence_counts_against_bruteforce) ... ok\ntest_periodicity_is_a_substantive_ablation (test_research.ExperimentTests.test_periodicity_is_a_substantive_ablation) ... ok\ntest_subset_dp_against_independent_permutations (test_research.ExperimentTests.test_subset_dp_against_independent_permutations) ... ok\ntest_transfer_rejects_nonzero_sum (test_research.ExperimentTests.test_transfer_rejects_nonzero_sum) ... ok\n\n----------------------------------------------------------------------\nRan 15 tests in 0.374s\n\nOK\n"
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/replay_run.py",
+        "experiments/runs/EXP-097-001-f4db184a4c5e6d4d"
+      ],
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"run_id\": \"EXP-097-001-f4db184a4c5e6d4d\",\n  \"replay_run_id\": \"EXP-097-001-f4db184a4c5e6d4d\",\n  \"deterministic_outputs_match\": {\n    \"raw.json\": true,\n    \"summary.json\": true\n  },\n  \"runtime\": \"3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]\",\n  \"isolation\": \"temporary directory; standard library; no upstream clone or credentials\"\n}\n",
+      "stderr_tail": ""
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/replay_run.py",
+        "experiments/runs/EXP-128-001-adf42abc31aca23e"
+      ],
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"run_id\": \"EXP-128-001-adf42abc31aca23e\",\n  \"replay_run_id\": \"EXP-128-001-adf42abc31aca23e\",\n  \"deterministic_outputs_match\": {\n    \"raw.json\": true,\n    \"summary.json\": true\n  },\n  \"runtime\": \"3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]\",\n  \"isolation\": \"temporary directory; standard library; no upstream clone or credentials\"\n}\n",
+      "stderr_tail": ""
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/replay_run.py",
+        "experiments/runs/EXP-130-001-eadb2e7b3a00d556"
+      ],
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"run_id\": \"EXP-130-001-eadb2e7b3a00d556\",\n  \"replay_run_id\": \"EXP-130-001-eadb2e7b3a00d556\",\n  \"deterministic_outputs_match\": {\n    \"raw.json\": true,\n    \"summary.json\": true\n  },\n  \"runtime\": \"3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]\",\n  \"isolation\": \"temporary directory; standard library; no upstream clone or credentials\"\n}\n",
+      "stderr_tail": ""
+    },
+    {
+      "command": [
+        "python3",
+        "scripts/replay_run.py",
+        "experiments/runs/EXP-374-001-bc1d2887fa6a5d33"
+      ],
+      "exit_code": 0,
+      "stdout_tail": "{\n  \"run_id\": \"EXP-374-001-bc1d2887fa6a5d33\",\n  \"replay_run_id\": \"EXP-374-001-bc1d2887fa6a5d33\",\n  \"deterministic_outputs_match\": {\n    \"raw.json\": true,\n    \"summary.json\": true\n  },\n  \"runtime\": \"3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]\",\n  \"isolation\": \"temporary directory; standard library; no upstream clone or credentials\"\n}\n",
+      "stderr_tail": ""
+    }
+  ],
+  "temporary_directory_removed": true
+}

@@ -1,0 +1,373 @@
+{
+  "family_id": "F-238",
+  "manuscript_id": "P-ce6a8a7cfdd51cf0",
+  "generation_id": "GEN-20261021-032",
+  "recorded_at": "2026-10-20T18:26:37.886100+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "body_source_lines": 890,
+  "total_tex_lines": 1173,
+  "bibliography_lines": 183,
+  "bibliography_in_total_tex": true,
+  "read_files": [
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/sections/00-introduction.tex",
+      "lines": 41,
+      "sha256": "04289cd2e15e641baa2ab713f864b3b518b81f3b277f12a9222fad2821b71cbe",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/sections/01-conditional-bijections.tex",
+      "lines": 59,
+      "sha256": "67d69179900911af8b30431c7f0b06a9609e9a76a5b662506009ef552008aa44",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/sections/02-preparation-active.tex",
+      "lines": 234,
+      "sha256": "ede104b2971bda7b3d650d0baf91c8f11a05b779e949152462964629635d39cc",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/sections/03-reset.tex",
+      "lines": 168,
+      "sha256": "73c2ba311565b9efb6635a4881728ef3c0235fc42d10b7e962ae96778b68060a",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/sections/04-overlay.tex",
+      "lines": 256,
+      "sha256": "7f64f52ec42509b8ff04bf034ead1cf4e4ae6c7cc18ab76d868aac5082d29f8d",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/sections/05-two-halves.tex",
+      "lines": 132,
+      "sha256": "7f423d9b7b76b2e8112c0318f4fc7d416addb483f8baaa6e6c5b9e0a8bf3e635",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/main.tex",
+      "lines": 100,
+      "sha256": "51e361b11e29e9ae1d984e16a7aee2b8eee85793a7197a1bb1e021ddb83a3cc1",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    },
+    {
+      "path": "math/preprints/Conditional-permutations-in-a-revealed-switching-environment-September-26-2026/build/references.tex",
+      "lines": 183,
+      "sha256": "de2a93f2e6a627e77f5be3bdc4ab6154bdde21bd3c830f0d507ead7e2080c9ee",
+      "read_scope": "Entire natural source,proofs,embedded figures and bibliography read"
+    }
+  ],
+  "named_results": 17,
+  "method_contracts": 16,
+  "selected_fresh_historical_roots": {
+    "bbl2009": {
+      "url": "https://arxiv.org/html/0707.2340v2",
+      "locator": "v2,Theorem4.9 and4.20 selected statements; partial-symmetrization discussion",
+      "scope": "Strongly Rayleigh implies CNA+; partial symmetrization preserves stability. The source uses a restricted elementary all-blocked-cylinder inequality,not an assertion that arbitrary path conditioning preserves strong negative dependence.",
+      "source_file_sha256": null
+    },
+    "hastad2006": {
+      "url": "https://www.csc.kth.se/~johanh/jhsquare.pdf",
+      "locator": "Author20Oct2005preprint,Definition2.1/2.2,Theorem3.6 anddiscussion;2015correction separately checked",
+      "scope": "Old square m by m model has number of rows/columns growing with n and statistical distance defined without factor1/2. It is not the fixedK8 growing-intersection limit. Theorem3.6 stated exponent is corrected in2015;constant-order mixing is not withdrawn.",
+      "source_file_sha256": null
+    },
+    "keller-lifshitz-sheinfeld2024": {
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/ED9440FB38271646948AAC96D95251F7/S2050509424000951a.pdf/improved-covering-results-for-conjugacy-classes-of-symmetric-groups-via-hypercontractivity.pdf",
+      "locator": "Published2024,page5 Definition2.1 andTheorem2.2,text and rendered page checked",
+      "scope": "For each fixed epsilon>0 one n0 works uniformly for all symmetric-group irreducibles and permutations; bound|chi(sigma)|<=chi(1)^(E(sigma)+epsilon). This accurately records Larsen-Shalev,whose original2008proof remains unread here. Threshold not explicit.",
+      "source_file_sha256": "34c73a0f10a51c24df4b760bafd5a36e238bf2fd6946b0e1b7ecbd353fc4bdae"
+    },
+    "morris-exclusion2006": {
+      "url": "https://arxiv.org/pdf/math/0405157v2",
+      "locator": "12Jul2006v2,Section5.3 Lemma12,printed/PDF19-20 statement and complete proof read",
+      "scope": "Joint ordered-tuple TV bounded by sum of conditional-coordinate TVs averaged under actual prefixes; maximal coupling proof. No coordinate independence assumption or all-environment guarantee.",
+      "source_file_sha256": "1e09ee4769542210bbb7139792024a6ce43b3533d31e1bf0a44d129a21b3c974"
+    }
+  },
+  "prior_verified_scope_reused": {
+    "key": "morris3",
+    "node": "LIT-238-9CD198B10C",
+    "scope": "Earlier selected0912.2759v1 dyadicO(d³)scope reused;not freshly reread here"
+  },
+  "historical_counts": {
+    "bibliography_entries": 22,
+    "external_roots": 17,
+    "internal_references": 5,
+    "fresh_selected_external_roots": 4,
+    "prior_verified_external_roots_reused": 1,
+    "unverified_external_roots": 12,
+    "extra_hastad_correction_read": true
+  },
+  "nummelin": "Publisher summary/metadata only;Section2unavailable andunverified,not replaced with a model guess",
+  "formal_selected_scopes": [
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/Main.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/ConditionalMixing.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/Fibers.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/CanonicalBridge.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/Ranks.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/OverlayModel.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/OverlayMain.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/OverlayConditioning.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/ResetMinorization.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/FiniteMinorization.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/ColorProduct.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/TwoColors.lean",
+      "scope": "Entire module read"
+    },
+    {
+      "path": "math/lean/OAI/Dynamics/ConditionalShuffle/Disintegration.lean",
+      "scope": "Only lines1-76 actual paths/rank/conditionalTV/twoHalf parameter definitions;not all1224 lines"
+    },
+    {
+      "path": "math/lean/docs/238.md",
+      "scope": "Entire current scope document read"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ThorpRemaining.json",
+      "scope": "Entire old aggregate config read;does not name ConditionalShuffle.Main"
+    },
+    {
+      "path": "math/lean/OAI/Probability/ThorpResults/Main.lean",
+      "scope": "Entire old aggregate18-line entry read;does not expose revealed-model main"
+    }
+  ],
+  "formal_static_index": "data/graph/lean_indices/F-238-revealed.json.gz",
+  "formal_index": {
+    "main_closure_files": 72,
+    "main_closure_declarations": 952,
+    "selected_root_union_files": 114,
+    "selected_root_union_declarations": 1332,
+    "external_modules_not_present": [
+      "Mathlib"
+    ],
+    "local_build": false,
+    "comparator": false,
+    "human_review": false
+  },
+  "result_notes": {
+    "thm:methods": {
+      "statement": "Expected conditional free-slot permutation TV tends to0 after40000(400+1)sweeps; full-deck TV tends to0 after16040400d physical shuffles.",
+      "conditions": "n=2^d; independent fair coordinate switches; fixed half of labels with all their paths revealed; worst deterministic start outside the expectation.",
+      "constants": "Conditional time is16040000 sweeps; extra400 sweeps couples outside labels. Average under actual path law,not every environment. No effective finite d0 or deployable epsilon threshold. Support bound TV>=1-2^(tn/2)/n!.",
+      "selected_grade": "B"
+    },
+    "lem:slot-kernel": {
+      "statement": "A feasible outside labelled-path event fixes exactly its incident time-edge coins; remaining bits stay independent fair and induce a bijection of free slots.",
+      "conditions": "Fixed observed labels and feasible full paths; canonical increasing endpoint slot maps; disjoint time intervals.",
+      "constants": "Outgoing assignment is a composed with g inverse; later interval permutations act on the left. Full future-path conditioning still leaves unused earlier free coins independent; no assertion that g is already uniform.",
+      "selected_grade": "C"
+    },
+    "lem:coarse-block-estimates": {
+      "statement": "Exact two-copy collision kernel yields contraction off coarse constants,balanced ending blocks and a small expected output coarse energy.",
+      "conditions": "Blocked set size<=n/2; h=floor(d/2),good means blocked fraction<=3/4 in every coarse block. The coarse-energy estimate additionally requires sum u=0.",
+      "constants": "A_E(x,y)=2^-j product_{k>j}(1+p_k(x))/2; q=7/8; epsilon_n=n[(3/2)/2^(3/4)]^(2^h). Output coarse energy<=(4*2^-h+epsilon_n)||u||².",
+      "selected_grade": "C"
+    },
+    "prop:half-preparation": {
+      "statement": "Every specified ordered k<=n/2 label tuple is within n^-3 TV of a uniform ordered injection after400 sweeps.",
+      "conditions": "All sufficiently large d,uniform in deterministic initial layout; actual prefixes used in sequential TV telescoping.",
+      "constants": "Two-sweep energy bound n^-1/20 applied200times gives n^-10 squared energy; condition on paths first,then coarsen to endpoints. Not independent endpoint coordinates.",
+      "selected_grade": "C"
+    },
+    "lem:character-fixed-points": {
+      "statement": "Fixed-point control gives normalized character bounds D^-delta or D^-delta r^(delta f).",
+      "conditions": "Fixed0<delta<1/4; all sufficiently large r depending only on delta; irreducible complex characters of S_r.",
+      "constants": "If f<=r^(1-4delta),|chi|/D<=D^-delta. General f uses branching with multiplicity and trivial cap; fixed-slack Larsen-Shalev input has unknown threshold.",
+      "selected_grade": "C"
+    },
+    "lem:degree-sum": {
+      "statement": "Sum of D_lambda^-2 over degrees>1 tends to0 as symmetric-group size grows.",
+      "conditions": "Exclude trivial and sign one-dimensional representations; fixed exponent2.",
+      "constants": "Elementary hook/tableau argument; consequence sum D^-20=o1. Same old summability ingredient,not a new application gain.",
+      "selected_grade": "C"
+    },
+    "thm:reset": {
+      "statement": "Full-deck TV tends to0 after171798691968d physical shuffles.",
+      "conditions": "Dyadic decks,independent fair switches,large d,uniform deterministic start.",
+      "constants": "rho=2^-20,s=335544320,l=128,128(4s+1)d. Actual Lean Main obtains this full-deck conclusion from earlier1600d mixing by monotonicity; not verification of each reset proof step.",
+      "selected_grade": "B"
+    },
+    "lem:reset-mass-contraction": {
+      "statement": "Two sweeps contract expected zero-sum signed mass energy by N^(-rho/16).",
+      "conditions": "Fixed0<rho<=1; deterministic holes h>=rho N; signed masses supported on holes,arbitrary past when starting.",
+      "constants": "N=2^d sufficiently large depending on rho. Intermediate density event plus block-variance telescoping; not deterministic pathwise strict contraction.",
+      "selected_grade": "C"
+    },
+    "prop:reset-partial-mixing": {
+      "statement": "Ordered b<=(1-rho)N tuple endpoint TV<=N^-8 after2s sweeps in either coordinate order.",
+      "conditions": "Fixed0<rho<=1,s=ceil320/rho; sufficiently large d depending only on rho.",
+      "constants": "Reverse-order statement is needed to bound columns of the forward kernel. Does not replace actual forward reset with a reverse run.",
+      "selected_grade": "C"
+    },
+    "prop:reset-minorization": {
+      "statement": "Forward kernel K of2s sweeps satisfies K²(x,y)>=(1-2N^-8)/|Omega|.",
+      "conditions": "Full ordered injection space; both forward rows and reverse-order rows close to uniform; doubly stochastic kernel.",
+      "constants": "Row AND column TV controls are used in overlap. Reset takes4s forward sweeps. Exact acceptance marking needs transition probability access and is an analysis device,not a free executable sampler.",
+      "selected_grade": "B"
+    },
+    "prop:reset-conditional": {
+      "statement": "The hole assignment approaches uniform in expected TV even after all reset coins and nonhole mixing-sweep paths are revealed.",
+      "conditions": "rho=2^-20,k=rho N nonholes,h=N-k holes;l128 reset4s+active1blocks; actual specified environment.",
+      "constants": "Conditionally independent copies plus separate good/acceptance marks;central relative increment;h!nu^*l(id)<=q^l+o1. No exact formal counterpart for this entire conditional-reset statement established by selected source reading.",
+      "selected_grade": "C"
+    },
+    "thm:overlay": {
+      "statement": "Full-deck TV tends to0 after33030144d physical shuffles.",
+      "conditions": "Dyadic decks,original fair switch law preserved by predictable extra switches.",
+      "constants": "3Kcalls,K8,k65536phases,each21d layers. Formal Main full-deck consequence follows from older1600d by monotonicity; source overlay route not fully audited formally.",
+      "selected_grade": "B"
+    },
+    "lem:overlay-preparation": {
+      "statement": "Any specified n/8 tuple approaches a uniform ordered injection after20d layers.",
+      "conditions": "Large d; any deterministic base layout and cyclic starting phase; independent random shear proof frame.",
+      "constants": "Deferred column coefficients yield fresh direction uniform outside a hyperplane; energy ratio1/2+1/8 after first d layers. Directions are not independent uniform vectors without the window constraint.",
+      "selected_grade": "C"
+    },
+    "prop:overlay-call": {
+      "statement": "One group of n/8 base indices receives an almost uniform permutation conditional on the full base,with expected error uniform over pre-call histories.",
+      "conditions": "65536 phases of20d preparation plus1active sweep; extra edges selected from pre-layer base information; independent fresh extra bits.",
+      "constants": "Canonical multiplier independent of incoming overlay. Full-base conditional statement is averaged; actual correlated segments compared to independent ideal ones by preparation,not simply assumed independent.",
+      "selected_grade": "B"
+    },
+    "lem:transverse-rounds": {
+      "statement": "Three uniform row-column-row rounds on fixed8 balanced transverse groups approach uniform permutation TV.",
+      "conditions": "|R_i intersect C_j|=n/64; n=2^d large; each group shuffled independently uniform.",
+      "constants": "Count law p_M(x)=(m!)^(2K)/(M! product x_ij!) with fixed margins,not uniform over integer tables. Common lattice-cell smoothing upgrades local Gaussian estimates to discrete TV; weak convergence alone is insufficient.",
+      "selected_grade": "C"
+    },
+    "thm:two-halves": {
+      "statement": "Full-deck TV tends to0 after400 b d physical shuffles with L2^23 and fixed b from p.",
+      "conditions": "p=1-1/(2L),rho_p=(3+p)/4,c_p=-(1/8)log2rho_p,b=ceil10/c_p; L divides n/2 eventually.",
+      "constants": "Uses two unread companion inputs:conditional-information Theorem4.1 and partial-fourier conditional-product transfer. Image versus inverse-image caps both required. Fixed L before d tends infinity. Formal full-deck conclusion follows from1600d monotonicity.",
+      "selected_grade": "B"
+    },
+    "lem:color-product": {
+      "statement": "Given the complete two-color occupancy history,within-color permutations are conditionally independent after canonical endpoint transport.",
+      "conditions": "Every feasible occupancy history; original independent fair coins; observation contains no labels within colors.",
+      "constants": "Mixed-edge coins fixed,same-color arrays disjoint and independent. The color history is not asserted independent of internal permutations. Selected actual TwoColors/ColorProduct definitions and theorem read.",
+      "selected_grade": "B"
+    }
+  },
+  "quantifier_and_boundary_notes": [
+    "Conditional time is16040000 sweeps; extra400 sweeps couples outside labels. Average under actual path law,not every environment. No effective finite d0 or deployable epsilon threshold. Support bound TV>=1-2^(tn/2)/n!.",
+    "Outgoing assignment is a composed with g inverse; later interval permutations act on the left. Full future-path conditioning still leaves unused earlier free coins independent; no assertion that g is already uniform.",
+    "A_E(x,y)=2^-j product_{k>j}(1+p_k(x))/2; q=7/8; epsilon_n=n[(3/2)/2^(3/4)]^(2^h). Output coarse energy<=(4*2^-h+epsilon_n)||u||².",
+    "Two-sweep energy bound n^-1/20 applied200times gives n^-10 squared energy; condition on paths first,then coarsen to endpoints. Not independent endpoint coordinates.",
+    "If f<=r^(1-4delta),|chi|/D<=D^-delta. General f uses branching with multiplicity and trivial cap; fixed-slack Larsen-Shalev input has unknown threshold.",
+    "Elementary hook/tableau argument; consequence sum D^-20=o1. Same old summability ingredient,not a new application gain.",
+    "rho=2^-20,s=335544320,l=128,128(4s+1)d. Actual Lean Main obtains this full-deck conclusion from earlier1600d mixing by monotonicity; not verification of each reset proof step.",
+    "N=2^d sufficiently large depending on rho. Intermediate density event plus block-variance telescoping; not deterministic pathwise strict contraction.",
+    "Reverse-order statement is needed to bound columns of the forward kernel. Does not replace actual forward reset with a reverse run.",
+    "Row AND column TV controls are used in overlap. Reset takes4s forward sweeps. Exact acceptance marking needs transition probability access and is an analysis device,not a free executable sampler.",
+    "Conditionally independent copies plus separate good/acceptance marks;central relative increment;h!nu^*l(id)<=q^l+o1. No exact formal counterpart for this entire conditional-reset statement established by selected source reading.",
+    "3Kcalls,K8,k65536phases,each21d layers. Formal Main full-deck consequence follows from older1600d by monotonicity; source overlay route not fully audited formally.",
+    "Deferred column coefficients yield fresh direction uniform outside a hyperplane; energy ratio1/2+1/8 after first d layers. Directions are not independent uniform vectors without the window constraint.",
+    "Canonical multiplier independent of incoming overlay. Full-base conditional statement is averaged; actual correlated segments compared to independent ideal ones by preparation,not simply assumed independent.",
+    "Count law p_M(x)=(m!)^(2K)/(M! product x_ij!) with fixed margins,not uniform over integer tables. Common lattice-cell smoothing upgrades local Gaussian estimates to discrete TV; weak convergence alone is insufficient.",
+    "Uses two unread companion inputs:conditional-information Theorem4.1 and partial-fourier conditional-product transfer. Image versus inverse-image caps both required. Fixed L before d tends infinity. Formal full-deck conclusion follows from1600d monotonicity.",
+    "Mixed-edge coins fixed,same-color arrays disjoint and independent. The color history is not asserted independent of internal permutations. Selected actual TwoColors/ColorProduct definitions and theorem read.",
+    "F131 full versus connected degree-state mismatch is not fixed by this path-cylinder theorem;the graph-switch state space is not S_m with independent unused time-edge bits.",
+    "F115 is still unread. The transverse-table law p_M is weighted by1/product factorials,whereas arbitrary-margin uniform table sampling has a different target;same word contingency is not a law identity.",
+    "The first three routes of this manuscript are supplied here;the fourth explicitly needs two other F238 companion inputs still unread. Conditional-coordinate-sweeps is expressly not an input to the current kernels.",
+    "Conditional two-color product is given full unlabelled occupancy history;F149 deterministic mass-action permanence does not supply that stochastic model or observation law.",
+    "All convergence is asymptotic with unspecified rank thresholds. Large explicit sweep multipliers do not yield a finite simulator tolerance without those thresholds/rates.",
+    "Zero-probability environments in the raw actual conditionalLaw use real division byzero=0;expected TV weights them byzero. Generic disintegration uses uniform fallback;the weighted bridge removes any difference. Only feasible individual environments have a conditional PMF.",
+    "Actual main conditional dimension indexd means2^(d+1)positions and2^d free slots;its16040000*(d+1)physicaltime agrees withsource sweeps after reindexing. Other full-deck branches use dimensiond.",
+    "Actual selected full-deck reset/overlay/twoHalf conclusions follow from prior1600d mixing plus time monotonicity. This is valid theorem reuse,not evidence of the full alternative construction concordance.",
+    "Old ThorpRemaining aggregate comparator is unrelated to the actual revealed Main entry. No matching ConditionalShuffle comparator JSON or formalization.yaml registration found;actual selected solution exists."
+  ],
+  "temporary_original_checks": [
+    {
+      "name": "hastad-correction.pdf",
+      "bytes": 123420,
+      "sha256": "832df5e9534f15882f96580450f18e5c1a80d65949eee8501a34d15296748795"
+    },
+    {
+      "name": "hastad-correction.png",
+      "bytes": 88542,
+      "sha256": "044fa8619c5c346e4ebb22cf37014f060875ae0b0adeb672064dd5ad1a646b40"
+    },
+    {
+      "name": "hastad-correction.txt",
+      "bytes": 912,
+      "sha256": "a7a3b328812bab0280c6aa477728e2b06d7b5354b18f39ad8ab1a92162563a07"
+    },
+    {
+      "name": "kls-page5.png",
+      "bytes": 397010,
+      "sha256": "9289b49a122fb3d6f42c7d4ea355c1e80a23d8c2ceb73b427146e4e4bbaf0cb0"
+    },
+    {
+      "name": "kls2024.pdf",
+      "bytes": 421962,
+      "sha256": "34c73a0f10a51c24df4b760bafd5a36e238bf2fd6946b0e1b7ecbd353fc4bdae"
+    },
+    {
+      "name": "kls2024.txt",
+      "bytes": 107690,
+      "sha256": "3d4646f20227e7bf051e9bdfbec01ac5c3a3d862339bd54391ebce4bac5fa3ad"
+    },
+    {
+      "name": "morris2006.pdf",
+      "bytes": 261118,
+      "sha256": "1e09ee4769542210bbb7139792024a6ce43b3533d31e1bf0a44d129a21b3c974"
+    },
+    {
+      "name": "morris2006.txt",
+      "bytes": 60705,
+      "sha256": "ff0b4d101c4b80aac0c308c4fb7b6a80e83480d463572030f241034ca4651bdb"
+    }
+  ],
+  "pdf_visual_checks": [
+    "Hastad2015one-pageerratumexactcorrectedexponentsviewed",
+    "KLS2024PDFpage5Definition2.1/Theorem2.2viewed"
+  ],
+  "retrieval_failures": [
+    "AMS BBLpublishedPDF403;primaryarxiv0707.2340v2HTML selectedtheorems recovered.",
+    "KLSguessedv3HTMLandMorris2006HTMLcachemiss;actualpublishedKLSandversionedMorrisPDFs recovered.",
+    "NummelinDOIinitialopenfailed;publisherarticlemetadata/summaryrecovered,butbodyrequiresaccess and remainsunverified."
+  ],
+  "new_application_connection_ids": [
+    "APP-238-02"
+  ],
+  "new_numerical_run": null,
+  "storage": "Only compact lexical index and precise reading/hash ledger retained;temporary originalPDF/text/renderedpages deleted after hash receipt,no upstreamcopy or cacheinstall"
+}

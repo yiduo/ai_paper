@@ -1,0 +1,225 @@
+{
+  "family_id": "F-120",
+  "work_package": "WP-052",
+  "generation_id": "GEN-20261021-049",
+  "recorded_at": "2026-10-20T22:28:06.440784+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "sources": {
+    "nx-regular": {
+      "repository": "https://github.com/networkx/networkx",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "path": "networkx/algorithms/regular.py",
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/regular.py",
+      "sha256": "7c41c3e1505111b2704a5478f28915641bb082f0fbe865dd4f6f0d8ad248f2a4",
+      "bytes": 4877,
+      "total_lines": 167,
+      "read_line_ranges": [
+        [
+          1,
+          167
+        ]
+      ],
+      "read_lines": 167,
+      "archive_members": {
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/regular.py": "7c41c3e1505111b2704a5478f28915641bb082f0fbe865dd4f6f0d8ad248f2a4"
+      },
+      "archive_scope": "Whole file retained",
+      "license": "BSD-3-Clause"
+    },
+    "nx-tests": {
+      "repository": "https://github.com/networkx/networkx",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "path": "networkx/algorithms/tests/test_regular.py",
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/tests/test_regular.py",
+      "sha256": "a695c44bacefa6ca69a199b35cf1629be4b864c58f1b666186696073aef2fc60",
+      "bytes": 2951,
+      "total_lines": 88,
+      "read_line_ranges": [
+        [
+          1,
+          88
+        ]
+      ],
+      "read_lines": 88,
+      "archive_members": {
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/tests/test_regular.py": "a695c44bacefa6ca69a199b35cf1629be4b864c58f1b666186696073aef2fc60"
+      },
+      "archive_scope": "Whole file retained",
+      "license": "BSD-3-Clause"
+    },
+    "nx-benchmark": {
+      "repository": "https://github.com/networkx/networkx",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "path": "benchmarks/benchmarks/benchmark_regular.py",
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/benchmarks/benchmarks/benchmark_regular.py",
+      "sha256": "d6b80453775925f20031f92dc50ca4199f4c5733aa037011f2f93b4519dfaf1b",
+      "bytes": 1368,
+      "total_lines": 47,
+      "read_line_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "read_lines": 47,
+      "archive_members": {
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/benchmarks/benchmarks/benchmark_regular.py": "d6b80453775925f20031f92dc50ca4199f4c5733aa037011f2f93b4519dfaf1b"
+      },
+      "archive_scope": "Whole file retained",
+      "license": "BSD-3-Clause"
+    },
+    "nx-matching": {
+      "repository": "https://github.com/networkx/networkx",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "path": "networkx/algorithms/matching.py",
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/matching.py",
+      "sha256": "a6f4571c875d268690f89bec2f8a8e717531b1afb69bee8cea60f90ca8c48ca6",
+      "bytes": 44311,
+      "total_lines": 1148,
+      "read_line_ranges": [
+        [
+          86,
+          160
+        ],
+        [
+          209,
+          270
+        ],
+        [
+          321,
+          407
+        ]
+      ],
+      "read_lines": 224,
+      "archive_members": {
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/matching.py#L86-L160": "b93c9f81c1189bfa7b14864e974b5675b6b7be62e4c5db5cc417a77397bf4392",
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/matching.py#L209-L270": "21145ddeb36b202dcbff2e2f0ba487afcb9eeff2b9f9783b606f18a8e89b4d80",
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/matching.py#L321-L407": "624c9e239705a8ce7be527191141b54ef326a05de0097dd73c49a06008b2df92"
+      },
+      "archive_scope": "Only declared original line ranges retained, including original Sage header; full upstream file hash recorded, remaining bytes not redistributed",
+      "license": "BSD-3-Clause"
+    },
+    "nx-license": {
+      "repository": "https://github.com/networkx/networkx",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "path": "LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/LICENSE.txt",
+      "sha256": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e",
+      "bytes": 1763,
+      "total_lines": 37,
+      "read_line_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "read_lines": 37,
+      "archive_members": {
+        "networkx/networkx@49ca2290b80c1389eb4d8d8e49dcba73f8fec016/LICENSE.txt": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e"
+      },
+      "archive_scope": "Whole file retained",
+      "license": "BSD-3-Clause"
+    },
+    "sage-graph": {
+      "repository": "https://github.com/sagemath/sage",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "src/sage/graphs/graph.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/graphs/graph.py",
+      "sha256": "b6c15da84969c96219d788eebd15d62ed8e8f827d0720cc95161e7863cde9472",
+      "bytes": 375893,
+      "total_lines": 9583,
+      "read_line_ranges": [
+        [
+          400,
+          416
+        ],
+        [
+          3136,
+          3235
+        ]
+      ],
+      "read_lines": 117,
+      "archive_members": {
+        "sagemath/sage@981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/graphs/graph.py#L400-L416": "1ca46a7d405ed811b7b76d8e4494d76d34c8c4943697f28049fa90334cbdc5f5",
+        "sagemath/sage@981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/graphs/graph.py#L3136-L3235": "f7d3611a8281c2e911a0c668010298f70788e34782efa4caca88391ec8bb1f1d"
+      },
+      "archive_scope": "Only declared original line ranges retained, including original Sage header; full upstream file hash recorded, remaining bytes not redistributed",
+      "license": "Original source GPL-2.0-or-later; full distribution COPYING.txt includes GPL-3.0 text and component notices"
+    },
+    "sage-license": {
+      "repository": "https://github.com/sagemath/sage",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "COPYING.txt",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/COPYING.txt",
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "bytes": 61362,
+      "total_lines": 1285,
+      "read_line_ranges": [
+        [
+          1,
+          110
+        ]
+      ],
+      "read_lines": 110,
+      "archive_members": {
+        "sagemath/sage@981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/COPYING.txt": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc"
+      },
+      "archive_scope": "Whole file retained",
+      "license": "Original source GPL-2.0-or-later; full distribution COPYING.txt includes GPL-3.0 text and component notices"
+    }
+  },
+  "source_archive": "data/provenance/demand/factor-interfaces-20261021.json.gz",
+  "source_archive_sha256": "69f2a18ccf10bf3709fa0346bd0db02688282456b42d9e52d88da9edfda33f6a",
+  "source_archive_decompressed_sha256": "4f32b262aa3be3647af2c4d85d5334e9e6b7b78ec378d8e093f382abe441cf66",
+  "archive_member_count": 10,
+  "selected_source_lines": 790,
+  "selected_primary": {
+    "url": "https://research.cs.queensu.ca/home/yurai/Publications/OnkFactors_IPL.pdf",
+    "doi": "10.1016/j.ipl.2009.02.013",
+    "version": "Author preprint dated18February2009; not assumed identical to journal pagination",
+    "scope": "All319 extracted text lines across7pages read; page4Figure5/Algorithm1/Lemma1 and page6Figure6/mixed-gadget rule rendered and pixels inspected. References not recursively read.",
+    "pdf_sha256": "a909eb74454c8dfab7ed384b4369d094e7e910f5d8c4027b32353fc8ac4d0a59",
+    "pdf_bytes": 176516,
+    "text_sha256": "1451aabebb566efad2a35233fd440d2ef93cb624719269a2f04f0ec1b2d0e03b",
+    "pixel_sha256": {
+      "mnr-page4.png": "95dd79c581f7ff774e54265adfa190c622affc40a4937e00205a734b9bf58c0a",
+      "mnr-page6.png": "46cb6a1cec20a6a5578d63a287d6a07d3a6da0d7427bff610d2347e18105faa4"
+    },
+    "finding": "Old small-k gadget: d outer,d inner,k core with d inner-outer pairs and kd core links; old large-k gadget:d outer,d-k core,d(d-k) internal links. Lemma1/3 both force exactly k selected outer incidences. Sec4.2 explicitly permits mixing per vertex by k<d/2. Main analysis includes low-degree O(n^1.5) and acknowledges faster specialized cubic graph methods. Mesh stripification is historical motivation; no actual geometry dataset inspected. Full external dependency/algorithm proof audit incomplete."
+  },
+  "contracts": {
+    "networkx_k_factor": {
+      "input": "Undirected non-multigraph G, one common integer k, optional matching_weight attribute. Internal gadget names are tuples; any future adapter must avoid label collisions, e.g. integer relabeling.",
+      "outputs": "Graph on original nodes with selected original edges; raises NetworkXUnfeasible if degree<k or auxiliary matching not perfect.",
+      "old_compact_adapter": "For each vertex degree d, if k>=d/2: d outer+(d-k) core, d(d-k) internal edges. Otherwise d outer+d inner+k core, d inner-outer plus dk inner-core edges. Host cross-edges preserved once; pointwise min-side design, not a global complement alone.",
+      "backend": "Calls max_weight_matching(maxcardinality=True,weight=matching_weight), then is_perfect_matching; actual validator checks host membership, no self loops, unique endpoints and full vertex coverage. Selected max_weight doc states cubic node complexity, exact integer arithmetic for integer weights and possible float suboptimality; full blossom proof/body not audited.",
+      "scope_limits": "Only a constant k exposed, not arbitrary per-vertex f API. No loop-free validation seen in k_factor itself despite allowed Graph loops; F120 simple-input eligibility remains explicit. No installed library/runtime result.",
+      "existing_tests": "Cycle n3/4/5,k2; grid4x4,k0/1/2; K6,k0..5; insufficient degree,no matching,and directed/multigraph exclusion. These are prior known tests, not new external checks.",
+      "existing_benchmark": "Actual5 graph constructors times k1..4,timeout120: K6,K20,periodic10x10grid,Gnp100/.1 seed2,Gnp10/.8 seed2. Last display name says .7 but actual constructor .8; actual source controls input. No benchmark executed; tiny/bounded-degree/low-k mostly not high-degree-middle-quota representative."
+    },
+    "sage_degree_constrained": {
+      "input": "Actual Sage10.8 Graph.degree_constrained_subgraph(bounds,solver=None,verbose=0,integrality_tolerance=1e-3); rejects nonsimple graph via _scream_if_not_simple. bounds dictionary/function supplies lower/upper pair.",
+      "outputs": "Binary MILP edge selection, minimum objective; graph copied then unselected edges deleted; catches MIPSolverException and returns False, no specific no-factor certificate from this wrapper alone.",
+      "unweighted_contract": "If self.weighted() is false, weight(l)=1 in constraints and objective: equal integer bounds[f(v),f(v)] encode exact per-vertex degrees using one binary per original edge. An actual old direct interface already exists, although its solver cost/certificate not audited.",
+      "weighted_scope_gap": "If self.weighted() is true, weight(l)=l when l in RR else1; SAME weight multiplies binary edge in vertex constraints as in objective. Actual constraints are weighted incident sums, whereas docs describe unweighted degrees with weighted minimum objective. Do not silently use this as a weighted exact-f-degree baseline. Static source discrepancy only; no Sage/MILP run or author confirmation.",
+      "solver_limits": "No chosen MILP solver installed/verified. Conversion tolerance and exceptions are API semantics, not F120 exact word-RAM runtime/error guarantees. Constant and general f cases do not require new factor-to-PM adapter to be expressible in this existing unweighted API."
+    }
+  },
+  "decisions": [
+    "The zero-increment baseline is stronger than naive Tutte/global complement: current NetworkX already uses mixed old small/large-k gadgets.",
+    "A perfect-matching-backed real consumer exists for constant k, not an arbitrary-f native NetworkX API in the selected module. Existing official benchmark is known calibration, not an independently held-out application workload.",
+    "Sage unweighted degree-constrained MILP already expresses general f; weighted degree-vs-weighted-sum source discrepancy prevents unqualified transfer. No numerical experiment needed to read this distinction.",
+    "APP12001 remains conditional; reduce priority for bounded-degree or near-extreme quotas already handled compactly by old methods. High-degree middle-quota storage advantage remains a future finite question with all positions, solver work and native baselines counted."
+  ],
+  "unresolved": [
+    "No real independent high-degree-middle-quota workload, whole near-linear executable or practical C/eta rate.",
+    "No execution of NetworkX/Sage/MILP, full backend formal proof, original MNR recursive references or geometry workload audit.",
+    "No new candidate/initial/application run, human review or second provider."
+  ],
+  "network_recovery": [
+    "Initial root benchmarks/benchmark_regular.py returned404; actual ASV path benchmarks/benchmarks/benchmark_regular.py fetched successfully.",
+    "Matching raw fetch initiallyTLS35; one retry same fixed URL succeeded. No further retries required."
+  ],
+  "storage": "Licensed small sources and original Sage excerpts/header/full COPYING retained gzip with every member hash and roundtrip. Author PDF/text/two renders hashed then removed only after integrity. No clone/cache/solver installation; no full external paper redistribution."
+}

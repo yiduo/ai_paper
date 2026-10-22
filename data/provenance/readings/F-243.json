@@ -1,0 +1,1014 @@
+{
+  "work_package": "WP-057",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "saved_at": "2026-10-20T23:46:40.985844+00:00",
+  "status": "whole_natural51results_selectedformal_and_four_history_roots_read_pending_curation",
+  "counts_incremented": false,
+  "files": [
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/README.md",
+      "sha256": "18448adef344f40f1ab7b0d95ba6da08ba486ec1ea52c5609854ac29e15dc53e",
+      "lines": 17,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/figures/proof-map.tex",
+      "sha256": "69214d0974fc214e21fc2c984fc49182c1d686ec3c7e5fb77ecc35334e1cdcd5",
+      "lines": 30,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/figures/unit-face.tex",
+      "sha256": "39ee16b1252bc3352507b26d8c06e9449f4d848447ce581d29f8c9cc238ffa88",
+      "lines": 19,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/main.tex",
+      "sha256": "ddd551a89d5ace2c9f50688b981ea2f5c0e0115afc30aa4549aa4b1e09d4e84a",
+      "lines": 55,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/references.bib",
+      "sha256": "d0b4b7a7c2685f95720e7c2f023d17008929a48e2302b2138d8941f2e7a84ec0",
+      "lines": 324,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/00-introduction.tex",
+      "sha256": "78f94ddd2d558e23256a898d3e217bd38d5d270d7f1fc6e939418a686b2e112e",
+      "lines": 233,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/01-history.tex",
+      "sha256": "bf44d4dd1768a00adb061a8765a24fbc4d1814a6baa1c0da4f17ce46575f625d",
+      "lines": 112,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/02-structures.tex",
+      "sha256": "4669065f67d39456c489f0165be32d1a0678e7e08bf3d5d6dfb9c2a0439fec6c",
+      "lines": 204,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/03-support.tex",
+      "sha256": "aa234745e62400aa4c59d3fb436efcc46e753059aba0f71f9577e6091b927abc",
+      "lines": 273,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/04-base-logic.tex",
+      "sha256": "c480f7620431512ca992877bf7a2001d2242a82a35e854d6f9767554d0242d9c",
+      "lines": 358,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/05-hf-transfer.tex",
+      "sha256": "fa0de174cef11de57a95d8d830feca8a258ecf47061498be8d9c5f423157c7a1",
+      "lines": 402,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/06-coding.tex",
+      "sha256": "297f88032b43b36c2cdbb9d4a097929dad3054775643a0ede01eb7d12e956edc",
+      "lines": 362,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/07-separation.tex",
+      "sha256": "aa9a3efc8f3ba485df7ec297d6e6679a6b2eaad6f180e5c1035cdeee52b69148",
+      "lines": 44,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/08-linear-algebraic-logics.tex",
+      "sha256": "464c218c4d25e82336c84279ef979d16230c7e06a285a6b8cad77ceb993c36b9",
+      "lines": 114,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/README.md",
+      "sha256": "da6f8bd0d5e47f5a47029ee9aa2323b864dd982a7bc82ee9041ac8d7c1b28c4b",
+      "lines": 17,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/figures/grid-cycle.tex",
+      "sha256": "a42502b0fe77f4ceb45b81514af3cd1279b08401fa31008da42286ff9e46c95c",
+      "lines": 38,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/main.tex",
+      "sha256": "80d8d004a7283ff67608f88f019e39b7e234e9d571a3735cf177cc7dfa3bad18",
+      "lines": 84,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/references.bib",
+      "sha256": "32e19885d5cf1ac7a59b13005b77dcea928ba89d8fa04fb720c62c988f8ad3c1",
+      "lines": 226,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/00-introduction.tex",
+      "sha256": "87031db05e30da0723dda7eab63b6e8256c371ce3449891faa0b02c37fed7a1c",
+      "lines": 215,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/01-formalism.tex",
+      "sha256": "7dbffacd5439d4a0d281ea9b81e6eabb97df6ec3fe71fa2c11b4fcc3d3ae0f85",
+      "lines": 127,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/02-structures.tex",
+      "sha256": "0fb42e86606b7f161079e05a9caf12c4f2dc4d5628403c06a10d6ad2139c38ac",
+      "lines": 296,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/03-sentence.tex",
+      "sha256": "c15d8829157e9fc746320684d8c82f171619979988e52fa27c093ec864c63c41",
+      "lines": 726,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/04-grid-behavior.tex",
+      "sha256": "4cb23db07521ac6c75ab6b795f94091cbaab18147519b57e09fe5b4edf0cb635",
+      "lines": 334,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/05-support.tex",
+      "sha256": "b187fe4b0308d905f312420e419ca8c955f9b08ec9bc5fd07ad29757f9be83c7",
+      "lines": 268,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "sha256": "749e3fb84e6e064c9334caaabebc5fefcdb3b7f2f26e12b3acb761b9713d8b83",
+      "lines": 447,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/07-hf-transfer.tex",
+      "sha256": "30266f2c88198a64730a0110c33c1b615a39b9216dead52747dab78ea236dbee",
+      "lines": 457,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/08-cpt-lower-bound.tex",
+      "sha256": "b712b2144be00d4f94045462e93cd17b1366dc3eb73738a685bba3e0ea7876ad",
+      "lines": 501,
+      "read": true,
+      "scope": "Whole actual natural source file"
+    }
+  ],
+  "notes": {
+    "CPT_query": "All finite8binaryrelation inputs,no promise:Ed/Cf mayoverlap;lambda/mu remainseparate;allholdingZdelta contributionssumF3;emptyXt makes0=1;duplicateequationsnotadded;emptyinputconsistent. O(n4) directcoefficient construction/<=2nunknowns,n+n2rows thenordinary Gaussian elimination;no solver speed gain.",
+    "CPT_grid": "L>=2 positive3Dbox;edge groupfiniteHeisenberg correction1/2=2F3 withsignedfaceomega;atoms tagsnotHFmembers,inputhasno gridlabels/order. N=sum3^(2faces+1)+sum3^(2f+d-1), L3<=N<=(3^10+3^29)L3;arbitraryfieldweights notintegralselection;global divergencecancel implieschargezero,zerochoicesexplicit solution.",
+    "CPT_support": "H=(F3²)^faces centralextension K=ker incidence;supportrelativeK requiresSMALLH-orbit,notsmallK-orbit/noncommutativityalone. Sparsecochain theorem2Lt(proofactuallyLt) byprefixgradients/slice;basisannihilator curlrank2t notneedfacecycleslinearlyindependent;isotropiccodim=>t<=a;|T|<=2Lad<=2L(qlog3N)^2 rankindependent. H-invariantmembershiptransitivefamilyNq yieldscommonspositivepadding.",
+    "CPT_base": "AnalysisONLYexpansion preorders(e,u)/(v,uf)classes andrawDdelta;Kpreserves,Hmaynot;NOTprograminput. M=floorL^7/4;boundaryc=1-2^-1/3,giantafter<=6Medges. Compatibledefectmovesblockwise via pathoutsideT;globalbijectiondoesnotneedoneglobalautomorphism;typehomogeneitysameexpansion rtuples7r+7(6r/c)^1.5+1<=M. Partialflowexistsiffallremainingcomponentbalanceszero;failingone<=halfand(|T|/c)^1.5.",
+    "CPT_HF": "Generaltransfer nonempty finitebinaryA0,A1,groupsKi,s,m,M positive,max4,m+1*s<=M;CMeq andKorbit homogeneitytuple<=max2,m*s. Di allhereditarilyKsupportedobjects,countablyinfiniteincludingeveryfiniterank;notfinitepowersetclosure. Forms/molecules, equality4s,representation2s,retainedbijection(m+1)s;countVALUESnotrepresentations usinguniformfibren/h;infinitelymanyobjects countfiniteexactquantifiers withbijection. Externalenumerationproofnotchoicelessalgorithm.",
+    "CPT_coding": "ExternalGSWv1Theorem18/GKPS characterization essential. FOHartigparameterfree2Dinterpretations generatedleast equivalencerelation evenetarawnottransitive;relationexistentialrepresentatives evenrho notclassinvariant. Init haltfirstA1. wholepayloadKuratoswkipairs taggedordinalnochooserep;polynomialBwholetrace<=9B3 H-invariant transitive. Hartig0..B;reachB² including0 linksreflexivesymmetric;emptydomainexact. Captureavoidingsubstitution freevariablemeasuremax,renamew+1 independentlydepth/stages,length/nonuniformcounts maygrow butnotnewprogram. ChooseP/q/m BEFOREL,earliesthaltcommonoutput. FPS3Boolean0/1allonesgadgetexplicit;FPR3 augmentedrank duplicatebcolsrequiresnonemptyD,emptyinputQtrue separately.",
+    "WSC_main": "Fixed8binaryvocabulary/fixedpolynomialoneSYNTACTICWSCoccurrence allowsmanysuccessivechoices/parametertuples;BooleanonALLinputs,stricttrue-modelclassvsCPTcountingunrestrictedHFrank. DoesnotsettlePTcaptureornesting. Companionreusedsupport/basetransfer notsamequeryorWSCdefinition;directCPTtermevaluation lowerboundavoidsinterpretationcharacterization.",
+    "WSC_semantics": "Atomsurelements;Unique non-singleton=>empty,Cardatom=>empty;comprehensionatomrangeempty. Ordinaryiterationfirststationaryell<=p andALLstages TC<=p otherwiseempty,recursivelyboundedstep;rejectiondistinctemptydefault. WSCeverypathmustwitnessfullinputautomorphisms fixingparamsANDallpriorHFstates;witnessslots terminal,current (notstepcurrent,choice);failure/resource daggerpropagates evenBoolean/comprehension,notfalse. Choice setsnonempty,allterminaloutputs sameorbit;doNOTmaterializeallterminalfixedpoints. Needpolyboundeachtemporaryobject,notjuststates.",
+    "WSC_sentence": "All-inputCheckpartition/equivalences/simpleconnectedblockgraph/exact1Incneighbor;ZrelationsunrestrictedBUTfull8relfilter. P allresolving4blocktuples,lexdistancesorder,shortestparenttree;not arbitrarycanonicalorderingchoice. Every4cycleboxface,d>=3allowsfree3rdscalar;matchsharedfvector,baseEqallvectors. LocalpoolB=16(3^9+3^29),enumeratesA^B×A^B,n^(2B)fixedbutastronomical;rawrelationsnotfunctions,composecycleafterlocalTHENfilterpermutation/all8relations/nonrelations/blockssetwise/selectedatomspointwise. No efficientgeneralorbitfinderorfreeGIoracle.",
+    "WSC_guard": "Dnextnon-treeedge constrainedallprevioussharedfaces;Transforallorderedcandidatepairwitness;guardfailedoremptyD=>pure{empty}dummy unchanged,all-inputtotalnotdagger. Mcontainsid;witnessreturnsM(intermediate),finalslotunused. Monotonegrowingselectedatoms fixesentirepriorhistory via pointwisefix,notonlysetwisecurrent. <=nrealsteps+n1transitions. OutputCOMPLETEthenarcconsistencydeletion acrossTREEonly;<=|X|+1updates andsurvivorsiffglobalcompletion conditionalfixednontreechoices,notgeneralcyclicarcconsistencycompleteness. k2?none. Pempty/inputfailed=>falseinclEMPTYINPUT,unlikefirstQemptytrue;onevertexnoedge covered.",
+    "WSC_resources": "Allrawpools,rejectedrelationcandidates,retrospectivewitnesscalls EACHtemporaryHF objectboundedby p(n)=(n+2)^d_(H0+1),d0=1000,dnext1000(d+1)^3 afterFIXEDexpandedsyntaxheightH0. State/range bounds(n+2)^100,syntaxinductionproductsfixed. Polynomialcomplexity/existence notpractical. Brancheshandledindividuallynoallterminalfamilyconstruction.",
+    "WSC_transport": "Fourcornerdistancesresolveintegercoords;F_x(e)nonzerotranslationsonlyfaceswithoutselectededge<=4faces=>moves<=16edge+16vertexblocks,localwholepermwithinBpool. CorrectremainingSCALARAFTERlocalomega by fundamentalcycle non-treee+treepath,originindexENUMERATED(notassumecanonical) signedtraversal,orienttoeeta∈±1F3. Fixallpriornon-treeedges andparams;alltreesnotonlyspecialcoordinateparent. Terminalfacevectorsgloballyextend plusuniquetreedivergence iff residualcharge0;globalcharge1obstruction. Knownconstructors/calibrationnotnewapp.",
+    "WSC_direct_lower": "CompleteACTUALevaluationtraceincludesconditioncallsallrangemembers,bodyonlytrueguard,firstEXCESSIVEcandidateandcandidateP+1;everyfixedCPTsyntaxhaspolyunionmembershipfamily H-invariant rankunbounded. Relationaltermgraphs uniquenessatACTUALargumenttuples FORALLOUTPUTSv∈D;noaccuracyclaimnonactivatedargs. Typedemptynonatom essential. StrictTCpathspositive,countsENDPOINTSnotpaths;depthJ(n)polyincludeexcessive. IterationI0emptywithguard,Ijreachableonly;F∨(E∧¬existsF)defaults,P0stillstationaritystep. Thispreventsunrelatedhighrankspuriousfixedpoints. mwidthfixedsyntax,stateinterface2namesrecycled,nestediterationsfixeddepth;formulaLENGTHcanenormousnoncomputableCPTnotnewsampler. Natural∀ψ∃Lψ∀L≥Lψ;chooseψ,q,m BEFOREL. Mainstricttrue-modelnotPTcapture.",
+    "formal_current": "ActualdocsfirstparagraphscopeCPT explicitly excludesWSC for that result;secondparagraph includesWSCseparate. Do notreadthisasglobalabsence. Pinnedformalization onlyCPTtitle/solutionregistered;actualWSCconfigandMainexistseparately. No Lean/Comparator run;challengesorryexpectedtemplate. Twoindices26/1313/14721B and27/1849/20342B,0lexplaceholder/localaxioms,Mathlibunread."
+  },
+  "remaining": [
+    "25 other external original bodies and recursive/version history not read;GKPS original characterization body unverified althoughGSWTheorem18actualscopechecked.",
+    "Full supporting Lean proof correspondence/Mathlib,local Lean/Comparator,human math audit and independent provider missing.",
+    "Actual target DSL/interpreter/program eligibility and finite budget/threshold not selected;no new numerical implementation or run."
+  ],
+  "new_experiment": false,
+  "qualified_result_counts": {
+    "CPT": 21,
+    "WSC": 30
+  },
+  "CPT_qualified_results": [
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/00-introduction.tex",
+      "label": "thm:main",
+      "kind": "theorem",
+      "line": 81,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/00-introduction.tex",
+      "label": "prop:query-ptime",
+      "kind": "proposition",
+      "line": 93,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/00-introduction.tex",
+      "label": "cor:linear-algebraic-logics",
+      "kind": "corollary",
+      "line": 123,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/02-structures.tex",
+      "label": "lem:universe-size",
+      "kind": "lemma",
+      "line": 104,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/02-structures.tex",
+      "label": "prop:opposite-answers",
+      "kind": "proposition",
+      "line": 156,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/03-support.tex",
+      "label": "lem:H-automorphisms",
+      "kind": "lemma",
+      "line": 52,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/03-support.tex",
+      "label": "lem:sparse-cochain",
+      "kind": "lemma",
+      "line": 114,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/03-support.tex",
+      "label": "prop:small-orbit-support",
+      "kind": "proposition",
+      "line": 183,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/03-support.tex",
+      "label": "cor:transitive-support",
+      "kind": "corollary",
+      "line": 254,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/04-base-logic.tex",
+      "label": "lem:box-boundary",
+      "kind": "lemma",
+      "line": 60,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/04-base-logic.tex",
+      "label": "prop:base-equivalence",
+      "kind": "proposition",
+      "line": 124,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/04-base-logic.tex",
+      "label": "lem:partial-flow",
+      "kind": "lemma",
+      "line": 199,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/04-base-logic.tex",
+      "label": "prop:base-homogeneity",
+      "kind": "proposition",
+      "line": 232,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/05-hf-transfer.tex",
+      "label": "thm:hf-transfer",
+      "kind": "theorem",
+      "line": 26,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/05-hf-transfer.tex",
+      "label": "lem:hf-type-counts",
+      "kind": "lemma",
+      "line": 78,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/05-hf-transfer.tex",
+      "label": "lem:hf-representation",
+      "kind": "lemma",
+      "line": 157,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/05-hf-transfer.tex",
+      "label": "lem:hf-atomic-transfer",
+      "kind": "lemma",
+      "line": 197,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/05-hf-transfer.tex",
+      "label": "lem:hf-bijection",
+      "kind": "lemma",
+      "line": 283,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/06-coding.tex",
+      "label": "lem:trace-size",
+      "kind": "lemma",
+      "line": 100,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/06-coding.tex",
+      "label": "lem:state-exactness",
+      "kind": "lemma",
+      "line": 255,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Choiceless-polynomial-time-with-counting-does-not-capture-polynomial-time-September-23-2026/build/sections/06-coding.tex",
+      "label": "lem:substitution-width",
+      "kind": "lemma",
+      "line": 299,
+      "aliases": []
+    }
+  ],
+  "WSC_qualified_results": [
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/00-introduction.tex",
+      "label": "thm:main",
+      "kind": "theorem",
+      "line": 38,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/02-structures.tex",
+      "label": "str:size",
+      "kind": "lemma",
+      "line": 134,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/02-structures.tex",
+      "label": "str:central-extension",
+      "kind": "lemma",
+      "line": 195,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/02-structures.tex",
+      "label": "str:action",
+      "kind": "proposition",
+      "line": 230,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/03-sentence.tex",
+      "label": "sen:tree-test",
+      "kind": "lemma",
+      "line": 478,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/03-sentence.tex",
+      "label": "sen:history",
+      "kind": "lemma",
+      "line": 532,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/03-sentence.tex",
+      "label": "sen:resources",
+      "kind": "lemma",
+      "line": 610,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/03-sentence.tex",
+      "label": "sen:all-input",
+      "kind": "proposition",
+      "line": 692,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/04-grid-behavior.tex",
+      "label": "grid:parameters",
+      "kind": "lemma",
+      "line": 14,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/04-grid-behavior.tex",
+      "label": "grid:matching",
+      "kind": "lemma",
+      "line": 47,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/04-grid-behavior.tex",
+      "label": "grid:transitivity",
+      "kind": "proposition",
+      "line": 131,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/04-grid-behavior.tex",
+      "label": "grid:tree-divergence",
+      "kind": "lemma",
+      "line": 262,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/04-grid-behavior.tex",
+      "label": "grid:separation",
+      "kind": "theorem",
+      "line": 283,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/05-support.tex",
+      "label": "sup:sparse-cochain",
+      "kind": "lemma",
+      "line": 53,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/05-support.tex",
+      "label": "sup:small-orbit",
+      "kind": "proposition",
+      "line": 141,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/05-support.tex",
+      "label": "sup:hereditary",
+      "kind": "corollary",
+      "line": 242,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "label": "base:boundary",
+      "kind": "lemma",
+      "line": 78,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "label": "base:giant",
+      "kind": "lemma",
+      "line": 119,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "label": "base:equivalence",
+      "kind": "proposition",
+      "line": 158,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "label": "base:partial-flow",
+      "kind": "lemma",
+      "line": 245,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "label": "base:homogeneity",
+      "kind": "proposition",
+      "line": 282,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/06-base-counting.tex",
+      "label": "base:width",
+      "kind": "corollary",
+      "line": 419,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/07-hf-transfer.tex",
+      "label": "hf:transfer",
+      "kind": "theorem",
+      "line": 53,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/07-hf-transfer.tex",
+      "label": "hf:extension-counts",
+      "kind": "lemma",
+      "line": 86,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/07-hf-transfer.tex",
+      "label": "hf:representation",
+      "kind": "lemma",
+      "line": 162,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/07-hf-transfer.tex",
+      "label": "hf:atomic-transfer",
+      "kind": "lemma",
+      "line": 207,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/07-hf-transfer.tex",
+      "label": "hf:bijection",
+      "kind": "lemma",
+      "line": 304,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/08-cpt-lower-bound.tex",
+      "label": "eval:trace",
+      "kind": "lemma",
+      "line": 55,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/08-cpt-lower-bound.tex",
+      "label": "eval:description",
+      "kind": "lemma",
+      "line": 127,
+      "aliases": []
+    },
+    {
+      "path": "math/preprints/Witnessed-symmetric-choice-is-strictly-stronger-than-choiceless-polynomial-time-with-counting-September-24-2026/build/sections/08-cpt-lower-bound.tex",
+      "label": "eval:pair-equivalence",
+      "kind": "theorem",
+      "line": 417,
+      "aliases": []
+    }
+  ],
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/docs/243.md",
+      "sha256": "6a3c435ae959a77a239d73802b178acae826a9577a4daf51de136aada4e93ed4",
+      "actual_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ChoicelessPolynomialTime.json",
+      "sha256": "6b7b0c476948208fa58011497df3ddcfb0d3ff08b7299141949da3240a21cf7a",
+      "actual_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WitnessedChoice.json",
+      "sha256": "756861e09ebbdc5cc3cf85c5314b605b6824b01e7cbdf66585e369d158b80728",
+      "actual_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/ChoicelessPolynomialTime.lean",
+      "sha256": "bca543a0526a28dd9c3466e5fcb1278436580a63f45320ab315f3b2a410866df",
+      "actual_ranges": [
+        [
+          1,
+          58
+        ],
+        [
+          467,
+          560
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/WitnessedChoice.lean",
+      "sha256": "6297f602816521fd2736fffca11cbbc21c57f8ed7b887fa135bd553023726c26",
+      "actual_ranges": [
+        [
+          230,
+          474
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/ModelTheory/Choiceless/Model.lean",
+      "sha256": "14295f15eef06ab3c8c4cdc7ce26383e41ef1b9a7ec5221df5fdf413f4cbca16",
+      "actual_ranges": [
+        [
+          1,
+          56
+        ],
+        [
+          379,
+          641
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/ModelTheory/Choiceless/Separation.lean",
+      "sha256": "262fb1f518fd36107152e73ba19054a61d32bdcccde3fba7a008f4895aaa9a98",
+      "actual_ranges": [
+        [
+          1,
+          28
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/OAI/ModelTheory/Choiceless/FullLanguage.lean",
+      "sha256": "0999102f330ab700149981acb9414a2dabba6c75a7cf6873504b0f96946d7aec",
+      "actual_ranges": [
+        [
+          1,
+          214
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/OAI/ModelTheory/Choiceless/Evaluation.lean",
+      "sha256": "b38b6197a5b3c9c1e31b168f5a5effabbdc6ffd3c5057f7e884540c24793fe34",
+      "actual_ranges": [
+        [
+          125,
+          172
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/Computability/WitnessedChoice/Model.lean",
+      "sha256": "17e5bcb526b0eaea9241fd6b69ee616db18da631dd5b681f33638d67f5a31aaa",
+      "actual_ranges": [
+        [
+          1,
+          42
+        ],
+        [
+          290,
+          321
+        ],
+        [
+          390,
+          604
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/Computability/WitnessedChoice/Main.lean",
+      "sha256": "0a2723be484cd4833694bc1f581841fa85cdc4ba39761ab32c672e9411c44128",
+      "actual_ranges": [
+        [
+          1,
+          43
+        ]
+      ],
+      "whole_file_read": true
+    },
+    {
+      "path": "math/lean/OAI/Computability/WitnessedChoice/ChoiceSeparation.lean",
+      "sha256": "a848a4c8db7aab46a762279456d4e0c49ab9aec6ee8eef175094c18d7ff7a564",
+      "actual_ranges": [
+        [
+          1,
+          95
+        ],
+        [
+          1000,
+          1071
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/Computability/WitnessedChoice/CycleTranslation.lean",
+      "sha256": "0aeec68a3a9321206cb91255893ccc847e3cef79123331fe8669766606caf7d8",
+      "actual_ranges": [
+        [
+          270,
+          299
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/Computability/WitnessedChoice/GuardedProgram.lean",
+      "sha256": "db26548f0c6d9cc74f1d3a252b84918363100710e840e9817db61982c7b1d5dc",
+      "actual_ranges": [
+        [
+          1047,
+          1090
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/OAI/Computability/WitnessedChoice/TermGraphs.lean",
+      "sha256": "31fabaadd7d74196738ba424d147429a8ffeaa9a72237fefc3adae7dce66baa4",
+      "actual_ranges": [
+        [
+          935,
+          980
+        ]
+      ],
+      "whole_file_read": false
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "actual_ranges": [
+        [
+          330,
+          346
+        ],
+        [
+          1063,
+          1076
+        ]
+      ],
+      "whole_file_read": false
+    }
+  ],
+  "formal_status": {
+    "counting_registration": true,
+    "witnessed_registration": false,
+    "witnessed_actual_config_and_proof_present": true,
+    "registered_catalogue_scope": "Only targeted counting entry and exact WSC title search(no match),not whole catalogue reread.",
+    "main_grade": "B local for two actual main statements; no human/build/comparator",
+    "supporting_results_grade": "C unless explicitly matched later",
+    "full_dependency_chain": "unknown",
+    "correspondence_limits": "Counting actual FullCPT is finite-function/parallel-update ASM with cumulative occurring expression objects,not literally natural GSW2Dinterpretation encoding. Actual FullLanguage compile and Evaluation observer selected read;full equivalence of semantics and all proof dependencies not audited. Witnessed actual BGS syntax/Option dagger/TCstrict/ordinaryfuel p+1/one-occurrence/all-input true-model match;actual main uses exists somegrid pair sufficientforseparation,natural stronger eventuallyallL supporting theorem not certified bymainB. Grid formal parameter n usesn+1 side,hn>=1 correspondsnaturalL>=2. Resource polynomialactual cost differs naturalmacroH0 polynomial,not matched byte-for-byte.",
+    "indices": [
+      {
+        "path": "data/graph/lean_indices/F-243-counting.json.gz",
+        "sha256": "8fee991c5f7fa4e09664a40fb8e86d9a9da48be991fd88958ecb139561aaa28c",
+        "local_files": 26,
+        "declarations": 1313,
+        "lexical_placeholders": 0,
+        "local_axioms": 0,
+        "external_unread": [
+          "Mathlib"
+        ],
+        "local_build": false,
+        "comparator": false
+      },
+      {
+        "path": "data/graph/lean_indices/F-243-witnessed.json.gz",
+        "sha256": "c7edeff6caf71d8184fe26b44383e090f2282275e18cd0f159130742069f1973",
+        "local_files": 27,
+        "declarations": 1849,
+        "lexical_placeholders": 0,
+        "local_axioms": 0,
+        "external_unread": [
+          "Mathlib"
+        ],
+        "local_build": false,
+        "comparator": false
+      }
+    ]
+  },
+  "result_notes": {
+    "CPT:thm:main": "Fixed8binarytau/allfiniteinputs,queryF3consistency invariant/PT butnot full countingCPT with arbitrary finiteHFrank. Program fixed before witnessscale. Actual main staticB;complete semantic correspondence and supporting proofs unknown.",
+    "CPT:prop:query-ptime": "On arbitraryinput Ed/Cf overlap allowed butlambda/mu separatelytagged;all Zdelta contributions added modulo3;each identical row remains equation not summed. <=2nunknowns,n+n²rows,O(n4)coefficient/test construction thenordinaryorderedGaussian elimination; no speed gain.",
+    "CPT:cor:linear-algebraic-logics": "Nonempty finiteinput only:FPS3/FPR3 defineQ;countmod3 coefficient;Boolean0/1allones solvability gadget andaugmentedrankcomparison. D=A²×{0,1}nonempty needed to copyb;emptyinputQtrue handledseparately. Actualmain not a formal audit of this corollary.",
+    "CPT:lem:universe-size": "L>=2 box,positivecharge-independent counts N=sum_e3^(2|F(e)|+1)+sum_v3^(2f(v)+d(v)-1),L³<=N<=(3^10+3^29)L³;allconfigblocksnonempty. Constant bounds enormous,notcompactimplementation.",
+    "CPT:prop:opposite-answers": "EveryL>=2 zerochargeQtrue/unitchargeQfalse;arbitrary field-valued configurationweights normalized,notintegralchoices/probabilities. Sharedmu and signeddivergencecancel implysum b=0;onlynecessitygeneralb statedhere.",
+    "CPT:lem:H-automorphisms": "FiniteHeisenbergface translations+centralK=kerincidence preserve entire8relations including correctedZdifferences;localconfigcompatibility andsignedfaceboundary essential. Coordinate labelsnotinputfeatures.",
+    "CPT:lem:sparse-cochain": "3DboxF3cochainwitht nonzerofacecurls can subtractgradient leaving<=2Lt edges(proofLt). Prefixsums choosefew-curlslice;zero curl=>gradient forBOX not arbitrarytopology.",
+    "CPT:prop:small-orbit-support": "HFxwithSMALL H-orbit<=Nq hasK-support<=2L(qlog3N)² independentrank. NonabelianHcommutator curlisotropiccodim andsparsefunctionalbasis essential;smallKorbit alone not premise.",
+    "CPT:cor:transitive-support": "FiniteH-invariantmembership-transitivefamily<=Nq:everyrecursiveconstituenthasownKsupport,padpositivecommon s=ceil2L(qlog3N+1)²+1. Not onecommonsupport fixesallfamilymembers.",
+    "CPT:lem:box-boundary": "NonemptyR<=L³/2,boxedge boundary>=c|R|^(2/3),c=1-2^-1/3;projectionLoomisWhitney/crossingcoordinatepaths;notarbitrarygraphisoperimetry.",
+    "CPT:prop:base-equivalence": "Forall sufficientlylargeL,analysisexpansions zero/unit sameC^M sentences,M=floorL^7/4;defectkeptgiantafter<=6Mtouchededges. Wholeuniversebijectionblockwisedifferentflow,notoneglobalautomorphismbetweenchargedinputs.",
+    "CPT:lem:partial-flow": "AssignedF3flowonT extendsdivergencefreeiff everyremainingcomponent netboundaryflow0,includingisolates. Failureatleasttwocomponents,one<=half and(|T|/c)^1.5;leafelim oldmethod.",
+    "CPT:prop:base-homogeneity": "Sameexpansion r-tuplesequalC^Mtypes +7r+7(6r/c)^1.5+1<=M implyoneKelementmapspositions. RawDdeltaacrossdifferentfacepatterns andanalysispreorder essential;notexternallysuppliedinputorder.",
+    "CPT:thm:hf-transfer": "NonemptyfinitebinaryA_i,groupsK_i,s,m,Mpositive,max(4,m+1)s<=M;C^Mequivalence andK-homogeneitytuple<=max(2,m)s implyC^m equivalence ofCOUNTABLYINFINITEallhereditarily s-supportedHFdomains. No rank bound orcomputablebijection claim.",
+    "CPT:lem:hf-type-counts": "MatchingC^MprefixP and|P|+d<=M =>exact finiteextensioncountforeachrealizedtype. Isolatingformula chosenfromtwofiniteuniverses maydependinputs/lengthunbounded;noefficientuniformtype algorithm.",
+    "CPT:lem:hf-representation": "Commonfiniteformsyntax/moleculelengths,2sK-homogeneity=>everyhereditarilysupportedobjectrepresented andequivariant;supportallrecursiveconstituents. No finiteformdepthbound.",
+    "CPT:lem:hf-atomic-transfer": "Matchingjointmoleculetypes transfers equality/membership/atom/basefacts atanyformdepth;equalityuses4s witnesspositions,membership3s;urelementnotemptyset,repeatedargumentshandled.",
+    "CPT:lem:hf-bijection": "Retainr<=m-1objects:stabilizerlabelorbits overlapiffsame andequal sizes viaMOLECULECOUNT/FIBRECOUNT n/h. ExternalcountableenumerationschoosebijectionbetweenwholeinfiniteD_i,not materializedchoicelessmap.",
+    "CPT:lem:trace-size": "Actual2Dgeneratedquotientinterpretation tracewholepayloadtaggedKuratowskipairs hasH-invariantmembershipclosure<=9B³ inclallwrappers/ordinals. No representativechoice,norankbound;externalcharacterizationinput.",
+    "CPT:lem:state-exactness": "On supporteddomaintransitivity+wholetrace,Dom/generatedsymmetricreachB²/ordinalpayload exactlydecodeeveryquotientstate throughhalt. Relationsexistentialrepresentatives andHartig0..B;emptydomainincluded.",
+    "CPT:lem:substitution-width": "Captureavoidingsubstitution free-interface-only replacements boundfw bymax(template,inserted),notdepthsum;repeated/unusedargsallowed;palettew+1names. FormulaLENGTHmayexplode;not efficient executable compression.",
+    "WSC:thm:main": "Existsfixed8binarytau/fixedpoly/oneSYNTACTICWSCsentenceBooleanALLfiniteinputs withtrue-modelclassdifferentfromeveryCPTcountingsentence arbitraryHFrank. Oneoccurrence maymanychoices/parameters;neitherPTcapture nor nestingseparation. LocalactualmainB only.",
+    "WSC:str:size": "Nonemptycharge-independentedge/configblocks;|Y_e|<=3^9,|X_v|<=3^29,NthetaL³,hugeconstants. Inputcoordinate labelsnotobservablerelations.",
+    "WSC:str:central-extension": "H=(F3²)^faces×K withhalfomega face-cyclecocycle;centralK,quotientfacevectors,commutator=sumomega*cface. Primeoddfield/half2 explicit.",
+    "WSC:str:action": "FaithfulHfull8relationautomorphisms,blockssetwise,centralflowsaddscalar;inputdirectedIncandcorrectedZ allpreservedinbothdirections.",
+    "WSC:sen:tree-test": "Checkedconnectedblockgraph,chosenresolvingparameter andCOMPLETE fixednontreechoices:monotoneTREEarc-deletion survivorsineveryblockiffglobalcompletion. Doesnotrequireconfigurationuniquenessbyneighbors onarbitraryinput;notgeneralcyclicarcconsistencycompleteness.",
+    "WSC:sen:history": "EveryreachablechoiceDnonemptyorbitunderfullinputautomorphismfixparamsALLearlierstates;guardfailurepure{empty}dummyidentity,pointwisefixcurrentselectedatoms =>history. <=n+1transitions;notonlyfixcurrentsetsetwise.",
+    "WSC:sen:resources": "FIXEDfullyexpandedmacros H0,B=16(3^9+3^29),d0=1000,dnext1000(d+1)^3,p(n)=(n+2)^dH0+1 coversraw/rejectedpools/temporaryvalues,allordinary/WSCpaths. Polynomialdoesnotmeanpractical;allterminalbranchfamilynotconstructed.",
+    "WSC:sen:all-input": "GuardedPhi neverdaggeronANYfinite8relinput,ISOinvariant. Trueiffsome resolving4tuplehascompleteextendableterminalselection;failedCheck/Pempty=>falseinclEMPTYINPUT. NotidenticalfirstQdefinedonallmalformedinputs(emptyQfirsttrue).",
+    "WSC:grid:parameters": "L>=2boxpassesCheck;fourcornerdistancepattern recoversintegercoords by d(o,v)-d(qi,v)=2vi-(L-1),Pnonempty withoutchoosingonecanonicaltuple.",
+    "WSC:grid:matching": "Every simplefourcycleboxelementaryface;adjacentatomsconfig iffsharedfvectoragrees sincevertexdegree>=3leavesfreescalar. Same/oppositesidesviaindependentinterveningwitnesses;baseEqoverallfacesiffwholevectorpatternsame.",
+    "WSC:grid:transitivity": "ForEVERYresolvingparamtree andcompatibleprefix,newcandidatepairtransport=localfacecorrection<=4faces/moves<=B THENfundamentalcycle scalarPOSTlocal discrepancy. Cycleonlynewnontreee+treepath fixespriornontreechoices;originindexenumerated,filterallrelations,not free generalGI/orbitfinder.",
+    "WSC:grid:tree-divergence": "Anyfiniteorientedtree/F3requiredvertexdivergencewithsum0 hasUNIQUEedgeflow,onevertexhandled;leafeliminationoldclassicallinearalgebra,notnewsolverclaim.",
+    "WSC:grid:separation": "AllL>=2 zerochargePhi true/unitchargefalse,everyresolvingtree/everyterminalselectionBool. Extendfacevectors globally andsolveTREResidualsum0;unitdivergencecancellationcontradiction;not generalall-inputQequivalence.",
+    "WSC:sup:sparse-cochain": "Sameboxsparsecurl=>gradientcorrected support<=2Lt (proofLt),zerocurlgradient. Fullproof repeatedfromcompanion;notindependentnewmethod.",
+    "WSC:sup:small-orbit": "SmallH-orbit yieldsK-support<=2L(qlog3N)² atEVERYrank viacentralannihilator/isotropiccodim;rankindependentboundnewrelativeoldrank-limitedCFIlowerbounds,notanygroupgeneral theorem.",
+    "WSC:sup:hereditary": "FiniteH-invarianttransitivefamilyNq includesallrecursiveconstituents,eachhasownsupport paddedcommonpositive s,notglobalfixedatomtuple.",
+    "WSC:base:boundary": "3Dboxnonemptyvertexsubset<=half boundary>=c|R|^2/3;cpositiveexplicit. LoomisWhitneyprojectioninput.",
+    "WSC:base:giant": "ForlargeLdelete<=6M,M=floorL^7/4 edges unique>halfgiantmonotoneunderadditionaldeletion;smalltotal<=c^-1.5(12M)^1.5=oL³. No allLclaim.",
+    "WSC:base:equivalence": "Analysisexpansions sameC^M forlargeL;fulluniversebijectionpernextblock/defectpath;Kpreservesextraorderedclasses+rawdifferences,Hnotneededtopreservethoseextras.",
+    "WSC:base:partial-flow": "Remainingcomponentzero-netconditions iffextendassignedflow toK,isolatesincluded;smallfailingcomponentbound viaedgeisoperimetry. Not directedcapacityfeasibility.",
+    "WSC:base:homogeneity": "Sameexpansion equalC^Mtupletypes iffKorbit in stateddirection rwidth7r+7(6r/c)^1.5+1<=M. CrosspatternrawD essential;referencesmayinconsistentacrossinternaledgebutdifferencescancel.",
+    "WSC:base:width": "Fixpositiveq,m BEFOREL;forlargeL alltuplelengths<= (m+4)s andmax(4,m+1)s fitM;homogeneitythresholdcan dependq,m. No uniformfinitebenchmarkthreshold.",
+    "WSC:hf:transfer": "Generalnonemptyfinitearity<=2B_i,K_i;C^Meq+grouprelativehomogeneity+max(4,m+1)s<=M =>C^m equivalenthereditarilysupportedallfinite-rankdomains. DoesnotassertfiniteD/materializedoperator.",
+    "WSC:hf:extension-counts": "Exact realizedtypeextensioncountsforprefix+d<=M,projection/reorderingincludingrepeatedatomvalues. Typemayisolatednonuniformformula,not efficienttype finder.",
+    "WSC:hf:representation": "EveryD_sobjecthascommonform*moleculerepresentation atarbitrarydepth;K-equivariant,2s tuplehomogeneity,emptyform distinctfromatomicform.",
+    "WSC:hf:atomic-transfer": "Equaljointmoleculetypes preserveformvalueequality/member/atom/basefacts,4sforequality/3sformembership;not onlymatchingrepresentations.",
+    "WSC:hf:bijection": "Retainedr<=m-1params,orbitlabelpartition+uniformfibren/h givescountablewhole-domainbijectionmatchingextensions and repeatedretainedvalues;externalordersproofonly,nocomputablemapassertion.",
+    "WSC:eval:trace": "EveryfixedCPTsentencehaspolyH-invarianttransitivetrace inclALLactual activations,firstEXCESSIVEcandidate andP+1stationaritycandidate;nestediterations andrecursivevalues included. No boundedHFrank assumption.",
+    "WSC:eval:description": "Foractualargumenttuples termgraph iffgenuinevalue FORALLproposedv∈D;typedemptynonatom,strictTCcountsENDPOINTSnotpaths,guard+reachableI_j+fallback eliminateunrelatedhighrankfixedpoints. Uniformmdependsfixedsyntaxnotinput,formula length/J(n)maygrow. No truthpromiseunactivatedargs.",
+    "WSC:eval:pair-equivalence": "Natural∀fixedCPTpsi ∃Lpsi ∀L>=Lpsi samepairtruth;choosepsi/q/m first,useHsmalltrace andKanalysisHFtransfer sameNcommonformula. Actualmainselectedsomegridpairlemma enoughseparation,notcertificationofthisstrongereventual theorem."
+  },
+  "selected_original_scopes": {
+    "bgs1999": {
+      "versions": [
+        {
+          "url": "https://arxiv.org/pdf/math/9705225v1",
+          "pdf_sha256": "6512ebb3e42dadbd1d972bae8b6189db5a54dd1ca1299920f397d846a5f7d4b7",
+          "pdf_bytes": 361920,
+          "text_sha256": "b52724a9441c8a088350ff0a94cca5e83cf19664dd660631f04877550586d71e",
+          "actual_text_ranges": [
+            [
+              1,
+              135
+            ]
+          ],
+          "scope": "Actual1997v1 intro printedp3 explicitly conjectures counting extension proper fragment;abstract noncapture itself concerns base language,not already counting proof.",
+          "content_checked": true,
+          "actual_pixel": {
+            "name": "bgs-v1-p3.png",
+            "sha256": "0326e9a3b5371608ada2d1bf198b610267f053d159b541df9514b5fc25012a6a",
+            "printed_page": 3
+          }
+        },
+        {
+          "url": "https://shelah.logic.at/files/95758/533.pdf",
+          "pdf_sha256": "2ecd505fb31b43071cdbcd8c14dd2f53e98e9ec18d1103c1d88ec3a0837008ac",
+          "pdf_bytes": 320608,
+          "text_sha256": "7a815ba529511880e159a143fb7be393c0acad5e3431f0413ae99c2fc0abb963",
+          "actual_text_ranges": [
+            [
+              1,
+              85
+            ],
+            [
+              1730,
+              1885
+            ]
+          ],
+          "scope": "Actual1999published141–187;selected forms/molecules/equivalence theorem35 on naked sets,injective molecules,not a new rank-independent group-relative counting theorem.",
+          "content_checked": true
+        }
+      ],
+      "scope": "Actual1997v1 intro printedp3 explicitly conjectures counting extension proper fragment;abstract noncapture itself concerns base language,not already counting proof.; Actual1999published141–187;selected forms/molecules/equivalence theorem35 on naked sets,injective molecules,not a new rank-independent group-relative counting theorem."
+    },
+    "drr2008": {
+      "versions": [
+        {
+          "url": "https://www.cl.cam.ac.uk/~ad260/papers/CPT-CFI.pdf",
+          "pdf_sha256": "95fcefceef3091cfee83ef74b0230a981c3ddbcec8b591cb4c45f689da01a3ac",
+          "pdf_bytes": 265306,
+          "text_sha256": "41a1e699da7738bf88af1a1224ba24baf153b5950c3c2962eca18bc99c7b3852",
+          "actual_text_ranges": [
+            [
+              940,
+              978
+            ],
+            [
+              1400,
+              1445
+            ],
+            [
+              1628,
+              1667
+            ]
+          ],
+          "scope": "Actual13Aug2007authorversion;Thm17preorderedCFI parity already computable without counting using unbounded rank;Thm33hereditarily supported counting transfer has no rank limit itself;Thm40lower bound ONLY rank o(logn/loglogn). Fullproofs/recursivehistory unread.",
+          "content_checked": true,
+          "actual_pixel": {
+            "name": "drr-p31.png",
+            "sha256": "09fd1d91272d297acbfb8fbb7a81e1ea023435f64d8168b2a36a219cf037390a",
+            "printed_page": 31
+          }
+        }
+      ],
+      "scope": "Actual13Aug2007authorversion;Thm17preorderedCFI parity already computable without counting using unbounded rank;Thm33hereditarily supported counting transfer has no rank limit itself;Thm40lower bound ONLY rank o(logn/loglogn). Fullproofs/recursivehistory unread."
+    },
+    "gsw2020": {
+      "versions": [
+        {
+          "url": "https://arxiv.org/pdf/2003.10935v1",
+          "pdf_sha256": "a453026de8bae31ca2f62bf55d229e79f69cb53400cc434e891f39c2ff4919ba",
+          "pdf_bytes": 416122,
+          "text_sha256": "6e1adb5c6b9e9eaf852f99d152593094e57221cfd9fb02564f44908918dec75b",
+          "actual_text_ranges": [
+            [
+              1,
+              35
+            ],
+            [
+              930,
+              1050
+            ]
+          ],
+          "scope": "Actual24Mar2020v1,Sec6/Theorem18(creditedGKPS):FO+Hartig2Dinterpretations,generated equivalence even if raw equalityformula not equivalence,existential representatives for output relation;init/step/halt/output,polynomial stages+sumstate sizes. OriginalGKPSbody not read.",
+          "content_checked": true
+        }
+      ],
+      "scope": "Actual24Mar2020v1,Sec6/Theorem18(creditedGKPS):FO+Hartig2Dinterpretations,generated equivalence even if raw equalityformula not equivalence,existential representatives for output relation;init/step/halt/output,polynomial stages+sumstate sizes. OriginalGKPSbody not read."
+    },
+    "ls2023": {
+      "versions": [
+        {
+          "url": "https://arxiv.org/pdf/2205.14003v3",
+          "pdf_sha256": "b1db2f9906c03e2197ab77ce0fe84d844be9812aac9622b4e867ed6383fe8210",
+          "pdf_bytes": 902585,
+          "text_sha256": "e5ee9a10f872ff7f1f5f320d45671fe7bed815d99357acc03fe552bb38f6e880",
+          "actual_text_ranges": [
+            [
+              1,
+              35
+            ],
+            [
+              134,
+              157
+            ],
+            [
+              234,
+              360
+            ],
+            [
+              444,
+              709
+            ],
+            [
+              3890,
+              3925
+            ]
+          ],
+          "scope": "Actualarxivv3stamp10Feb2023butauthorcover13Feb2023. Sec2BGS/parametrizediteration;Sec3fullinput-notreduct semantics,terminal/intermediate witnessslots,fixentirehistory,daggerpropagates,resourcefailure daggernotempty,neednotconstructallfixedpoints. Thm1canonization/PT conditionaldefinableGI+individualizationclosure. Sec7strictCPTvsCPT+WSCandnestingopen there;not same as new2026claims/fullPTcapture.",
+          "content_checked": true
+        }
+      ],
+      "scope": "Actualarxivv3stamp10Feb2023butauthorcover13Feb2023. Sec2BGS/parametrizediteration;Sec3fullinput-notreduct semantics,terminal/intermediate witnessslots,fixentirehistory,daggerpropagates,resourcefailure daggernotempty,neednotconstructallfixedpoints. Thm1canonization/PT conditionaldefinableGI+individualizationclosure. Sec7strictCPTvsCPT+WSCandnestingopen there;not same as new2026claims/fullPTcapture."
+    }
+  },
+  "historical_external_roots": 29,
+  "historical_root_bodies_selected_checked": 4
+}

@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-20T17:18:02.443534+00:00",
+  "url": "http://127.0.0.1:8768/",
+  "tab_id": "1",
+  "reloaded_actual_page": true,
+  "observed": {
+    "nodes": 2910,
+    "edges": 7090,
+    "family": "F-255",
+    "claims": 47,
+    "methods": 15,
+    "conditional_applications": 1,
+    "selected_source": "SOURCE-F485206F3C1D27D4",
+    "selected_source_annotation_count": 9
+  },
+  "actions": [
+    "ReloadexistingIABtab",
+    "Search255andselectF255",
+    "Openpolynomial-imageclaimthenitscitedsource",
+    "ReadallninecitationannotationsinAXstate;viewnarrowsidepanelscreenshot"
+  ],
+  "scope": "OneactualF255claim-to-sourcejourneyonly;notfullUI/crossviewportacceptance",
+  "tab_marked_deliverable": true
+}

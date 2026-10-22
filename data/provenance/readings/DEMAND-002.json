@@ -1,0 +1,214 @@
+{
+  "id": "DEMAND-002",
+  "generation_id": "GEN-20261021-028",
+  "recorded_at": "2026-10-20T17:05:32.688798+00:00",
+  "type": "primary-public-demand-and-input-contract-check",
+  "research_base_commit": "0afecbc",
+  "sources": {
+    "runtime_snapshot": {
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit-ibm-runtime/0e1778966a3746c004d7268ae4d94e5c3f0dfbd7/qiskit_ibm_runtime/fake_provider/backends/brisbane/props_brisbane.json",
+      "commit": "0e1778966a3746c004d7268ae4d94e5c3f0dfbd7",
+      "sha256": "bc8b29433a8e1935a8f5537cafccc63194dc5ed5137edba684ff3fb77b269d1d",
+      "bytes": 353470,
+      "lines": 1,
+      "read_scope": "Programmatic JSON schema and127-qubit record count;qubit0 fullfields and id0parameters actuallyinspected;not every calibrationmeasurement independentlyverified",
+      "retention": "data/provenance/demand/ibm-brisbane-0e177896.json.gz"
+    },
+    "runtime_license": {
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit-ibm-runtime/0e1778966a3746c004d7268ae4d94e5c3f0dfbd7/LICENSE.txt",
+      "commit": "0e1778966a3746c004d7268ae4d94e5c3f0dfbd7",
+      "sha256": "7b7de08c64b1824bdc2b9f4b530814a9d0b5905a38ad0e96a717f3dd46d2bbe7",
+      "bytes": 11416,
+      "lines": 203,
+      "read_scope": "Apache2.0license",
+      "retention": "data/provenance/demand/ibm-brisbane-0e177896.json.gz"
+    },
+    "aer_errors": {
+      "url": "https://github.com/Qiskit/qiskit-aer/blob/7b31c7338113d0c7b7ad2f63a379c4eb4fadb920/qiskit_aer/noise/errors/standard_errors.py",
+      "commit": "7b31c7338113d0c7b7ad2f63a379c4eb4fadb920",
+      "sha256": "25057e6ddab0f2861c363bf01e7c01a5337d3acb8757dcd2eb36a010d14206b4",
+      "bytes": 17095,
+      "lines": 498,
+      "read_scope": "Lines257-350thermal_relaxation_error and425-465amplitude_damping_error;selectedactualfunctions,notfullfile",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "aer_device": {
+      "url": "https://github.com/Qiskit/qiskit-aer/blob/7b31c7338113d0c7b7ad2f63a379c4eb4fadb920/qiskit_aer/noise/device/models.py",
+      "commit": "7b31c7338113d0c7b7ad2f63a379c4eb4fadb920",
+      "sha256": "9618d9c3c5c350034accbc48d87aadbfacf688f65fd90869d6bb4f94826d4c65",
+      "bytes": 16061,
+      "lines": 397,
+      "read_scope": "Lines337-403actualthermalcomposition,T2clipping andexcitedpopulationtemperaturefunction",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "bluefog_topology": {
+      "url": "https://github.com/Bluefog-Lib/bluefog/blob/9ee376a7f7399f18d864f75b399dcfa6962fa4fb/bluefog/common/topology_util.py",
+      "commit": "9ee376a7f7399f18d864f75b399dcfa6962fa4fb",
+      "sha256": "ef234a69f29bcf24fa4d76e775a645eddae5aafc5fdd228fb1dde3ff250e4dc1",
+      "bytes": 20529,
+      "lines": 554,
+      "read_scope": "Lines1-155initialweights/exponentialfunctions,315-359onepeergenerator,466-554hierarchicaldynamicgenerator;notentirefile",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "bluefog_license": {
+      "url": "https://github.com/Bluefog-Lib/bluefog/blob/9ee376a7f7399f18d864f75b399dcfa6962fa4fb/LICENSE",
+      "commit": "9ee376a7f7399f18d864f75b399dcfa6962fa4fb",
+      "sha256": "f0f6a9022a8d277f608fbf0fb1b374bb974806c4c6420cb9e149bd9c30f8028c",
+      "bytes": 11342,
+      "lines": 201,
+      "read_scope": "Apache2.0license;nocodecopiedorreused",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "birdy_readme": {
+      "url": "https://github.com/TUM-ICS/BIRDy/blob/4d9802f1d692815792dfb5652a3d19f1fcdaec02/README.md",
+      "commit": "4d9802f1d692815792dfb5652a3d19f1fcdaec02",
+      "sha256": "4435b11085a539f214bc61c35f6fb55f7cb99bcc0fd948bbfbb450fe92f57c2d",
+      "bytes": 11685,
+      "lines": 136,
+      "read_scope": "Full136lineREADMEread;benchmarkoverview andexecutionrequirements,notanexperimentreproduction",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "birdy_generator": {
+      "url": "https://github.com/TUM-ICS/BIRDy/blob/4d9802f1d692815792dfb5652a3d19f1fcdaec02/Benchmark/Robot_Data_Generation/Trajectory_Data_Generation/generateExcitationTrajectory.m",
+      "commit": "4d9802f1d692815792dfb5652a3d19f1fcdaec02",
+      "sha256": "f80810629d1701f3bd86a23be0abbc50392b68bd8576c41458baf90b6a3cb9d4",
+      "bytes": 5962,
+      "lines": 140,
+      "read_scope": "Entiregeneratorread;Fourierparameterization,Aeqzero initialvelocity/acceleration,fmincon/ga",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "birdy_criterion": {
+      "url": "https://github.com/TUM-ICS/BIRDy/blob/4d9802f1d692815792dfb5652a3d19f1fcdaec02/Benchmark/Robot_Data_Generation/Trajectory_Data_Generation/Trajectory_Optimizer/trajectoryCriterion.m",
+      "commit": "4d9802f1d692815792dfb5652a3d19f1fcdaec02",
+      "sha256": "e3b5e73211771252f27c9f25f71679784f2119ce16cab51a3d3581aa82ac01ef",
+      "bytes": 1055,
+      "lines": 32,
+      "read_scope": "Entirecostfunctionread;cond(WtransposeW)+100/minsvd(W),notmean drift",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "birdy_constraints": {
+      "url": "https://github.com/TUM-ICS/BIRDy/blob/4d9802f1d692815792dfb5652a3d19f1fcdaec02/Benchmark/Robot_Data_Generation/Trajectory_Data_Generation/Trajectory_Optimizer/trajectoryConstraints.m",
+      "commit": "4d9802f1d692815792dfb5652a3d19f1fcdaec02",
+      "sha256": "dad2474069d35db3202ccbcb48b87bc92d03f0b477acc3d20f1b69423d8ba624",
+      "bytes": 1705,
+      "lines": 32,
+      "read_scope": "Entireconstraintfunctionread;sampledposition/velocity/acceleration andCartesianheightconditions,notcontinuumcertificate",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    },
+    "birdy_fourier": {
+      "url": "https://github.com/TUM-ICS/BIRDy/blob/4d9802f1d692815792dfb5652a3d19f1fcdaec02/Benchmark/Robot_Data_Generation/Trajectory_Data_Generation/Trajectory_Optimizer/trajectoryGeneratorFourier.m",
+      "commit": "4d9802f1d692815792dfb5652a3d19f1fcdaec02",
+      "sha256": "a0eb220dbf2e6e9ac6e6b28c29fd569d6dd2fa42333d521471b56868d1bd4b72",
+      "bytes": 994,
+      "lines": 37,
+      "read_scope": "EntireFourierposition/velocity/accelerationfunctionread",
+      "retention": "Fullthirdpartysourcenotretained;hash andpreciselocator only"
+    }
+  },
+  "public_input": {
+    "snapshot": "data/provenance/demand/ibm-brisbane-0e177896.json.gz",
+    "repository_commit": "0e1778966a3746c004d7268ae4d94e5c3f0dfbd7",
+    "snapshot_date": "2025-02-26T14:33:06-05:00",
+    "backend": "ibm_brisbane",
+    "record_count_programmatically_checked": 127,
+    "actually_inspected_qubits": [
+      0
+    ],
+    "qubit0": {
+      "T1": {
+        "value": 237.36364020705798,
+        "unit": "us",
+        "date": "2025-01-29T00:08:55-05:00"
+      },
+      "T2": {
+        "value": 49.42561173908419,
+        "unit": "us",
+        "date": "2025-02-26T04:15:02-05:00"
+      },
+      "frequency": {
+        "value": 4.721905813680797,
+        "unit": "GHz",
+        "date": "2025-02-26T14:33:06-05:00"
+      },
+      "anharmonicity": {
+        "value": -0.31197865973435573,
+        "unit": "GHz",
+        "date": "2025-02-26T14:33:06-05:00"
+      },
+      "readout_error": {
+        "value": 0.02783203125,
+        "unit": "",
+        "date": "2025-02-26T04:56:44-05:00"
+      },
+      "prob_meas0_prep1": {
+        "value": 0.0302734375,
+        "unit": "",
+        "date": "2025-02-26T04:56:35-05:00"
+      },
+      "prob_meas1_prep0": {
+        "value": 0.025390625,
+        "unit": "",
+        "date": "2025-02-26T04:56:39-05:00"
+      },
+      "readout_length": {
+        "value": 1300,
+        "unit": "ns",
+        "date": "2025-02-26T04:56:44-05:00"
+      }
+    },
+    "id0_parameters": [
+      {
+        "date": "2025-02-26T04:32:21-05:00",
+        "name": "gate_error",
+        "unit": "",
+        "value": 0.00024329590602476677
+      },
+      {
+        "date": "2025-02-26T04:32:21-05:00",
+        "name": "gate_length",
+        "unit": "ns",
+        "value": 60
+      }
+    ],
+    "live_hardware": false,
+    "channel_tomography": false
+  },
+  "compressed_snapshot": {
+    "compressed_bytes": 34875,
+    "uncompressed_bytes": 415213,
+    "compressed_sha256": "afa03d4fa55576fb4743e32cd7e4f8e8b1fccdd0ba0a929f4cbc2cf52528d9a4",
+    "decompressed_sha256": "051ea6e99c49a22cd48cce10b8cd897045c5a2c9942757e23bbf52e08f8bd966",
+    "roundtrip_verified": true
+  },
+  "web_primary_scopes": [
+    {
+      "url": "https://quantum.cloud.ibm.com/docs/en/guides/qpu-information",
+      "scope": "Dynamicbackendproperties andSPAMdefinitions,read20Oct2026;measurementtimesnotnecessarilyidentical."
+    },
+    {
+      "url": "https://qiskit.github.io/qiskit-aer/stubs/qiskit_aer.noise.thermal_relaxation_error.html",
+      "scope": "Docs0.18.0,lastupdated20Oct2026;T1/T2/time/equilibriumexcitedpopulation."
+    },
+    {
+      "url": "https://github.com/Bluefog-Lib/bluefog",
+      "scope": "READMEactualdemand/onepeertrainingoverview;branchpageunversioned,sourcefunctionspinnedseparately."
+    }
+  ],
+  "failures": [
+    "BIRDy guessedmastercommit422,recoveredactualmaincommit.",
+    "BlueFogpinnedREADME.md404;READMEoverviewreadthroughpublicwebpage,notpinnedcontentsha.",
+    "BIRDyREADMEpaths trajectory_criterion.m/traj_nl_constraint.m404;actualTrajectory_Optimizer/trajectoryCriterion.m/trajectoryConstraints.m resolvedandread.",
+    "AerGitHubwebsourcecachemiss;authorizedrawfixedversionrecovered."
+  ],
+  "inferences": [
+    "Atpositivetime,pureGADpopulationfitgamma=1-exp(-t/T1)predictscoherenceexp(-t/(2T1));thermalT2coherenceexp(-t/T2). ExactpureGADrequiresT2=2T1. Thisissymbolicmodelcomparison,not fittedhardwarechannelvalidation.",
+    "If0<T2<=2T1andcommonMarkovianchannel/time/nuarejustified,thermalchannel=extraCPTPdephasing afterGAD. CapacitydataprocessingthenmakesF276capacityanupperbudget,notanattainedthermalchannelrate. Unknownnuandnoncoincidentcalibrationscurrentlypreventverifiednumericaluse.",
+    "BIRDyAeqenforceszeroalljointvelocitiesatt0;sourceF333requiresconstantR>0planarvelocity. ThisgeneratorcannotdirectlyprovideitsV,includinganyordinarylinearvelocityprojectionatstart.",
+    "BlueFogselectedonepeerweighted/directed/time-varyingcommunicationisnotF178fixedundirectedsimpledregularA/d;fullproductsandcostsneeded."
+  ],
+  "new_candidate_ids": [],
+  "new_numerical_run": null,
+  "executed_external_checks": false,
+  "decision": "No pendingroutecurrentlyhasbotheligiblerepresentativeinputsandexecutablesource/strongoldcomparison/independentjudge. Preserveexplicitgaps;do notmanufactureaneleventhsyntheticcheck.",
+  "next": "Prioritizegraphsourceidentity/conditionaudit,nextsource/historypackage;revisitthermalupperbudgetonlywithnuinterval,same-timechannelmodelandolderconversecomparator."
+}

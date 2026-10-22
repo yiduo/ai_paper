@@ -1,0 +1,38 @@
+{
+  "recorded_at": "2026-10-21T05:10:17.946749+00:00",
+  "source_record": "https://zenodo.org/records/10044268",
+  "source_api": "https://zenodo.org/api/records/10044268",
+  "record_version": "1.3",
+  "doi": "10.5281/zenodo.10044268",
+  "attribution": "Peidli and coauthors,scPerturb curatedcollection; member PapalexiSatija2021_eccite_arrayed_protein.h5ad",
+  "license_id": "CC-BY-4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "original_metadata_sha256": "5539f4c08d920e8fa029a339b6b03e30827d42a93d73183910d9a0bc15fa6e2a",
+  "metadata_projection_only": true,
+  "file": {
+    "name": "PapalexiSatija2021_eccite_arrayed_protein.h5ad",
+    "source_url": "https://zenodo.org/api/records/10044268/files/PapalexiSatija2021_eccite_arrayed_protein.h5ad/content",
+    "original_bytes": 550922,
+    "official_checksum": "md5:5e4346855f70c7ae90da9eb75ea12414",
+    "original_sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4",
+    "retained_path": "data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz",
+    "retained_gzip_bytes": 143497,
+    "retained_sha256": "7a49b8efb119e764b11ef8cf3ceb53d16440e95efe926e3097b86e4d1c7e3d90",
+    "roundtrip_verified": true
+  },
+  "collection_files": 50,
+  "under_5MiB_file_candidates": [
+    {
+      "name": "PapalexiSatija2021_eccite_protein.h5ad",
+      "bytes": 1191551,
+      "checksum": "md5:07290242b0e835c9474bb816de9cda45"
+    },
+    {
+      "name": "PapalexiSatija2021_eccite_arrayed_protein.h5ad",
+      "bytes": 550922,
+      "checksum": "md5:5e4346855f70c7ae90da9eb75ea12414"
+    }
+  ],
+  "candidate_asset_not_frozen_experiment_input": true,
+  "processing": "Exact unmodified h5ad bytes wrapped in deterministic gzip;no filtering/normalization/embedding. Numeric structure/profileonly;stringfieldsremainunread."
+}

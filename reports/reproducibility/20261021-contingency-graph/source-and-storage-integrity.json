@@ -1,0 +1,18 @@
+{
+  "status": "passed",
+  "prior_nodes_match_pre_generation_HEAD": 2,
+  "prior_generation_HEAD": "51149b7",
+  "natural_file_hashes": 22,
+  "selected_formal_file_hashes": 14,
+  "static_index_source_hashes": 1299,
+  "gzip_bytes": 261439,
+  "qualified_results": 42,
+  "contracts": 24,
+  "body_module_lines": 5840,
+  "total_tex_lines": 6080,
+  "bibliography_lines": 480,
+  "source_complete_draft": true,
+  "full_family_complete": false,
+  "new_numerical_run": null,
+  "temporary_original_files_downloaded": 0
+}

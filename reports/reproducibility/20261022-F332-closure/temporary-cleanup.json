@@ -1,0 +1,68 @@
+{
+  "recorded_at": "2026-10-22T02:28:05.886415+00:00",
+  "third_party_texts_and_renders": [
+    {
+      "file": "mn.pdf",
+      "bytes": 546743,
+      "sha256": "df6d5eab8434f03354cfd378b6080ee150dd858ebd94d9d22bd2716226605474",
+      "removed": true
+    },
+    {
+      "file": "mn.html",
+      "bytes": 1285556,
+      "sha256": "d790f53299958d212693677940f293085800532b5977940ab674d557d083bae5",
+      "removed": true
+    },
+    {
+      "file": "deza-preview.pdf",
+      "bytes": 409051,
+      "sha256": "939905304ba9c59e95a2afa41d96bd775e8c3a9aef841a67d13095a77eb9e307",
+      "removed": true
+    },
+    {
+      "file": "mn-duality.png",
+      "bytes": 195512,
+      "sha256": "9f84e0dbfb93cd8286cd41367246f5c94b8150793a9ef9b138f5c9009c81bd25",
+      "removed": true
+    },
+    {
+      "file": "mn-cesaro-index.png",
+      "bytes": 157007,
+      "sha256": "3fd073fa0402f4d8d5e863b5f647ae9113c29b38077d8552cba7534de7f69d4f",
+      "removed": true
+    },
+    {
+      "file": "mn-ultrapower.png",
+      "bytes": 326565,
+      "sha256": "4310610246afc36f3cec7ead326d7606e61659c7332fd80d3aa47c4daa2c30aa",
+      "removed": true
+    },
+    {
+      "file": "mn-cesaro-definition.png",
+      "bytes": 181670,
+      "sha256": "45a92d42ed3da3827ed90d1a7e2a23994359cdb8b73df20c139d59688999069a",
+      "removed": true
+    },
+    {
+      "file": "deza-cut-definitions.png",
+      "bytes": 176145,
+      "sha256": "dc441ecdba1f684280d820ab493570dc1d7019e8262b73bd7e04315c8a658eb8",
+      "removed": true
+    },
+    {
+      "file": "mn.txt",
+      "bytes": 158086,
+      "sha256": "d32b33278cc4d0c452b2199508d4b3b621bc3e9c84fccddcfaf499bece0d3776",
+      "removed": true
+    },
+    {
+      "file": "deza-preview.txt",
+      "bytes": 4987,
+      "sha256": "98c728dbc2d86c39a4776a540964414608c9a92c1af8f5c3dbca3937d433f8ee",
+      "removed": true
+    }
+  ],
+  "total_removed_bytes": 3441322,
+  "failed_ball_partial_already_removed_bytes": 20971520,
+  "official_math_untouched": true
+}

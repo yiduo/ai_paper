@@ -1,0 +1,22 @@
+{
+  "recorded_at": "2026-10-20T13:56:46.181758+00:00",
+  "nodes": 1911,
+  "edges": 4096,
+  "compressed_JSON_GraphML_counts_agree": true,
+  "all_edge_endpoints_present": true,
+  "files": {
+    "index.html": {
+      "bytes": 3874874,
+      "sha256": "1e2bb195f3b1e310717a392c0f2e62e83645ce4a2e09f38e9a40d131fb53fd83"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 582316,
+      "sha256": "efc5233dcfcf7817b42152502c4dd9933c9d3c9cacc408821e505ebfe8d01646"
+    },
+    "knowledge.json.gz": {
+      "bytes": 504500,
+      "sha256": "6c106b7ca50fed1019790751ee531d447df98e996d407453a4e61981c39d2cd6"
+    }
+  },
+  "browser_visual_check": "not repeated;no viewer code change"
+}

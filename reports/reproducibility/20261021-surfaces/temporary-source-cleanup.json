@@ -1,0 +1,48 @@
+{
+  "removed": [
+    {
+      "name": "nash-thm2.txt",
+      "bytes": 1
+    },
+    {
+      "name": "nash1956.pdf",
+      "bytes": 3707449
+    },
+    {
+      "name": "whitney-thm8.txt",
+      "bytes": 1
+    },
+    {
+      "name": "nash-thm2.png",
+      "bytes": 243133
+    },
+    {
+      "name": "whitney-thm8.png",
+      "bytes": 311321
+    },
+    {
+      "name": "kallen1978.pdf",
+      "bytes": 922502
+    },
+    {
+      "name": "whitney1944.pdf",
+      "bytes": 3963641
+    },
+    {
+      "name": "whitney-thm8-274.png",
+      "bytes": 289557
+    },
+    {
+      "name": "nash-thm2-59.png",
+      "bytes": 270233
+    },
+    {
+      "name": "kallen1978.txt",
+      "bytes": 51850
+    }
+  ],
+  "removed_bytes": 9759688,
+  "other_temporary_files_untouched": true,
+  "original_scope_locators_and_pdf_hashes_retained": "data/provenance/readings/F-333.json",
+  "third_party_full_text_committed": false
+}

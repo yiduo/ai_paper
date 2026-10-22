@@ -1,0 +1,20 @@
+{
+  "curate_f362.py": {
+    "path": "reports/reproducibility/20261021-vlasov-maxwell/curate_f362.py.gz",
+    "gzip_sha256": "4b21fa3814c50af58a0f1200f0c8c0e0432ce37ecf7d8ae38f297be8f1b1e171",
+    "decompressed_sha256": "708dd88d8dc766d14a3840840a40cdbd4d68104da5b6c762ab69f975e9048891",
+    "bytes": 29662
+  },
+  "quality_f362.py": {
+    "path": "reports/reproducibility/20261021-vlasov-maxwell/quality_f362.py.gz",
+    "gzip_sha256": "aae3afb3d8704d1ad906b2ca805cc2c8392dbd03f52b3d66e7535a9f8b9d6805",
+    "decompressed_sha256": "f4557cc32a4df7d70e34d5ff9a81cb1565bd84878868d7be3a50f6d601bbb906",
+    "bytes": 2902
+  },
+  "finish_f362.py": {
+    "path": "reports/reproducibility/20261021-vlasov-maxwell/finish_f362.py.gz",
+    "gzip_sha256": "707552a3f2db0907e7afa7901f843b544674c97ba3fcc2be5d1ed5d565e3fc31",
+    "decompressed_sha256": "c131b9689cc8c5f923474b262930147425a6ff6d9a7ee2f2ec2274055e71262c",
+    "bytes": 11983
+  }
+}

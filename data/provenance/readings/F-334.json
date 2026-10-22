@@ -1,0 +1,441 @@
+{
+  "family_id": "F-334",
+  "work_package": "WP-066",
+  "generation_id": "GEN-20261021-062",
+  "recorded_at": "2026-10-21T01:48:47.953635+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/figures/accumulation.tex": {
+      "sha256": "8df6d99fec8d2c7603b0690c7742d39fbe0147c3ea7ce31ecbf22c39e3507b92",
+      "total_lines": 41,
+      "read_ranges": [
+        [
+          1,
+          41
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/figures/cap.tex": {
+      "sha256": "688dc2c7757e7b820893f71fead2130a0149364298a2c63ddb26ea4e9b671764",
+      "total_lines": 35,
+      "read_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/figures/geometry.tex": {
+      "sha256": "16ebbcee51a444752f700dce12e283dd061dc3ac491bcb789be447f5e3b4be08",
+      "total_lines": 37,
+      "read_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/figures/pulse.tex": {
+      "sha256": "7e31ce773f1b94467d4409066d4735483577bf6d54c1441073dada60a2d8654b",
+      "total_lines": 30,
+      "read_ranges": [
+        [
+          1,
+          30
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/main.tex": {
+      "sha256": "372f484251b2f882a0f8ad40b2a6639bcb48339981161152bf153137fd1d988c",
+      "total_lines": 228,
+      "read_ranges": [
+        [
+          1,
+          228
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/sections/assembly.tex": {
+      "sha256": "635bb9ed8776c0791598f9d91044a99dcab86d63ca4e1bfc47a5d312f72d49b1",
+      "total_lines": 289,
+      "read_ranges": [
+        [
+          1,
+          289
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/sections/caps.tex": {
+      "sha256": "ba0ca6a4b402fc95f3392b35c03a87a5dc699728d90b203f84b80a9eb9d15d98",
+      "total_lines": 484,
+      "read_ranges": [
+        [
+          1,
+          484
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/sections/model.tex": {
+      "sha256": "45c58075c64aa308602aa310610a5e40f779f7c1045cf122f3a4cb746256f7e4",
+      "total_lines": 105,
+      "read_ranges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/sections/pulse.tex": {
+      "sha256": "3ac6df307d869e67643235e879456a078a54f4d8190ddbb5977510f808a399ec",
+      "total_lines": 406,
+      "read_ranges": [
+        [
+          1,
+          406
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 9,
+  "source_tex_lines": 1655,
+  "additional_bibliography": {
+    "path": "math/preprints/A-Smooth-Metric-with-No-Local-Isometric-Immersion-into-Three-Space-September-24-2026/build/references.bib",
+    "sha256": "51ff34e06b44919de446424fe0deb7aab5999bb25134e0e6c4a80260edd1ade3",
+    "lines": 195,
+    "fully_read": true
+  },
+  "formal_selected": {
+    "math/lean/OAI/Geometry/IsometricImmersion/Main.lean": {
+      "sha256": "b7e4988946b3d333e3179cf2ed87b7a58bad14da97b9bf9c69bd7239fd2b7fdf",
+      "read_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/IsometricImmersion/Metric.lean": {
+      "sha256": "aff5a0a9bd11d24b6ae903958e25ed07f0c2aff8d97c6fc310c59a12ef7b897a",
+      "read_ranges": [
+        [
+          1,
+          75
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/IsometricImmersion/LocalDomains.lean": {
+      "sha256": "ab7af3a29add5296715775e8365120600480beafdf5a8db0ce22bc4415da9987",
+      "read_ranges": [
+        [
+          1,
+          145
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/Geometry/IsometricImmersion/CoordinateMain.lean": {
+      "sha256": "b358488937b695e5d72c81aa83613c21aad50f47bbe674d2f875e242697b2c2a",
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Geometry/IsometricImmersion/Assembly/FinalMetric.lean": {
+      "sha256": "fd88ba4ecde45ed63124e213371380f62c13782a51eac90c53513900ac28611f",
+      "read_ranges": [
+        [
+          1,
+          35
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/docs/334.md": {
+      "sha256": "9ff03fdfa2f5d950f16ac10516619e25c129a434f913a048be61f8e39d183ef9",
+      "read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/IsometricImmersion.json": {
+      "sha256": "51a377beae00c13be5c32c04dd2ce153eec24a3789fa7851475c852eb59ed646",
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/IsometricImmersion.lean": {
+      "sha256": "d4763aecca7bbf58b8e16e3e1ca919bff2ad6bc9f610a03641c8361c9319cfa9",
+      "read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-334-lean-index.json.gz",
+    "sha256": "16e34b661b04a927640ee2a92317dde89bc0f9c5f1e9bf7866264193b810887f",
+    "local_files": 446,
+    "declarations": 3509,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "NY2002",
+      "url": "https://arxiv.org/html/math/0208127v1",
+      "scope": "v1 2002-08-16;rendered20-52 and330-344,Theorems1.1/1.2 andboundaryStep3only;notwholeproof",
+      "summary": "PreprintstatessmoothK<=0/noC3localembedding (andstrongernegativeofforiginvariant),olderthanF334. BoundarysaddleStep3isreusedmethod. Laterpublished2008statedsmoothquestionstillopen;statusdiscrepancyunresolved,nofoundwithdrawalorformalerroraudit."
+    },
+    {
+      "key": "NY2008",
+      "url": "https://sites.math.washington.edu/~yuan/papers/2008CVPDE.pdf",
+      "scope": "Published2008DOI10.1007/s00526-007-0140-7;PDFtextp319-320 lines0-63 andconstruction65-87selected;webscreenshotonlytextcitation,nopixelsconfirmed",
+      "summary": "ActualpublishedTheorem1.1C2,1input/K>=0noC2localembedding,notCinfinput. Introductionp320explicitarbitraryCinfmetricquestionopen andfiniteksolutionsonneighborhoodr_kdistinguished. Noclaimthispaperwithdraws2002orprovesitfalse."
+    },
+    {
+      "key": "Khuri2009",
+      "url": "https://www.math.stonybrook.edu/~khuri/Khuri_AIMS_Darboux.pdf",
+      "scope": "Original2009pp451-453 PDFtext0-146 selectedintroduction,Theorem1/discussion andcurvatureODE;notwholeproof/appendix/pixels",
+      "summary": "ReduceshypotheticC5Darbouxsolutiontolocallinearutt+Kuss=Kfwithf>0dependingonsolution;requirednonsolvablecurvatureprofilestillopenhere. OldsmallcurvatureODEg=dX²+G²dY². GeneralMongeAmperenonsolvabilitynotautomaticallyactualmetricDarbouxobstruction."
+    }
+  ],
+  "result_notes": {
+    "manual-theorem-a": "UNLABELLED main maintheorem:there exists Cinfpositive-definite metric on(-1,1)^2 with NO CinfisometricIMMERSION intoR3 on ANY openoriginneighborhood. Localimmersion givesembeddingafterrestriction. No completeness/topologyassumptions. Not C1/Ck/approximation/fixedmesh impossibility;constructionmixedcurvaturesigns,notK>=0orK<=0resolution.",
+    "lem:height": "For actualsmoothisometricimmersion and fixedambientunit e,z=<F,e> obeysdetcovHessian=Kdetg(1-|dz|g²). Atb withambientnormal e,dz0,H=II. Necessary identity used;no automaticconversereconstruction orall admissibilityinequalitiesforallheightdirections.",
+    "prop:patch": "ModelS[-3,3]^2,g0curvaturekappa(x²-h(y)),perturbationssupportP[-.1,.1]² preserveK<-kappa/2on[-.2,.2]². ResidualmetricsinFrechetopenU have NO height smoothnearWHOLEclosedS satisfyingDarboux,E>0,Hyy!=0,|Hxy/Hyy|<=.01. Notnonsolvabilityonallpointneighborhoods;patchzeroesallcleansignchange.",
+    "prop:cap": "UniformC8g/zboundM,positiveg/Hyy/E lowerc,fixedkappa/h;onimagesofcompactrectangles inlower/upper solution-dependentflowcaps,allordinarymetricderivatives uniformlybounded impliesallordinaryheightderivativesbounded. No highboundarydataatfreeedge;constantsorderdependent,notuniformaskappa->0.",
+    "lem:drift": "D=dx-qdy,G=E/Hyy²,a=KG. CurvaturecommutationgivesDq-Pzx*q-Pzy=KyG+O(K) underlowbounds;O(K) boundedcoefficients. Essentialextratransversedrift,notgeneralmetric-freeidentity.",
+    "lem:high-equation": "l>=8,ordinaryL2heightderivativesuptol controlled andallmetricorders: u=dy^lz in flowcoords solvesutt+Auss+But+Cus=Rl withL2boundedRl,A=G1K,C=(l+1)As+Ol(A). DifferentiateBEFOREflowchart toavoidhighchartbounds;factor(l+1)commutator+ldifferentiations.",
+    "lem:gradient": "Modelgeometry/lowlinearcoefficients/l>=8,compactR0cap haslargerR1 with ||gradu||L2<=C(||u||L2+||f||L2). Artificialedgebinside smoothdomain;weighted d8directedmultiplier andpositivecurvatureellipticregion paycutoffloss,nohighderivativedataatb. Small tangentialpart neededKy0;epsilonthenlambda thenc1.",
+    "lem:propagation": "Assumedboundedheightclass/contradictionsequenceg_tauapproximatespulsemetrics inCtau<=tau^-tau;capcuts theta=±r. HyperbolicmovingintervalenergygivesallTANGENTIALderivatives ofz,ztheta at theta=±delta/tau on|xi|<=Lr/2,uniformforfixedorder/fixeddelta. Not numericalPDEalgorithm oruniformallorderssingleconstant.",
+    "lem:prescribe": "SmoothK0on(-1,1)^2,||K0||inf<=.001;solvefXX=-K0f,f0=1,fX0=0. gbar=dX²+f²dY²smoothpositiveuniformlybounded withK=K0 evenYdependent. OldODEconstruction;not source-newapplicationgain.",
+    "lem:disk": "SmoothmetricnearCLOSEDdisk,K<0inside,K0boundary,actualimmersiongraphoverplane. II nonzero atSOMEboundarypoint,rank1byGauss. IfIIzeroentireboundary,subtractaffinegraph,negativeHessiandeterminantcontradictsinteriorextremum. Oldboundarysaddleargument;notglobalnonexistencebyitself.",
+    "cor:flat-jet": "Samecounterexamplecanhaveeverymultiindexderivative(gij-deltaij)(0)=0. Individualbumpsvanishnearorigin andeachderivativeseriesuniformlyconverges;ODEforcesallf-1jetszero. Euclideangermadmitssmoothplaneimmersionbutcounterexampledoesnotinanyoriginneighborhood. FormalMainaloneNOTauditedasproofcorollary."
+  },
+  "method_contracts": [
+    {
+      "key": "REGULARITY",
+      "title": "输入与输出正则性边界",
+      "input": "Cinfpositivemetric,infinitecontinuum,ambientR3",
+      "output": "No Cinfexactisometricimmersiononanyoriginneighborhood",
+      "cannot_transfer": "NotC1/noCkforfixedk/finiteapprox/energyoptimizerfailure.",
+      "source_labels": [
+        "manual-theorem-a"
+      ]
+    },
+    {
+      "key": "CURVATURE-SIGN",
+      "title": "正定与曲率符号分开",
+      "input": "Metricpositive-definite;constructionnegativepatchandpositiveexterior",
+      "output": "MixedtypeDarbouxobstruction",
+      "cannot_transfer": "Notcurvaturepositive/nonsignchangingproblem;analyticinputclass notcovered.",
+      "source_labels": [
+        "manual-theorem-a",
+        "prop:patch"
+      ]
+    },
+    {
+      "key": "NECESSARY-HEIGHT",
+      "title": "固定法向高度的必要方程",
+      "input": "Actualsmoothimmersion,fixedambientunitnormalatb",
+      "output": "DarbouxdetH=Kdetg(1-|dz|²),dz(b)0,H(b)=II",
+      "cannot_transfer": "No genericMongeAmperecounterexamplewithoutmetriccoefficientcompatibility.",
+      "source_labels": [
+        "lem:height"
+      ]
+    },
+    {
+      "key": "WHOLE-PATCH",
+      "title": "整方形与点态局部的量词",
+      "input": "HeightnearclosedS,E>0,Hyy!=0,smallmixedratio",
+      "output": "ResidualsupportedmetricperturbationswithoutWHOLEpatchadmissibleheight",
+      "cannot_transfer": "Everycurvaturezeroisclean;doesnotcontradictlocalexistencearoundeachpoint.",
+      "source_labels": [
+        "prop:patch"
+      ]
+    },
+    {
+      "key": "FLOW-COORDINATES",
+      "title": "先微分后取流坐标",
+      "input": "C8lowbounds,|q|<=.01,D=dx-qdy",
+      "output": "Chartsboundedloworders,ordinarySobolevballmargins andD=dt",
+      "cannot_transfer": "No useuncontrolledhighchartderivatives;chartdependsonsolution.",
+      "source_labels": [
+        "prop:cap",
+        "lem:high-equation"
+      ]
+    },
+    {
+      "key": "CURVATURE-DRIFT",
+      "title": "曲率交换子提供的漂移",
+      "input": "ActualcovHessian,givenmodel,lowboundnondegeneracy",
+      "output": "C=(l+1)As+Ol(A) afterordinarydifferentiation",
+      "cannot_transfer": "Droppingthecommutatororusingl insteadofl+1changescoercivity.",
+      "source_labels": [
+        "lem:drift",
+        "lem:high-equation"
+      ]
+    },
+    {
+      "key": "FREE-EDGE-ESTIMATE",
+      "title": "人工边界无高阶数据的帽估计",
+      "input": "Model3positivecurvatureedges,artificialfourthinside smoothdomain",
+      "output": "GainoneL2derivativeusingd8directedandd7ellipticweights",
+      "cannot_transfer": "Notgeneralboundaryvalueestimate;epsilonthenlambda thenc1;notuniformkappa0.",
+      "source_labels": [
+        "lem:gradient",
+        "prop:cap"
+      ]
+    },
+    {
+      "key": "HYPERBOLIC-CUTS",
+      "title": "两侧帽数据的双向传播",
+      "input": "Uniformlowheightclass;negativecurvatureslab,speedbound",
+      "output": "Allspatialorderdataatthinstripedges",
+      "cannot_transfer": "Movingintervals/positiveS andfixedspatialmarginsneeded;nofreegenericmixedPDEsolver.",
+      "source_labels": [
+        "lem:propagation"
+      ]
+    },
+    {
+      "key": "PULSE-ORDER",
+      "title": "有限半范数扰动与参数顺序",
+      "input": "FixedM,q0/openO,N>maxfiniteorders and10,metricpulse tau^-N",
+      "output": "Forcingmomentlinearindelta dominatesquadraticdeltaerrors as tau→infty",
+      "cannot_transfer": "Fixdeltaafterleadingconstants thenfrequency;testmetricsnotCinfconvergent,onlyfiniteseminorms.",
+      "source_labels": [
+        "prop:patch",
+        "lem:propagation"
+      ]
+    },
+    {
+      "key": "TAYLOR-COMPARISON",
+      "title": "有限时间Taylor比较而非精确解",
+      "input": "Allspatialdataatloweredge,fixedgstar,denominatorseparated",
+      "output": "TimepolynomialdegreeN+1residualO(tau^-N),zero-datawenergy",
+      "cannot_transfer": "ComparisonneednotexactPDEsolution;meanargumentsegmentsnotactualsolutionsbutmustremainhyperbolic.",
+      "source_labels": [
+        "prop:patch"
+      ]
+    },
+    {
+      "key": "BAIRE-SELECTION",
+      "title": "Baire排除所有有界高度类",
+      "input": "FrechetopenU,Baire;countableM/rationalq0coverssmoothheights",
+      "output": "Eachboundedclassnowheredense,residualnoadmissibleheight",
+      "cannot_transfer": "Existenceselectionnotpracticalmetricoracle/effectivefiniteconstructor.",
+      "source_labels": [
+        "prop:patch"
+      ]
+    },
+    {
+      "key": "OLD-CURVATURE-ODE",
+      "title": "小曲率的旧ODE实现",
+      "input": "SmoothKsup<=.001",
+      "output": "fXX=-Kf yieldspositivegbar andchosenK",
+      "cannot_transfer": "OldKhuri2009methodalready;noCinfglobalobstructionfromODEalone.",
+      "source_labels": [
+        "lem:prescribe"
+      ]
+    },
+    {
+      "key": "DOUBLE-ACCUMULATION",
+      "title": "两层累积与缩放成本",
+      "input": "Disks2^-j->0;patchesallboundarypoints/allfiniteorientations",
+      "output": "Smoothpositivemetricwithlocalno-heightpatches",
+      "cannot_transfer": "Pushforwardlambda^(-m-2)costpaidperpatch;m<=n2^-ntail,notoneuniversalallordersbound.",
+      "source_labels": [
+        "manual-theorem-a",
+        "prop:patch",
+        "lem:prescribe"
+      ]
+    },
+    {
+      "key": "BOUNDARY-SADDLE",
+      "title": "边界鞍面与有限方向网",
+      "input": "Actualgraphnearclosednegativedisk,zeroKboundary",
+      "output": "NonzerorankoneII,choosefixednormal/kernelnearorientation,fitENTIREpatch",
+      "cannot_transfer": "Oldsaddlealoneinsufficient;no predeterminedpositiveHessianseparationuniformoverpatches.",
+      "source_labels": [
+        "lem:disk",
+        "lem:height"
+      ]
+    },
+    {
+      "key": "FLAT-JET",
+      "title": "同一完整Taylor喷流的不同可实现性",
+      "input": "CinfEuclideanjetatbasepoint,flataccumulatingperturbations",
+      "output": "JetalonecannotdeterminesmoothlocalR3realizability",
+      "cannot_transfer": "Notanalyticcategory,notapproximationlowerboundorfinitegridcounterexample.",
+      "source_labels": [
+        "cor:flat-jet"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "实际光滑精确实现承诺前提",
+      "input": "Actualworkflowclaims exactCinfR3localisometryfrommetricgerm/basepointjet",
+      "output": "Explicitconsumerandregularity/quantifiercontract",
+      "cannot_transfer": "prerequisite_status=unestablished;noactualgeometryAPI examined.",
+      "source_labels": [
+        "manual-theorem-a",
+        "cor:flat-jet"
+      ]
+    },
+    {
+      "key": "CONSTRUCTOR-GATE",
+      "title": "可输入见证与强旧判据前提",
+      "input": "Resourceadmittedactualcounterexamplegerm,certifiedcontinuumjudge,strongoldbaseline",
+      "output": "Frozenapplicationtestbeforeoutput",
+      "cannot_transfer": "prerequisite_status=unestablished;Bairemetricnotextracted,no finiteexacttestprotocol.",
+      "source_labels": [
+        "prop:patch",
+        "manual-theorem-a"
+      ]
+    }
+  ],
+  "notes": [
+    "TheoremA unlabelled maintheorem:oneCinfpositive metricon(-1,1)^2,noCinfisometricimmersion onANYoriginneighborhood intoR3. Locallyimmersion->embeddingaftershrink. AllEuclideanTaylorjet same viaflataccumulation,notanalytic. MixedK signs;notK>=0or<=0resolution,notC1/Ck/approximateimpossibility.",
+    "WholeS[-3,3]^2 admissibleheight requiresDarboux,E>0,Hyy nonzero,|Hxy/Hyy|<=.01;notnonsolvabilityatEVERYpatchpoint. Allpatchzeroscleansignchange,compatiblelocalexistence. Necessaryheightidentityonly;notconversereconstruction.",
+    "C8uniformg/zbounds,metric/Hyy/E lowerc,capskappa/hfixed,allordersg onsolution-dependentflowcharts. Nouniformconstantsaspatchkappagoesto0. Differentiatingordinarycoordsbeforechartavoidsuncontrolledhighchartderivatives. Drift(l+1)Asrequirescurvaturecommutatorplusl copies.",
+    "Freeartificialcapedge:weightd8exp(-lambda*s+I),smallt-directedpart needed whereKy0;epsilon thenlambda thenc1 order. SplitK<=c1d directedvsK>=c1d ellipticweightd7,p8integrability;nohighboundarydataatfreeedge. Nestedcutoffs/coordinateballs uniformoverfamily.",
+    "PulseBaireproofclassM,q0 coversallsmoothadmissibleheights;assumedclosureinteriorapproximates testmetric inCtau<=tau^-tau. Testmetrics convergefiniteC8/seminormsnotCinf;N>10>finiteopenneighborhoodorders. perturbta^-Nchi cos(tauxi)phi(tau theta/delta)dtheta².",
+    "Cap+hyperbolic movingintervalenergy givesallspatialderivdataontwopulseedges. PolynomialtimeTaylorcomparison N+1forfixedg*,notexistenceofexactcomparisonPDEsolution;meanlinearizationsegmentsnotsolutionsbutlowC8closenesspreserveshyperbolicity/denominator.",
+    "Metriccurvatureforcingprincipal -1/2partial_xi²gthetatheta:amplitudetau^(2-N);integratedone-signmoment>=c3delta tau^(1-N),competitors<=C3delta²tau^(1-N),smoothendpoints littleo. Leadingconstants independentfixedsmalldelta;fixdelta thenfrequency→infty,notjointretunedlimit.",
+    "AssembleprescribedcurvatureviaOLD fXX=-Kf,f0=1,fX0=0,|K|<=.001,metricdX²+f²dY². Infinitepatchesoutsideeachnegativedisk approachEVERYboundarypointforeveryfiniteorientationnet;disks2^-japproachorigin.",
+    "SmoothsumtailCmbounds2^-n form<=n,pushforwardtensorcostlambda^(-m-2)paidperpatch. Noeffectivelowerboundkappan/lambdan,Hessianseparations;Bairechoicenotpracticalenumeratedmetric. Boundarydiskgraphsaddleoldlemma givesnonzerorankoneIIatboundary;choosefixedambientnormal/rotatedkernelnet tofitentirepatch inequalities.",
+    "NY2002preprintclaimsstrongersmoothK<=0noC3;NY2008publishedC2,1/K>=0noC2andexplicitarbitrarysmoothquestionopen;conflictingstatusnotresolved,notformalwithdrawalorD. Reuseoldboundarysaddleonly,notpreprintnonsolvabilityasdependency. Khuri2009selectedreduction+prescribedODEleavesnonlinearobstructionprofileopen.",
+    "All4figuresschematicsnotgeometrydata;no mesh/simulation/experiment. Mainmanualunlabelledstatementmustseparatefrom10namedbindings."
+  ],
+  "formal_status": "ActualMain49-60,Metric,LocalDomains1-145,CoordinateMain,FinalMetric andComparatorselected;mainlocalB,nohuman/build. Fulljetcorollary/intermediateproofsnotcoveredbyMainselection,remainC;446file3509declstaticindexnotproof/build.",
+  "remaining": [
+    "14otherexternaloriginalroots andrecursivehistoryunread;NY2002/2008statusdiscrepancyunresolved.",
+    "446file3509declarationindexnotwholeproofread/build/Comparator;flatjetcorollaryformalcorrespondencenotaudited;nohuman/provider.",
+    "Noactualconsumer,CinfBairemetricexecutableoracle,resourceadmittedapplicationornewrun."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false
+}

@@ -1,0 +1,107 @@
+{
+  "recorded_at": "2026-10-21T07:50:50.667574+00:00",
+  "helper_gzip_bytes": 30562,
+  "helper_uncompressed_bytes": 115304,
+  "helper_members": 18,
+  "all_member_roundtrips_and_hashes_verified": true,
+  "helper_files": [
+    {
+      "name": "archive-integrity.log",
+      "bytes": 110,
+      "sha256": "7c07426d1b28a44da10d371429a396d63e213e84b4a16641a338f3dd107826cd"
+    },
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1356,
+      "sha256": "5d8d39eb61b01a01552f80554591041aa269e64ec2e5948244f8911f5efc530f"
+    },
+    {
+      "name": "core-after-structured-contracts.log",
+      "bytes": 10245,
+      "sha256": "3b8ab289605e7327f6c3e4768478131ad19554815172d0e8b5c32dc3fd36655c"
+    },
+    {
+      "name": "core-final.log",
+      "bytes": 10245,
+      "sha256": "ea52328b52f02a2657bbe4a1d04bb2af468c32f43a5c3cf8f17125586f3836d2"
+    },
+    {
+      "name": "core-first-audit-failure.log",
+      "bytes": 11036,
+      "sha256": "b2a3aa1b93142412a018721e791e03e5b7b2c9d5ba3309408d7f4f5fbb460ea9"
+    },
+    {
+      "name": "core.log",
+      "bytes": 10245,
+      "sha256": "48b17a884b2fba07e76e48fd1571e1623d17b159a107f0e5e19c65039630e36a"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 32773,
+      "sha256": "1a2eef1a406b34df50917b836915e6c7a576cc7ff107c5b32d174cfbecdf0af3"
+    },
+    {
+      "name": "export.log",
+      "bytes": 543,
+      "sha256": "f97de98c7dad15654dba335213c5efaa5d3c8fca632e4489e3107878626295eb"
+    },
+    {
+      "name": "finish.py",
+      "bytes": 14471,
+      "sha256": "53fe8e97ee9f28e6698a8f772d7c0aa900679d9576370df22cf87aee515d0676"
+    },
+    {
+      "name": "fix-gate-navigation.py",
+      "bytes": 1741,
+      "sha256": "75816cdc0b295ece22874a856ae6b46dc07c73fb1856d766c3e3889e88c8e510"
+    },
+    {
+      "name": "fix-relation.py",
+      "bytes": 1897,
+      "sha256": "92f343b2aabed82f79bd1421dd2d4d58928278ebaac0ff3d0617c3be041a6590"
+    },
+    {
+      "name": "integrity-first-navigation-failure.log",
+      "bytes": 447,
+      "sha256": "857e6998fdabe3d4e2b9e679c55cb50d79312e93da01551d1df1b6401c287a5e"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 724,
+      "sha256": "2387ed80bd15c129221080621a6cde16e2ffba206fbd3e81c77a959076526a1b"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 5993,
+      "sha256": "5e7b9b5485f8424ba2bd6862a987408ac4efae5c6d99788836ecc878e82630ef"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "c6a32cfaf66e0b08eec8aab1806dcfc6bcac4257d0085495028868cbd50cacd1"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3000,
+      "sha256": "31b5c630fcb81a246ced7bc08eba0de115395674d033e16662f90249b2c919d1"
+    },
+    {
+      "name": "read-index.py",
+      "bytes": 801,
+      "sha256": "b77b05651d0ae6253116b7ecb286caa8bebb25f92e48dc18c0dec9038e40b6d7"
+    },
+    {
+      "name": "structure-contracts.py",
+      "bytes": 5682,
+      "sha256": "257714138ef6a48a6cb417c7bf65049232a76720a0c07888487d12a083bc5795"
+    }
+  ],
+  "temporary_bytes_removed": 2003801,
+  "external_primary_and_mechanical_text_bytes_removed": 1843465,
+  "borrowed_helpers_bytes_removed": 48944,
+  "borrowed_helpers_already_in": "reports/reproducibility/20261021-fusf-operators/{helpers,locator-correction-helpers}.json.gz",
+  "numerical_data_generated": false,
+  "old_numerical_archives_verified": 14,
+  "dependencies_installed": false,
+  "temporary_directory_removed": true
+}

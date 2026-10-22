@@ -1,0 +1,155 @@
+{
+  "work_package": "WP-038",
+  "status": "sources_and_protocol_frozen_witness_not_run",
+  "recorded_at": "2026-10-20T19:26:09.099442+00:00",
+  "source_archive": "data/provenance/demand/table-flow-interfaces-20261021.json.gz",
+  "source_archive_sha256": "155a501310f7cf8422b617f22c2f6aea63afb09daec2a8fe31f7de02edf5696a",
+  "sources": {
+    "scipy/scipy/stats/_multivariate.py": {
+      "url": "https://raw.githubusercontent.com/scipy/scipy/54ef5423f2e4376230ec3bfda6912a07a50958e3/scipy/stats/_multivariate.py",
+      "revision": "54ef5423f2e4376230ec3bfda6912a07a50958e3",
+      "sha256": "9c4073ff8ed8d46628552431a0928be062d1e1c89203c2d7d0cbb17d5a7c202c",
+      "bytes": 274024,
+      "read_scope": "Selected6103-6490 random_table generator/frozen;remaining source classes not read"
+    },
+    "scipy/LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/scipy/scipy/54ef5423f2e4376230ec3bfda6912a07a50958e3/LICENSE.txt",
+      "revision": "54ef5423f2e4376230ec3bfda6912a07a50958e3",
+      "sha256": "221e59f5e910fd7f94e44f0dac77436a11338c285c6346232e4a850a50da0e94",
+      "bytes": 1531,
+      "read_scope": "Whole BSD3Clause license read"
+    },
+    "scipy/scipy/stats/_rcont/rcont.pyx": {
+      "url": "https://raw.githubusercontent.com/scipy/scipy/54ef5423f2e4376230ec3bfda6912a07a50958e3/scipy/stats/_rcont/rcont.pyx",
+      "revision": "54ef5423f2e4376230ec3bfda6912a07a50958e3",
+      "sha256": "24e515a2f7e38d17490559fc8f900cb4ecf7fa277859893f268159d5591fae61",
+      "bytes": 2549,
+      "read_scope": "Whole Cython interface read;int64 buffers,allocation,random capsule dispatch"
+    },
+    "scipy/scipy/stats/_rcont/_rcont.c": {
+      "url": "https://raw.githubusercontent.com/scipy/scipy/54ef5423f2e4376230ec3bfda6912a07a50958e3/scipy/stats/_rcont/_rcont.c",
+      "revision": "54ef5423f2e4376230ec3bfda6912a07a50958e3",
+      "sha256": "3c5130373b057ae55c30f0d7a1f01490fd64909488d29aa517cd261f24e0083c",
+      "bytes": 6164,
+      "read_scope": "Whole215line C algorithms read;not compiled or run;numeric RNG helpers outside scope"
+    },
+    "scipy/scipy/stats/_rcont/_rcont.h": {
+      "url": "https://raw.githubusercontent.com/scipy/scipy/54ef5423f2e4376230ec3bfda6912a07a50958e3/scipy/stats/_rcont/_rcont.h",
+      "revision": "54ef5423f2e4376230ec3bfda6912a07a50958e3",
+      "sha256": "b0bad1bb4c3f5692735ece5f0d30e00972475ecc73ad07f87afcf129502146c5",
+      "bytes": 429,
+      "read_scope": "Whole C header read"
+    },
+    "networkx/networkx/algorithms/flow/mincost.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/flow/mincost.py",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "1b33182274b841c35ed322261ab5572746d177bb794d248c6bd8d279e9c8a0e9",
+      "bytes": 12853,
+      "read_scope": "Selected98-218 complete min_cost_flow wrapper and beginning next function;other wrappers not read"
+    },
+    "networkx/networkx/algorithms/flow/networksimplex.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/flow/networksimplex.py",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "e85d49353d6930432df82dbb1f73ec759605fb9dd2ac932b1da6a443ca43ecd8",
+      "bytes": 25098,
+      "read_scope": "Selected329-662 complete network_simplex public routine;earlier helperclass not fully read"
+    },
+    "networkx/LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/LICENSE.txt",
+      "revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e",
+      "bytes": 1763,
+      "read_scope": "Whole BSD3Clause license reused from verified previous archive;not redownloaded",
+      "reused_archive": "data/provenance/demand/networkx-3.7-49ca2290.json.gz"
+    }
+  },
+  "source_versions": {
+    "scipy": {
+      "tag": "v1.18.0",
+      "tag_object": "7adb8c972443f664b9395a0e6e8e0283e9b4faff",
+      "commit": "54ef5423f2e4376230ec3bfda6912a07a50958e3",
+      "tag_date": "2026-06-19T03:02:08Z",
+      "resolution": "OfficialGitHubref and annotatedtagobject;personal contact metadata not retained"
+    },
+    "networkx": {
+      "tag": "networkx-3.7",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "reused_version_evidence": "data/provenance/demand/F-131-networkx-actual-interfaces.json"
+    }
+  },
+  "selected_contracts": {
+    "scipy_random_table": "Ideal logpmf=sumlogfactorial(row)+sumlogfactorial(col)-logfactorial(total)-sumlogfactorial(cells);thus factorially weighted independent-sample conditional tablelaw,not uniform integer matrices. Params/output np.int64;Patefieldusesdouble arithmetic/RNG,not arbitrary binary/fairbitmachine proof. No scalar cap or structural-zero parameter observed.",
+    "networkx_min_cost_flow": "Returns network_simplex(...)[1],one minimum-cost feasibleflow. Demand is inflow-outflow,opposite F115 beta outflow-inflow. Missing capacity defaults infinity,whereas countcorollaryrequires finitebounds. Objectiveweights and optimum output not all-feasible uniformlaw/count. Integer-rescaling workaround preserves optimization differently from countunits;not automatically legitimate for configurationcounts."
+  },
+  "manual_observations": [
+    {
+      "url": "https://stat.ethz.ch/R-manual/R-devel/library/stats/html/r2dtable.html",
+      "content_checked": true,
+      "locator": "Package stats version4.6.0 developmentmanual;Description and FisherTeaTasting example",
+      "scope": "Patefield sampler;historical documentation table[[3,1],[1,3]] with row/coltotals4 and simulated maximumPearsonresidual test. The example is a calibrationfixture,not a current production workload.",
+      "byte_identity": "notretained;unversioneddevelopmentmanual observedatthisreading,notfixedRrelease or implementation"
+    }
+  ],
+  "unread_originals": [
+    {
+      "url": "https://projecteuclid.org/journals/annals-of-statistics/volume-24/issue-1/On-uniform-generation-of-two-way-tables-with-fixed-margins/10.1214/aos/1033066199.full",
+      "status": "publisherreturnediframeonly;fulloriginalunread",
+      "scope": "Uniformconditional-volume motivation notverifiedfromthisoriginal;do notinfernolegitimateuniformapplications fromselectedtoolmismatches."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2041889/",
+      "status": "webreturnedbrowserverification;noCAPTCHAsolved;fulloriginalunread"
+    }
+  ],
+  "source_errors": [
+    "InitialunquotedGitHubcontents?refURLcausedzshgloberror beforeSciPyfetch;quotedURLretry succeeded.",
+    "DirectRsourceguessedr2dtable.Rpathwebcachemiss;not used as evidence and no localfile."
+  ],
+  "temporary_downloads": [
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-multivariate.py",
+      "sha256": "9c4073ff8ed8d46628552431a0928be062d1e1c89203c2d7d0cbb17d5a7c202c",
+      "bytes": 274024,
+      "archive_member": "scipy/scipy/stats/_multivariate.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-LICENSE.txt",
+      "sha256": "221e59f5e910fd7f94e44f0dac77436a11338c285c6346232e4a850a50da0e94",
+      "bytes": 1531,
+      "archive_member": "scipy/LICENSE.txt"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont.pyx",
+      "sha256": "24e515a2f7e38d17490559fc8f900cb4ecf7fa277859893f268159d5591fae61",
+      "bytes": 2549,
+      "archive_member": "scipy/scipy/stats/_rcont/rcont.pyx"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont.c",
+      "sha256": "3c5130373b057ae55c30f0d7a1f01490fd64909488d29aa517cd261f24e0083c",
+      "bytes": 6164,
+      "archive_member": "scipy/scipy/stats/_rcont/_rcont.c"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-scipy-rcont.h",
+      "sha256": "b0bad1bb4c3f5692735ece5f0d30e00972475ecc73ad07f87afcf129502146c5",
+      "bytes": 429,
+      "archive_member": "scipy/scipy/stats/_rcont/_rcont.h"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-networkx-mincost.py",
+      "sha256": "1b33182274b841c35ed322261ab5572746d177bb794d248c6bd8d279e9c8a0e9",
+      "bytes": 12853,
+      "archive_member": "networkx/networkx/algorithms/flow/mincost.py"
+    },
+    {
+      "path": "/private/tmp/ai-paper-f115-networkx-networksimplex.py",
+      "sha256": "e85d49353d6930432df82dbb1f73ec759605fb9dd2ac932b1da6a443ca43ecd8",
+      "bytes": 25098,
+      "archive_member": "networkx/networkx/algorithms/flow/networksimplex.py"
+    }
+  ],
+  "new_application_experiment": false,
+  "representative_uniform_flow_count_workload_found": false,
+  "limitations": "Source/interface inspection only;no SciPy,NetworkX orRruntimeexecuted;no finite-error bound onactualfloating sampler established."
+}

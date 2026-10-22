@@ -1,0 +1,12 @@
+{
+  "run_id": "EXP-332-001-b2607a9926c44586",
+  "replay_run_id": "EXP-332-001-b2607a9926c44586",
+  "deterministic_outputs_match": {
+    "raw.json": true,
+    "summary.json": true
+  },
+  "comparison_scope": "All exact inputs,outputs,risks,choices,judges and conclusions; only raw kernel build_seconds and summary runtime clocks/RSS excluded as preregistered",
+  "replay_resource_envelope_met": true,
+  "runtime": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+  "isolation": "temporary directory; standard library; no upstream clone or credentials"
+}

@@ -1,0 +1,6 @@
+{
+  "stage": "Pre-mutationassertion;no canonicalfacts changed",
+  "error": "AssertionError: expected1107actual1108splitlines;dependencies.json13lineswithno finalnewline,wc-l12",
+  "repair": "Useactualsplitlinescounts;all8memberbytesunchanged;no validatorsweakened",
+  "original_script_sha256": "cfff7ae328746fa93fbb42cde500d4eaf07f51965c93cb2bedb8a2940c4dc361"
+}

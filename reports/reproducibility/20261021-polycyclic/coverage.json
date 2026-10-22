@@ -1,0 +1,32 @@
+{
+  "recorded_at": "2026-10-20T16:58:40.631209+00:00",
+  "actually_read_families": 21,
+  "all_subjects": 17,
+  "actually_read_subjects": 17,
+  "counts_by_subject": {
+    "Theoretical computer science": 3,
+    "Convex and metric geometry": 1,
+    "Partial differential equations": 1,
+    "Mathematical physics": 2,
+    "Probability and statistical mechanics": 2,
+    "Dynamical systems and ergodic theory": 1,
+    "Mathematical logic": 1,
+    "Algebra": 1,
+    "Topology": 1,
+    "Combinatorics": 1,
+    "Functional analysis": 1,
+    "Number theory": 1,
+    "Real and complex analysis": 1,
+    "Differential geometry": 1,
+    "Operator algebras": 1,
+    "Algebraic and complex geometry": 1,
+    "Group theory": 1
+  },
+  "unread_subjects": [],
+  "source_drafts": 16,
+  "named_results_full_source_drafts": 436,
+  "full_families": 0,
+  "full_histories": 0,
+  "new_connections": 1,
+  "new_numerical_hypotheses": 0
+}

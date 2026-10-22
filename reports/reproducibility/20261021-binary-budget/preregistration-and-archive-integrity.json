@@ -1,0 +1,19 @@
+{
+  "preregistration_commit": "a4bd5bf",
+  "implementation_commit": "e6eb8cc",
+  "spec_unchanged": true,
+  "run_id": "EXP-119-001-e9d098be0b1dda8f",
+  "outputs": {
+    "raw.json.gz": {
+      "gzip_bytes": 170408,
+      "decompressed_bytes": 655492,
+      "decompressed_sha256": "d79eecd7e2285ac308fa6eca2c4539e89c4140f75b7699c37944c5ed99f7fdf0"
+    },
+    "summary.json.gz": {
+      "gzip_bytes": 408,
+      "decompressed_bytes": 871,
+      "decompressed_sha256": "180688c6ed112dc8710a17df2fe5064da10a085a143f944edffc19bc84fafcab"
+    }
+  },
+  "source_snapshot_members_verified": 24
+}

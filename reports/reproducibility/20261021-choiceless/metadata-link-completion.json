@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-20T23:52:17.840539+00:00",
+  "ids": [
+    "LIT-243-D2910F147F",
+    "LIT-243-BC4D13C77E",
+    "LIT-243-63DACF5FD6",
+    "LIT-243-0CA59A1D7B",
+    "LIT-243-87A7EA6833"
+  ],
+  "prior_archive": "data/graph/history/GEN-20261021-054-before-link-completion.json.gz",
+  "reason": "Five bib entries had URL only inside note field;expose exact existing note URL. No content-verified flag or mathematical fact changed.",
+  "source_body_checks_added": 0,
+  "helper_preparation_failure": "prepare_f243.py initially had else31 syntax typo;parser stopped before any ledger/canonical write;corrected to else 31 and source preparation passed."
+}

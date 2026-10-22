@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/private/tmp/ai-paper-F122/finish_f122.py", line 9, in <module>
+    for name,s in quality['files'].items():assert sha((r/'reports/graph'/name).read_bytes())==s['sha256']
+                                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError

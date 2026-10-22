@@ -1,0 +1,32 @@
+{
+  "prepare_f120.py": {
+    "path": "reports/reproducibility/20261021-exact-matching/prepare_f120.py.gz",
+    "gzip_sha256": "d4a6f90242778b019cf5da726f11ead1945cb9aee7b2037c6055108befd8518d",
+    "decompressed_sha256": "4b7b376a5c0edfc6fc93f0d6a4eefea96912693b33433f62d89f21c957a7e90a",
+    "bytes": 13466
+  },
+  "curate_f120.py": {
+    "path": "reports/reproducibility/20261021-exact-matching/curate_f120.py.gz",
+    "gzip_sha256": "45247bb719d035bf760a785cec82845c71a1407caf8769028e2b2accaeedf63b",
+    "decompressed_sha256": "5f463abd56a62ab849b04978ca12f63b9977ac5ad602a33cf54b8f7743c29e7b",
+    "bytes": 24683
+  },
+  "curate_f120_before_bib_count_fix.py": {
+    "path": "reports/reproducibility/20261021-exact-matching/curate_f120_before_bib_count_fix.py.gz",
+    "gzip_sha256": "0a589967390dcf3555edc7e50303e77899c8203d875f012eeef84d8692f851ff",
+    "decompressed_sha256": "e54355e51e0dd47d6e020e97016ec18755ca0bfeacd16e7cb8fd4b2db9834d72",
+    "bytes": 24683
+  },
+  "quality_f120.py": {
+    "path": "reports/reproducibility/20261021-exact-matching/quality_f120.py.gz",
+    "gzip_sha256": "3bbeb0d4d5d98740b5748c3fa49fc6de2fc4a016c71b70873d0247656a211cfa",
+    "decompressed_sha256": "e5ba8ecdf41c21a81ba71642b2af39354129f1e71940b8ce019df9791b36bdac",
+    "bytes": 2904
+  },
+  "finish_f120.py": {
+    "path": "reports/reproducibility/20261021-exact-matching/finish_f120.py.gz",
+    "gzip_sha256": "13721e63024d0616ccf8ea1b18151904f20f557f48e7584d63cd02f3671443d4",
+    "decompressed_sha256": "c9447d29e3a118f5809580fe429b94cf34c162c674ccf80a49e309ff3bec085c",
+    "bytes": 12772
+  }
+}

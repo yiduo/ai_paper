@@ -1,0 +1,44 @@
+{
+  "recorded_at": "2026-10-21T00:35:20.656802+00:00",
+  "all_2467_prior_nodes_byte_unchanged": true,
+  "all_prior_explicit_edges_byte_unchanged": true,
+  "new_canonical_nodes": 88,
+  "new_qualified_f142_results": 30,
+  "partial_companion_statement": 1,
+  "source_contracts": 21,
+  "natural_source_files_verified": 13,
+  "natural_source_lines": 3590,
+  "companion_selected_range": [
+    1,
+    115
+  ],
+  "primary_selected_scopes_verified": 3,
+  "shoup_actual_pixel_pages": 2,
+  "source_drafts_named_bindings": 828,
+  "navigation_consistent": true,
+  "Hecke_node_invalidation": [
+    "CLM-029-HECKE-ZERO-FREE",
+    "CLM-142-ANALYTIC-AUXILIARY",
+    "CLM-142-ANALYTIC-EXPLICIT",
+    "CLM-142-ANALYTIC-HECKE",
+    "CLM-142-THM-FACTORIZATION",
+    "PART-142-DENSE-FACTOR-CONTRACT",
+    "PART-142-HECKE-DEPENDENCY"
+  ],
+  "fiber_invalidation_includes_app_and_norm_solver": true,
+  "unestablished_gate_invalidation": {
+    "PART-142-CONSUMER-PARABOLIC-GATE": [
+      "APP-142-01",
+      "PART-142-CONSUMER-PARABOLIC-GATE"
+    ],
+    "PART-142-RESOURCE-CAP-GATE": [
+      "APP-142-01",
+      "PART-142-RESOURCE-CAP-GATE"
+    ]
+  },
+  "application_chain_grade": "unknown",
+  "new_application_run": false,
+  "numerical_experiment_source_changed": false,
+  "upstream_unchanged_clean": true,
+  "old_replays": "Not repeated:WP05813archives andactual314/076replays recentlypassed;this package changes researchdata/report only,not numerical source."
+}

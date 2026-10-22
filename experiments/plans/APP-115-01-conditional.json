@@ -1,0 +1,28 @@
+{
+  "id": "APP-115-01",
+  "status": "conditional_not_preregistered_not_run",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_generation_id": "GEN-20261021-034",
+  "title": "固定吞吐下有界整数流的配置冗余比例",
+  "problem_id": "PROB-115-FLOW-REDUNDANCY",
+  "domain": "Conditional structural redundancy of finite single-commodity capacity networks",
+  "analogy": "near",
+  "hypothesis": "For a real fixed-throughput nonbinary integer-capacity workload whose configurations are intentionally arc-value vectors,relative count intervals can quantify configuration retention after a specified capacity contraction when maximum throughput alone stays unchanged. Practical usefulness versus strong old methods remains untested and may be zero.",
+  "mapping": "Fix explicit directed graph,integer units,nonnegative capacities,lower bounds0,and source/sinkbalances k,-k. LetFbase be all feasible arc-value vectors,andFshrink impose a fixed subset of smaller caps. Bijection yields Zbase,Zshrink counts;R=Zshrink/Zbase is retained fraction under the explicitly assumed uniform configuration law. Always test feasibility separately;Zshrink0 gives exact0. For positivecounts,two relative-rho countintervals with separatefailure delta/2 give R in[Zhatshrink/Zhatbase*(1-rho)/(1+rho),Zhatshrink/Zhatbase*(1+rho)/(1-rho)]jointly withprobability>=1-delta. This is interval arithmetic on existing countguarantees,not a new theorem or actual failure probability.",
+  "judge": "First pin a genuine public nonbinary fixed-throughput workload and integer units. Verify that arc-value configurations and this redundancy statistic match the actual demand. Before execution freeze bounded implementation/resources,exact count oracle on tractable independently selected subinstances,and strong baseline comparison. Evaluate interval coverage,width,time,memory and usefulness;feasibility/mincut alone cannot judge count ratio. Known small counting QA alone is a component check,not a validated application card.",
+  "baseline": "Exact dynamic programming or lattice-point counting on tractable inputs;CDR large-tight-capacity/fixed-row cases where applicable;JSV/BBV forbinaryspecialcase;existing demand-specific MonteCarlo with independently assessed error. Also compare conventional fixed-throughput feasibility/mincut statistic. Oldmethods may meet allneeds;do not use onlya genericweakbaseline.",
+  "limits": "No actual workload,runnable newcounter,preregistered resource envelope or external check. Source polynomial bounds may make this method impractical. Uniform integer configurations depend on fixed units and are not physical failure probabilities,optimum cost,flow-path decompositions,multicommodity assignments or continuous volumes. Integral-cap rebinning changes the statistic. WP038 inspected fixedSciPy/NetworkX sources:factorialtablelaw and minimum-costflow output do not meet this uniformconfiguration-countcontract;missing finitecapacities and reversed demand sign must be handled. Exactdocumentationwitness does not validate thiscandidate.",
+  "resource_envelope": "No numerical allocation. Public small metadata/source retrieval only until representative demand and bounded protocol exist. Future raw,summary and source payloads gzip with decompressed hashes before removing plaintext.",
+  "external_check": false,
+  "old_methods_may_suffice": true,
+  "version": 2,
+  "previous_plan_sha256": "1dcb781aa851aff270d8eb3a5a7357055103acf78cfcca89a84e0c17a551aa30",
+  "prior_plan_archive": "experiments/plans/history/APP-115-01-before-interface-review.json.gz",
+  "actual_tool_review": {
+    "generation_id": "GEN-20261021-035",
+    "review_id": "CHECK-115-INTERFACE-WITNESS",
+    "scope": "PinnedSciPyfactoriallaw,NetworkXminimumcostflow,publicdocfixtures;no matched actualuniform boundedflowcountdemand established.",
+    "witness_is_application_validation": false,
+    "conclusion": "Keepconditionalcandidate;defercounterimplementationuntillegitimatecounttarget/units and affordableimplementationexist. A publicoptimizationexample is not proof thatitsusers need uniformcounts."
+  }
+}

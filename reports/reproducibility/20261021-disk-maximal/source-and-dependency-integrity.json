@@ -1,0 +1,111 @@
+{
+  "recorded_at": "2026-10-21T04:01:19.861208+00:00",
+  "old_canonical_records_byte_unchanged": 3065,
+  "all_old_explicit_edges_byte_unchanged": true,
+  "new_canonical_records": 68,
+  "new_explicit_edges": 158,
+  "full_nodes": 5401,
+  "full_edges": 13668,
+  "canonical_citations": 5016,
+  "natural_TeX_files_verified": 9,
+  "natural_TeX_lines": 3447,
+  "additional_bibliography_lines": 234,
+  "new_named_bindings": 21,
+  "total_named_source_draft_bindings": 980,
+  "total_manual_unlabelled": 2,
+  "source_contracts": 21,
+  "formal_index_files": 69,
+  "formal_index_declarations": 2725,
+  "selected_primary_scopes": 3,
+  "local_Lean_or_Comparator": false,
+  "alternative_routes_checked": [
+    {
+      "case": "direct_route_only",
+      "changed": [
+        "PART-085-DIRECT-AC-ROUTE"
+      ],
+      "main_requires_review": false,
+      "total_affected": 1,
+      "interpretation": "Reviewroutingonly;unaffectednotverified,affectednotrefuted"
+    },
+    {
+      "case": "old_route_only",
+      "changed": [
+        "PART-085-OLD-AC-ROUTE"
+      ],
+      "main_requires_review": false,
+      "total_affected": 1,
+      "interpretation": "Reviewroutingonly;unaffectednotverified,affectednotrefuted"
+    },
+    {
+      "case": "old_conditional_theorem",
+      "changed": [
+        "LIT-085-8C95333E98"
+      ],
+      "main_requires_review": false,
+      "total_affected": 2,
+      "interpretation": "Reviewroutingonly;unaffectednotverified,affectednotrefuted"
+    },
+    {
+      "case": "both_routes",
+      "changed": [
+        "PART-085-DIRECT-AC-ROUTE",
+        "PART-085-OLD-AC-ROUTE"
+      ],
+      "main_requires_review": true,
+      "total_affected": 6,
+      "interpretation": "Reviewroutingonly;unaffectednotverified,affectednotrefuted"
+    },
+    {
+      "case": "shared_band",
+      "changed": [
+        "CLM-085-PROP-FINITE-BAND"
+      ],
+      "main_requires_review": true,
+      "total_affected": 11,
+      "interpretation": "Reviewroutingonly;unaffectednotverified,affectednotrefuted"
+    },
+    {
+      "case": "direct_main",
+      "changed": [
+        "CLM-085-THM-MAIN"
+      ],
+      "main_requires_review": true,
+      "total_affected": 4,
+      "interpretation": "Reviewroutingonly;unaffectednotverified,affectednotrefuted"
+    }
+  ],
+  "application_gates_not_theorem_premises": true,
+  "crossfamily_context_not_theorem_premise": true,
+  "natural_BV_not_formal_endpoint": true,
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "new_candidate": false,
+  "new_application_run": false,
+  "old_replays": "No numericalcodechanged;WP073all13archives/actual221support325adverse retainednotrepeated.",
+  "metrics": {
+    "nodes": 5401,
+    "research_nodes": 3130,
+    "edges": 13668,
+    "citations_checked": 5008,
+    "candidate_connections": 35,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 43,
+    "source_decomposition_drafts": 37,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

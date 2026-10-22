@@ -1,0 +1,27 @@
+{
+  "id": "APP-243-01",
+  "title": "无序嵌套集合查询执行器的模3一致性能力测试",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-054",
+  "analogy": "near",
+  "input": "Hypothetical actual relational DSL/interpreter whose fixed programs compile into full countingCPT with declared polynomial resource bounds and no observable atom IDs/order/native rank. Finite full8relation charged inputs with exact representation/encoding and independent F3 system judge;actual consumer/programs not selected.",
+  "output": "A capability stress suite comparing actual pure nested-set queries with an explicitly augmented F3-solvability/rank path,under relabeling and matched total resource accounting.",
+  "extra_assumptions": "Actual compiler/semantics/resource closure must establish CPT eligibility. Sparse/lazy encoding must be equivalent to original relations and not reveal generator coordinates or a charge summary. Source eventually-large witness threshold depends on the frozen program and is not supplied as a practical number.",
+  "hypothesis": "On separately frozen resource-admitted paired inputs and fixed eligible programs,the F3-augmented path will match the independent consistency judge on both members,while the unaugmented fixed program fails at least one member of a balanced pair,improving balanced query accuracy by at least25percentage points within the declared common time/memory cap. This finite prediction is NOT guaranteed at any practical L by the eventual theorem.",
+  "judge": "Before outputs freeze actual interpreter/compiler argument,programs,annotation,input scales,fullrelation encoding,independent semantic judgment and all parsing/storage/runtime caps. Crosscheck two independent field3 elimination organizations;for chargedcases also check the exact divergence certificate. Relabel atoms and hide all generator coordinates;zero-cost charge oracle is forbidden. Record cutoff/failure separately from Boolean false. Malformed/empty input edge cases are QA only,not an extra application hypothesis.",
+  "baseline": "Old ordered Gaussian elimination/native F3 backend is already sufficient for Q;old FPC/CFI controls and actual permitted pure-CPT programs are distinct. An unconstrained orderedSQL/Python/GNN comparator is not excluded by this theorem. Do not compare only deliberately weak/count-only query or call the source a new numerical solver.",
+  "limits": "No actual consumer/program/data/new implementation/run. Universal full-CPT nondefinability is not empirically certified by a finite benchmark;unknown program-dependent L and huge atom/block sizes may preclude budget. No generalGNN/SQL lower bound,PT-hardness,workflow speedup or WSC practical sampler inferred. All chain grades unknown;no human/provider review.",
+  "revisit": "Find one actual order-free nested-set query consumer with certifiable CPT semantics and a feasible exact sparse input/judge. If native ordered/rank facilities already solve its task,retain zero incremental readiness and move on rather than run known Gaussian/CFI QA for12thinitial.",
+  "source_labels": [
+    "CPT:thm:main",
+    "CPT:prop:opposite-answers",
+    "CPT:cor:linear-algebraic-logics"
+  ],
+  "part_keys": [
+    "ALL-INPUT-QUERY",
+    "CHARGED-ATOMS",
+    "RANK-QUERY"
+  ],
+  "dedup_key": "F-243|actual order-free nested-set relational DSL|mod3 consistency capability stress versus rank augmentation"
+}

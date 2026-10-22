@@ -1,0 +1,528 @@
+{
+  "family_id": "F-085",
+  "work_package": "WP-075",
+  "generation_id": "GEN-20261021-071",
+  "recorded_at": "2026-10-21T03:58:43.485099+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/appendices/analytic-tools.tex": {
+      "sha256": "85066f0efc80121bbd0b75dc4836e4a21ed1be82bec9b40cfdf1f45309b882f9",
+      "total_lines": 340,
+      "read_ranges": [
+        [
+          1,
+          340
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/figures/tangent-disks.tex": {
+      "sha256": "570d2c1b2d6c48cf538ac6fb5903297beb26bb425bff0ba78a17a378fbec048a",
+      "total_lines": 27,
+      "read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/main.tex": {
+      "sha256": "d70c2704adb47ceed22c7ab045df05c99a75361e27542e100c6c986794316691",
+      "total_lines": 66,
+      "read_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/sections/assembly.tex": {
+      "sha256": "067bcc3c13bb8a83f2333cd4cdab8a7f1acc4d7f9ae138924ba0081a67ff0c72",
+      "total_lines": 312,
+      "read_ranges": [
+        [
+          1,
+          312
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/sections/extension.tex": {
+      "sha256": "15f5b3b8d14b49a9976c9f73c1243e4fa917b98b874e06d9d4300b5ea23ef705",
+      "total_lines": 287,
+      "read_ranges": [
+        [
+          1,
+          287
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/sections/introduction.tex": {
+      "sha256": "a7f7685b4c6173b56bc36d096073b0fbbda57043144cbdbf22ce2a5852588213",
+      "total_lines": 307,
+      "read_ranges": [
+        [
+          1,
+          307
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/sections/labels.tex": {
+      "sha256": "0b1335d38a15453729e09e5d8c2e41713fea11769e3cc6e4226c1c185ca58cc4",
+      "total_lines": 672,
+      "read_ranges": [
+        [
+          1,
+          672
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/sections/local.tex": {
+      "sha256": "05d5b8075772b383cf955b3daccf6adc281a96713549f631116ede6fedfbafe9",
+      "total_lines": 884,
+      "read_ranges": [
+        [
+          1,
+          884
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/sections/prices.tex": {
+      "sha256": "2ce7435c8fcd269920f403de50edaebfb283804956cc7aa5e14f4cf2c47da552",
+      "total_lines": 552,
+      "read_ranges": [
+        [
+          1,
+          552
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/An-Endpoint-Gradient-Bound-for-the-Centered-Disk-Maximal-Operator-September-26-2026/build/references.bib": {
+      "sha256": "b7326437c150c16853b5b2560307b8a71c5974c8b80959a1118130cca7b77222",
+      "total_lines": 234,
+      "read_ranges": [
+        [
+          1,
+          234
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 9,
+  "source_tex_lines": 3447,
+  "additional_bibliography_lines": 234,
+  "formal_selected": {
+    "math/lean/docs/085.md": {
+      "sha256": "bfd5b491fe28ddae031bcb810987322bd0bc331c0e9ed8fed5b9c55db80bb275",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/DiskMaximal.json": {
+      "sha256": "8a0fa89d75ec2dd05b259e3b34908f0f2f981620c00407b1ffc43bb685a7e510",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/SignedFiniteBand.json": {
+      "sha256": "7b103eb07fd637dcfb02923cd4df2e83b88200253e742b746629b1539d6fcec0",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/DiskMaximal.lean": {
+      "sha256": "b86a9fd647b4b8dcff4e4fb95e7d4bba78d0b758c8b0beeb385d8e9f895c8017",
+      "total_lines": 63,
+      "read_ranges": [
+        [
+          1,
+          63
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/SignedFiniteBand.lean": {
+      "sha256": "b3bca8a51f58611e232ed51e4b15829a43d5a7974244a2d73a74ed7468d29488",
+      "total_lines": 54,
+      "read_ranges": [
+        [
+          1,
+          54
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/DiskMaximal/Model.lean": {
+      "sha256": "84caa56106d1f2fddd6093b8b591ffc5ecfaf651863f46beaa006ffcb89c1d3c",
+      "total_lines": 67,
+      "read_ranges": [
+        [
+          1,
+          67
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/DiskMaximal/Main.lean": {
+      "sha256": "459d6fd7150c6d16e94cc3a1e3a0194b4f5cf5203689268de19325096d344e97",
+      "total_lines": 173,
+      "read_ranges": [
+        [
+          1,
+          173
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/Analysis/SignedDisk/Model.lean": {
+      "sha256": "3255ba36012ad82df9eb3ed394239a3cf8d848e6ffbedb017371b35071464047",
+      "total_lines": 442,
+      "read_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/Analysis/SignedDisk/Main.lean": {
+      "sha256": "cbba3da3041f082fa40f1cb3cca9a3fe50fbf4d00d0094e57aa8a5d8c69ef358",
+      "total_lines": 345,
+      "read_ranges": [
+        [
+          210,
+          345
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/Analysis/DiskMaximal/AbsoluteContinuity.lean": {
+      "sha256": "30b6c46b6dd6397972b547fba9474d5cb5d6bcb876600b12ab4ac777339725a5",
+      "total_lines": 528,
+      "read_ranges": [
+        [
+          440,
+          528
+        ]
+      ],
+      "fully_read": false
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-085-lean-index.json.gz",
+    "sha256": "4db04800cf5d888de0a67785159a72de263f506d4aa32be11e8c5b9fc79ffbf5",
+    "bytes": 31900,
+    "local_files": 69,
+    "declarations": 2725,
+    "placeholder_tokens": 0,
+    "axioms": 0,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "Kinnunen1997",
+      "url": "https://math.aalto.fi/~jkkinnun/papers/imj.pdf",
+      "scope": "Author-hosted6PDFpage version,printedinternal1-6,actualrender0-320 all visible;selectedTheorem1.4/proof/Remarks2.2 specificallyrender37-183. Publisher1997vol100117-124 verified separately;not8PDFpages.",
+      "summary": "Old centered all-radius operator already has W1p boundedness for p>1 and component/Euclidean gradient maximal control. The argument uses strong Lp control; it does not supply the endpoint L1 gradient estimate. Fixed-radius and Lipschitz bounds are old baselines."
+    },
+    {
+      "key": "HajlaszOnninen2004",
+      "url": "https://sites.pitt.edu/~hajlasz/OriginalPublications/HajlaszO-OnBoundedness-AnnAcadSciFennMath-29-1994-167-176.pdf",
+      "scope": "Author-hosted10PDFpages,front0-10 andQuestion1/precedingqualification printed169/render88-127,localtheorem printed170/render170-204 selected. URLfilename1994 isnotpublicationyear:actualfrontVol29,2004.",
+      "summary": "Question1 separates the gradient endpoint question from false global W11 mapping: a nonzero bump has nonintegrable maximal tail. The old theorem for p>1 is not an endpoint solution; local-domain and spherical variants have different radius/geometry hypotheses."
+    },
+    {
+      "key": "LahtiWeigt2025",
+      "url": "https://arxiv.org/pdf/2510.01936v1",
+      "scope": "27PDFpages,v1,frontdatedOct3,2025/arXivstampOct2;Theorem1.2 andqualification printed3/render140-178,actualshortproof printed25/render1842-1858 selected. OtherdeepTheorem1.1/4.14proofsnotwholeaudited.",
+      "summary": "Theorem1.2 assumes Mf already belongs locally to BV and finite input variation; absent input jump/Cantor obstructions it upgrades to local Sobolev regularity. For Sobolev input these singular measures vanish. It gives an optional downstream regularity route and does not establish the needed BV bound."
+    }
+  ],
+  "result_notes": {
+    "thm:main": "Real inhomogeneous W11(R2),allpositive REAL radii andcenteredEUCLIDEANdisks,averagesofabsf: Mf locallyW11 andgloballyintegrableEUCLIDEANweakgradient withONEabsolute finiteC. No radial/compactinput restriction;Mf neednotglobalL1. Not boundednessofgradientMAPcontinuity,sharpC,discretegridalgorithm orarbitrarydimension.",
+    "prop:finite-band": "Real SIGNED smoothcompactg,0<a<=b,b/a=2^m,m>=0:allREALradii closedband envelope S_abg hasL1gradient<=C*gradientg,uniforminband/scalecount. m0singleconvolutionseparate. Signedmean-subtractionessential,notpositiveabsolutemaximalinthisstage.",
+    "lem:local": "Smoothrealg,gradientmeasureon10-neighborhoodofunitsquare equalsfinitecone-positive measures pluserrors,ALLcomponentmeasuresdefinedwholeplaneandAC. Errorssizes0<s<=1;subunitpieceswholeplanezerovectormass/supportCs*s. DiscountA=sum s^alpha variation,alpha1/100. Unfavorablecone-localmaxgrad<=CA;bandmax/forcedendpoints andallsmallradiusvalueoscillation<=C(A+positiveS). Coneconditiononlyfirstpart;constantsCs/kappa,notradius count.",
+    "lem:local-balanced": "Atnearbytwo-sidedradiusmaximum,r1..2,delta<=1/4:positivemixtureprobabilityoft^-3 left/rightintervals yieldszeroCOMPLEXfirstmoment. Kernel[0,1],innerdisk1,outer0,LipC/delta,measurablechoice includingbothmoments0. Requiresreal-gradientrotationmoment;notarbitraryvectorfieldmoment.",
+    "lem:local-affine": "TwoBorelkernelsinB(x,3),differenceinshellD,eachzerocomplexmoment:subtractconjugatefirstmoment/(conj(z-x)) tofactor1-conj(y-x)/conj(z-x). Forzinshell withr>=1,delta<=1/4 denominatornonzero;caprho contributionfactor2rho,remotefactor10. ZeroMOMENT isnotzeroTOTALmass.",
+    "lem:shell-concentration": "ArbitraryfinitepositiveBorelS,nu (atomsallowed),U>0,T>=0,0<rho<=1,delta<=rho²/1600:ONEBorelE forallr1..2;nu(shell)>=U andS(INNERdisk)<=T implycapcenterz with(S+nu)(shelloutsidecap)<=2U. AreaE<=C[(nuTot/U)²delta/rho+(nuTot/U)delta/rho²(1+T/U)]. No globalS bound/selectedradius union. Nestedtangentdisks andentryparameter enforceuniformradiuscontrol.",
+    "lem:prices-remove": "FinitepositiveU,V massesP,N,removeproportionalsubmeasuresmassmin(P,N) each;remainingrho constant-sign massP-N,variationabs(P-N). Workswithoutmutualsingularity,zerocasesexplicit;preservesAC/commonclosed support.",
+    "lem:prices-scalar-pairing": "Forfinitepalettecoordinatec,tentverticeslevels1..m,actualfinestSIGNEDdensity splitsconstant-signrho_s pluszero-totalbeta_s,variation<=2d_s,supporttent. WHOLE-plane measureidentity phi_q c(h)=rho_q+sum_l>=k,s lambda_qs beta_s. Terminaldensitynotdiscarded evenh_q0;shared-descendantcoefficientsweighted,notdisjointallocation. Exactscalarcancelbudget telescopes.",
+    "prop:prices": "OneNONNEGATIVEpriceD_Q fromALLfixedpalettecoordinates anddiscount2^-alpha(l-k),alpha1/100. SumD<=41²/[2(1-2^-alpha)] sumcoordinateL1<=CV,uniformm. LocalunfavorableprojectionscostD+BADrootmasses;forcedendpoints+ r_k^-1 valueoscillationcostD+allrootmasses. Physicalgradientmeasuresrescaler^-1;valueintegralr^-2;notunweightedgridcount.",
+    "lem:labels-neighbors": "Atlevelk,chooseTheta_z frommaximuma_w within300r;E_k(q)=maxwithin200r squareddeviation. Weightedenergy suma_q E_k(q)<=CV,via12-levelcoarsehatdefectA_k-A_(k-12). RequirespositiveCOLUMNnormalizedrefinement andvectoradditivity;zeromassdirectionarbitraryunit.",
+    "lem:good-label": "AtqwithE_k(q)<=(tau/10)² andxwithin50r_k,lawatx givesgooddirectionwithinpi/6 withprobability1. Finitepaletteaccuracytau/20,tau1/100,switchhysteresis P(d)=min(1,tau^-2(d-tau)_+²). Retainedlabelrequiresd<2tau;notnearest-labelindependentchoices.",
+    "prop:label-packing": "Forvectorrootmasses a_q,levelsl1..m,cellD(q)radius25r_l,suma_q[supD(R_l+R_(l+1))+sum_k<=l2^(k-l) esssupD T_k]<=CV. R_s switchprobwithsentinelsR1=R_(m+1)=1,TscaledONEtransition-rowderivative averagedagainstoldmarginal,notderivativeofmarginal. Controlswholecellpositions,notonlyparticleendpoints;uniformm.",
+    "lem:labels-particles": "FinitepositiveatomicmeasureonCOMPLETErefinementpaths plusbirthB realizesmu{B<=k,prefixxi}=M_xi,mu{B<=k,q_k=q}=a_q,totalA_m<=V. Addbirthmasswherechildcapacitysumexceedsparent,retainALLprefixbeforebirthbutexcludeoccupancythen. Terminaly withinr_s ofq_s;finiteforest canbeexponential,notcomplexitybound.",
+    "lem:labels-switch-packing": "Intrinsicdirectionmarks basedtau/8,vectoradditivitydefect paysmarkednodeM. Particleintegralofsum_s>=B E_s andR_s(y)<=CV;nonexceptionintervalatmostoneswitch byhysteresis. ExceptionmarkorE>c*. Terminal-lawycomparisononlyhere,notyetspatialcellpacking.",
+    "lem:labels-spatial-comparison": "Fixcompleteparticle, x inD(q_l),k<=min(l+1,m):R_k(x)+T_k(x)<=C sum_s<=k2^(s-k)(R_s(y)+E_s(q_s)),Rpointwise/Ta.e. sqrtP Lipschitz,stochasticrowL1contractioncontrolsmarginaldifference. Directionsbeforebirthretained,notassumedindependentbetweenpositions. Followupconvolutionpaysprebirthusingc_s<=5.",
+    "lem:sobolev-band": "RealGLOBALW11g,0<a<=b:SIGNEDallrealradiusbandgloballyLipschitz<=gradientL1/(pi a²);ifdyadicratioincl1,globalgradientL1<=Cgradientg. Fixeda uniformapproximationcostinputL1/(pi a²);smoothdensity+variationLSC,notuniforminlower-radiusLipconstant.",
+    "cor:bv-input": "RealglobalL1BV(R2):Mf inL2 andBVloc,globalderivativemeasurevariation<=C|Df|. Finitearea/perimeterE: integral_0^1 perimeter{M1_E>t}dt<=CP(E),setsfiniteareaeveryt>0,perimetera.e.t. DoesNOTassertACderivativemeasureforarbitraryBV orglobalMfL1;notformallycoveredendpoint.",
+    "lem:appendix-sobolev-calculus": "InhomogeneousW11smoothcompactdensity,translationL1<=|z|gradientL1,abschainnormbound/cutoffproduct. Lipschitzmaxgrad onEQUALITYset equalsbotha.e.;weak/classicalgradient/productagree. Equalitysetdensityargumentrequired;noassertioneverypointgradientexists.",
+    "lem:appendix-planar-embedding": "ForrealW11R2,||u||2²<=||partial1u||1||partial2u||1,thus||u||2<=||Euclideangradu||1. Derivedcoordinatesegmentsanddensity;planardimensioncrucial,notglobalMfL1.",
+    "lem:appendix-square": "SquareQsidet,Poincare intQ|u-uQ|<=Ct intQ|grad|;smoothcutoff1onclosed3Q/supportinterior5Q,LipC/t,gradientchi(u-mean5Q)<=Cint5Q|grad|. radius<=t diskcenterQin3Q,5Qboundedoverlap,ifsquaresmeetOwithin t ofcompactK then5Qwithin6t ofK. Constantsuniform.",
+    "lem:appendix-vector-measure": "LocalL1limitofW11loc withuniformGLOBALgradientL1<=M hasfinitevectorRadonH=D u,exactEUCLIDEANvariation |H|(O)=supunitEuclideantestfields<=liminf intO|graduj|. Nullcompactannihilationextra=>H=Gdx,GglobalL1,||G||1=variation,uW11loc. Riesz/polar/innerregularity/RNsteps;finitevariationaloneinsufficient."
+  },
+  "method_contracts": [
+    {
+      "key": "ENDPOINT-DOMAIN",
+      "title": "连续平面与输入空间",
+      "input": "Real globallyintegrablef andEuclideanweakgradientg inL1,R2",
+      "output": "LocalW11 absolute centered disk maximal andglobalgradientbound",
+      "cannot_transfer": "No arbitrarydimension/max-productnorm/globalMfL1",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "SIGNED-BAND",
+      "title": "保留符号的有限半径带",
+      "input": "RealCcompact smoothg,continuousclosedradii[a,2^ma],m>=0",
+      "output": "UniformgradientL1bound",
+      "cannot_transfer": "Not absoluteinput orsampledgridradii",
+      "source_labels": [
+        "prop:finite-band",
+        "lem:sobolev-band"
+      ]
+    },
+    {
+      "key": "DISK-MOMENT",
+      "title": "圆盘的一阶复矩",
+      "input": "Actualgradientofrealg andradialstationarity/rotation",
+      "output": "Balancednearbypositivekernelzero firstmoment",
+      "cannot_transfer": "Not arbitraryvectorfield orzero-totalmeasure",
+      "source_labels": [
+        "lem:local-balanced"
+      ]
+    },
+    {
+      "key": "AFFINE-CAP",
+      "title": "在边壳帽上归零",
+      "input": "Twozero-momentkernels,shellcapz,nonzerodenominator",
+      "output": "Smallcapmultiplier/remoteerrorbound",
+      "cannot_transfer": "Cannotdropmomentorgeometry",
+      "source_labels": [
+        "lem:local-affine"
+      ]
+    },
+    {
+      "key": "UNIFORM-SHELL",
+      "title": "全部半径共用异常集",
+      "input": "FinitepositiveS/nu,innerSboundT,errornu>=U,delta<=rho²/1600",
+      "output": "OneBorelE area bound andcapforALLr1..2",
+      "cannot_transfer": "Atomsallowedhere;innerboundnotglobalS",
+      "source_labels": [
+        "lem:shell-concentration"
+      ]
+    },
+    {
+      "key": "LOCAL-DISCOUNT",
+      "title": "有支撑及零总量的误差折扣",
+      "input": "FiniteACgradientdecomposition;smallpieceszero total/supportCs*s",
+      "output": "Directional/endpoint/valueestimates",
+      "cannot_transfer": "Size1notzero;sharpkernellimitneedsAC",
+      "source_labels": [
+        "lem:local"
+      ]
+    },
+    {
+      "key": "SCALAR-PAIRING",
+      "title": "从真实末层密度配对",
+      "input": "Positiveandnegativecoordinate measuresatfinesttents",
+      "output": "Exactmeasureidentity/constant-signresidual/zero-totalpairs",
+      "cannot_transfer": "Zeroaveragedvectornotzerocancellation;no terminalremainder",
+      "source_labels": [
+        "lem:prices-remove",
+        "lem:prices-scalar-pairing"
+      ]
+    },
+    {
+      "key": "COLUMN-REFINEMENT",
+      "title": "正帐篷细化的列归一化",
+      "input": "Coarsehatinterpolationweightslambda_pq,columnsum_p=1",
+      "output": "Vectorbudgetandscalar telescoping commonprices",
+      "cannot_transfer": "Notprobabilitytransitionrow ordisjointdescendantallocation",
+      "source_labels": [
+        "prop:prices"
+      ]
+    },
+    {
+      "key": "COMMON-PRICE",
+      "title": "所有固定方向共享价格",
+      "input": "Finitepalettecoordinatecanceldefects and2^-alpha(l-k)",
+      "output": "SummableD_Q uniformnumberofscales",
+      "cannot_transfer": "Finitepalettefixed;notexplicitendtoendoptimalC",
+      "source_labels": [
+        "prop:prices"
+      ]
+    },
+    {
+      "key": "NEIGHBOR-MASS",
+      "title": "邻域最大质量定方向",
+      "input": "Positivevectorrefinement/coarse12levels",
+      "output": "WeightedneighborEbudget",
+      "cannot_transfer": "Smallneighborcannotimposeunpaidlabelchange",
+      "source_labels": [
+        "lem:labels-neighbors"
+      ]
+    },
+    {
+      "key": "VECTOR-PARTICLE",
+      "title": "出生时间与完整路径",
+      "input": "Vectorchildcapacities>=parentmass,finitepositiveforest",
+      "output": "Exactpostbirthoccupancy a_q",
+      "cannot_transfer": "Distinctfromscalarpairs;prebirthhistoryretained",
+      "source_labels": [
+        "lem:labels-particles"
+      ]
+    },
+    {
+      "key": "HYSTERESIS-LAW",
+      "title": "带迟滞的方向状态律",
+      "input": "Fixedtau/palette,tentprobabilities,oldlabel",
+      "output": "Goodlabel,limitedswitches",
+      "cannot_transfer": "Proofconstantsnotcalibratedapplicationtuning",
+      "source_labels": [
+        "lem:good-label",
+        "lem:labels-switch-packing"
+      ]
+    },
+    {
+      "key": "ROW-DERIVATIVE",
+      "title": "一步转移行的空间导数",
+      "input": "LipschitzstochasticROWS,oldmarginal,zeta",
+      "output": "Sumrowgradient0,scaledTcost",
+      "cannot_transfer": "Tnotmarginalderivative;independencebetweenpositionsunneeded",
+      "source_labels": [
+        "lem:labels-spatial-comparison",
+        "prop:label-packing"
+      ]
+    },
+    {
+      "key": "WHOLE-CELL-PACKING",
+      "title": "从路径端点提升到整单元",
+      "input": "Completepathbeforebirth,neighborE,stochasticL1contraction",
+      "output": "CellsupR/esssupT withgeometric2^(k-l)packing",
+      "cannot_transfer": "Endpointonlyswitchboundinsufficient",
+      "source_labels": [
+        "prop:label-packing"
+      ]
+    },
+    {
+      "key": "PREFIX-SUBTRACTION",
+      "title": "取绝对值前减前缀势",
+      "input": "Runenvelopes/startbaselines,normalizedfutureproducts/rows",
+      "output": "Onlyfutureoscillationcostr_l/r_k inweightedIBP",
+      "cannot_transfer": "Do notdifferentiatemaximizer ordividebyprobability",
+      "source_labels": [
+        "prop:finite-band"
+      ]
+    },
+    {
+      "key": "NULL-LOCALIZATION",
+      "title": "先缩邻域再缩半径",
+      "input": "Signedcutoffg-mean5Q,finitevariationMf,compactnullK",
+      "output": "Derivativehasnosingularpart/globalweakgradient",
+      "cannot_transfer": "Limitorderfixed;finitevariationnotAC",
+      "source_labels": [
+        "lem:sobolev-band",
+        "lem:appendix-square",
+        "lem:appendix-vector-measure"
+      ]
+    },
+    {
+      "key": "DIRECT-AC-ROUTE",
+      "title": "直接消除奇异部分",
+      "input": "Finitebandvariationplus signedlocalization/nullcompactproof",
+      "output": "MainendpointlocalW11",
+      "cannot_transfer": "Wholeproofreadnotindependentmathaudit",
+      "source_labels": [
+        "lem:sobolev-band",
+        "lem:appendix-square",
+        "lem:appendix-vector-measure"
+      ]
+    },
+    {
+      "key": "OLD-AC-ROUTE",
+      "title": "已知条件正则性替代末步",
+      "input": "ALREADYprovedMfBVloc,inputW11singularparts0",
+      "output": "OptionalLahtiWeigtlocalW11upgrade",
+      "cannot_transfer": "Doesnotprovevariationbound;noindependentwholeproofcert",
+      "source_labels": [
+        "lem:sobolev-band"
+      ]
+    },
+    {
+      "key": "BV-COAREA",
+      "title": "BV与阈值周长积分",
+      "input": "GlobalL1BVinput/finiteareaandperimeterset",
+      "output": "Globalvariationbound/integratedlevelperimeter",
+      "cannot_transfer": "NoallthresholdsharpC/noACgeneralBV",
+      "source_labels": [
+        "cor:bv-input"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "实际消费者与离散桥接",
+      "input": "Concrete2Ddensity/image/domainextension andcontinuousrepresentation",
+      "output": "Specifiedobjective/judge/quadrature-radius-errorcontract",
+      "cannot_transfer": "No actualconsumer frozen;finitegridmaxfilterdifferentoperator",
+      "source_labels": []
+    },
+    {
+      "key": "BASELINE-COST-GATE",
+      "title": "旧平滑与最大平均的完整成本",
+      "input": "Actualworkload,oldfixedradiusconvolution/multiscalealgorithm/TV comparator",
+      "output": "Fullsetup/time/memory/outputquality andexpliciterrorbudget",
+      "cannot_transfer": "ExistentialC/exponentialhistoriesnotperformancegain",
+      "source_labels": []
+    }
+  ],
+  "notes": [
+    "Whole9TeX3447+234Bib read, including entire local884/prices552/labels672/assembly312/extension287/appendix340/figure27;main66,intro307. README complete no version notes;history complete37lines no F085 revision listed. Single catalogued manuscript;not whole family/historical closure.",
+    "Real inhomogeneous W11 Euclidean R2,allpositive REAL centered disk radii,absolute input. Output local W11/global Euclidean gradient L1,not globally L1 maximal;absolute constant finite unspecified/not sharp. No radiality/compact support required at endpoint. Signed finite dyadic band for smooth compact supported g underpins local subtraction.",
+    "Local gradient measure decomposition finite/absolutelycontinuous,nonnegative unit directions incone pluserrors. Errors assigneds<1 require WHOLE-plane zero vector mass andsupportCs*s;identity onlyonOmega butcomponent supports retained globally. Size1errors neednozero. Supover empty radii0. Shell lemma itself allows atoms andONEBorelexceptionsetallradii.",
+    "Diskmoment imaginary=0 fromrotation,real=pi*t3 radialderivative;balancedpositive nearbydiskmixturezero moment. Affinefactor vanishes nearcap;nu detectserror,positiveS constrained ONLYinnerdisk. Tangentdisk sweep uses nestedL disks,entryparameter |w|²/(2w.theta),delta<=rho²/1600;exceptionmass includesnu²delta/(U²rho) andnu delta/(U rho²)(1+T/U). No general all-shapes kernel theorem.",
+    "Localalpha1/100,b1/50,eta1/10,gamma1/5 fixedproofchoicesnotapplicationtunables. Activecoarse-shellwidths distinguished;negativeprojectionincrease suppliesinnerpositivebound;convexinterpolantzeroesprojection. Finezero-mass cancellation ONLY finiteLipschitzkernelincrements,notsharpkernelinterpolation;AC gives fixed-circlelimitallradii. Forcedband endpoints separateannularexception. Valueoscillation usesgradientkernel andstrongL3/2,notendpointL1maximalbound.",
+    "Tentrefinement COLUMNnormalized in coarseparent forfixedfinechild,NOTstochasticrow. Coarsevector sums<=fine<=V. Scalarpairingstarts actualfinestdensity positive/negative evenrootvector0;proportionalremoval permitsnonmutuallysingularmeasures. Constant-signresidual+allzero-totalpairs identityofMEASURES retains terminalcancel,shared-descendantweightednotdisjointallocation. CommonD_Q sums41²/(2(1-2^-alpha))*coordinateL1;finitepalettefixed,no mdependence.",
+    "Separatepositivevectorparticleforest,occupancy afterbirth exactlya_q;prefixBEFOREbirthretainedbutnotcountedoccupancy. Intrinsicmarkvector-additivitydefect andnearbymaximum-massdirections payE. Hysteresis finite-state law switchesonlyd>tau,transitionROWSnormalized,derivativecost actsONErow notmarginal. Spatialcomparison controlsactualcell sup/essentialsup with2^(s-k);prebirthcostboundedgeometricallynotignored.",
+    "Runenvelopetouching fixesmaximizingradius,doesnotdifferentiateselector. Conebrackets nonnegativebeforeaddingruns. Subtractstartradiusbaselines;weightedIBP differentiateshistoryproductswithoutdivisionbyprobabilities. Futureproductsum1 androwderivativesum0 permitPREFIXpotentialsubtraction BEFOREabs;difference<=sumfuture v_l givesr_l/r_k geometriccost. Finitehistory law existence no efficientalgorithm.",
+    "Extension usesL2planarSobolev+strongL2 forlocalintegrability,expandingbandsL1loc andvectorRieszvariation. Finitevariation alone notAC:compactnullK,firstshrinkOneighborhood atfixedt,THENt->0 using signedchi(g-mean5Q),3Q/5Q/6t geometry. OptionalLahtiWeigt upgrade ONLY AFTERBVbound,notpremiseforfiniteband. BVcorollarystrictapproximation/coarea givesintegratedlevelperimeter;arbitraryBV mayretain singularpart/no globalmaximalL1.",
+    "No actualconsumer orfinitegridbridge/constant/costbaseline/judgefrozen. Ten-domainattempts andcrossfamilycomparisons will remainhypothetical,not newcandidate/initial/numericalhypothesis. No numerical output orLeaninstallation.",
+    "Bothregisteredconfigs actualendpoint/signedband solutionmodules read. EuclideanSpace R(Fin2),ENNRealallpositive-realsup/absoluteinput/finitenessa.e.beforetoReal,coordinateweakgradient,L1vectorgradient actualModel/Main. Main bridgesisometriccomplexplane andSobolevBand.complex_endpoint,not statementonly package.",
+    "Signedfiniteband quantifiesREALsmoothcompactinput,a>0,m:N INCLUDINGzero;continuousrealradiusband sSup not sampledgrid. ActualMain210-end readinclsingle-radiusconvolution bound,m0branch,isometricvolume/gradienttransfer. Model1-100 selected;remainingModelproofnotread.",
+    "DiskMaximalAbsoluteContinuity440-554 selected:complex_endpoint gets positive_direction_limit,threepositive directionlimitdensities d0/d1/dI andactualcomplexweakgradient reconstruction,8*Cbound,absolutegradientcoefficient anddiagonalsmoothapproximation. This formalroute neednot mirror naturalvectorRiesz proof;fullrecursivebodyclosure unknown.",
+    "Challenge two sorry placeholders are supplied comparison tasks,not implementation proof failure. Bothsolution localclosures indexed lexically only;no Lean/Comparator build/human/fullsemantic audit. Main+finiteband localB statementmatch,intermediateC;naturalBVextension outsideformalstatement."
+  ],
+  "remaining": [
+    "Wholefamily/historicalrecursiveclosureincomplete:threeprimaryselectedscopes,17otherbibrootbodies/deepreferencenetworkunread.",
+    "69file2725declarationlexicalindexandselectedactualendpointsareNOTLean/Comparatorbuild/humanmathspecaudit;intermediatesC/BVoutsideformalendpoint.",
+    "Noactualconsumer/continuous-to-discretebridge/endtoendexplicitC/strongoldfullcost/independentapplicationjudge;no newcandidate/initial/numericalrun.",
+    "Humanandsecondproviderdeferred,notwaived."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false,
+  "formal_status": "Actualregisteredendpoint/signedband Model/Main selectedlocalB;69files2725declarationsstaticindex,nobuild/Comparator/human. NaturalintermediatesC;BVcorollaryoutsideformalstatement."
+}

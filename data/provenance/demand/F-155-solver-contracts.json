@@ -1,0 +1,136 @@
+{
+  "family_id": "F-155",
+  "work_package": "WP-065",
+  "generation_id": "GEN-20261021-061",
+  "recorded_at": "2026-10-21T01:40:38.340079+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "source_files": {
+    "tiling.py": {
+      "repository": "https://github.com/sagemath/sage",
+      "commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "src/sage/combinat/tiling.py",
+      "url": "https://github.com/sagemath/sage/blob/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/combinat/tiling.py",
+      "sha256": "9584d598c752357c7678732e863dcd2b4201fae90f8166fbe82b6237c11998a8",
+      "total_lines": 2430,
+      "read_ranges": [
+        [
+          275,
+          310
+        ],
+        [
+          473,
+          544
+        ],
+        [
+          891,
+          917
+        ],
+        [
+          975,
+          1133
+        ],
+        [
+          1421,
+          1605
+        ],
+        [
+          1629,
+          1656
+        ],
+        [
+          1677,
+          1729
+        ],
+        [
+          1774,
+          1885
+        ],
+        [
+          1999,
+          2100
+        ],
+        [
+          2227,
+          2349
+        ]
+      ],
+      "selected_lines": 897,
+      "license": "GPL-2.0-or-later;fullCOPYING retained",
+      "license_review": "Actualper-fileGPL2+notice read"
+    },
+    "dancing_links.pyx": {
+      "repository": "https://github.com/sagemath/sage",
+      "commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "src/sage/combinat/matrices/dancing_links.pyx",
+      "url": "https://github.com/sagemath/sage/blob/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/combinat/matrices/dancing_links.pyx",
+      "sha256": "6df2d1b46bbc2601534692974761d9429df0bf14aaf422703160a94bb0e85db1",
+      "total_lines": 1155,
+      "read_ranges": [
+        [
+          1,
+          55
+        ],
+        [
+          68,
+          188
+        ],
+        [
+          329,
+          399
+        ],
+        [
+          543,
+          567
+        ]
+      ],
+      "selected_lines": 272,
+      "license": "GPL-2.0-or-later;fullCOPYING retained",
+      "license_review": "Actualper-fileGPL2+notice read"
+    },
+    "COPYING.txt": {
+      "repository": "https://github.com/sagemath/sage",
+      "commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "path": "COPYING.txt",
+      "url": "https://github.com/sagemath/sage/blob/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/COPYING.txt",
+      "sha256": "b9ee4b098b0e631fd53cf1975b08f81c1f9bf369fd0ebbd7277a12813368e5dc",
+      "total_lines": 1285,
+      "read_ranges": [],
+      "selected_lines": 0,
+      "license": "GPL-2.0-or-later;fullCOPYING retained",
+      "license_review": "COPYINGbytesreusedfromverifiedWP061archive,samecommit/hash;notre-read1285linesthispackage"
+    }
+  },
+  "selected_source_lines": 1169,
+  "source_archive": {
+    "path": "data/provenance/demand/tiling-interfaces-20261021.json.gz",
+    "sha256": "6190ea5462fdd011ad56e53e2e67236d563057241b76f29f3f8dc4ff0aff1240",
+    "bytes": 42502,
+    "members": 3,
+    "roundtrip_verified": true
+  },
+  "original_algorithm_scope": {
+    "url": "https://arxiv.org/html/cs/0011047v1",
+    "version": "v1 2000-11-15",
+    "scope": "rendered18-94 selectedintroduction/finiteexactcover/AlgorithmX andfigure2caption;notwholepaper,pixelsorCWEBimplementation",
+    "summary": "Finite0/1matrixexactcover andbacktracking,not infinitegriddecidability. ToroidalFigure2islinklayout,not boundarycondition. Oldreversiblelinkedlists/minimumcolumnheuristicalreadyexist;noF155algorithmgaininferred.",
+    "raw_downloaded": false
+  },
+  "notes": [
+    "ActualoneSage3DtilinginterfaceanditsDLXCythonwrapper atsamefixedpriorverifiedcommit,1169selectedsource lines;notwhole2430/1155files orC++header/proof/build.",
+    "Polyomino explicitfiniteZ^d coordinates supportsdimension3,holes/disconnectedsets (docdoesnotassumeconnectedness),frozensetdedup;displaycolor not matchingconstraint. Finiteenumeratedcoordinates stillcostO(|T|),no implicitp-adicTileformat.",
+    "TilingSolver usesactualfiniteboxPolyomino/cartesianrange,notinfinitegrid orperiodictorus. rotationFalse,reflectionFalse,reusableTrue canselectsingleuncoloredfixedorientation unlimitedcopies. DefaultrotationTrue/reusableFalse differbutconfigurable;notallincompatible.",
+    "rows_for_piece uses actualtranslatedcopies ofwholepieceinsidebox,or outsideTrue nonemptyINTERSECTIONS. No modulo identification. Outside fragments canoverlapoutsidebox;completeinsidecover alone notcoherentglobalextension.",
+    "Finiteuniverse columns areboxcells,plusonepiececolumnperpiecewhen reusableFalse. reusableTrue removesinventorycolumns. Eager coord_to_int androws materializebox/placements;cached_method rows canretaindata,notcompactinfinitealgorithm.",
+    "solve default yieldscompleteexactcoverofBOX. Exhaustedrows/unsuitablevolume return nofinitecovers/0;no sourceclaimin selectedchainthatinfiniteZ3nontileable. partialcommonprefix/incremental explicitlypartial,mustnotjudgeeveryyieldcomplete.",
+    "self_surrounding doc2D,finiteannuluswith rotation/reflection/outsideTrue. No-solution radiusmessageislocal;successfulfragments/croppingnotinfiniteproof. NotdirectF155translation-only3Dconsumer.",
+    "DLXwrapper listrows->C++vector[vector[int]],searchreturns1newfinite solution/0otherwise;solutions_iteratorreinitializesifneeded. C++dancing_links_c.hbody anddependencyclosureunread,notcertifiedfullbackendcorrectness orruntime.",
+    "OriginalKnuth2000 finite0/1matrix exactcover andAlgorithmXbacktracking selected,notinfiniteZ3decider. ToroidalwordinFigure2describesdoublylinkeddata representation,notperiodicboundaryconditions. Authorperformanceexamplesnotlocalmeasurements.",
+    "Currentactualinterfacehasseveralstructuralpartialmatchesbutnoperiodic-completenessclaim;noobservedbug ornewincrement.Noactualresource-admittedF155T,consumerclaim,preregistrationorapplicationrun. Stopthisrouteafterboundedpackage,returnF334unreadcoverage."
+  ],
+  "remaining": [
+    "CompleteDLXC++header/implementation,allimportedSagedependencies andlocalexecutionunreviewed.",
+    "Noactualinfinitegrid/periodic-completenessconsumer,compactexplicitF155T orresourceadmittedtest.",
+    "Noindependentprovider/humanreview;no newapplicationcandidate/check/run."
+  ],
+  "decision": "Lowernumericalpriority ofF155periodic-completenessproblem;preserveconditionalcontract andpartialmatches. OldfiniteDLXhasappropriateboundedsemantics;F155doesnotrefuteit. NextunreadF334perretro023."
+}

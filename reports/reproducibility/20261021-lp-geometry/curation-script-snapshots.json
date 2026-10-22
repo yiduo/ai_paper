@@ -1,0 +1,38 @@
+{
+  "prepare_f094.py": {
+    "path": "reports/reproducibility/20261021-lp-geometry/prepare_f094.py.gz",
+    "gzip_sha256": "2bb8e65b22a9d89e1bcc3bf43217522eceb96da14fb99e81b763d6637e666320",
+    "decompressed_sha256": "7fc993e6a56901797b68334bd95a9afa887a06ae603fc87e32a44a097c8d43de",
+    "bytes": 8366
+  },
+  "curate_f094.py": {
+    "path": "reports/reproducibility/20261021-lp-geometry/curate_f094.py.gz",
+    "gzip_sha256": "2990a14ca0321c7d9b10ad5394a4041ef2507d89da258c3cd70282913b506a32",
+    "decompressed_sha256": "5d719f229f34f888f164e11b03a6cc8dae44e2986f4262a3ffb3e756e9d67c2b",
+    "bytes": 26230
+  },
+  "link_f094.py": {
+    "path": "reports/reproducibility/20261021-lp-geometry/link_f094.py.gz",
+    "gzip_sha256": "59a6a0fd030ca939c8c07dcace77e00aa75fd509185ee586ec5d06031298804a",
+    "decompressed_sha256": "dabc7b6093569adb8e0294b4c75585bf51462153d650d8d651089e225ef9478d",
+    "bytes": 2000
+  },
+  "quality_f094.py": {
+    "path": "reports/reproducibility/20261021-lp-geometry/quality_f094.py.gz",
+    "gzip_sha256": "d160449b13d5c5aae89f109cc3e5399f7978685be080f6b7bfe581d9d343c9ea",
+    "decompressed_sha256": "aa049cdab14716f67cd5f5168a72af92ca484cf17748d8a31e7623176df56d81",
+    "bytes": 2895
+  },
+  "integrity_f094.py": {
+    "path": "reports/reproducibility/20261021-lp-geometry/integrity_f094.py.gz",
+    "gzip_sha256": "0b2f742b4b8e6a009d3e6198b5edeacd0ca5bdb161ea6ce2be737c16f07a8774",
+    "decompressed_sha256": "87725b032b2f18e20131f49dd90bc9f2595b125aa36c1f1d73cb372b6e875351",
+    "bytes": 2775
+  },
+  "finish_f094.py": {
+    "path": "reports/reproducibility/20261021-lp-geometry/finish_f094.py.gz",
+    "gzip_sha256": "4b59563ca7e2dac645b07caf5bb96fd5f9a93172dd2dbe1ef242de96a555cc88",
+    "decompressed_sha256": "9389a059efd9e9caf5af8f3ba7e0afddae84b9ccea3697556fabb0cb88e8bd1b",
+    "bytes": 10236
+  }
+}

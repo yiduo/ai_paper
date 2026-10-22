@@ -1,0 +1,21 @@
+{
+  "outputs": {
+    "raw.json.gz": {
+      "compressed_bytes": 584,
+      "compressed_sha256": "542a8d74b627f4d4fcbaf2c35ab5f0ad608a4aa1f8aeaf1b5140515af0d12a13",
+      "uncompressed_bytes": 2724,
+      "uncompressed_sha256": "6e581cccb8b156941ebd173826f24dff3e167922291254a8b6a3cccf1c2d8d14"
+    },
+    "source.json.gz": {
+      "compressed_bytes": 3352,
+      "compressed_sha256": "baf1d629ac417a6bcaa6a932e93cf0a5ef1fe62cc8bb134c8e45cf4fe33d3896",
+      "uncompressed_bytes": 9544,
+      "uncompressed_sha256": "bb6c23a8c668723f670dc385b6367ab19972eb0884a20adc4c265c737965f8a3"
+    }
+  },
+  "protocol_id": "INSPECT-115-INTERFACES-001",
+  "purpose": "Static contract witness;not an application experiment or new F115 prototype",
+  "recorded_at": "2026-10-20T19:27:20.265705+00:00",
+  "source_archive": "data/provenance/demand/table-flow-interfaces-20261021.json.gz",
+  "source_archive_sha256": "155a501310f7cf8422b617f22c2f6aea63afb09daec2a8fe31f7de02edf5696a"
+}

@@ -1,0 +1,48 @@
+{
+  "recorded_at": "2026-10-21T05:43:58.631780+00:00",
+  "core_tests_passed": 59,
+  "validation": {
+    "nodes": 5626,
+    "research_nodes": 3300,
+    "edges": 14296,
+    "citations_checked": 5271,
+    "candidate_connections": 38,
+    "externally_checked_cards": 12,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 12,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 1343,
+      "sha256": "520c7ffafcb0c40c04ca0f50a2fabb8323d0a77fec3755e6178ec38aeb51bbb3"
+    },
+    "index.html": {
+      "bytes": 15733485,
+      "sha256": "8c2fc259c7d4500b3124aecbd65d8122f867af2d5ce87c5a339a4e1babc50213"
+    },
+    "navigation.json.gz": {
+      "bytes": 55883,
+      "sha256": "c8859afa754b96e747496650c675297f08df4a19dfca8a850c446fa172e2dd21"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 2443328,
+      "sha256": "1e17854d2d2b4b3bbd5c79e430a647ec671ffe9b36d0e7b8cb729d6cfd5d7a94"
+    },
+    "navigation.md": {
+      "bytes": 74532,
+      "sha256": "06fb5a388146d7c2aaafcdc834cad2aec7ee6f0b0b59bd1512a8c731c967eb16"
+    },
+    "knowledge.json.gz": {
+      "bytes": 2122264,
+      "sha256": "700daae81428bb8651046074dee12afb59618c8d16064660cb60cb9310aaff71"
+    }
+  },
+  "browser_visual_check": "Viewer logic unchanged;WP073 actual route-impact UI/JPEG receipt retained. New full data/source/export checks actual;no fresh visual claim.",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

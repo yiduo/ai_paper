@@ -1,0 +1,53 @@
+{
+  "recorded_at": "2026-10-21T04:39:02.490137+00:00",
+  "selected_family": "F-273",
+  "actual_scope": "Catalogueidentity/filesystemlinecounts/READMEonly;sourcebodiesnotyetread,noadditionalreadingcredit",
+  "manuscripts": 1,
+  "TeX_files": {
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/main.tex": {
+      "lines": 47,
+      "sha256": "1ba3e5ae51dde8f6904a4357d24fd3c607df7068e968c22f5093a265a4b151fe"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/references.tex": {
+      "lines": 216,
+      "sha256": "b1d9bd029c81911737c86788e86c2dd2dd3aa4a66d3f0c758cf17d98e3577827"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/00-introduction.tex": {
+      "lines": 196,
+      "sha256": "e9aacce4cf725d58cd99276a76c989adaee998706a3ffab2a2c0676b506ffb04"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/01-preliminaries.tex": {
+      "lines": 105,
+      "sha256": "b683c666a9d88280ad831e4065aaf89fb3de43d2098ae987a8ce0267765d5128"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/02-interpolation.tex": {
+      "lines": 430,
+      "sha256": "fa0efd354ad4de0c006c259d638bb443e8d2a67b66aef372881379521ddf04ee"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/03-minimization.tex": {
+      "lines": 429,
+      "sha256": "1c8b906076233a4457610751d47ca3b884116c48c003dbaef336aa59e4228d5b"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/04-metric.tex": {
+      "lines": 291,
+      "sha256": "78647b07afec54d8bd45dc7afd6ead24ac2bd8c5e903ff5bd51cd6b2029c60cb"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/05-stationarity.tex": {
+      "lines": 256,
+      "sha256": "f0e23fdd40c3a25deccf1faf0df0f60d5374208018876cb571e57df908abf717"
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/06-broadcast.tex": {
+      "lines": 304,
+      "sha256": "8b49b01e89082d32db44272db91b675f74a406dacb1b9c07e7abfcec50eae8b8"
+    }
+  },
+  "total_TeX_lines": 2274,
+  "alternatives_catalogue_only": [
+    "F-277 threshold entangled-game repetition,one manuscript",
+    "F-283 Boolean-oracle synthesis,one manuscript"
+  ],
+  "subject": "Mathematical physics",
+  "subject_actual_reading_families": 1,
+  "subject_total_families": 25,
+  "source_body_read": false
+}

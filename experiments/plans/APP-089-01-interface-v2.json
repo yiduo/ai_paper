@@ -1,0 +1,31 @@
+{
+  "id": "APP-089-01",
+  "title": "层级合成二元评判场景的接口一致生成",
+  "version": 2,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-053",
+  "analogy": "far",
+  "input": "Hypothetical finite positiveweighted item-similarity graph with supplied bounded-bag tree decomposition, fixedNlatent scorefields and per-interface symmetric binary threshold laws. Branching contexts may update future fields while preserving the current interface LAW. No actual consumer or annotation bank selected.",
+  "output": "A virtual global binary scenario law after Markovgluing,with exactly retained interface marginals,bounded fieldLipschitz envelope,and measured remote-label uncertainty. These are synthetic scenarios,never real human grading records.",
+  "extra_assumptions": "Chosen graphmetric,overlappingitemcontexts andthreshold scores must represent desired downstream annotation/test diversity. Mathematical minoritymass alone does not establish realism,semantic validity,privacy or model-quality improvement.",
+  "hypothesis": "On a separately frozen eligible branching workload, paired trace-preserving updates may improve independently measured downstream endpoint diversity/uncertainty per storedfield by at least10% over the strongest budget-matched old conditional sampling/smooth interface-preserving extension/feasible-law search,while preserving exact interface laws and the SAMEdeclared Lipschitz cutoff with no more than25%extra total time/memory.",
+  "judge": "Before outputs freeze an actual consumer model or justified synthetic task,graph/decomposition/initial nondegenerate laws,branchschedule,noise,tuningbudget and semantic/coveragejudge. Independently enumerate finite cutlaw traces includingconstantassignments,Markovmarginals andremote minoritymass; exactfraction judge wherepossible. Include zero-perturbation and weakorder/g|P/cutoff boundary controls as QAonly,not success. Pair choices precede ownnoise; count allfield copies/reservations.",
+  "baseline": "Old Markovconditional gluing already gives exact overlapconsistency; conditional childlaw search and individual interface-value-preserving smooth extensions must have same constraints/resources. Do not compare only frozen-zero or deliberately inconsistent resampling. Any unconstrained diversity optimum is separateupperreference,not an eligiblebaseline gain. Actual pgmpy forward CPD sampling and DataSynthesizer root/parent-table sampling are historical comparators,not new source implementation. Exact compatible bag-law gluing must include block conversion/table costs;finite empirical frequencies are not exact laws.",
+  "limits": "No actual domain data,implemented newgenerator,numericalrun or consumerbenefit. Sourceparticle bounds do not bound total tree copy/querycost; k! and2^k state growth remain. Natural methodC,fullproof chainunknown,not promoted by mainB. No new implicit probability sampler or human review synthesized.",
+  "revisit": "Lower implementation priority after actual consumer review: supply a genuine binary item-context task requiring complete symmetric separator laws AND a fixed metric-Lipschitz envelope AND independently judged remote diversity/resources. Static APIs or known identity fixtures do not satisfy this. Next uncurated non-geometry family F243.",
+  "source_labels": [
+    "TW:lem:trace-update",
+    "TW:lem:particle-bounds",
+    "TW:prop:particle-realization",
+    "TW:prop:uncertainty"
+  ],
+  "part_keys": [
+    "TW-AFFINE-TRACE",
+    "TW-UNIFORM-ENVELOPE",
+    "TW-RESERVATIONS",
+    "TW-SUBMEASURE-TRANSPORT"
+  ],
+  "dedup_key": "F-089|hierarchical synthetic binary scenario interface laws|bounded particle update downstream diversity",
+  "prior_plan": "experiments/plans/APP-089-01-conditional.json",
+  "source_contract_review": "data/provenance/demand/F-089-scenario-contracts.json"
+}

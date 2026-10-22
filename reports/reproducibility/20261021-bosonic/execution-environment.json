@@ -1,0 +1,34 @@
+{
+  "recorded_at": "2026-10-21T05:46:49.902331+00:00",
+  "run_id": "EXP-273-001-28f6d541ddfebd6e",
+  "python_executable_used": "/Users/smzdm/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+  "versions_actually_imported": {
+    "python": "3.12.14",
+    "numpy": "2.3.5"
+  },
+  "environment": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "VECLIB_MAXIMUM_THREADS": "1",
+    "PYTHONDONTWRITEBYTECODE": "1",
+    "PYTHONPATH": "src"
+  },
+  "command_suffix": [
+    "-m",
+    "ai_value.cli",
+    "experiment",
+    "EXP-273-001"
+  ],
+  "replay": "same pinned runtime and thread variables; scripts/replay_run.py restores frozen sources in temporary directory",
+  "dependencies_installed_by_this_work_package": false,
+  "external_dataset_downloaded": false,
+  "model_provider": "OpenAI",
+  "exact_model_identity": "unknown; current user-selected session",
+  "human_review": false,
+  "other_provider_review": false,
+  "preserved_readonly_failures": [
+    "ps sandbox denied, lsof proved preview49683 LISTEN",
+    "1605/1705 guessedv3 HTML404; actual primary PDFversionsv2/v1 selected instead",
+    "MAP119plan filename absent; actual existing EXP119spec/manifest used"
+  ]
+}

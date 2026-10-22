@@ -1,0 +1,25 @@
+{
+  "recorded_at": "2026-10-20T13:43:23.755572+00:00",
+  "nodes": 1903,
+  "edges": 4078,
+  "compressed_JSON_GraphML_counts_agree": true,
+  "all_endpoints_present": true,
+  "F221_analysis_present": true,
+  "static_lean_index_hashes_verified": 405,
+  "static_lean_index_is_build_or_proof_audit": false,
+  "files": {
+    "index.html": {
+      "bytes": 3852496,
+      "sha256": "3046b55739e2fb7cffacd99baf33c59181bd794c9c20fdb71d22b35297121fc8"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 575640,
+      "sha256": "f1847e2db4e51b31b81abda0365f225cd7e7fac6d2ba99a3a3e6a7fa3b67ca4c"
+    },
+    "knowledge.json.gz": {
+      "bytes": 498429,
+      "sha256": "c1e9cb18d4bd0889c320d054677eb96618bf5136e05bd72056e2845094f07b25"
+    }
+  },
+  "browser_visual_check": "not repeated;viewer code unchanged"
+}

@@ -1,0 +1,70 @@
+{
+  "recorded_at": "2026-10-20T18:06:17.221523+00:00",
+  "source_archive_bytes": 17801,
+  "source_decompressed_bytes": 90213,
+  "source_decompressed_sha256": "42968fd1d18afee48498d17a931718a713fd7d49af53c9f007849be67d846fb0",
+  "all_six_members_match_original_downloads": true,
+  "source_members": {
+    "LICENSE.txt": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e",
+    "networkx/algorithms/shortest_paths/generic.py": "856bbb664aa700d7e0366423ce803da6252659a8c3563075809c00572b5f9919",
+    "networkx/algorithms/smallworld.py": "0c1ae690013535e18916e158973f057f4915eb0eb3266f46af2e91bb743fb8bb",
+    "networkx/algorithms/swap.py": "35564c9a59e4771830c0dc39183adcf3068d11171d0aee76c9d1dc05d380fe1c",
+    "networkx/generators/social.py": "6ebcc049ca40c5619113113d27b16e889dbd419c419bc6d7a518027342281cfd",
+    "networkx/utils/random_sequence.py": "924dc5f3fe5c6b3a2521e48bfde0dd673435e5a0776f99476b379ff6433534dc"
+  },
+  "swap_Git_blob_verified": "cb3cc1c0e75c375ae49976e21fcccf2dc6c76231",
+  "static_input_replay_matches_archived_output": true,
+  "static_review_bytes": 1150,
+  "static_review_decompressed_sha256": "784fc73cde9220d58681c5e4ca7ede72a6b3567ffd4b694907e1e1ea773c4a3c",
+  "third_party_code_executed": false,
+  "numerical_experiment": false,
+  "temporary_files": [
+    {
+      "name": "LICENSE.txt",
+      "bytes": 1763,
+      "sha256": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e"
+    },
+    {
+      "name": "random_sequence.py",
+      "bytes": 5303,
+      "sha256": "924dc5f3fe5c6b3a2521e48bfde0dd673435e5a0776f99476b379ff6433534dc"
+    },
+    {
+      "name": "shortest_generic.py",
+      "bytes": 25855,
+      "sha256": "856bbb664aa700d7e0366423ce803da6252659a8c3563075809c00572b5f9919"
+    },
+    {
+      "name": "smallworld.py",
+      "bytes": 13449,
+      "sha256": "0c1ae690013535e18916e158973f057f4915eb0eb3266f46af2e91bb743fb8bb"
+    },
+    {
+      "name": "social.py",
+      "bytes": 23416,
+      "sha256": "6ebcc049ca40c5619113113d27b16e889dbd419c419bc6d7a518027342281cfd"
+    },
+    {
+      "name": "swap-content.json",
+      "bytes": 21435,
+      "sha256": "9d429c0d0e14e429895cfca27574fba128309a780957ff7b171998e85eca3f3f"
+    },
+    {
+      "name": "swap.py",
+      "bytes": 14744,
+      "sha256": "35564c9a59e4771830c0dc39183adcf3068d11171d0aee76c9d1dc05d380fe1c"
+    },
+    {
+      "name": "tag-object.json",
+      "bytes": 1959,
+      "sha256": "f8ad91f41e85705fb141c3c7e36736788bfdd1e2253cc1c4e9a0c5177c4d9dd1"
+    },
+    {
+      "name": "tag.json",
+      "bytes": 392,
+      "sha256": "bb3c5a9b647dddb9228eabd57088fdfcf76c8498b2c013db3371288d68709c4b"
+    }
+  ],
+  "temporary_bytes": 108316,
+  "cleanup": "Task-owned exact9files directory removed after source/member/replay hashes; compressed source/license and static review retained"
+}

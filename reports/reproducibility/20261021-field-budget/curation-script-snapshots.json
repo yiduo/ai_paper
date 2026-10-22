@@ -1,0 +1,20 @@
+{
+  "curate_field_budget366.py": {
+    "path": "reports/reproducibility/20261021-field-budget/curate_field_budget366.py.gz",
+    "gzip_sha256": "be154c2208aa7d9ff0a665f1aa56baa0c990f0967ab58d4df0caa6564c758192",
+    "decompressed_sha256": "d4973eeb773027f0c97be4e233b3493437d4ff2b7ec67d33ac597e30db4d4af5",
+    "bytes": 13389
+  },
+  "quality_field_budget366.py": {
+    "path": "reports/reproducibility/20261021-field-budget/quality_field_budget366.py.gz",
+    "gzip_sha256": "c70111b9d18953ad7e02a6575eef0d5f0c23f48678b51612d69ab666e804ac25",
+    "decompressed_sha256": "55437a47e84dd075eef6b868f183fc6cdefd309243a8a71f50d68ef6650235db",
+    "bytes": 2905
+  },
+  "finish_field_budget366.py": {
+    "path": "reports/reproducibility/20261021-field-budget/finish_field_budget366.py.gz",
+    "gzip_sha256": "61719377ca55c3f425e870f572b436eaaeb9649604ba1618f5920e0118c45a78",
+    "decompressed_sha256": "9235089814cf23e3b0e7a28392a8eb601d8652888363085ef08b3421782b58d4",
+    "bytes": 10079
+  }
+}

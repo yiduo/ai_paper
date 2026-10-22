@@ -1,0 +1,32 @@
+{
+  "freeze_exp119.py": {
+    "path": "reports/reproducibility/20261021-binary-budget/freeze_exp119.py.gz",
+    "gzip_sha256": "8eb950b2d3625c90a80b53baf01837f0fb6456369ee99da43f0260bc02bf7b42",
+    "decompressed_sha256": "0f430eae871a26727db3e4e8d1140e817180c2d424d1367e51eae1a03b54d716",
+    "bytes": 9042
+  },
+  "curate_exp119.py": {
+    "path": "reports/reproducibility/20261021-binary-budget/curate_exp119.py.gz",
+    "gzip_sha256": "aa5736e28af265fd87aa0e2be60329afb4023e2cc3ab25569d80433570bf2fa4",
+    "decompressed_sha256": "47e191cdaf23ade5fb275bac6caa4d10a9bd42fa89f6a6ae711636bcd97503fe",
+    "bytes": 9433
+  },
+  "update_analysis119.py": {
+    "path": "reports/reproducibility/20261021-binary-budget/update_analysis119.py.gz",
+    "gzip_sha256": "07067607294815709bd6abd5c90f8dd38bdd911d7ddaecf1fef5ff5b4a9bbebc",
+    "decompressed_sha256": "7cdd4bfbbffd362b0c6ad4a2c2324de8de3d880aeffbbdca317cbe21dd91ceaa",
+    "bytes": 1791
+  },
+  "quality_exp119.py": {
+    "path": "reports/reproducibility/20261021-binary-budget/quality_exp119.py.gz",
+    "gzip_sha256": "d5412b42f41722568b6ab5160165156e4cc3da869d16ab51538cfce490047460",
+    "decompressed_sha256": "d5ee9400785fb5845b16f90928176c8ff596b7cfdd4cffc8a0939b4d7359a339",
+    "bytes": 2907
+  },
+  "finish_exp119.py": {
+    "path": "reports/reproducibility/20261021-binary-budget/finish_exp119.py.gz",
+    "gzip_sha256": "ddf3843e3756062b77a6c45f3babf51835e23a28ced79842513637222386c09e",
+    "decompressed_sha256": "d3522eeea0d2901493cc0ac6d04e228167821c0ea3a193c78aefd78c0286e6f1",
+    "bytes": 10346
+  }
+}

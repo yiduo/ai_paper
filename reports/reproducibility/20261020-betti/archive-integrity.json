@@ -1,0 +1,109 @@
+[
+  {
+    "run": "CHK-200-LEX-001-433f4f99a2d5ac2e",
+    "archived_files_match": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+    "archived_files_match": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "EXP-097-001-f4db184a4c5e6d4d",
+    "archived_files_match": {
+      "spec.json": true,
+      "inputs.json.gz": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "manifest.before-compression.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "EXP-128-001-adf42abc31aca23e",
+    "archived_files_match": {
+      "spec.json": true,
+      "inputs.json.gz": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "manifest.before-compression.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "EXP-130-001-eadb2e7b3a00d556",
+    "archived_files_match": {
+      "spec.json": true,
+      "inputs.json.gz": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "manifest.before-compression.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "EXP-200-001-a8300854205212bf",
+    "archived_files_match": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "EXP-238-001-a1d52c04aeb9b1ba",
+    "archived_files_match": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  },
+  {
+    "run": "EXP-374-001-bc1d2887fa6a5d33",
+    "archived_files_match": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "decompressed_payloads_match": {
+      "raw.json.gz": true,
+      "summary.json.gz": true
+    }
+  }
+]

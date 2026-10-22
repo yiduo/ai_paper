@@ -1,0 +1,669 @@
+{
+  "family_id": "F-119",
+  "generation_id": "GEN-20261021-044",
+  "recorded_at": "2026-10-20T21:23:53.421736+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-7b195817917cb11a",
+    "P-77c6b4075ae8a38d"
+  ],
+  "body_source_lines": 5640,
+  "total_tex_lines": 5858,
+  "first_bibliography_lines": 241,
+  "second_bibliography_lines": 115,
+  "second_bib_in_total_tex": true,
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "read_files": [
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/figures/reflected-core.tex",
+      "sha256": "2b2720249b7f9bf93e579b180833ed3f1cd3aed0cc992f8bf2a64a8adeeecc41",
+      "lines": 18,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/main.tex",
+      "sha256": "ad04285e5eaa23a9b7a897f4501176e13f139bb04811c91576d5cc717cb5f8ca",
+      "lines": 334,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/canonical.tex",
+      "sha256": "fc449aa1321ed2fd73b4791311a6f61f4de16a99609021e3a94ebcbb381a0ed7",
+      "lines": 310,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/capacity.tex",
+      "sha256": "f0a33b2ce10a3055f8333bf817e779417be9819b3acf519008bc26ce07c9f53c",
+      "lines": 116,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/flow.tex",
+      "sha256": "9065dd3bd4bf33f66547e58c0a39c5841103f48d134cbe9eea392ec5289653c1",
+      "lines": 116,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/reserve.tex",
+      "sha256": "2b4c8b10712f4c15a4e3787c9e0f9687d6020110987f50b1612a3139f221171c",
+      "lines": 291,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/scalar.tex",
+      "sha256": "03b64ba1af8ce45b6d4670c0cf919abc119838e9624e06c5c0e2c720032007cb",
+      "lines": 219,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/thinning.tex",
+      "sha256": "c52291a2068e607bf09e56761a6e8c0c6ef75b24c3d33385f45899f7a4b96cc8",
+      "lines": 493,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/upgrade.tex",
+      "sha256": "2c0d5677a9dbc7a070dea066b50ceca5e0655fa1beb9cddb0d5f312274a09947",
+      "lines": 284,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/README.md",
+      "sha256": "0e82e66c549753a9362cacf618d7a60883c03ffba06ec88a8e0d47be075b8527",
+      "lines": 18,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/figures/proof-regions.tex",
+      "sha256": "ad972a66dc52f1abfe3fbc0416b90fdf3c1f1d947e595449a747491de95f3ecb",
+      "lines": 34,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/main.tex",
+      "sha256": "b286e05e0e9321c4a0cb925734a078b127e9d8694e8fccc5d4f6a484bfb0347b",
+      "lines": 195,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/arithmetic.tex",
+      "sha256": "e175c68e2674f88282ddf06d0ade02b765f3489d49e31608ef3fd061cbfddc8d",
+      "lines": 106,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/central.tex",
+      "sha256": "4299dce6a51124a18754cbd964adfeeded192d145ff78d5518dce6067a63f860",
+      "lines": 632,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/conclusion.tex",
+      "sha256": "237d7117ffcbe2357436a7a7106821d71278f27d54be15b598ede1e9482e2761",
+      "lines": 74,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/continuation.tex",
+      "sha256": "e66a6045882baf985dd9ea7569ffed62b9ee3b716c90a7f6f8f3b4c15bde5521",
+      "lines": 126,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/induction.tex",
+      "sha256": "1a8ce2bbd7dd38bec9c688cbc9b626abcd21218065ff0caf06dc91842ee3d9cf",
+      "lines": 363,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/intermediate.tex",
+      "sha256": "6449ecf10b7bd68bd4a7b8ea3eb0d640ddd176d9d37379695272ea28b02d4664",
+      "lines": 561,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/large-bias.tex",
+      "sha256": "12e31ef806052b4c6cddcb519e6bcb56d14439a9b2d90aca72077a87485a7d83",
+      "lines": 465,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "d1d8b9f19f7a3813de9caf75ad9a2a288bec75dce8804abce00aa556b5fa8fe2",
+      "lines": 44,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/references.tex",
+      "sha256": "2e57a8f32d33e9f4895c4debc8879f4e81417b73294b81e44ecfa40ce10d1f98",
+      "lines": 115,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/scalar.tex",
+      "sha256": "8b7936e2e2aead6a7f10a1d9fe283d2b9345be59ab93278c5e875c80cdff73e5",
+      "lines": 911,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/supporting/typography-mappings.tex",
+      "sha256": "d7ec677b39df35dc522cf73aaa1ab8dc05f76a3419efe1f0013e8621cf38b2f1",
+      "lines": 51,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/README.md",
+      "sha256": "5430c1bcd0d10602c467bb0ae53dddbd54fd822c98cdd7af5ef2f00df3af34cd",
+      "lines": 35,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/references.bib",
+      "sha256": "e3ad73bb650998fd012597fc14f72320dee293aa475e7f69f703e19f1df738c2",
+      "lines": 241,
+      "read_scope": "Whole naturalmodule/proof/figure/supportingglyphfile orallbibliographyentries actuallyread"
+    }
+  ],
+  "result_notes": {
+    "S::main:soft": {
+      "statement": "固定初始信息的随机二元通道经均匀独立比特BSC后，I(Tρu)≤ψ(|ρ|ψ^-1(I(u)))，软坐标等号。",
+      "conditions": "任意有限n含0，u∈[-1,1]；输入均匀独立，噪声对称独立；自然对数，ρ∈[-1,1]。",
+      "constants_and_limits": "更早Chen2026 Lemma9.2的F分支已可推出相同曲线；不是新数值预算增益，也不覆盖非均匀／相关输入。",
+      "selected_grade": "B"
+    },
+    "S::main:ck": {
+      "statement": "Boolean摘要按输出均值m细化为ψ(|ρ|ψ^-1(H(m)))，再≤ψ(|ρ|)；非零非退化偏置时前者严格小。",
+      "conditions": "Boolean值±1、均匀独立输入与BSC；输出偏置不等于输入偏置，严格性需0<|m|<1与|ρ|>0。",
+      "constants_and_limits": "有偏Boolean未必达到细化曲线；不能把“全噪声向量”换成对方已压缩的一比特观察。",
+      "selected_grade": "B"
+    },
+    "S::upgrade:production": {
+      "statement": "内点软场的信息生产率D≥max(B_m(I),F(I))≥F(I)。",
+      "conditions": "u所有值严格在(-1,1)，N=1/2Σ(Id−flip)，D=E[atanh(u)Nu]；I=H(m)−EH(u)。",
+      "constants_and_limits": "B_m=2I+(1−m²)S(L−(H(m)−I)/(1−m²))；S负参零延拓仅C1。该速率不是有限t收缩曲线，需另积分并控制数值误差。",
+      "selected_grade": "B"
+    },
+    "S::scalar:entropy-bounds": {
+      "statement": "熵缺口满足r²/2≤ψ(r)≤Lr²，H(r)≥L(1−r²)，并给L与M=4L²/3的有理界。",
+      "conditions": "|r|≤1，L=ln2，0log0=0；ψ(r)/r²在正区间严格增。",
+      "constants_and_limits": "这些是证明中的经典标量输入；H为二元熵，不是另一手稿的平方根函数。",
+      "selected_grade": "C"
+    },
+    "S::scalar:profile-convexity": {
+      "statement": "F光滑凸，F′(0)=2、F″≥4/3、F‴≥0；S=F−2I零延拓非负单调凸且C1。",
+      "conditions": "F(ψ(r))=r atanh(r)，0≤I<L。",
+      "constants_and_limits": "S在0的二阶导跳跃；不得按全局C2跨接缝微分。F在L没有有限端点值。",
+      "selected_grade": "C"
+    },
+    "S::scalar:curvature-growth": {
+      "statement": "e^-2I F″(I)严格递增，I>0时F‴/F″>2。",
+      "conditions": "0≤I<L；用正双曲积分表达式及连续延拓。",
+      "constants_and_limits": "只用于规定熵区间的斜率比较，不是任意散度轮廓的通用性质。",
+      "selected_grade": "C"
+    },
+    "S::scalar:scaled-curvature": {
+      "statement": "缩放曲率P(h)=h²F″(L−h)介于1/2和4L²/3。",
+      "conditions": "0<h≤L；证明将熵写作正矩积分并比较协方差。",
+      "constants_and_limits": "尾端h=0不取值；常数不依赖维度但仅该熵／速率规范适用。",
+      "selected_grade": "C"
+    },
+    "S::canonical:priced": {
+      "statement": "固定两个均值的熵定价连接问题有唯一最优：一个有序内点核加两个可能的共同输出角。",
+      "conditions": "-1<b<a<1，价格p≥0；连接代价边界只在同角为零，其余边界无穷。",
+      "constants_and_limits": "在一份平均熵预算下作松弛；非任意给定两个单独熵矩的替换定理。",
+      "selected_grade": "C"
+    },
+    "S::canonical:coverage": {
+      "statement": "每个0<e≤最大平均熵都由三点定价最优律达到，并且实际平均熵恰为e。",
+      "conditions": "均值固定且非同值；价格连续、p→∞熵趋零，非负价格保证≤e约束方向。",
+      "constants_and_limits": "同均值差为0时成本直接为0；两角／一角阈值与生产率半信息阈值不同。",
+      "selected_grade": "C"
+    },
+    "S::capacity:onebit": {
+      "statement": "有偏单比特通道的生产率D≥αF(J/α)，且J<αL，α=1−m²。",
+      "conditions": "g=m+δX，X公平，|m|+|δ|<1；后验的大小偏置信息权重。",
+      "constants_and_limits": "不是一般高维场的直接一比特分解；Kramer–Saglam同相关一比特比较的导数已给该机制。",
+      "selected_grade": "C"
+    },
+    "S::reserve:geometry": {
+      "statement": "共同输出角几何满足(1−m)²log(α/β)≤3κ。",
+      "conditions": "|m|<1，0≤δ<1−|m|，α=1−m²、β=α−δ²、κ=−log(1−δ²/(1+m)²)/2。",
+      "constants_and_limits": "对数有合法正分母；不把零δ除去后遗忘退化情形。",
+      "selected_grade": "C"
+    },
+    "S::reserve:corner": {
+      "statement": "给连接储备付款W添加任一共同输出后，需求至多按保留质量缩小。",
+      "conditions": "物理均值／差／平均熵，0<τ≤1；共同角沿均值、差、熵同步缩放。",
+      "constants_and_limits": "允许原均值任意符号；沿路径只用C1延拓，不能对任意混合律直接套同一路径。",
+      "selected_grade": "C"
+    },
+    "S::reserve:joining": {
+      "statement": "连接代价支付父B_m与原两个子轮廓均值之差。",
+      "conditions": "任意耦合子变量、各子熵正；先凸透视汇总共同预算，再用三点最优律支付代价。",
+      "constants_and_limits": "保留实际两个子熵；最优律只替代代价，不把其个别熵替换到归纳假设。",
+      "selected_grade": "C"
+    },
+    "S::thinning:payment": {
+      "statement": "内点核加正共同输出时，F(ν+J)−F(ν)≤λF(J_core)。",
+      "conditions": "核中心非负、内点有序；λ>0；ν为给定输入后关于混合标记的信息。",
+      "constants_and_limits": "沿定向共同输出路径；不是任意二元通道的数据处理结论。",
+      "selected_grade": "C"
+    },
+    "S::thinning:interval": {
+      "statement": "带对数截断的熵区间积分≤−3/2 log(1−γz)。",
+      "conditions": "0≤x<1、0≤z<γ=(1−x)/(1+x)，区间端点满足σ−pz≤u≤1−z。",
+      "constants_and_limits": "x>0可闭到z=γ；x=0的1/v奇点须保留合法正端点。",
+      "selected_grade": "C"
+    },
+    "S::thinning:window": {
+      "statement": "共同输出路径的实际熵窗口满足积分损失≤3κ。",
+      "conditions": "定向核提供e≥σH(d/σ)及J≤Ld²/(σp)，才可合法扩大窗口。",
+      "constants_and_limits": "该熵下界不是每个同均值耦合律均成立；不得脱离路径迁移。",
+      "selected_grade": "C"
+    },
+    "S::thinning:high-value": {
+      "statement": "三点最优连接的高熵一角区域，成本≥F(H(x)−e)−F(平均子均值熵−e)。",
+      "conditions": "x≥0,d>0,x+d<1；e处于一角转变值到容量值之间。",
+      "constants_and_limits": "局部付款仍需原子熵凸性汇总；不能把所有低熵状态直接归入一角。",
+      "selected_grade": "C"
+    },
+    "S::upgrade:high-information": {
+      "statement": "I≥L/2时储备B_m(I)≥F(I)，非零均值严格。",
+      "conditions": "|m|<1，L/2≤I<H(m)；对曲率与指数精确平衡。",
+      "constants_and_limits": "只有严格F分支不足的父状态才必须落在I<L/2，不声称沿任何均值路径活动分支不变。",
+      "selected_grade": "C"
+    },
+    "S::wall:monotonicity": {
+      "statement": "低于半信息时，在固定子均值差与平均熵下，F父子需求随正共同均值严格增。",
+      "conditions": "m,d>0,m+d<1，物理e，I≤L/2；j=0用单侧导数。",
+      "constants_and_limits": "不越过物理状态，先保持信息范围；不是任意I或任意输出翻转的单调性。",
+      "selected_grade": "C"
+    },
+    "S::upgrade:joining": {
+      "statement": "增强轮廓max(B_m,F)满足任意耦合的父子连接不等式。",
+      "conditions": "子熵为正；B分支用储备，严格F分支先证明低信息，再用一角付款或反射核到墙的比较。",
+      "constants_and_limits": "以原子熵作Jensen；闭合max并不表示F单独在所有耦合律满足局部比较。",
+      "selected_grade": "C"
+    },
+    "H::thm:main": {
+      "statement": "任意偏置Boolean输出的平方根亲和度损失H(m)−EH(Tρf)≤1−√(1−ρ²)。",
+      "conditions": "均匀独立输入，Boolean±1，ρ∈[-1,1]；本稿H(t)=√(1−t²)。",
+      "constants_and_limits": "这是加权亲和度损失H(m)(1−A)，非有偏条件律的裸1−A；不自动给软通道生产率。主张C，实际对应完整形式化未确认。",
+      "selected_grade": "C"
+    },
+    "H::ind:lem:compression": {
+      "statement": "逐坐标排序可把Boolean函数化为同均值递增函数，平方根噪声平均不增加。",
+      "conditions": "正噪声核和凹偶平方根轮廓；已排序其他坐标被保留。",
+      "constants_and_limits": "来源ABCJN压缩原理；不保留任意学习任务语义或个体条件风险。",
+      "selected_grade": "C"
+    },
+    "H::ind:lem:coordinate": {
+      "statement": "至少四个活动坐标的递增函数有最小正一阶系数≤min(3/8,9/16−|m|/2,1−|m|)。",
+      "conditions": "均匀四个符号的顶部分位质量松弛；该坐标的两个面均值为m±x。",
+      "constants_and_limits": "活动数≤3必须走独立基例，不可假定所有坐标都小。",
+      "selected_grade": "C"
+    },
+    "H::lem:scalar": {
+      "statement": "七参数组／十七多项式轮廓满足两点、反射、归纳闭合与三位基例四项标量不等式。",
+      "conditions": "0<s≤.84，所有小数按精确有理数；每交界选完整同一行的参数／轮廓。",
+      "constants_and_limits": "依赖附录的区间与Bernstein有限证书；代码／表格存在不是本地复验通过。",
+      "selected_grade": "C"
+    },
+    "H::ind:prop:asymmetric": {
+      "statement": "每个递增Boolean函数满足非对称G轮廓平均≥sB(m)。",
+      "conditions": "既定s参数和原子标量界；非负根对两个子变量单调后才可代入归纳下界。",
+      "constants_and_limits": "Cauchy–Schwarz使用绝对值，不预设剪切表达式符号；G非对称需同时对偶。",
+      "selected_grade": "C"
+    },
+    "H::thm:induction": {
+      "statement": "当s=√(1−ρ²)≤.84时，平方根噪声平均满足目标偏置界。",
+      "conditions": "压缩、非对称归纳和f*(x)=−f(−x)反射平均。",
+      "constants_and_limits": "只覆盖初始噪声区间；其余范围依赖后续能量穿越排除。",
+      "selected_grade": "C"
+    },
+    "H::lem:crossing": {
+      "statement": "若初始区间界成立却后来失效，则首个等号点满足能量E≤r/s。",
+      "conditions": "s≥.84，r=ρ²；噪声时间τ=−logρ，导数db/dτ=E,ds/dτ=r/s。",
+      "constants_and_limits": "签名坐标全程等号单列；另一原文的时间ρ=e^-2t须τ=2t转换。",
+      "selected_grade": "C"
+    },
+    "H::lem:basic-energy": {
+      "statement": "平方根能量≥变换g=F(d)的Dirichlet能量≥Var(g)。",
+      "conditions": "F′=(1−d²)^-3/4，有限立方体内点；逐边Cauchy–Schwarz与谱隙。",
+      "constants_and_limits": "该F与信息手稿的F完全不同；不得混用同字母或数值轮廓。",
+      "selected_grade": "C"
+    },
+    "H::lem:fourier-bounds": {
+      "statement": "Boolean一阶权重受输出稀少概率的二／四阶矩界，给Var(d)及奇部方差上界。",
+      "conditions": "p=(1−m)/2，w=min(2p,4√(3/2)p^1.5)；偶／奇次数区分。",
+      "constants_and_limits": "只用Boolean谱质量，不能直接给随机软通道同样界。",
+      "selected_grade": "C"
+    },
+    "H::prop:central": {
+      "statement": "中心偏置带的穿越条件只允许签名坐标。",
+      "conditions": "s≥.84,0≤m≤r²/2，b=H(m)−1+s,E≤r/s。",
+      "constants_and_limits": "须保留校准能量差Δ与一阶谱分散代价，不能按基本Poincare粗界即判矛盾。",
+      "selected_grade": "C"
+    },
+    "H::cen:edge": {
+      "statement": "校准逐边能量≥(Dg)²+Φ((Dg)²)，并给Φ与商j的凸性／单调性。",
+      "conditions": "F反变换及中心化固定长度区间；平方根内点。",
+      "constants_and_limits": "按区间中心移动合法域证明，非任意噪声核都可校准成坐标。",
+      "selected_grade": "C"
+    },
+    "H::cen:constants": {
+      "statement": "中心穿越处Φ(M)/M,p*,p*/M,Δ/M分别有四个显式小有理上界。",
+      "conditions": "b>.839、有限校准参数与二项式正项截断。",
+      "constants_and_limits": "数字是精确有理比较；本地central_band证书未执行。",
+      "selected_grade": "C"
+    },
+    "H::cen:k-bounds": {
+      "statement": "比较函数k在[0,1]被两二次式夹住，且−k′在1与两个显式上界之间。",
+      "conditions": "奇变换F及平方根参数u，t=1用单侧极限；奇端点用后向积分比较。",
+      "constants_and_limits": "端点正则性经论证，不能把ODE奇端点当普通初值直接数值积分。",
+      "selected_grade": "C"
+    },
+    "H::cen:pointwise": {
+      "statement": "中心带点态余项支付V0二次量及额外方差，除u=y外严格。",
+      "conditions": "两个多项式矩形的Bernstein系数全正；校准点u=y单独含.88m²。",
+      "constants_and_limits": "依赖打印系数行及精确有理重构；没有完成全部脚本运行或人工审核。",
+      "selected_grade": "C"
+    },
+    "H::cen:strict-variance": {
+      "statement": "中心带Var(g)−M有严格校准余量，m>0再获.016m²。",
+      "conditions": "穿越条件和Boolean谱界；保留Δ/(1+p*)抵消。",
+      "constants_and_limits": "m=0只在g²=M处可能不严格；该例外后续需恢复签名坐标，不能略掉。",
+      "selected_grade": "C"
+    },
+    "H::prop:intermediate": {
+      "statement": "中间偏置r²/2≤m≤.74且等号b=H(m)−1+s时能量严格>r/s。",
+      "conditions": "s≥.84，奇偶谱分解、输出概率一阶权重、三段偏置余量。",
+      "constants_and_limits": "范围边界与严格不等式必须同向，不能用大矩形参数代替实际角域正分母。",
+      "selected_grade": "C"
+    },
+    "H::mid:pointwise": {
+      "statement": "角坐标余项在三偏置段分别≥(1/2−2m²)V²、−.01V、−.02V。",
+      "conditions": "d∈(-1,1)，m在0到.74；用正幂级数和六个Bernstein符号证书。",
+      "constants_and_limits": "矩形可含N≤0，但除N只发生实际角域N>0；符号验证范围更大不允许无条件除法。",
+      "selected_grade": "C"
+    },
+    "H::prop:large-bias": {
+      "statement": "m≥.74、s≥.84时由正反向超收缩范数直接得目标平方根界。",
+      "conditions": "把稀少输出指标平滑后，p≤.13，用级数前十项和尾质量及四噪声区间有理上包。",
+      "constants_and_limits": "大偏置不依赖穿越等号；四张表是精确整数天花板，不是浮点采样格。",
+      "selected_grade": "C"
+    },
+    "H::lb:log-sobolev": {
+      "statement": "均匀立方体正函数满足Ent(a²)≤2E[aNa]。",
+      "conditions": "单比特归一化、熵凸性张量化，N=Σ(Id−E_i)。",
+      "constants_and_limits": "既有经典输入的自含证明，不计新应用或新定理。",
+      "selected_grade": "C"
+    },
+    "H::lb:norm-bounds": {
+      "statement": "正／反向立方体范数界按q>1与0<q<1反向，p_q=1+e^-2τ(q−1)。",
+      "conditions": "u0≥0，有限cube；从严格正加ε后取极限，所有指数保持正。",
+      "constants_and_limits": "无稀少事件外推；保留正反方向与时间倍数。",
+      "selected_grade": "C"
+    },
+    "H::cor:ck": {
+      "statement": "平方根加权亲和度界经凸单调φ和Jensen推出一般偏置Boolean的CK信息上限。",
+      "conditions": "均匀独立输入/BSC，信息单位bits，p∈[0,1/2]；签名坐标等号。",
+      "constants_and_limits": "同一普通结论有实际SoftChannel／BooleanNoise静态规格；并不因此覆盖本稿Hellinger主定理。",
+      "selected_grade": "B"
+    }
+  },
+  "selected_original_scopes": {
+    "CourtadeKumar2014": {
+      "url": "https://people.eecs.berkeley.edu/~courtade/pdfs/CourtadeKumar_TransITAug2014.pdf",
+      "file": "courtade2014.pdf",
+      "locator": "OriginalauthorhostedIEEEpaper;selectedprinted4515 Conj1,Thm1andInformationBottleneckEq3/applicationparagraph;notfull11pagepaper",
+      "scope": "Originalonebit/noisy-vectorproblem explicitlylinkedtoinformationbottleneck. OldbalancedcoordinatewiseMI-sumbound isweakerthanjointvectorbound;randomizedonebitunconstrainedoptimumdiscussion doesnotsettlefixedmean/initialIbudget.",
+      "pdf_sha256": "035bf9040743238047efa673a17d848cbe5e664bc20520b29607d1079a34b258",
+      "pdf_bytes": 489006,
+      "extracted_text_sha256": "d5e2dffdc8a659ee1021e72d51b65d2ef9b35d3707b784b54bc6ecfba3d7665e",
+      "content_checked": true
+    },
+    "ABCJN": {
+      "url": "https://chandra.ie.cuhk.edu.hk/pub/papers/HC/hel-conj.pdf",
+      "file": "abcjn2017.pdf",
+      "locator": "Authororiginal2017manuscript;selectedpp1-2 model/Conj1-2/Lemma1/Prop1includingproof;Prop2compressionstatementandfirstproofstepspp5-6,notfullproof",
+      "scope": "HellingerweightedbiaslossimpliesordinaryCKthroughconvexbinaryentropycomposition;compressionpreservesmean andmovesconvexPhi indefineddirection. Conjecturestatusinthe2017original,notproof.",
+      "pdf_sha256": "22199b9beddd5e31f2d3586ec5b32c6d8afd8128d311421c7a751c91a91a1ed2",
+      "pdf_bytes": 211848,
+      "extracted_text_sha256": "7e412d42707a2336b86ab849d0b3f7624642b74d02ea1db4356b354636b6afaf",
+      "content_checked": true
+    },
+    "ChenGohariNair2025": {
+      "url": "https://arxiv.org/pdf/2502.10019v2",
+      "file": "chen2025v2.pdf",
+      "locator": "5Aug2026v2,selectedAppendixBcompleteupdate/statusofapproach withprecedingConj5;maintheorems/frameworkproofsnotfullyread",
+      "scope": "AppendixreportsConj5falsewithnear-boundarycounterexamples;doesnotdisproveConj3/CKorHellinger. AuthorattributiontoGemini-assistedsearch ishistoricalreport,notthisprojectsecond-provider/humanreview.",
+      "pdf_sha256": "edefad8015071501002af5c7c8da3ed0120cd3464247c4c35580e57b31c28923",
+      "pdf_bytes": 318316,
+      "extracted_text_sha256": "a60e3742da2937a58fd84bb689b6c5edb93fde7328824aedc9a10940b418e8f1",
+      "content_checked": true
+    },
+    "ChenEtAl2026CK": {
+      "url": "https://arxiv.org/pdf/2609.24931v1",
+      "file": "chen2026.pdf",
+      "locator": "21Sep2026v1,selectedSection9 printedpp39-40 definitions/Theorem9.1/Lemma9.2+staticinductionproofandfollowingsemigroupnormalization/deduction;selectedearlierThm1.1statement/context",
+      "scope": "HybridB=maxphi,psi appliesanyinteriorarray. OldsamefullsoftboundcomesfromFbranchkeepinginitialI. Sourcebitentropy,probabilitymean,En andrho=e^-2t convertedtofirstmanuscriptnats/signmean/D andtau=2t;fullBellman/computer-assistedproofclosureunread.",
+      "pdf_sha256": "2bc70eaee2fd3b4f757020779a5d3c61e9236308fc37186019471d4a7babfae1",
+      "pdf_bytes": 1674285,
+      "extracted_text_sha256": "04c4aa59d9d0af4efe58ee45f68ad6326a578e2cff3c78ece01623886a58b4ac",
+      "content_checked": true
+    },
+    "KramerSaglam2026": {
+      "url": "https://raw.githubusercontent.com/deepinfra/courtade-kumar/93074b31e9d280e532e4b96e89f5fb199b3b5f6a/courtade-kumar.pdf",
+      "file": "kramer2026.pdf",
+      "locator": "Fixed93074b31 source;selectedp1Thm1.1andcontinuouscaseboundary;Section2restatedinductionproof/Lemma2.4statementandposterioridentities,notwholeproof",
+      "scope": "OldBooleanfinite-noisecurve rho²[H2(mu)-nu]+nu[1-H2((1-rho)/2)],nu=4mu(1-mu),usesresamplingcorrelationrho. Onebitpointwisecomparisonhasvariancecapacity;do notsilentlyextendtoarbitrarysoftfixedinitialIorcontinuousuniforminput;authorsgivecontinuousmodelviolation.",
+      "pdf_sha256": "7457f56763a717f3468d1cd9638712ff080629bcf5359421c9a8e8efa1651707",
+      "pdf_bytes": 379251,
+      "extracted_text_sha256": "ca400daf0b98edd0bc251b44bde46863e943c2068dd072bd25dad32fd7758a8a",
+      "content_checked": true
+    }
+  },
+  "bibliography_keys": 41,
+  "bibliography_unique_roots": 33,
+  "selected_original_roots": 5,
+  "original_bodies_unread": 28,
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/docs/119.md",
+      "sha256": "402cb8d3a1043a4f7b4fe44983b258ca3d8e05a85642c55f92aacd403054ab9a",
+      "scope": "Wholeactualscopedocread;onlyfirstmanuscriptlisted"
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "scope": "OnlymatchingSharpmanuscript600-606andCourtadeconfig1133-1135;searchednoSoft/Hellingerregistration"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SoftChannel204.json",
+      "sha256": "cfcc6e29980a85f09176777ca29e34166f2ff9ba39d23f368aef434aed0f0d17",
+      "scope": "Wholeconfigread;existsnotregisteredinthepinnedcatalogue"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CourtadeKumar.json",
+      "sha256": "b7095cca718b8b49c9f60e94442f8c3583a5cec13ac6c612dbd47a431fdcac32",
+      "scope": "Wholeconfigread;registered"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SoftChannel204.lean",
+      "sha256": "31e3e3fc69bd044ec8543cacd6035887d5bf6670c94b31462bb8094f6acfd226",
+      "scope": "Wholechallengewithoneexpectedsorry"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/CourtadeKumar.lean",
+      "sha256": "f9f9d6d20d83405ed7822cb64b57f934ccd6fd3686d6eec09146465f29878eb1",
+      "scope": "Wholechallengewithoneexpectedsorry"
+    },
+    {
+      "path": "math/lean/OAI/InformationTheory/SoftChannel/Model.lean",
+      "sha256": "c30c0b0dc80c0e4ed24cd84df96b577bc549cd88948ea7fb9f6d0a3827726bcf",
+      "scope": "Wholeactualmodelread"
+    },
+    {
+      "path": "math/lean/OAI/InformationTheory/SoftChannel/Main.lean",
+      "sha256": "1e22d893da46d2d260931d83b015632c146b915b3fe2855e2b2e96712c216f4c",
+      "scope": "WholeactualentryreadincludingproductionidentityandsharpProduction"
+    },
+    {
+      "path": "math/lean/OAI/InformationTheory/BooleanNoise/Model.lean",
+      "sha256": "0ddffce8cbf2b536b8b271abcbb00b0c35b055f073d36b44b716851d3919e15b",
+      "scope": "Wholeactualmodelread"
+    },
+    {
+      "path": "math/lean/OAI/InformationTheory/BooleanNoise/Main.lean",
+      "sha256": "4d72e1ea8459138a2322d217a0e356370170855f4d854bfc1e35549febdd72eb",
+      "scope": "Wholeactualentryread"
+    },
+    {
+      "path": "math/lean/OAI/InformationTheory/BooleanNoise/Basic.lean",
+      "sha256": "b9abe78f4509d8e06fe80a7e962d2bf0dc6fca3c5f68b9cf0722af6cdf68d625",
+      "scope": "Only35-110read;notwholefile"
+    }
+  ],
+  "formal_index_only": {
+    "soft": {
+      "path": "data/graph/lean_indices/F-119-soft.json.gz",
+      "sha256": "7ebc0dd79e0212a135d845d931cefc4988becc8fc40a18325492fcfa860c1a71",
+      "local_files": 70,
+      "declarations": 1061,
+      "lexical_placeholders": 0,
+      "local_axiom_declarations": 0,
+      "external_unread_modules": [
+        "Mathlib",
+        "Mathlib.Algebra.BigOperators.Field",
+        "Mathlib.Algebra.BigOperators.Fin",
+        "Mathlib.Algebra.BigOperators.Ring.Finset",
+        "Mathlib.Algebra.MvPolynomial.Degrees",
+        "Mathlib.Algebra.Order.BigOperators.Group.Finset",
+        "Mathlib.Analysis.Calculus.Deriv.Inverse",
+        "Mathlib.Analysis.Calculus.Deriv.MeanValue",
+        "Mathlib.Analysis.Calculus.Deriv.Mul",
+        "Mathlib.Analysis.Calculus.Deriv.Shift",
+        "Mathlib.Analysis.Calculus.Deriv.Slope",
+        "Mathlib.Analysis.Calculus.LHopital",
+        "Mathlib.Analysis.Convex.Deriv",
+        "Mathlib.Analysis.Convex.Function",
+        "Mathlib.Analysis.Convex.Jensen",
+        "Mathlib.Analysis.Convex.Mul",
+        "Mathlib.Analysis.Normed.Group.FunctionSeries",
+        "Mathlib.Analysis.ODE.Gronwall",
+        "Mathlib.Analysis.PSeries",
+        "Mathlib.Analysis.Real.Sqrt",
+        "Mathlib.Analysis.SpecialFunctions.Artanh",
+        "Mathlib.Analysis.SpecialFunctions.BinaryEntropy",
+        "Mathlib.Analysis.SpecialFunctions.ExpDeriv",
+        "Mathlib.Analysis.SpecialFunctions.Log.Basic",
+        "Mathlib.Analysis.SpecialFunctions.Log.Deriv",
+        "Mathlib.Data.Fin.Tuple.Basic",
+        "Mathlib.Data.Fintype.BigOperators",
+        "Mathlib.Data.Set.Function",
+        "Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus",
+        "Mathlib.Tactic",
+        "Mathlib.Tactic.FieldSimp",
+        "Mathlib.Tactic.Linarith",
+        "Mathlib.Tactic.NormNum",
+        "Mathlib.Tactic.Positivity",
+        "Mathlib.Tactic.Ring",
+        "Mathlib.Topology.Algebra.InfiniteSum.Order",
+        "Mathlib.Topology.Algebra.InfiniteSum.Ring",
+        "Mathlib.Topology.MetricSpace.Lipschitz",
+        "Mathlib.Topology.Order.MonotoneContinuity"
+      ],
+      "local_build": false,
+      "comparator": false
+    },
+    "boolean": {
+      "path": "data/graph/lean_indices/F-119-boolean.json.gz",
+      "sha256": "c2aaa2fc4e9fdd864a0106f37da14162ef0ef39c7d0dc07d13d330e298a9c5e5",
+      "local_files": 43,
+      "declarations": 718,
+      "lexical_placeholders": 0,
+      "local_axiom_declarations": 0,
+      "external_unread_modules": [
+        "Mathlib",
+        "Mathlib.Algebra.BigOperators.Field",
+        "Mathlib.Algebra.BigOperators.Fin",
+        "Mathlib.Algebra.BigOperators.Ring.Finset",
+        "Mathlib.Algebra.MvPolynomial.Degrees",
+        "Mathlib.Algebra.Order.BigOperators.Group.Finset",
+        "Mathlib.Analysis.Calculus.Deriv.Inverse",
+        "Mathlib.Analysis.Calculus.Deriv.MeanValue",
+        "Mathlib.Analysis.Calculus.Deriv.Mul",
+        "Mathlib.Analysis.Calculus.Deriv.Shift",
+        "Mathlib.Analysis.Calculus.Deriv.Slope",
+        "Mathlib.Analysis.Calculus.LHopital",
+        "Mathlib.Analysis.Convex.Deriv",
+        "Mathlib.Analysis.Convex.Function",
+        "Mathlib.Analysis.Convex.Jensen",
+        "Mathlib.Analysis.Convex.Mul",
+        "Mathlib.Analysis.Normed.Group.FunctionSeries",
+        "Mathlib.Analysis.ODE.Gronwall",
+        "Mathlib.Analysis.PSeries",
+        "Mathlib.Analysis.Real.Sqrt",
+        "Mathlib.Analysis.SpecialFunctions.Artanh",
+        "Mathlib.Analysis.SpecialFunctions.BinaryEntropy",
+        "Mathlib.Analysis.SpecialFunctions.ExpDeriv",
+        "Mathlib.Analysis.SpecialFunctions.Log.Basic",
+        "Mathlib.Analysis.SpecialFunctions.Log.Deriv",
+        "Mathlib.Data.Fin.Tuple.Basic",
+        "Mathlib.Data.Fintype.BigOperators",
+        "Mathlib.Data.Set.Function",
+        "Mathlib.MeasureTheory.Integral.IntervalIntegral.FundThmCalculus",
+        "Mathlib.Tactic",
+        "Mathlib.Tactic.FieldSimp",
+        "Mathlib.Tactic.Linarith",
+        "Mathlib.Tactic.NormNum",
+        "Mathlib.Tactic.Positivity",
+        "Mathlib.Tactic.Ring",
+        "Mathlib.Topology.Algebra.InfiniteSum.Order",
+        "Mathlib.Topology.Algebra.InfiniteSum.Ring",
+        "Mathlib.Topology.MetricSpace.Lipschitz",
+        "Mathlib.Topology.Order.MonotoneContinuity"
+      ],
+      "local_build": false,
+      "comparator": false
+    }
+  },
+  "registration": "Sharpmanuscript/CourtadeKumarregistered;actualSoftChannelconfig/Mainexistsbutnotregistered;pinned119scopedocdoesnotlistHellingerpaper;matchingHellingerformalproofnotestablished.",
+  "verification_scope": [
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/verification/README.md",
+      "sha256": "a7ba6c6c45759facfd33e99c420fed56282e680c742af895309951e4cd3dfa6b",
+      "scope": "WholeREADME/requirementsread"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/verification/requirements.txt",
+      "sha256": "25f9f1fb1988b230147a1d3092d34e09c069eb7a6c6d6df46b3973b9f2d36efc",
+      "scope": "WholeREADME/requirementsread"
+    }
+  ],
+  "arithmetic_verification": {
+    "status": "not_run",
+    "code_files_mathematically_audited": false,
+    "sympy_current_python_available": false,
+    "required_version": "1.14.0",
+    "compiler_present": "/usr/bin/clang++",
+    "dependency_installation": false,
+    "reason": "CurrentinterpreterlacksSympy;noinstallandnofullcode/resourceaudit. Manuscriptrational/intervalproofreadisnotexecutionorproofassistantverification."
+  },
+  "older_comparison": {
+    "old_soft_bound_same": true,
+    "old_mean_profile": "Cm(I)=max(F(L-h)-abs(m)*atanh(s),F(I));abs(m)H(s)=h*s,h=H(m)-I;usem=0limitF(I)",
+    "new_profile": "Bhatm=max(2I+(1-m²)S(L-h/(1-m²)),F(I))",
+    "normalization": "Oldbitmeanmu=(1+m)/2,bitconditionalentropy=h/ln2,En=2D/ln2,oldtime t mapsnewtau=2t. Oldhybridproductionboundmustbemultipliedln2/2.",
+    "strictness": "Atfixed0<m<1,h→0,newBm/oldCm→1+m. Thisasymptoticcomparisonisnotafinitegainmeasurement.",
+    "caveat": "CGN2025v2AppendixBConj5false,notConj3/CK/Hellingerrefutation;historicalGeminiattributionnotourindependentreview."
+  },
+  "new_application_connection_ids": [
+    "APP-119-01"
+  ],
+  "new_numerical_run": null,
+  "storage": "FiveoriginalPDF/textbyteshashedthenremovedaftercuration;no redistributedcopyrightedpapers. Lexicalindicesandcurationhelperscompressed;noLean/simulationcache/dependencies."
+}

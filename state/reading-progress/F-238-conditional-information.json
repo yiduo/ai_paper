@@ -1,0 +1,365 @@
+{
+  "work_package": "WP-036",
+  "status": "canonical_curated_WP036_complete",
+  "recorded_at": "2026-10-20T18:58:06.139639+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-494bf6af76754487",
+  "tex_files_total": 19,
+  "tex_lines_total": 6195,
+  "tex_files_fully_read": 19,
+  "tex_lines_fully_read": 6195,
+  "read_files": [
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/companion-labels.tex",
+      "lines": 34,
+      "sha256": "6f10b428cc99fcfe93bb6551c9d0985895868ce991d3b9afeae243acf4af1ac0",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/main.tex",
+      "lines": 71,
+      "sha256": "77c8cba7206651b8b33f34f00381db4ad16eb572cf7ccda44661a927c282a272",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/references.tex",
+      "lines": 150,
+      "sha256": "8a25b7aebec186e3069eebd79a763609fe99afb011e56d33618b90de25f8a7d9",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/00-introduction.tex",
+      "lines": 224,
+      "sha256": "2da63251dce518b5715d9d510b7632b564a599686d0271e53eef8e3b3f97283a",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/01-setup.tex",
+      "lines": 141,
+      "sha256": "0b8c51556f07dae31971c1fc230cab3afca5f9631194ba65c1cf60d8ab6fc214",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/02-first-route.tex",
+      "lines": 400,
+      "sha256": "2974ebcca68cfd2be73eeb91a7b833c33635e6ceb652806bcbd296d49ba179d5",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/03-base-paths.tex",
+      "lines": 133,
+      "sha256": "c73823cd4383d9b2b4964af70827643c9cb8d4639f7770db37166892317de06a",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/04-noise-extensions.tex",
+      "lines": 345,
+      "sha256": "5a548a856d02c80701f86e8074a698247155b7e82864bbb7711a63b340978577",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/05-martingales.tex",
+      "lines": 425,
+      "sha256": "a643a0f45f70f3789f9f667baafd24ae37fc19080df0236b4ae904a0a29d82af",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/06-cycles.tex",
+      "lines": 963,
+      "sha256": "4b7eb58124ccef6e2f4864e4a6780eb8cd8a65750a03c277be17e42e7dfb3321",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/07-sweeps.tex",
+      "lines": 591,
+      "sha256": "ff7bfc081b5843b3826a640f2aa27e20692164887c3fa58c2f86e321a1ecf5e1",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/08-prefix.tex",
+      "lines": 363,
+      "sha256": "5b6e33c74a9a486b4b092a7615052bea620a95d3e4b16e97fd6d586d4cc32167",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/09-cycle-entropy.tex",
+      "lines": 282,
+      "sha256": "9bddb9d064019d827185c5febf29535d4f264adaa82f3edd66014690c600ffdb",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/10-palettes.tex",
+      "lines": 260,
+      "sha256": "ec0afdc22d20fc76eb1e23ae84f61da68532e0b409971509a2dc2f27c95e5aaf",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/11-domains.tex",
+      "lines": 225,
+      "sha256": "a2cfaeeef82a05797feaeeba663d746a75aee525c85e47baa90968660262e63e",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/12-delayed-groups.tex",
+      "lines": 201,
+      "sha256": "25d9640852cc7ef42829fb0d49cfe325aac2d4af8421d09bd33294b48e6151ff",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/13-forest.tex",
+      "lines": 526,
+      "sha256": "c66c4fe482ed1fdfe2d8c72563855153007fe67a98ebeeb3d7dab3c84e54f00c",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/14-replica.tex",
+      "lines": 401,
+      "sha256": "c90ed9500d7aa7766b5e855255b3b30a6b289d1320301d9530dc6136aeb7c650",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    },
+    {
+      "path": "math/preprints/Conditional-information-under-deterministic-coordinate-sweeps-September-26-2026/build/sections/15-probes.tex",
+      "lines": 460,
+      "sha256": "9a432398a0e5044d9b12ddd366e2feb5a18db2d7358248ce243110c5cb557c41",
+      "read_scope": "entire natural source including proofs and figures;not an independent proof audit"
+    }
+  ],
+  "notes_for_resume": [
+    "All19TeX6195lines actually read including16bodymodules5940,main71,companionlabels34,bibliography150;README also read. Previous partial9TeX1923line scope superseded. Natural full reading complete;WP036 still in progress pending canonical graph curation/quality. ",
+    "ProcessPi_t=R^-tY_t,cyclic coordinate i_t=1+tmodd;physicalshuffleRS,laterleft,wholesweepsphysicalconvolution. Fixedallstartingdecks righttranslation;countingL2,naturalKL,TVhalfL1,ordinaryunnormalizedHS.",
+    "Feasible full labelled-path cylinders prescribe exactly visited time-edge bits;otherbits independentfair. Full futurepathconditioning does not alter taglawat earlier s beyond prefix;uniformavailableflow transported. SequentialtupleTV sumsactualprefixconditional errors,baseinformationvariant valid when availableendpointset determined.",
+    "Firstmain thm:first-main:specifiedfixedlists k<=7n/8 at256d TVo1; k<=15n/16 at1024d TV<=n^-3/2 eventually;full2048d. This first route is locally proved before later alternatives;uses unread Fouriercompanion trim/isotypic/reciprocaldegree.",
+    "Supportlower TV>=1-2^(tn/2)/n!, thresholdceil(2/n log2(3n!/4))=2d-O1. Fixeddfiniteconvergence argument cubeedgetranspositions+identitypadding,notnewnumeric guarantee.",
+    "noise:memory applies arbitrary deterministic sumzero vector onavailablepositions,notjustprobabilitydifference. PathwiseL2 nonincrease. xi=fnext-P_if meanzero givenpast;w=E sum f(x)^2 blocker(opposite);E||xi||²=w/2. a_t=sumj1..d2^-j w_(t-j), exact a_(t+1)=1/2(a_t+w_t-2^-d w_(t-d)). Covariance adds1/4 E[mixed(fx+fz)^2](ex-ez)(ex-ez)^T. Noisesorthogonalafterdeterministicoperators,pairdiffpropagationfactor2^-(j-1).",
+    "Comparison:w_s<=rho a_s+eta, t0>=s0+d, gamma>1/2 withrho/(2gamma-1)<=1 givesa_t<=a0 gamma^(t-t0)+eta/(1-rho). noise:halves alphaavailablefraction,deltaalpha/2,eta2exp(-alpha²n/4),gamma1-alpha/4. Previoususeactivecoordinate balanceshalves byindependentmixedcoin counts;nextd-1layersindependenthalves andpartneroccupancyuniformmean. This is notrandomdirections norindependenceofwholef andavailableset.",
+    "Firstmarginalbound sequentialcost<=n^1.5sqrt(a_T)/2. alpha1/16,T1024d =>a<=2n^-6;alpha1/8,T256d =>n³a=o1. For anyfixedalpha,A chooseC withgamma^(C-2)<2^-(A+2);KLfixedtuple<=n²a_Cd=O(n^-A). Laterentropyroute not claima betterendpointrate.",
+    "FirstFourierroute8blockcaps at256d:commonheavycosetdeletion massz>=1-2delta,normalizedcap<=4. HS²<=32C2 D^-1/2,8powersgiveinversecubeDsum. Parity0untrimmed bylastbitflip,trimparityo1. Physical2048d,notindependentmarginalsclaim.",
+    "ACTUALTheorem4.1=thm:base-path-joint:fixedp<1,q=(1+p)/2,rho=(3+p)/4,cp=-(1/8)log2rho,bceil(10/cp),T2bd. Bbase r0,listk disjoint,r0+k-1<=pn. ExpectedTV conditionalonfullbasepaths toUnifinj(k,availableendpoints)<=k n^-4 eventuallydependingonlyp. Coarseningrequiresdeterminesavailableendset;reversecyclicprocess alsoholds,emptylist0. Matchesreadrevealedcompanion usage selected scope,notindependentproofaudit/fullpaper.",
+    "Baseenergy arbitrarysumzeroavailablef:two-sweepboundE||f_2d||²<=n^-cp||f0||² usinga_next<=rho a+eta/2 afterd. Iterate2asweeps byconditioningpastonly,fixedactualset/fthenfreshfuturebits. After2benergy<=n^-10,one-tagTV<=1/2n^-4.5<=n^-4. Conditional sequentialcomparisonretainsbasepaths,averagesearlierotherpathswithendpoints. Reverseblocklaw reversesindependentinvolutivelayers withitsownbasepaths;notconditioningforwardpathsunchanged.",
+    "noiseextensions randomuniformblockers =>availableunconditionallyuniformatfixedtime,notuniformafterpaths. Lfloord/2 distinctpreviousdirectionssubcubes independent,currentpartnerothercube. Densityfailureeta=n(n+1)exp(-q2^L/8)viaBernoulli+binomialmodeconditioning. Fixedbpower2,q1/b,T100bd givesmeancomplementTV o1.",
+    "noise:covariance-marginal 3n/4randomlist,T1000d,w<=7a/8+eta witheta=n[(7/4)2^-7/8]^(2^L),a=o(n^-10). Directmoment E2^blocker_C <=(7/4)^|C| beforepathconditioning.",
+    "noise:predictable-cosets T2048d:one deterministic8partpartition+orders selectedbyaveraging;commonretainedsubprobmass>=1-8n^-11,cap2uniform. E_a={||f_T||2<=n^-3}measurablepriorpathprefix beforequeriedcard;energy<=n^-18,queryfailure<=n^-12. Sequentialbackwardscondition multipliesendpointupper(1+n^-2)/(n-a+1);othergoodorderscanonlydecreaseprob. Cannotmultiplycapsfromnonpredictableevent.",
+    "noise:mixing alternatives8192d16subgroup,16384dpredictable,400*2^22dpeeling,16000dcovariance4subgroup. Eachkeepsmass/sign/ordinaryHS/independentwholesweepfactors. Not successivelybetterconstants or standaloneverificationofunreadFouriertransfers.",
+    "mart:walsh:unnormalizedFourierhat f(A)=sum_x f(x)(-1)^Ax;coordinateabsentcoefficientunchanged,presentconditional2ndmomentL_s. Exactly2^(d-j)nonemptycharacterslastupdatedat t-j;Parseval1/n yields2^-jweight. No neednormalmatrixsweepproduct.",
+    "mart:halves exactfactorization at a=s-d+1:expected availablepartner*mass² equalsoppositeoldhalfdensity timesownmassenergy. Fixedm>=n/q balancebeta1/(2q),eta2exp(-n/(8q))for s>=d;usesavailablemixedcountA+Bin(L,1/2),L<=m. This improves firstalpha²tail butis separate legitimatebound. Randomlisteta2exp(-n/(32q))or2(n+1)exp(-(1-log2)n/(4q));weakerthresholdm/8 givesbeta1/(4q). No f_a-V_a independence.",
+    "mart:marginals tablefixedq16 gamma127/128 timeCfix selectedgamma^(Cfix-2)<=2^-6;fixedq8 gamma63/64 time512d energyO(n^-7);randomq32 gamma127/128 L chosen2^-10;randomq8 gamma31/32 time200d O(n^-8);q256 gamma2047/2048 C2^-4; q64 gamma511/512 b0 2^-5;K8192 gamma1-1/(8K),T(100K+2)d. Fixed-domainbalanceactuallyalsoprovesalltableenergyrowsperfixedlist;tablemarks inputusedbytransfer.",
+    "mart:application-times:randompartitionq8probabilityop (2/M)sqrt(16C1)D^-5/16,r8,total1600d;keepspartitionrandominsidecoefficientbound ratherthanselectfixed. Otherrowsselectedpartition+commontrim:coefficientq16HS²<=9qC2D^(-1+4/q),r4,total4Cfixd;pointwiseq8subprobHS²<=qC2D^(-1+6/q),r16,total8192d;globalq64HS²<=4qC16D^(-1+18/q),r32,total32b0d;coefficientaverageq32opsqrtC1*8/3D^-5/16,r8,total8Ld;orbitq256op4sqrtC32D^-1/4,r72,total72Cd;smallindexK8192HS²<=2KC1D^(-1+1026/K),r4,total3276808d. AllnegativeDsumexponents,signandmissingmassretained. TheseFouriercompanionproofsstillunread.",
+    "19bibkeys:azuma,CzumajVocking,DiaconisShahshahani,Etingof,HMR,Hoeffding,LiebeckShalev,MontenegroTetali,Morris44,MorrisExclusion,Morris4,Morris3,MRS,partialFourier,optimalThorp,coordinateFrames,Sagan,Thorp,Walsh. No freshoriginalhistoricalread inpartialWP036;WP035MorrisLemma12scopealreadyavailable. No newLeanreading/build/Comparator or numericalrun duringpartial.",
+    "06-cycles963lines FULL includingTikzfigure read. Signedweightsarbitrary deterministiczero-sum,conditionalflags. cycles:list energykappa over2sweeps ->tupleTV<=1/2n^1.5 kappa^(R/2) after2R sweeps. Notfutureconditionedtransitions.",
+    "cycles:coarse-prop |F|>=n/8,mfloor3d/4. Firstsweep E||Bm f*||²<=d2^-m E0;flagE||Bm h*-p1||²<=d2^-mn. Goodallm-blockdensity>=1/16 failure<=256dn2^-2m. Nextsweepfactor(31/32)^(d-m)+16d2^-m+256dn2^-2m<=n^-1/256 eventually.4096sweeps ->fixed7n/8listTV<=1/2n^-5/2.",
+    "sweeps:block-statistics levelj s2^j afteronesweep:E S_B²<=(s/n)E0,Prcount<epsilon s/2 <=exp(-epsilon²s/2) or exp[-(1/2-e^-1)epsilon s]. Conditionafterjthenindependenttransversefibers,meanssumzero. Does notassertoriginaloutputentriesindependent.",
+    "sweeps:merge exact deterministicinput siblingssize s:expectedEparent=(1-m1/(2s))E0bar+(1-m0/(2s))E1bar+S0S1/s. Childrenindependentfresh internalcoins,countsandsumsconserved;noequalindividualsecondmomentsneeded.",
+    "cycles:centered-prop p1/16,kfloord/2,L2^k,Mn/L. Splitfirstsweepf*=u+w,uconstantonavailableeachblock,S_B/count,wblockzero. Gooddensityp/2failureMexp(-pL/8);E sumS_B²<=E0. Secondwcontracts(1-p/4)lastlayers,uflowL2nonincrease;factorMexp(-pL/8)+2(1-p/4)^(d-k)+4/(pL)<=n^-1/256eventually.2048sweeps15n/16listTV<=1/2n^-1/2.",
+    "cycles:merge-prop allfixedp>0,rfloord/2. LevelenergyS_i=2^-i sumblockS_B²,firstsweepE S_i<=2^-iE0. SecondrecurrenceEi+1 <=(1-p/4)Ei+S_i/2 ongoodrblockcounts. Factor(1-p/4)^(d-r)+2^-r+2^(d-r)exp(-p2^r/8)<=n^-gamma_p, gamma_p=-1/4log2(1-p/4);also<=n^-p/16. Translationvariantbadterm dnexp(-p2^r/8)weaker. Boundarylawtranslationinvariance notdeterministicconfigurationinvariance.",
+    "cycles:negative-prop actualtwocardblockmembershipnonpositivecovariances;largestdifferinginputcoordinate≤blocklevel givesjointpB²,otherwise pB²(1-2^-s). Covmatrixzero rowsum Laplacian ->vCv<=2pB||v||². Signedconditionalflow=conditionalexpectationofactualtransportedload underobservedpaths,linear/Jensenproves Eblocksum² bound. Variancemerge exact (1-hR/(2m))VL+(1-hL/(2m))VR+(1-(hL+hR)/(2m))*hLhR/(hL+hR)*(bL-bR)². GoodlargeblocksChebyshevfailureO_delta(n^-1/2),factor leading(1-delta/4)^(d-floor3d/4), exponenta=-1/8log2(1-delta/4). No arbitrarypathconditioningpreservesnegativedep claim.",
+    "cycles:two-sweep-bounds fivecomparativeFourierapplications;allneedunreadpartialFourier:coarseT4096d,r8cap2op sqrt16C1 D^-5/16,8blocks32768d;centeredT2048d,r16cap1subprob op sqrt16C4 D^-5/16,16blocks32768d;multilevelp1/32,gamma=-1/4log2(127/128),hceil6/gamma,T2hd,r32cap1+restoreuniformmass,op sqrt32C8 D^-11/32,16blocks32hd;translationp1/128,R16384,cap4r128pointwiseprojectorD^-7/16,16blocks524288d;negativep1/8,RfixedaR>3,cap3r8cosetprojectorD^-1/4,8blocks16Rd. C_s anypositive fixedpowers,noncommutingHS/opdistinguished.",
+    "cycles:memory autocorrelation v_t(z)=E sum f(x)f(x xor z),totalmass0,v(0)=r=a. vnext=v L_h +b/2(delta0-delta_eh);b=w. Exceptiontwoconditionalrowdrawssameforcedsingleavailableentry,insteadoffairxor;samefree-freepairindependentrowdraws. Fullcoordinatecyclekillsinitialzero-mass row. r_t=sum2^-ell b_(t-ell).",
+    "cycles:halves theta15/16,epsilon2e^-n/256,gamma63/64 ->r_t<=gamma^(t-2d)+epsilon/(1-theta),r1026d<=2n^-16. Oppositehalfconditionalfactor exact,onlyunconditionedactualpathsaveraged.",
+    "cycles:list-cap T1026d,eachfixedq<=7n/8 list usespredictableE_j=max|f_Tj|<=n^-3 frompriorjpaths;failureeach2n^-10,union2n^-9;subprobpointcap(1+n^-2)^q/(n)_q. No assertiongoodconditional lawgivenentireE.",
+    "cycles:two-sided-cap alpha,beta<=sameforwardphysicalmuT1026d,butmaydiffer. Betaimagecaps gHi,alphaobtainedinverse-lawreverseordertheninvertedpreimagecaps Hi g;densitynormalizedsubgroupmeans<=2. No inversioninvarianceofmu. cycles:sharp2052d usesunreadtwo-sidedtransfer on Bhat*Ahat,DSHS²<=4Klambda²D^-1/2;Kdistinctjointtypesno multiplicity,K<=sumj0..deficitp(j)^8,weighteddegree sumo1. Signfromdomination,bothmass1-16n^-9. One-sidecapaloneinsufficient.",
+    "07-sweeps591 FULL. sweeps:sequential tagenergy->k sqrt(na)/2,randomlistversiononlyinaverage. sweeps:two-sweep epsilon density,hfloord/2,sigma1-eps/4:factor sigma^(d-h)+2^-h+(d+1)nexp(-eps²2^h/2),anyb<min(-1/2log2sigma,1/2),eps1/16takeb1/200. eps1/8explicitfactor(31/32)^floord/2+16n^-1/2+32nexp(-sqrt(n)/64)<=n^-1/100eventually. E0=0handledseparately.",
+    "sweeps:collision exactone-sweepquadraticform conditionalwalkersindependentgivenobservedpaths. s_H(B)=productancestors(1-sisterdensity/2). Eenergy= sum_u sH(singleton)x(u)^2 +sum_i2^(1-i)sum_B sH(B)x(B0)x(B1). Pairlargestdifferingcoordinatei firstmeetprob2^-i,thenremaincoincidentfactor;ifdisagreeprocessedbitcantrejoinwithinonesweep. Chronologicalfreshsisterblockcoins averaged,notclaimedindependentunderfullpathconditioning.",
+    "sweeps:averaged randominitiallistneeded uniformH_tunconditional,Delta=2n(n+1)exp[-eps(1/2-e^-1)2^b]. E E_(t+2d)<=Delta+[(1+b/2)(1-eps/4)^(d-b)+2^-b]E E_t. q128,R128q,T2Rd energy<=n^-8+RDelta. Noenergy/goodnessindependence.",
+    "sweeps:refresh samepath-definedconditionalprobability adaptedtolargerall-past filtration butnotredefinedaslawgivenallpositions. gamma1-eps/2,Bn availablecount2exp(-eps n/8)orblockercount2exp(-eps²n/4);a_t<=beta^(t-2d)+Bn/(1-gamma)for2beta-1>=gamma. eps1/32 beta1-eps/8 T2048d list31n/32o1;eps1/128 beta1-eps/4 b0 chosenbeta^(b0-2)<=2^-6 gives127n/128listo1.",
+    "sweeps:path-truncation q16,benergyexponent,kwithbk>=12,T2kd,predictableGijenergy<=n^-4. Lostmassdelta<=16n^(5-bk),normalizedcosetcap e/theta,parity<=delta/theta;conditionoriginalpathsbackwardnotrecomputegivencommonrareevent. SixFourierapplications:trajectory2pkd,p>=6;8orbits20rd r>300(400gives8000d);blocker65536d;available64b0d;coloredHS32768d;collisionHS2097152d. DegreeexponentsopvsHSseparate andunreadtransfers.",
+    "08-prefix363 FULL. Samecoordinateorderacrosssweepsessential. prefix:hierarchy W_C= (1-alpha_sib/2)Wchild terms+(1-alpha_C)D_C, D_C=sumchildS²/m-Sparent²/m>=0 with0whenempty;sumdetails=E0iftotalsumzero. ExpectedPhi=sum_C(1-alphaC)D_C productproperancestor(1-siblingdensity/2).",
+    "prefix:invariance completed-sweeplawinvariantunderbinaryprefixtreeaut x_i->x_i xorF_i(earlierbits). Layercoinpermutation+toggles preserves independentfairjointlaw,notarbitraryuniformpermutation. prefix:sampling randomautpreimageschooseoneuniformleafindependentlypersubtree afteractionthroughdepthj;countconcentrationfailure<=2nexp(-cs/8),s2^floord/2,c1/4;E signedblocksum²<=(s/n)E0.",
+    "prefix:contraction afterfirstsweepinvariantboundarylaw yieldsE energy_b<=n^-(b-1)/64 E0 forALLintegerb>=1,oneinput-independentdthreshold;doesnotrestartconditiononeachactualinput. prefix:entropy fixedk<=3n/4 KL<=n²n^-(b-1)/64, b769givesTV<=n^-5. Fourblocktype-counttransfer(commoncap2,missing<=8n^-5)op<=D^-1/8,24powers inverse4degree sum ->18456d. Eightblockboundaloneinsufficientfourblockcase.",
+    "09-cycle-entropy282 FULL. lifts:cycle-entropy randomtupleonly alternative(meanalreadyfollowsfixedlist). a_(r+1)d <=[(1-delta/4)^floord/2+2^-ceild/2]a_rd +dn(n+1)exp(-delta sqrt n/8),r>=1. Key exactprecedingcyclevariance E[sumblocksW_B²|F_s]=E||f_rd||²|F_s -q^-1 sumrowsR_C². Rowtotalsneednoto individually0. ChooseR alpha(R-1)>4 givesmeanKLo1. EntropyFourierisotypicq8HS²<=24C1D^-5/8,4blocks4Rd.",
+    "lifts:transport-marginals signedloadactualtwocardcollisiondifferentconditionalindependentwalkers. Probabilitysameleveljblockr iflargestinitialdiff<=j else r(1-2^-j),r2^j/n. Jensen conditionalrawloadflow ->E sumblock2^j mean²<=3*2^-jE0. Two-passfactor(1-p/4)^(d-b)+6*2^-b plusbad2n(n+1)exp(-p2^b/8);randomlistunconditionaluniformgoodcounts;noenergy/badeventindependence. 8blockorbittransfer gives8C0d(fullanyfixedkwith5k/8>2).",
+    "11-domains225 FULL(readbefore10asactualmain). VectorarrayQ_x(s)_b centeredforeachhiddenb∈J,initialsumenergy m-1≤n. Largerallpastfiltrationforenergy expectationdifferentdefiningoutsidepathconditionalfield. prop:c-vector-domain-energy A_t=sum2^-ellS_(t-ell),S_s<=(1-alpha/2)A_s+C_alpha n exp(-c_alpha n);factor n neededforalltagsenergy, no cross terms inarraynorm. Theta1-alpha/8 ->A_Cd=O(n^-4).",
+    "Randomdomainentropy q256,d>=8 uniformomittedRindependentlaw,mean_R KL restriction=O(n^-3). CriticalaveragenextlabeloverJ BEFOREfixingR;fixRwouldonlyJminusR. Averagingchi² overuniformb cancelsm givesA_Teachrank,≤nrankssum. Randomdomaintransferallowsgooddomainsdependon sampledpermutation,requiresfraction7/8withmarginaldensity<=2 aftertruncation,notallRsimultaneously. opD^-1/8,32factors->32Cd.",
+    "10-palettes260 FULL. Twohalfindependenttranslations conditionalhistorys-d+1 invariantlaw,overlapwindowsnotindependent. Forrandomorderavailablehalfdensity≥m/4except2exp(-m/32),crosshalfmeanenergylosem/(8h)E>=delta/4E;meanssumzero makescrossproductnonnegative. prop:c-palette-discrepancy fixedsmall delta chooseC* givesE maxendpointdiscrepancy<=n^-30 forallm≥delta n.",
+    "Commonpaletteconstruction selectdeterministichalfpartitionbyaveragingbothA-first/B-firstorders. v=floordelta n, Z=sumorders mean sum_r0..n-v-1Delta_r, E Z<=2n^-29. CommonSETTINGevent E={Z<=n^-6},massz>=1-2n^-23;notnecessarilyendpointmeasurable. ForanypalettecolorclassesB sizesli,subgroupHpermutesclassesfixA,cosetgH fixesAoutputs+eachcolorimageset. Unreadpalette-informationlemmaappliedsameeventandbothorderdistributions yieldscap exp(vH(p)+n^-4-logz)/index forALLpalettes,alsoA/Bswap. PointwiseorderaveragesumonE survivesrarecondition;smallunconditionalmeanalonewouldnot.",
+    "Paletteapplication signedpalconstantCpal fromunreadFourierinput:choose delta so2deltaCpal<=1/10 BEFOREC*;hH(p)<=Cpal logD_beta ->cap2D_beta^1/10 forconjugateplacements. Fullentropy-formhypothesis needednotjustsinglepalettecap. opD^-1/6,30factors ->30C*d;signclipping<=1-z/z (meaning(1-z)/z),inverse8degree sum. Noactualconditionalentropyestimatorworkload tested.",
+    "12-delayed-groups201 FULL. Delayedmarginal everyfixedk<=3n/4 list,anyperiodiccoordinateorder/phase,TV<=n^-10 AFTERt>=2000d-1,includingstationaryreverse. UsesunreadcoordinateFrames delayed-shearsymmetry;splitbadprob≤16/n chargedagainstE_(t-d-1) measurableBEFOREsigns,notindependentterminalenergy. a_t<=15/16 a_(t-1)+(1/16)(16/n)a_(t-d-1), inductionexp(-(t-d)/64). T-1statementneededlast-layerall-signcancellation.",
+    "Threegroupamplification groupsizes differ≤1,eventuallyeach>=n/4,deck(s,g),sorderedpositionsets,g internalassignment viafixedreferencebijections. Fibersp_ssprime(gprime ginverse),bistochastic,reversepbar(h)=p(hinverse). OmittedgroupquotientrowANDcolumn absoluteerrors<=2n^-10;untrimmedallsignrow/column cancellation viafinalingroup1paircoin. Uniformm1-subset avoidswholepairprob<=exp(-m1(m1-1)/(2n)),plusTVatT-1;reversefixedrotationdoesnotchangeuniformsubset. Unreadthreegrouptransfer clipsloss6delta perrow/col,HS²<=4D_i/prodothers;15factors+regularmultiplicityD give2^30D^-4,all8scalartypeshandled. Relabelingequivarianceconvertsaverage rowTV to worststart;30000d.",
+    "13-forest526 FULL. Baselinewalker canchangebaselineactivepartnerANYWHERE;independentextrafairtoggle. Givenfixedbaselineextraaveragedendpoint=q conditionalinactivepaths;collisionagainstbaselinej averages tosumq². prop:c-baseline-entropy random15n/16list,absoluteC0sweeps,KL O((1+d)^4) (proofgivesO(d³),recordsweakerstatement). Distinctfromreplicawalkeronlychangeswhentouchingtag.",
+    "Baselinecoincidence idealxor kernelsQi oncube,at0leavewithp/2,p=(m-1)/(n-1),stationarypi0=1/m,pix≠0=p/m. 4dsweepblockscontractn^-beta viaexceptional{0,e_i}runanalysis. ActualerrorsatD=0:unqueriedstatusdifferenceO((1+t)/n),repeatsneedjointinverse n² cost. No-splitmonitorlastdof2dblocks,distinctpartnerqueries+freshactiveprob≥eps/4 yieldsn^-3afterC1d. Lastcollapse fixedwindowequalbitscost2^-(d-1),roughcoincidence<=n^-3+2t/n.",
+    "Baselinejointrepeatwindowoverlaps handledsequentialABORTINGtiltedlaw thatforcesbitmatchesandlaterstay;trueeventlikelihood<=2^-(d-1)simulatedlaw,notassumingindependentwindows. Finaloldpartnermustavoidbothdistinguishedswitchesduringlastd-1window,knownbeforewindow,candidateO(1+t),eachfreshbitscost2^-(d-1). Sumu givesone-steperrorO((1+t)^2/n²),MarkovtelescopingO((1+t)^3/n²). AfterC0d coincidence<=1/m+O((1+t)^3/n²),chainentropyweakpoly(d).",
+    "lem:c-sweep-kernel prescribedpathsunique bitreplacement,forpairJlastinputdiff,I firstoutputdiff,u=0ifI<J,1ifI=J,-1ifI>J. F_T=prod(1+u)=n^|T|Prspecifiedsubtuple;fullK=n^-kF_all. AlternatingF*=sum(-1)F_T cancelsifisolatedpathshared-switchgraph. CompatibleF_T=2^sharedswitches,outputprefix-treeboundshared<=rlog2r/2 ->|F*|<=2^k k^(k/2). k1 cancelsexactly.",
+    "prop:c-true-sweep-sparse op<=n^-k/10 forrowdeficit1<=k<=n^1/20,all>n/2rowshapesannihilatedbylayerprojection. Branchingproper-coordinate-testfunctionsorthogonal;zeroextendinjectionteststowithreplacement,thea_k=(n)_k/n^k factorscancel inbilinearform. Noisolatedgraphhasforest e>=k/2;factoredinput/outputprefixsuffixconstraintkernelrank1op=(2/n)^(e/2),sumforestk^(2e)d^e withsizeF*. Sign/tallshapevanishingYoungruleorunusedpair.",
+    "Baselinehybrid:16complementsentropyO((1+d)^4),commoncutoff exp(n^1/50),lostO(poly(d)/n^1/50) usingnegativef logfbounded1/e. Unreadforestbulk op<=D^-1/3 fordeficit>n^1/20 and≤n/2rows;trueKsparse handlesrest. Exactindependentconvolutionnu^12*K^40,keepsorderandno commutativity. LargeopD^-4,smallopn^-4k,D<=n^k,signannihilatedK. Restorationcost12TV,physical(12C0+40)d.",
+    "14-replica401 FULL. c:rep:main L256,A64L16384,TAd,wlaw. RandomlistN-N/L meanKL O(d^4). Replica staysonitscurrentbaselinecard exceptwhenencounterstagX,twofreecoinsmakejointtransitionconditionallyindependentgivenobservedpaths. CollisionprobPrC_T=X. DistinctpartnerstatustakesuniformM-1hiddenlabels independentreference,notfixedlistclaim.",
+    "Replicaexactpartnerrepeat biu0 ifgap<d,2/N ifgapd,≤(1+2/N)/N otherwise viarecurrenceb_i,u=(1+b_i,u-d)/N. Two distinctrepeat times overlaprequires3distinctlabelsappendequalbit,prob1/4 peroverlapstep not independenceclaim;ifshareoneswitch impossible. UnionO(T⁴/N²). Distinctlabelmarks withoutreplacement dominatedindependentBernoulli delta=(M-1)/(N-1)timesc_T=(N-1)^T/(N-1)_T=1+O(T²/N). Zero-repeatneverleave<=eta^(T-1),singleexitreturn delta/4 eta^(i+T-1-u);eta1-delta/2. Sumrepeats ->MPrreturn-1=O(T⁴/N),Nchainterms ->O(d⁴).",
+    "Replicacommon256marginalclipb=d^6,retainedsubprobmassm≥1-O(d^-2),sum_H(checkv*v)<=e^(d^6)|H|/G andHS²<=LCe^(d^6)D^(-1+34/256)fromunreadtransfer. logD>d^8 ->HS²<=D^-1/2;smalllogD =>deficitfromroworcol O(d^16) via logD≥(log2)/2sqrtdeficit. Nearcolumn transformofuntruncatedfirstlayer0usingunusedpair sign-twistedtupleembedding.",
+    "c:rep:sparse separateHSnotop:rowdeficit1..C0d^16,HS<=N^-k/10. Projectproperoutputcoordinatekernelsaway,HS²<=[(N)_k/N^k]^2 E_distinct|F*|². Forestsharedpathprob<=2k^(2k+1)(2d/N)^(k/2) andFsize; conditioningdistincttuplesfactor<=2 eventually. Assemblytheta=v^80*w (oneuntruncatedblockessential),dominatedtruew^81,massm^80;largesum<=Cexp((33-80/2)d^8),smallw=kappa^AHSdecay,D<=N^k,sign0. Time81*16384d=1327104d.",
+    "15-probes460 FULL. c:probes:main time100000d+1. Lem:reverseprobes B5d,Lfloord/2,Ed100d³/n;fixbasehistorythrougha,availableA_a sizeh;prescribebasepathW a..u+v,u-a≥d,v≤L;optional2ndordinaryBASEpath a..u agreesonindices u-d+1..u-d+v,NOotherfutureinfo. PartnerprobesZ_s flipfirstbitW_s,backtrace toA_a,expect2^(-numberavailable)≈(1-p/2)^v withinEd. Exposebackwardsdistinctunconstrainedswitches,coupleindependentidealprobes untilshared/prescribedswitchconflict;protectedcomplementedbitpreventsearlyconflicts,latefreshprefixmatchprob2^-(d-1),unconditionalunion≤Ed;idealendpointsindependentuniformafter≥dsteps. Notconditioningobservedpathsusedto defineK.",
+    "FixedreservoirQ=E[KK^T]entrywise≥(1-n^-1/100)/h forh≥n/8,allstartingpairs. Conditional2walkersconstructedonebaseotherextraatsharedswitch,independentgivenobservedpaths butchronologicalunconditionalfairbitsusedinproof. Newlymeetafterdhasprob≤1/n. Survivalgivenbase=2^-availablepartners. ForceLASTmeetingnearB:m=B-r,b=m-d-1;distinctatb prob≥1-f,f=(1-p/2)^L+Ed+L/n;dropoldcoincidenceindicatorbeforeavailabilityprobeaveragingavoidsselectionbias. Requireoppositebitatc=m-d thenequalnextd bitscost1/(2n),optional2ndpathisordinarybaselineWtilde notwalkaftermeeting;itsoppositefinalbitoutsideagreementrange. Survival≥(1-p/2)^r-Ed;disjointlastmeetingevents sum geometric2/p ->1/hlower. Q=(1-delta)uniform+delta symmetricstochastic ->zero-sumL2<=deltaE0. Scalarcontractionalreadystrongerfromfirsthalf-density;newcontententrywisebound.",
+    "2000five-sweepblocks t010000d energy≤n^-20,Markovfailure n^-14 fornorm>n^-3;8predictablecomplementlistscommongoodconstructnormalizednuwithinmuTV o1,cosetcap2. Unread8joint-typeFourierop<=sqrt2Tlambda D^-3/8<=D^-1/4,10independentfactorsplusONEactualphysicalshuffleexactlycancelsparity,degreeinverse3sum,100000d+1. Futureobservedpathsnewblockcarrynohiddenlabelidentityinfo,permitsconditionaliteration."
+  ],
+  "next_source": null,
+  "next_line": null,
+  "remaining_files": [],
+  "canonical_update": "GEN-20261021-033 now curated;64source-bound claims/18contracts;F2384/12source drafts95bindings;core/fullgraph/clean checks passed. See immutable data/provenance/readings/F-238-information.json.",
+  "numerical_experiments": [],
+  "named_results_actually_read": 64,
+  "actual_formal_reading": {
+    "full_files": [
+      {
+        "path": "math/lean/OAI/Probability/ThorpResults/Statements.lean",
+        "lines": 73,
+        "sha256": "38563b6a28e9fefeb482d39c737d436d36a8aeb8d20583576b700c6672bdbfd3"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpResults/Mixing.lean",
+        "lines": 43,
+        "sha256": "3fdfec0556d6986acff76351a3b355eb823960e66cb70229077bc70645a96746"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpResults/Main.lean",
+        "lines": 18,
+        "sha256": "901cb699fc564145ee945b5e5f2f5f5d36497997b0bf506d6939e13cc8c20234"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/Main.lean",
+        "lines": 59,
+        "sha256": "436e420cf476956da70fe156f3a8cddb8b111a34a2b064ff75b7058c02665905"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/FixedLists/Main.lean",
+        "lines": 61,
+        "sha256": "de8fca1ba70b20b7abf1f6efad7dd568e514a59dba89b323f46bbef177023c3a"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/FixedLists/Objects.lean",
+        "lines": 78,
+        "sha256": "eb6624ca311d46afa3753a740902c390eae42ad28044256559dbe5005e9c00f3"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/FixedLists/Energy.lean",
+        "lines": 160,
+        "sha256": "f230275c4a57e78f2f37971f0fc8e1c079845bfe1c5171ab57ea241e9a438e70"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/FixedLists/Asymptotics.lean",
+        "lines": 97,
+        "sha256": "f59b3012a04abb809d667cf2ad6d4f4560bddd23ad0fefd2cdbc5770e2cf4047"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/FixedLists/Lists.lean",
+        "lines": 142,
+        "sha256": "0230ff037670884e2905ba9917a5283536e21805ad2ead7b7500e5991e7efbf1"
+      },
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/FixedLists/FullDeck.lean",
+        "lines": 32,
+        "sha256": "10be537d194cddfd80fd8ee62aaef2a7851fb8dfca61fcce044b31376177885d"
+      },
+      {
+        "path": "math/lean/ComparatorChallenges/ThorpRemaining.json",
+        "lines": 14,
+        "sha256": "9b563a2ad0f2e7d75d5cf92c1a4a5ff52704f58e882d23434ad03ab88f0c57fe"
+      }
+    ],
+    "partial_files": [
+      {
+        "path": "math/lean/OAI/Probability/ThorpShuffle/ConditionalLaw.lean",
+        "read_lines": [
+          1,
+          100
+        ]
+      },
+      {
+        "path": "math/lean/ComparatorChallenges/ThorpRemaining.lean",
+        "read_lines": [
+          485,
+          510
+        ]
+      }
+    ],
+    "scope_notes": [
+      "ActualInformationMain in ThorpResults.Statements and comparator exactlylists256d7/8,1024d15/16errorn^-1.5,full2048d,allstarts/fixedlists. Exact first_main selected natural first theorem B/closureunknown,nohuman.",
+      "FixedLists sixmodules whole read;actualphysicalcoordinateRun inverse-rotation^t*run,labels embeddings,allstart factoringrighttranslation. Actualenergyuses1/16density,noise31/32,Edecay63/64,tail64(9/10)^m;strongenough firstconclusion via d+4reindex andn³energy->0,secondn6energy->0. It is notexactlythe naturalalpha1/8fasterrate proof.",
+      "FullDeck2048 followsold1600d plusdistanceantitone;notverificationofnatural8factorHSproof.",
+      "Selected actual sources do not establish exact arbitraryp full-basepath conditionalTheorem4.1 norentire64supporting-constructionconcordance. ThoseclaimsmustnotinheritB fromInformationMain.",
+      "Actualscope doc238.md omits thispaperfromitslinked10,whileaggregateInformationMain config exists. formalization.yamlentrynotyetrecheckedfornewpaper;upstreamcatalogueflagfalse. No build/Comparator/human."
+    ],
+    "index": {
+      "path": "data/graph/lean_indices/F-238-information.json.gz",
+      "root_module": "OAI.Probability.ThorpShuffle.FixedLists.Main",
+      "local_files": 57,
+      "declarations": 724,
+      "gzip_bytes": 11677,
+      "sha256": "0fcedbb91af1d49eeffbdafdcc14f3f3aed62868bcc999d1f63948a9b9f716c1",
+      "source_hashes_all_checked": true,
+      "external_modules": [
+        "Mathlib"
+      ],
+      "local_build": "not_run"
+    }
+  },
+  "historical_scopes_checked_this_turn": {
+    "morris4": {
+      "url": "https://arxiv.org/pdf/0802.0339v1",
+      "version": "v1 4Feb2008;published2009",
+      "scope": "Intro/Section2Prop1,Section4Theorem9statement,Section5Lemma10wholeproof and concludingentropyiteration,printed10-12. Any even deck,reverseThorp,oldO(log^4 n)bound;not base-path conditional joint theorem. OldTVconventionL1;no literalPinskerconstantborrowed.",
+      "source_sha256": "9b1ec160096c6922da848e7eb620bfcb61b7b2c2b276313fa9ddee537c60ca95"
+    },
+    "liebeck-shalev2004": {
+      "url": "https://spiral.imperial.ac.uk/bitstreams/aa106926-a412-470a-8e0e-f513d424120e/download",
+      "scope": "Authorinstitutional53pagecopy,printed15-16Proposition2.5proof anddualremark/Theorem2.6proof. For each fixeds>0,allS_nirreps inverse-degreesum2+O(n^-s);two terms trivial/sign,not changing exponentwithn. Printed16 theorem rendered/viewed. Selectedpriorlemmas usedbutnotwholepaperproofaudit.",
+      "source_sha256": "e26b2bcb45efa95bf881ca7c17d839f17020886b7439c28e026fbf74b8bf775a"
+    },
+    "diaconis-shahshahani1981": {
+      "url": "https://www.imo.universite-paris-saclay.fr/~pierre-loic.meliot/symmetric/texts/Diaconis%2C%20Shahshahani%20-%20Generating%20a%20random%20permutation%20with%20random%20transpositions.pdf",
+      "scope": "Publishedscanpp159,161-162Lemma1/Lemma2,168Lemma14wholeproof andrender. FouriermassmultiplicationandordinarytracePlancherel;theirvariationL1notours1/2L1. Lemma14scalarizescentralrandomtranspositionsonly;generalnoncentralusesMM*,notM²orcommutingpowers. Lemma2citestextbookproofunread.",
+      "source_sha256": "3b8bbd8293e3de24889ae65defde46e4c7cecbff9e472387984068ff3401a3a4"
+    }
+  },
+  "historical_lookup_limits": [
+    "Wrong guessedWRAP59810cachemiss;actualCzumajWRAP63983onlyabstract/metadata andauthorpublications hasnoPDFlink. Body stillunverified;emptycardaugmentationconfirmedonlyatprimaryabstractscope,notfullproof.",
+    "SpringerDS1981previewonly;Stanfordpurlunaccessible;publicacademicoriginalscanrecovered. Firstcurl45stimeout776077/925947bytes,byte-resumecompleted149870remaining;actualcompletePDFparsed21pages. Do not mark failedpartialdownload ascompleteproof.",
+    "OldImperialhandleinaccessible;actualentity/bitstreamauthorcopyrecovered. MorrisHTMLavailablebuttargetsectionnotreturnedfully;versionedPDFtextused.",
+    "Otheroriginalexternalrootsstillunverified;Morris2013andMorrisExclusion2006selectedscopes frompreviousGENs reused,notrereadcredit."
+  ],
+  "temporary_original_checks": [
+    {
+      "name": "diaconis-page168.png",
+      "bytes": 76931,
+      "sha256": "f9aae0e69c6792e7cdf0a9543dcd216b8c4514b5dca9dc54e08f2e4120cd48b4"
+    },
+    {
+      "name": "diaconis-shahshahani1981.pdf",
+      "bytes": 925947,
+      "sha256": "3b8bbd8293e3de24889ae65defde46e4c7cecbff9e472387984068ff3401a3a4"
+    },
+    {
+      "name": "diaconis-shahshahani1981.txt",
+      "bytes": 49613,
+      "sha256": "b273f78e6dc78e135c2be281bcdce56aadc3683e103d0eeed66d0a21bac9d958"
+    },
+    {
+      "name": "liebeck-page16.png",
+      "bytes": 183061,
+      "sha256": "d37225efc75be0dbeb32e38202590ea801e37f2f67695740a847017b96edd9b6"
+    },
+    {
+      "name": "liebeck-shalev2004.pdf",
+      "bytes": 419637,
+      "sha256": "e26b2bcb45efa95bf881ca7c17d839f17020886b7439c28e026fbf74b8bf775a"
+    },
+    {
+      "name": "liebeck-shalev2004.txt",
+      "bytes": 140723,
+      "sha256": "5b148dc403558b3fd81b88ac18aa3ee41e0fe3df92a2e5f42c8d746143b4cedc"
+    },
+    {
+      "name": "morris2008v1.pdf",
+      "bytes": 232964,
+      "sha256": "9b1ec160096c6922da848e7eb620bfcb61b7b2c2b276313fa9ddee537c60ca95"
+    },
+    {
+      "name": "morris2008v1.txt",
+      "bytes": 73944,
+      "sha256": "b3286bf34eb874bce556299e1a3890299b5194bc3740a97fcdb4bef45fe3e655"
+    }
+  ],
+  "temporary_storage": "All ownedPDF,text,PNG hashed before cleanup;no numericaldata generated. Compact index retained,upstreamnotcopied.",
+  "temporary_cleanup": {
+    "files_removed": 8,
+    "bytes_removed": 2102820,
+    "directory_exists_after": false
+  },
+  "next_action": "WP037F115;no rereading this manuscript or repeating old numericalgrid"
+}

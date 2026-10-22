@@ -1,0 +1,25 @@
+{
+  "recorded_at": "2026-10-20T13:26:36.696095+00:00",
+  "command": "python3 scripts/check.py",
+  "observed_tool_session": 40783,
+  "exit_code": 0,
+  "tests_passed": 24,
+  "graph_validation": {
+    "nodes": 1818,
+    "research_nodes": 483,
+    "edges": 3780,
+    "citations_checked": 690
+  },
+  "report_export": "passed after schema field correction",
+  "initial_attempt": {
+    "session": 56478,
+    "tests_passed": 24,
+    "graph_validation": "passed",
+    "report_failed": "KeyError: 'Lean'",
+    "cause": "New family comparison used formal key rather than reporter schema Lean key",
+    "repair": "Changed four new comparison records to existing Lean key; no mathematical content changed"
+  },
+  "numerical_runs_repeated": false,
+  "Lean_build": false,
+  "remote_CI": false
+}

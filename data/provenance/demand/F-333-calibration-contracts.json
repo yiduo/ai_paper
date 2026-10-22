@@ -1,0 +1,88 @@
+{
+  "work_package": "WP-074",
+  "generation_id": "GEN-20261021-070",
+  "recorded_at": "2026-10-21T03:41:24.374395+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "f39aa5c",
+  "source_files": [
+    {
+      "path": "math/preprints/Smooth-isometric-immersions-of-closed-surfaces-into-Euclidean-four-space-September-23-2026/build/primitive-realization.tex",
+      "sha256": "029320545541c6e7b34e86ae792a4af1a6e4f29cdd35ff8f436b4bbe01da61ee",
+      "total_lines": 446,
+      "read_ranges": [
+        [
+          1,
+          446
+        ]
+      ],
+      "fully_read": true
+    }
+  ],
+  "existing_plan": {
+    "path": "experiments/plans/MAP-333-001.json",
+    "sha256": "0c3cd7c14654671117cb490434a9277d41e578b67b2098d46b38befbf091e46f",
+    "version": 1,
+    "unchanged": true
+  },
+  "selected_primary": {
+    "title": "Convex Optimization",
+    "authors": [
+      "Stephen Boyd",
+      "Lieven Vandenberghe"
+    ],
+    "first_publication": 2004,
+    "observed_printing": "Seventh printing with corrections2009",
+    "url": "https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf",
+    "scope": "Author-hosted714pagePDF,front matter PDFpage4;Sections10.1/10.1.1 printed521-523 (rendered29642-29782),10.4.2 printed545-546 (rendered31218-31308),equations10.2/10.4/10.33 andAlgorithm10.3. Selected ONLY;no local PDF download/hash/pixels.",
+    "summary": "Classical equality-constrained quadratic optimization uses KKT equations. Positive-definite block elimination solves the associated Schur complement and should exploit structure rather than only a generic dense factorization. The book scope is finite dimensional; the continuous projected-loop identity below is this project’s elementary algebraic specialization, not a quotation or a theorem attributed to the book."
+  },
+  "input_contract": {
+    "space": "Fixed Euclidean plane P, periodic real W in L2, normalized average over2pi; smooth V,r as source component",
+    "V": "|V(theta)|=R>0 constant, mean v, Sigma=avg((V-v) tensor(V-v)), M=I-Sigma/R² positive",
+    "r": "Zero mean scalar; desired PROJECTED dot-product fluctuation, not full speed profile",
+    "constraints": [
+      "avg W=0",
+      "Pi(V dot W)=r"
+    ],
+    "objective": "minimize(1/2)avg|W|², same feasible class for both methods",
+    "conditioning": "Uniform numerical inverse needs an audited lower spectral margin kappa>0 on actual family; continuous positivity does not certify quadrature matrices"
+  },
+  "algebraic_audit": {
+    "type": "Same-model analytic contract/baseline review,not external application experiment or human proof audit",
+    "stationarity": "W=V*phi-lambda, avg phi=0",
+    "scalar_elimination": "phi=(r+(V-v) dot lambda)/R²",
+    "small_system": "(R²I-Sigma)lambda=avg(Vr)",
+    "parameter_match": "m=R²lambda=M^-1avg(Vr); h1=r+(V-v)dotm/R²; W=(V*h1-m)/R²",
+    "orthogonality": "For any homogeneous feasible H,avg H=0 and VdotH=c constant. Then avg(Wsource dot H)=(c*avg h1-m dot avg H)/R²=0. Hence squared norms split and source W is the same unique minimum-norm solution.",
+    "conclusion": "Under identical projected constraints/objective and admitted source assumptions, source formula equals old structured KKT Schur elimination. No source-specific mathematical or structural solver increment established. Runtime/roundoff may vary between implementations and were NOT measured."
+  },
+  "scope_boundary": {
+    "mean_offset": "avg(V dot Wsource)=-v dot m/R²",
+    "full_pointwise_requirement": "VdotW=r additionally requires v dot m=0 for the source solution, or a separately derived stronger constrained solve",
+    "finite_step": "|V+epsilon W|²=R²+2epsilon(r+c)+epsilon²|W|² withc=-v dot m/R²;projected first-order identity is not nonlinear exact speed",
+    "cycle": "For periodT, corrected displacement changes by T*epsilon*avgW=0;this does not make original trajectory closed if meanV!=0",
+    "stationary_input": "Original BIRDy demand from DEMAND002 has zero initial velocity; does not become eligible R>0 by this audit"
+  },
+  "analytic_profile": {
+    "status": "Symbolic illustrative input,not numerical experiment,frozen benchmark,hardware data or new application initial",
+    "parameter": "0<a<1;uniform derivative control would require an a_max<1",
+    "complex_loop": "w(z)=(z+a)/(1+a*z),z=exp(i theta),V=(Rew,Imw),R=1,r=cos(theta)",
+    "series": "w=a+(1-a²)sum_{k>=1}(-a)^(k-1)z^k;uniformly convergent for eacha<1",
+    "moments": "v=(a,0),avg(w²)=a²,Sigma=(1-a²)/2 I,M=(1+a²)/2 I,avg(Vr)=((1-a²)/2,0)",
+    "solution": "m=((1-a²)/(1+a²),0);avgVdotW=-a(1-a²)/(1+a²)!=0",
+    "interpretation": "Benign M gap>=1/2, yet projected and full pointwise speed targets differ. Source and same-problem KKT coincide; weak radial baseline has nonzero correction mean. This symbolic scope witness is not an independent external check."
+  },
+  "cost_contract": [
+    "Both structured routes require the same means v,Sigma,avgVr and one2x2 solve then pointwise evaluation;no advantage from comparing only against a dense grid KKT solve.",
+    "Actual continuous quadrature certification,condition margin,derivative/bandwidth/actuator bounds,finite epsilon remainder and setup cost remain unmeasured.",
+    "Weighted finite-grid algebra can define a separate discrete projection problem;aliasing can destroy continuous positivity, so sample agreement is not a continuous certificate."
+  ],
+  "decision": "Retain far candidate as待定/候选,lower source-specific numerical priority,stop allocation for known radial-drift/formula QA,return uncovered F085. No formal否定/no deleted hypothesis/no initial counted.",
+  "remaining": [
+    "No actual representative consumer profile/data frozen; symbolic analytic family only.",
+    "No independent quadrature/physical response/finite-step safety benchmark,implementation timing or numerical outputs.",
+    "No new mathematical formalization/human/secondprovider review; source grade C/complete dependency unknown unchanged."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false
+}

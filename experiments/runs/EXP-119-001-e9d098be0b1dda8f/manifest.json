@@ -1,0 +1,62 @@
+{
+  "run_id": "EXP-119-001-e9d098be0b1dda8f",
+  "experiment_id": "EXP-119-001",
+  "started_utc": "2026-10-20T21:34:44.776254+00:00",
+  "specification_written_utc": "2026-10-20T21:32:12.381982+00:00",
+  "finished_utc": "2026-10-20T21:36:07.368787+00:00",
+  "inputs": {
+    "experiments/specs/EXP-119-001.json": "3cdddbbf4b5b9cedd0b294c62ccb435a70be52808fc9c89f47bc1495e0c549e6",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/betti_budget.py": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5",
+    "src/ai_value/binary_information.py": "3a534f07f829f8944c254b4e98a603e022687f40a52b8b8777f43878bda110c1",
+    "src/ai_value/block_budget.py": "ad43d1766fc8590275552e64c069c010c1b52cf720111db2e0078faad9844a4b",
+    "src/ai_value/cli.py": "0c43fa1217581db6dfaf88dd1f62b466a42d6723966e0a0d3b8581dd7266e4dc",
+    "src/ai_value/component_checks.py": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa",
+    "src/ai_value/corpus.py": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc",
+    "src/ai_value/cyclic_chain.py": "7d61248a696a86b4049ff88c520cd5c50ebba4079dfb6664122b1e8e2a0493bc",
+    "src/ai_value/experiments.py": "f0f63c51422e858a29c3f3022f948735e6bf19ac989c289f6a93a98bca44e22c",
+    "src/ai_value/graph.py": "ac24c3902b79c9026b1525761675af6567763215b2e332bcb8ab678fbfe6b39e",
+    "src/ai_value/knowledge.py": "f397c34e5675f522c9e175e869d6c0ba9e5e41586779e0715753266d10e2c17b",
+    "src/ai_value/permutation_audit.py": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811",
+    "src/ai_value/phase_rounding.py": "d0b382a0476a179c0b3fc11e3af1fbc499f95e3296a4be5c7365d6ac2be9fc61",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/pressure_audit.py": "4760923b4223de11ef3b919204e2be2a629fba30674560132b51218cffcde304",
+    "src/ai_value/provenance.py": "b5b717177ccc2ebe3f8325ca74ccd3e8a4c26c85434e9582da4b7f246574d4cc",
+    "src/ai_value/reporting.py": "d2ddb88f41191bae0d1b15ae6f0ad1dc327be0f14f214823af5c2f81b2829d64",
+    "src/ai_value/source_results.py": "5f903e2f65db17ab057b12629cd559b66f3cabe4d016ec8859558759b7694b80",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "src/ai_value/transport.py": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d",
+    "src/ai_value/versioning.py": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c",
+    "configs/research.json": "250ae2914064a1ec1875a51d56588e73f1e48aa87e2e5823fd0d8816428de560",
+    "data/corpus/baseline.json": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+  },
+  "outputs": {
+    "spec.json": "3cdddbbf4b5b9cedd0b294c62ccb435a70be52808fc9c89f47bc1495e0c549e6",
+    "raw.json.gz": "3b6d91d60b62c7e59ed0bc809356ff5db18411fd0d3812b8152f77d6bec617fb",
+    "summary.json.gz": "9d27be6b2facb566d74d4b3bf09f2efc5787a19c6d68fc707f2eb4540ab379ea",
+    "inputs.json.gz": "3db0b89a2f1d1641dc2a5818adfc68ec602594e96c7060561bb84b5ecf3cbcfa"
+  },
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "d79eecd7e2285ac308fa6eca2c4539e89c4140f75b7699c37944c5ed99f7fdf0"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "180688c6ed112dc8710a17df2fe5064da10a085a143f944edffc19bc84fafcab"
+    }
+  },
+  "source_snapshot": "inputs.json.gz",
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment EXP-119-001",
+  "environment": {
+    "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "dependencies": "Python standard library only"
+  },
+  "elapsed_seconds": 82.54616720799822,
+  "peak_traced_python_bytes": 1815141,
+  "resource_envelope_met": true,
+  "memory_scope": "Python allocations only; not process RSS or child processes",
+  "result": "prediction_not_supported",
+  "formal_rejection": false
+}

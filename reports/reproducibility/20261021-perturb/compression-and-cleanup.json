@@ -1,0 +1,201 @@
+{
+  "recorded_at": "2026-10-21T05:23:13.065962+00:00",
+  "helper_gzip_bytes": 32629,
+  "helper_uncompressed_bytes": 107776,
+  "helper_member_count": 24,
+  "helper_roundtrip_and_all_member_hashes_verified": true,
+  "files": [
+    {
+      "name": "archive-integrity.log",
+      "bytes": 110,
+      "sha256": "8310768bc37afcdd07df9cb0a2202ec0598b205ccacbc7b3ade9b6616d6d9c0b"
+    },
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1357,
+      "sha256": "6d8655600a5f1f5fde547f896cb1f046469dea326caf904fa63df29b66a3530a"
+    },
+    {
+      "name": "assets.py",
+      "bytes": 4903,
+      "sha256": "83c64094a2d8d2db7f8408f2390c1fcd1d88868505864b52f2872059787e181a"
+    },
+    {
+      "name": "core.log",
+      "bytes": 9328,
+      "sha256": "43fe692c96f1f93958cccd8363cd4e23cad328804b03fa40f80db6957087b1f6"
+    },
+    {
+      "name": "curate.log",
+      "bytes": 113,
+      "sha256": "936bb7ae348b133b8d1610eb6ac2014043b8aeb4d8c05586398be9e0a5f203c8"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 15311,
+      "sha256": "2b5bdc5d474b18831e07e020629940be63e852434736e9a59844543df3813a6b"
+    },
+    {
+      "name": "export.log",
+      "bytes": 542,
+      "sha256": "cb50389331a415904d5ed11af81569b0a9b7b82c4070e378e6d052f50ef1ee04"
+    },
+    {
+      "name": "finish.py",
+      "bytes": 15264,
+      "sha256": "9ea30ebee986763a109f8cec360c5d510fe7f37e2975563bfdd3017d05c77689"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 1285,
+      "sha256": "7f5afa3d575c6dfbd5382625d614974486469f6de2ebdd176286732d936ef564"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 6237,
+      "sha256": "11adab163552f50ff82f01fde3f4d80117a1ed06052cafc408d5fe6e20302636"
+    },
+    {
+      "name": "profile-before-reader-fix.py",
+      "bytes": 4735,
+      "sha256": "2ccdc1c02da368223f419a381438bdee253aaae67516b73acb6667a70324617e"
+    },
+    {
+      "name": "profile-before-second-reader-fix.py",
+      "bytes": 4727,
+      "sha256": "85f77706f87bb8bfd515c912175116ec01638251049f4e3d506f0856d182eba7"
+    },
+    {
+      "name": "profile-partial-catch-failure.log",
+      "bytes": 1354,
+      "sha256": "f80acfc90dd841a8ceb5740c873270e8b8395089ee67f1875e72e0b628184d13"
+    },
+    {
+      "name": "profile-pyfive040-failure.log",
+      "bytes": 1069,
+      "sha256": "b7a59563a4d553e85f8162202e402b482aabbb6556d82b345c7768b122d16d0f"
+    },
+    {
+      "name": "profile-pyfive100-failure.log",
+      "bytes": 1188,
+      "sha256": "2221af1b0441fbdb1cca17b09233d171a2fcd11e158fe3cca440f0d5a2a0fb17"
+    },
+    {
+      "name": "profile.json",
+      "bytes": 8208,
+      "sha256": "676d08051db36d6298f5184bfde1c91ad914bed3f0a83888e88e6f6682b85e09"
+    },
+    {
+      "name": "profile.log",
+      "bytes": 4669,
+      "sha256": "1ce59aeb15d31aecca4bf1e611b70925918a2a815d80f7472419dbd02d20f18b"
+    },
+    {
+      "name": "profile.py",
+      "bytes": 4934,
+      "sha256": "e0365b6f87e7e32bee749308f4610e1e8e34fc9f5d474bd02f71500f0f6b5021"
+    },
+    {
+      "name": "progress.json",
+      "bytes": 6527,
+      "sha256": "733b800b2c22c3b0b44214477239634126efabe08793db1bb59b8a309eb46dbb"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "36b4c190d0cac58e4b65531741e49652f2b3438e0ee9ecf5b5cf1d5c801c795f"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3001,
+      "sha256": "2ee9da66e91e793e8b0f3ae47ddb7d524ee8550b523a8a4742a3ca562f2842e4"
+    },
+    {
+      "name": "replay-119.log",
+      "bytes": 363,
+      "sha256": "bbda6cf0d61aff077fcd95b501d04139bdff7ce80c32199dcf9b362d817959fd"
+    },
+    {
+      "name": "replay-374.log",
+      "bytes": 363,
+      "sha256": "03388c36403bdda5447ba84ad17d4e4ffb00933da27e1eef6bb41b7cbe85f408"
+    },
+    {
+      "name": "retro028-draft.md",
+      "bytes": 6324,
+      "sha256": "d3f5d2c6ac71d664df3ff5e0a18060cfbf409b189f71af6a145ff423ecb8884f"
+    }
+  ],
+  "verified_retained_assets": [
+    {
+      "name": "PapalexiSatija2021_eccite_arrayed_protein.h5ad",
+      "bytes": 550922,
+      "sha256": "45aa4e2279ca7b6522eacfe61d74fb5f107cd177814a94f70b58549913a094f4",
+      "retained": "data/samples/perturbation/PapalexiSatija2021_eccite_arrayed_protein.h5ad.gz",
+      "verification": "gzip exact roundtrip"
+    },
+    {
+      "name": "pyfive-0.4.0-py2.py3-none-any.whl",
+      "bytes": 24951,
+      "sha256": "19afd3629f47536e91b6b7af830da2ce4e8dc7ceb2ee87e4313c010e3399a80c",
+      "retained": "data/provenance/tools/pyfive-0.4.0-py2.py3-none-any.whl",
+      "verification": "byte-identical retained asset"
+    },
+    {
+      "name": "pyfive-1.0.0-py3-none-any.whl",
+      "bytes": 54097,
+      "sha256": "599a6cca6058d612b4e4a97e2fe3ea0f2f30a7729aa18ac8f2af6bfee38a2dcb",
+      "retained": "data/provenance/tools/pyfive-1.0.0-py3-none-any.whl",
+      "verification": "byte-identical retained asset"
+    },
+    {
+      "name": "pyfive-1.0.0-LICENSE.txt",
+      "bytes": 1532,
+      "sha256": "33cab23f5ab68cde3a44257bd2f85c5ff362b7d0fcc748e45dbe3a938263ac3f",
+      "retained": "data/provenance/tools/pyfive-1.0.0-LICENSE.txt",
+      "verification": "byte-identical retained asset"
+    }
+  ],
+  "omitted_reference_material": [
+    {
+      "name": "eskenazis-primary.pdf",
+      "bytes": 203313,
+      "sha256": "638b34c35ae03bebb0dea2a501d69071468f6165a83c83360e2adbc5609adcf9",
+      "reason": "Selected-scope author PDF; exact hash matches immutable source ledger; citation/scope retained, external full text not mirrored"
+    },
+    {
+      "name": "pyfive-0.4.0-pypi.json",
+      "bytes": 5199,
+      "sha256": "5e6aad44ad0041c36156621bd658ba6fc921b3c3ee7540ba89048541f5f0fb40",
+      "reason": "Public raw metadata response; relevant file/version/license/source projections retained; full metadata not mirrored"
+    },
+    {
+      "name": "pyfive-1.0.0-pypi.json",
+      "bytes": 7071,
+      "sha256": "505cc739c36368f48aec489af3520b48ec2dfae27f761fa0820bccb6ca385620",
+      "reason": "Public raw metadata response; relevant file/version/license/source projections retained; full metadata not mirrored"
+    },
+    {
+      "name": "pyfive-1.0.0.tar.gz",
+      "bytes": 195382,
+      "sha256": "3851e99784e54ab4f30e19d6c59faa88535c40f714233a6e5f30a3fcd38aa511",
+      "reason": "Duplicate reader distribution; exact version SHA recorded; complete LICENSE extracted and retained byte-identically"
+    },
+    {
+      "name": "pyfive-pypi.json",
+      "bytes": 33513,
+      "sha256": "d8b4cf05775952f1ae5ff13623585fbe398c8d7512a9800037a90b4f50d2ca3e",
+      "reason": "Public raw metadata response; relevant file/version/license/source projections retained; full metadata not mirrored"
+    },
+    {
+      "name": "zenodo-10044268.json",
+      "bytes": 18778,
+      "sha256": "5539f4c08d920e8fa029a339b6b03e30827d42a93d73183910d9a0bc15fa6e2a",
+      "reason": "Public raw metadata response; relevant file/version/license/source projections retained; full metadata not mirrored"
+    }
+  ],
+  "temporary_bytes_removed": 1196753,
+  "new_application_run": false,
+  "cleanup": "Own helper/log/projection archive is lossless. Dataset and two wheels/full license verified against retained exact assets. External PDF/raw API/duplicate sdist not mirrored, only hashes/projections/selected scope or license retained. No numerical compression performance inferred.",
+  "temporary_directory_removed": true
+}

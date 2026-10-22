@@ -1,0 +1,36 @@
+{
+  "recorded_at": "2026-10-20T15:28:26.804317+00:00",
+  "core_tests_passed": 34,
+  "validation": {
+    "nodes": 2411,
+    "research_nodes": 912,
+    "edges": 5850,
+    "citations_checked": 1411,
+    "candidate_connections": 14,
+    "externally_checked_cards": 9,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 9,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "index.html": {
+      "bytes": 5259659,
+      "sha256": "58b51952a689c454e1c1bdf406fc1ee17e65ca7bdc12190653fd64a1c99c2e63"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 802092,
+      "sha256": "2a3a4eeaa2653858fac59529356286bd8d034e952672807d8a72808a0e821384"
+    },
+    "knowledge.json.gz": {
+      "bytes": 699025,
+      "sha256": "ab16934f0bb3ceba4bda42f137898d0292a782ab2eea2e0507e752a56abbb2c6"
+    }
+  },
+  "browser_visual_check": "not repeated;viewer logic unchanged",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

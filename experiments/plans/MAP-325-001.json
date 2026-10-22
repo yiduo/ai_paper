@@ -1,0 +1,19 @@
+{
+  "id": "MAP-325-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-325-01",
+  "registered_at": "2026-10-20T14:57:08.609185+00:00",
+  "input": "Frozen bounded block-polynomial error fixtures with base dimension>=4 and coefficient dimension>=2,plus old-scope controls",
+  "hypothesis": "At least one fixed nonnormal block-polynomial fixture meets an independently specified tolerance using a certified constant2 numerical-range budget while the applicable older complete1+sqrt2 budget does not;any already-applicable old constant2 or stronger enclosure-specific certificate receives zero incremental credit. All directly computed block residuals must stay within the claimed budgets.",
+  "baselines": [
+    "Old complete1+sqrt2 bound on exactly the same certified enclosure/supremum",
+    "All applicable older constant2 special cases and normal constant1 controls",
+    "Independent actual block evaluation norm and roundoff enclosure"
+  ],
+  "judge": "Independent block matrix evaluation plus certified enclosure/supremum calculations;discrete boundary samples alone are not an upper-bound certificate",
+  "success": "All fixed cases and controls correct;at least one genuine budget decision improvement after accounting for older special cases and numerical enclosure cost",
+  "failure": "No decision improvement,uncertified sup or numerical range,violated norm bound,or missing workable workload. Preserve non-incremental/negative cases.",
+  "resource_envelope": "No numerical execution budget allocated until exact feasible enclosure/supremum and fixed workload selected. No SDP/Lean/GPU stack installed.",
+  "limits": "No theorem proof,new algorithm speedup,actual simulation result or human audit. Scalar-only and base<=3 fixtures cannot establish new complete-range coverage."
+}

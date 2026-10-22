@@ -1,0 +1,31 @@
+{
+  "generation_id": "GEN-20261021-079",
+  "changed_old_ids": [
+    "LIT-231-A15DA4F7BA",
+    "LIT-231-54000BDA30",
+    "LIT-231-35C3BF1814",
+    "ANALYSIS-F-231"
+  ],
+  "new_ids": [
+    "GEN-20261021-079",
+    "HIST-231-LYONS-PROJECTION-LIMIT",
+    "HIST-231-LYONS-CONTRACTION-DILATION",
+    "HIST-231-LYONS-CYLINDER-UNIQUENESS",
+    "HIST-231-LYONS-MIXED-CYLINDER",
+    "HIST-231-FKK-FINITE-INNOVATION",
+    "HIST-231-FKK-MEASURABLE-POSTERIOR",
+    "HIST-231-BP-FINITE-TRANSFER",
+    "HIST-231-BP-PERIODIC-LIMIT",
+    "HIST-231-BP-MIXED-EDGE-EVENTS",
+    "CHECK-231-OPERATOR-HISTORY",
+    "CHECK-231-BP-NORMALIZATION",
+    "CHECK-231-LYONS-AUTHOR-ERRATA"
+  ],
+  "new_explicit_edges": 43,
+  "old_canonical_records": 3378,
+  "unmodified_old_records": 3374,
+  "new_candidate": false,
+  "new_initial_check": false,
+  "new_application_run": false,
+  "direct_comparator_edges_added": 2
+}

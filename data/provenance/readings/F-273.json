@@ -1,0 +1,460 @@
+{
+  "family_id": "F-273",
+  "work_package": "WP-078",
+  "generation_id": "GEN-20261021-074",
+  "recorded_at": "2026-10-21T04:48:52.189092+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/main.tex": {
+      "sha256": "1ba3e5ae51dde8f6904a4357d24fd3c607df7068e968c22f5093a265a4b151fe",
+      "total_lines": 47,
+      "read_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/references.tex": {
+      "sha256": "b1d9bd029c81911737c86788e86c2dd2dd3aa4a66d3f0c758cf17d98e3577827",
+      "total_lines": 216,
+      "read_ranges": [
+        [
+          1,
+          216
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/00-introduction.tex": {
+      "sha256": "e9aacce4cf725d58cd99276a76c989adaee998706a3ffab2a2c0676b506ffb04",
+      "total_lines": 196,
+      "read_ranges": [
+        [
+          1,
+          196
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/01-preliminaries.tex": {
+      "sha256": "b683c666a9d88280ad831e4065aaf89fb3de43d2098ae987a8ce0267765d5128",
+      "total_lines": 105,
+      "read_ranges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/02-interpolation.tex": {
+      "sha256": "fa0efd354ad4de0c006c259d638bb443e8d2a67b66aef372881379521ddf04ee",
+      "total_lines": 430,
+      "read_ranges": [
+        [
+          1,
+          430
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/03-minimization.tex": {
+      "sha256": "1c8b906076233a4457610751d47ca3b884116c48c003dbaef336aa59e4228d5b",
+      "total_lines": 429,
+      "read_ranges": [
+        [
+          1,
+          429
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/04-metric.tex": {
+      "sha256": "78647b07afec54d8bd45dc7afd6ead24ac2bd8c5e903ff5bd51cd6b2029c60cb",
+      "total_lines": 291,
+      "read_ranges": [
+        [
+          1,
+          291
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/05-stationarity.tex": {
+      "sha256": "f0e23fdd40c3a25deccf1faf0df0f60d5374208018876cb571e57df908abf717",
+      "total_lines": 256,
+      "read_ranges": [
+        [
+          1,
+          256
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/06-broadcast.tex": {
+      "sha256": "8b49b01e89082d32db44272db91b675f74a406dacb1b9c07e7abfcec50eae8b8",
+      "total_lines": 304,
+      "read_ranges": [
+        [
+          1,
+          304
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 9,
+  "source_tex_lines": 2274,
+  "additional_bibliography_lines": 0,
+  "bibliography_lines_in_source": 216,
+  "formal_selected": {
+    "math/lean/OAI/InformationTheory/PhotonNumber/Basic.lean": {
+      "sha256": "cf1235bc80ca5f00ffb4934101e1aa54c1ae326514d36108c3d88f5e0cdb96e8",
+      "total_lines": 102,
+      "read_ranges": [
+        [
+          1,
+          102
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/InformationTheory/PhotonNumber/Inequality.lean": {
+      "sha256": "ea6ae6420e0f1fd4f51348ad12a9524701a2d0153281a5cd60462635ef75f245",
+      "total_lines": 707,
+      "read_ranges": [
+        [
+          1,
+          707
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/EntropyPhotonNumber.lean": {
+      "sha256": "852aaa9ae3c137dcbe311da89c8467f09bb25b592c2ebb79a3d9cd079b2dd016",
+      "total_lines": 112,
+      "read_ranges": [
+        [
+          1,
+          112
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/EntropyPhotonNumber.json": {
+      "sha256": "6454e08f0605d1c55ceeb6cf76a19d2066d9b3c0a4c3e02f23bacf497062d72d",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/docs/273.md": {
+      "sha256": "78e1bacfac6f4ffe223e3607912563c718c0840d2775304db9ad192ad9ff1259",
+      "total_lines": 17,
+      "read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/InformationTheory/PhotonNumber/ThermalLimit.lean": {
+      "sha256": "848867ab04d21923cb76c0d6aba2beb48b73abbeb1cb12bbba36069d1e0a9fe8",
+      "total_lines": 728,
+      "read_ranges": [
+        [
+          565,
+          728
+        ]
+      ],
+      "fully_read": false,
+      "scope": "Actualunconditionalbase_nonnegative/proofandminimumthermal_subsequence interfaces;earlierbodyunread"
+    }
+  },
+  "formal_index": {
+    "path": "data/provenance/formal/F-273-import-index.json.gz",
+    "sha256": "7e78c77c4644186c0a5d8f21c5d88ded61796ae746220ccf82ea60da5fd0ce77",
+    "sha256_uncompressed": "16bdf529dadb1329294837964afd52dbadfc8b8a51e14353071fa6f27f49ca67",
+    "bytes": 21408,
+    "local_files": 26,
+    "declarations": 2097,
+    "no_placeholder_tokens_in_lexical_scan": true,
+    "build": "not_run",
+    "Comparator": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "GES2007",
+      "url": "https://arxiv.org/pdf/0710.5666v2",
+      "scope": "Actualv2 PDF9Nov2007,3pages;SectionII.B/eq9-14/render136-211andselectedIII227-279",
+      "summary": "Original conjecture uses independent ports,entropy photon number and exact thermal references; EPnI implies two minimum-output claims. Definitions and implications were proposed here,not a new engineering discovery by this project."
+    },
+    {
+      "key": "DMG2014",
+      "url": "https://arxiv.org/pdf/1402.0404v2",
+      "scope": "Actualv2 stamp7May2015,24pages;SectionII eq3-5/render94-147;II.C-D eq32-37/render519-608;MethodsIV.C eq88-89/render1158-1200 selected",
+      "summary": "Older exponential qEPI holds every transmissivity and gives linear entropy bound; weaker than EPnI for unequal entropies. It already bounds possible photon-number deficit and broadcast outerregion; no new benefit from equal-entropy identity or thermal-state recalculation."
+    },
+    {
+      "key": "GSE2007",
+      "url": "https://arxiv.org/html/0706.3416v1",
+      "scope": "Actual22Jun2007v1 identity matchedjournalDOI;HTMLSectionIV/render103-186,AppendixA/209-226 selected. VersionedPDFcachemiss,unversionedPDFheaderconfirmedv1;notentirepaperproofaudit.",
+      "summary": "Coherent Gaussian superposition achieves the same broadcast rate shapes; converse depended on StrongConjecture2. Already allowed lossy receiver coefficients and entire-codebook photon averaging. Old figures/rates use bits versus current nats; convert bases. Source theorem supplies missing entropy premise,not a new encoder/decoder implementation."
+    }
+  ],
+  "result_notes": {
+    "thm:epni": "Finite integer n>=1, FULL untruncated bosonic Fock states with finite mean total number. Two ports JOINT PRODUCT rhoA tensor rhoB; arbitrary entanglement WITHIN either port allowed. Same passive transmissivity eta in[0,1] at each mode; reduced retained output. gInv(SC/n)>=eta*gInv(SA/n)+(1-eta)*gInv(SB/n), all natural logs. Product identical-per-port thermals attain equality with unequal port means. Not correlated ports, unequal mode attenuation, amplifier or physical energy equality.",
+    "cor:thermal-attenuator": "Finite n>=1, finite entropy per mode s>=0 and thermal environment mean NB>=0; identical passive attenuator each mode, independent PRODUCT thermal environment. Exact minimum output entropy/n at input S=ns is g(eta*gInv(s)+(1-eta)*NB), attained by product thermal input. Allows entangled input modes, not uniqueness or arbitrary Gaussian channels. Natural consequence C,outside selected formal endpoint.",
+    "lem:gibbs-variational": "Faithful sigma, finite S(rho) and cross entropy imply Umegaki D>=0 with equality iff rho=sigma. Bounded-below K with finite nonzero partition Z gives unique Gibbs minimizer ONLY if Gibbs state belongs to admitted class; no arbitrary unbounded differentiation.",
+    "lem:energy-compactness": "Fixed finite mode n and COMMON finite mean-number cap E give trace-norm compactness and entropy continuity,0<=S<=n*g(E/n). Number-cutoff tail q<=E/(K+1),entropy tail controlled by H2(q)+q*n*g(E/(q*n)). Normalized compressions converge with bounded energies; no entropy continuity without common energy constraint.",
+    "prop:thermal-mixing": "Independent ports carry identical-per-mode product thermal states tau_rs; nonnegative lambdas sum1, same passive rotation all modes. Retained joint state tau_sum(lambda*rs), including vacuum limits. Does not Gaussianize arbitrary inputs or remove port independence.",
+    "thm:interpolation": "Positive DIAGONAL forms on source/targets, fixed linear maps Li and positive wi. Each source test has FINITELY MANY parameter VALUES(m>0,x,y real), testspace invariant under scalar functions of tuple. Four comparisons with mf(x)e^+/-x and mf(y)e^+/-y imply F=m*f(x)*f(y)/f(x+y),f=x/sinhx,f0=1. Targets unrestricted nonnegative sums/Fatou. No commutation compatibility between Li and multipliers, but all FOUR hypotheses/test invariance required; finite parameter values not finite coordinate support.",
+    "int:stieltjes": "B defined by B(f(x)^2)=x*cothx for x>=0 extends holomorphically upperhalfplane/across positive axis,real strictlydecreasing,B1=1,Bprime1=-1. -Bprime(s)=c+integral nu(dr)/(s+r),c>=0,positive nu,integral(1+r)^-1 finite. Herglotz and inverse conformal parametrization supply representation; no arbitrary product-of-weights closure.",
+    "lem:gibbs-regularity": "W=1+N,k>0,B bounded positive; closed form K=kW4+W^1/2 B W^1/2 on D(W2) has compact inverse. Faithful Gibbs exp(-K)/Z has finite SEVENTH moment and uniquely minimizes energy-minus-entropy among finite FOURTH-moment states. Uniform control as k->0 not asserted.",
+    "prop:regularized-minimum": "After fixed strict finite-support witness and ordered positive references/thermal port/epsilon/output replacement kappa, every zeta in(0,zeta0] attains Jzeta<=-c. Input mean energies uniform in zeta; faithful seventh-moment states,Hs<=CsW4,H0<=CW. Exact Gibbs logarithm identity with sliced H0,epsilon energy and zetaW4. Seventh-moment/log bounds need NOT be uniform in zeta.",
+    "prop:hessian": "ONLY at these regularized minima, centered output slice Li=(TiZ-mean I)/sqrt(lambda_i) has squared logarithmic-mean norm <=(1+epsilon)/(1-kappa) times output norm. Finite EIGENblock perturbations,centered identity tail and dual Gibbs Hessian argument; NOT universal channel contraction or number-basis finite truncation.",
+    "prop:metric": "At minima, independent-port arithmetic variance comparisons plus Hessian/slack supply four weights. Thermal F_s=(1/h_s)*f(h_s v/2)*f(-h_s/2)/f(h_s(v-1)/2) has removable v1 and fixed positive upper/lower bounds. Equal to tilted logmean via ell(p_l,p_r)F=ell(r p_l,(r+1)p_r). Not universal metric monotonicity for arbitrary state/channel.",
+    "lem:dual-finiteness": "At minimizing states seventh moment and H<=CW4 give absolute K and vK logarithmic sums; centered thermal defect dual norm=sum(1-v)K|dprime_lr|² finite. Only centering removes expectation,not arbitrary unbounded-operator domain assumptions.",
+    "lem:weak-traces": "For bounded output observables, thermal defect convolution has sum_i w_i qi(LiZ) PLUS kappa(1-kappa)*conjugate(mu_gamma)*Tr[(gamma-tau)Z]. Finite energy/Hilbert-Schmidt weak products justify slices/discarded commutators; replacement correction cannot be dropped when mean nonzero.",
+    "prop:defect-estimate": "At minima A²=sum wi||qi||²,M²=sum wi|mui|²:||q0||<=A+sqrt(2kappa)C0 M. Choose kappa<=epsilon²/[4(epsilon+2)C0²] AFTER fixed references/epsilon,uniform zeta; squared bound A²+epsilon/2(A²+M²). Defects also vanish on DISPLACED thermals,so means need separate control.",
+    "lem:generator-covariance": "At minima weighted W² delta W² trace class/traceless. Thermal-relaxation generator covariance delta0=(1-kappa)sumPhi_i(delta_i); logarithmic slicing holds. Finite joint-cutoff covariance algebra itself permits correlated joint operators,while actual product-port model and other steps still require independence. This does NOT extend whole EPnI to correlated inputs.",
+    "lem:entropy-production": "At minima sigma=Tr(delta H)/h=||q||dual²-(eprime-nr). Generator number drift separately includes -|mu|². Exact Gibbs stationarity cancels centered energies,retains negative mean and replacement terms; no need positive two-sided rho+t*delta or entropy derivative along unbounded semigroup.",
+    "cor:broadcast-capacity": "Memoryless TWO-receiver PURE-LOSS classical broadcast,0<=etaC<etaB,etaB+etaC<=1,independent auxiliary vacua; input finite-energy codewords may entangle across uses. Finite mean-number bound averaged over ENTIRE uniform independent product message codebook AND uses. Separate collective decoding/vanishing AVERAGE error,no cooperation/feedback. Closed convex hull of nonnegative RB<=g(etaB*beta*Nbar),RC<=g(etaC*Nbar)-g(etaC*beta*Nbar),beta[0,1],NATs/use. Not finite-block error exponent/per-codeword bound/thermal-noise broadcast/quantum capacity."
+  },
+  "method_contracts": [
+    {
+      "key": "PORT-INDEPENDENCE",
+      "title": "端口独立与内部纠缠",
+      "input": "Finite-energy independent bosonic ports; arbitrary internal entanglement",
+      "output": "Correct finite-mode entropy-photon comparison",
+      "cannot_transfer": "Correlated ports not admitted; centered covariance identity alone does not remove this",
+      "source_labels": [
+        "thm:epni"
+      ]
+    },
+    {
+      "key": "ENERGY-CUTOFF",
+      "title": "能量约束下的熵截断",
+      "input": "Fixed finite n,uniform mean number E,cutoffK",
+      "output": "Trace/entropy approximation with tail q<=E/(K+1)",
+      "cannot_transfer": "No dimension-free unrestricted entropy continuity or unspecified cutoff error",
+      "source_labels": [
+        "lem:energy-compactness"
+      ]
+    },
+    {
+      "key": "THERMAL-REFERENCE",
+      "title": "同熵热参考与混合",
+      "input": "Natural-log entropy/n,identical-per-port product thermals",
+      "output": "gInv maps entropy to reference mean; thermal mixing exact",
+      "cannot_transfer": "Reference photon number is not actual input mean for arbitrary states",
+      "source_labels": [
+        "thm:epni",
+        "prop:thermal-mixing"
+      ]
+    },
+    {
+      "key": "FOUR-WEIGHT",
+      "title": "四权重对角型插值",
+      "input": "Four fixed-map positive diagonal form comparisons,finite parameter source tests/invariance",
+      "output": "F=m*f(x)*f(y)/f(x+y) comparison",
+      "cannot_transfer": "Allfourcomparisons required; no automatic target norm for arbitrary learned maps",
+      "source_labels": [
+        "thm:interpolation"
+      ]
+    },
+    {
+      "key": "PARALLEL-SUM",
+      "title": "正组合与并联和闭包",
+      "input": "Two comparison-preserving diagonal families and invariant testspace",
+      "output": "Positive sums,parallel sums,logmeans and admissible limits preserve comparison",
+      "cannot_transfer": "No rule allowing arbitrary weight multiplication",
+      "source_labels": [
+        "thm:interpolation"
+      ]
+    },
+    {
+      "key": "STIELTJES",
+      "title": "隐函数导数的正积分表示",
+      "input": "B(f(x)^2)=x cothx and holomorphic anti-Pick continuation",
+      "output": "Positive Stieltjes representation constructs extra interpolation weight E",
+      "cannot_transfer": "Special B only; not arbitrary convex scalar function",
+      "source_labels": [
+        "int:stieltjes"
+      ]
+    },
+    {
+      "key": "FIXED-REFERENCE",
+      "title": "严格反例与正则化顺序",
+      "input": "Strict finite-support witness,positive references; choose thermalport thenepsilon thenkappa",
+      "output": "Strict negative Jzeta for all smallzeta",
+      "cannot_transfer": "Natural concluding limit ONLY zeta->0,other parametersfixed",
+      "source_labels": [
+        "prop:regularized-minimum"
+      ]
+    },
+    {
+      "key": "GIBBS-PENALTY",
+      "title": "四阶惩罚产生七阶正则性",
+      "input": "Positive quartic number penalty and bounded relative form",
+      "output": "Faithful Gibbs minimizers with weighted trace control",
+      "cannot_transfer": "Constants may diverge as penaltyvanishes;not computational search algorithm",
+      "source_labels": [
+        "lem:gibbs-regularity",
+        "prop:regularized-minimum"
+      ]
+    },
+    {
+      "key": "MINIMUM-HESSIAN",
+      "title": "仅在极小值的分量Hessian界",
+      "input": "Regularized minimum,finite eigenblock variations,centered slices",
+      "output": "Continuous logmean norm contraction with explicitepsilon/kappafactor",
+      "cannot_transfer": "Not universal data-processing metric bound",
+      "source_labels": [
+        "prop:hessian"
+      ]
+    },
+    {
+      "key": "THERMAL-METRIC",
+      "title": "热平衡倾斜对数均值",
+      "input": "Two arithmetic product-port estimates plus two slackconstant estimates",
+      "output": "Bounded positive thermal F comparison at minima",
+      "cannot_transfer": "Requires priorfour inequalities; arbitrarystate notadmitted",
+      "source_labels": [
+        "prop:metric"
+      ]
+    },
+    {
+      "key": "CENTERED-DEFECT",
+      "title": "缺陷与均值分别控制",
+      "input": "Centered creation-annihilation thermal defect andinputmeans",
+      "output": "Defect-and-mean decay excludes displaced thermal ambiguity",
+      "cannot_transfer": "Zero centered defect alone does not fix reference mean",
+      "source_labels": [
+        "lem:dual-finiteness",
+        "prop:defect-estimate"
+      ]
+    },
+    {
+      "key": "WEAK-CONVOLUTION",
+      "title": "弱迹卷积的替换修正",
+      "input": "Finiteenergy,boundedobservables,independentports,replacedoutput",
+      "output": "Convolution with explicit mean-dependentreplacementterm",
+      "cannot_transfer": "Cannot silentlydiscardcorrection or use undefinedunboundedcommutator",
+      "source_labels": [
+        "lem:weak-traces"
+      ]
+    },
+    {
+      "key": "WEIGHTED-GENERATOR",
+      "title": "无半群微分的生成元配对",
+      "input": "Regularized states with seventh moment/log bounds",
+      "output": "Weightedtracecovariance andexactGibbsstationarity",
+      "cannot_transfer": "No needtwo-sidedpositivity;notglobalentropyflowproof",
+      "source_labels": [
+        "lem:generator-covariance",
+        "lem:entropy-production"
+      ]
+    },
+    {
+      "key": "EXACT-CANCELLATION",
+      "title": "先精确消去中心能量",
+      "input": "Gibbsidentity,production/numberdrift/replacementidentities",
+      "output": "epsilon/2*(A²+M²)<=Czeta",
+      "cannot_transfer": "Need separate means andnonpositive quarticdrift;notassumedenergyconvergence",
+      "source_labels": [
+        "lem:entropy-production",
+        "prop:defect-estimate"
+      ]
+    },
+    {
+      "key": "THERMAL-RECURRENCE",
+      "title": "数基递推识别完整极限",
+      "input": "Weak defects andmeans vanish,fixed finite number-basistests,tracecompactness",
+      "output": "Offdiagonalszero/geometricdiagonal -> fullproductthermal",
+      "cannot_transfer": "No convergenceofunboundedenergies/firstmoments required;allbasisindices needed",
+      "source_labels": [
+        "lem:energy-compactness",
+        "prop:defect-estimate"
+      ]
+    },
+    {
+      "key": "ATTENUATOR-MINIMUM",
+      "title": "固定输入熵的热衰减器最小值",
+      "input": "Finite n identicalattenuators and independentproductthermalenvironment",
+      "output": "Exact constrained entropyminimum attainedthermal",
+      "cannot_transfer": "C consequence outsideformalendpoint;notuniqueness/unequalmodechannels",
+      "source_labels": [
+        "cor:thermal-attenuator"
+      ]
+    },
+    {
+      "key": "BROADCAST-CONVERSE",
+      "title": "降级边际的真空熵界",
+      "input": "etaC/etaB degradingmap withnewindependentvacuum,conditionalstates",
+      "output": "Jensen convexphi + Holevo/Fano gives outerregion",
+      "cannot_transfer": "Physicalreceiveroutputs notindependent;asymptoticaverageerror only",
+      "source_labels": [
+        "cor:broadcast-capacity"
+      ]
+    },
+    {
+      "key": "FINITE-ALPHABET",
+      "title": "有限相干字母再取编码极限",
+      "input": "IndependentGaussian T,Z approximatedbyfiniteconditionalmeans,costbackoff Nprime<Nbar",
+      "output": "Finitecoherentvectors span exactfinitedim outputs;Holevoquantities converge",
+      "cannot_transfer": "Choosealphabet/typeslack BEFORE blocklength;notfinitehardwaredecoder",
+      "source_labels": [
+        "cor:broadcast-capacity"
+      ]
+    },
+    {
+      "key": "CODEBOOK-COST",
+      "title": "全码本成本与误差同时筛选",
+      "input": "Randominnercodebook withexpectedcost Ndoubleprime<Nbar andvanishingexpectederror",
+      "output": "Markovunion selects deterministic fullproductmessagecode underaveragecost",
+      "cannot_transfer": "Notmaximalerror/per-codewordcost orfiniteexplicitblocklength",
+      "source_labels": [
+        "cor:broadcast-capacity"
+      ]
+    },
+    {
+      "key": "METRIC-CONSUMER-GATE",
+      "title": "实际线性特征消费者",
+      "input": "Existing weightedfeaturepipeline and genuineprecomputedfourcertificatebank",
+      "output": "Reviewable downstreamtargetmetric certification use",
+      "cannot_transfer": "Noactualcaller/model/latencyworkload observed",
+      "source_labels": []
+    },
+    {
+      "key": "FINITE-COST-GATE",
+      "title": "全精度与直接PSD基线",
+      "input": "Frozenfiniteinputdistribution,parameterintervals,independentcertifiedPSDjudge/fullresourcecaps",
+      "output": "Correctcertificatecoverageandfullcost versusdirecttargetPSD",
+      "cannot_transfer": "Floating eigenvalues/knownidentity alone not certified application validation",
+      "source_labels": []
+    }
+  ],
+  "notes": [
+    "29GiBfreeatstart,externalfluctuationnotprojectcleanupgain;previewPID49683actuallylistening;nootherresearchprocessesregistered. No installs/numericalruns/independentprovider/humanclaims.",
+    "Initialreadonlyread-indexhelperusednonexistentnamed_resultsline_start/line_endkeysandfailedbeforecanonicalorprogresswrite;correctedtostart offsets. Failurepreservedasobservednote,notnumericalexperiment.",
+    "Whole9TeX2274readincludingreferences216. ActualComparatorJSONmapsOAI.InformationTheory.PhotonNumber.Inequality;YAMLtitleabsentdoesnotmeanproofabsent. Challengeintentionalsorrynotactualsolutionplaceholder.",
+    "Naturalonlyzetatozeroatfixedremainingparams;actualInequalitysuccessivelimitsremoveepsilon/kappa/thermalportafterbase_nonnegative. Formalfiniteenergystatecutoffaddsdiscardedmasstovacuumratherthannormalizedcompression. FinalselectedfullFock/HasSumendpointnotbuild/Comparator/human/fullsupportaudit."
+  ],
+  "remaining": [
+    "Recursivehistoryincomplete:3selectedoriginalscopes;otherrootbodies/deepdependenciesunread,includingoriginalfourweightoperator-meanantecedents.",
+    "ActualComparatorregisteredmain/Basic/InequalityandThermalLimit565-endselected.26file2097declarationstaticindexnotbuild/Comparator/human/fullproof;mainB,allothernaturalresultsC. YAMLcataloguetitlemissingdoesnotinvalidateactualsolution.",
+    "No actualfinitefeatureconsumer/preexistingcertificatebank/fullprecisionjudge/resourcecomparison;conditionalfarcandidate only,noinitial/prototype/numericalrun. Quantumcutoff/energy/entropyestimation andphysicalcodingimplementationalso notestablished.",
+    "Human andsecondproviderdeferred,notwaived."
+  ],
+  "new_candidate_count": 1,
+  "new_application_run": false,
+  "formal_status": "One actualComparatorregisteredfullFock EPnI endpoint selectedB;attenuator/broadcast/interpolation naturalC. No localbuild/Comparator/human/fullsupportclosure. YAMLmetadataomissionnotproofabsence."
+}

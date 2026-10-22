@@ -1,0 +1,12 @@
+{
+  "recorded_at": "2026-10-20T16:13:30.708756+00:00",
+  "failure": "Duplicate main-to-Whitney historical_context relation appeared in both scope comparison and proof attribution loops.",
+  "canonical_nodes_or_edges_written_before_failure": false,
+  "previous_graph_validation": {
+    "nodes": 2558,
+    "edges": 6324,
+    "candidate_connections": 16
+  },
+  "repair": "Merge locator text for identical source/relation/target within pending in-memory batch;retain one stable edge. Policy file was the only persisted output before failure.",
+  "numerical_outputs_changed": false
+}

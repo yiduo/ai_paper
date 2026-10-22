@@ -1,0 +1,66 @@
+{
+  "work_package": "WP-044",
+  "generation_id": "GEN-20261021-041",
+  "recorded_at": "2026-10-20T20:42:26.754598+00:00",
+  "status": "conditional_candidate_mapping_no_experiment",
+  "primary_observations": [
+    {
+      "title": "Tao245CNotes1:distribution functions and weakLp",
+      "url": "https://terrytao.wordpress.com/2009/03/30/245c-notes-1-interpolation-of-lp-spaces/",
+      "locator": "30Mar2009 authorlecture;Section2 interpolationoffunctions,Eq9 distribution/layerintegral,weakLpdefinition andExample12;selectedbodycontentread",
+      "scope": "ClassicLpdistributionidentity andweakspaceinput;newrecordbudget is elementarycomposition,notnewtheorem or quotedcodec.",
+      "byte_identity": "Webobservation;fullpagebytes notretained/unversionedauthorpage,checkedatcurrenttime"
+    },
+    {
+      "title": "zfp1.0.1 compression modes and field limits",
+      "url": "https://zfp.readthedocs.io/en/release1.0.1/modes.html",
+      "locator": "Selectedfixedrate,fixedprecision,fixedaccuracy andblock/metadata constraints;versionedmanual only",
+      "scope": "Existingfixedrate footprint andvariable-rateaccuracy tradeoff;notimplementationorbenchmark.",
+      "byte_identity": "VersionedmanualURL,bytesnotretained"
+    },
+    {
+      "title": "zfp1.0.1 FAQ vectorfields and errorprecisionlimits",
+      "url": "https://zfp.readthedocs.io/en/release1.0.1/faq.html",
+      "locator": "SelectedQ16vectorfieldcomponentstrides,Q17floatingrepresentability limits,Q20fixedprecision coefficientversuspointwiseerror",
+      "scope": "Vectorcomponents needcorrectlayout;absolute-error toleranceshavefiniteprecisionlimitations. No sourcecode read/executed.",
+      "byte_identity": "VersionedmanualURL,bytesnotretained"
+    }
+  ],
+  "natural_source": {
+    "path": "math/preprints/Interior-regularity-of-planar-Mumford-Shah-minimizers-September-24-2026/build/sections/completion.tex",
+    "sha256": "c1c048e254cf9cfe72deb7584b2ba4c78ef208c766f23cb5fda792c54c8d155f",
+    "locator": "cor:weak-l4 andproof fullyread;CUexistenceonly"
+  },
+  "derivation": {
+    "status": "Existinglayercake/projection/nearest-grid budgetcomposition,notnewmathematicalresult",
+    "input": "A=areaU>0,C>0certifiedforallthresholdtailbound,f=gradactualcontinuumminimizer,qhpiececonstant onknownpositive-areaNcells withcertifiedL2error<=e0,delta>e0",
+    "tail_squared_error": "Integral_|f|>T |f|^2 =T²mu(|f|>T)+2Integral_T^infinity s mu(|f|>s)ds <=2C/T²",
+    "codec": "Componentwiseboxclipqh to[-T,T];eachcomponentnearestof2^b uniformlevels includingendpoints;b>=1;cellweights sumA",
+    "total_error": "e0+sqrt(2C)/T+sqrt(2A)*T/(2^b-1)",
+    "parameter_choice": "r=delta-e0>0;T=2sqrt(2C)/r;2^b-1>=8sqrt(AC)/r²;b>=1;actualimplementationmustoutward-roundandbudgetarithmeticerror",
+    "payload": "2Nb bits forcoefficients only;headers,partition,C,T,weights andcertificates separate",
+    "degeneracies": "C0 canusezerofield ifcertificatevalid;A0trivial;delta<=e0 insufficientbudget;Cnegative/missingandinvalidareasreject"
+  },
+  "old_baselines": [
+    "GenericstrongLp tail<=Mp*T^(2-p),p>2;genericweakLp layeredtail;needactualcertifiedconstants",
+    "No-clipknownfinitearraymaxM uniformquantization,e0+sqrt(2A)*M/(2^b-1)",
+    "Existingzfpmanualabsolute-error mode ifactualsupportedformat/precision verified;variablecompletefilesize,not samefixedwordconstraint",
+    "EarlierDeangelisclassificationclaim plusmonographweakL4mayalreadysupplysamefunctionclass;noexclusiveF366benefit"
+  ],
+  "not_inferred": [
+    "CertifiedCU/e0 fromfinite samples",
+    "Arbitrarygridoutputisabsolutecontinuumminimizer",
+    "Clippedfieldiscurl-free orgradient",
+    "ReconstructedimageMSE,segmentationaccuracy/topology",
+    "Compressionratio/runtimegain orZFPimplementationcorrectness",
+    "Initialapplicationcheck fromknowncracktip/Pareto/calibration"
+  ],
+  "actual_input_found": false,
+  "executable_spec_frozen": false,
+  "numerical_run": false,
+  "initial_check_eligible": false,
+  "new_conditional_candidate_ids": [
+    "APP-366-01"
+  ],
+  "storage": "No newdownloadsor numericalpayload. Manualwebobservations explicit,nofullsoftwareinstall. Curation/checkscripts archivedgzip;existingexperimentarchivesremainlossless."
+}

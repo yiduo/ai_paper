@@ -1,0 +1,68 @@
+{
+  "recorded_at": "2026-10-21T02:19:29.269115+00:00",
+  "all_old_canonical_records": 2822,
+  "unchanged_prior_records": 2818,
+  "changed_exact_history_records": [
+    "ANALYSIS-F-294",
+    "APP-294-01",
+    "PART-294-BASELINE-BUDGET-GATE",
+    "PART-294-CONSUMER-GATE"
+  ],
+  "all_old_explicit_edges_unchanged": true,
+  "new_canonical_records": 9,
+  "new_explicit_edges": 16,
+  "nodes": 5020,
+  "edges": 12522,
+  "canonical_citations": 4549,
+  "selected_source_lines": 1331,
+  "selected_source_files": 9,
+  "source_archive_members": 9,
+  "source_archive_roundtrip": true,
+  "original_source_ledger_and_index_unchanged": true,
+  "conditional_prediction_unchanged": true,
+  "gate_impacts_exclude_source_theorems": {
+    "PART-294-CONSUMER-GATE": [
+      "APP-294-01",
+      "PART-294-CONSUMER-GATE"
+    ],
+    "PART-294-BASELINE-BUDGET-GATE": [
+      "APP-294-01",
+      "PART-294-BASELINE-BUDGET-GATE"
+    ]
+  },
+  "navigation_consistent": true,
+  "upstream_clean": true,
+  "new_application_run": false,
+  "source_formula_shape_audit_not_runtime_or_new_hypothesis": true,
+  "analogy_distribution": {
+    "near": 25,
+    "far": 9,
+    "bold": 1
+  },
+  "old_replays": "Not repeated:no numericalsourcechanged;WP06713archiveintegrity andactual200support076adverse replaysrecentlypassed.",
+  "metrics": {
+    "nodes": 5020,
+    "research_nodes": 2828,
+    "edges": 12522,
+    "citations_checked": 4541,
+    "candidate_connections": 35,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 39,
+    "source_decomposition_drafts": 33,
+    "component_checks": 2,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  }
+}

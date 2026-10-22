@@ -1,0 +1,48 @@
+{
+  "recorded_at": "2026-10-21T03:00:18.785042+00:00",
+  "core_tests_passed": 51,
+  "validation": {
+    "nodes": 5205,
+    "research_nodes": 2977,
+    "edges": 13061,
+    "citations_checked": 4764,
+    "candidate_connections": 35,
+    "externally_checked_cards": 11,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 11,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 1346,
+      "sha256": "2240e5cecf67fdb18d37953079253e65a77552e80531337db26d95a4155cc2cd"
+    },
+    "index.html": {
+      "bytes": 14429695,
+      "sha256": "e71f86ef3f42eccbfe13f16c0e9b9dab225702a948e4c7ecc998643e0e31b6af"
+    },
+    "navigation.json.gz": {
+      "bytes": 51173,
+      "sha256": "b76d6c8883eb403e87565df5723584d9f8fb9bd82742224dd0841d2f146aa2a9"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 2237822,
+      "sha256": "6862cec2a7d1e8ee9d48e101843e7789a6f8ffd98a72cc16944bfeee7bb387b7"
+    },
+    "navigation.md": {
+      "bytes": 73353,
+      "sha256": "af536400b6223a959d6aed3de7f0cd917e46eaaf521fe206cd12e5a51d1aebbc"
+    },
+    "knowledge.json.gz": {
+      "bytes": 1940858,
+      "sha256": "5d9af18e6ea3a7daabfc03f2875c95257102cd804b33a219bff38e67a5ad902e"
+    }
+  },
+  "browser_visual_check": "Viewer logic unchanged;WP059 functional/screenshot receipt retained. New full data/source/export checks actual;no fresh visual claim.",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

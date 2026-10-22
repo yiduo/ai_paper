@@ -1,0 +1,435 @@
+{
+  "id": "F-255-HISTORY-002",
+  "family_id": "F-255",
+  "generation_id": "GEN-20261021-029",
+  "recorded_at": "2026-10-20T17:33:54.814526+00:00",
+  "project_base_commit": "c2b4d1b",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "prior_reading_ledger": "data/provenance/readings/F-255.json",
+  "selected_primary_scopes": {
+    "KrophollerMartinezPerezNucinkis2009": {
+      "file": "kmn-author.pdf",
+      "url": "https://www.ma.rhul.ac.uk/~uxah002/KrophollerMartinezNucinkis.pdf",
+      "locator": "Author-homepage PDF,14 pages,undated preprint linked by author to J.reine angew.Math.637(2009)49-62;Theorem1.1(viii)->(v),PDFp2;Sections1/2 background PDFpp3-4. PDFp2 visually checked.",
+      "statement": "An elementary amenable group of ordinary type FP_infinity is virtually of type F. The same paper states that such a group is nilpotent-by-abelian-by-finite, hence virtually solvable.",
+      "conditions": "Elementary amenable, ordinary integral FP_infinity;ordinary and Bredon finiteness notions remain distinct.",
+      "limits": "Theorem1.1 also permits a strictly ascending HNN branch;FP_infinity alone is not a direct polycyclic conclusion. Need the separate finite-cd/PD/solvable steps. Selected statement/background checked,not all proofs or cited older inputs.",
+      "pages": 14,
+      "visual_pages": [
+        2
+      ],
+      "text_scope": "kmn-author.txt lines1-235;pages1-4 complete,beginning ofpage5 only",
+      "bytes": 212753,
+      "sha256": "c52e6d7d5b7f2bdfc0fa667f3d2441968f5f0b3ed875afe84fbc5711dbbb3b76",
+      "content_checked_at": "2026-10-20T17:33:54.814526+00:00"
+    },
+    "Bieri1981": {
+      "file": "bieri.pdf",
+      "url": "https://webhomes.maths.ed.ac.uk/~v1ranick/papers/bieri.pdf",
+      "locator": "Second Edition scan,1981 addendum visually identified;Theorem9.23 and complete printed proof pp176-177 =PDF182-183;surrounding integral/local-coefficient duality context PDF176-178. Scanned page images actually read.",
+      "statement": "Every solvable Poincare duality group is polycyclic;in particular this applies to the integral PD subgroup used by F255.",
+      "conditions": "Solvability and integral Poincare duality;orientation not assumed:the proof passes to an orientable subgroup of index at most2.",
+      "limits": "Cannot replace PD by general duality or just FP_infinity;proof uses Theorem7.10,Proposition7.12 and soluble group structure inputs not independently audited here. Arbitrary finite extensions need not be polycyclic;F255 conclusion for H is virtually polycyclic.",
+      "pages": 204,
+      "visual_pages": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        170,
+        171,
+        176,
+        177,
+        178,
+        181,
+        182,
+        183,
+        184,
+        185
+      ],
+      "text_scope": "Text extraction empty;actual selected scan pages only,not the complete book",
+      "bytes": 1251070,
+      "sha256": "6d69354c234b0902ee31b0f475b4362313874bf2db5c07a5572361d1da1dc63f",
+      "content_checked_at": "2026-10-20T17:33:54.814526+00:00"
+    },
+    "Dekimpe2000": {
+      "file": "dekimpe.pdf",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3B7BAE587B7C9E760AB25E615B2ED7E6/S0010437X00000178a.pdf/solvable_lie_algebras_lie_groups_and_polynomial_structures.pdf",
+      "locator": "Published Compositio Math.121(2000)183-204;Theorem4.1 printedp199 =PDF17,proof attribution andreference15 printedp204 =PDF22. Scan pages actually viewed.",
+      "statement": "Every polycyclic-by-finite group has a normal finite-index subgroup realized as a uniform lattice in a connected simply connected solvable Lie group,with its intersection with the nilradical equal to its Fitting subgroup.",
+      "conditions": "May change both to a finite-index normal subgroup and to a suitable ambient solvable Lie group;no assertion that every initial ambient model has the Fitting intersection property.",
+      "limits": "Proof explicitly points to the argument of Raghunathan[15,Theorem4.28];that original theorem/proof not read. The degree-bounded polynomial-action discussion does not give an effective QI-recognition algorithm.",
+      "pages": 22,
+      "visual_pages": [
+        1,
+        2,
+        14,
+        15,
+        17,
+        18,
+        22
+      ],
+      "text_scope": "PDF is scanned;pdftotext returns DOI boilerplate only. Selected page images,not full22-page paper",
+      "bytes": 2452126,
+      "sha256": "bfb5e1b360fefe3d96621093d590843df07fef813ad138312f0017156996eb8a",
+      "content_checked_at": "2026-10-20T17:33:54.814526+00:00"
+    },
+    "Ganzburg2017": {
+      "file": "ganzburg.pdf",
+      "url": "https://www.impan.pl/shop/publication/transaction/download/product/92006",
+      "locator": "Published Colloq.Math.147(2017)221-240;Theorems1.1/1.2 printedpp221-222 =PDF1-2;Theorem1.2 and earlier attribution visually checked onPDF2. Bibliography9/10/28 checked.",
+      "statement": "Classical scalar Remez inequalities control polynomial suprema from a positive-measure subset;the multivariate bound uses Chebyshev T_n at 2/(1-(1-|E|/|V|)^(1/m))-1.",
+      "conditions": "Convex body V in R^m,measurable E subset V of positive full-dimensional Lebesgue measure,real polynomial degree<=n. Theorem1.2 is an unweighted result separate from the later phi-concave weighted generalization.",
+      "limits": "Theorem1.2 inequality attributed to Brudnyi-Ganzburg1973;extremal-body characterization to1976;one-dimensional result toRemez1936. It is not a2017/2026 novelty and is not itself a full-rank vector-image volume bound or an explicit value for F255C(a,b,D). Older originals/proofs unverified.",
+      "pages": 20,
+      "visual_pages": [
+        2
+      ],
+      "text_scope": "ganzburg.txt lines1-165 andselectedreferences9/10/28 at926-932,971-972;not all main weighted results/proofs",
+      "bytes": 493116,
+      "sha256": "71d96cb6b445637a7279960ad7fbae067e45fb94dda861d6706163cbe925a327",
+      "content_checked_at": "2026-10-20T17:33:54.814526+00:00"
+    }
+  },
+  "original_bibliography_root_count": 28,
+  "original_roots_selected_before": 7,
+  "original_roots_selected_after": 11,
+  "original_roots_still_unverified": 17,
+  "full_historical_lineage_complete": false,
+  "formal_interface_review": {
+    "pinned_repository": "https://github.com/Aaron1011/gromov.git",
+    "pinned_commit": "8db79f13cf211b570e3116301d91379fbc01cf3e",
+    "patch_composition": {
+      "pinned_commit": "8db79f13cf211b570e3116301d91379fbc01cf3e",
+      "patch_path": "math/lean/patches/gromov-lean4341.patch",
+      "patch_sha256": "26a1924bef774183a2e0865f144b782dc1f78eb0246993a31a5d63193b7781bb",
+      "git_apply_check_exit_code": 0,
+      "git_apply_exit_code": 0,
+      "scope": "Onlythreeselectedfilesina task-ownedtemporarydirectory;notfullpatch,nocloning,noLeanexecution",
+      "files": [
+        {
+          "module": "Gromov/FormalConjecturesCheck.lean",
+          "patched_bytes": 9429,
+          "patched_sha256": "7eaaf698951c7a4eb2d65a02d1aa2c019bc0e2c7074852f299e42188bc118d45",
+          "patched_git_blob_sha1": "52e4b65490d3c4ab735d928d891d356670f3a009",
+          "patch_blob_prefix": "52e4b65",
+          "raw_git_blob_sha1": "6c8c31e2fbf43b4c7e20bce475d4cf5d69c787dc",
+          "raw_sha256": "91132cbafc2824ee2afb8757d4fac9aba7aacbc67ccc52759ebfcbfad2d2b3b6",
+          "matches_pinned_git_tree": true
+        },
+        {
+          "module": "Gromov/Gromov.lean",
+          "patched_bytes": 35356,
+          "patched_sha256": "9fbe403611a59888d32a2078fe4805719312ae76acf75e85eea8466fc848702f",
+          "patched_git_blob_sha1": "bfc3ce3a32880c71f25c987d074727a57618cbd0",
+          "patch_blob_prefix": "bfc3ce3",
+          "raw_git_blob_sha1": "985ce009e34763c7277424f75fd3a050b27928f9",
+          "raw_sha256": "0170a5a55720e069df8d5103067ac29d2b90d6da666bc2060afebea0cab493a8",
+          "matches_pinned_git_tree": true
+        },
+        {
+          "module": "Gromov/PolynomialGrowth.lean",
+          "patched_bytes": 1304,
+          "patched_sha256": "a4116f9d906a0d078adc36ebc2eb8c39aec4a53e051c866660ffa0086e076850",
+          "patched_git_blob_sha1": "43f2bfeb54118b5c33bb7a67c7a8d5190cc89541",
+          "patch_blob_prefix": "43f2bfe",
+          "new_file_created_by_patch": true
+        }
+      ]
+    },
+    "effective_files_actually_read": [
+      {
+        "path": "Gromov/PolynomialGrowth.lean",
+        "lines": "1-37",
+        "scope": "Entire patch-created growth definitions"
+      },
+      {
+        "path": "Gromov/FormalConjecturesCheck.lean",
+        "lines": "1-208",
+        "scope": "Entire effective normalized-ball/forward-theorem interface;raw original also read"
+      },
+      {
+        "path": "Gromov/Gromov.lean",
+        "lines": "imports1-4 and970-1017",
+        "scope": "Selected effective main statement/proof only;remaining recursive proof closure not audited"
+      }
+    ],
+    "local_files_actually_read": [
+      {
+        "path": "math/lean/OAI/GroupTheory/PolycyclicRecognition/Algebra/GromovGrowthBridge.lean",
+        "lines": "entire",
+        "scope": "Local word-ball and positive-constant bridge"
+      },
+      {
+        "path": "math/lean/OAI/GroupTheory/PolycyclicRecognition/GromovImport.lean",
+        "lines": "entire",
+        "scope": "Invokes external forward theorem"
+      },
+      {
+        "path": "math/lean/lakefile.lean",
+        "lines": "35-36,158-165,166-338",
+        "scope": "Pinned declaration and setup/patch flow;Gromov patched by the post_update second block,not the pre-resolution list"
+      },
+      {
+        "path": "math/lean/patches/gromov-lean4341.patch",
+        "lines": "1008-1160,8641-8683",
+        "scope": "Selected interface diff andwhole37-line added module;full18638-line compatibility patch not mathematically audited"
+      }
+    ],
+    "observations": [
+      "Raw pinned repository has no Gromov/PolynomialGrowth.lean;the upstream compatibility patch creates it andmoves the same Cayley-ball/GrowthFunction definitions there. Raw404 isnot evidenceof a build failure.",
+      "Three selected temporary-file patch applications and prechecks succeed;raw Git blob SHA1 matches pinned tree entries,and effective blobs match all three patch index prefixes. This proves selected source composition only.",
+      "HasPolynomialGrowth supplies a finite generating set and polynomial bounds at all positive radii;normalizing by generators,inverses andidentity equates powers to Cayleyballs. Group.FG in gromov_forward_fg is redundant,not an extra missing premise.",
+      "Only forward polynomial-growth=>virtual-nilpotence is supplied;full formal-conjectures iff isnot discharged bythisfile. F255 onlyuses forward direction.",
+      "Main finite cases use the trivial nilpotent finite-index subgroup. A TODO comment mentioning finitegroups isnot a claim that every finitegroup is nilpotent.",
+      "No external library checkout,cache,Lean build,Comparator,complete supporting proof audit orhuman review. The actualeffective source is fixed externalcommit PLUS fixed localpatch."
+    ],
+    "static_index": "data/graph/lean_indices/F-255.json.gz remains an immutable local-source lexical index;597 external modules physically absent,not a patch-aware proof audit"
+  },
+  "failed_retrievals": [
+    "SotonknownHTTP500 not retried.",
+    "PublisherDegruyterwebinaccessible;authorizedcurl returned0-bytebody despiteexit0,rejectedascontent.",
+    "RoyalHollowaypublicationportalPDF403;authorhomepageidentifiedanotherdirectPDFwhichrecoveredtheoriginal.",
+    "Bieri text extraction empty andDekimpe DOI-only;renderedexactscansinstead.",
+    "RawGromov/PolynomialGrowth.lean404 resolvedby inspecting fixed upstream compatibilitypatch;no proof-source failure inferred."
+  ],
+  "temporary_files_before_cleanup": [
+    {
+      "path": "FormalConjecturesCheck.lean",
+      "bytes": 8239,
+      "sha256": "91132cbafc2824ee2afb8757d4fac9aba7aacbc67ccc52759ebfcbfad2d2b3b6"
+    },
+    {
+      "path": "Gromov.lean",
+      "bytes": 34929,
+      "sha256": "0170a5a55720e069df8d5103067ac29d2b90d6da666bc2060afebea0cab493a8"
+    },
+    {
+      "path": "bieri-definition-176.png",
+      "bytes": 65462,
+      "sha256": "4c50005f427c05537f1d71f9321b06fa4fbebe664a614376dc5ea415b7dec278"
+    },
+    {
+      "path": "bieri-duality-170.png",
+      "bytes": 55476,
+      "sha256": "c9e7b35d67ea73fc1a08e8ddc43860962da62dd4aaa4385b43461b31587d0088"
+    },
+    {
+      "path": "bieri-duality-171.png",
+      "bytes": 66155,
+      "sha256": "1abc1f8d37332403eb6f3b8054e77a1b58d3ca3e7667fe9943a224518b07d710"
+    },
+    {
+      "path": "bieri-duality-172.png",
+      "bytes": 58873,
+      "sha256": "7ecec01274ded0f487132c55f61fd85fd2caee4dc4f7c29c31515438d75bb34b"
+    },
+    {
+      "path": "bieri-duality-173.png",
+      "bytes": 60583,
+      "sha256": "0c1550e5f6bb581f4a100cf0a88862752e05d06e7674ec6744d5e9e34dcf6cab"
+    },
+    {
+      "path": "bieri-end-183.png",
+      "bytes": 62876,
+      "sha256": "5d961e3273d136e3b0107b3b1ae715413248869e6a7dd81e1101f25f35b722ef"
+    },
+    {
+      "path": "bieri-end-184.png",
+      "bytes": 56879,
+      "sha256": "b82ad362ba107a7306da28aa00444872de0d31077d28a83a79f4b33507dde123"
+    },
+    {
+      "path": "bieri-end-185.png",
+      "bytes": 28893,
+      "sha256": "488edc44a541d37824c4012d38455418f4213257a56ab05aa2a278b4d678931f"
+    },
+    {
+      "path": "bieri-front-002.png",
+      "bytes": 13892,
+      "sha256": "21af7888cc1b3dde2eeda0bc09004a885da40e8e51ab1acf50bc02e89e45977d"
+    },
+    {
+      "path": "bieri-front-003.png",
+      "bytes": 64520,
+      "sha256": "120ce188441529046f9b992ba892e3a80ace3e606719db3b26510cce43594fc4"
+    },
+    {
+      "path": "bieri-front-004.png",
+      "bytes": 66995,
+      "sha256": "adb5196817e373d463dce62b064b1577464021fa46095dc7364778439888e5f4"
+    },
+    {
+      "path": "bieri-front-005.png",
+      "bytes": 36709,
+      "sha256": "09ef07ae6ee50bee228f47425b6c4e5bc4e57c6d3cb382a867c642b5d8b74efc"
+    },
+    {
+      "path": "bieri-pd-177.png",
+      "bytes": 57189,
+      "sha256": "9aeea7bd50aa7609069d42c41631541dc075588368d1ed1992e4a4540b334e2d"
+    },
+    {
+      "path": "bieri-pd-178.png",
+      "bytes": 66509,
+      "sha256": "4b12a1ff83e430a5117c5b476e15d3c1cf4b26ebbf69ac5d7a6d6682e0aebd62"
+    },
+    {
+      "path": "bieri-pd-179.png",
+      "bytes": 66962,
+      "sha256": "f3e3b36bf340f381e6d9ed628a0488584b7ba186ee22b5e1ad1d36a3c9cd5250"
+    },
+    {
+      "path": "bieri-pd-180.png",
+      "bytes": 67952,
+      "sha256": "0ef446c0fba4f900bc31ce66696342a74f66c2a385a16a3f6fb04bda7e27f857"
+    },
+    {
+      "path": "bieri-theorem-181.png",
+      "bytes": 61764,
+      "sha256": "f20e5229a409525f5aea7196bb0f74fa72b94980e0aa634c0ef004ba278c6de8"
+    },
+    {
+      "path": "bieri-theorem-182.png",
+      "bytes": 52386,
+      "sha256": "e430791f3d38c0a3741e2a3bfa098ce108c43ea63e55ed45e7f3b36eb13b7930"
+    },
+    {
+      "path": "bieri-toc-006.png",
+      "bytes": 46704,
+      "sha256": "3d2fef20aa6db41c6d40bb6320a391e51557ddc245bcd5b715b3937bc75058b9"
+    },
+    {
+      "path": "bieri-toc-007.png",
+      "bytes": 69134,
+      "sha256": "d3873c10b407a71fe245f320208a334d7f4d064ce1541824365bab2d17bae541"
+    },
+    {
+      "path": "bieri.pdf",
+      "bytes": 1251070,
+      "sha256": "6d69354c234b0902ee31b0f475b4362313874bf2db5c07a5572361d1da1dc63f"
+    },
+    {
+      "path": "bieri.txt",
+      "bytes": 204,
+      "sha256": "1c7be4ead546e6702c47edca9d9c11423d26295379310863ac4ee88772851ce5"
+    },
+    {
+      "path": "dekimpe-intro-01.png",
+      "bytes": 293647,
+      "sha256": "3fbea99e04338caf0d6582d92318b753d9bee3a7321595f5f92b338f57c5e292"
+    },
+    {
+      "path": "dekimpe-intro-02.png",
+      "bytes": 322513,
+      "sha256": "0861e45c33e1121fd2b3db8f3c0c4542eb7c26cfdbf53303a049fa0b35f63ef5"
+    },
+    {
+      "path": "dekimpe-lattice-14.png",
+      "bytes": 185737,
+      "sha256": "28e7430f07cac55726c1ddeca4933da4822f9d638a2d0826b6442e031ec64768"
+    },
+    {
+      "path": "dekimpe-lattice-15.png",
+      "bytes": 118531,
+      "sha256": "3e244dc38c52451e605f756c1a7357949cd510eddb393bff1ab856a85ad966a8"
+    },
+    {
+      "path": "dekimpe-refs-22.png",
+      "bytes": 143603,
+      "sha256": "3a0b0ce84440f4021d401714b6444b05974ff3cc30c37760b0e3475dc1ad97a9"
+    },
+    {
+      "path": "dekimpe-section4-17.png",
+      "bytes": 275649,
+      "sha256": "db93739ba73ef6ea356690d5a9c94b05471fae0d9e714d4cb7558fc0fb2a9979"
+    },
+    {
+      "path": "dekimpe-section4-18.png",
+      "bytes": 221127,
+      "sha256": "02b82d2e7304e2dae77a2f9cd3b0150b09c53356a6b7cce0ea047ad57dd9d028"
+    },
+    {
+      "path": "dekimpe.pdf",
+      "bytes": 2452126,
+      "sha256": "bfb5e1b360fefe3d96621093d590843df07fef813ad138312f0017156996eb8a"
+    },
+    {
+      "path": "dekimpe.txt",
+      "bytes": 1936,
+      "sha256": "66377c139c3564c02072bc5b70785b38c1276ba27dea2dc8ee5c01964b4b22a1"
+    },
+    {
+      "path": "ganzburg-remez-02.png",
+      "bytes": 345006,
+      "sha256": "ea26c1344baf6f1a5feb518c2cf45266bf56c5f8d3a6b9a1cc62d8d51609fefc"
+    },
+    {
+      "path": "ganzburg.pdf",
+      "bytes": 493116,
+      "sha256": "71d96cb6b445637a7279960ad7fbae067e45fb94dda861d6706163cbe925a327"
+    },
+    {
+      "path": "ganzburg.txt",
+      "bytes": 57561,
+      "sha256": "f3aa8732a5bf6fe53593bdb4685225607e84f63bdc9cc1a35450ad493f60af17"
+    },
+    {
+      "path": "gromov-interface-checks.json",
+      "bytes": 1714,
+      "sha256": "35cc19a2426e86284955a6a45e46a4afafb832198335f497aeae818c3d683fa2"
+    },
+    {
+      "path": "gromov-lakefile.toml",
+      "bytes": 384,
+      "sha256": "c06af2fe879d8ea3d74af26d2d472e5454ab934c4a06b1e4b874574f7592884e"
+    },
+    {
+      "path": "gromov-tree.json",
+      "bytes": 38095,
+      "sha256": "58d21115ba9e2889d2ec70f70337e2b2cf5a547957ea91f3fe2758939e557594"
+    },
+    {
+      "path": "kmn-author.pdf",
+      "bytes": 212753,
+      "sha256": "c52e6d7d5b7f2bdfc0fa667f3d2441968f5f0b3ed875afe84fbc5711dbbb3b76"
+    },
+    {
+      "path": "kmn-author.txt",
+      "bytes": 44337,
+      "sha256": "d7a2fcfa75f5b44e24964df7deba1d392499b6b927da6210cad0237200522532"
+    },
+    {
+      "path": "kmn-main-02.png",
+      "bytes": 252076,
+      "sha256": "cd973c5b9613f528e455f11b55591b448ff1e6815060c935e9f5232efaf45572"
+    },
+    {
+      "path": "kmn.pdf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "patched/Gromov/FormalConjecturesCheck.lean",
+      "bytes": 9429,
+      "sha256": "7eaaf698951c7a4eb2d65a02d1aa2c019bc0e2c7074852f299e42188bc118d45"
+    },
+    {
+      "path": "patched/Gromov/Gromov.lean",
+      "bytes": 35356,
+      "sha256": "9fbe403611a59888d32a2078fe4805719312ae76acf75e85eea8466fc848702f"
+    },
+    {
+      "path": "patched/Gromov/PolynomialGrowth.lean",
+      "bytes": 1304,
+      "sha256": "a4116f9d906a0d078adc36ebc2eb8c39aec4a53e051c866660ffa0086e076850"
+    }
+  ],
+  "new_application_connections": [],
+  "new_numerical_run": null,
+  "human_review": null,
+  "independent_second_provider": null,
+  "conclusion": "Fourselectedoriginalscopesnowverified andselectedeffectiveGromovinterfacesread. Historical/formal recursive proofclosure remainsincomplete;application255unknownC/demand/strongoldbaselinegapsunchanged."
+}

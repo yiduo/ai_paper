@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-046",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "id": "APP-372-01",
+  "title": "全数据静态材料反演的可辨识性假设审查",
+  "problem": "PROB-372-STATIC-IDENTIFIABILITY",
+  "claim": "thm:main",
+  "parts": [
+    "ENERGY",
+    "COMMON-EXTERIOR",
+    "PHYSICAL-TRANSFER"
+  ],
+  "analogy": "near",
+  "input": "HypotheticalboundedconnectedCinf3Dbody,realCinfadmissibleLamemoduli andCOMPLETEexactphysicalDNoperator;noassertionrealinstrumentprovidesit",
+  "output": "Anidentifiabilityjustificationwithoutoldsmallgradmu/analyticity/knownboundary-neighborhoodprior,conditionalonfulltheorychainandmodelcertificate",
+  "hypothesis": "Forindependentlyauditedeligiblecoefficientclasses beyondoldsmall-grad/analyticranges,thetheoremremovesthesecontinuumidentifiabilitypriors. Itdoesnotpredictfinite-sensorrecoveryorerror/stabilitygain.",
+  "judge": "Independentdomain/mathematicalreviewofexactboundarymodelandcoefficienteligibility,followedonlyifavailablebycertifiedfull-operatoranalysis;finiteFEMmatrixagreementalonecannotjudgethetheorem. Noactualreview/run.",
+  "baseline": "CorrectedNU2003smallgradmu;TanLiuanalyticglobalcase;existingone-knowncoefficientERscope. Do notuseincorrect1994unrestrictedproof. Oldrestrictedmethods mayalreadycovertarget.",
+  "limits": "Fulloperatorandphysical3DCinfmodeloftenunavailable;noeffectiveresolution/noisebudgetoralgorithm. Noactualengineering/medicaldata;fullformal/humanchainunknown.",
+  "revisit": "Anactualindependentlyspecifiedcontinuumidentifiabilityneedoutsideoldconditions;stablefinite-dataalgorithmrequiresseparateevidence."
+}

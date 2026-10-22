@@ -1,0 +1,204 @@
+{
+  "family_id": "F-094",
+  "generation_id": "GEN-20261021-050",
+  "recorded_at": "2026-10-20T22:45:45.478593+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-7ed3cd025e4304a8"
+  ],
+  "full_natural_source_read": true,
+  "independent_mathematical_proof_audit": false,
+  "total_tex_files": 2,
+  "total_tex_lines": 1505,
+  "inline_bibliography_count": 25,
+  "read_files": [
+    {
+      "path": "math/preprints/Subpolynomial-dimension-reduction-in-Lp-September-23-2026/README.md",
+      "sha256": "5c2966644bc315bcc69b7acbe66aa7b05aec81bfd365b5bd5bcaa8096240cc2a",
+      "lines": 20,
+      "scope": "Whole actually read; canonical curation pending"
+    },
+    {
+      "path": "math/preprints/Subpolynomial-dimension-reduction-in-Lp-September-23-2026/build/paper.tex",
+      "sha256": "6f5d1172e36ab41c2700eafc4e7a73f9d7e8b07d8f59c1e600a831bacf54aa2e",
+      "lines": 1467,
+      "scope": "Whole actually read; canonical curation pending"
+    },
+    {
+      "path": "math/preprints/Subpolynomial-dimension-reduction-in-Lp-September-23-2026/build/figures/truncation-ramp.tex",
+      "sha256": "2bb628a82fb131a7549bac5dae73c64009ce42660c543d6204606a71fa53518c",
+      "lines": 38,
+      "scope": "Whole actually read; canonical curation pending"
+    }
+  ],
+  "result_notes": {
+    "thm:main": "任意实Lp中有限n点，1<p<∞且p≠2，非线性映入同p的坐标ℓp^d，允许一个正全局尺度。固定D>1，logn/log(1+2D)≤d≤exp(C_pD(logn)^γ)，γ=2−p或1−2/p；D=1且n≥9时floor((n−1)/4)^2≤d≤binomn2。未知C和有效阈值，无高效构造、端点一致界或检索/训练保证。",
+    "lem:exact-upper": "实Lp任意n点可等距映入binomn2坐标，1≤p<∞。归一化距离p次幂锥、紧标量方向与Caratheodory提供存在性，不提供有限坐标搜索oracle或效率。",
+    "lem:weighted": "0<η<1/3且同一b,K≥1：对每个严格正边概率λ存在随机归一化梯度F∈V，∞范数≤K、λ加权p矩误差≤ηb。分离得到同一所有边有效的law再独立采样，失真≤((1+3η)/(1−3η))^(1/p)，维数含未知绝对C。不能用各边独立挑选law替代。",
+    "lem:localization": "连通无环边的有限图n≥2，正conductance、定向incidence B；Euclidean投影Q onto im(C^(1/2)B)的逐元素绝对矩阵2→2范数≤2logn。不是原始非对称电流算子的相同谱范数界。当前实际所读Lean桥梁仅完整顶点对图，不能提升整个自然引理为B。",
+    "lem:projection": "完整点对归一化梯度V及任意严格正概率λ，存在概率σ≥λ/2，σ加权正交投影P onto V满足最大行绝对和≤H=4log(2n)，P与I−P为ℓ2(σ)压缩。Brouwer固定点不是已知收敛算法；Lean实际用同时回缩替代，未核对到此同一σ声明。",
+    "lem:poisson": "有限ν测度区域上有界实h的signed Poisson sum S：特征函数/矩母函数由cos/cosh积分给出，均值0、方差∫h²；有限测度区域上不有界h仍有特征函数恒等式。ν本身可为非概率/总量无限；各边坐标不独立。",
+    "lem:poisson-moments": "q>2，ε>0，有限ν区域上的有界h及对称Poisson S；∫|h|^q≤E|S|^q≤(1+ε)∫|h|^q+C_qε(∫h²)^(q/2)。领先系数接近1是D趋1所需，不能代以任意常数；非对称和不在此声明。"
+  },
+  "selected_original_scopes": {
+    "GGNS": {
+      "url": "https://arxiv.org/pdf/2605.24130v1",
+      "scope": "22May2026 v1；8页全部抽取462行全文实际阅读，非独立证明审核。",
+      "finding": "Thm1.3正conductance的对称Euclidean投影Π逐元素绝对值谱范数≤2logn；Thm1.4熵精化。原始非对称电流投影可达√m；作者披露初稿模型辅助与作者复核不计本项目人审。",
+      "pdf_sha256": "780d6a75786f82b5ece1dabdc9e2623163d7ea0f4fa982d08d6192da26f1758f",
+      "pdf_bytes": 327746,
+      "text_sha256": "823105004d6f436ea7f1171a26cd1f84ba4efc45f466ec11b9c2c5ec36fed296",
+      "content_checked": true
+    },
+    "SRS18": {
+      "url": "https://arxiv.org/pdf/1708.01632v1",
+      "scope": "4Aug2017 v1；抽取1–205，封面、引言及Thm1.4/1.5和电气投影讨论；其余证明未读，不等同SODA2018版本。",
+      "finding": "Thm1.5旧正conductance对称投影绝对矩阵O(log²n)；平均localization不同于逐边最坏界，平行路径反例；不是F094首次有多对数界。",
+      "pdf_sha256": "b9ec93d08632275755e3aad74599fc198fa5860d544fe453ecc84df6c3ecf218",
+      "pdf_bytes": 173696,
+      "text_sha256": "a770d39dd96dece7973dca700ab4682f9617225bf391af4eac16c1507258fb1d",
+      "content_checked": true
+    },
+    "NaorRen2026Threshold": {
+      "url": "https://arxiv.org/pdf/2609.01079v1",
+      "scope": "1Sep2026 v1；抽取1–210：pp1–3及p4 Lemma2开头，未全文。",
+      "finding": "Thm1雪花/dense-sphere精确参数；Sec1.1(2)固定p>2、任意大n的某些ℓp有限集，O(1)失真需m≳p(logn/(loglogn)^2)^(p/2)。非每n、非否定subpolynomial上界。",
+      "pdf_sha256": "f160d61d19d3260fd8955becee861aad8455d51a44b7e6ec685303215ec66b0e",
+      "pdf_bytes": 272354,
+      "text_sha256": "5a827347d726f2b815cbd0f8d74ace177219228e737112918abfc282740c5a4d",
+      "content_checked": true
+    },
+    "Eskenazis2024": {
+      "url": "https://webusers.imj-prg.fr/~alexandros.eskenazis/quasi-dimension.pdf",
+      "scope": "作者PDF实际散列版本，无明确日期，页眉说将收入SoCG2022；选读1–175、276–360、486–575；p2像素实际核对；不声称2024刊本逐字相同。",
+      "finding": "Theorem2概率空间K=max envelope的Lp范数，d≤32e²(2K)^(2p)logn/ε²，控制p次幂距离加性误差。Prop7/11与Remark12已有有界坐标采样/换密度、数据适配线性/greedy基线；不是全输入相对失真保证。",
+      "pdf_sha256": "638b34c35ae03bebb0dea2a501d69071468f6165a83c83360e2adbc5609adcf9",
+      "pdf_bytes": 203313,
+      "text_sha256": "817f5dcc89d76a09979876deee9076a89a59c3c27233ea589119eb75c67f2f90",
+      "content_checked": true,
+      "actually_viewed_pixels": [
+        {
+          "name": "eskenazis-page2.png",
+          "sha256": "8e2a82d6f35592c823db3ecb5e4805d0139f813d962bd80731e2e752cca158ee"
+        }
+      ]
+    },
+    "Lamperti1958": {
+      "url": "https://msp.org/pjm/1958/8-3/pjm-v8-n3-p09-s.pdf",
+      "scope": "官方1958原刊；抽取1–165：封面及印刷459–461和462开头，Lemma2.1/Theorem2.1/Cor2.1；461像素核对；后续线性等距分类未全文。",
+      "finding": "p≥2标量/函数平行四边形不等式，0<p≤2反向；p≠2等号当且仅当fg=0 a.e.，实复适用。有限实计数测度特例足够支持F094精确下界，不给有噪声稳定性。",
+      "pdf_sha256": "35dad520d84260aaac422b4636ff6eec5c1fd0bbc354d733dcec9008dad4c0c5",
+      "pdf_bytes": 960727,
+      "text_sha256": "de0c6dd76ecf32e9a0f1f440d6b0ee510fc62122ca2abb4cf187cbba82bf5914",
+      "content_checked": true,
+      "actually_viewed_pixels": [
+        {
+          "name": "lamperti-page461.png",
+          "sha256": "80f54a42c4c5b0e6c9702af97a19bbdf2e8021cfb19f679271173d237b367253"
+        }
+      ]
+    },
+    "JohnsonLindenstrauss1984": {
+      "url": "https://web.stanford.edu/class/cs114/readings/JL-Johnson.pdf",
+      "scope": "原AMS1984复制件；抽取85–150及820–890，printed190–191 Lemma1和203 Problem3；190/191像素实际核对；全18页证明未读。",
+      "finding": "旧Hilbert k=floor(K(τ)logn)，失真(1+τ)/(1−τ)；Problem3区分ℓp坐标目标与一般有限维normed目标。旧p2更强，不能将F094声称包含端点p2。",
+      "pdf_sha256": "500ee7eb53cfe202b2b9d7bccd2c0bbba7e65a007e1dd640ce31a63e34f847bf",
+      "pdf_bytes": 868204,
+      "text_sha256": "b7c6f41a3cd043eade664ae47675d571ae7d9b1049efe27a996fc2d12ba39958",
+      "content_checked": true,
+      "actually_viewed_pixels": [
+        {
+          "name": "jl-page190.png",
+          "sha256": "68a9acaf776dd268e232e0098e529d22320ca4b2332e901e5cac91a9c9a9f019"
+        },
+        {
+          "name": "jl-page191.png",
+          "sha256": "4f2c6a25925e3b47c743ebca7f467810621fcdf5a3ad9ee1e80c95f05d267ce5"
+        }
+      ]
+    }
+  },
+  "unverified_primary_special": {
+    "Ball1990": {
+      "url": "https://doi.org/10.1016/S0195-6698(13)80131-X",
+      "status": "Publisher metadata/abstract seen; original body not retrieved. DOI open failed redirect500 once; not seventh body verification."
+    }
+  },
+  "formal_files_actually_read": [
+    {
+      "path": "math/lean/docs/094.md",
+      "sha256": "b775e2436e3f78fab16d8dc27e6fd55e537ce140b16e40157f86c746eabd0156",
+      "scope": "Whole scope description"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/LpDimension/Model.lean",
+      "sha256": "c283977dbe78074d4e3c2146df00402646ecabb66b564c69301bdb78ee100815",
+      "scope": "Whole actual coordinateDistance/GoodDimension/dimension/gamma; arbitrary measure, injective finite realLp points, real coordinates, positive global scale"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/LpDimension/Main.lean",
+      "sha256": "9bae8c84fc73b2997e38bbb5fb4891f47cb79d8fbdf78edc3393ecb1336336e7",
+      "scope": "Whole actual source_main proof entry; selected static correspondence only, dependency proofs not fully audited"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SubpolynomialLp.lean",
+      "sha256": "651ac125ea27b18d0e3d23077a6cc3a3824e3ecadecf59fe2e29e20f2280d397",
+      "scope": "Whole actual challenge; expected sorry is challenge template, not solution"
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SubpolynomialLp.json",
+      "sha256": "96bc7424afc0ccea23dba75c6cb5b44e69df6dc8db9b664c18e4ca62ee1190d8",
+      "scope": "Whole actual config; source_main, permitted core axioms, nanoda false, not executed"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/LpDimension/Discretization.lean",
+      "sha256": "e3487491ed222641bd293588d7fb12c30f3ba169fc513aa15e680e09d83942f0",
+      "scope": "Whole235lines actually read; exact_discretization_ge_one p≥1,n≥2, a.e. representatives and Caratheodory; static scope only, not built."
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "scope": "Actual corresponding solution entry1637-1639 and title/id652-654 observed; not entire catalogue reread"
+    },
+    {
+      "path": "math/lean/OAI/Analysis/LpDimension/ElectricalProjection.lean",
+      "sha256": "3f3631c1de7f98620676ba5ffc0df66db23aa37a72154019d4ce209f5200c166",
+      "scope": "Whole actual proof read in bounded ranges. hconn requires every distinct vertex pair edge, stronger than general graph connectivity. Main complete-pair scope fits; natural localization lemma broader."
+    },
+    {
+      "path": "math/lean/OAI/Analysis/LpDimension/Retractions.lean",
+      "sha256": "5abfd3027f99f4db4b4abf8575b5b4c2a65fd0c6e9137b7e85d29cd7e3257660",
+      "scope": "Whole264lines actually read. controlled_retraction uses simultaneous_convex_cost_selection instead of fixed-point reweighting. Gives a retraction P with row bound4logn and finite tensor-energy bounds≤4; does not state existence of one sigma≥lambda/2 making this P orthogonal."
+    }
+  ],
+  "formal_status": {
+    "registration": true,
+    "selected_main_grade": "B",
+    "supporting_natural_claims_grade": "C",
+    "dependency_closure_complete": false,
+    "local_build": false,
+    "comparator": false,
+    "index_only": {
+      "path": "data/graph/lean_indices/F-094.json.gz",
+      "sha256": "e77b1bebc4da58d4c8d6232fa5433ff348723f277ddd9bbecb9dc00baacb76c3",
+      "local_files": 44,
+      "declarations": 425,
+      "lexical_placeholders": 0,
+      "local_axioms": 0,
+      "external_unread": [
+        "Mathlib"
+      ],
+      "local_build": false,
+      "comparator": false
+    },
+    "scope": "Selected actual Main/Model static main-statement correspondence only; complete-pair restriction and alternate retraction route do not prove formal correspondence of natural weighted-projection lemma."
+  },
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "remaining": [
+    "18 external bibliography original bodies and recursive/version histories not checked; one internal F098 source not read, no infinite-set transfer.",
+    "Most local Lean dependencies/Mathlib not actually audited; lexical index44files425decl is not build or proof audit.",
+    "No implemented effective new embedding construction, actual domain data, numerical run, human math review or second provider."
+  ],
+  "orchestration_note": "Initial JL text extraction raced a still-writing download and failed InvalidXRef; waited for same download then extraction succeeded. Fontconfig cache warnings did not prevent actual pixels. Failures not evidence of corrupt original."
+}

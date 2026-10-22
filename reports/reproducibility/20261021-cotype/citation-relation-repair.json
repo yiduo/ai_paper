@@ -1,0 +1,10 @@
+{
+  "reason": "Own six explicit literature-scope edges used cites,which is reserved by lossless citation projection for source artifacts with source-index annotations. Full audit caught KeyError after61 unit tests and validate/report. Replace with derived_from;primary scope/claim/card/grade unchanged.",
+  "exact_prior_edges": "data/graph/history/GEN080-citation-relation-before.json.gz",
+  "archive_uncompressed_sha256": "29774026bbd0b4313b2bdb936d3112c34bcd27d19ded966b1fa53e4d1d0b8d7f",
+  "affected_edges": 6,
+  "source_ledger_unchanged": true,
+  "mathematical_grade_changed": false,
+  "prediction_changed": false,
+  "tests_to_repeat": "Full core including provenance audit,then export/integrity/clean"
+}

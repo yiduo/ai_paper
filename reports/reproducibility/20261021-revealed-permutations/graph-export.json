@@ -1,0 +1,40 @@
+{
+  "recorded_at": "2026-10-20T18:30:41.382919+00:00",
+  "core_tests_passed": 42,
+  "validation": {
+    "nodes": 3107,
+    "research_nodes": 1368,
+    "edges": 7538,
+    "citations_checked": 2172,
+    "candidate_connections": 21,
+    "externally_checked_cards": 10,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 10,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "full_graph_and_gzip_exports_consistent": true,
+  "edge_ids_unique": true,
+  "endpoints_valid": true,
+  "files": {
+    "provenance-audit.json.gz": {
+      "bytes": 865,
+      "sha256": "3b56ca3b5deef54065525ae3a5e37f2a5de0841fb4c8973bb4181a7d0a417623"
+    },
+    "index.html": {
+      "bytes": 7818292,
+      "sha256": "10ebabbb50509e4bd1dd4710451ce83d9308294708ab9968c457c1e756f65cbc"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 1175103,
+      "sha256": "3da02b186422466db9a6fba834c2c92adc0ce76ce6384fc361b3814c33c123b6"
+    },
+    "knowledge.json.gz": {
+      "bytes": 1024855,
+      "sha256": "1786388ea77c58e068d7a987a33c243d135cd2c47b0659e3a619e3396e323cc1"
+    }
+  },
+  "browser_visual_check": "not repeated;viewer logic unchanged",
+  "local_Lean_or_Comparator": false,
+  "remote_CI": false
+}

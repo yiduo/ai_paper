@@ -1,0 +1,13 @@
+{
+  "generation_id": "GEN-20261021-079",
+  "recorded_at": "2026-10-21T07:14:40.359605+00:00",
+  "changed_source_bindings": 17,
+  "exact_prior_nodes": "data/graph/history/GEN-20261021-079-locator-before.json.gz",
+  "initial_ledger": "data/provenance/history/F-231-operator-interfaces.json",
+  "initial_ledger_sha256": "b8c77d9d1cb84d15cd16a476d27fe9bd3bd7bbbf3e5c9d7e36f6b1471e1f13bd",
+  "corrected_ledger": "data/provenance/history/F-231-operator-interfaces-v2.json",
+  "corrected_ledger_sha256": "0396a1af9fe307ee5714dd41d5400e94d5d4481a2348a9258a4814fa973698c9",
+  "problem": "Own FKK coveroffset3 text inaccurate;actual PDF/printed pairs correct",
+  "repair": "One cover sheet;PDF2=printed19. All unchanged scopes/grades/APP plans retained. Validator unchanged.",
+  "full_checks_required_after_canonical_binding_change": true
+}

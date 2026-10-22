@@ -1,0 +1,40 @@
+{
+  "recorded_at": "2026-10-20T12:48:28.827373+00:00",
+  "command": "python3 scripts/check.py",
+  "exit_code": 0,
+  "core_tests": 22,
+  "metrics": {
+    "nodes": 1592,
+    "research_nodes": 313,
+    "edges": 3023,
+    "citations_checked": 461,
+    "candidate_connections": 5,
+    "externally_checked_cards": 5,
+    "effective_leads": 2,
+    "distinct_validation_hypotheses": 5,
+    "human_grading_records": 0,
+    "pilots": 0,
+    "registered_families": 372,
+    "registered_manuscripts": 719,
+    "complete_family_decompositions": 0,
+    "structured_decomposition_fraction": 0.0,
+    "partial_reading_families": 9,
+    "source_decomposition_drafts": 4,
+    "component_checks": 1,
+    "all_six_stages_complete_families": 0,
+    "human_fact_error_rate": null,
+    "cross_provider_reviews": 0,
+    "human_spec_reviews": 0,
+    "full_lineages_complete": 0,
+    "release_state": "local repository; no remote publication performed"
+  },
+  "canonical_sha256": {
+    "data/graph/nodes.jsonl": "6b4e30f61e60280b36b80ec595cf66bffd272fdee021c1966e5526c097b0098b",
+    "data/graph/edges.jsonl": "40be3c1b46166784a129210f3c0938537ce842584ff6665ac137a4a56abb9379",
+    "data/graph/reading_coverage.json": "fcfbb99a7cd760b04870b56096658a79b959187ee2afba3b4bafb54f8cf8ad19"
+  },
+  "numerical_experiments_rerun": false,
+  "lean_build": "not_run",
+  "remote_ci": "not_run",
+  "scope": "Observed local check output after GEN007; no new numerical claim."
+}

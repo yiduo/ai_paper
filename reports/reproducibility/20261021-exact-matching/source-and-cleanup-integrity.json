@@ -1,0 +1,71 @@
+{
+  "recorded_at": "2026-10-20T22:21:00.749141+00:00",
+  "natural_source_files_verified": 17,
+  "actual_primary_scopes": 5,
+  "all_prior_nodes_unchanged": 2028,
+  "all_prior_edges_unchanged": 4618,
+  "no_upstream_copy": true,
+  "no_dependencies_installed": true,
+  "new_application_run": false,
+  "temporary_files": [
+    {
+      "file": "gabow.pdf",
+      "bytes": 318797,
+      "sha256": "bc081a44ff022594240684c6ffc94de9f60b8bb737caaab5adedd2062b39795e"
+    },
+    {
+      "file": "gabow.txt",
+      "bytes": 83590,
+      "sha256": "78b38a6ab4d0c18040122fb874a70574616cd90d395a50f984368dead483e79e"
+    },
+    {
+      "file": "tutte.pdf",
+      "bytes": 558684,
+      "sha256": "71695683661179f447b57bcfc3b2e40907e059217d31dfe219d6b32fc89f71d7"
+    },
+    {
+      "file": "tutte.txt",
+      "bytes": 19780,
+      "sha256": "c150f72da1dced543b527daae174112ac8d94a67efe136bbc377d7e26b731ecd"
+    },
+    {
+      "file": "flow.pdf",
+      "bytes": 1365026,
+      "sha256": "55f4e2049e577e02dff1788ab40fef52c84733cc40ecf40d22495165858029a0"
+    },
+    {
+      "file": "flow.txt",
+      "bytes": 252531,
+      "sha256": "ee43395eeed4569adcad66560f137cc39d03d2777e344ac8f1444957575433d8"
+    },
+    {
+      "file": "incremental.pdf",
+      "bytes": 1651752,
+      "sha256": "de1bdba00c518db31657e513649f7614f0ddb77bd17bbba9d70ff927231ab46b"
+    },
+    {
+      "file": "incremental.txt",
+      "bytes": 282733,
+      "sha256": "3db66fe5c4d702ddc30ffea457474dc1c850b743e912bd0f509feb26731b95a0"
+    },
+    {
+      "file": "flat.pdf",
+      "bytes": 799083,
+      "sha256": "719e1b7d7ab5f3e9b8dae58af84de79cf989297ac1b2a9a758451da2e2017d28"
+    },
+    {
+      "file": "flat.txt",
+      "bytes": 261873,
+      "sha256": "aa9935e7a77c88a6a214255c01e540962a6590f4d91e912910cf1ebb435d8533"
+    },
+    {
+      "file": "tutte-p349.png",
+      "bytes": 193835,
+      "sha256": "e52937e2f7c7817791eecda38313f988ef4df331b899030d5ab6a378d7f6ddfb"
+    }
+  ],
+  "temporary_bytes_removed": 5787684,
+  "temporary_directory_removed": true,
+  "third_party_papers_redistributed": false,
+  "source_locators_and_hashes_preserved": true
+}

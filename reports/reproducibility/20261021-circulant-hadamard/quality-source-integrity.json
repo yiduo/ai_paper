@@ -1,0 +1,7 @@
+{
+  "path": "reports/reproducibility/20261021-circulant-hadamard/quality-source.py.gz",
+  "bytes": 2092,
+  "sha256": "352758a5614a6b6c232621a5fcb55498bb8b94312a84bde1ffed7a5d15a210f9",
+  "decompressed_sha256": "cbad999425d2abb568a83abffc5c03577376c5eb40d0b7cf071cc3c9a5e5cc66",
+  "roundtrip_verified": true
+}

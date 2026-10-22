@@ -1,0 +1,9 @@
+{
+  "issue": "Core report rendering rejected new candidate missing external_check_type; canonical validate had passed",
+  "repair": "Only unrun check-type label added;failedfirstcandidatev1 archived;no run or evidence status changed",
+  "prior_archive": "data/graph/history/GEN-20261021-037-before.json.gz",
+  "initial_card_version": 1,
+  "current_card_version": 2,
+  "first_curation_source_sha256": "ba2d6d23c5c0e3987ad05042f9c664738752129d74daa2a412d9e23de6b18e0b",
+  "first_curation_roundtrip_verified": true
+}

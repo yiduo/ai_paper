@@ -1,0 +1,14 @@
+{
+  "id": "APP-120-01",
+  "title": "指定度稀疏图的完美匹配求解器编译接口",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-048",
+  "input": "Hypothetical existing solver accepting only general unweighted perfect-matching graphs; explicit simple host and exact per-vertex f. No verified public workload/solver yet.",
+  "output": "Construct split-network factor adapter and decode a checked host-edge subset with exactly f(v) incidences.",
+  "hypothesis": "On a separately frozen eligible workload with high local d and f near d/2, adapter may reduce auxiliary graph storage versus the best classical Tutte expansion, while preserving exact feasibility/decoding within a declared total-time budget. A 10% resource improvement would need independent measurement, not an asymptotic-size claim.",
+  "judge": "Before outputs freeze actual host inputs, isolate/zero/d=f/no-factor boundaries, independent host exact judge, generic PM backend version and whole-pipeline costs. Compare direct native f-matching if available; absence of a native interface is an explicit condition, not a new algorithmic win.",
+  "baseline": "Tutte1954 local complete X-Y; best globally complemented f-to-d-f variant; direct Gabow O(n^(2/3)m) native f-matching; direct ordinary matching for f=1 and existing specialized bipartite flows. Count all network positions/arcs and padding, not merely representative edges.",
+  "limits": "No actual workload, implementation, numerical run or speed/memory improvement. Low-degree/f small instances may make classical/direct methods cheaper; Beneš old and reuse provenance not new network theorem. Do not implement whole F120 by replacing unknown backend with old blossom and call it almost-linear.",
+  "revisit": "Actual public perfect-matching-only consumer with eligible exact-degree workload; compare strong baselines and freeze a distinct component hypothesis before numerical work."
+}

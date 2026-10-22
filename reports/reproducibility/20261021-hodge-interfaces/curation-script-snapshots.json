@@ -1,0 +1,26 @@
+{
+  "curate_hodge_interfaces.py": {
+    "path": "reports/reproducibility/20261021-hodge-interfaces/curate_hodge_interfaces.py.gz",
+    "gzip_sha256": "d1c77b15cf8330690ab81c40ead9557afe4421cce8fee4311db2d6b7470614be",
+    "decompressed_sha256": "7171bb5157215694139679d0c3d85f52f22db3c9b7bdc4683b99ab58dd2a41a6",
+    "bytes": 15160
+  },
+  "quality_hodge_interfaces.py": {
+    "path": "reports/reproducibility/20261021-hodge-interfaces/quality_hodge_interfaces.py.gz",
+    "gzip_sha256": "8fcc149a44b7d923d9504d6fd5b6bf838aa7355f5ecee218d58b0aa39b34d24b",
+    "decompressed_sha256": "c27d3bbb89fcc567960ea6ffd7e57ef2fb2b3d22f81f8955848a281413cb27a5",
+    "bytes": 2903
+  },
+  "integrity_hodge_interfaces.py": {
+    "path": "reports/reproducibility/20261021-hodge-interfaces/integrity_hodge_interfaces.py.gz",
+    "gzip_sha256": "96c6643e75b06666db15c1d5cebc4fd0c41a063d0008e9cd5b92e9e451314da4",
+    "decompressed_sha256": "1b3df057ed31d09f076a2f03f381c533bb42c04ebb702358e6848e19deb08670",
+    "bytes": 2864
+  },
+  "finish_hodge_interfaces.py": {
+    "path": "reports/reproducibility/20261021-hodge-interfaces/finish_hodge_interfaces.py.gz",
+    "gzip_sha256": "edf58d77790b332acbeb314284a23bf0470396907283e08428a05cb13ead747a",
+    "decompressed_sha256": "0703cbc17beb6b9d8cf5b40105b64c2bd059401b22e324c6b91ac08c3d0509e5",
+    "bytes": 10815
+  }
+}

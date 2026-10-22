@@ -1,0 +1,14 @@
+{
+  "natural_files": 11,
+  "natural_lines": 5371,
+  "qualified_bindings": 37,
+  "selected_formal_files": 4,
+  "formal_file_reading": "Specified ranges only of26126linefile",
+  "indexed_files": 1,
+  "index_declarations": 2963,
+  "source_hashes_match": true,
+  "prior_nodes_match_HEAD": 5,
+  "new_candidate_v1_repair_preserved": true,
+  "new_claim_v1_readability_records_preserved": 37,
+  "Lean_or_Comparator_built": false
+}

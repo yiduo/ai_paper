@@ -1,0 +1,9 @@
+{
+  "observed_failure": "test_partial_family_never_counts_as_full_source_draft: AssertionError: 3 != 2",
+  "command": "python3 scripts/check.py",
+  "tests_run": 42,
+  "failures": 1,
+  "cause": "Fixture pinned two read manuscripts despite the actual third complete source reading; family completeness remained false.",
+  "repair": "Test now checks a strict partial subset, one-to-one source bindings and17 revealed results with alias exclusion; does not relax full-family/human gates.",
+  "original_log": "Observed tool output; check.txt now contains the repaired rerun."
+}

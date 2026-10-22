@@ -1,0 +1,371 @@
+{
+  "family_id": "F-332",
+  "manuscript_ids": [
+    "P-fc6738ad200ddb0c"
+  ],
+  "work_package": "WP-084",
+  "generation_id": "GEN-20261021-080",
+  "recorded_at": "2026-10-21T07:37:49.005144+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "2ceeb34",
+  "read_files": {
+    "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/main.tex": {
+      "sha256": "656a6f35bf6543ecf0cf2dbc38a83a7a05427592123a5eb817be24250e2e6953",
+      "total_lines": 648,
+      "read_ranges": [
+        [
+          1,
+          648
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/build/references.bib": {
+      "sha256": "7b7ccdb61e358ef3c2f5702c898a8ee550566f59ee9095e0530631a2b0b75776",
+      "total_lines": 50,
+      "read_ranges": [
+        [
+          1,
+          50
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Metric-Markov-Cotype-Two-of-l1-October-5-2026/README.md": {
+      "sha256": "8b64d6e519795daabeb788ce81aa36574e8087da41f8252b9d8de62c63bc7316",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_closure": "One648lineTeX and50line bibliography;no mathematical includes/figures. glyphtounicode/cmex are font mappings,not local theorem inputs.",
+  "named_result_count": 7,
+  "named_results": [
+    {
+      "id": "CLM-332-THM-MAIN",
+      "natural_label": "thm:main",
+      "kind": "theorem",
+      "lines": [
+        88,
+        93
+      ],
+      "statement": "For every finite n,positive integer t,probability pi,row-stochastic A reversible w.r.t.pi,and x_i in real l1,there exist ambient y_i satisfying fidelity+t one-step squared-l1 energy <=3024 times t-step Cesaro squared-l1 endpoint cost. N2(l1)<=12sqrt21.",
+      "conditions": "Dimension/coordinate/time independent;no optimized constant;zero pi_i allowed;not linear cotype,Markov type,pointwise risk or subspace-preserving smoothing."
+    },
+    {
+      "id": "CLM-332-LEM-CUTS",
+      "natural_label": "lem:cuts",
+      "kind": "lemma",
+      "lines": [
+        200,
+        222
+      ],
+      "statement": "Unless all x_i coincide,finite positive weights w_B,binary z_i and affine T reconstruct x_i;pair l1 distance equals weighted binary l1 distance equals Hilbert norm SQUARED;T is weighted-l1 contractive on all real cut coordinates.",
+      "conditions": "At most2^n-2 cut types;ambient b_B vectors retained. Infinite original coordinates not automatically finite computation;T need not stay in span of input."
+    },
+    {
+      "id": "CLM-332-LEM-FLAT",
+      "natural_label": "lem:flat",
+      "kind": "lemma",
+      "lines": [
+        290,
+        298
+      ],
+      "statement": "For u,uprime in weighted cube Q and BINARY e,||Phi(uprime)-Phi(u)||1,w^2<=108*(F_e(uprime)-F_e(u)-4||u-e||H^2*<u-e,uprime-u>H),F_e=||u-e||H^4,Phi(r)=3r^2-2r^3.",
+      "conditions": "Bounded cube and binary center essential;not arbitrary real or simplex map."
+    },
+    {
+      "id": "CLM-332-COR-MARTINGALE",
+      "natural_label": "cor:martingale",
+      "kind": "corollary",
+      "lines": [
+        345,
+        358
+      ],
+      "statement": "Q-valued finite-dimensional H martingale converging a.s.;e is F0-measurable binary. Sum expected squared Phi increments <=108*(E terminal quartic-E initial quartic)<=108 E terminal quartic.",
+      "conditions": "Center may depend on initial state. Bounded convergence for potential and monotone convergence for nonnegative jump series;no generic unbounded martingale assertion."
+    },
+    {
+      "id": "CLM-332-LEM-COMPARISON",
+      "natural_label": "lem:comparison",
+      "kind": "lemma",
+      "lines": [
+        385,
+        396
+      ],
+      "statement": "For any stationary finite Markov chain and metric data,S independent with P(S=s)=p q^s,s>=0,p=1/(t+1),q=t/(t+1),t>=1;E d(XS,X0)^2 <=(28/t)*sum_s=1^t E d(Xs,X0)^2.",
+      "conditions": "Only stationarity;no detailed balance needed. Metric cost comparison,not entrywise matrix domination;mean S=t and zero-step endpoint included."
+    },
+    {
+      "id": "CLM-332-COR-COMPLEX",
+      "natural_label": "cor:complex",
+      "kind": "corollary",
+      "lines": [
+        596,
+        599
+      ],
+      "statement": "Real-linear interleaving Re/Im map has norm distortion at most sqrt2;N2(complex l1)<=12sqrt42,energy square6048.",
+      "conditions": "Pull back real constructor;no direct coordinatewise complex median or same3024 constant claimed."
+    },
+    {
+      "id": "CLM-332-COR-EXTENSION",
+      "natural_label": "cor:extension",
+      "kind": "corollary",
+      "lines": [
+        627,
+        633
+      ],
+      "statement": "There exists universal unspecified finite K:for every real Hilbert H,any subset S and every Lipschitz f:S->real l1,there exists F:H->l1 extending f with LipF<=K Lipf.",
+      "conditions": "Uses MN13Cor1.13 plus Hilbert Markov type2=1,l1=c0* dual and main cotype. No effective extension constructor or explicit K=12sqrt21."
+    }
+  ],
+  "typed_contracts": [
+    {
+      "id": "PART-332-COTYPE-ADMISSION",
+      "kind": "method",
+      "title": "有限链与加权平方距离的准入",
+      "locator": "def:cotype/eq:cotype,lines71-83",
+      "contract": "Finite n,t>=1,stochastic rows,probability pi,reversible for definition;pi_i=0 admitted. Distances are l1 then SQUARED. Fidelity+t energy compared to Cesaro times1..t,not single A^t or pointwise guarantee."
+    },
+    {
+      "id": "PART-332-AMBIENT-RECONSTRUCTION",
+      "kind": "construction",
+      "title": "保留原坐标的cut重建",
+      "locator": "lem:cuts proof,lines224-270",
+      "contract": "v(k)=min_i x_i(k);b_B(k)=(min_B x_i(k)-max_notB x_i(k))_+;w_B=||b_B||1>0;T(u)=v+sum u_B b_B. All-coincident branch y=x. Finite cut types do not make arbitrary infinite-coordinate input oracle finite."
+    },
+    {
+      "id": "PART-332-CUBIC-ENDPOINTS",
+      "kind": "method",
+      "title": "位端点平坦的三次多项式",
+      "locator": "Cubic definition and lem:flat,lines273-339",
+      "contract": "Phi(r)=3r^2-2r^3 on[0,1],fixes0/1 and zero derivative there;R=2||a||H^2||delta||H^2+(2<a,delta>H+||delta||H^2)^2. Weighted-l1 increment squared<=108R;quartic potential,not ordinary variance."
+    },
+    {
+      "id": "PART-332-STOPPED-RESOLVENT",
+      "kind": "construction",
+      "title": "零步起算的几何resolvent",
+      "locator": "main proof,lines447-494",
+      "contract": "p=1/(t+1),q=t/(t+1),G=p sum_s>=0 q^s A^s=p(I-qA)^-1,h=Gz=pz+qAh. Mean live steps t. Inverse is finite n matrix for finite coordinates;full bit/input cost not source theorem."
+    },
+    {
+      "id": "PART-332-KILLED-MARTINGALE",
+      "kind": "construction",
+      "title": "死亡一步计入逼近成本",
+      "locator": "main proof,lines461-528",
+      "contract": "Alive i dies at i with probability p or moves live via qA;dead absorbs. M=h when alive,z when dead,filtration reveals initial state and past transitions,not future S. Binary center z_X0 is F0-measurable;last death jump contributes B,live jumps tE_A."
+    },
+    {
+      "id": "PART-332-ENERGY-ASSEMBLY",
+      "kind": "method",
+      "title": "108乘28的能量合成",
+      "locator": "main proof,lines496-555",
+      "contract": "Stationarity sums alive weights q^m pi;expected jump sum B+(q/p)E_A=B+tE_A. Martingale108 and endpoint28 give3024W;T-contraction transfers cut energy to ambient real l1."
+    },
+    {
+      "id": "PART-332-STATIONARY-EXTENSION",
+      "kind": "method",
+      "title": "源文允许非可逆平稳链",
+      "locator": "rem:stationary,lines557-562",
+      "contract": "Construction and same3024 bound need only pi A=pi,not detailed balance;no irreducibility,aperiodicity or strict positive pi. Zero-mass states give no pointwise-risk guarantee."
+    },
+    {
+      "id": "PART-332-EXPECTED-MEDIAN",
+      "kind": "construction",
+      "title": "三个独立端点中位数的期望",
+      "locator": "eq:median and proof,lines564-591",
+      "contract": "For each i,J1,J2,J3 independent with row law G_i;yi=E coordinatewise median(xJ1,xJ2,xJ3). Threshold success probability phi(h). Deterministic EXPECTATION,not one sampled median or median of expected endpoints."
+    },
+    {
+      "id": "PART-332-FINITE-THRESHOLD-ADAPTER",
+      "kind": "method",
+      "title": "有限坐标的排序阈值实现接口",
+      "locator": "eq:median inference;source lines564-591",
+      "contract": "Own implementation inference only:sort distinct coordinate levels alpha_r,yi(k)=alpha1+sum_r gaps*phi(sum_j:xj(k)>=alpha_(r+1) Gij). Avoid explicit2^n cuts. Dense arithmetic O(n^3+d n^2+d n log n),rational bit complexity and accuracy separate;not implemented/run."
+    },
+    {
+      "id": "PART-332-COMPLEX-REALIFICATION",
+      "kind": "method",
+      "title": "实化失真不超过根号二",
+      "locator": "cor:complex proof,lines600-615",
+      "contract": "Interleave real/imaginary coordinates,norm between1 andsqrt2;source energy factor doubles to6048. Real order median cannot be directly applied to complex scalars."
+    },
+    {
+      "id": "PART-332-HILBERT-TYPE-DUAL",
+      "kind": "method",
+      "title": "源Markov type与目标对偶条件",
+      "locator": "cor:extension proof,lines616-644;MN13Cor1.13",
+      "contract": "Hilbert source M2=1;target real l1 is c0* dual and has ordinary Banach barycenter. These roles plus main cotype feed historical extension theorem;source and target cannot be swapped."
+    },
+    {
+      "id": "PART-332-NONCONSERVATION",
+      "kind": "method",
+      "title": "期望中位数不保持概率质量",
+      "locator": "Own symbolic qualification of eq:median,not numerical experiment",
+      "contract": "For x_i=e_i in R3,t=3,A rows pi=(1/9,4/9,4/9),A^2=A,G=(I+3A)/4 has first row uniform. Each y1 coordinate phi(1/3)=7/27,sum7/9. Ambient l1 admitted;simplex/flow constraints need an additional certified projection budget. Not a theorem counterexample."
+    },
+    {
+      "id": "PART-332-EXACT-MEDIAN-JUDGE-GATE",
+      "kind": "method",
+      "title": "独立精确能量与误差判据尚待建立",
+      "locator": "Application admission,not source theorem",
+      "contract": "Need separately frozen finite rational fixtures/exact-or-certified kernel and expected-median evaluation,independent energy/ground-truth error judge and whole time/memory budget. Sampled/truncated approximation needs own error proof;no run yet."
+    },
+    {
+      "id": "PART-332-DENOISING-BENCHMARK-GATE",
+      "kind": "method",
+      "title": "去噪收益与最强旧基线尚待建立",
+      "locator": "Application admission,not source theorem",
+      "contract": "Need held-out heavy-tailed unnormalized real feature signal/noise fixtures,predeclared t/tuning,identity/linear-resolvent/weighted-median/convex graph smoothing baseline qualification and all input/oracle costs. Source bounds energy,not ground-truth denoising risk;old methods may already suffice."
+    }
+  ],
+  "historical_works": [
+    {
+      "key": "Ball92",
+      "title": "Markov chains, Riesz transforms and Lipschitz maps",
+      "doi": "10.1007/BF01896971",
+      "year": 1992,
+      "verified": false,
+      "url": "https://doi.org/10.1007/BF01896971",
+      "scope": "Bibliography metadata and source attribution only;original body not read in WP084",
+      "id": "LIT-332-BALL92",
+      "retained_full_text": false
+    },
+    {
+      "key": "MendelNaor13",
+      "title": "Spectral calculus and Lipschitz extension for barycentric metric spaces",
+      "doi": "10.2478/agms-2013-0003",
+      "year": 2013,
+      "verified": true,
+      "url": "https://arxiv.org/html/1301.3963v2",
+      "revision": "arXiv1301.3963v2,20May2013",
+      "file": "mn.html",
+      "scope": "Definitions1.1/1.2;Theorem1.11 and Cor1.13 dual-target extension;Theorem1.14/Question1.15 statement and l1 subspace distinction;Section7 Lemma7.1 and proof. Own rendered text lines130-167,267-363,1276-1394;selected original scopes,not full proof of Kalton example.",
+      "id": "LIT-332-MENDELNAOR13",
+      "acquired_bytes": 1285556,
+      "acquired_sha256": "d790f53299958d212693677940f293085800532b5977940ab674d557d083bae5",
+      "retained_full_text": false
+    },
+    {
+      "key": "DezaLaurent97",
+      "title": "Geometry of Cuts and Metrics",
+      "doi": "10.1007/978-3-642-04295-9",
+      "year": 1997,
+      "verified": false,
+      "url": "https://doi.org/10.1007/978-3-642-04295-9",
+      "scope": "Source cites Chapter4;original book body not read in WP084",
+      "id": "LIT-332-DEZALAURENT97",
+      "retained_full_text": false
+    },
+    {
+      "key": "NaorYoung22",
+      "title": "Foliated corona decompositions",
+      "doi": "10.4310/ACTA.2022.v229.n1.a2",
+      "year": 2022,
+      "verified": true,
+      "url": "https://arxiv.org/html/2004.12522v2",
+      "revision": "arXiv2004.12522v2,29Apr2021;publication2022 not byte-compared",
+      "scope": "Section1.1.2 Theorem1.12 and extension-versus-Hilbert-factorization discussion around Eq18;web-rendered original statement/context read,not whole146page proof",
+      "id": "LIT-332-NAORYOUNG22",
+      "retained_full_text": false
+    },
+    {
+      "key": "ChengWangXiang26",
+      "title": "Sharp metric cotype inequalities for L1 via nonlinear cut smoothing",
+      "doi": "10.48550/arXiv.2609.08749",
+      "year": 2026,
+      "verified": true,
+      "url": "https://arxiv.org/html/2609.08749v2",
+      "revision": "arXiv2609.08749v2,09Sep2026",
+      "file": "cwx.html",
+      "scope": "Theorem1.1/Cor1.2 statement;Lemma2.1 finite cut representation/proof;binary-coordinate cubic setup,derivative estimate and Remark2.5. Own rendered lines180-278,374-392,453-482. Torus metric cotype,not metric Markov cotype;selected scopes only",
+      "id": "LIT-332-CHENGWANGXIANG26",
+      "acquired_bytes": 375717,
+      "acquired_sha256": "dc57e33786188ee514c0f50f2a0e27a78149cb5a0a534701c1a78f699be53510",
+      "retained_full_text": false
+    }
+  ],
+  "selected_historical_scopes": [
+    {
+      "id": "HIST-332-MN-DEFINITION",
+      "kind": "method",
+      "title": "旧Cesàro定义与ℓ1子空间边界",
+      "key": "MendelNaor13",
+      "locator": "Definitions1.1/1.2,Theorem1.14/Question1.15",
+      "contract": "Markov type is source property;metric Markov cotype existential new points differs from old prescribed linear averages. A closed subspace of l1 failing every finite metric Markov cotype does not imply ambient l1 failure. Endpoint p->1 from old Lp constants diverges."
+    },
+    {
+      "id": "HIST-332-MN-EXTENSION",
+      "kind": "claim",
+      "title": "旧对偶Banach目标扩张定理",
+      "key": "MendelNaor13",
+      "locator": "Theorem1.11,Corollary1.13 and surrounding explanation",
+      "contract": "Source Markov type p,target metric Markov cotype p plus Wp-barycenter Gamma yield finite-set extension;dual Banach target upgrades global extension with universal multiple Mp Np. Qualitative ultrapower/dual retraction,not finite algorithm or explicit new K."
+    },
+    {
+      "id": "HIST-332-MN-GREEN",
+      "kind": "method",
+      "title": "旧Green与Cesàro的metric比较",
+      "key": "MendelNaor13",
+      "locator": "Section7 Lemma7.1 and full proof",
+      "contract": "Old G_T=(1/T)(I-(1-1/T)A)^-1;new source p1/(t+1) corresponds to old T=t+1,not T=t. Old linear cotype fails l1;metric formulation equivalent to Cesaro. Moment cost comparison not entrywise same-time domination;new elementary constant28 kept separate."
+    },
+    {
+      "id": "HIST-332-CWX-CUT",
+      "kind": "method",
+      "title": "旧有限L1的cut层积分",
+      "key": "ChengWangXiang26",
+      "locator": "Lemma2.1 and proof",
+      "contract": "Finite L1 distance matrix admits nonnegative finite cut types via threshold layer-cake/Tonelli. Pure metric representation not automatically original-coordinate affine reconstruction T needed for new ambient y."
+    },
+    {
+      "id": "HIST-332-CWX-CUBIC",
+      "kind": "method",
+      "title": "同一立方多项式的先行cut平滑",
+      "key": "ChengWangXiang26",
+      "locator": "Theorem1.1/Cor1.2;binary setup and Remark2.5",
+      "contract": "P(s)=3s^2-2s^3,endpoint derivative0 and nonlinear smoothing before assembly appear in prior torus metric-cotype proof. That cotype/test kernel differs from metric Markov cotype/stopped martingale;does not preempt or prove source main result."
+    },
+    {
+      "id": "HIST-332-NY-NONFACTORIZATION",
+      "kind": "claim",
+      "title": "旧Hilbert因子分解障碍",
+      "key": "NaorYoung22",
+      "locator": "Section1.1.2 Theorem1.12 and discussion around Eq18",
+      "contract": "For p>2 there exists Lipschitz f:l_p->l1 not factorable through a subset of Hilbert via Lipschitz g,h. This negative factorization result differs from extending maps defined on a Hilbert subset into l1;no contradiction to source corollary."
+    }
+  ],
+  "formal_scope_search": {
+    "queries": [
+      "rg --files -g AGENTS.md -g *332* math/lean <F332preprint>",
+      "rg -n -i MarkovCotype|Markov.Cotype|markov cotype|Problem332|l1-markov-cotype|Metric-Markov-Cotype math/lean/formalization.yaml math/lean/ComparatorChallenges math/lean/docs math/history.md math/CONTENTS.md",
+      "rg -n -i metricMarkovCotype|metric_markov_cotype|markov.cotype|l1markov|l1_markov|Metric Markov Cotype|MendelNaor13 math/lean/OAI math/lean/ComparatorChallenges math/lean/docs math/lean/formalization.yaml"
+    ],
+    "outcome": "No matching F332 formal declaration/registration/Comparator scope found in inspected paths;CONTENTS listing only. Canonical332.lean is unrelated MutuallyUnbiased namespace collision. docs332 absent. No proof-source absence beyond inspected scope inferred.",
+    "Lean_build": "not_run",
+    "Comparator": "not_run",
+    "matching_selected_formal_scope": null,
+    "grade": "All seven natural claims C;no B/A or formal proof verification"
+  },
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "selected_external_roots": 3,
+  "total_external_roots": 5,
+  "remaining": [
+    "Ball92 and DezaLaurent97 original bodies unread",
+    "Recursive history/proof closure and all formal proofs/builds unverified",
+    "Unspecified extension K,no finite extension solver",
+    "Candidate finite judge/benchmark/budgets/old baselines unestablished",
+    "Human/second provider deferred"
+  ],
+  "new_application_run": false,
+  "numerical_data_generated": false,
+  "symbolic_qualification_is_not_experiment": true,
+  "human_review": null,
+  "second_provider_review": null
+}

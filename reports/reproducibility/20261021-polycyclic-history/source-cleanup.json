@@ -1,0 +1,240 @@
+{
+  "recorded_at": "2026-10-20T17:36:32.461597+00:00",
+  "task_owned_directory": "/private/tmp/ai-paper-history255",
+  "files": [
+    {
+      "path": "FormalConjecturesCheck.lean",
+      "bytes": 8239,
+      "sha256": "91132cbafc2824ee2afb8757d4fac9aba7aacbc67ccc52759ebfcbfad2d2b3b6"
+    },
+    {
+      "path": "Gromov.lean",
+      "bytes": 34929,
+      "sha256": "0170a5a55720e069df8d5103067ac29d2b90d6da666bc2060afebea0cab493a8"
+    },
+    {
+      "path": "bieri-definition-176.png",
+      "bytes": 65462,
+      "sha256": "4c50005f427c05537f1d71f9321b06fa4fbebe664a614376dc5ea415b7dec278"
+    },
+    {
+      "path": "bieri-duality-170.png",
+      "bytes": 55476,
+      "sha256": "c9e7b35d67ea73fc1a08e8ddc43860962da62dd4aaa4385b43461b31587d0088"
+    },
+    {
+      "path": "bieri-duality-171.png",
+      "bytes": 66155,
+      "sha256": "1abc1f8d37332403eb6f3b8054e77a1b58d3ca3e7667fe9943a224518b07d710"
+    },
+    {
+      "path": "bieri-duality-172.png",
+      "bytes": 58873,
+      "sha256": "7ecec01274ded0f487132c55f61fd85fd2caee4dc4f7c29c31515438d75bb34b"
+    },
+    {
+      "path": "bieri-duality-173.png",
+      "bytes": 60583,
+      "sha256": "0c1550e5f6bb581f4a100cf0a88862752e05d06e7674ec6744d5e9e34dcf6cab"
+    },
+    {
+      "path": "bieri-end-183.png",
+      "bytes": 62876,
+      "sha256": "5d961e3273d136e3b0107b3b1ae715413248869e6a7dd81e1101f25f35b722ef"
+    },
+    {
+      "path": "bieri-end-184.png",
+      "bytes": 56879,
+      "sha256": "b82ad362ba107a7306da28aa00444872de0d31077d28a83a79f4b33507dde123"
+    },
+    {
+      "path": "bieri-end-185.png",
+      "bytes": 28893,
+      "sha256": "488edc44a541d37824c4012d38455418f4213257a56ab05aa2a278b4d678931f"
+    },
+    {
+      "path": "bieri-front-002.png",
+      "bytes": 13892,
+      "sha256": "21af7888cc1b3dde2eeda0bc09004a885da40e8e51ab1acf50bc02e89e45977d"
+    },
+    {
+      "path": "bieri-front-003.png",
+      "bytes": 64520,
+      "sha256": "120ce188441529046f9b992ba892e3a80ace3e606719db3b26510cce43594fc4"
+    },
+    {
+      "path": "bieri-front-004.png",
+      "bytes": 66995,
+      "sha256": "adb5196817e373d463dce62b064b1577464021fa46095dc7364778439888e5f4"
+    },
+    {
+      "path": "bieri-front-005.png",
+      "bytes": 36709,
+      "sha256": "09ef07ae6ee50bee228f47425b6c4e5bc4e57c6d3cb382a867c642b5d8b74efc"
+    },
+    {
+      "path": "bieri-pd-177.png",
+      "bytes": 57189,
+      "sha256": "9aeea7bd50aa7609069d42c41631541dc075588368d1ed1992e4a4540b334e2d"
+    },
+    {
+      "path": "bieri-pd-178.png",
+      "bytes": 66509,
+      "sha256": "4b12a1ff83e430a5117c5b476e15d3c1cf4b26ebbf69ac5d7a6d6682e0aebd62"
+    },
+    {
+      "path": "bieri-pd-179.png",
+      "bytes": 66962,
+      "sha256": "f3e3b36bf340f381e6d9ed628a0488584b7ba186ee22b5e1ad1d36a3c9cd5250"
+    },
+    {
+      "path": "bieri-pd-180.png",
+      "bytes": 67952,
+      "sha256": "0ef446c0fba4f900bc31ce66696342a74f66c2a385a16a3f6fb04bda7e27f857"
+    },
+    {
+      "path": "bieri-theorem-181.png",
+      "bytes": 61764,
+      "sha256": "f20e5229a409525f5aea7196bb0f74fa72b94980e0aa634c0ef004ba278c6de8"
+    },
+    {
+      "path": "bieri-theorem-182.png",
+      "bytes": 52386,
+      "sha256": "e430791f3d38c0a3741e2a3bfa098ce108c43ea63e55ed45e7f3b36eb13b7930"
+    },
+    {
+      "path": "bieri-toc-006.png",
+      "bytes": 46704,
+      "sha256": "3d2fef20aa6db41c6d40bb6320a391e51557ddc245bcd5b715b3937bc75058b9"
+    },
+    {
+      "path": "bieri-toc-007.png",
+      "bytes": 69134,
+      "sha256": "d3873c10b407a71fe245f320208a334d7f4d064ce1541824365bab2d17bae541"
+    },
+    {
+      "path": "bieri.pdf",
+      "bytes": 1251070,
+      "sha256": "6d69354c234b0902ee31b0f475b4362313874bf2db5c07a5572361d1da1dc63f"
+    },
+    {
+      "path": "bieri.txt",
+      "bytes": 204,
+      "sha256": "1c7be4ead546e6702c47edca9d9c11423d26295379310863ac4ee88772851ce5"
+    },
+    {
+      "path": "dekimpe-intro-01.png",
+      "bytes": 293647,
+      "sha256": "3fbea99e04338caf0d6582d92318b753d9bee3a7321595f5f92b338f57c5e292"
+    },
+    {
+      "path": "dekimpe-intro-02.png",
+      "bytes": 322513,
+      "sha256": "0861e45c33e1121fd2b3db8f3c0c4542eb7c26cfdbf53303a049fa0b35f63ef5"
+    },
+    {
+      "path": "dekimpe-lattice-14.png",
+      "bytes": 185737,
+      "sha256": "28e7430f07cac55726c1ddeca4933da4822f9d638a2d0826b6442e031ec64768"
+    },
+    {
+      "path": "dekimpe-lattice-15.png",
+      "bytes": 118531,
+      "sha256": "3e244dc38c52451e605f756c1a7357949cd510eddb393bff1ab856a85ad966a8"
+    },
+    {
+      "path": "dekimpe-refs-22.png",
+      "bytes": 143603,
+      "sha256": "3a0b0ce84440f4021d401714b6444b05974ff3cc30c37760b0e3475dc1ad97a9"
+    },
+    {
+      "path": "dekimpe-section4-17.png",
+      "bytes": 275649,
+      "sha256": "db93739ba73ef6ea356690d5a9c94b05471fae0d9e714d4cb7558fc0fb2a9979"
+    },
+    {
+      "path": "dekimpe-section4-18.png",
+      "bytes": 221127,
+      "sha256": "02b82d2e7304e2dae77a2f9cd3b0150b09c53356a6b7cce0ea047ad57dd9d028"
+    },
+    {
+      "path": "dekimpe.pdf",
+      "bytes": 2452126,
+      "sha256": "bfb5e1b360fefe3d96621093d590843df07fef813ad138312f0017156996eb8a"
+    },
+    {
+      "path": "dekimpe.txt",
+      "bytes": 1936,
+      "sha256": "66377c139c3564c02072bc5b70785b38c1276ba27dea2dc8ee5c01964b4b22a1"
+    },
+    {
+      "path": "ganzburg-remez-02.png",
+      "bytes": 345006,
+      "sha256": "ea26c1344baf6f1a5feb518c2cf45266bf56c5f8d3a6b9a1cc62d8d51609fefc"
+    },
+    {
+      "path": "ganzburg.pdf",
+      "bytes": 493116,
+      "sha256": "71d96cb6b445637a7279960ad7fbae067e45fb94dda861d6706163cbe925a327"
+    },
+    {
+      "path": "ganzburg.txt",
+      "bytes": 57561,
+      "sha256": "f3aa8732a5bf6fe53593bdb4685225607e84f63bdc9cc1a35450ad493f60af17"
+    },
+    {
+      "path": "gromov-interface-checks.json",
+      "bytes": 1714,
+      "sha256": "35cc19a2426e86284955a6a45e46a4afafb832198335f497aeae818c3d683fa2"
+    },
+    {
+      "path": "gromov-lakefile.toml",
+      "bytes": 384,
+      "sha256": "c06af2fe879d8ea3d74af26d2d472e5454ab934c4a06b1e4b874574f7592884e"
+    },
+    {
+      "path": "gromov-tree.json",
+      "bytes": 38095,
+      "sha256": "58d21115ba9e2889d2ec70f70337e2b2cf5a547957ea91f3fe2758939e557594"
+    },
+    {
+      "path": "kmn-author.pdf",
+      "bytes": 212753,
+      "sha256": "c52e6d7d5b7f2bdfc0fa667f3d2441968f5f0b3ed875afe84fbc5711dbbb3b76"
+    },
+    {
+      "path": "kmn-author.txt",
+      "bytes": 44337,
+      "sha256": "d7a2fcfa75f5b44e24964df7deba1d392499b6b927da6210cad0237200522532"
+    },
+    {
+      "path": "kmn-main-02.png",
+      "bytes": 252076,
+      "sha256": "cd973c5b9613f528e455f11b55591b448ff1e6815060c935e9f5232efaf45572"
+    },
+    {
+      "path": "kmn.pdf",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "patched/Gromov/FormalConjecturesCheck.lean",
+      "bytes": 9429,
+      "sha256": "7eaaf698951c7a4eb2d65a02d1aa2c019bc0e2c7074852f299e42188bc118d45"
+    },
+    {
+      "path": "patched/Gromov/Gromov.lean",
+      "bytes": 35356,
+      "sha256": "9fbe403611a59888d32a2078fe4805719312ae76acf75e85eea8466fc848702f"
+    },
+    {
+      "path": "patched/Gromov/PolynomialGrowth.lean",
+      "bytes": 1304,
+      "sha256": "a4116f9d906a0d078adc36ebc2eb8c39aec4a53e051c866660ffa0086e076850"
+    }
+  ],
+  "total_removed_bytes": 7926355,
+  "hashes_verified_before_removal": true,
+  "directory_absent": true,
+  "retained": "Only short paraphrases,source versions/hashes/ranges andcomposition receipt;no third-party fulltext orLean cache"
+}

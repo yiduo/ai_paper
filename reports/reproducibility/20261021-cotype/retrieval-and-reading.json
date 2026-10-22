@@ -1,0 +1,119 @@
+{
+  "recorded_at": "2026-10-21T07:50:50.667574+00:00",
+  "primary_works": [
+    {
+      "key": "Ball92",
+      "title": "Markov chains, Riesz transforms and Lipschitz maps",
+      "doi": "10.1007/BF01896971",
+      "year": 1992,
+      "verified": false,
+      "url": "https://doi.org/10.1007/BF01896971",
+      "scope": "Bibliography metadata and source attribution only;original body not read in WP084",
+      "id": "LIT-332-BALL92",
+      "retained_full_text": false
+    },
+    {
+      "key": "MendelNaor13",
+      "title": "Spectral calculus and Lipschitz extension for barycentric metric spaces",
+      "doi": "10.2478/agms-2013-0003",
+      "year": 2013,
+      "verified": true,
+      "url": "https://arxiv.org/html/1301.3963v2",
+      "revision": "arXiv1301.3963v2,20May2013",
+      "file": "mn.html",
+      "scope": "Definitions1.1/1.2;Theorem1.11 and Cor1.13 dual-target extension;Theorem1.14/Question1.15 statement and l1 subspace distinction;Section7 Lemma7.1 and proof. Own rendered text lines130-167,267-363,1276-1394;selected original scopes,not full proof of Kalton example.",
+      "id": "LIT-332-MENDELNAOR13",
+      "acquired_bytes": 1285556,
+      "acquired_sha256": "d790f53299958d212693677940f293085800532b5977940ab674d557d083bae5",
+      "retained_full_text": false
+    },
+    {
+      "key": "DezaLaurent97",
+      "title": "Geometry of Cuts and Metrics",
+      "doi": "10.1007/978-3-642-04295-9",
+      "year": 1997,
+      "verified": false,
+      "url": "https://doi.org/10.1007/978-3-642-04295-9",
+      "scope": "Source cites Chapter4;original book body not read in WP084",
+      "id": "LIT-332-DEZALAURENT97",
+      "retained_full_text": false
+    },
+    {
+      "key": "NaorYoung22",
+      "title": "Foliated corona decompositions",
+      "doi": "10.4310/ACTA.2022.v229.n1.a2",
+      "year": 2022,
+      "verified": true,
+      "url": "https://arxiv.org/html/2004.12522v2",
+      "revision": "arXiv2004.12522v2,29Apr2021;publication2022 not byte-compared",
+      "scope": "Section1.1.2 Theorem1.12 and extension-versus-Hilbert-factorization discussion around Eq18;web-rendered original statement/context read,not whole146page proof",
+      "id": "LIT-332-NAORYOUNG22",
+      "retained_full_text": false
+    },
+    {
+      "key": "ChengWangXiang26",
+      "title": "Sharp metric cotype inequalities for L1 via nonlinear cut smoothing",
+      "doi": "10.48550/arXiv.2609.08749",
+      "year": 2026,
+      "verified": true,
+      "url": "https://arxiv.org/html/2609.08749v2",
+      "revision": "arXiv2609.08749v2,09Sep2026",
+      "file": "cwx.html",
+      "scope": "Theorem1.1/Cor1.2 statement;Lemma2.1 finite cut representation/proof;binary-coordinate cubic setup,derivative estimate and Remark2.5. Own rendered lines180-278,374-392,453-482. Torus metric cotype,not metric Markov cotype;selected scopes only",
+      "id": "LIT-332-CHENGWANGXIANG26",
+      "acquired_bytes": 375717,
+      "acquired_sha256": "dc57e33786188ee514c0f50f2a0e27a78149cb5a0a534701c1a78f699be53510",
+      "retained_full_text": false
+    }
+  ],
+  "files": [
+    {
+      "temporary_name": "mn.html",
+      "bytes": 1285556,
+      "sha256": "d790f53299958d212693677940f293085800532b5977940ab674d557d083bae5",
+      "retained": false,
+      "classification": "Primary HTML or own mechanical text extraction;not retained full-text mirror"
+    },
+    {
+      "temporary_name": "mn.txt",
+      "bytes": 140247,
+      "sha256": "9a32aa0f65e0e6ab53d25f2a3324e7b50ddd679a99046c57172be7d0d8ebaa67",
+      "retained": false,
+      "classification": "Primary HTML or own mechanical text extraction;not retained full-text mirror"
+    },
+    {
+      "temporary_name": "cwx.html",
+      "bytes": 375717,
+      "sha256": "dc57e33786188ee514c0f50f2a0e27a78149cb5a0a534701c1a78f699be53510",
+      "retained": false,
+      "classification": "Primary HTML or own mechanical text extraction;not retained full-text mirror"
+    },
+    {
+      "temporary_name": "cwx.txt",
+      "bytes": 41945,
+      "sha256": "819251d6ed3c52a0c95f75196ad54e2042ad148bf4700e0eb82e4ecb4f1d5f46",
+      "retained": false,
+      "classification": "Primary HTML or own mechanical text extraction;not retained full-text mirror"
+    }
+  ],
+  "NY_scope": "Web tool original HTML only,arXiv2004.12522v2 Section1.1.2 Theorem1.12/context;no downloaded bytes or acquisition SHA fabricated",
+  "actual_source_read": "648TeX+50Bib+README;all7labels andkey proofinterfaces",
+  "actual_selected_history": "MN13/CWX26 selected statements and proofinterfaces;NY22 selected statement/context;not three fullpapers",
+  "normal_TLS": true,
+  "bounded_retrieval": "MN/CWX HTML bounded2.5MB each;no bulk book/Lean/training downloads",
+  "new_dependencies_installed": false,
+  "numerical_data_generated": false,
+  "full_texts_removed_after_acquisition_hash_verification": true,
+  "formal_scope_search": {
+    "queries": [
+      "rg --files -g AGENTS.md -g *332* math/lean <F332preprint>",
+      "rg -n -i MarkovCotype|Markov.Cotype|markov cotype|Problem332|l1-markov-cotype|Metric-Markov-Cotype math/lean/formalization.yaml math/lean/ComparatorChallenges math/lean/docs math/history.md math/CONTENTS.md",
+      "rg -n -i metricMarkovCotype|metric_markov_cotype|markov.cotype|l1markov|l1_markov|Metric Markov Cotype|MendelNaor13 math/lean/OAI math/lean/ComparatorChallenges math/lean/docs math/lean/formalization.yaml"
+    ],
+    "outcome": "No matching F332 formal declaration/registration/Comparator scope found in inspected paths;CONTENTS listing only. Canonical332.lean is unrelated MutuallyUnbiased namespace collision. docs332 absent. No proof-source absence beyond inspected scope inferred.",
+    "Lean_build": "not_run",
+    "Comparator": "not_run",
+    "matching_selected_formal_scope": null,
+    "grade": "All seven natural claims C;no B/A or formal proof verification"
+  }
+}

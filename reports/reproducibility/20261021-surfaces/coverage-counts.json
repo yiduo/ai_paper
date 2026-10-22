@@ -1,0 +1,11 @@
+{
+  "individual_early_mapping_attempt_records": 30,
+  "batched_mapping_attempts": 130,
+  "total_ten_domain_attempts": 160,
+  "reverse_demand_search_records": 1,
+  "deduplicated_candidates": 17,
+  "source_drafts": 13,
+  "named_results_in_full_source_drafts": 362,
+  "partial_families_actually_read": 18,
+  "complete_families_or_lineages": 0
+}

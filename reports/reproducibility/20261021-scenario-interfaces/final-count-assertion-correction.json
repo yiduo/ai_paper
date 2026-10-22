@@ -1,0 +1,8 @@
+{
+  "recorded_at": "2026-10-20T23:36:25.574951+00:00",
+  "initial_check": "Final compact status assertion wrongly expected2332 unchanged nodes from research_nodes metric; AssertionError before commit.",
+  "actual_count": 2333,
+  "reason": "HEAD canonical table contains2335 records;two versioned updates leave2333 byte-identical. research_nodes is a projected metric,not canonical row count.",
+  "source_integrity_receipt_was_already_correct": true,
+  "correction": "Only appended summary/backlog count2332->2333; helper execution archive preserved. No canonical graph,experiment or validation rules changed."
+}

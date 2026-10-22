@@ -1,0 +1,47 @@
+{
+  "id": "EXP-076-002",
+  "version": 1,
+  "connection_id": "APP-076-02",
+  "status_at_registration": "preregistered_before_implementation_and_fixture_outputs",
+  "parent_plan": "experiments/plans/MAP-076-002.json",
+  "hypothesis": "On six fixed synthetic idealized antipodal-aperture targets, all allowed-phase, dyadic mass and independent exact arithmetic checks pass, and at least one of the two complex core fixtures has a certified whole-circle residual norm at least 10 percent below BOTH pointwise nearest rounding and the frozen multi-start single/pair-flip greedy baseline. Controls receive no incremental credit. No fixture, threshold, grid or method tuning after outputs.",
+  "input": {
+    "kind": "Synthetic equal-spaced linear coherent aperture, coefficients Z_j=r_j*d_j, 0<=r_j<=1 and unit complex rational d_j. Output coefficient is s_j*d_j with s_j in {-1,+1}. No hardware data, optical propagation, coupling, noise, training or practical ultraflat generator.",
+    "exposure": "Source manuscripts and existing qualitative mapping were read before registration. No output word, error norm or finite comparison for these fixtures has been computed. Not blind discovery.",
+    "fixtures": [
+      {"id":"complex6-uniform","stratum":"core","phases":[["1","0"],["3/5","4/5"],["-5/13","12/13"],["0","-1"],["-3/5","4/5"],["12/13","-5/13"]],"magnitudes":["1/4","1/4","1/4","1/4","1/4","1/4"]},
+      {"id":"complex6-mixed-zero","stratum":"core","phases":[["3/5","4/5"],["-5/13","12/13"],["0","-1"],["1","0"],["12/13","-5/13"],["-3/5","4/5"]],"magnitudes":["3/4","1/2","1/4","0","1/2","3/4"]},
+      {"id":"complex6-small-defect","stratum":"mass_below_one_control","phases":[["1","0"],["3/5","4/5"],["-5/13","12/13"],["0","-1"],["-3/5","4/5"],["12/13","-5/13"]],"magnitudes":["7/8","3/4","7/8","3/4","7/8","3/4"]},
+      {"id":"real6","stratum":"real_phase_control","phases":[["1","0"],["-1","0"],["1","0"],["1","0"],["-1","0"],["-1","0"]],"magnitudes":["1/4","1/2","3/4","1/4","1/2","3/4"]},
+      {"id":"unit4","stratum":"zero_defect_control","phases":[["1","0"],["3/5","4/5"],["-5/13","12/13"],["0","-1"]],"magnitudes":["1","1","1","1"]},
+      {"id":"zero1","stratum":"zero_input_control","phases":[["1","0"]],"magnitudes":["0"]}
+    ],
+    "optimizer_grid_multiplier": 20,
+    "judge_intervals_per_quarter": 64,
+    "sqrt_fraction_bits": 64,
+    "candidate_budget_per_method": 1024,
+    "maximum_n": 6
+  },
+  "method": {
+    "scope": "Finite exhaustive implementation of the source's joint dyadic discrepancy choice, not a polynomial-time Lovett-Meka implementation or a theorem-constant test. The discrepancy subproblem is exponential, deliberately capped at n<=6.",
+    "dyadic": "Set p_j=(1-r_j)/2 and mu=sum p. J=max(1,ceil(log2 n)); floor p to multiples 2^-J without increasing mass. For h=J..1 take active odd numerators in 2^h*p. Enumerate ALL 2^s active sign vectors. Score max over real and imaginary rows of sum xi_j*d_j*exp(2*pi*i*j*l/(20*n)). Minimize score, deterministic lexicographic xi tie-break. Reverse the selected xi if sum xi>0, then update p+=2^-h*xi. This preserves the exact mass bound and grid membership. Return s=1-2p. Save every stage and selected signs. No final polishing or replacement by the best exhaustive word.",
+    "optimizer_arithmetic": "IEEE Python float complex trig only chooses candidates on the frozen grid. Scores within absolute 1e-12 tie, then lexicographic word. Optimization scores are never certificates. All eligibility, mass and final norm decisions are checked in rational/integer arithmetic.",
+    "nearest": "Pointwise closest antipodal choice s=+1 everywhere, including r=0 ties.",
+    "greedy": "Three starts: all+1, all-1, and alternating +1,-1. At each state evaluate all single and pair flips, select best strictly improving grid complex-modulus supremum (improvement>1e-12), ties lexicographic. Stop each descent at no improving neighbor or shared 1024 distinct word evaluations, then choose the best visited word. Share a cache across starts; report cache misses, hits and termination. No mass constraint on old baseline. Thus the old method is allowed more choices and at least as large an upper budget; no equal-runtime or practical speedup claim.",
+    "budget": "Every score call evaluates the same 20*n points; dyadic counts every enumerated active sign vector, greedy counts distinct evaluated full words. Both capped at1024; observed counts separately reported. Nearest is also scored. Timings are nondeterministic and stored only in manifest, not raw replay data."
+  },
+  "judge": {
+    "grid": "Four rational quarter-circle parametrizations z=i^q*((1-t^2)+2it)/(1+t^2), q=0..3,t=l/64,l=0..64. This covers the entire circle with parameter mesh1/64; differs from the float optimizer grid.",
+    "exact_arithmetic": "Convert rational residual coefficients c_j=(s_j-r_j)*d_j to Gaussian integers a_j=D*c_j using a common denominator D. At z=(u+iv)/d, integer Horner yields P(z)=(Hre+i*Him)/(D*d^(n-1)). Squared norm is exact rational. Max sampled squared norm yields outward64-bit dyadic sqrt lower/upper endpoints.",
+    "continuum": "On each quarter parameter, |z'|<=2. Because |c_j|=|s_j-r_j| exactly, L=sum j*|s_j-r_j| bounds |dP/dtheta| with theta in radians. Every parameter is within1/(2*64) of a grid point; hence continuum norm<=sample_max_upper+L/64, and >=sample_max_lower. Store full correction, not samples alone.",
+    "independent_check": "For nearest, joint and greedy outputs, independently compute Gaussian-integer autocorrelations C_k=sum_j a_(j+k)*conj(a_j). At EVERY judge point check the identity |P|^2=(C0+2Re sum_(k>=1) C_k*z^k)/D^2 against direct Horner using cross-multiplied integers. Check Parseval energy<=sample upper squared+slack only via resulting continuum interval. A mismatch is failure, never a claimed theorem counterexample.",
+    "word_oracle": "Enumerate ALL 2^n eligible words by Cartesian product, independently of optimizer and dyadic stage search. Compute an exact rational sampled maximum and Lipschitz-corrected whole-circle interval for every word. The minimum lower and minimum upper enclose the true optimal eligible-word continuum norm; report interval and all word intervals. It is an independent exact finite arithmetic oracle, NOT exact analytic optimization of the continuous supremum, NOT a speed baseline and NOT the returned algorithm. Check each selected word occurs and agrees with this oracle.",
+    "decision": "Resolved10percent win iff joint_upper<=9/10*nearest_lower AND joint_upper<=9/10*greedy_lower with BOTH baseline lower endpoints>0. If interval slack prevents a decision, record unresolved and do not refine grid after outputs. Also report baseline wins, no gains and all control invariants."
+  },
+  "success": {"fixtures":6,"structural_or_certificate_failures":0,"core_resolved_10percent_wins_minimum":1},
+  "failure": "Any eligibility/mass/budget/cross-evaluation/certificate/control failure, resource violation or absence of a resolved core win. Preserve unfavorable observations and unresolved intervals; no formal rejection without humans, no post-output parameter or fixture changes.",
+  "metrics": ["input n, phases, magnitudes and exact defect mass","dyadic active sets, sign choices, probabilities, mass and step scores","selected words and grid scores","all-word exact-arithmetic oracle intervals","chosen-word Horner/autocorrelation identity at every rational point","whole-circle interval endpoints and Lipschitz correction","resolved 10percent and unresolved comparisons","distinct objective evaluations and greedy termination","elapsed time and peak traced Python allocation"],
+  "limits": "Finite synthetic idealization only. Old Spencer/LM matrix discrepancy underlies the source too; no novelty claim, universal superiority, validation of asymptotic ultraflat theorem or practical hardware benefit. This tests a method action, distinct from APP-076-01's waveform scope QA. Float optimization is heuristic; final decisions use exact certificates. No random seed: deterministic exhaustive choices; trig platform drift may alter chosen words, so environment is frozen and replay checks them. Human review, second provider and Lean builds absent.",
+  "resource_limit_seconds":120,
+  "resource_limit_mb":128
+}

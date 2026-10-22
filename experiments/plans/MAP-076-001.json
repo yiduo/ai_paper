@@ -1,0 +1,19 @@
+{
+  "id": "MAP-076-001",
+  "version": 1,
+  "status": "conditional_plan_not_executed",
+  "connection_id": "APP-076-01",
+  "registered_at": "2026-10-20T15:41:09.467761+00:00",
+  "input": "Freezeboundedactualfinitefixturesbeforeanyoutputs;noF076asymptoticguaranteeassumedatfiniteN",
+  "hypothesis": "Givenfrozenbinarywordfixtures,anindependentcertificateauditdetectsallplantedconfusionsbetweenDFT-binpeakandwhole-circlepeak,periodicandaperiodicautocorrelation,andL4meanflatnessversusuniformfloor;everyacceptedcertificatemustagreewithanindependentinteger/polynomialoracle.",
+  "baselines": [
+    "Independentintegeraperiodiclagconvolution",
+    "Oldpolynomialderivative/gridorreal-rootbounds",
+    "Literalperiodic/DFTcalculationsfortheineligibilitycontrols"
+  ],
+  "judge": "Independentexactinteger/rationalpolynomialoracleandoutwardcontinuumcertificates;gridsamplesalonearenotupper/lowerproof",
+  "success": "Everycorrectness/eligibilitycheckpassesandthepredefinedpredictionholds",
+  "failure": "Anyfalsecertificate,wrongallowedphase,unsupportedmetricmigrationornoincrement;retainalloutputs",
+  "limits": "Noformalproof,newmathvalidation,practicalultraflatgenerator,hardwaregainorrealbusinesspilot. Existingmethodswhichalreadycoverscopegetzeronewtheoremincrement.",
+  "resource_envelope": "Noexperimentrunallocatedyet;stdliblightweight,cappedfiniteN;actualexecutionrequiresfrozenconfig/commitandcompressedraw/summary/sourcehashroundtrip"
+}

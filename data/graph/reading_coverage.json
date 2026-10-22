@@ -1,0 +1,352 @@
+{
+  "generated_at": "2026-10-20T11:19:34.734410+00:00",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "full_family_decompositions_complete": [],
+  "partially_read_families": {
+    "F-128": [
+      "introduction",
+      "full forced counts section",
+      "full algorithm/materialization section",
+      "README",
+      "Lean scope"
+    ],
+    "F-097": [
+      "introduction",
+      "transfer proof",
+      "README",
+      "Lean scope",
+      "PDF page2 visual inspection"
+    ],
+    "F-130": [
+      "introduction, arithmetic model and constants",
+      "README/Lean scope"
+    ],
+    "F-374": [
+      "all six natural-language source modules and bibliography",
+      "README, main theorem formal challenge and actual solution entry",
+      "89 Lean files statically indexed; proof reading/build incomplete",
+      "5 original historical sources content-checked; remaining entries unverified"
+    ],
+    "F-262": [
+      "matrix introduction and history",
+      "scalar-only Lean scope"
+    ],
+    "F-238": [
+      "main optimal-order mixing manuscript fully read (601 lines plus full figure/references)",
+      "trace smoothing manuscript fully read (all included body modules, main file and bibliography)",
+      "4of12source manuscripts decomposed;8remain unread/decomposed in full",
+      "selected natural/formal main comparisons; 92 Lean files statically indexed, not built",
+      "original Morris O(d^3) and Audenaert ALT statements checked; exact small-deck QA test/replay completed",
+      "WP035revealedmanuscriptall8TeX1173lines/17newqualifiedbindings/16newcontractsread,includingembeddedfigure;F238now31namedresultbindings.",
+      "FourfreshprimaryrootsBBL/KLS/Hastad+correction/MorrisLemma12selected;priorMorris3scope reused.12externalroots inthismanuscript andtwofourth-routecompanionproofinputs unreviewed.",
+      "ActualRevealedMainandselectedmodelsread;114files1332declarationslexicalindex,notbuild. Alternativefull-deckconstantsformalizedviapriormixingmonotonicity,notallrouteproofs.",
+      "Oneconditionalobserved-routeauditcandidate,ten-domainattempts;no newnumericalrun or initialcheck.",
+      "WP036entire19TeX6195lines64qualifiedbindings18contracts;F238now95bindings,fourmanuscripts,not fullfamily.",
+      "ActualInformationMain/6FixedListsmodules compared;57files724declarationslexicalindexnotbuild. GeneralbasepathTheorem4.1C/unknown,separatefromselectedfirstmainB.",
+      "ThreefreshoriginalscopesMorris2008v1/LS2004/DS1981;priorMorris3andexclusionreused. Czumajabstractonly;11externalbodyrootsnotverified.",
+      "Tennewdomainattempts refineexistingAPP23802withfixedreservoircondition;no newcandidate/numericalrun/initialcheck."
+    ],
+    "F-149": [
+      "all seven proof/body modules across both manuscripts (1969 lines)",
+      "both bibliographies, main files, READMEs and selected formal definitions/proof entry",
+      "71 Lean proof files indexed, not fully proof-read/built",
+      "two original historical statement scopes checked; remaining original lineage incomplete"
+    ],
+    "F-245": [
+      "All ten body/include modules fully read: 5991 source lines, 59 named results",
+      "Main file, README and all13 bibliography entries read; seven original historical scopes checked",
+      "Complete selected challenge/config and actual main proof entry read; 33 Lean files indexed, not built",
+      "No individual-term WN-to-SN, eta extension or numeric runtime bound inferred"
+    ],
+    "F-124": [
+      "All7 main/body modules1698 lines plus4 included figure sources fully read",
+      "26 named results;6 methods;13 bibliography entries;3 original baseline scopes checked",
+      "Selected formal definitions/configuration and actual main entry read;53 files indexed, not built",
+      "Uniform polynomial algorithm has exponent150020; no practical runtime improvement inferred"
+    ],
+    "F-200": [
+      "Both manuscript bodies fully read:1603 Betti section lines and3135 companion section lines, plus main/figure sources",
+      "45 named results with manuscript-qualified labels; one exact alias not double counted;12 method contracts",
+      "Both bibliographies read,53 local keys; exact checked original scopes include MM/CS/CK14, EGH prose, Caviglia-Sbarra conditional theorem, Stacks00N6/07VK",
+      "No matching registered formal scope/build or human review; original lineage incomplete; conditional budget prototype separately tested; no mathematical theorem validation"
+    ],
+    "F-314": [
+      "All seven body modules fully read:29 named results; main/preamble/bibliography/unicode map also read",
+      "18 bibliography entries;four selected original historical scopes checked, complete lineage absent",
+      "10 method/construction contracts; ten attempted mappings do not add counted connections",
+      "No registered formal scope; source gradeC, complete dependency grade unknown; no numerical/spectral validation"
+    ],
+    "F-221": [
+      "All11 body modules2692 lines;main/glyph/bibliographyread,TeXtotal2807lines",
+      "26 named results aftercleveref typed-labelrepair;pert:identityaliasnotdoublecounted;11contracts",
+      "18 bibliographykeys=17external+1internalF235;fiveoriginalselectedscopeschecked",
+      "Selected formalmodel/challenge/main/lowerbridgeread;405filesstaticallyindexed,notbuilt",
+      "No finite-size ordecodinggaininferred;all-depth infimumandorderedlimitsretained",
+      "APP-221-01 separately checks27fixed finite fixtures;does not validate thermodynamic theorem or decoder performance"
+    ],
+    "F-276": [
+      "All9TeXsources1615lines:8main/body1496lines plusbibliography119;14namedresults,10contracts",
+      "19bibliographyentries;fiveoriginalselectedscopeschecked;HouFangpublisherabstractonly",
+      "ActualselectedModel/Main/challenge/scope read;35files467declarationsstaticindex,notbuilt",
+      "Arbitrarypartnercorollaryoutsideactualformalmainscope;collectivedecodingnotseparatemeasurement",
+      "One-shotformulahistorical;nomany-useincrementnumericallyverified"
+    ],
+    "F-178": [
+      "All13TeXsources6694linesread;9bodymodules6358,main/figures/bib336",
+      "35namedresults,13sourcecontracts,29references;fiveoriginalselectedstatementscopeschecked",
+      "No registeredformalscope;lean/docs/178.mdabsent,planningassumptioncorrected;allclaimsC/fullchainunknown",
+      "Fullconstructorhasunspecifiedn0/kd;exactrationalverifiernotconstructorimplementation",
+      "Oneconcreteconditionalconsensusmapping,tenattempts;no newexternalcheck"
+    ],
+    "F-325": [
+      "Both manuscripts/full6TeXfiles2433lines read;18namedresults,12contracts",
+      "Six original historical selected scopes checked;complete lineage missing",
+      "Five comparator links inspected,selected actual main/model scope comparison;199solutionfiles2365declarations lexicalindex,not built",
+      "One conditional block-polynomial error-budget candidate,no external test;scalar/small-base/Faber old scopes retained"
+    ],
+    "F-021": [
+      "All15TeXfiles6363lines andbibliographyread;13bodysections6248lines,38namedresults/13contracts",
+      "Sixselectedoriginalhistoricalscopes;fulloriginalclosuremissing,Iwaniec1978/Erdos1962retrievalincomplete",
+      "Selectedactualformalmodel/maincompared;819localfiles10027declarationslexicalindex,externalpinnedlibrariesunread/notbuilt",
+      "OneconditionalcoprimecertificateQA candidate,noactualexperimentorfiniteCguarantee"
+    ],
+    "F-076": [
+      "All3manuscripts26TeX4959lines+3bibliographiesread;32qualifiednamedresults/12contracts",
+      "60manuscriptbibliokeys,tenselectedoriginalscopes;completeoriginalclosuremissing",
+      "Septembermax/finiteLpselectedformalmodels/mainread;28files506declarationslexicalindex,notbuilt;twoOctoberstrongerproofsnotcovered",
+      "Twodistinctconditionalcandidates,includingfarcomplexantipodalaperture;noactualcheck/finiteNalgorithmclaim"
+    ],
+    "F-333": [
+      "All9bodymodules2826lines,main54,figure67 and17entrybibliography203lines read;16namedresults/12contracts.",
+      "Selected actualmain/model/challenge/config andWhitney/Sard/sphericallift/hprinciplebridge read;1883files/7148declarationsstaticindex only.",
+      "Eightselectedhistoricaloriginalscopes checked;Nashprinted59/Whitney274 scans visuallychecked;Poznyak originaltimeout remainsunverified.",
+      "Ten-domain attempts andoneconditionalperiodicmotioncalibrationcandidate;no numerical run orhardwarebenefit."
+    ],
+    "F-298": [
+      "All8TeX1115lines including975body/94referencesread;9namedresults/11contracts.",
+      "Actual main/model/cutoff/blockevent/quantitative/deficit/configread;153file1455declarationindexnotbuild. SpectralParameters75-125partialonly.",
+      "Sevenselectedoriginalscopes checked;normalized-vsunnormalizedHSconventionsexplicit. SixexternaloriginalsandinternalF287unread.",
+      "Ten-domain attempts retained;no new candidate or numerical test justified;do notsubstitute smallGUE simulation forfinitefreeentropygap."
+    ],
+    "F-038": [
+      "All7TeX2077linesand25-entrybibread;18results/12contracts. Mainincludedinsourcebindings;4sectionbodies1654lines.",
+      "Noseparate038Lean scopenorFujita-specificconfig/OAImatchfound;C/unknown,noindex/build.",
+      "Nineselectedprimaryscopes inclChanofficialwithdrawal,ASp291andFujinoceilscanchecked;16otheroriginalsremainunread.",
+      "Ten-domain attempts,no newcard/run;globalgenerationnotembedding orsectionalgorithm."
+    ],
+    "F-255": [
+      "All14TeX5465lines plus271bib read;47namedresults/15contracts,sevenselectedprimaryhistoricalscopes.",
+      "Actualmain/definitions/coarsemetricbridge andGromovwrapperread;2679file8947declarationindexnotbuild,597externalmodulesabsent,pinnedGromovunread.",
+      "21historyoriginalsunverified,KMNauthorPDFHTTP500;fullfamily/history/humanclosuremissing.",
+      "Ten-domain attempts,oneconditionalpolynomial-coveragecandidateunrun;no finitegraphrecognition ornewpracticalgain.",
+      "WP032:fouradditionalprimaryscopesverified (11/28roots),patchedGromov37/208-lineinterfacesandselectedmainread;exactcommit+patch compositionchecked,notLeanbuild/fullproofclosure. 17rootoriginalsandnewdescendantinputsremainunverified."
+    ],
+    "F-131": [
+      "All10TeX1689lines including1466body/179references read;14namedresults and16contracts.",
+      "Seven of24external primary roots checked at selected scopes;17external originals and two internally mapped target proofs not read here.",
+      "Actual definitions/main/config/challenge and two arithmetic bridges read;165file 1594 declaration lexical index only, Mathlib external, no Lean build or human review.",
+      "Exact unbiased sampler outside formal scope; exponential rare branch retained. Ten-domain attempts and two conditional candidates, no new numerical run."
+    ],
+    "F-115": [
+      "Bothmanuscripts20TeX6080lines+2bib480lines actuallyread;42qualifiedbindings,24contracts.",
+      "39bibliographybindings29roots,27external;five selectedoriginalroot scopesincludingone reused,22notverified;F114unread.",
+      "14actualformalfilesselectedscope,1299file18271declarationstaticindexonly;three mainpublicspecificationslocalB,support/flowC,wholeclosureunknown;noLeanbuildorhumanreview.",
+      "Ten-domainattempts andoneconditionalflow-countredundancycandidate;no externalcheck,newnumericalrunorfullfamilycredit."
+    ],
+    "F-179": [
+      "Entire1manuscript7TeX1049lines+191bibread;8bindings12contracts.",
+      "17historyroots5selectedoriginalscopes,12bodyunverified;earlierfullproofclaimsmetadataonly.",
+      "18selectedactualformal/scope/configfilesread;73file742decllexicalindex,noLeanbuild. MainB,wholeBarker/supportC,fullclosureunknown.",
+      "Ten-domaincross-familyboundaryattempts,no newcandidate/card/run;notfullfamily/history."
+    ],
+    "F-114": [
+      "Bothmanuscripts10TeX5115lines+256bibactuallyread;37qualifiedbindings22contracts.",
+      "43bibbindings38roots,36external,7selectedoriginalscopes5fresh2reused,29bodygaps;oneadditionalactualcoloredtreebaselineoriginalscope.",
+      "Selectedparentmainmachine/formalrangesread;one26126linefile2963declindexnotfullproofread/build;parentB,integer/indsetsC,fullclosureunknown.",
+      "Ten-domainattempts,oneconditionalquota-treecountcandidate;no newrun/card/fullfamily/historycredit."
+    ],
+    "F-366": [
+      "All8TeX1415lines+245bibliography andREADMEactuallyread;11qualifiedresults12contracts.",
+      "4of22originalroots checked at statedscopes;booknotwhollyread,18originalbodies andexternalv2body/versiondiffunread.",
+      "MainC;selectedcompact-exclusion supportstaticB;24files381decllexicalindexnotbuild/fullproofaudit.",
+      "Ten-domainattempts,no newcandidate/applicationinitialcheck;finiteimage solvertransfer remainsunproved."
+    ],
+    "F-362": [
+      "All14TeX3629lines+372biblines29entriesandREADMEread;24results16contracts.",
+      "5selectedoriginalrootschecked,24bodies/recursiveproofclosureandWangearlierversiondiffunread.",
+      "ActualregisteredMain/ModelstaticB only;207files3951declindexnotbuild/fullproofaudit.",
+      "Ten-domainattempts;no newcandidate/applicationinitialcheck;finitePIC/uniformNbridge remainsunproved."
+    ],
+    "F-119": [
+      "Bothnaturals22TeX5858lines+241bibfirstand115bibsecond/readmesactuallyread;41claims20contracts.",
+      "41bibliographykeys33deduproots;5selectedoriginals,28bodies/recursiveclosureunread.",
+      "Soft/refined/productionselectedstaticB,secondHellingermainC;70/43localindicesnotproof/build;arithmeticnotrun.",
+      "Ten-domainattempts;oneconditionalaggregateinformationbudgetcandidate,no numericrun/initialcard."
+    ],
+    "F-372": [
+      "Singlemanuscript7TeX1953lines+229line20entrybib/READMEfullyread;15qualifiedresults16contracts.",
+      "Fiveprimaryselectedscopesverified,includingwhole3pageNU2003erratumandp206pixels;15otherbodies/recursiveclosureunread.",
+      "ActualBasic/Uniqueness/challenge/selectedVariationalread;tracequotientnormgap;42file2691declindexnotbuild/nocatalogregistration.",
+      "Ten-domainattemptsandtwoconditionalmappings;noinitialcheck/numericalrun."
+    ],
+    "F-120": [
+      "Single whole manuscript15TeX6402 lines,6146 body plus443line39entry bibliography read;53 results17 contracts.",
+      "Five selected primary scopes including Tutte349 pixels;32 other original bodies/recursive closure unread.",
+      "No matching F120 registration/doc in targeted pinned catalogue check; natural claims C, no proof audit or build.",
+      "Ten-domain attempts plus one conditional compiler, no application run."
+    ],
+    "F-094": [
+      "Whole single manuscript2TeX1505lines with25inline keys read;7qualified results16method contracts.",
+      "Six actual selected primary bodies;18external other bodies plusinternalF098/recursive history unread.",
+      "SelectedMain/Model staticB;complete-pair formal bridge and alternate retraction do not establish same natural projection method, no build or proof audit.",
+      "Ten-domain exploration plusonefar/oneboldconditionalcandidate;no actual data or numerical experiment."
+    ],
+    "F-089": [
+      "Both24TeX5509lines+223externalbibread,37keys27externalroots2internal;59qualified sourcebindings25contracts.",
+      "SevenselectedoriginalrootbodiesplusgranularAFGNerratum;20externalbody/recursiveversionsandLS09fullfringe definitionunread.",
+      "BothactualmainstaticB,63/33fileindicesnotbuilt;supportingnaturalmethodformalcomparisonincomplete.",
+      "Ten-domainmappingandonefarconditionalgenerator,noactualconsumer/data/experiment."
+    ],
+    "F-243": [
+      "Both23TeX5699lines+550bibliography/45keys read;51qualified results24method contracts.",
+      "29externalroots+samefamilycompanion;4roots selectedoriginalbodies/5versions and2pixels checked,25otherbodies/recursiveversionsunread.",
+      "BothactualmainstaticB;53file3162decl index not built,full semantic/proof correspondence unknown.",
+      "Ten-domainmapping/oneconditionalDSLconsumer candidate,noactualconsumer/data/run."
+    ],
+    "F-142": [
+      "Whole13TeX3590lines incl147bibliography/29keys andfigures actualsource read;30qualifiedresults21contracts.",
+      "28externalroots,3selectedoriginalscopes inclShoup2actualpages;25otherbodies/recursiveversions unread.",
+      "No matchingactual142formal scopefound bytargetedsearch;no Lean/Comparatorbuild/human.",
+      "Ten domains andoneconditionalfarverificationwitness candidate;noactualconsumer/run."
+    ],
+    "F-029": [
+      "Only currentcompanionintro1-115 inclTheorem1.2Hecke statement33-53 actualread as F142dependency;notwholeintro/paper/family/proof/history."
+    ],
+    "F-122": [
+      "Wholethree23TeX4882lines plus245Bib actualread;30qualifiedbindings incloneunlabelledanchorstatement,23method/scopecontracts.",
+      "Fourselectedexternaloriginalscopes;remainingbodies/recursivehistoryunread.",
+      "LoweronlyactualLeanMain/Model/config/docsselectedread;31file2234declindexnotbuild/humanaudit.",
+      "Ten domains/oneconditionalnear binaryeventstreamcandidate;noactualconsumer/run."
+    ],
+    "F-155": [
+      "Whole single10TeX2113lines plusBib;21namedsourcebindings18contracts.",
+      "Threeselectedexternaloriginalscopes;7otherroots/recursivehistoryunread.",
+      "Actualmain+Model/selectedtransfer/lowerdims locallyB;122file1275declindexnotbuild/human.",
+      "Ten domains/no newcandidate/run;actualperiodic-solverconsumer andpracticalwitnessmissing."
+    ],
+    "F-334": [
+      "Whole9TeX1655lines+195Bib;10namedbindings plus1manualunlabelledTheoremA,17contracts.",
+      "Threeoriginalselectedscopes;14otherroots/recursivehistoryandNY2002/2008statusunresolved.",
+      "ActualMain/Model/LocalDomainsselectedlocalB,fulljetnaturalC;446file3509declindexnotbuild/human.",
+      "Tendomains/3crossfamily/no newcandidate/run;jet-onlyconsumerandactualCinfwitnessmissing."
+    ],
+    "F-294": [
+      "Whole10TeX1263linesincl90Bib13keys;8namedbindings18contracts.",
+      "Threeoriginalselectedscopes;10otherroots/recursivehistoryunread.",
+      "Main+stablebundleactualmodelsselectedB;finiteisolatedscalingC;181file2900declindexnotbuild/human.",
+      "Tendomains/3crossfamily/oneconditionalfarrectangularnormalization;no actualconsumer/run."
+    ],
+    "F-049": [
+      "Whole2manuscripts7TeX1400+129Bib,18qualifiednamed18contracts.",
+      "Two differentliteralpolynomials,Septcriticalpointpersistsunusedvariables vsOctone-stableallfibres;notmergedasrevision.",
+      "Threeprimaryselectedscopes,21externalroots/internalF047recursiveclosureunread.",
+      "Bothregisteredactualformalendpoints/CommRingliftingselectedlocalB;124file1394declindexnotbuild/human.",
+      "Tendomain/3crossfamilyattempts,2explicitproblems/2unestablishedgates,no newcandidate/initial/run."
+    ],
+    "F-210": [
+      "Whole two manuscripts10TeX2135+873C++appendix lines;362Bib/338verifier additionally read.18qualified labelled results, including2verification statements;24typed contracts.",
+      "Existential comparison, canonical reverse multiplication, alternative quadratic/independent routes and computation/reference integrity separated.",
+      "Two selected historical primary math scopes; Brion1997 metadata only and all remaining recursive lineage incomplete.",
+      "Registered b>=30 selected local B; extra unregistered b>=25/full-iff7..24 retained pending;104file756decl index not build/human.",
+      "Ten domain/three cross-family attempts;two potential problems/two unestablished gates;no new candidate/initial/application run."
+    ],
+    "F-317": [
+      "Whole10TeX2774+254Bib,27labelled source results/24typed contracts;one manuscript.",
+      "Allsmallstrictglobular positive finite/omega,arbitrarytargets,strictold-sidestationarity/partialcompositionguard/newcomposites;notweakgroupoid/nfold/executableprocedure.",
+      "Three original selected scopes,16 externalrootbodies/internalF312/recursivehistory unread;contextnotproofpremise.",
+      "Actual FullMain/ExactModelEndpoint andnerve detection selectedlocalB;85file4471decl indexnotbuild/human,intermediateproofsC.",
+      "Ten domain/three cross-family attempts,two potential problems/two unestablished gates,no newcandidate/initial/numericalrun."
+    ],
+    "F-085": [
+      "Whole9TeX3447+234Bib,21labelledresults/21typedcontracts;singlemanuscriptnaturaldecompositiondraft.",
+      "RealinhomogeneousW11R2/allrealcentereddiskradii/localoutput/globalEuclideangradient,notglobalMfL1;BVcorollaryoutsideformalendpoint.",
+      "Threeselectedprimaryscopes;17otherrootbodies/recursivehistoricalclosureincomplete.",
+      "Actual2registeredendpointsselectedlocalB/intermediateC;69file2725declarationstaticindex,nobuild/Comparator/human.",
+      "Ten-domain/threecrossfamilyattempts,twofutureconsumerproblems/twogates,no newcandidate/initial/numericalrun."
+    ],
+    "F-025": [
+      "Whole10TeX2413+249Bib/transitiveinputclosure19labelledresults22contracts;singlemanuscriptnaturaldraft.",
+      "Worstnumeratorlengthversusfinaldenominator/bitcost,exactmarkerMULTIPLE/differentcleanup,total1/differentpaddingseparated.",
+      "Threeprimaryselectedscopes/twokeypagesactualpixels;20otherrootbodies/recursivehistoryunread.",
+      "ActualtwoformalMain/9plus1registeredendpointsselectedlocalB;348file2161declstaticindexnotbuild/human,formalcompositeKmrouteDIFFERSnatural3primeKm.",
+      "Ten-domain/threecrossfamilyattempts/twopotentialconsumers/twogates,no newcandidate/initial/numericalrun."
+    ],
+    "F-273": [
+      "Whole9TeX2274including216inlinebibliography/17namedresults21contracts;one-manuscriptnaturaldraft.",
+      "Independentports/internalentanglement,natural-logentropy/referencephotonnumber/physicalenergyseparated;thermalattenuator/broadcastnaturalconsequencesC.",
+      "Threeprimaryselectedscopes;remainingrootbodies/recursivehistoryunread. OldqEPIweakerunequalentropy/equalentropyoldboundalreadysufficient/oldbroadcastcoherentencoder.",
+      "ActualComparatorregisteredsolutionEPnIselectedB/Basic/Inequalitywhole/ThermalLimit565-end;26file2097declstaticindexnotbuild/Comparator/human. Challengeintentionalsorrynotactualsolutionfailure,YAMLtitleomissionnotproofabsence.",
+      "AtWP078sourcepackage:ten-domain/threecrossfamilyattempts/conditionalfarAPP27301stillunrun. LaterWP080separatenearAPP27302actual36case252fault/zeroextraadverseandreplay;donotborrowrunforthefarcard."
+    ],
+    "F-231": [
+      "Whole7TeX1336+220Bib;14namedresults18sourcecontracts/2applicationgates;one-manuscriptnaturaldraft,notcompletefamily/history.",
+      "Threeprimaryselectedscopesof16externalroots;internalF236identifiedbutbodyunread.",
+      "Actualforest1/SRDPP6registeredendpoints/selected5naturalB9C;331file2724declarationstaticindexnotbuild/Comparator/fullproof/human.",
+      "Ten-domain/threecrossfamilyattempts/oneconditionalnearAPP23101,no newapplicationnumericalrun/initial."
+    ],
+    "F-332": [
+      "All648TeX+50Bib andREADME actuallyread;7natural namedresultsboundC;14typed interfaces",
+      "Three of five selected historical roots originals checked;Ball/Deza originals and recursive history missing",
+      "No matching selected formal scope found in inspected paths;no Lean/Comparator/build/human audit",
+      "Expectedmedian3 finite constructor;unconstrainedambient output mayleavesimplex;conditionalAPP33201 notrun"
+    ]
+  },
+  "withdrawal_notices_checked": [
+    "F-032"
+  ],
+  "warning": "Partial reading and component extraction do not count as complete family or complete lineage.",
+  "source_decomposition_drafts": [
+    "F-374",
+    "F-149",
+    "F-245",
+    "F-124",
+    "F-200",
+    "F-314",
+    "F-221",
+    "F-276",
+    "F-178",
+    "F-325",
+    "F-021",
+    "F-076",
+    "F-333",
+    "F-298",
+    "F-038",
+    "F-255",
+    "F-131",
+    "F-115",
+    "F-179",
+    "F-114",
+    "F-366",
+    "F-362",
+    "F-119",
+    "F-372",
+    "F-120",
+    "F-094",
+    "F-089",
+    "F-243",
+    "F-142",
+    "F-122",
+    "F-155",
+    "F-334",
+    "F-294",
+    "F-049",
+    "F-210",
+    "F-317",
+    "F-085",
+    "F-025",
+    "F-273",
+    "F-231",
+    "F-332"
+  ],
+  "updated_at": "2026-10-21T07:37:49.005144+00:00"
+}

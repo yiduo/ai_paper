@@ -1,0 +1,106 @@
+{
+  "recorded_at": "2026-10-21T01:36:09.923612+00:00",
+  "helper_gzip_bytes": 27189,
+  "helper_gzip_sha256": "3cd6f4d77980655a0c984d8f24ffe5227cd48d2191f89528d7996c7a6bcd7182",
+  "helper_uncompressed_sha256": "4a7d52bfa7631f2700683b889eb30b684064e47bff0c47c23b504b7f11444f18",
+  "helper_roundtrip": true,
+  "formal_index_gzip_bytes": 25187,
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-WP064/quality_f155.py",
+      "bytes": 2990,
+      "sha256": "d157023afdcaae0d1fae9e029c8a97d51d81d5f83a05236ad2657a01abb42324",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/curate_f155.py",
+      "bytes": 31419,
+      "sha256": "9576fc27ffd3785d6b309b9f862bf54268083624b1ee4597b99167ba61acb75b",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/core.log",
+      "bytes": 8529,
+      "sha256": "e4e55f9277736a812dcdb9ccf0e345bcde05d4f4f262e9e15bd3aa75e0c4633e",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/integrity.log",
+      "bytes": 857,
+      "sha256": "e23cf80fa8b7a56cc93b352fcdf5f8cc97f0e9ad3f2a0bfd2fc6b739146daa5a",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/finish_f122.py",
+      "bytes": 12584,
+      "sha256": "f579061f86d10abfd366e3890f9ebc28cb907e3269fb7e48d4ff1f31a2673cfc",
+      "retained_in": "reports/reproducibility/20261021-trace-reconstruction/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/integrity_f155.py",
+      "bytes": 4387,
+      "sha256": "e0646a1af1da8ba890c3bc189baf518398f2e99a77f0cc7b727295c2c564a530",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/archive_regression.py",
+      "bytes": 1303,
+      "sha256": "cf255eda9699f9ad6f829bb33b4e9a39ba7a74044e780917069706f68d77f860",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/quality.log",
+      "bytes": 83,
+      "sha256": "8c66008bb56d426d9aec7b938b477ff6f5ef74673f48fc074fd8701909809e9c",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/finish_f155.py",
+      "bytes": 11773,
+      "sha256": "e68e7499150da52a6996f6d3801fc0f98fe9ca97d53cc321b0f4c4b708c2a426",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/export.log",
+      "bytes": 542,
+      "sha256": "d18560ac1775e153b5daee3b6a6b81429bec885f656a2da37e6b08dc6664e27b",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/progress.json",
+      "bytes": 12084,
+      "sha256": "4352cbd41023e5b6ff2ddfda82ffdb80018b464f57bb08717707602b0f79f7b1",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/integrity_f122.py",
+      "bytes": 5469,
+      "sha256": "b79d73cf54a9e0ef5ea5267abfbc970670810393fb092051911b8ba6bc12de1f",
+      "retained_in": "reports/reproducibility/20261021-trace-reconstruction/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/curate_f122.py",
+      "bytes": 36191,
+      "sha256": "d0b57c4eef7dcca65770c32ea14d62db1f389764b118197ae5962fc606a61129",
+      "retained_in": "reports/reproducibility/20261021-trace-reconstruction/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/quality_f122.py",
+      "bytes": 3005,
+      "sha256": "f8be6dcf1d08beb35abb9189f213a8bb954147b2c4e8796eca5907a75d77df18",
+      "retained_in": "reports/reproducibility/20261021-trace-reconstruction/curation-helpers.json.gz"
+    },
+    {
+      "path": "/private/tmp/ai-paper-WP064/record_reading.py",
+      "bytes": 2987,
+      "sha256": "9ff036ab329bf2b8522ff060198735e64a713c9b939bc9741c0163ac7766e327",
+      "retained_in": "reports/reproducibility/20261021-tiling/curation-helpers.json.gz"
+    }
+  ],
+  "temporary_bytes_removed": 134203,
+  "temporary_directory_removed": true,
+  "external_raw_downloads": false,
+  "new_application_runs": false,
+  "no_installs": true,
+  "no_upstream_modifications": true
+}

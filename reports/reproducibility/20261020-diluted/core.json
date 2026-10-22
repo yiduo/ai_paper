@@ -1,0 +1,18 @@
+{
+  "recorded_at": "2026-10-20T13:43:23.638686+00:00",
+  "observed_tool_session": 19635,
+  "command": "python3 scripts/check.py",
+  "exit_code": 0,
+  "tests_passed": 25,
+  "graph_validation": {
+    "nodes": 1903,
+    "research_nodes": 541,
+    "edges": 4078,
+    "citations_checked": 788
+  },
+  "report": "passed; original version locators subsequently resolved and full validation/report rerun",
+  "new_parser_regression": "Cleveref label[lemma]/label[proposition] recognized;new source14->26 named results;all seven existing family-analysis counts unchanged",
+  "numerical_runs_repeated": false,
+  "Lean_build": false,
+  "remote_CI": false
+}

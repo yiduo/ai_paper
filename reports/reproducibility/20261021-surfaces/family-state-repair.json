@@ -1,0 +1,22 @@
+{
+  "current_source": "data/graph/nodes.jsonl",
+  "history": [
+    {
+      "id": "ANALYSIS-F-325",
+      "old_version": 1,
+      "new_version": 2,
+      "path": "data/graph/history/ANALYSIS-F-325-v1.json.gz",
+      "gzip_bytes": 4749,
+      "uncompressed_sha256_verified": true
+    },
+    {
+      "id": "ANALYSIS-F-076",
+      "old_version": 1,
+      "new_version": 2,
+      "path": "data/graph/history/ANALYSIS-F-076-v1.json.gz",
+      "gzip_bytes": 9924,
+      "uncompressed_sha256_verified": true
+    }
+  ],
+  "repair_scope": "Two contradicted no-experiment gaps replaced byactualalreadyarchived observations;mathematicalclaims/grades andnumericaloutputs unchanged."
+}

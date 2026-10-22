@@ -1,0 +1,28 @@
+{
+  "registered_at": "2026-10-21T05:29:59.890829+00:00",
+  "spec_path": "experiments/specs/EXP-273-001.json",
+  "spec_sha256": "7e6391bacf77325ef7a75dfc9858822032e5e26ce9ed2262dbe9e1ea0bedc82c",
+  "outputs_existed_at_registration": false,
+  "implementation_existed_at_registration": false,
+  "actual_fixture_count": 9,
+  "fixed_case_count": 36,
+  "status": "registered_before_implementation_and_outputs",
+  "old_primary_selected": [
+    {
+      "url": "https://arxiv.org/pdf/1605.00441v2",
+      "scope": "PDFp2 theorem1/II8 and vacuum channel semantics,render130-215"
+    },
+    {
+      "url": "https://arxiv.org/pdf/1705.00499v1",
+      "scope": "Theorem11 input diagonal in some product basis,PDFpp10-11 selected; not all internal entanglement"
+    },
+    {
+      "url": "https://arxiv.org/html/1805.12469v3",
+      "scope": "sectionII thermal environment definition,Theorem6 eq33; selected,not full proof"
+    },
+    {
+      "url": "https://arxiv.org/html/1402.0404v2",
+      "scope": "Eqs3-5 independent ports arbitrary eta/exponential qEPI; no within-port product restriction"
+    }
+  ]
+}

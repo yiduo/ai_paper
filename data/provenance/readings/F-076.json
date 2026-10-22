@@ -1,0 +1,391 @@
+{
+  "family": "F-076",
+  "status": "complete_natural_source_draft_only",
+  "read_files": {
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/concentration.tex": {
+      "lines": 122,
+      "sha256": "cfffc0c01c59a5915b267ec38b2e5f0d1d9814fdd6540e2b2076f8c17119c211"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/packing.tex": {
+      "lines": 321,
+      "sha256": "7356f016bed43fd1b69abb93ef818b41eb1a7ca833a2d2f085fe99c3ea3d8a23"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/spreading.tex": {
+      "lines": 398,
+      "sha256": "2ad28125c2622ffb3f073fcd449eab3317a6b7113c56641602279cd663a069c1"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/main.tex": {
+      "lines": 56,
+      "sha256": "ee1b51d788cdb987e6284bf5dce41fe7d2ca84134625ec117ddd8abc1b35ba72"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/sampling.tex": {
+      "lines": 288,
+      "sha256": "3f5b9bb501062988c7bced042be72e16b3a765f7bdc0798fcc772725c87828c7"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/rounding.tex": {
+      "lines": 213,
+      "sha256": "60125392d3a219da43d3d6f606dc87df740892e2d14b6a9ab1b578b4bc4ccb68"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/flatness.tex": {
+      "lines": 28,
+      "sha256": "43c40c30c4cf9296d3ff883bf8d88e4b4d5890bf476770cac2426675e458684f"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/merit-morse.tex": {
+      "lines": 109,
+      "sha256": "351eea7fe8a21904f082748ab62366aa90560cfff8c09f270cca61d06c95d005"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/introduction.tex": {
+      "lines": 162,
+      "sha256": "7efbdbff0d7905b6e16575b250498af703238016614523281d511b335d17becb"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/reduction.tex": {
+      "lines": 60,
+      "sha256": "5dce69c95814faf844637af22022458f93885560afa721995297b9db66ad9dc1"
+    },
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/refs.bib": {
+      "lines": 235,
+      "sha256": "872759ed8c475c0d11d74ca61c3616ec1f5357fc80acbd9784afd65b78fca885"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/refs.bib": {
+      "lines": 166,
+      "sha256": "25c1f13e349cc532370c746409e4660676c6a971fb210224784fd23bb47c91b7"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/main.tex": {
+      "lines": 52,
+      "sha256": "609feb8667b9bf582b9281e5c9908faf34a5046d51ac7331b3adc0627910a3d2"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/packing.tex": {
+      "lines": 307,
+      "sha256": "69d78c57e6a672139e4e05902561c35bb8d425e3523d9be2ac24bd6404679e62"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/spreading.tex": {
+      "lines": 408,
+      "sha256": "5da53f38a3ec944077497e0a9bcb5f19fe8d320da6a4a9f2de96158c0eb0810e"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/sampling.tex": {
+      "lines": 334,
+      "sha256": "b8f69a9c046c5ef305dfcd8873799611d9dd224820da4d094518b509ea0c0d64"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/rounding.tex": {
+      "lines": 236,
+      "sha256": "83f1608f860f1b46899107ce061b6bf32832e82ace3b4952f1605241d7b46e7a"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/introduction.tex": {
+      "lines": 146,
+      "sha256": "b52708d20f2cdbc9121179f7c991c024d8118db9ea37b4dcf7c7e7a32632d0e8"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/correction.tex": {
+      "lines": 407,
+      "sha256": "2a35128068539273249eece3f65f5259f5f89d77c8a153a67640d414361ecf33"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/completion.tex": {
+      "lines": 85,
+      "sha256": "80b82f4aba65a2ed40bfd27b0bfae17cf2463840b2ecb86fd9bcf2eb5ed669e2"
+    },
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/figures/gap-slots.tex": {
+      "lines": 97,
+      "sha256": "aa3055aad31ea319c3e8ef84f15f8a67cc8009d44d1f6cf0c22e29e437059037"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/references.bib": {
+      "lines": 185,
+      "sha256": "578582262d564d33506553f04d9f2690434ad271bc78f07a5db7e4e4c1cf41d5"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/main.tex": {
+      "lines": 55,
+      "sha256": "f20985877651ff4fcb7fe65ce8a1ee73dbd8b448239902904a417dcbc33e204d"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/balanced.tex": {
+      "lines": 255,
+      "sha256": "d6418b14130cfa49ea9582af4a326e956a212fe3dfddf12f143d2878caf156a1"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/rounding.tex": {
+      "lines": 115,
+      "sha256": "a499024a293a881263155542d2a169a3ba22763b33dc3af6e10fec7476fdd0e8"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/introduction.tex": {
+      "lines": 137,
+      "sha256": "3e9037b7f36d58c208cf41833027a004d8fb49b946a1148e7190e89fd4d06208"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/completion.tex": {
+      "lines": 73,
+      "sha256": "93624aaab3bd11fc4d8c674e1a107366bc377add5b1416e42a9b4086935f63f4"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/waves.tex": {
+      "lines": 392,
+      "sha256": "2cb0d92acd3ed1f395bff5f76e58c84eab14090af5227fb2029c3266188c802d"
+    },
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/oscillation.tex": {
+      "lines": 103,
+      "sha256": "db43d13df7a0d16d4156865b8bf1c806130083bc6fec686f9bfab0b5682ca3f4"
+    }
+  },
+  "result_index_only": {
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/concentration.tex": [],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/packing.tex": [
+      {
+        "label": "lem:signed-packing",
+        "kind": "lemma"
+      },
+      {
+        "label": "thm:packing-edge-coloring",
+        "kind": "theorem"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/spreading.tex": [
+      {
+        "label": "prop:auxiliary",
+        "kind": "proposition"
+      },
+      {
+        "label": "lem:quadratic",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/main.tex": [],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/sampling.tex": [
+      {
+        "label": "lem:sampling-poisson",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/rounding.tex": [
+      {
+        "label": "lem:rounding-matrix",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/flatness.tex": [
+      {
+        "label": "cor:finite-flatness",
+        "kind": "corollary"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/merit-morse.tex": [
+      {
+        "label": "cor:merit",
+        "kind": "corollary"
+      },
+      {
+        "label": "cor:morse",
+        "kind": "corollary"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/introduction.tex": [
+      {
+        "label": "thm:main",
+        "kind": "theorem"
+      }
+    ],
+    "math/preprints/Asymptotically-minimal-maxima-of-real-Littlewood-polynomials-September-23-2026/build/reduction.tex": [
+      {
+        "label": "prop:almost-signs",
+        "kind": "proposition"
+      },
+      {
+        "label": "lem:rounding",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/main.tex": [],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/packing.tex": [
+      {
+        "label": "lem:signed-packing",
+        "kind": "lemma"
+      },
+      {
+        "label": "thm:packing-edge-coloring",
+        "kind": "theorem"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/spreading.tex": [
+      {
+        "label": "prop:auxiliary",
+        "kind": "proposition"
+      },
+      {
+        "label": "lem:quadratic",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/sampling.tex": [
+      {
+        "label": "prop:starting",
+        "kind": "proposition"
+      },
+      {
+        "label": "lem:sampling-poisson",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/rounding.tex": [
+      {
+        "label": "lem:rounding",
+        "kind": "lemma"
+      },
+      {
+        "label": "lem:rounding-matrix",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/introduction.tex": [
+      {
+        "label": "thm:main",
+        "kind": "theorem"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/correction.tex": [
+      {
+        "label": "prop:correction",
+        "kind": "proposition"
+      }
+    ],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/sections/completion.tex": [],
+    "math/preprints/Nearly-minimal-maxima-and-positive-minima-of-Littlewood-polynomials-October-5-2026/build/figures/gap-slots.tex": [],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/main.tex": [],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/balanced.tex": [
+      {
+        "label": "prop:balanced",
+        "kind": "proposition"
+      },
+      {
+        "label": "lem:equal-modulus-spreading",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/rounding.tex": [
+      {
+        "label": "lem:matrix-discrepancy",
+        "kind": "lemma"
+      },
+      {
+        "label": "lem:complex-rounding",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/introduction.tex": [
+      {
+        "label": "thm:main",
+        "kind": "theorem"
+      }
+    ],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/completion.tex": [],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/waves.tex": [
+      {
+        "label": "prop:waves",
+        "kind": "proposition"
+      },
+      {
+        "label": "lem:signed-packing",
+        "kind": "lemma"
+      }
+    ],
+    "math/preprints/Ultraflat-real-Littlewood-polynomials-October-5-2026/build/sections/oscillation.tex": [
+      {
+        "label": "lem:quadratic",
+        "kind": "lemma"
+      },
+      {
+        "label": "lem:stationary-phase",
+        "kind": "lemma"
+      },
+      {
+        "label": "lem:oscillatory-bounds",
+        "kind": "lemma"
+      }
+    ]
+  },
+  "read_notes": [
+    "S main:every sufficiently largeintegerN,min normalizedsup mN->1,real+-1consecutivecoeffs. No uniformlowerboundorultraflatness,noeffectiveN0 orsigningalgorithm. Coefficientclassrealversuscomplexunimodularessential.",
+    "S reduced almostsign:deltafixedfirst,Kdelta=sqrt((1+delta)^3/(1-delta));energy>=1-7delta;mu=.5sum(1-|X|)<=4deltaN eventually;roundingabsoluteC(1+sqrt(mu log(80N/mu))),zero defect exact;limitNbefore deltalimit.",
+    "S packing:pairwisenonparallel integerforms,notjointindependence;2sumwi<1 producesfiniteH,pointsandallclosed signedintervalsdisjoint. Finitefieldrank/pairranksminusfinitelymanyprimes;simplehypergraphedgesquotientbyq^(m-b);independentchunksconditionalvertexmoments,exceptionalrelationsO(sqrtq);atypicalverticesdelete,codegreelosscontrolled;PSedgecolor ->large matching. AllfixedbeforeN,noNdivisibility.",
+    "S spreading:realtrigrecursion p_j=p+(1-p²)/2 cos(newvar),mean0,energyincrement>=1/8(1-M)². Lastnonzerofrequency+-1 impliespairnonparallelup tosign. Tune productscurvaturesb_j nearhyperplanes to |c_s|²/rho_s;allcurvaturesnonzero fixed. Spreadnewvariablesquadraticwithcompactcutoffs,uniformstationaryphaseboundandseparate summableoffboxIBPtail. Containingsupportallowszerocoeffs;sumALLsignedwidths<1,coefficient²/width<=Kdelta².",
+    "S sampling:real XNk=sumchi_h(k/N)F(k theta_h+N/2 v(k/N-xh)²),blocksupportsdisjoint. Poissonidentityfactor sqrtN;infiniteoffstationaryindiceshandledIBPbeforefinitequadraticerrors;onepossibleleadingtermatanyanglebecausepackedclosedintervalsdisjoint. Energyoffdiagonalrepeatedcurvaturecase usesdistinctcentermod1/geometricpartialsums,notassumedallcurvaturesdifferent.",
+    "S rounding:LM arbitraryrealvectors,eta->0 compactnessexacthalf signs;iteratematrixdiscrepancyC0sqrt(slog(2R/s)),s<=R. Dyadicp=(1-|X|)/2,global signreversal keepsmassnonincreasing;activecount<=min(N,2^j mu). M20N FouriergridofERRORpolynomialonly,R40N;Cauchyderivative bound yields S<=G/(1-pi e/20). Constantnotoptimized,nosigningruntime.",
+    "S consequences:samefamilyminimizersforALLfixedfinitep>0 modulusflatness,notuniformlower. AperiodicC_u=sum_j a_j a_(j+u),F=N²/(2sumC²);C_(N-1)=+-1 ensuresdenompositive;L4^4=N²+2sumC²;F>=1/(mN²-1)alllengthdivergence,rateunknown. Morsebinaryproduct,uniqueergodicity/simplefullKoopman fromDLforwardconstruction;onlyzero-coordinatecyclicsubspacehasAC L2density,notfullLebesguemeanzero claimed. Internal3torusreferenceotherfamily.",
+    "S contraryclaimsappendixnotpartmainproof:nonflatpapersclaimopposite;quantifierinf_over_E sup_I concentration c_alpha versusfixedE;neighborhoodzeroDirichletB_alpha(E)=1 foralpha>1. Dominantweightedcoeffa_j=2^(j²) satisfiesweightedhypothesisK2anduniformflatmodulus;notreal-signexample. SignedmodulusidentitycounterexampleP1+z,z1,zprimei. Originalcontrarypapersnotyetchecked,donotdeclaretheirauthorswrongonupstreamassertionalone.",
+    "L main:forall eta>0 allintegerN>=N0 existsSAMErealsignpolynomial withminimum>=sqrtN/16 andmax<=(1+eta)sqrtN including+-1. Combineseparateexistencetheoremsinsufficient;signedpacking/spreading/roundingreproducedfully,not merelycitationread.",
+    "L structuredstart:B smoothnonnegativeeven,vanishesnear0/half;B_NHermitian,|BN|B,UYN-BN=O_delta(N^-1),B²mass>=1-7delta,YNenergy>=1-8delta. Monotonebumps+positiveplateau ensurefinitepositiveintervalsuperlevel>=b1/8 includingequalheight;half-circlebadgapsL<=10delta;localphasealpha+Npsi quadratic,psi prime in(0,1)attransitions.",
+    "L correction:amplitudeA1/2ongaps;leadingpiecewisequadraticphaseC1,derivativeslotsD_j disjointin(.25,.75),lengthlj/4L,outerinversesqrtslopessum<=sqrt_delta,middlecurvature>=1/4L. Fixedleadingderivativeuniforminside(0,1);boundedaffinegamma_N endpointcongruences. Taperw=N^-3/4 ->Nw²->0 and1/Nw->0;phasealignmentkeepslowerb-o1,upperKdelta;realFouriercoeffsqrtNboundD sqrtδ absoluteD;outside[0,N-1]l1tailO_delta(N^-1/4). FirstIBPboundarycancelsfullcircleincl0/halfusingcontinuity+leadingderivative,secondIBPneednotcancel.",
+    "L completion:X=(YN+sqrtN Rhat)/(1+D sqrtδ);defect/N<=4δ+2D sqrtδ;fixδsmallforroundlossandb/Sstrictly>1/16thenNlarge. UnknownN0/constantsnotfinitealgorithm.",
+    "U main:forallepsilon(0,1),alllargeintegerNexistsindependentwordatEACHlength with(1-eps)sqrtN<=|P|<=(1+eps)sqrtNwholecircleinclrealendpoints. Notnestedpartialsumsofonefixedseries. StrongerthansourceSfiniteLp/Lfixedlower;noformalcoveragein076scopeassumed.",
+    "U oscillation:uniformquadraticviaGaussianregularization;uniformstationaryphasecompactamplitudes,fixedsmoothphi curvatureboundedawayzero,uniqueinversegrad;endpointBVfirst/secondderivbounds. ConstantdependenciesfixedbeforeN.",
+    "U complexrounding:phasesd_jfixed(|dj|1,d=1at0),outputs+-dj,dyadicmasscontrolasrealcase;shiftedCONSECUTIVEfrequenciespermitmonomial,notarbitrarygaps. Realinputs->realsigns;inheritsLmatrixdiscrepancy.",
+    "U equalmodulusspread:finitebetalistnegationstable,chooseqsmallthencommoncompactcutoffg withL2>=1-q,thenlargeT. Quadraticcoeff boundandseparateIBPtail;normalizeby1+q,defect<=2q*Lbeta thenprescribedphaserounding givesALLretainedcoefficientmagnitudesLbeta^-1/2;conjugatepairpolynomialschosenjointly. AuxiliaryrealF builtfromp_d recursions/productcurvaturetuningandtheseequalfactors;allindicatedcoeffnonzerofullboxes;sumweightsbetween(1-delta)^3/(1+delta)^3 and1/(1+delta),coefficientratio²between1+delta and(1+delta)^3/(1-delta)^2. FixallbeforeN.",
+    "U waves:packcenternegativea theta withwidthwa/H,avoids0/half;Fourierx intervalsJ_h disjointinsideblocks. InversecurvaturemapT=tstar-lambda Qprime,Qsecond=chi²,sigma<=chi<=1. Constantwaveamplitude|ca|/sqrtwa near1,curvature=-1/(lambda chi²). SuppressENDPOINTFOURIERcontributionsbySMALLchi/highcurvature,notvanishingmodulus. Mainstationaryphasecancelssignphase8,coherentsumG_h chi_h F(k theta_h+Nv Q_h),notl1sumcoeffs. sigmachosenbeforesmoothcutoffssoC sum|c|sigma<=delta.",
+    "U gapjoin:nearlyfullmaincoverage1-Oδ leavesgapsOδ. Piecewisederivativeslots,summedoutersmall,middle1/4L,affinegamma_Nmatchesendpointvaluesmod1 andleadingderivmatches;moduluslinearlyinterpolatesin[1,1+Cδ],exactvalue1at0/half. FirstIBPboundarycancelsthroughalljoins evenifFULLBderivativejumps;secondIBPincludesVdoubleprimeonmainnonquadraticwaves. Exteriorcoeff<=Cdata(N+|k|)^-2 ->l1tailKδ/N,notmerelypointwiseo1.",
+    "U completion:projectrealFouriercoeff0..N-1scaledbySδ=1+C1sqrtδ;ParsevalandBmod>=1forceenergy>=Sδ^-2-o1,defect/N<=.5(1-Sδ^-2)+δ=qδ->0. RoundinguniformlossC(N^-1/2+sqrt(qδlog80/qδ)),two-sidednormalizedbound->1. FixδtheneveryNlarge;notcomputedsignsorusableN0."
+  ],
+  "selected_original_scopes": {
+    "AlonYuster2005": {
+      "url": "https://web.math.princeton.edu/~nalon/PDFS/ayhyper2.pdf",
+      "locator": "AuthorPDFprintedp3,Lemma2.1",
+      "scope": "QuantifiedPippenger-Spenceredgecoloring:fixedr/gamma,somebeta,nearregularalldegrees/smallallcodegrees ->q(S)<=(1+gamma)t. AuthorproofisattributiontoPS;originalPSproofnotread."
+    },
+    "LovettMeka2015": {
+      "url": "https://arxiv.org/html/1203.5747v2",
+      "locator": "OriginalarXiv1203.5747v2,11Oct2012;Theorem4",
+      "scope": "Arbitraryrealvectors,startpointinthecube,thresholdsumexp(-cj²/16)<=n/16;randomizedapproximatepartialcoloringwithprob>=.1,runtimeO((m+n)^3 delta^-2 log(nm/delta)). Sourceusescompactnesslimitexistence;notimplementedLMalgorithmorfullsigningruntime."
+    },
+    "Balister2019": {
+      "url": "https://arxiv.org/html/1909.08777v1",
+      "locator": "OriginalarXiv1909.08777v1;Theorem1",
+      "scope": "Rudin-Shapiroinitialsegmentslengthn havewholecirclesup<=sqrt(6n-2)-1. Thisisoldexplicitupperbaseline,notpositiveflatnessfloororgeneralbestpossibleasymptotic."
+    },
+    "BalisterEtAl2020": {
+      "url": "https://annals.math.princeton.edu/wp-content/uploads/annals-v192-n3-p06-s.pdf",
+      "locator": "PublishedAnnals192(2020),printedpp977-980;Theorems1.1/2.1andstrategy",
+      "scope": "Oldreal-signflatnesshasfixedpositiveupper/lowerconstantsatallDEGREESn>=2(lengthn+1);explicitcenteredTheorem2.1constants2^-160and2^12. Not1+eta/asymptoticultraflat. Sinecorrection/discrepancyalreadyhistorical."
+    },
+    "ErdelyiSections2026": {
+      "url": "https://people.tamu.edu/~terdelyi/papers-online/uf25R1.pdf",
+      "locator": "Authorversionuf25R1,printedp3,Theorem2.1",
+      "scope": "FullpartialsumsequenceofONEfixedinfinitecomplexunimodularcoefficientsequencecannotbeultraflat. Independentlychoosinganewwordateachlengthnotexcluded. Nopaperwideproofaudit."
+    },
+    "JedwabKatzSchmidt2013": {
+      "url": "https://arxiv.org/html/1205.0260v2",
+      "locator": "OriginalarXiv1205.0260v2;Introduction,Corollaries3.1/3.2",
+      "scope": "L4/aperiodicautocorrelationidentityandcommunicationsmotivation;modified/extendedLegendrepolynomials haveoptimizedlimitingfourthmomentc<22/19withspecifiedR,T. Explicitoldfamilynotanallbinarywordupperbound. Noactualbenchmarkgeneratedhere."
+    },
+    "DownarowiczLacroix1998": {
+      "url": "https://lacroix.univ-tln.fr/Publis_files/Merit-Morse.pdf",
+      "locator": "Authormanuscript,printedp9,Theorem2andforwardproof",
+      "scope": "ArbitrarilylargemeritiffbinaryMorseflowcoordinate spectralFouriercoeffinell²;forwardconstructionhasuniquergodicity,fullKoopmansimplicityandnon-purelysingularspectrum. DoesnotidentifyfullmeanszerospectrumasLebesgue."
+    },
+    "ElAbdalaoui2025": {
+      "url": "https://arxiv.org/html/2504.21499v1",
+      "locator": "OriginalarXiv2504.21499v1;Theorem1,Eq27andconcludinguseofLemma5",
+      "scope": "ActualnonflatnessclaimconflictswithF076finite-pclaim. FinalinferenceusesnearzeroE concentrationtending1andaconcentrationconstantcap. Readselectedscopeonly;F076appendixarguesquantifiererror. Disputeneedsindependentmathreview,notdeclaredpaperwideD."
+    },
+    "ElAbdalaoui2025Generalization": {
+      "url": "https://arxiv.org/html/2509.04212v1",
+      "locator": "OriginalarXiv2509.04212v1;Theorem1andCorollary3proof",
+      "scope": "Printedweightedcriterionuses sum a²<=K/n² sumj²a²;Corollary3printssigned-modulusidentity. F076appendixsuppliesdominantweightedcoefficientcounterexampleand1+zidentityexample. Retainexplicitdispute,notgeneralpaperorreal-signtheoremvalidation."
+    },
+    "BonamiRevesz2008": {
+      "url": "https://arxiv.org/html/0707.3023v2",
+      "locator": "OriginalarXiv0707.3023v2;Definitions1-2andProposition9/followingremark",
+      "scope": "UniformconcentrationlevelguaranteesforallnonemptysymmetricopenEexistsidempotent;itdiffersfromfixed-neighborhood concentrationat0. OriginalremarkstatesDirichletkernelfullconcentrationat0forp>1. Thisindependentlysupportsquantifierdistinction,notF076mainproof."
+    }
+  },
+  "formal_read_paths": [
+    "math/lean/docs/076.md",
+    "math/lean/ComparatorChallenges/AsymptoticallyMinimalLittlewood.lean",
+    "math/lean/ComparatorChallenges/LittlewoodFiniteFlatness.lean",
+    "math/lean/ComparatorChallenges/AsymptoticallyMinimalLittlewood.json",
+    "math/lean/ComparatorChallenges/LittlewoodFiniteFlatness.json",
+    "math/lean/OAI/Analysis/Littlewood/Model.lean",
+    "math/lean/OAI/Analysis/Littlewood/FlatnessModel.lean",
+    "math/lean/OAI/Analysis/Littlewood/Main.lean",
+    "math/lean/OAI/Analysis/Littlewood/FiniteFlatness.lean",
+    "math/lean/OAI/Analysis/Littlewood/MinimizingFamily.lean"
+  ],
+  "formal_partial_source_range": {
+    "math/lean/OAI/Analysis/Littlewood/MinimizingFamily.lean": "Lines1-150read,includingchoice/energy/normalization;remainderindexedonly"
+  },
+  "model": "CurrentselectedOpenAIsession;exactbackendunknown",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "created_at": "2026-10-20T15:41:09.467761+00:00",
+  "retrieval_failures": [
+    "arxiv1907.09464v3HTML404;recoveredpublishedAnnalsPDF,notarxivv3claim"
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "generation_id": "GEN-20261021-031",
+  "recorded_at": "2026-10-20T18:03:53.222565+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "software_revision": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+  "software_tag": "networkx-3.7",
+  "tag_object": "c7845e90bc0c5b9f470b9a3695256bdbf3b38bd6",
+  "tag_date": "2026-09-21T16:44:02Z",
+  "tag_commit_resolution": "Official GitHub ref then annotated tag object; raw metadata not retained to avoid unnecessary personal contact fields.",
+  "sources": {
+    "networkx/algorithms/smallworld.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/smallworld.py",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "0c1ae690013535e18916e158973f057f4915eb0eb3266f46af2e91bb743fb8bb",
+      "read_scope": "Selected random_reference lines24-123, sigma decorators/function242-310 and omega315-400 read; lattice_reference body not fully read.",
+      "bytes": 13449
+    },
+    "networkx/algorithms/swap.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/swap.py",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "35564c9a59e4771830c0dc39183adcf3068d11171d0aee76c9d1dc05d380fe1c",
+      "read_scope": "Selected double_edge_swap decorators/function134-231 and connected_double_edge_swap235-421 read; directed swap not reviewed.",
+      "bytes": 14744
+    },
+    "networkx/utils/random_sequence.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/utils/random_sequence.py",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "924dc5f3fe5c6b3a2521e48bfde0dd673435e5a0776f99476b379ff6433534dc",
+      "read_scope": "cumulative_distribution/discrete_sequence130-171 read; floating CDF and seed.random selected; no ideal unbiased-bit claim.",
+      "bytes": 5303
+    },
+    "networkx/generators/social.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/generators/social.py",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "6ebcc049ca40c5619113113d27b16e889dbd419c419bc6d7a518027342281cfd",
+      "read_scope": "florentine_families_graph256-289 fully read,20 literal unweighted edges; other graph constructors not reviewed.",
+      "bytes": 23416
+    },
+    "networkx/algorithms/shortest_paths/generic.py": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/networkx/algorithms/shortest_paths/generic.py",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "856bbb664aa700d7e0366423ce803da6252659a8c3563075809c00572b5f9919",
+      "read_scope": "average_shortest_path_length325-438 fully read; explicit disconnected-graph exception417-418.",
+      "bytes": 25855
+    },
+    "LICENSE.txt": {
+      "url": "https://raw.githubusercontent.com/networkx/networkx/49ca2290b80c1389eb4d8d8e49dcba73f8fec016/LICENSE.txt",
+      "commit": "49ca2290b80c1389eb4d8d8e49dcba73f8fec016",
+      "sha256": "6025f323ea29dc2f0ee0abd9523bf910186f55b0e148e6ebf646c55566278e2e",
+      "read_scope": "Entire BSD3Clause license read and retained verbatim with source archive.",
+      "bytes": 1763
+    }
+  },
+  "source_archive": "data/provenance/demand/networkx-3.7-49ca2290.json.gz",
+  "source_archive_sha256": "d06a97ce15a14207e0c6f78e690f4b075bb30a1f31c8ea508e86f8a8130c45b3",
+  "source_archive_decompressed_sha256": "42968fd1d18afee48498d17a931718a713fd7d49af53c9f007849be67d846fb0",
+  "static_input_review": "data/provenance/demand/F-131-networkx-input-review.json.gz",
+  "static_input_review_sha256": "260f5692d99bb509bfdd1e6773f47a817243ede82717abc35a9f960d9c80861d",
+  "inspection_protocol": "data/provenance/demand/F-131-networkx-inspection-protocol.json",
+  "inspection_script": "scripts/inspect_networkx_f131_input.py",
+  "inspection_script_sha256": "6bb94fb01328d5f059175366b15851a64206a3f0dd831a5f8795934814ed4eac",
+  "source_retrieval_failures": [
+    "One raw swap.py TLS SSL_ERROR_SYSCALL; same pinned source recovered through official GitHub contents API and returned Git blob SHA1 verified.",
+    "Version3.7 documentation/detail/GitHub browser fetches cache-missed; use pinned raw byte sources,not stale search snippets as current implementation."
+  ],
+  "actual_input": {
+    "name": "NetworkX Florentine historical social graph",
+    "n": 15,
+    "m": 20,
+    "source_function": "florentine_families_graph",
+    "input_type": "Literal historical unweighted undirected public graph,not a synthetic generator",
+    "representativeness": "Small inspectable historical example,not a validated production/ecology benchmark; original1986 historical data paper not read.",
+    "retained_with_license": true
+  },
+  "static_witness": {
+    "added_edges": [
+      [
+        "Acciaiuoli",
+        "Lamberteschi"
+      ],
+      [
+        "Guadagni",
+        "Medici"
+      ]
+    ],
+    "four_distinct_vertices": true,
+    "invalid_for_connected_only_target": true,
+    "removed_edges": [
+      [
+        "Acciaiuoli",
+        "Medici"
+      ],
+      [
+        "Guadagni",
+        "Lamberteschi"
+      ]
+    ],
+    "result_components": [
+      [
+        "Acciaiuoli",
+        "Lamberteschi"
+      ],
+      [
+        "Albizzi",
+        "Barbadori",
+        "Bischeri",
+        "Castellani",
+        "Ginori",
+        "Guadagni",
+        "Medici",
+        "Pazzi",
+        "Peruzzi",
+        "Ridolfi",
+        "Salviati",
+        "Strozzi",
+        "Tornabuoni"
+      ]
+    ],
+    "same_labelled_degree_vector": true,
+    "valid_in_F131_full_state_space": true
+  },
+  "formula_evaluations": {
+    "F131_inverse_gap_bound_24n2choose4": 7371000,
+    "F131_universal_quarter_TV_upper_steps_2n8": 5125781250,
+    "networkx_random_reference_counted_retry_limit_per_outer_round": 2,
+    "networkx_random_reference_outer_rounds_niter_1": 20,
+    "networkx_sigma_default_outer_rounds_per_reference": 2000,
+    "source_encoding_B_choose_n2": 105,
+    "warning": "Different step units; these integers are not runtime observations, tight lower bounds, or a speed ratio"
+  },
+  "actual_tool_findings": [
+    "random_reference defaults connectivityTrue, copiesG,selects degree-weighted source vertices then uniform neighbors. Each outer round retries to success or a counted failure limit; same-source/shared-vertex continues do not consume that count. niter is multiplied by edge count,not F131 raw4vertex proposal steps.",
+    "Turning connectivityFalse removes one filter but does not change proposal normalization,early repeats or success-based outer-loop stopping; no automatic transfer.",
+    "double_edge_swap mutatesG,stops at nswap successful swaps,can raise at max_tries; same-source/shared-target continues do not increment its counted-try variable. A half-hold appears only as a code comment,not an executed source-kernel step.",
+    "connected_double_edge_swap requires connected initialG,uses adaptive window connectivity checks and rollback,returns successful swaps after counted attempts. Different restricted process,not the configured F131 fixed-step chain.",
+    "sigma calls random_reference with default connectivityTrue and computes transitivity and average shortest path lengths. omega likewise relies on random/lattice references and path lengths. The selected shortest-path routine rejects disconnected undirected inputs.",
+    "A valid switch on actual15nodeinput removes Acciaiuoli-Medici and Guadagni-Lamberteschi,adds Acciaiuoli-Lamberteschi and Medici-Guadagni. All labelled degrees retained;two components result. Thus F131fullspaceincludesstatesexcludedbyconnected target.",
+    "For n15,the general2n8 quarter-TV upper bound is5125781250sourceproposalsteps. This is an upperbound formula,not a lower bound or measuredruntime. NetworkXsigma default2000outerrounds use a different unit,so their ratio is not a speed comparison."
+  ],
+  "old_methods_suffice_null": "Existing connected randomization and small-world metrics already implement a usable computational objective; new all-degree mixing theorem has not been shown to certify or accelerate that different process. Old P-stable/degree-conditioned results and existing Curveball remain separate comparators,not replaced by a weak factor or API label.",
+  "new_candidate_ids": [],
+  "new_numerical_run": null,
+  "executed_application_check": false,
+  "static_inspection_only": true,
+  "decision": "Retain APP13101 conditional,version with concrete tool mismatches and actual input. No direct replacement of connected small-world pipeline; no full-law test,long chain or exponential exact-sampler branch justified. Move next resources to uncompleted family source coverage after global retrospective013.",
+  "storage": "Source/license gzip17801bytes plus compressed static input review; no NetworkX install,repository clone or plaintext numerical output. Task-owned temporary downloads removed after archive/member hashes verified."
+}

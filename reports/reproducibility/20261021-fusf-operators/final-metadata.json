@@ -1,0 +1,50 @@
+{
+  "recorded_at": "2026-10-21T07:12:37.800243+00:00",
+  "work_package": "WP-083",
+  "generation_id": "GEN-20261021-079",
+  "goal_status": "active_incomplete",
+  "previous_goal_turn": "productive_progress",
+  "local_quality_passed": true,
+  "packages_since_retrospective": 1,
+  "latest_retrospective": "029",
+  "next_package": "WP-084 F332lowcoverage functional analysis",
+  "retrospective_trigger_assessment": "Two localized historical-version formula issues checked before any implementation;no upstream withdrawal,affected archived experiment or key counterexample to new F231. Normalcounter1;major actual dependency error would trigger immediate retro.",
+  "new_candidate": false,
+  "new_initial_check": false,
+  "new_application_run": false,
+  "remote_push_or_publication": false,
+  "storage": {
+    "recorded_at": "2026-10-21T07:12:37.800243+00:00",
+    "helper_gzip_bytes": 22752,
+    "helper_uncompressed_bytes": 66097,
+    "helper_members": 11,
+    "all_member_roundtrips_and_hashes_verified": true,
+    "temporary_bytes_removed": 6605357,
+    "external_primary_text_and_rendering_bytes_removed": 6541435,
+    "external_original_hashes_saved": "retrieval-and-reading.json;acquisition observations,not retained original bytes",
+    "temporary_directory_removed": true,
+    "new_numerical_data": false,
+    "old_numerical_archives_verified": 14,
+    "dependencies_installed": false
+  },
+  "current_history_ledger": "data/provenance/history/F-231-operator-interfaces-v2.json",
+  "own_locator_correction": {
+    "initial_ledger_retained": true,
+    "exact_intermediate_node_versions": 17,
+    "math_grade_prediction_counts_unchanged": true,
+    "core_report_audit_export_source_nav_clean_rechecked": true,
+    "receipt": "locator-correction.json"
+  },
+  "post_document_update_verification": {
+    "recorded_at": "2026-10-21T07:19:02.334506+00:00",
+    "local_canonical_hash_annotations_verified": 5122,
+    "compressed_helper_members_verified": 21,
+    "checkpoint_backlog_consistent": true,
+    "git_diff_check_passed": true,
+    "preview_listen_pid": 49683,
+    "fresh_browser_visual": false,
+    "available_disk": "22GiB observed;rounded OS value;free-space changes not attributed to this project",
+    "total_helper_gzip_bytes": 33166,
+    "total_temporary_bytes_removed": 6637177
+  }
+}

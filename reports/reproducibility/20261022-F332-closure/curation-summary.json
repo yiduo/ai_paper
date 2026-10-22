@@ -1,0 +1,36 @@
+{
+  "generation_id": "GEN-20261022-082",
+  "changed_old_ids": [
+    "LIT-332-BALL92",
+    "LIT-332-DEZALAURENT97",
+    "LIT-332-MENDELNAOR13",
+    "HIST-332-MN-EXTENSION",
+    "ANALYSIS-F-332"
+  ],
+  "new_ids": [
+    "AUDIT-332-FAMILY-CLOSURE",
+    "CHECK-332-DL-CORRECTIONS",
+    "CHECK-332-MN-NOTATION",
+    "GEN-20261022-082",
+    "HIST-332-DL-CUT-DEFINITIONS",
+    "HIST-332-MN-ANCHOR-ROUNDING",
+    "HIST-332-MN-DUAL-CRITERION",
+    "HIST-332-MN-FINITE-PROOF",
+    "HIST-332-MN-GLOBAL-UPGRADE",
+    "LIT-332-MN-HEINRICH1980",
+    "LIT-332-MN-JRZ1971",
+    "LIT-332-MN-LR1969",
+    "PART-332-GLOBAL-EXTENSION-BRIDGE-GAP"
+  ],
+  "new_records": 13,
+  "new_explicit_edges": 31,
+  "old_canonical": 3439,
+  "old_unchanged": 3434,
+  "new_candidate": 0,
+  "new_initial_check": 0,
+  "new_numerical_run": false,
+  "full_family_count": 0,
+  "full_history_count": 0,
+  "source_C_unchanged": true,
+  "original_reading_ledger_and_application_prediction_unchanged": true
+}

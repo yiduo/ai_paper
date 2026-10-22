@@ -1,0 +1,295 @@
+{
+  "family_id": "F-122",
+  "work_package": "WP-063",
+  "generation_id": "GEN-20261021-059",
+  "recorded_at": "2026-10-21T01:18:52.832877+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 2,
+  "selected_source_lines": 1446,
+  "pins": {
+    "microsoft/TrellisBMA": {
+      "head": "77cb3d3965548e0ff63a37ff5de13f96fa15f5a8",
+      "branch": "main",
+      "archived_as_read_from_official_page": "2026-06-15",
+      "license": "ActualrawMIT21linesreadwhole;5correspondingfilesmayberetained"
+    },
+    "omersabary/Reconstruction": {
+      "head": "c50dec739bd2c7f18ac7678d921eecee02e86c6a",
+      "branch": "main",
+      "license": "README TBA;do notredistribute fullrawsource withoutlicense"
+    }
+  },
+  "sources": {
+    "trellis-README.md": {
+      "repository": "https://github.com/microsoft/TrellisBMA",
+      "revision": "77cb3d3965548e0ff63a37ff5de13f96fa15f5a8",
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/microsoft/TrellisBMA/77cb3d3965548e0ff63a37ff5de13f96fa15f5a8/README.md",
+      "sha256": "8a47aeefb307f17dacf82ee30584de147f75da740332e204aef8ac5c6e127179",
+      "bytes": 3250,
+      "total_lines": 37,
+      "read_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "read_lines": 37,
+      "full_file_retention_allowed": true,
+      "license": "MIT",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": true,
+      "full_file_read": true
+    },
+    "trellis-LICENSE": {
+      "repository": "https://github.com/microsoft/TrellisBMA",
+      "revision": "77cb3d3965548e0ff63a37ff5de13f96fa15f5a8",
+      "path": "LICENSE",
+      "url": "https://raw.githubusercontent.com/microsoft/TrellisBMA/77cb3d3965548e0ff63a37ff5de13f96fa15f5a8/LICENSE",
+      "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+      "bytes": 1141,
+      "total_lines": 21,
+      "read_ranges": [
+        [
+          1,
+          21
+        ]
+      ],
+      "read_lines": 21,
+      "full_file_retention_allowed": true,
+      "license": "MIT",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": true,
+      "full_file_read": true
+    },
+    "trellis-bma.py": {
+      "repository": "https://github.com/microsoft/TrellisBMA",
+      "revision": "77cb3d3965548e0ff63a37ff5de13f96fa15f5a8",
+      "path": "bma.py",
+      "url": "https://raw.githubusercontent.com/microsoft/TrellisBMA/77cb3d3965548e0ff63a37ff5de13f96fa15f5a8/bma.py",
+      "sha256": "511445489aa640fc6ec17005ac5af6aedb2712bbbec4687c700bf3541aa28058",
+      "bytes": 2444,
+      "total_lines": 77,
+      "read_ranges": [
+        [
+          1,
+          76
+        ]
+      ],
+      "read_lines": 76,
+      "full_file_retention_allowed": true,
+      "license": "MIT",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": true,
+      "full_file_read": false
+    },
+    "trellis-trellis_bma.py": {
+      "repository": "https://github.com/microsoft/TrellisBMA",
+      "revision": "77cb3d3965548e0ff63a37ff5de13f96fa15f5a8",
+      "path": "trellis_bma.py",
+      "url": "https://raw.githubusercontent.com/microsoft/TrellisBMA/77cb3d3965548e0ff63a37ff5de13f96fa15f5a8/trellis_bma.py",
+      "sha256": "15920ec39615c7e6e280ba51d5421a2e1fd0853a493e1b5173b39dad7cc3d339",
+      "bytes": 18929,
+      "total_lines": 518,
+      "read_ranges": [
+        [
+          1,
+          35
+        ],
+        [
+          46,
+          156
+        ],
+        [
+          421,
+          518
+        ]
+      ],
+      "read_lines": 244,
+      "full_file_retention_allowed": true,
+      "license": "MIT",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": true,
+      "full_file_read": false
+    },
+    "trellis-coded_ids_multiD.py": {
+      "repository": "https://github.com/microsoft/TrellisBMA",
+      "revision": "77cb3d3965548e0ff63a37ff5de13f96fa15f5a8",
+      "path": "coded_ids_multiD.py",
+      "url": "https://raw.githubusercontent.com/microsoft/TrellisBMA/77cb3d3965548e0ff63a37ff5de13f96fa15f5a8/coded_ids_multiD.py",
+      "sha256": "8009578dc79872f04419e2d0d754c27fa039110c7dc92da3dde3ad4dd3b1bccd",
+      "bytes": 30081,
+      "total_lines": 649,
+      "read_ranges": [
+        [
+          1,
+          115
+        ],
+        [
+          497,
+          569
+        ]
+      ],
+      "read_lines": 188,
+      "full_file_retention_allowed": true,
+      "license": "MIT",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": true,
+      "full_file_read": false
+    },
+    "reconstruction-README.md": {
+      "repository": "https://github.com/omersabary/Reconstruction",
+      "revision": "c50dec739bd2c7f18ac7678d921eecee02e86c6a",
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/omersabary/Reconstruction/c50dec739bd2c7f18ac7678d921eecee02e86c6a/README.md",
+      "sha256": "c5241800d318769e6c4b47f710bf6848c06e896cc238696bf2b29bebfa98ef19",
+      "bytes": 3926,
+      "total_lines": 62,
+      "read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "read_lines": 62,
+      "full_file_retention_allowed": false,
+      "license": "Unclear:README License TBA;paper says commercialuse contactauthors;fullcode notredistributed",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": false,
+      "full_file_read": true
+    },
+    "reconstruction-Deletions.cpp": {
+      "repository": "https://github.com/omersabary/Reconstruction",
+      "revision": "c50dec739bd2c7f18ac7678d921eecee02e86c6a",
+      "path": "ML-SCS/Deletions.cpp",
+      "url": "https://raw.githubusercontent.com/omersabary/Reconstruction/c50dec739bd2c7f18ac7678d921eecee02e86c6a/ML-SCS/Deletions.cpp",
+      "sha256": "eb0eb0451ec753054038a318dfe9db28bbdac50b41743e9771513801917e9066",
+      "bytes": 5797,
+      "total_lines": 165,
+      "read_ranges": [
+        [
+          1,
+          165
+        ]
+      ],
+      "read_lines": 165,
+      "full_file_retention_allowed": false,
+      "license": "Unclear:README License TBA;paper says commercialuse contactauthors;fullcode notredistributed",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": false,
+      "full_file_read": true
+    },
+    "reconstruction-Strings.cpp": {
+      "repository": "https://github.com/omersabary/Reconstruction",
+      "revision": "c50dec739bd2c7f18ac7678d921eecee02e86c6a",
+      "path": "ML-SCS/Strings.cpp",
+      "url": "https://raw.githubusercontent.com/omersabary/Reconstruction/c50dec739bd2c7f18ac7678d921eecee02e86c6a/ML-SCS/Strings.cpp",
+      "sha256": "bf1552e85c7dfb4968dbb76fc751233d87422cbe9265a0dfd16461bd2fb5af5c",
+      "bytes": 32613,
+      "total_lines": 1015,
+      "read_ranges": [
+        [
+          1,
+          144
+        ],
+        [
+          217,
+          590
+        ]
+      ],
+      "read_lines": 518,
+      "full_file_retention_allowed": false,
+      "license": "Unclear:README License TBA;paper says commercialuse contactauthors;fullcode notredistributed",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": false,
+      "full_file_read": false
+    },
+    "reconstruction-Tests.cpp": {
+      "repository": "https://github.com/omersabary/Reconstruction",
+      "revision": "c50dec739bd2c7f18ac7678d921eecee02e86c6a",
+      "path": "ML-SCS/Tests.cpp",
+      "url": "https://raw.githubusercontent.com/omersabary/Reconstruction/c50dec739bd2c7f18ac7678d921eecee02e86c6a/ML-SCS/Tests.cpp",
+      "sha256": "cb4e42b84edd03224f831840fdb6e9fbc1dd509c913cee85ea6da43451f74ff7",
+      "bytes": 68426,
+      "total_lines": 1899,
+      "read_ranges": [
+        [
+          1018,
+          1140
+        ]
+      ],
+      "read_lines": 123,
+      "full_file_retention_allowed": false,
+      "license": "Unclear:README License TBA;paper says commercialuse contactauthors;fullcode notredistributed",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": false,
+      "full_file_read": false
+    },
+    "reconstruction-SCSN.hpp": {
+      "repository": "https://github.com/omersabary/Reconstruction",
+      "revision": "c50dec739bd2c7f18ac7678d921eecee02e86c6a",
+      "path": "ML-SCS/SCSN.hpp",
+      "url": "https://raw.githubusercontent.com/omersabary/Reconstruction/c50dec739bd2c7f18ac7678d921eecee02e86c6a/ML-SCS/SCSN.hpp",
+      "sha256": "925cc90ac3d8f0cb72f9b437ff5815628dcde8b1ace32be211d9c65dd6790266",
+      "bytes": 512,
+      "total_lines": 12,
+      "read_ranges": [
+        [
+          1,
+          12
+        ]
+      ],
+      "read_lines": 12,
+      "full_file_retention_allowed": false,
+      "license": "Unclear:README License TBA;paper says commercialuse contactauthors;fullcode notredistributed",
+      "newline_policy": "Keep rawdecodedCRLF exactly forhashroundtrip;read_text wouldnormalize soavoidforarchive",
+      "full_file_retained": false,
+      "full_file_read": true
+    }
+  },
+  "original_usage": {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10806084/",
+    "doi": "10.1038/s41598-024-51730-3",
+    "scope_read": "Rendered35-94metadata/license/abstract,101-140model+objective,154oldMLbackground,169-180and204-205ITRinput/rate/runtime,305-317cluster/knownlength/runtimecap/results,409-411and474-476code/dataavailability;selectedonly,notwholepaper/supplement",
+    "published": "2024-01-23",
+    "license": "CC-BY4.0paper,notblanketrepocodepermission"
+  },
+  "decisions": [
+    "实际已知长度是部分匹配：Trellis构造器由编码FSM/time_types得N_in/N_cw，另接收信道概率、先验和边界状态；ML-SCS接口也接收originalLen。不能一概写成这些旧接口都不知道n。",
+    "纯删除及二元模拟入口确实存在：Trellis允许p_ins=p_sub=0，通用构造器允许大小至少2的字母表；Reconstruction有RandomCopies2和逐符号删除函数。源码中的这些模拟能力不等于真实二元事件流消费者或实测信道模型已成立。",
+    "实际默认使用和预测目标有差异：Trellis是编码IDS和有限漂移的浮点后验估计；Reconstruction默认四元随机字、有限簇和有最大阶段的SCS筛选。后者既输出编辑误差也统计guess==original精确成功，不能声称旧软件没有精确匹配指标。接受任意输入和有限平均测试均不等于逐输入2/3保证。",
+    "旧方法比较不能只放全候选暴力搜索：实际BMA前后向局部投票、编码trellis后验、ML-SCS按小元组动态规划候选并筛为全迹共同超序列；失败时用距离和回退。完整SCSNFast实现及依赖未在本包选读，没有本地性能或一般位复杂度结论。",
+    "匹配精度和成本仍缺：Trellis用NumPy/Numba浮点、先验、状态图和漂移边界，超出漂移报错；选读前后向助手使用四项概率数组及N_in//2两半，不能凭构造器推定任意二元调用已验证。C++嵌入计数用int、乘积用long，需要明确计数界或任意精度参考；未实测溢出。F122极大矩阶常数和所有预处理／输入／输出成本仍未闭合。",
+    "原始消费者论文讨论给定簇的四元DNA近似恢复、编辑误差与后续纠错，并假设成功聚类、给定设计长度；主要算法及真实数据的插删替语义有别于二元纯删除。作者为运行时间对大簇作截取；这些是论文描述，不是本地复现。删除专用算法细节在未读补充材料中。",
+    "来源许可分别处理：Trellis五文件MIT原始字节及完整许可压缩留存；Reconstruction的README写TBA，五文件只留固定提交、散列、选读范围和自写摘要。论文CC BY4.0不自动授权代码再分发。本包未编译、安装、训练、下载数据或执行数值实验。",
+    "APP12201的二元事件流目标保持原样；没有悄悄改成DNA恢复。降低数值实现优先级、保留待定，重启需真实合格请求、独立裁判、可执行参数与强旧方法的总成本比较；不把已知随机字／删除恒等式QA增加为第十二初检。"
+  ],
+  "qualified_reading_notes": [
+    "All10sourcesselected1446linesactualread;notwhole518/648lineTrellisfiles norwholeTests.cpp/Strings.cpp. Noexecutions/installs/datasetdownloads. ReconstructionrootREADME62linesTBA andauthorpapercommercialcontact;retainrawhash+ownnotesonlyfor5files;paperCCBYnotautomaticcodepermission.",
+    "TrellisactualclassconstructorgetsA_in/A_cw>=2,codeFSM/time_types,stateboundaries,knownNin/Ncw,K,floatpdel/psub/pins andprior;prepstates/edges,defaultdriftNcw. simulate_ids allowspsub=pins0 soPUREDELETIONPARAMETERCASEexists;do notsayIDSlabelaloneexcludesit. Binaryalphabetallowedconstructor,butselectedno-lookaheadhelperuses4entryprobabilityarrays andbothhalvesNin//2;notvalidatedgeneralbinarycall.",
+    "trellis_bma pertraceeweights,BCJRlookaheadorinit,fixedencstates anddriftchecksraisesValueError;returnsestimatedout+posteriorprobabilities. FloatingNumPy/Numba+trellisstructure/prior costnotexactarbitrarybitTuringcost. bma.py knownN/traces,forward/backwardN//2;nosuppliedp requiredbythatAPI,oldmajoritylookaheadbaselinealreadyexists.",
+    "ReconstructionStringsactualMakeRandomString2/4 andRandomCopies2/4;CopyStrandWithDeletion eachsymbolindependentuniformPRNGthreshold;purebinarysimulatorpresent. CurrentDeletionsmain usesrandom4arylength100,copies10,pdel.10,seed3865506088,reps100,maxstage4. ThesearesourceexamplevaluesNOTourrunorfrozenexperiment;algorithmacceptsarbitrarystringsnotworstcasesuccessproof.",
+    "ActualTests1018-1140 usesRandomCopies4,stages2..maxStage,knownoriginalLen,MLcorrect-sizeSCSthenmaxlenfallback;collectseditdistancehist AND exactguess==originalsuccess. Do notclaimexactmatchmetricabsent. No per-input2/3 guarantee/samplebudget/runtimebound establishedfromthataveragebenchmark.",
+    "Strings323-590 actualoldcandidate-scopek-tuples/SCSNFast,filtercommon-supersequencealltraces,selectFirstMostLikely;fallbackMinEditDistanceSumifno filteredcandidate. SelectedSCSN.hpp declaresactualSCS vectorinterface withknownn. WholeSCSNFast implementationanddependencyclosureUNREAD;no runtimeproofasserted.",
+    "StringsCountEmbeddingsintDP1-144 andFirstMostLikely217-228vector<long>products. Machinewidth/overflowneedsadmittedbounds orarbitraryprecisionreference forindependentexactjudge;notlocallyobservedoverflowornewnegativeexperiment. Parameterp appearsinouterAPIsbutselectedFirstMostLikely usesembeddingproduct forfixedcandidate lengths;donotclaimgeneralunknown-lengthMLEcertified.",
+    "OriginalPMCpaper goalfixedgivenclusters/minimizeediterror toleaveECCcorrectionbudget,assumessuccessfulclustering/knownstrandlength. NotallinputrequireECCbutTrellisconsumercoded. PaperstatesITRO(n²t²)andapplies twice;realclusterst>25capped25 forruntime. AuthorreportedperformanceNOTlocalmeasured;mainpaperdeletion-onlydetailsinsupplementUNREAD.",
+    "Knownlength/sharedsource/puredeletionsimulatorarepositivepartialmatches;actualbinaryeventstreamconsumer,modelcertificate,resourceadmittedF122constants andmatchedstrongbaselineSTILLunestablished. Do notsilentlyretargetAPP12201toDNAorconcludegeneral-symbolsample-onlyanchorprovidesefficient4arydecoder.",
+    "Decision:lowerAPP12201implementationpriority,retainpending;strongoldBMA/ML-SCS/TrellisrealinterfacesmustcomparebeforePSDprototype. No newcandidate/initial/hypothesis/run. Addexplicitoutput/channelandbaseline/exactnesscostgates,versionAPP+analysis,GEN059/EXPLORE-DEMAND-014;nextWP064unreadfamilychosenfromglobalcatalogue,thenretro023."
+  ],
+  "archive": {
+    "path": "data/provenance/demand/reconstruction-interfaces-20261021.json.gz",
+    "sha256": "145d6f41f268085b56c1108ea65a1776a04399995d26a3380565ee2ebcab898d",
+    "uncompressed_sha256": "c672f6dddbbb795f0a1fc00480f00b3079351e0fb91312df01e6622eebbe3af7",
+    "bytes": 9900,
+    "members": 5,
+    "roundtrip": true,
+    "retains_only": "Five MIT Trellis files;original CRLF preserved where present",
+    "unlicensed_source_content_retained": false
+  },
+  "remaining": [
+    "No genuine binary-eventstream request/channelcertificate or executableF122parameterresourceclosure.",
+    "Actualstrongoldbaselines present butnotrun;fullSCSNFast/dependencies/supplementarypaperunread.",
+    "Human/domain/mathspec anddifferent-provider reviews remain deferred."
+  ],
+  "new_numerical_run": false
+}

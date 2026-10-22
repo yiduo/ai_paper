@@ -1,0 +1,66 @@
+{
+  "run_id": "EXP-332-001-b2607a9926c44586",
+  "experiment_id": "EXP-332-001",
+  "started_utc": "2026-10-21T08:03:04.968714+00:00",
+  "specification_written_utc": "2026-10-21T07:56:54.659743+00:00",
+  "finished_utc": "2026-10-21T08:03:09.901432+00:00",
+  "inputs": {
+    "experiments/specs/EXP-332-001.json": "7b61eb11464a04945bb87a3b7005bb9ec6ee93e9095410455106ed20175202f2",
+    "src/ai_value/__init__.py": "2a81e0acc748f2c499f7aca6eb95377238e4dfdf8c87f7ab95e47ffe8c425781",
+    "src/ai_value/betti_budget.py": "570c1f758f1db28aa6835b71551b8521ae8e50e681cfb0db9e9ae8b97f8591d5",
+    "src/ai_value/binary_information.py": "3a534f07f829f8944c254b4e98a603e022687f40a52b8b8777f43878bda110c1",
+    "src/ai_value/block_budget.py": "ad43d1766fc8590275552e64c069c010c1b52cf720111db2e0078faad9844a4b",
+    "src/ai_value/bosonic_regression.py": "27e371697e7fbae9e19155f55459c45aa9e1c59af069ee970e9a9bbe1fe023dd",
+    "src/ai_value/cli.py": "d5ffb61f33bed0d427af291a3a9c9353801a363bbe6fac96fe2b9577b47f9502",
+    "src/ai_value/component_checks.py": "097e4a81f036f39230b357aacc638e4b9eddeb6f1e8ea8bb1ca5e5477b6da0aa",
+    "src/ai_value/corpus.py": "5fb23ab3d0fe8c3384c7b6d30d8a87b55a3d6a8d2c6c5671d6f1faa8ddc0dddc",
+    "src/ai_value/cyclic_chain.py": "7d61248a696a86b4049ff88c520cd5c50ebba4079dfb6664122b1e8e2a0493bc",
+    "src/ai_value/experiments.py": "7f97f230a95311d2058c459bd7af189d97d8f9ee5d4668bb0dba25549f4b19d2",
+    "src/ai_value/graph.py": "8730585f2fd6e765ce40ab4267e2855b369bba05c7317da06550f8dce819621c",
+    "src/ai_value/graph_smoothing.py": "8cee5a4e380ef295d382e3016cd895b35b72889c71cd1e2d12931982e76afb29",
+    "src/ai_value/graph_smoothing_reference.py": "4dc7a9d98033e657733240839b4abb615d532f9d82fd7bfdcc88d31427a94235",
+    "src/ai_value/knowledge.py": "d1a50c26e7672ae55befe59cca762fa3da6fec3c64d750f5293bcb604238c349",
+    "src/ai_value/navigation.py": "63fe3869da46cfe60c27d2aaf9b5017ba00b7a76ca96d1596abedb65550d4b60",
+    "src/ai_value/permutation_audit.py": "9b92c383d4ce135bda030c344d6848dd689d2ecaa67923d027b30b3de9382811",
+    "src/ai_value/phase_rounding.py": "d0b382a0476a179c0b3fc11e3af1fbc499f95e3296a4be5c7365d6ac2be9fc61",
+    "src/ai_value/prefix.py": "0f727564e4a600d93806ba77e69df49187ef3847b2ac1429cfe13273b2ac78e4",
+    "src/ai_value/pressure_audit.py": "4760923b4223de11ef3b919204e2be2a629fba30674560132b51218cffcde304",
+    "src/ai_value/provenance.py": "b5b717177ccc2ebe3f8325ca74ccd3e8a4c26c85434e9582da4b7f246574d4cc",
+    "src/ai_value/reporting.py": "d2ddb88f41191bae0d1b15ae6f0ad1dc327be0f14f214823af5c2f81b2829d64",
+    "src/ai_value/source_results.py": "4a7471c1368ac68ead2cde65ab18edf935798efa44880d72dc6a52e8216c10f6",
+    "src/ai_value/superstring.py": "69afc07568311c804b9ed0e6cd73de5461c5b9ee35f784277755b85cfe2e5120",
+    "src/ai_value/transport.py": "2f11a3b353eea357edfee402d3410249dd607d92b3a241612eb47f39c8b5585d",
+    "src/ai_value/versioning.py": "79a3669d1e091509d1e17d5ba0ce36249e48d14112da064f74b76b5a588bbd3c",
+    "configs/research.json": "28c25c9eb62c28424549de553516f33d3e08b109b6cdc2c696b1b9620ca838c2",
+    "data/corpus/baseline.json": "4805dac53be1bf167b88cf95b6188d87564e6def1391f63addea117124568e38"
+  },
+  "outputs": {
+    "spec.json": "7b61eb11464a04945bb87a3b7005bb9ec6ee93e9095410455106ed20175202f2",
+    "raw.json.gz": "11f440a280144ffd39f580a5f15d8f8263b847996fe40c091c14cc1d4a36db83",
+    "summary.json.gz": "c5887dedc152c8fb8c78dcadca0a71b256dd6dd5a8324421afbd017e83df0fb3",
+    "inputs.json.gz": "9fa50dededb42ff85f81a41f01a06d0ac6ed640b4038f04886c46fb291de13b2"
+  },
+  "compressed_payloads": {
+    "raw.json.gz": {
+      "uncompressed_name": "raw.json",
+      "uncompressed_sha256": "bc028570ae0c211c2e70c52bcee6ec1fdf2cb10821d1f0b5a036834563739f50"
+    },
+    "summary.json.gz": {
+      "uncompressed_name": "summary.json",
+      "uncompressed_sha256": "340572590379fe7d14af9e716d292a6ce0d710b652292afb547ea983e6077a41"
+    }
+  },
+  "source_snapshot": "inputs.json.gz",
+  "command": "PYTHONPATH=src python3 -m ai_value.cli experiment EXP-332-001",
+  "environment": {
+    "python": "3.14.7 (main, Aug  5 2026, 10:29:49) [Clang 21.0.0 (clang-2100.3.34.2)]",
+    "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+    "dependencies": "Python standard library only"
+  },
+  "elapsed_seconds": 4.859166832990013,
+  "peak_traced_python_bytes": 8042053,
+  "resource_envelope_met": true,
+  "memory_scope": "Python allocations only; not process RSS or child processes",
+  "result": "prediction_not_supported",
+  "formal_rejection": false
+}

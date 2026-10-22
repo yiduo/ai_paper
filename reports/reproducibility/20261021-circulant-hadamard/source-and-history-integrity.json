@@ -1,0 +1,15 @@
+{
+  "recorded_at": "2026-10-20T19:42:47.359556+00:00",
+  "natural_files": 8,
+  "natural_lines": 1240,
+  "named_bindings": 8,
+  "selected_formal_files": 18,
+  "indexed_files": 73,
+  "all_source_hashes_match": true,
+  "external_modules": 94,
+  "external_modules_only_Lean_or_Mathlib": true,
+  "prior_nodes_match_HEAD": 1,
+  "both_existing_F076_cards_unchanged": true,
+  "curation_archive_roundtrip": true,
+  "scope": "Static source/lexical checks; no kernel build or mathematical proof validation"
+}

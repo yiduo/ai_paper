@@ -1,0 +1,27 @@
+{
+  "id": "APP-119-01",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_generation_id": "GEN-20261021-044",
+  "title": "固定均值与初始信息的一比特摘要噪声预算",
+  "problem_id": "PROB-119-BINARY-NOISE-BUDGET",
+  "domain": "Finitebinaryinformationbottleneck/noisebudget;syntheticeligiblemodelallowed,no actualhardwareclaim",
+  "analogy": "near",
+  "hypothesis": "Underuniformindependentcubeinput andindependentBSC,an aggregate(m,I0)-based noise-timebudget obtainedfrommax(newhybrid,oldhybrid) mayneedatleast10percentlessnoise-time thanstrongoldhybridalone inafrozenbiasednear-deterministicinteriorcase. Actualfinitecurve/practicalgainmayzero.",
+  "input": "Knownmean|m|<1 andindependentlycertified0<I0<H(m) ofa stochasticonebitconditionalmeanfield g∈(-1,1);targetI*=H(m)-hgoal with0<I*<I0;unitnats,sourceeligibilitycertificate.",
+  "mapping": "tau=-logrho,p=(1-exp(-tau))/2;D>=newBhat=max(Bm,F) andolderCm. Compute t_old=integral_I*^I0 dI/Cm(I),t_combined=integral_I*^I0 dI/max(Cm(I),Bhatm(I)). Standardseparationofvariablesonly,no newtheorem. Mustincludequadrature/root/entropyerrorbounds beforecallingnumericalbudgetcertified.",
+  "old_baselines": [
+    "ActualChen2026v1hybridCm withcorrectbit/sign/timeconversion,notjust2IorF(I).",
+    "SamefullsoftcontractioncurvealreadyfromolderFbranch;staticcurveisnotnewincrement.",
+    "KramerSaglamfixedversionBooleanfinite-noisecurvewhereitsBooleaninputconditionshold;do notextendtosoftrandomizedstateswithoutjustification.",
+    "Exactfinitecubechanneljoint-probability oraclewithfulltruth-tableinput;strongerinformationthanaggregatecertificate,reportactualgap/costratherthanhideit."
+  ],
+  "proposed_finite_cases": "Beforeoutputsfreeze3cases:balancedcoordinatecontrol andbiaseddyadicsoftfields withm=1/2on4points,m=3/4on8points;setpositivevalues1-aandnegativevalue-1+(2^n-1)a witha=2^-24,one negativevertex,otherspositive. Balancedg=(1-a)x1. InitialIcomputedfromtheseactualtables,not arbitraryinfeasiblestate. Proposedhgoal=2^-8nats. Theseareclearlysyntheticaggregatebudgetstresscases,norepresentativehardwaredatasetclaim;parametersnotyetfrozen/executed.",
+  "judge": "Independentfinitecubejoint-probability MI plusseparateWalsh/noiseconvolution;precision/endpoint checks andindependentquadratureorganization. Freezeallvalues/tolerances/resourcespreoutputs. Atleastonebiasedcase10percenttime-budgetreduction isfalsifiable;noall-dimensionalprooffromfinitecases;balancedexpectedold-equivalencecontrolonly.",
+  "limits": "Fulltheorychainunknown,onlyselectedproductionstaticB. Oldotherprofile/boundmayalreadydominate. AggregateMIisnotDP/worstcaseprivacy,downstreamaccuracy,compressionratioorengineeringgain. Allinitial/noise/inputindependenceassumptionsessential. Numericroot/quadraturecertificationnotimplemented.",
+  "resource_envelope": "No run/allocationinWP047. ProposednextstdlibDecimal/exactrationalfinitecubeprotocol<=60seconds/64MiBafterseparatepreregistration;noheavydependencies. Gzipraw/summary/sourceandverifydecompressedhashes.",
+  "external_check": false,
+  "old_methods_may_suffice": true,
+  "revisit_when": "Bothsourceandoriginalnormalizationsaudited;frozenfalsifiablefiniteproblem/strongoldbaseline/independentjudgeanderrorbudgetready"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "APP-120-01",
+  "title": "指定度稀疏图的完美匹配求解器编译接口",
+  "version": 2,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-049",
+  "input": "Hypothetical existing solver accepting only general unweighted perfect-matching graphs; explicit simple host and exact per-vertex f. No verified public workload/solver yet.",
+  "output": "Construct split-network factor adapter and decode a checked host-edge subset with exactly f(v) incidences.",
+  "hypothesis": "On a separately frozen eligible workload with high local d and f near d/2, adapter may reduce auxiliary graph storage versus the best classical Tutte expansion, while preserving exact feasibility/decoding within a declared total-time budget. A 10% resource improvement would need independent measurement, not an asymptotic-size claim.",
+  "judge": "Before outputs freeze actual host inputs, isolate/zero/d=f/no-factor boundaries, independent host exact judge, generic PM backend version and whole-pipeline costs. Compare direct native f-matching if available; absence of a native interface is an explicit condition, not a new algorithmic win. Existing official five-family library benchmark is calibration only. Ensure integer-disjoint labels and simple loopless inputs; explicitly exclude Sage weighted-incident-sum mismatch. No measurements or changed success threshold yet.",
+  "baseline": "Tutte1954 local complete X-Y; best globally complemented f-to-d-f variant; direct Gabow O(n^(2/3)m) native f-matching; direct ordinary matching for f=1 and existing specialized bipartite flows. Count all network positions/arcs and padding, not merely representative edges. Add original2009 per-vertex mixed small/large-k gadget as implemented in NetworkX3.7; Sage10.8 unweighted exact-degree MILP. Native k_factor common-k only; no weighted-sum baseline mistaken for exact degree.",
+  "limits": "No actual workload, implementation, numerical run or speed/memory improvement. Low-degree/f small instances may make classical/direct methods cheaper; Beneš old and reuse provenance not new network theorem. Do not implement whole F120 by replacing unknown backend with old blossom and call it almost-linear.",
+  "revisit": "Only after an actual independent high-degree middle-quota host/PM-only consumer and all old mixed/native baselines are fixed. Existing low-degree/low-k examples do not alone justify a new application experiment.",
+  "prior_plan": "experiments/plans/APP-120-01-conditional.json",
+  "source_contract_review": "data/provenance/demand/F-120-factor-contracts.json"
+}

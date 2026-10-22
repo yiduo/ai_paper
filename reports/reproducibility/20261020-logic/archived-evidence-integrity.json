@@ -1,0 +1,77 @@
+[
+  {
+    "run_id": "CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+    "outputs_unchanged": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "existing_replay_receipt": "reports/reproducibility/20261020-thorp/CHK-374-MOMENTS-001-67a3ef843df4bf9f.json",
+    "replay_receipt_sha256": "3eb400fe8b89f51dc4dd589bf5b6028327bf7337b7e072c928f5fe8b16e4cea9",
+    "rerun_in_this_package": false
+  },
+  {
+    "run_id": "EXP-097-001-f4db184a4c5e6d4d",
+    "outputs_unchanged": {
+      "spec.json": true,
+      "inputs.json.gz": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "manifest.before-compression.json.gz": true
+    },
+    "existing_replay_receipt": "reports/reproducibility/20261020-thorp/EXP-097-001-f4db184a4c5e6d4d.json",
+    "replay_receipt_sha256": "e1bc5e9e4d213307026416513fdee1271159d877a00556c37f642172190ef302",
+    "rerun_in_this_package": false
+  },
+  {
+    "run_id": "EXP-128-001-adf42abc31aca23e",
+    "outputs_unchanged": {
+      "spec.json": true,
+      "inputs.json.gz": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "manifest.before-compression.json.gz": true
+    },
+    "existing_replay_receipt": "reports/reproducibility/20261020-thorp/EXP-128-001-adf42abc31aca23e.json",
+    "replay_receipt_sha256": "4af7bebd6e647c561ea99eb51a0367f8f88701070ed3c32a3c66a78ed1c30783",
+    "rerun_in_this_package": false
+  },
+  {
+    "run_id": "EXP-130-001-eadb2e7b3a00d556",
+    "outputs_unchanged": {
+      "spec.json": true,
+      "inputs.json.gz": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "manifest.before-compression.json.gz": true
+    },
+    "existing_replay_receipt": "reports/reproducibility/20261020-thorp/EXP-130-001-eadb2e7b3a00d556.json",
+    "replay_receipt_sha256": "5a0766e4d6a54dd0794f962a08090423046c2326f81abb3145ac5098ab954cf0",
+    "rerun_in_this_package": false
+  },
+  {
+    "run_id": "EXP-238-001-a1d52c04aeb9b1ba",
+    "outputs_unchanged": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "existing_replay_receipt": "reports/reproducibility/20261020-thorp/EXP-238-001-a1d52c04aeb9b1ba.json",
+    "replay_receipt_sha256": "ebc7ab690093debf54b9c0af962084190f2aa542c5baf9cd769d20fb9c56bdd7",
+    "rerun_in_this_package": false
+  },
+  {
+    "run_id": "EXP-374-001-bc1d2887fa6a5d33",
+    "outputs_unchanged": {
+      "spec.json": true,
+      "raw.json.gz": true,
+      "summary.json.gz": true,
+      "inputs.json.gz": true
+    },
+    "existing_replay_receipt": "reports/reproducibility/20261020-thorp/EXP-374-001-bc1d2887fa6a5d33.json",
+    "replay_receipt_sha256": "03388c36403bdda5447ba84ad17d4e4ffb00933da27e1eef6bb41b7cbe85f408",
+    "rerun_in_this_package": false
+  }
+]

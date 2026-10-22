@@ -1,0 +1,10 @@
+{
+  "path": "data/graph/history/APP-076-02-v1.json.gz",
+  "compressed_bytes": 1886,
+  "uncompressed_bytes": 3633,
+  "compressed_sha256": "15f4375d6aafa6233a7a73707334e06a82689965862a87ab2e7c6f2bc90b580c",
+  "decompressed_sha256": "288dca231b4f4ff5ada6531bc915ae448b57da23cafd59ff1e5625f56ec187b0",
+  "canonical_serialization_roundtrip": true,
+  "numerical_experiments_added": 1,
+  "upstream_copied": false
+}

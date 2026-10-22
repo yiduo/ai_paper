@@ -1,0 +1,32 @@
+{
+  "generation_id": "GEN-20261021-081",
+  "old_canonical": 3429,
+  "changed_old_ids": [
+    "APP-332-01",
+    "PART-332-EXACT-MEDIAN-JUDGE-GATE",
+    "PART-332-DENOISING-BENCHMARK-GATE",
+    "ANALYSIS-F-332"
+  ],
+  "old_unchanged": 3425,
+  "new_ids": [
+    "BASE-332-IDENTITY",
+    "BASE-332-LINEAR-RESOLVENT",
+    "BASE-332-QUADRATIC",
+    "BASE-332-WEIGHTED-MEDIAN",
+    "CHECK-332-FINITE-DENOISING-001",
+    "GEN-20261021-081",
+    "LIT-332-GRAPH-MEDIAN2022",
+    "LIT-332-SHUMAN2013",
+    "METHOD-332-FROZEN-DENOISING-PACK",
+    "PART-332-REAL-DENOISING-CONSUMER-GATE"
+  ],
+  "new_nodes": 10,
+  "new_edges": 28,
+  "new_candidate": 0,
+  "new_initial_check": 1,
+  "new_effective_lead": 0,
+  "original_prediction_unchanged": true,
+  "all7_source_C_unchanged": true,
+  "reading_coverage_and_original_ledgers_unchanged": true,
+  "explicit_finite_evidence_review_routing": true
+}

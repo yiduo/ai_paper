@@ -1,0 +1,30 @@
+{
+  "id": "APP-114-01",
+  "status": "conditional_not_preregistered_not_run",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "model_generation_id": "GEN-20261021-037",
+  "title": "颜色配额生成树的结构选择数与边入选比例",
+  "problem_id": "PROB-114-QUOTA-TREE",
+  "domain": "Conditional undirected infrastructure tree design with categorical edge quotas",
+  "analogy": "near",
+  "hypothesis": "For an explicitly required uniform ensemble of undirected labelled spanning trees with a variable number of categorical edge quotas,relative common-base count intervals can bound a designated edge inclusion fraction even when feasibility/minimumcost alone do not quantify choices. Practical incremental utility versus exact colored determinant/coefficient methods and older algorithms may be zero.",
+  "mapping": "Input finite connected loopless undirected multigraph G=(V,E),distinct labels for parallel edges,a color for every edge,and nonnegative integer quotas q_c summing|V|-1 withq_c<=|E_c|. Graphic matroid independence means acyclic;partitionmatroid independence meansatmostq_c ineachcolor;bothranks|V|-1. Commonbasesbijectioncolorquota spanningtrees,eachlabellededge-setonce. Exactmatroidintersection pretestdecidesZ0. For designated nonloopedgee withq_color>0,both contractionsby e have equalrankr-1 andcommonbasis countZ_e;include e inoriginalbasis iffremainingbaseofbothcontractions. If e ineligible outputfraction0;ifZ0 noensemble. PositiveZ givesuniforminclusion fractionZ_e/Z,notphysicalfailurelikelihood. Two relative-rho count estimates with separate delta/2 failure give ratio intervalzhate/zhat*[(1-rho)/(1+rho),(1+rho)/(1-rho)] intersect[0,1];exactnumeratorzero handledbeforedivision.",
+  "judge": "First obtain a genuine public quota-tree workload and labels/quota semantics. Freeze independent inputs,executable feasible method/resourcebudget and prediction beforeoutputs. Crosscheck counts/marginals against exact coloredLaplacian coefficient extraction and independentdeletion-contraction/enumeration on boundedinstances;compare time,memory,accuracy andusefulness. Knownsmalltree calibration is not newapplication validation.",
+  "baseline": "Exact coloredLaplaciandeterminant coefficients;2026EJCTheorems7/10alreadygive exact fixed-color route. Unconstrained matrix-tree methods ifquotasirrelevant. AOVrelative2^O(r)algorithm forsmallr includingrO(log|E|);specialstructure algorithms,Pfaffianqualification ifproven. A genericpolynomialtheoremwithhugeexponentmaylose allpractical comparisons. Existing Graphillion graph-set tree/color-indicator cost_eq filters,len and including provide a stronger represented-set baseline;API composition inferred,not run;memory growth and parallel-label encoding require checks. NetworkX tree count uses floating determinants without quotas;Sage intersection manual is optimization,not counting.",
+  "limits": "No actualworkload,implementedF114sampler/counter,newruns or verifiedengineeringgain. Onlytwo matroids;arbitrarydirectedcoloredarborescences/coloredperfectmatchingsgenerallyaddthirdmatroid andareoutside. Optimumcost restrictedtrees and physicalrisk notthisensemble. Exactrank/independence costmust be included inactualruntime. Natural/selectedformal scopeB onparentmain,fullchainunknown,nohumanreview. WP041 real DNET count/filter/sampling interest found,but its selected public input has three substations,sixteen switches,no colors/quotas and electric-screened rooted forests. No matched APP11401 workload or old-method bottleneck established. Do not replace physical ensemble by quota trees or treat documentation111/15 as local experiments.",
+  "resource_envelope": "No numericalallocation ornewdependencies. Retainconditionalmappinguntilpublicneedandboundedfrozenmethodexist. Future outputs/source gzip withdecompressedhashes.",
+  "external_check": false,
+  "old_methods_may_suffice": true,
+  "version": 2,
+  "previous_plan_sha256": "50f3008c9e1764a74ba4f689f18665e11f25b207a545c44573129036f7352b42",
+  "prior_plan_archive": "experiments/plans/history/APP-114-01-before-quota-tool-review.json.gz",
+  "actual_tool_review": {
+    "generation_id": "GEN-20261021-038",
+    "review_id": "CHECK-114-QUOTA-DEMAND",
+    "actual_related_count_demand_found": true,
+    "matched_quota_workload_found": false,
+    "old_method_bottleneck_demonstrated": false,
+    "source_review_is_application_validation": false,
+    "decision": "Keep APP11401 conditional;defer generic counter. Revisit only with actual quota semantics,distinct edge units,matched target ensemble and affordable comparison against strong old methods. Redirect next substantive package outside adjacent counting sources."
+  }
+}

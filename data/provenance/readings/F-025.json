@@ -1,0 +1,617 @@
+{
+  "family_id": "F-025",
+  "work_package": "WP-076",
+  "generation_id": "GEN-20261021-072",
+  "recorded_at": "2026-10-21T04:14:44.531183+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "read_files": {
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/counting.tex": {
+      "sha256": "83644bddabb613e546f00bbc8e9a4e54bd5605ff23f9c34a566637bab3c14618",
+      "total_lines": 132,
+      "read_ranges": [
+        [
+          1,
+          132
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/descent.tex": {
+      "sha256": "b35cc5396b8c16214cb4637f125e7f88c4c894db36db32629a798e49d0659be4",
+      "total_lines": 262,
+      "read_ranges": [
+        [
+          1,
+          262
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/divisors.tex": {
+      "sha256": "51edf294338d1a7206ea8c967d39fec9331cf7f91db0c4e9356e8d37aa0949d2",
+      "total_lines": 273,
+      "read_ranges": [
+        [
+          1,
+          273
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/elementary.tex": {
+      "sha256": "a653b3b939fff36d18974a84eee83fbcaee483cda9fb683ab1b719910ef96fd0",
+      "total_lines": 170,
+      "read_ranges": [
+        [
+          1,
+          170
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/introduction.tex": {
+      "sha256": "1188995325006f7ccd3102cc94e8d45ae7f17141f9cbbf6486682726c5e05540",
+      "total_lines": 242,
+      "read_ranges": [
+        [
+          1,
+          242
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/main.tex": {
+      "sha256": "e155865024d189b5f600c2fa993deca45dd52191b2909ec9fb3d41c75ddd5390",
+      "total_lines": 62,
+      "read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/prescribed.tex": {
+      "sha256": "7c6e0d5e836cde12b2f39de36069f842b7fc89bb328f20a6c459cdb4458fc064",
+      "total_lines": 579,
+      "read_ranges": [
+        [
+          1,
+          579
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/random.tex": {
+      "sha256": "810f4ebd029d8cfce97a684affa6be78ca2d4c38cb6e87631698c97915010d72",
+      "total_lines": 256,
+      "read_ranges": [
+        [
+          1,
+          256
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/residues.tex": {
+      "sha256": "cc7d96d7de57463311c5ac1b36dc0ac477b213c19496178ada7d8b300415f198",
+      "total_lines": 408,
+      "read_ranges": [
+        [
+          1,
+          408
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/unicode-mappings.tex": {
+      "sha256": "36e7b1114757b699ea300b0f1618af3fd7b7df4d32704769850851918e64df53",
+      "total_lines": 29,
+      "read_ranges": [
+        [
+          1,
+          29
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/references.bib": {
+      "sha256": "736fef29af7b7095e1cacf801754a512330e99b9492f5db27ab49814948b2917",
+      "total_lines": 249,
+      "read_ranges": [
+        [
+          1,
+          249
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_tex_files": 10,
+  "source_tex_lines": 2413,
+  "additional_bibliography_lines": 249,
+  "transitive_TeX_input_closure": [
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/counting.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/descent.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/divisors.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/elementary.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/introduction.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/main.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/prescribed.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/random.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/residues.tex",
+    "math/preprints/Short-Egyptian-fractions-September-25-2026/build/unicode-mappings.tex"
+  ],
+  "formal_selected": {
+    "math/lean/docs/025.md": {
+      "sha256": "4c394b2fa0e7a176e2f68dfc2c9fccf0f16327f0959b2f4a7aa25117aca0e550",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/EgyptianFractions.json": {
+      "sha256": "e437463f549509b9f7915877a19a54ec1d17d961fee02ce83d5cc3cf1a5fcf36",
+      "total_lines": 22,
+      "read_ranges": [
+        [
+          1,
+          22
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/ShortEgyptianFractions.json": {
+      "sha256": "509c6c6fd1d8f902b2537cf43fb8a25fd3eb5e2734d4952f7b31b9e3366fcf0d",
+      "total_lines": 14,
+      "read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/EgyptianFractions.lean": {
+      "sha256": "e96f5967735c7f7af64fc306601a5280d20f5752799e8c9a5fcc424cd421c0f6",
+      "total_lines": 124,
+      "read_ranges": [
+        [
+          1,
+          124
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/ComparatorChallenges/ShortEgyptianFractions.lean": {
+      "sha256": "9796ca70fdd0aa41186bed6f940a9e76c7081aa6bf89f9e7bfe6cd03e329541f",
+      "total_lines": 27,
+      "read_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/Defs.lean": {
+      "sha256": "ebf02f9dc75e621df19f85b05827f865c9fb36f16808ea6b4892732082b482f6",
+      "total_lines": 51,
+      "read_ranges": [
+        [
+          1,
+          51
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/Main.lean": {
+      "sha256": "6b0a640028aff138041d0c3c5f631ecd6be84b08d7d0bfc305c08facd2fb234d",
+      "total_lines": 135,
+      "read_ranges": [
+        [
+          1,
+          135
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/ShortEgyptian/Model.lean": {
+      "sha256": "a16b5b5863676d1d814f0fd61c55b44c8c6fe7ccdd4dc2e84fa795aac0830657",
+      "total_lines": 19,
+      "read_ranges": [
+        [
+          1,
+          19
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/ShortEgyptian/Main.lean": {
+      "sha256": "c0adb4437c05ce81bbf670b91fc9c00baad5731446c7a47b879590d340fa129e",
+      "total_lines": 56,
+      "read_ranges": [
+        [
+          1,
+          56
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/RawDensityUpper.lean": {
+      "sha256": "68f971269a39858b36e4055e351bfc35372752c30c8b6a751af9412ae80037a2",
+      "total_lines": 77,
+      "read_ranges": [
+        [
+          1,
+          77
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/RawDensityExistence.lean": {
+      "sha256": "1e1c3a71a40591a54a4f63d757ab51b5ec42ccd9e336e52a7e749f4d356d137c",
+      "total_lines": 277,
+      "read_ranges": [
+        [
+          250,
+          277
+        ]
+      ],
+      "fully_read": false
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/CompositeSupplyFinal.lean": {
+      "sha256": "e07f9e248827601907a1e7860e05749317c968328f5f2eaa8d4fd04b87461fe6",
+      "total_lines": 85,
+      "read_ranges": [
+        [
+          1,
+          85
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/CompositeMarkedReduction.lean": {
+      "sha256": "ba1977ae971fbaf028dd8322e03dc840abb47fea0e11c520b15e99457406e74f",
+      "total_lines": 30,
+      "read_ranges": [
+        [
+          1,
+          30
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/CompositeSupplySize.lean": {
+      "sha256": "638aaf459f2d0abb0d241f7240f6a58488019685c5ee78d20804686cd8ec1d0e",
+      "total_lines": 187,
+      "read_ranges": [
+        [
+          1,
+          187
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/lean/OAI/NumberTheory/EgyptianFractions/MarkedGroupingUnits.lean": {
+      "sha256": "26d5e20f871a738cdaa6665ad80a568225b05e05b686940303d8b7323600db44",
+      "total_lines": 114,
+      "read_ranges": [
+        [
+          1,
+          48
+        ]
+      ],
+      "fully_read": false
+    }
+  },
+  "formal_index": {
+    "path": "data/graph/lean_indices/F-025-lean-index.json.gz",
+    "sha256": "03eb9fc2190a26cbd0823b65535aaa446dc1907b59c3199bfebd22e76598c144",
+    "bytes": 49651,
+    "local_files": 348,
+    "declarations": 2161,
+    "placeholder_tokens": 0,
+    "axioms": 0,
+    "local_build": "not_run"
+  },
+  "selected_original_scopes": [
+    {
+      "key": "Erdos1950",
+      "url": "https://users.renyi.hu/~p_erdos/1950-02.pdf",
+      "scope": "19PDFpages,selectedprinted193definition/render39-54 andprinted195Theorems1/2/conjecture/render118-146;Hungarianoriginalselectedformula actualPNGvisualp195 verified;no fullHungarianproofaudit. No completeHungarianproofaudit.",
+      "summary": "The selected original states an upper order logb/loglogb, proposes the double-logarithmic improvement, and gives a matching lower order including numerator b-1. Exact lower constants are not imported; this is historical scope, not independent certification of the new proof.",
+      "downloaded_pdf_sha256": "c5e5a4b45eda12a64b5716d49cf69b4b0f3385270b1ac3948ffc0afa95d87a90"
+    },
+    {
+      "key": "TenenbaumYokota1990",
+      "url": "https://tenenb.perso.math.cnrs.fr/PPP/Egyptian.pdf",
+      "scope": "7PDFpages,printed150definitions/render0-27,printed151Theorem/render63-67 andprinted152Lemma4/render80-97selected;exactTheoremformula actualPNGvisualp151 verified;log_2N meansiteratedlog,notbase2. Deeperdivisordistributiondependenciesnotwholeaudited.",
+      "summary": "The old theorem simultaneously controls length by (1+epsilon)logN/loglogN and the largest denominator by 4N(logN)^2loglogN for sufficiently large N. This remains a distinct constrained baseline when bit size matters; the new unrestricted length theorem does not preserve its denominator cap.",
+      "downloaded_pdf_sha256": "482326325fa35ec2fdfc2485436e2df9d9ede027971854aabe90b265469a8bf4"
+    },
+    {
+      "key": "vanDoornTang2026",
+      "url": "https://arxiv.org/pdf/2512.22083v2",
+      "scope": "7PDFpages,v2stamp24May2026;Theorem1.1/render65-68,actualLemma2.1proofpp2-3/render84-162,Lemma2.2pp3-4/render163-207,Section3pp6-7/render438-477selected. PublicationJuly8metadatafromsourcebibnotindependentlypublisherchecked.",
+      "summary": "The old result gives exp(c k²) prescribed-denominator coverage. Its exact-marker padding and Vose-based uniform length construction are already explicit, and Section3 anticipates a double-exponential implication from a double-logarithmic length bound. Vose1985 itself remains unread here."
+    }
+  ],
+  "result_notes": {
+    "thm:main": "For INTEGERS 1<=a<b, not necessarily reduced, N(a,b) is minimum length of exact DISTINCT positive unit fractions with denominators>=2; N(b)=MAX over numerators. Eventual absolute c1 loglogb<=N(b)<=c2 loglogb, all a get upper only; N(1,b)=1. No final denominator cap, bitlength/runtime bound or effective threshold supplied.",
+    "cor:counting": "F(k) counts exact-k strictly increasing POSITIVE integer denominator tuples with reciprocal sum ONE, including singleton(1) at k1. Eventual loglogF(k)=Theta(k), not explicit enumeration/sampler. Natural proof uses short expansion with divisor-rich denominator then injective padding; formal Main calls counting_order_of_main_upper.",
+    "cor:prescribed": "Dk contains exact integer markers m>=2 occurring in SOME distinct exact-k expansion ofONE; different markers can use DIFFERENT expansions. v(k) leastmissing>=2. Eventual exp(exp(k/600))<=v(k)<=1+k^(2^(k-1));liminf loglogv/k>=log2/257,limsup<=log2. Everyfixedc<log2/257 gives eventuallowerbound; endpointc inequality/limit/sharpslope NOT asserted.",
+    "prop:density": "Absolute DM>1,L,S0,DX=DM+2,DC4DX;ALLrealS>=S0 andintegerC in[exp(DC S),exp(2DC S)] admitM,G withe^S<M<=e^(DM S),G subset1..floorX,X=e^(DX S),holes<=X/8. EVERYu inG has <=LlogSunitfraction expansion ofu/(MC),REPETITIONSallowed. M/G maydependC;notone universalset or efficient search.",
+    "lem:distinct": "If0<x<1 isexactsumkpositiveunitfractions,there isEXACTk DISTINCTexpansion,denominators>=2. Pairidentitiesforrepeatedeven/odd denominatorsstrictlyincreaseSUMdenominators;fixedx,k onlyfinitelymanysortedlistsforcesstop. Not total1/markerpreservation/controlleddenominatorgrowth.",
+    "lem:greedy": "Integers1<=a<b,T>b real:O(loglogT) greedy steps terminateorpositiveUNREDUCEDA/C with1<=A<=a,T<=C<T². Numeratordecreases,denominatorupdatedCz<=C²,valuesquadraticallyshrink. Denominators>=2;nonreductionessentialforlaterstructure;notgloballyoptimalfinitegreedyalgorithm.",
+    "lem:divisor": "For FIXEDrealD,r>=1,then sufficientlylargeS(D,r),logX in[S/(2logS),DS],sqrtX<=Y<=X,0<=integerN<=e^(DS):sum1<=h<=Y d_X(N+h)^r<=Yexp(S^1/4). d_X counts ONLYdivisors<=X. Uniformshifts/intervals,butnotgrowingr orarbitrarilytinyY;primeprefixmethodallowsrepeatedprimes/noncoprimeprefix.",
+    "lem:residues": "ForlargeS andC requiredrange,oneM withpower2>=S^D0 andindexedT0..TR each2^mentries,allentriesDIVIDEM. HighlevelcutoffXj>eS usesQ=C,T0,otherwiseQ1,T1;atleast rho|T|/2 smallresidueENTRIES outsideXj exp(-.001m)badnumerators eachlevel. ALLterminaluS^D0..e^m getoneentryfromsomeindependentblock. Multiplicitiesretained;existentialcommonrealization,thresholduniformC.",
+    "lem:discrepancy": "Forlargew,integeru,Q,finiteNONEMPTYindexedT,Fourieraverages<=exp(-3eta w) forall1<=ell<=floor(exp(4eta w)) imply>=exp(-eta w)|T|/2 entries withNONNEGATIVEresidueuz-Qt<exp(-eta w)u. Zeroresidue included,finiteendpointrotation convention preservesmultiplicity;notfullrandomindependence.",
+    "lem:reciprocal-phase": "FIXEDB>=4 thenAB,deltaB>0,largeU,realZ withU4<=absZ<=UB,ANYintervalIin[U,2U]:sum e(Z/n)<=AB U^(1-deltaB). AdaptiveFINITEderivativeorder/differencing+secondderivativebound;constantsdependB,notarbitraryfrequencyorU.",
+    "lem:deterministic": "T0 distinctsubsetproductsofm distinctprimesin[S^K,2S^K],highlevelXj>eS,Cexponentialrange,ell<=floor e^(4eta m):normalizedu-averageSQUARED Fouriermodulus<=e^(-.01m). Offdiagonalnonzerointegerproductdifferences+reciprocalphase estimate;notpointwiseallnumerators.",
+    "lem:random": "IndependentUNIFORMprimeSAMPLES withreplacement,labelledvariables,2m samples,K100,D0100000,m=floorS/logS,D0logS<=logu<=S,w=min(m,logu),1<=l<=exp(.005w):expectedSQUARED Fouriermodulus<=exp(-.01w). Hammingpair/exposure,large reducedq exceptgcd-hitbound,products<q andsmallatoms;additiveorthogonalityworksCOMPOSITEq aftercoefficientreduction. EqualprimeVALUES notsame sample variable.",
+    "lem:marked-cleanup": "TOTALONE listcontainsMULTIPLEofODD Q>1;repeatcleanup gives atmostsame termcount DISTINCTexpansion retainingSOMEdenominatordivisibleQ. Evenreplace2/m->1/(m/2),oddreplace2/m->twofractions,lexsortedtupledescentatfixedlength. OddQinvariantexcludes(1),repeated2. Notexactmarker m nor total<1exactlengthcleanup.",
+    "lem:marked-greedy-prefix": "Integersm>=4,T>=2m²,prefixascending>=2 avoidsEXACTm;1=1/m+sumprefix+R/q,q=mproductni,0<=R<2m,j<3+log2log2T,q<T². Activeceil=m skippedtom+1 atmostonce,eachni<=previousq+1. IfR>0,q>=T andtailR/q strictlybelow1/m AND ALLprefixreciprocals,soANYpositive tailexpansion avoidsreserveddenominators.",
+    "lem:exact-marker-padding": "Distinct r>=3 expansionofONE andONEchosenmarkermamongdenominators ->distinctEXACTr+1 expansionretainingEXACTm. Splitlargestunlessmarkedthenpenultimate;compositealternate splitavoidscollisions,primecaseexceptionimpossiblebycongruence. Doesnotpreserveallmarkersorprovidecountingpaddinginjection.",
+    "prop:marked-length": "Everyepsilon>0 THENthresholdmepsilon,ALLintegerm>=threshold admitdistinctexpansionofONE containingEXACTm withlength<=(257/log2+epsilon)loglogm. NaturalrouteexplicitKm=P(m4)^2floorL! usesprime-triples;actualformalendpointusesDIFFERENTcompositecube-freeKm=base(m4)^4 withsamegrowthbudget. Notendpointepsilon0/allfinitembound/runtimeguarantee.",
+    "lem:rational-divisor-supply": "NaturalSPECIFICKm=P(m4)^2floor(loglogm)!,P(v)firstceil(4logv/log2)primes,Km>m,logKm<=(32/log2+o1)logmloglogm. EVERYinteger1<=s<=m4 sum<=16positiveRATIONALdivisors e/t,e|Km,tpositive,REPEATSallowed. Collisionexceptionprimes+quantitativeTHREEPRIME+5bilinearproducts,smallcasesfactorial. FormalCompositeKmDIFFERS;finalBendpointdoesNOTcertifythisexactintermediateconstruction.",
+    "lem:marked-divisor-density": "qstartsm>=2 thenrepeatedq->nq withintegern<=q+1:forEVERYREALw in[1,q],existsd|q withw/m<=d<=w. Inductioncoverssmallgapq<w<n<=q+1 usingd=q. RequiresUNREDUCEDqproduct;notarbitraryintegerq oruniformdenseallrealnumbers.",
+    "lem:marked-grouping": "m>=2,positiveq,Km,B,divisorscalepropertyq plusALLs1..m4 <=Brationaldivisorsupplye|Km:everyinteger1<=X<=q givesX/(qKm) <=B(logX/(2logm)+2)unitfractions,REPEATSallowed. Removegroupsd_i floor(X_i/d_i),remainder<X_i/m²;unitdenom(q/d_i)(Km/e_i)t_i INTEGER. Noe/tdivisibility/coprimalityneeded;countdependsX,notq."
+  },
+  "method_contracts": [
+    {
+      "key": "WORST-NUMERATOR",
+      "title": "最坏分子的最短项数",
+      "input": "Integers1<=a<b,notnecessarilyreduced,positiveDISTINCTreciprocals",
+      "output": "Eventualmax-minlengthTheta(loglogb)",
+      "cannot_transfer": "Lowerboundnotforeacha;no denominators/bitcostcap",
+      "source_labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "key": "DENSE-TO-ALL",
+      "title": "由高密度转任意输入",
+      "input": "CommonG holes<=X/8,scaledn=gAMin[X/2,X]",
+      "output": "Good+good split yieldsANYoriginalfraction",
+      "cannot_transfer": "GandMmaydependC;noalgorithmcost bound",
+      "source_labels": [
+        "prop:density"
+      ]
+    },
+    {
+      "key": "GREEDY-RANGE",
+      "title": "不约分的阈值前缀",
+      "input": "Exactrationala/b,T>b,ceilgreedysteps",
+      "output": "RemainderA/C withT<=C<T²,shortprefix",
+      "cannot_transfer": "No globaloptimality or arbitrarycancellationofC",
+      "source_labels": [
+        "lem:greedy"
+      ]
+    },
+    {
+      "key": "EXACT-COUNT-CLEANUP",
+      "title": "小于一的同项数去重",
+      "input": "0<x<1,ksumpositiveunitfractions",
+      "output": "EXACTk DISTINCTexpansion",
+      "cannot_transfer": "No exactmarkers/denominatorgrowth/runtime guarantee",
+      "source_labels": [
+        "lem:distinct"
+      ]
+    },
+    {
+      "key": "SHIFTED-MOMENT",
+      "title": "移位区间的截断除数矩",
+      "input": "FIXEDD,r;Y>=sqrtX,controlledN,X,S",
+      "output": "Uniformmomentbound controllingbadpredecessors",
+      "cannot_transfer": "Not growingmomentorder or arbitraryshortinterval",
+      "source_labels": [
+        "lem:divisor"
+      ]
+    },
+    {
+      "key": "DIVISOR-RESIDUE",
+      "title": "整除供给与非负余数",
+      "input": "t|M,z=ceil(Qt/u),h=uz-Qt>=0",
+      "output": "Oneunitfraction plus smallerresiduefraction",
+      "cannot_transfer": "Divisibility/rescalingfactorsintegerrequired",
+      "source_labels": [
+        "lem:residues"
+      ]
+    },
+    {
+      "key": "INDEXED-MULTIPLICITY",
+      "title": "列表索引保留重数",
+      "input": "Productsindexedbysamplebits,possiblyequalvalues",
+      "output": "CorrectFourieraverage/predecessorpair counts",
+      "cannot_transfer": "Equalprimevaluesnotidenticalrandomvariables",
+      "source_labels": [
+        "lem:random",
+        "lem:residues"
+      ]
+    },
+    {
+      "key": "REGIME-SWITCH",
+      "title": "按层阈值切换共同分母",
+      "input": "Cj=Cathighcutoff,1atlowercutoff,C_next|Cj",
+      "output": "TransferexpansionbyintegerCj/Cnext",
+      "cannot_transfer": "Not switchperindividualuorignorefactorC",
+      "source_labels": [
+        "lem:residues"
+      ]
+    },
+    {
+      "key": "DETERMINISTIC-PHASE",
+      "title": "大共同因子的确定性振荡",
+      "input": "Distinctsubsetproducts,largeC,reciprocalphasewindow",
+      "output": "AverageFouriercancellationatupperlevels",
+      "cannot_transfer": "Notpointwiseallmoduli/frequencies",
+      "source_labels": [
+        "lem:reciprocal-phase",
+        "lem:deterministic"
+      ]
+    },
+    {
+      "key": "EXPOSED-PRODUCT",
+      "title": "独立样本暴露与复合模数",
+      "input": "LargeHammingdifference/exposeallbut2sfreshsamples,reducedcoprimeq",
+      "output": "Smallatomproducts+orthogonality=>secondmoment",
+      "cannot_transfer": "Needproducts<q/gcdhitcontrol;notprimeqonly",
+      "source_labels": [
+        "lem:random"
+      ]
+    },
+    {
+      "key": "SIMULTANEOUS-BLOCKS",
+      "title": "一个实例覆盖全部末层",
+      "input": "Fixed1000independentblocks,Markov/frequency/levelunionbounds",
+      "output": "ExistenceonecommonM/allterminalu",
+      "cannot_transfer": "Noindependenceacrossuorlevelsneeded;nosearchimplementation",
+      "source_labels": [
+        "lem:residues"
+      ]
+    },
+    {
+      "key": "EXCEPTION-RECURRENCE",
+      "title": "异常集合的非独立回传",
+      "input": "Indexedpredecessors u|Cjt_i+h,uniformmoment/fixedr>=8Kd",
+      "output": "delta_j<=epsilon+A delta_next^alpha,smallholes",
+      "cannot_transfer": "Chooseconstants/r BEFORE S;notindependentexceptionassumption",
+      "source_labels": [
+        "prop:density",
+        "lem:divisor"
+      ]
+    },
+    {
+      "key": "ODD-DIVISIBILITY",
+      "title": "总和一保留奇因子",
+      "input": "UnitfractionsTOTALONE,one denominator multipleoddQ",
+      "output": "Atmostsame length/distinct/somemultipleQ remains",
+      "cannot_transfer": "Notexactm or samecount",
+      "source_labels": [
+        "lem:marked-cleanup"
+      ]
+    },
+    {
+      "key": "COUNTING-INJECTION",
+      "title": "固定长度的分叉与注入",
+      "input": "Fixeddivisorrichdenominator,properdivisorsavoidcollisions",
+      "output": "Manydifferentexpansions,largestpaddinginjects",
+      "cannot_transfer": "Maydestroy exactmarked denominator",
+      "source_labels": [
+        "cor:counting"
+      ]
+    },
+    {
+      "key": "EXACT-MARKER-PREFIX",
+      "title": "跳过标记的贪心前缀",
+      "input": "m>=4,T>=2m²,keepunreducedq,skipceil=m",
+      "output": "Tailbelowallreservedreciprocals,automaticavoidance",
+      "cannot_transfer": "Requirespositivetail;notpreserveallmarkerswithoutproof",
+      "source_labels": [
+        "lem:marked-greedy-prefix"
+      ]
+    },
+    {
+      "key": "EXACT-MARKER-PADDING",
+      "title": "增一项保留一个精确分母",
+      "input": "Distinctr>=3expansionofONE,onechosenm",
+      "output": "Distinctr+1expansionwithmretained",
+      "cannot_transfer": "Oldlemma,notinjectivealltuplepadding/allmarkers",
+      "source_labels": [
+        "lem:exact-marker-padding"
+      ]
+    },
+    {
+      "key": "NATURAL-PRIME-SUPPLY",
+      "title": "自然语言三素数有理除数供给",
+      "input": "SpecificnaturalKm=P(m4)^2floorL!,primecollisionexceptionand3primebound",
+      "output": "Alls<=m4 <=16rationaldivisors,32/log2growth",
+      "cannot_transfer": "ExactKm nottheactualformalcompositeauxiliary",
+      "source_labels": [
+        "lem:rational-divisor-supply"
+      ]
+    },
+    {
+      "key": "FORMAL-COMPOSITE-SUPPLY",
+      "title": "形式证明的复合模数供给",
+      "input": "ActualCompositeSupplyFinal/Size:base(m4)^4,bad-conductordensity/cube-freebridge",
+      "output": "Same16rationaldivisorinterface/32loggrowth/final257length",
+      "cannot_transfer": "Selectedendpoint/proofinterfacesonly;fullarithmeticclosureunknown",
+      "source_labels": []
+    },
+    {
+      "key": "DIVISOR-GROUPING",
+      "title": "保留乘积的尺度分组",
+      "input": "Unreduceddivisordenseq+Brationalsupply,Kpositive,X<=q",
+      "output": "AtmostB(logX/(2logm)+2)unitfractions",
+      "cannot_transfer": "Termcountnotdenominatorbits;X=RKm notq",
+      "source_labels": [
+        "lem:marked-divisor-density",
+        "lem:marked-grouping"
+      ]
+    },
+    {
+      "key": "SLOPE-QUANTIFIERS",
+      "title": "严格小于极限斜率的量词",
+      "input": "EVERYepsilon>0eventualmarkedlength,finite smallm,exactpadding",
+      "output": "Everyfixedc<log2/257 eventualv(k)lowerbound",
+      "cannot_transfer": "Notc=endpoint eventualinequality orlimexists",
+      "source_labels": [
+        "prop:marked-length",
+        "cor:prescribed"
+      ]
+    },
+    {
+      "key": "CONSUMER-GATE",
+      "title": "实际单位倒数消费者",
+      "input": "Actualpositiveexactrationalresource/clock/exposure model,distinctintegerdenominators",
+      "output": "Specifiedobjective/independentjudge/markersemantics",
+      "cannot_transfer": "No actualconsumerfrozen;phases/horizon/negativeweightsunbridged",
+      "source_labels": []
+    },
+    {
+      "key": "BITCOST-GATE",
+      "title": "完整分母与搜索成本",
+      "input": "Actualfiniteinputthreshold/denominatorbits/horizon,oldgreedy/Vose/constrainedbaseline",
+      "output": "Fulltime/memory/encodedsize/qualitycomparison",
+      "cannot_transfer": "Fewertermsaloneisnotcompression/speed;existentialCnotfiniteprediction",
+      "source_labels": []
+    }
+  ],
+  "notes": [
+    "Whole10TeX2413+249Bib andREADME read,singlecataloguedmanuscript/noownversionnotes/historynoF025revision. Actualtransitiveincludeclosure10files:random.tex isINPUTFROMresidues.tex,notorphan. Initialdirectmain-onlydiscovery correctedbeforecanonicalcuration. Sourcefullreadnotfullfamily/historicalclosure.",
+    "N(a,b)minimumDISTINCTpositiveunitfractions2<=denominators,1<=a<b INTEGERSnotrequirecoprime;N(b)MAXovera,worstcaseTheta(loglogb)eventual. N(1,b)=1,so notallnumeratorsmatchinglowerbound. No upperboundfinaldenominators/bitlength/runtime. c1,c2,b0absoluteexistential,notfiniteinputconstantguarantee.",
+    "DensefamilypropositionSreal,Cintegerinexp(D_CS)..exp(2D_CS),MdependsS,C withe^S<M<=exp(D_MS),G misses<=X/8;eachu/(MC)uses<=LlogSunitfractionsREPEATSallowed. ScaleA/CnumeratorA<=a,greedyunreduceddenominatorcrossesT..T² inO(loglogT);n=gAMin[X/2,X] hasgood+goodsplitbyholes. Dividebyintegergmeansmultiplyunitdenominatorsg;globalrepeatcleanupafterprefix.",
+    "RepeatcleanupforTOTALx<1 keepsEXACTtermcountk:pairedidentitiesreplaceeven/odddoubleterms,increaseSUMdenominators,finitefixedkexpansionlistsforcesstop. Nofinite-runtime/bitgrowthboundgiven. AtTOTAL1 differentcleanupkeepsatmostlengthandDIVISIBILITYbyODDQ only;notexactmarkeddenominator.",
+    "Uniformtruncateddivisormomentd_X(N+h)^r:FIXEDD,r beforeSlarge,S/(2logS)<=logX<=DS,sqrtX<=Y<=X,N>=0integer<=expDS. Shift-uniformboundYexp(S^1/4). Primeprefixsmall/large/intermediate split,notuniforminr-growing-withS orarbitraryshortY. Handlesprimepowers/repeatedlabels/noncoprimeprefix.",
+    "Residuestepu/(MQ)=1/((M/t)z)+h/(MQz),z=ceil(Qt/u),h=uz-Qt leastNONNEGATIVEresidueof-Qt. ListsdivisorsofMindexedwithmultiplicities;actualrandomvariablesindependentSAMPLES evenvaluesrepeat. HighlevelsQ=C/deterministicT0,middleQ1/sameT1,terminalANYRindependentblocks,binarypower2. C_j changesbydivisibilityonLEVELcutoffnotindividualu.",
+    "FixedK100,R1000,D0100000,eta1e-4,DM=(2R+2)(K+2),DX=DM+2,DC4DX;Sthresholdabsoluteunspecified. m=floorS/logS andlists2^m entries,notpolynomial-ininput-bitlengthalgorithm. PNTprimepopulation used,Markov/frequencyandlevelunionbounds plusindependentblocksforallterminalu giveonecommonrealizationexists. Noindependenceassumedbetweendifferentu/levels.",
+    "Deterministicreciprocal-phaseboundforU^4<=absZ<=U^B withFIXEDB,adaptivefinite derivativeorderconstantsdependB;offdiagonalproductsdistinct. Randomproductsecondmoment usesHammingdistance,exposureIselectedvariablesatdifferingcoordinates,large reducedq exceptgcdhitprobability,products<q andsmallatoms,COMPOSITEq additivecharacterorthogonality/coprimecoefficient. Discrepancyretainszeroresidue/endpoints,notunqualifiedcontinuousuniformrandomness.",
+    "Backwardgoodsetrecurrence retainsinheritedG_next andindexedpredecessorcountu|C_jt_i+h. HolderYfactorcancelsrho^-1;fixedr>=max2,8Kd beforeS,depth<=KdlogS,alpha=1-1/r. Badproportionsdelta_j<=epsilon+A*delta_next^alpha withalpha^d>=S^-1/4;notassumingindependentexceptionsacrosslevels. Terminalreductionhaspowerlogshrinkandbinaryfinish.",
+    "CountingF(k)EXACTkdistinctorderedascendingexpansionsofONE,includes(1)atk1. MarkedcleanupmaintainsMULTIPLEofODDQ thenproperdivisorssplitonefixeddenominatorinjectively;largestdenominatorpaddinginjectsF(l)->F(l+1)butmaydestroyexactmarker. Finitebox n_i<=k^(2^(i-1)),F(k)<=k^(2^k-1);notlistalltheseexpansionsalgorithm.",
+    "Exactmarker m>=4 prefixSKIPSmusingm+1once,maxunreducednumerator<2m,q=mproductni<T²,tailstrictlybelowALLreservedreciprocals. Positiveexpansionofsmalltailautomaticallyavoidsmarkerandprefix. Exactmarkerpaddingr>=3 keepsm,needscompositealternate split orprimecongruencecontradiction;differentfromcountinginjection.",
+    "Quantitativeprefixroute independentofmainunknownc2:forlargeM-marker m, Km=P(m^4)^2 floor(loglogm)! usingceil(4logv/log2)primes,logKm<=(32/log2+o1)logmloglogm,EVERYs<=m4 expressible<=16positive rationaldivisors e/t,e|Km. Naturalrouteusesprime-paircollisions/exceptionalprimes+quantitativeTHREEPRIME theorem,5bilinearproductsforprime=>15/16terms;smallintegersabsorbedfactorial. GroupsdivisordenseUNREDUCEDq scalesw/m..w;X=RKm<q controlslogX/(2logm)+2,NOTlogq.",
+    "Markedlengthcoefficient(1+16*16)/log2=257/log2 fromprefix+groups,forEVERYepsilon>0eventuallynotfixedfiniteallm. Everym2..smallhandledseparatelythenexactpaddingforalllargek. v(k)LEASTinteger>=2 absentfromDk,eachmarkermayusedifferentexpansion;notoneexpansioncontainingallmarkers. Eventualexp(exp(k/600)),liminf>=log2/257,limsup<=log2;endpointc=log2/257 eventualinequalityNOTclaimed,nolimit/sharpslope. Formalnegc extensionharmlessv>=2.",
+    "No newnumericaloutput/consumer/judge/baselineprotocol. Candidate statusnotchangedjustfromfinitefractionidentities;threehistoricalscopesselectednotrecursiveclosure.",
+    "BothregisteredconfigsandALL4challenge/Mainfilesactualread. EgyptianFractions9endpoints genuineQsum/StrictMonoFin k/Natdenominators/minimumattainment/finiteexpansionncard/missing sInfactualsemantics;notabstractaxiomaticplaceholder. ShortEgyptianlistPairwise< equivalentordereddenominators,existenceALLa<b andeventualmaxminboundsactualmain.",
+    "RawDensityUpperwholeandRawDensityExistence250-end selected:RawDensitySupply explicitresiduefamily/depth/size fields,mainupperconditionalinterfacenotalone proof. ActualMain obtains UNCONDITIONALexists_raw_density_supply thencomposesupperwithlower,notleftasassumption. Fullarithmeticproofclosureunread/nobuild.",
+    "Quantitative257exactmarker endpoint actualMain callsCompositeSupply.quantitative_marked_length,notprime-tripleconditionalreduction. ActualCompositeSupplyFinalwhole:globalbadmodulusdensity->cube-free/composite16rationaldivisorsupply->prefixbridge. CompositeMarkedReduction/CompositeSupplySizewholeactualread:multiplier=base(m4)^4,primeCountu=ceil(2logu/log2),same32/log2growthcoefficient. ThisDIFFERSfromnaturalP(m4)^2factorial and3primeproof;doesnotformalizeeveryintermediatenaturalKidentity.",
+    "HasRationalDivisorSupply actualdefinition∀s1..m4,list<=Bpositive(e,t),e|K,exactrationalSUM. Main/quantifiedendpointselectedB,exactpaddingB,corollarycounting/prescribedB;naturalintermediatelemmasC/fullchainunknown. Staticindexcannotprove theoremindependence:Mainimportsunused3primefiles,eventualtheoremproofdoesnotcallthe3primeconditionalroute. NoLean/Comparatorbuild/human.",
+    "Actualview_image two1700pxPNGpages verifiedErdos1950p195 oldupper/conjecture/lower andTY1990p151 simultaneousbounds;webscreenshotrequestedbutreturnedtextonlynotvisualevidence. No needwholeoldPDFproofclaim.",
+    "Formalcombinedindex348files2161declarations,nolexicalplaceholder/axiom;notnoaxiomsinproofclosure orbuild."
+  ],
+  "remaining": [
+    "Recursivehistoricalclosureincomplete:3selectedoriginalscopes,20otherbibliographyrootbodies/deepprerequisitesnotread;Vose1985bodyunread,knownviaactualvanDoornTangselectedstatement.",
+    "ActualregisteredendpointsandselectedsupplyinterfaceslocalB,348files2161declarationlexicalindexnotbuild/Comparator/fullproof/human. NaturalEXACTKm/specificprimetripleintermediateC.",
+    "Noactualconsumer/finiteeffectiveconstant/denominatorbitcost/strongoldfullcost/independentjudge;no newcandidate/initial/numericalrun.",
+    "Humanandsecondproviderdeferrednotwaived."
+  ],
+  "new_candidate_count": 0,
+  "new_application_run": false,
+  "formal_status": "Actualtwo registered Main scopes selectedlocalB;348files2161declstaticindex,nobuild/Comparator/human. NaturalintermediatesC. Quantitative257endpointformalcompositesupply differsfromnaturalthreeprimespecificKm."
+}

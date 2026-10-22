@@ -1,0 +1,78 @@
+{
+  "recorded_at": "2026-10-20T22:59:05.122754+00:00",
+  "source_archive_members": 6,
+  "source_archive_gzip_sha256": "43d403ca6b33b9c191deab2a164111b19b6b093aff6c0a10ea78f60a044386bd",
+  "source_archive_decompressed_sha256": "52f8023f0b84b4699039313a1c9c553ecf3a46151ca49551b3ab60e5e18a38d7",
+  "member_hashes_and_roundtrip_verified": true,
+  "prior2nodes_match_HEAD": true,
+  "other_prior_nodes_unchanged": 2204,
+  "upstream_unchanged_and_clean": true,
+  "temporary_files": [
+    {
+      "name": "hodgerank-p227.png",
+      "bytes": 273000,
+      "sha256": "024550ee24607856f5b8f8c2873c2327d4ec8d2d72325f441ddc157dd4061376"
+    },
+    {
+      "name": "LICENSE",
+      "bytes": 1067,
+      "sha256": "a39648944b59456ae8469ede4470b167a363413e7816603c37475c8c3056598f"
+    },
+    {
+      "name": "testing_sampling.m",
+      "bytes": 1107,
+      "sha256": "9e9024cdde87d93a840f988a54e995f2daa4582a221b04a214b91239dea6708c"
+    },
+    {
+      "name": "README.md",
+      "bytes": 1115,
+      "sha256": "59ee86c75dd17da3a6f504b326053c79fdba7cf10279535f9002714d6dfb848f"
+    },
+    {
+      "name": "RowSampling.m",
+      "bytes": 946,
+      "sha256": "2099639c5af773b454d761ee3feeccf7a7f21db5dd7353c6d5bff521c0c2cd21"
+    },
+    {
+      "name": "hodgerank-v1.pdf",
+      "bytes": 494090,
+      "sha256": "155fe95cc1cdb73f6f3f71b5415e221370e5a4c590ef376fd476c54ccc24ec01"
+    },
+    {
+      "name": "hodgerank.pdf",
+      "bytes": 661590,
+      "sha256": "3395991f98a7ca746f8cb7db6bc8b106d09d2f01d05b412d48fea1724aa1ce8a"
+    },
+    {
+      "name": "assembleGraphLaplace.m",
+      "bytes": 403,
+      "sha256": "90190d493c3da4b0b10773f1e01da1da6b4594cac573ec2ea209f3e8fc0a1376"
+    },
+    {
+      "name": "cgls.m",
+      "bytes": 4915,
+      "sha256": "ad2891d2dd17f902266b01139dafd8aae3a98dec550da6f48fc8b24c8acbc48b"
+    },
+    {
+      "name": "hodgerank-v1.txt",
+      "bytes": 135143,
+      "sha256": "741b9f698d0f1056be950471f2792ed5333eada6a4cb9e7d17d5eb74acff3301"
+    },
+    {
+      "name": "hodgerank.txt",
+      "bytes": 138145,
+      "sha256": "3b1276d157114dca0267bd6be0f184aa62aa7292a4114adc80a80269b63c2370"
+    },
+    {
+      "name": "hodgerank-v1-p20.png",
+      "bytes": 297336,
+      "sha256": "b7bdadedace98fbed9697f4b73f0a7758ae8dfb74ef3259b24b845834d720906"
+    }
+  ],
+  "temporary_bytes_removed": 2008857,
+  "temporary_directory_removed": true,
+  "new_application_run": false,
+  "software_executed": false,
+  "external_paper_fulltext_redistributed": false,
+  "old_replays": "Not repeated: numerical sources unchanged since WP05213archive andactual314076receipts."
+}

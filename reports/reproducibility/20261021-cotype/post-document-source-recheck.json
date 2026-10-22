@@ -1,0 +1,9 @@
+{
+  "recorded_at": "2026-10-21T07:51:14.225549+00:00",
+  "local_source_annotations_verified": 5188,
+  "distinct_local_files": 925,
+  "compressed_helper_members_verified": 18,
+  "temporary_directory_absent": true,
+  "checkpoint_next": "WP-085 then mandatoryretro030",
+  "goal_incomplete": true
+}

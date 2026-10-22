@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-math-value"
+version = "0.1.0"
+description = "Traceable application research on a pinned mathematical manuscript corpus"
+requires-python = ">=3.11"
+dependencies = []
+license = "Apache-2.0"
+
+[project.optional-dependencies]
+bosonic = ["numpy==2.3.5"]
+
+[project.scripts]
+ai-value = "ai_value.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ai_value = ["*.html", "*.js"]

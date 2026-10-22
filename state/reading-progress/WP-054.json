@@ -1,0 +1,115 @@
+{
+  "work_package": "WP-054",
+  "saved_at": "2026-10-20T23:00:04.275598+00:00",
+  "status": "canonical_actual_interface_audit_complete_WP054",
+  "canonical_counts_changed": false,
+  "software_commit": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+  "software_url": "https://github.com/jiangzian96/fast-HodgeRank",
+  "software_read_files": [
+    {
+      "name": "README.md",
+      "sha256": "59ee86c75dd17da3a6f504b326053c79fdba7cf10279535f9002714d6dfb848f",
+      "scope": "Whole actually read",
+      "lines": 22
+    },
+    {
+      "name": "LICENSE",
+      "sha256": "a39648944b59456ae8469ede4470b167a363413e7816603c37475c8c3056598f",
+      "scope": "Whole actually read",
+      "lines": 21
+    },
+    {
+      "name": "assembleGraphLaplace.m",
+      "sha256": "90190d493c3da4b0b10773f1e01da1da6b4594cac573ec2ea209f3e8fc0a1376",
+      "scope": "Whole actually read",
+      "lines": 20
+    },
+    {
+      "name": "cgls.m",
+      "sha256": "ad2891d2dd17f902266b01139dafd8aae3a98dec550da6f48fc8b24c8acbc48b",
+      "scope": "Whole actually read",
+      "lines": 172
+    },
+    {
+      "name": "RowSampling.m",
+      "sha256": "2099639c5af773b454d761ee3feeccf7a7f21db5dd7353c6d5bff521c0c2cd21",
+      "scope": "Whole actually read",
+      "lines": 42
+    },
+    {
+      "name": "testing_sampling.m",
+      "sha256": "9e9024cdde87d93a840f988a54e995f2daa4582a221b04a214b91239dea6708c",
+      "scope": "Whole actually read",
+      "lines": 38
+    }
+  ],
+  "primary": {
+    "url": "https://web.stanford.edu/~yyye/hodgeRank2011.pdf",
+    "pdf_sha256": "3395991f98a7ca746f8cb7db6bc8b106d09d2f01d05b412d48fea1724aa1ce8a",
+    "text_sha256": "3b1276d157114dca0267bd6be0f184aa62aa7292a4114adc80a80269b63c2370",
+    "actual_text_ranges": [
+      [
+        1,
+        140
+      ],
+      [
+        395,
+        570
+      ],
+      [
+        1318,
+        1455
+      ],
+      [
+        1525,
+        1560
+      ]
+    ],
+    "actual_pixel": {
+      "name": "hodgerank-p227.png",
+      "sha256": "024550ee24607856f5b8f8c2873c2327d4ec8d2d72325f441ddc157dd4061376",
+      "printed_page": 227
+    },
+    "scope": "2011 original publisher author personal copy; Thm3 normal equations, weighted edge model and residual, selected only; other history/proof/data unread"
+  },
+  "findings": [
+    "Old Eq1/2/7/8 already weighted additive score-difference fit on incomplete observed edges and prior weights; residual/cyclic interpretation not new.",
+    "Normalized A=diag(delta^-1)B WLS with sigma corresponds physical y_phys=delta*y and c=sigma/delta², not c=sigma. Elementary coordinate conversion; do not claim new theorem.",
+    "General consistent linear retraction minimax can be an LP in P=A*T, T*A gauge-identity and entrywise epigraph. Such arbitrary retraction is a relaxation, not necessarily sigma-floor orthogonal family. Do not compare unequal feasible classes as an eligible baseline win.",
+    "Actual fixed MATLAB script n500,p.99,exp integerweights,random edge ratings and uniform sampled normal matrix is synthetic/no human groundtruth and no l_inf certificate. No software run.",
+    "RowSampling uniform branch returns S zero but As selected rows; caller uses original full RHS, no sample normalization visible. Static source scope, not executed bug or F094 failure.",
+    "CGLS default min(m,n,20),1e-6 relative normal residual,optionalshift; not an exact projection/certificate. Includes older Hansen/Saunders attribution; upstream license provenance not independently closed beyond repoMIT assertion.",
+    "Printed227 actual pixels show diagonal sum_i w_ii instead of degree sum_j w_ij; equation25/normal-equation definition separately. Versioned typographic scope question, not mathematical theorem refutation.",
+    "Same diagonal typography appears in both actual v1p20 and publishedp227 pixels. Use defining B^T C B for future judge; no author confirmation/theorem rejection."
+  ],
+  "failures": [
+    "www.web.stanford.edu TLS certificate hostname mismatch60; recovered by actual author web.stanford.edu URL with normal TLS verification. Initial dependent extraction/read attempted missing file; no body credit until successful download."
+  ],
+  "remaining": [
+    "No new finite weight-search implementation,real latent-noiseconsumer,wholeoldpaperproof/history,independentprovider/human or actual application run;candidate remains pending."
+  ],
+  "primary_v1": {
+    "url": "https://arxiv.org/pdf/0811.1067v1",
+    "title": "Learning to rank with combinatorial Hodge theory",
+    "version": "7Nov2008v1 actualcover",
+    "pdf_sha256": "155fe95cc1cdb73f6f3f71b5415e221370e5a4c590ef376fd476c54ccc24ec01",
+    "text_sha256": "741b9f698d0f1056be950471f2792ed5333eada6a4cb9e7d17d5eb74acff3301",
+    "actual_text_ranges": [
+      [
+        1,
+        65
+      ],
+      [
+        1060,
+        1148
+      ]
+    ],
+    "actual_pixel": {
+      "name": "hodgerank-v1-p20.png",
+      "sha256": "b7bdadedace98fbed9697f4b73f0a7758ae8dfb74ef3259b24b845834d720906",
+      "printed_page": 20
+    },
+    "scope": "Selected cover and Theorem5.1/normal equations; diagonal sum_i w_ii present in actualp20pixels too. No fullpaper/recursive lineage audit."
+  },
+  "canonical_ledger": "data/provenance/demand/F-094-hodge-contracts.json"
+}

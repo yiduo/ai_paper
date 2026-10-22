@@ -1,0 +1,8 @@
+test_analysis_foreign_keys_join_methods_but_identical_doi_versions_stay_distinct (test_navigation.NavigationTests.test_analysis_foreign_keys_join_methods_but_identical_doi_versions_stay_distinct) ... ok
+test_explicit_gate_and_comparator_are_preserved_without_closing_dependencies (test_navigation.NavigationTests.test_explicit_gate_and_comparator_are_preserved_without_closing_dependencies) ... ok
+test_text_only_baseline_and_unrun_plan_do_not_become_checked_edges (test_navigation.NavigationTests.test_text_only_baseline_and_unrun_plan_do_not_become_checked_edges) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK

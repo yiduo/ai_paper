@@ -1,0 +1,71 @@
+{
+  "recorded_at": "2026-10-21T07:12:37.800243+00:00",
+  "helper_gzip_bytes": 22752,
+  "helper_uncompressed_bytes": 66097,
+  "helper_members": 11,
+  "all_member_roundtrips_and_hashes_verified": true,
+  "helper_files": [
+    {
+      "name": "archive-integrity.log",
+      "bytes": 110,
+      "sha256": "7c07426d1b28a44da10d371429a396d63e213e84b4a16641a338f3dd107826cd"
+    },
+    {
+      "name": "archive_integrity.py",
+      "bytes": 1364,
+      "sha256": "c7edeb2f76ce594b8551ca97f6e01559cf72091c6f62764e0223b899500960ce"
+    },
+    {
+      "name": "core.log",
+      "bytes": 10245,
+      "sha256": "6c9a403c5c73df7b374c0b7347b947687e3b6b2f74f306dc8c70a1444f101c09"
+    },
+    {
+      "name": "curate.py",
+      "bytes": 24492,
+      "sha256": "a97a0bc4e42f2cb2eb491c1c90343eb36ad7674b4967e9d66cedc499bcafe0a9"
+    },
+    {
+      "name": "export.log",
+      "bytes": 542,
+      "sha256": "ea14a7c0ddc9d6d1003d5e01680fef3526aeddf957ecdc90b1b4fd6a603c0375"
+    },
+    {
+      "name": "finish.py",
+      "bytes": 15708,
+      "sha256": "f74d4a618024dd90cb21aa644f24cf26d979c050533bbefe77f8ca22dbb3979f"
+    },
+    {
+      "name": "integrity.log",
+      "bytes": 964,
+      "sha256": "6a3ad71c1c25a342a3c79839f60f5c58e416e4ff8e3a7363646ff4fe7e93c556"
+    },
+    {
+      "name": "integrity.py",
+      "bytes": 6594,
+      "sha256": "b8d6317c77a41dda672aeac30bb5f902b29651315f80b4660b336753ba7eb603"
+    },
+    {
+      "name": "quality.log",
+      "bytes": 83,
+      "sha256": "aa96e331a248abedac1e3ddf8ec7fdba9c48f038f9a9b6c2604fd8ddca45ba15"
+    },
+    {
+      "name": "quality.py",
+      "bytes": 3008,
+      "sha256": "59b2cb42196dd45689ea605fc0c6768201ea5684237191dd346f79ffcdbfb59f"
+    },
+    {
+      "name": "read-index.py",
+      "bytes": 812,
+      "sha256": "0a03d637cbbf8899e4648a2af50fc17c63741b697e0f6fc585d7669b1416858c"
+    }
+  ],
+  "temporary_bytes_removed": 6605357,
+  "external_primary_text_and_rendering_bytes_removed": 6541435,
+  "external_original_hashes_saved": "retrieval-and-reading.json;acquisition observations,not retained original bytes",
+  "temporary_directory_removed": true,
+  "new_numerical_data": false,
+  "old_numerical_archives_verified": 14,
+  "dependencies_installed": false
+}

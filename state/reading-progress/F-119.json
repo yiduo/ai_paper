@@ -1,0 +1,183 @@
+{
+  "work_package": "WP-047",
+  "status": "full_natural_draft_curated_selected_formal_originals_only",
+  "saved_at": "2026-10-20T21:28:59.089238+00:00",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-7b195817917cb11a",
+  "files": [
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/figures/reflected-core.tex",
+      "sha256": "2b2720249b7f9bf93e579b180833ed3f1cd3aed0cc992f8bf2a64a8adeeecc41",
+      "lines": 18,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/main.tex",
+      "sha256": "ad04285e5eaa23a9b7a897f4501176e13f139bb04811c91576d5cc717cb5f8ca",
+      "lines": 334,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/canonical.tex",
+      "sha256": "fc449aa1321ed2fd73b4791311a6f61f4de16a99609021e3a94ebcbb381a0ed7",
+      "lines": 310,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/capacity.tex",
+      "sha256": "f0a33b2ce10a3055f8333bf817e779417be9819b3acf519008bc26ce07c9f53c",
+      "lines": 116,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/flow.tex",
+      "sha256": "9065dd3bd4bf33f66547e58c0a39c5841103f48d134cbe9eea392ec5289653c1",
+      "lines": 116,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/reserve.tex",
+      "sha256": "2b4c8b10712f4c15a4e3787c9e0f9687d6020110987f50b1612a3139f221171c",
+      "lines": 291,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/scalar.tex",
+      "sha256": "03b64ba1af8ce45b6d4670c0cf919abc119838e9624e06c5c0e2c720032007cb",
+      "lines": 219,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/thinning.tex",
+      "sha256": "c52291a2068e607bf09e56761a6e8c0c6ef75b24c3d33385f45899f7a4b96cc8",
+      "lines": 493,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/sections/upgrade.tex",
+      "sha256": "2c0d5677a9dbc7a070dea066b50ceca5e0655fa1beb9cddb0d5f312274a09947",
+      "lines": 284,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/README.md",
+      "sha256": "0e82e66c549753a9362cacf618d7a60883c03ffba06ec88a8e0d47be075b8527",
+      "lines": 18,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/figures/proof-regions.tex",
+      "sha256": "ad972a66dc52f1abfe3fbc0416b90fdf3c1f1d947e595449a747491de95f3ecb",
+      "lines": 34,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/main.tex",
+      "sha256": "b286e05e0e9321c4a0cb925734a078b127e9d8694e8fccc5d4f6a484bfb0347b",
+      "lines": 195,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/arithmetic.tex",
+      "sha256": "e175c68e2674f88282ddf06d0ade02b765f3489d49e31608ef3fd061cbfddc8d",
+      "lines": 106,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/central.tex",
+      "sha256": "4299dce6a51124a18754cbd964adfeeded192d145ff78d5518dce6067a63f860",
+      "lines": 632,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/conclusion.tex",
+      "sha256": "237d7117ffcbe2357436a7a7106821d71278f27d54be15b598ede1e9482e2761",
+      "lines": 74,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/continuation.tex",
+      "sha256": "e66a6045882baf985dd9ea7569ffed62b9ee3b716c90a7f6f8f3b4c15bde5521",
+      "lines": 126,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/induction.tex",
+      "sha256": "1a8ce2bbd7dd38bec9c688cbc9b626abcd21218065ff0caf06dc91842ee3d9cf",
+      "lines": 363,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/intermediate.tex",
+      "sha256": "6449ecf10b7bd68bd4a7b8ea3eb0d640ddd176d9d37379695272ea28b02d4664",
+      "lines": 561,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/large-bias.tex",
+      "sha256": "12e31ef806052b4c6cddcb519e6bcb56d14439a9b2d90aca72077a87485a7d83",
+      "lines": 465,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "d1d8b9f19f7a3813de9caf75ad9a2a288bec75dce8804abce00aa556b5fa8fe2",
+      "lines": 44,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/references.tex",
+      "sha256": "2e57a8f32d33e9f4895c4debc8879f4e81417b73294b81e44ecfa40ce10d1f98",
+      "lines": 115,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/sections/scalar.tex",
+      "sha256": "8b7936e2e2aead6a7f10a1d9fe283d2b9345be59ab93278c5e875c80cdff73e5",
+      "lines": 911,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/build/supporting/typography-mappings.tex",
+      "sha256": "d7ec677b39df35dc522cf73aaa1ab8dc05f76a3419efe1f0013e8621cf38b2f1",
+      "lines": 51,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Hellinger-contraction-with-arbitrary-Boolean-output-bias-September-24-2026/README.md",
+      "sha256": "5430c1bcd0d10602c467bb0ae53dddbd54fd822c98cdd7af5ef2f00df3af34cd",
+      "lines": 35,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    },
+    {
+      "path": "math/preprints/Sharp-binary-information-contraction-on-the-discrete-cube-September-24-2026/build/references.bib",
+      "sha256": "e3ad73bb650998fd012597fc14f72320dee293aa475e7f69f703e19f1df738c2",
+      "lines": 241,
+      "read_scope": "Whole naturalmodule/proofs/figures/supportingcharacters orallbibliographyentries read"
+    }
+  ],
+  "counts_incremented": true,
+  "full_natural_source_read": true,
+  "notes": [
+    "Firstpaperfull2181TeX+241biblinesread. I=H(mean)-EH(g),nats;rho=e^-t andgeneratorN=1/2sum(Id-flip). Signedrhohandledbyinputreflection. Boundaryinputsusepositive-timeinteriority.",
+    "StrongsoftcontractioncurvealreadyfromearlierChen2026Lemma9.2Fbranch;newmean-dependentproductionB_m=2I+(1-m²)S(L-(H(m)-I)/(1-m²)),hybridmaxB,F. Atfixedm>0,h=H(m)-Ito0,B/C_old→1+m. Finiteintegratednoisebudgetcomparisonisconditionalapplicationlead,notrun/notregisteredyet.",
+    "Canonicalthreepointcorepluscommoncorners usesaverageentropyconstraint,not replacingindividualchildentropies. ReserveSzeroextensionC1notC2;mean/outputbiasdiffersfrominputdistribution.",
+    "Potentialfiniteapplication: uppercertificate onbinarysummaryinformationatfixedmean/initialI;compareintegratedstrongolderC_mandexactfinitecubechanneljudge. NeedoriginalLemma9.2normalization andstrongoldfinitecurvebeforeanyspec/count;no asymptoticratio asfiniteexperimentalclaim.",
+    "Bothnaturalsourcesnowread22TeX5858lines;first2181+second3677includessecondreferences115. Scalarappendix427-506rereadaftertruncation;no creditfromtruncatedoutput.",
+    "HellingerH=sqrt(1-r²),notfirstpaperentropyH. WeightedaffinityH(m)(1-A),notunweighted1-Aforbiasedoutput. UniforminputandBooleanonly;boundimpliesordinaryCK,notthefullsoftproductioninterface.",
+    "Hellingernaturalproofusesdimensioninduction s<=.84 thenenergycrossing centralm<=r²/2/intermediatetor.74/largebias>=.74. Exactdecimals,rationalBernstein/intervalcertificates,21initialboxesand17profiles. README/verificationREADME/requirementsscope read,notfullverificationcode or execution;Sympy1.14missingcurrentpython,noinstall.",
+    "ActualSoftChannelMain/ModelandfullSoft/Courtadechallengesread. SoftMainhasactualproofentrancesforfullsoft/refinedBoolean/sharpProduction;registeredcataloguecontainsBooleanCourtadeconfigonly,noSoftconfig/Hellingerentryfound. Static70files1061declsoft,43files718boolindex;Mathlib39externalmodulesonly,nobuild."
+  ],
+  "first_manuscript_full_natural_read": true,
+  "first_tex_files": 9,
+  "first_tex_lines": 2181,
+  "first_bibliography_lines": 241,
+  "remaining": "28originalbodies/recursivehistory/versiondiffs,fullformalproofchain/build,arithmeticexecution/humanreviews;APP119conditionalnotrun",
+  "read_tex_files": 22,
+  "read_tex_lines": 5858,
+  "ledger": "data/provenance/readings/F-119.json",
+  "qualified_result_bindings": 41,
+  "method_contracts": 20,
+  "selected_original_roots": 5,
+  "unique_bibliography_roots": 33
+}

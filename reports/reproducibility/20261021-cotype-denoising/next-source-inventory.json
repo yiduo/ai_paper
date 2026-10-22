@@ -1,0 +1,56 @@
+{
+  "family_id": "F-153",
+  "scope": "File inventory and README metadata only;no body/proof/code executed or reading credit",
+  "files": [
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/README.md",
+      "bytes": 1243,
+      "lines": 32,
+      "sha256": "d424bb87e55aea065c732431326db05fd9fdd456228fdc66f79d97649525935b"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/certificate.tex",
+      "bytes": 28046,
+      "lines": 675,
+      "sha256": "7d71cb685bcf4b33dd0ce8a9ae34dd0be0afdff28596d77f2515f5ee638ea47d"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/classification.tex",
+      "bytes": 27828,
+      "lines": 704,
+      "sha256": "adf8f2def37053838a980a052ffa9d37bfffc83a4953007cb8ec54ceae68712e"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/main.tex",
+      "bytes": 9147,
+      "lines": 80,
+      "sha256": "99878062e61cd5bc299afcb5f20181e87044a95616d1147d203ad4bcbefa232e"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/nonpisot.tex",
+      "bytes": 26671,
+      "lines": 675,
+      "sha256": "e8d6e8537dc60f4142f629ac4c4e400efe74f6aed98a90f52630533b8955fb1a"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/references.bib",
+      "bytes": 7375,
+      "lines": 252,
+      "sha256": "3b9dc5050d8a152abedf38b1494b49b2f9d8976dedb9b34446db41e3cb2aa3da"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/build/salem.tex",
+      "bytes": 17489,
+      "lines": 445,
+      "sha256": "6aba84f0a8b2fe51b1ca183c452cbdf1018da2f35499a95cf33217678a3636ea"
+    },
+    {
+      "path": "math/preprints/Arithmetic-classification-and-non-Pisot-singularity-for-Bernoulli-convolutions-October-3-2026/verification/verify_degree31.py",
+      "bytes": 20637,
+      "lines": 487,
+      "sha256": "67eef9421933cb5eb32f717864d8badf0ad5836edf687fee36295cff18793dea"
+    }
+  ],
+  "verification_note": "README announces degree31 standard-library exact arithmetic script;analytic bridge in manuscript,not yet audited",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a"
+}

@@ -1,0 +1,120 @@
+{
+  "work_package": "WP-045",
+  "status": "source_decomposition_draft_complete_full_family_history_audit_incomplete",
+  "saved_at": "2026-10-20T21:00:33.694634+00:00",
+  "source_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_id": "P-8d5f9c2ed90564ce",
+  "files": [
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/README.md",
+      "sha256": "ceb1270373ac609e16f44070b021260c29d7e6588ef85cf88ab7321f2e9a6e9f",
+      "lines": 18,
+      "read_scope": "WholefileactuallyreadinWP044selection"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/main.tex",
+      "sha256": "317160462afa0d68a6f8ba72cab9f29726b0f7903be3c12f4c8a0b3d54250236",
+      "lines": 61,
+      "read_scope": "WholefileactuallyreadinWP044selection"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/introduction.tex",
+      "sha256": "09040019b94a641c4a0c4e5deda7c16ee4855daf0f398e692e1825f831da3de4",
+      "lines": 227,
+      "read_scope": "WholefileactuallyreadinWP044selection"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/setup.tex",
+      "sha256": "40a7d4abe6fa5d9dc96a6ffd689e602a10bb7a1cf3bd9fd8f0caa70cf72a9cf7",
+      "lines": 140,
+      "read_scope": "Whole file actually read,including natural proofs or complete figure source"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/retarded.tex",
+      "sha256": "eedf365c0be2cefacecc93c2825b4991ccad1d32826d83aa24eb4b63ccf37be2",
+      "lines": 428,
+      "read_scope": "Whole file actually read,including natural proofs or complete figure source"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/figures/figure-dependencies-caption.tex",
+      "sha256": "8ac9c8b5dc1bc1b798eace722078c651d9c719b9c7219cbca5e6fcc7249adad7",
+      "lines": 7,
+      "read_scope": "Whole file actually read,including natural proofs or complete figure source"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/figures/figure-dependencies.tex",
+      "sha256": "70c93d8d4a81d91b902c031e1078e202bcfb82b941748a58765baff89b6cb1b6",
+      "lines": 35,
+      "read_scope": "Whole file actually read,including natural proofs or complete figure source"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/figures/figure-retarded.tex",
+      "sha256": "9ce4d4b9be645535fd8d9f3ea7f551166e13c823f46c7db15f1f2beaf64620cd",
+      "lines": 63,
+      "read_scope": "Whole file actually read,including natural proofs or complete figure source"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/occupation.tex",
+      "sha256": "c9bd0387061b620018c710dd9f660564adf8c38ff2385ee134923f86bf8d3307",
+      "lines": 416,
+      "read_scope": "Whole natural module including proofs actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/direct.tex",
+      "sha256": "aed0cd43a04c66b5ffb4bb30de2377dafa1eaa58a6c5e7d0c40865662f9e6de1",
+      "lines": 428,
+      "read_scope": "Whole natural module including proofs actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/cancellation.tex",
+      "sha256": "6b615a3b4ba0fbb6d04ea2e88b441dabdd51f6b33fc976b23407413fc9ae162a",
+      "lines": 382,
+      "read_scope": "Whole natural module including proofs actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/direction.tex",
+      "sha256": "aeab95505df9a9d2b8bca153832ea69039eb0fa078788775ea15e34fb8531432",
+      "lines": 377,
+      "read_scope": "Whole natural module including proofs actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/selection.tex",
+      "sha256": "1ece8e662bff978906fbc1ddc578ea09a89322accee598d043aa3a7403583445",
+      "lines": 488,
+      "read_scope": "Whole natural module including proofs actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/closure.tex",
+      "sha256": "499230223647c95c6e9d536c78e9cd5dd098a011d9213b733daaab3d8bba8e89",
+      "lines": 87,
+      "read_scope": "Whole natural module including proofs actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/sections/continuation.tex",
+      "sha256": "82bd03affe1b8f623bac5725a57595289cb1caa0355c217c605c3a4bd27a4060",
+      "lines": 490,
+      "read_scope": "Whole natural module/proof or allbibliographyentries actually read"
+    },
+    {
+      "path": "math/preprints/Global-classical-solutions-of-the-three-dimensional-relativistic-Vlasov-Maxwell-system-September-23-2026/build/references.bib",
+      "sha256": "7d8b1f1bd74f759c8a1001abf572ad28870bbba572226cf6ca0118023b3d969e",
+      "lines": 372,
+      "read_scope": "Whole natural module/proof or allbibliographyentries actually read"
+    }
+  ],
+  "notes": [
+    "Fullnatural14TeX3629lines/29bibliographyentriesactuallyread;24results16contracts;canonicalledgercontainsqualifiednotes.",
+    "5originalselectedscopeschecked,24originalbodiesunread. No fullhistory,mathematicalproofaudit,Leanbuild,Comparatororhumanreview.",
+    "MainactualModel/Main/ComparatorstaticB only;207file3951decl lexicalindexnotproofaudit.",
+    "FiniteTclassicalregularitynotuniformtime/knownP0/PICerrorbudget;uniformNregularizeddensitycondition andliteralv1Cc2/Gaussissue unresolved.",
+    "No newcandidate/numericalrun/initialcard;24candidates10actualinitial10distincthypothesesunchanged."
+  ],
+  "counts_incremented": true,
+  "full_natural_source_read": true,
+  "remaining": "24 originalbodies,recursivehistory/versions,207filefullproofaudit/Lean/Comparator/humans;actualparticle/PICfiniteinterface",
+  "read_tex_files": 14,
+  "read_tex_lines": 3629,
+  "canonical_reading_ledger": "data/provenance/readings/F-362.json",
+  "analysis_id": "ANALYSIS-F-362",
+  "generation_id": "GEN-20261021-042"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "APP-294-01",
+  "title": "连续矩形算子归一化的适用性与总成本核查",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261021-063",
+  "analogy": "far",
+  "input": "Actualcompactparameter-dependent rectangularmapsT_i:C^d->C^r,r>=2d,certificateforallsubspaceexpansion>=2dim,unitaryframechanges allowed",
+  "output": "CanonicalcontinuousnormalizerP andfilteredX_i withsumX_i*X_i=I_d andsumX_iX_i*<=2/3I_r,chargedwholecost",
+  "extra_assumptions": "Actualconsumeracceptsfilteringwhichchangestheoperators;ALLparameter/subspaces certificate andresource-admitteduniformmargin,notrandomsampledGrids. Noassumptionglobalquasitracealgebrahasfinitematrixmodel.",
+  "hypothesis": "On a separately frozen resource-admitted actual parameterized rectangular normalization workload,the source determinant-potential route will satisfy independently checked column and row tolerances and frame-equivariance/coherence targets across the heldout family while reducing complete normalization and continuity-repair cost by at least10% versus the strongest eligible old generalized operator-scaling or geodesic-optimization route at matched tolerances. Old success at equal cost, missing expansion certificate or budget failure falsifies this incremental application prediction;source existence/uniqueness gives no runtime gain.",
+  "judge": "Beforeoutputsfreezeactualfamily,ALLsubspacecertificate,parametercoverage/coherencemetric,tolerances,capsandheldoutselection. IndependentHermitianPSD/eigenvalue/columnidentity andunitarychange judge;sampledcontinuitychecksONLYnumericalobservation,notproofglobalbundlecontinuity. Chargecertificate+preprocessing+allrestarts+output. Pureduplicate-isometry/knowntraceidentityQA alone notapplicationvalidation.",
+  "baseline": "OldGurvitsalreadyoperatornormalization,capacity/attainment/uniqueness;stronggeneralizedrectangularmarginal/inequalityscaling andgenericPD/geodesicoptimizer withsamepotential mayalready suffice. Do notcompareonlyincorrectsame-sizeDS oronepasscolumnnormalization. Sra2015originalandactualconsumerimplementationunread.",
+  "limits": "Noactualconsumer/data/implementation/preregistration/run. ScalingnaturalC/fullchainunknown;compactnessgivesnoeffectiveconditionmargin/iterations. Rectangularfilteringchangeschannel;globalnonexactquasitrace/tensorcounterexample NOTprototypeinput orcorrectnessdependency.",
+  "revisit": "Oneboundedactualrectangularoperator/quantummapnormalization API andoldgeneralizedscalingoriginalscope,thenfreezeprotocolonlyifconsumer/model/costclosed;otherwiselowerpriority,noroutineidentityQA.",
+  "source_labels": [
+    "lem:scaling"
+  ],
+  "part_keys": [
+    "RECTANGULAR-EXPANSION",
+    "LOGDET-POTENTIAL",
+    "CONTINUOUS-FRAMES",
+    "ROW-COLUMN-NORMALIZE",
+    "CONSUMER-GATE",
+    "BASELINE-BUDGET-GATE"
+  ],
+  "dedup_key": "F-294|compact parameter-dependent rectangular operator normalization|canonical continuous column-I row-cap totalcost audit"
+}

@@ -1,0 +1,6 @@
+{
+  "path": "data/graph/history/GEN-20261021-046-before.json.gz",
+  "gzip_sha256": "2ba6ca3b7213d3ce005a1e8d0d523341a965188f190aade16a1321080959129d",
+  "decompressed_sha256": "28a1a86e7bc4ef3b3bbd22a8d4ab366465a0e3cf6e238493cf004f515b5174dd",
+  "roundtrip": true
+}

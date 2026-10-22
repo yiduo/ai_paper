@@ -1,0 +1,102 @@
+{
+  "recorded_at": "2026-10-21T00:37:12.200880+00:00",
+  "source_helpers": {
+    "files": 5,
+    "gzip_bytes": 24155,
+    "gzip_sha256": "08ad933218eb96a50c3285d035c1fd5347e0a2121fecb46e9114865be66a65cc",
+    "uncompressed_sha256": "bd502b82f32e7240114694a826b8d6629172618e784b77b886469841d3b11d75",
+    "roundtrip": true
+  },
+  "temporary_files": [
+    {
+      "path": "/private/tmp/ai-paper-F142/render.log",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/altman.txt",
+      "bytes": 91205,
+      "sha256": "fb091eeb19775875f2de6d11c47c6e6e82ae3798e093286a6ed7cddcbb9ada26",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/ikr.pdf",
+      "bytes": 225224,
+      "sha256": "3b8ea45059a603edbb3aa8c34a14ad65a5da35999c6d41fcd467499dc1a7f0b6",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/shoup.pdf",
+      "bytes": 131931,
+      "sha256": "25f823a5a133191fe1278b96dfea3645d22f0cd21db86f73c25f17cd464959ea",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/prepare_f142.py",
+      "bytes": 18593,
+      "sha256": "31f641544e675ee3f743ca0ff512424e40fcf478795edb43340782085a4c8075",
+      "retained_as": "Own helper exact content in compressed archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/ikr.txt",
+      "bytes": 54853,
+      "sha256": "ae9d08273eed37e70f3cf458e04e3e711a0b565daa424a41c4e732aaa9abe84f",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/shoup.txt",
+      "bytes": 51329,
+      "sha256": "ec930912263e34b38f40dd4970389de45c3f55e1f617582a5b6102a55bb5542f",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/altman.pdf",
+      "bytes": 496630,
+      "sha256": "46f147b51e910845f87f7b96b54e2072740b9a3cfc01f8c1b02d380605e7d7af",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/finish_f142.py",
+      "bytes": 11553,
+      "sha256": "904425a672d3d78fb57f853284bd544d7bf13d23bbf650ef6715ed0f1d28f1d9",
+      "retained_as": "Own helper exact content in compressed archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/integrity_f142.py",
+      "bytes": 4499,
+      "sha256": "0755f8d92aacb90c0ac334d896119f385761f9828d5293731b4155a59766d1bb",
+      "retained_as": "Own helper exact content in compressed archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/shoup-page-02.png",
+      "bytes": 118981,
+      "sha256": "ca7543a0e2a059676f94ee7695c5a909239dca0e1dcd603c9cc24df2b92f6a56",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/shoup-page-01.png",
+      "bytes": 58070,
+      "sha256": "9c408f541f7f8568782c5c25a41d4ca667605d5383fa69443fb6b650c88f2604",
+      "retained_as": "External PDF/text/pixels/render log hash receipt only;original not redistributed"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/curate_f142.py",
+      "bytes": 22237,
+      "sha256": "5d348bab6a914fb082899eed3351191b2393a5b3c0225eada1c0f22218c0d677",
+      "retained_as": "Own helper exact content in compressed archive"
+    },
+    {
+      "path": "/private/tmp/ai-paper-F142/quality_f142.py",
+      "bytes": 3006,
+      "sha256": "9f9d5aa8fcb4aebdeae05c9ef6ff4df7bf1d827117ae4eebe0bb0c2da24c6742",
+      "retained_as": "Own helper exact content in compressed archive"
+    }
+  ],
+  "temporary_bytes_removed": 1288111,
+  "temporary_directory_removed": true,
+  "third_party_pdfs_redistributed": false,
+  "new_numerical_run": false,
+  "dependencies_installed": false,
+  "proof_build": false
+}

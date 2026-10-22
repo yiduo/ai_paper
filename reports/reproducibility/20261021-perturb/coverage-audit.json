@@ -1,0 +1,112 @@
+{
+  "recorded_at": "2026-10-21T05:16:41.648530+00:00",
+  "source": "data/graph/reading_coverage.json",
+  "source_sha256": "6e98088fdbc8185659f4bc80449ec21416673e63f15e882a1b00dbf3d6308dbe",
+  "counts": [
+    {
+      "subject": "Number theory",
+      "registered": 31,
+      "actual_reading": 3,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Algebraic and complex geometry",
+      "registered": 36,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Real and complex analysis",
+      "registered": 16,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Convex and metric geometry",
+      "registered": 15,
+      "actual_reading": 3,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Theoretical computer science",
+      "registered": 40,
+      "actual_reading": 10,
+      "natural_source_drafts": 8
+    },
+    {
+      "subject": "Dynamical systems and ergodic theory",
+      "registered": 12,
+      "actual_reading": 1,
+      "natural_source_drafts": 1
+    },
+    {
+      "subject": "Combinatorics",
+      "registered": 37,
+      "actual_reading": 3,
+      "natural_source_drafts": 3
+    },
+    {
+      "subject": "Algebra",
+      "registered": 18,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Probability and statistical mechanics",
+      "registered": 29,
+      "actual_reading": 2,
+      "natural_source_drafts": 1
+    },
+    {
+      "subject": "Mathematical logic",
+      "registered": 6,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Group theory",
+      "registered": 14,
+      "actual_reading": 1,
+      "natural_source_drafts": 1
+    },
+    {
+      "subject": "Mathematical physics",
+      "registered": 25,
+      "actual_reading": 3,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Operator algebras",
+      "registered": 19,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Topology",
+      "registered": 18,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Functional analysis",
+      "registered": 11,
+      "actual_reading": 1,
+      "natural_source_drafts": 1
+    },
+    {
+      "subject": "Differential geometry",
+      "registered": 29,
+      "actual_reading": 2,
+      "natural_source_drafts": 2
+    },
+    {
+      "subject": "Partial differential equations",
+      "registered": 16,
+      "actual_reading": 4,
+      "natural_source_drafts": 4
+    }
+  ],
+  "total_actual_reading": 45,
+  "total_source_drafts": 39,
+  "correction": "WP078 selection text andWP077next-source-inventory labelled1/25asactualreading;itcountedonlyfullnaturaldrafts,excludingF262partialreading. Currentphysics3/25actualread,2/25naturaldrafts. Oldsnapshotpreserved,notnewreadingcredit;overall45/39unchanged."
+}

@@ -1,0 +1,24 @@
+{
+  "recorded_at": "2026-10-20T14:45:52.928122+00:00",
+  "nodes": 2167,
+  "edges": 5081,
+  "gzip_JSON_and_GraphML_counts_agree": true,
+  "all_edge_endpoints_present": true,
+  "files": {
+    "index.html": {
+      "bytes": 4645527,
+      "sha256": "c4c8c1e43262851715ab73e0ca90ed59ee9250feaa34dcc55d207a44787704c9"
+    },
+    "knowledge.graphml.gz": {
+      "bytes": 692337,
+      "sha256": "14c94c1067efcd7499dec1b289702360b0e966ae398263ee371d0a64b463f5cc"
+    },
+    "knowledge.json.gz": {
+      "bytes": 601565,
+      "sha256": "34ddf6fed434ea845b04202d440c7e5ee4251c48f332c45c7d670b426297c675"
+    }
+  },
+  "browser_visual_check": "not rerun; viewer logic unchanged",
+  "new_numerical_experiment": false,
+  "initial_check_correction": "Initial ad hoc assertion compared research-only nodes with full projected graph; failed without modifying data. Corrected to graph.load including canonical corpus and derived source nodes."
+}

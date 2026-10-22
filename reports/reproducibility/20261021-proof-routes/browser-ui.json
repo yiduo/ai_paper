@@ -1,0 +1,20 @@
+{
+  "recorded_at": "2026-10-21T03:28:55.202102+00:00",
+  "actual_browser": "IAB tab7,127.0.0.1:8768,5307nodes/13389edges",
+  "cases_verified": [
+    "single route leaves main unmarked",
+    "both routes include main",
+    "empty input explicit error",
+    "unknown node explicit error/no old result list",
+    "clear/add current/direct main review",
+    "search/detail source/version/supported route labels"
+  ],
+  "screenshot": {
+    "path": "reports/reproducibility/20261021-proof-routes/route-impact-ui.jpg",
+    "bytes": 49678,
+    "sha256": "c80f028c885113321cf64e2c7830d33811d85acbed2ea0514fe78e932c364fdc"
+  },
+  "observations": "Exact AX observations retained gzip with helpers; no hidden application-state read or browser-script evaluation",
+  "state_mutation": "Local preview only; graph evidence/grades unchanged",
+  "delivery": "Tab marked deliverable; no external publish"
+}

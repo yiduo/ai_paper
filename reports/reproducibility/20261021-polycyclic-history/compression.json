@@ -1,0 +1,10 @@
+{
+  "path": "data/graph/history/GEN-20261021-029-before.json.gz",
+  "compressed_bytes": 15873,
+  "uncompressed_bytes": 72572,
+  "compressed_sha256": "f08d2f26f8d40c70b134a8787d91ad29f6c291e8019daa636357a45f4f45d025",
+  "decompressed_sha256": "4073e1dd999e0f15b25891b7d2229fcb7113f5321e00d85f372e02f6bf4e93e0",
+  "archive_records": 6,
+  "new_numerical_runs": 0,
+  "last_full_numerical_archive_integrity": "reports/reproducibility/20261021-provenance/archive-integrity.json"
+}

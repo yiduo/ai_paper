@@ -1,0 +1,154 @@
+{
+  "family_id": "F-094",
+  "work_package": "WP-054",
+  "generation_id": "GEN-20261021-051",
+  "recorded_at": "2026-10-20T22:57:17.277863+00:00",
+  "upstream_math_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_software_interfaces": 1,
+  "selected_primary_versions": [
+    {
+      "url": "https://web.stanford.edu/~yyye/hodgeRank2011.pdf",
+      "pdf_sha256": "3395991f98a7ca746f8cb7db6bc8b106d09d2f01d05b412d48fea1724aa1ce8a",
+      "text_sha256": "3b1276d157114dca0267bd6be0f184aa62aa7292a4114adc80a80269b63c2370",
+      "actual_text_ranges": [
+        [
+          1,
+          140
+        ],
+        [
+          395,
+          570
+        ],
+        [
+          1318,
+          1455
+        ],
+        [
+          1525,
+          1560
+        ]
+      ],
+      "actual_pixel": {
+        "name": "hodgerank-p227.png",
+        "sha256": "024550ee24607856f5b8f8c2873c2327d4ec8d2d72325f441ddc157dd4061376",
+        "printed_page": 227
+      },
+      "scope": "2011 original publisher author personal copy; Thm3 normal equations, weighted edge model and residual, selected only; other history/proof/data unread"
+    },
+    {
+      "url": "https://arxiv.org/pdf/0811.1067v1",
+      "title": "Learning to rank with combinatorial Hodge theory",
+      "version": "7Nov2008v1 actualcover",
+      "pdf_sha256": "155fe95cc1cdb73f6f3f71b5415e221370e5a4c590ef376fd476c54ccc24ec01",
+      "text_sha256": "741b9f698d0f1056be950471f2792ed5333eada6a4cb9e7d17d5eb74acff3301",
+      "actual_text_ranges": [
+        [
+          1,
+          65
+        ],
+        [
+          1060,
+          1148
+        ]
+      ],
+      "actual_pixel": {
+        "name": "hodgerank-v1-p20.png",
+        "sha256": "b7bdadedace98fbed9697f4b73f0a7758ae8dfb74ef3259b24b845834d720906",
+        "printed_page": 20
+      },
+      "scope": "Selected cover and Theorem5.1/normal equations; diagonal sum_i w_ii present in actualp20pixels too. No fullpaper/recursive lineage audit."
+    }
+  ],
+  "sources": {
+    "README.md": {
+      "url": "https://raw.githubusercontent.com/jiangzian96/fast-HodgeRank/3e2768b70220998d2b09a742d7f81db7c69665fc/README.md",
+      "revision": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+      "path": "README.md",
+      "sha256": "59ee86c75dd17da3a6f504b326053c79fdba7cf10279535f9002714d6dfb848f",
+      "bytes": 1115,
+      "read_scope": "Whole actually read",
+      "read_lines": 22,
+      "license": "Repository MIT assertion, original headers retained; older CGLS attribution provenance not independently closed."
+    },
+    "LICENSE": {
+      "url": "https://raw.githubusercontent.com/jiangzian96/fast-HodgeRank/3e2768b70220998d2b09a742d7f81db7c69665fc/LICENSE",
+      "revision": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+      "path": "LICENSE",
+      "sha256": "a39648944b59456ae8469ede4470b167a363413e7816603c37475c8c3056598f",
+      "bytes": 1067,
+      "read_scope": "Whole actually read",
+      "read_lines": 21,
+      "license": "Repository MIT assertion, original headers retained; older CGLS attribution provenance not independently closed."
+    },
+    "assembleGraphLaplace.m": {
+      "url": "https://raw.githubusercontent.com/jiangzian96/fast-HodgeRank/3e2768b70220998d2b09a742d7f81db7c69665fc/assembleGraphLaplace.m",
+      "revision": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+      "path": "assembleGraphLaplace.m",
+      "sha256": "90190d493c3da4b0b10773f1e01da1da6b4594cac573ec2ea209f3e8fc0a1376",
+      "bytes": 403,
+      "read_scope": "Whole actually read",
+      "read_lines": 20,
+      "license": "Repository MIT assertion, original headers retained; older CGLS attribution provenance not independently closed."
+    },
+    "cgls.m": {
+      "url": "https://raw.githubusercontent.com/jiangzian96/fast-HodgeRank/3e2768b70220998d2b09a742d7f81db7c69665fc/cgls.m",
+      "revision": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+      "path": "cgls.m",
+      "sha256": "ad2891d2dd17f902266b01139dafd8aae3a98dec550da6f48fc8b24c8acbc48b",
+      "bytes": 4915,
+      "read_scope": "Whole actually read",
+      "read_lines": 172,
+      "license": "Repository MIT assertion, original headers retained; older CGLS attribution provenance not independently closed."
+    },
+    "RowSampling.m": {
+      "url": "https://raw.githubusercontent.com/jiangzian96/fast-HodgeRank/3e2768b70220998d2b09a742d7f81db7c69665fc/RowSampling.m",
+      "revision": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+      "path": "RowSampling.m",
+      "sha256": "2099639c5af773b454d761ee3feeccf7a7f21db5dd7353c6d5bff521c0c2cd21",
+      "bytes": 946,
+      "read_scope": "Whole actually read",
+      "read_lines": 42,
+      "license": "Repository MIT assertion, original headers retained; older CGLS attribution provenance not independently closed."
+    },
+    "testing_sampling.m": {
+      "url": "https://raw.githubusercontent.com/jiangzian96/fast-HodgeRank/3e2768b70220998d2b09a742d7f81db7c69665fc/testing_sampling.m",
+      "revision": "3e2768b70220998d2b09a742d7f81db7c69665fc",
+      "path": "testing_sampling.m",
+      "sha256": "9e9024cdde87d93a840f988a54e995f2daa4582a221b04a214b91239dea6708c",
+      "bytes": 1107,
+      "read_scope": "Whole actually read",
+      "read_lines": 38,
+      "license": "Repository MIT assertion, original headers retained; older CGLS attribution provenance not independently closed."
+    }
+  },
+  "source_archive": "data/provenance/demand/hodgerank-3e2768b7.json.gz",
+  "source_archive_sha256": "43d403ca6b33b9c191deab2a164111b19b6b093aff6c0a10ea78f60a044386bd",
+  "source_archive_decompressed_sha256": "52f8023f0b84b4699039313a1c9c553ecf3a46151ca49551b3ab60e5e18a38d7",
+  "archive_member_count": 6,
+  "selected_source_lines": 315,
+  "contracts": {
+    "old_wls": "Published2011 Eq1/2/7/8 andTheorem3 already weighted additive score-difference fitting on observed support, arbitrary prior weights and residual decomposition; no new consistency method.",
+    "normalization": "Let full-rank anchored incidence B and A=diag(delta^-1)B, y normalized. sigma-WLS min sum sigma*(As-y)^2 equals physical differences x=delta*y and c=sigma/delta². Both observation and weight transform required; c=sigma silently changes target. Elementary algebra, not new theorem.",
+    "orthogonal_family": "F094 witness requires sigma>=lambda/2,sum1 and P sigma-orthogonal. Complete pairs/positive scales; natural Brouwer existence supplies no convergence algorithm. Ordinary WLS at fixed sigma already available.",
+    "general_minimax": "For anchored full-rank A, arbitrary retraction P=A*T with T*A=I. Entrywise epigraph u>=+/-P and sum_f u_ef<=t minimize maxrow via generic LP. This is a RELAXATION: not necessarily any sigma-floor orthogonal projection, confidence/energy constraints absent. Its optimum is a lower bound for the restricted family, not automatically an eligible same-constraint comparator. No LP implemented or solver claim.",
+    "actual_software": "315whole selected source/license lines. Testing script uses n500,p.99 synthetic graph, exp integerweights/random ratings and sampled normal systems. No actual human preference data, bounded latent-noise or l_inf certificate. Known script not held-out application workload.",
+    "numerical_limits": "CGLS accepts explicit matrix/function handle, shift default0,tol1e-6,maxit min(m,n,20). Normal-equation residual/stopping flags and regularization are not exact P/range/row-sum certification. No MATLAB/Octave installed or run.",
+    "sampling_limits": "RowSampling weighted branch uses row squared norm probabilities and1/sqrt(s*p) rescale. Uniform branch returns As=A(sampledrows,:) but S remains zero; selected caller uses original full RHS and sampled normal matrix without displayed matching normalization. Static scope only; no executed error/counterexample.",
+    "printed_formula": "Actual publisher authorcopy p227 and arxivv1p20 both print diagonal sum_i w_ii. Defining delta0*delta0 normal equations independently identify weighted-degree diagonal for ordinary incidence. Keep literal source/version/pixels; do not implement questionable displayed index or declare whole theorem D. No author confirmation or further-version audit."
+  },
+  "decisions": [
+    "Existing Hodge/WLS consistency and cyclic residual not a new F094 application contribution.",
+    "Correct sigma/delta² adapter is elementary baseline semantics; no new experimental hypothesis/initial check.",
+    "No source-specific finite convergent reweighting method or independent bounded-noise consumer verified. Lower direct experiment priority, retain conditional prediction without retuning thresholds.",
+    "Generic minimax retraction is different feasible class; report as relaxation unless confidence-floor orthogonality independently established.",
+    "Next work broadens source coverage; do not run known500-node ranking script or diagonal typo calibration for12thinitial."
+  ],
+  "unresolved": [
+    "No runnable new projection-weight algorithm, real annotation data, same-feasible-class optimized baseline cost/certificate, or actual perturbation bank for APP09402.",
+    "No whole Hodge paper proof/history, MATLAB execution, CGLS upstream license/proof closure, human math review or independent provider."
+  ],
+  "network_recovery": [
+    "www.web.stanford.edu TLS certificate hostname mismatch60; recovered by actual author web.stanford.edu URL with normal TLS verification. Initial dependent extraction/read attempted missing file; no body credit until successful download."
+  ],
+  "storage": "Original two PDFs/text/two pixels hashed then cleaned after verification. Six small licensed-source files retained gzip with exact headers/LICENSE, no dependency install or whole external paper redistribution."
+}
