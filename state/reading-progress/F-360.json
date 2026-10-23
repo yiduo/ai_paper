@@ -1,0 +1,318 @@
+{
+  "work_package": "WP-107",
+  "family_id": "F-360",
+  "at": "2026-10-23T08:57:55.365942+00:00",
+  "upstream": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "completed_current_source_draft",
+  "manuscripts": [
+    {
+      "id": "P-ce31113d2b428321",
+      "readme": {
+        "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/README.md",
+        "lines": 20,
+        "sha256": "40d2d0dd11252f25c3a2ae7865ea4f0bb8fb24dc57768f4a7069c633b1091cc5",
+        "actually_read": true,
+        "scope": "README metadata only,notbody/formal/history"
+      },
+      "files": [
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex",
+          "lines": 280,
+          "sha256": "6f5ed86cf542886e6563ca111e6fcc513b12641be2180151eccc2f32b75f4e7e",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+          "lines": 66,
+          "sha256": "a8813b7605b38d399844594644d01bcd292fe9ca1c53d5262af1fadd279885a4",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/references.bib",
+          "lines": 197,
+          "sha256": "7b47a56672d4e0eecb570cf30c60812fd52f67bcf42080c97d3437d3df0cc0b6",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex",
+          "lines": 231,
+          "sha256": "797ae73dcb9b15f2109cdd832fe811968d7cf2d1dbcdb7df12524221a50d58e5",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+          "lines": 748,
+          "sha256": "7429b52ce2e47a8ec7a82116f7ce4520081484e0c808faeb967aea42e6d7d392",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+          "lines": 216,
+          "sha256": "1fa8b606b6c774c399a05dbe56f804fc08d193b771735e7b2f71a031137bd5b7",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+          "lines": 241,
+          "sha256": "834fe1811a26bc6592f01670bf2a3994fd4ae9eea1fc6dc9926c51f665e1cbb5",
+          "actually_read": true
+        }
+      ]
+    },
+    {
+      "id": "P-d34a3e42980b2ea6",
+      "readme": {
+        "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/README.md",
+        "lines": 20,
+        "sha256": "be5b5729e1cf814ccc6c0898ca43ff5356c2aaa80c00da72b213cf66cef733cb",
+        "actually_read": true,
+        "scope": "README metadata only,notbody/formal/history"
+      },
+      "files": [
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+          "lines": 60,
+          "sha256": "9dfac82a7711c413df34599cafc5ef07b7c8d7cf86a11e13d4421f21ff27bd70",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/references.bib",
+          "lines": 192,
+          "sha256": "cfe818c85ae01b926ab0fc1763660c6e9df5c5da48f361f663cd071f0ff97d18",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex",
+          "lines": 26,
+          "sha256": "3108f263bcd4cdb88d38a486147c61d0db7517fa8431fadedafd17d330890477",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+          "lines": 176,
+          "sha256": "8f31363248313d3aa3612c30e5446d6d7bf94a5cff5787175f402691a16c1db2",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+          "lines": 209,
+          "sha256": "08e697324bf067dcc76fc938bb123919080b245e591ab40142c9bc9a3b6681b6",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+          "lines": 1174,
+          "sha256": "318a97418a9605c370ff1b1e601e92c56232a1a86f1fc4b30b50c4f46a2fe3e1",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+          "lines": 860,
+          "sha256": "7fa369e075c95996de160e1514ae8b56a932eeacfb45c518fdb3f8a2e630fc6c",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+          "lines": 726,
+          "sha256": "5a471d6885720bdb209f9cb60356429ba0952a792efe8b3c85bcfd8be80dcc9f",
+          "actually_read": true
+        }
+      ]
+    }
+  ],
+  "tex_files": 13,
+  "tex_lines": 5013,
+  "bib_lines": 389,
+  "source_body_read": true,
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "numeric_or_symbolic_run": false,
+  "next_action": "WP108F239 wholeactualsources;F360fullhistory/formalproofclosure/human/provider remainpending.",
+  "base_commit": "4e34ea2a6295cbe20a868301dd98006b58c281ad",
+  "actual_read_ranges": {
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex": [
+      [
+        1,
+        66
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex": [
+      [
+        1,
+        216
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex": [
+      [
+        1,
+        241
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex": [
+      [
+        1,
+        231
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex": [
+      [
+        1,
+        748
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex": [
+      [
+        1,
+        280
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/references.bib": [
+      [
+        1,
+        197
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex": [
+      [
+        1,
+        60
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex": [
+      [
+        1,
+        209
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex": [
+      [
+        1,
+        176
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex": [
+      [
+        1,
+        726
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex": [
+      [
+        1,
+        860
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex": [
+      [
+        1,
+        1174
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex": [
+      [
+        1,
+        26
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/references.bib": [
+      [
+        1,
+        192
+      ]
+    ]
+  },
+  "reading_notes": [
+    {
+      "at": "2026-10-23T08:24:40.882128+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex"
+      ],
+      "note": "All523lines actualread. Smooth connected compact closed Riemannian M,n>=2,c=d^2/2;weakMTW only xi orthogonal eta at interior minimizing velocity,not nonorthogonal/strict/nonfocal or prior injectivity convexity. Main claims ordinary linear convexity of I and G,not strictness or boundary smoothness. Foundation density-free:every ordinary semiconvex subgradient minimizing+global mountain;F_t entire graph homeomorphism,unique global Q_t pole for0<t<1;compact convex lifted sections diameter^2<=8(r+oscv);Q_tu=-Q_(1-t)v C11 with inverse/Lipschitz/local quadratic-growth constants depending onlyM,g,t,uniform onlycompactsubintervals(0,1),not endpoint1. Main endpointclosure only support/minimizing;pointmountain many finalpoles. Interior uniqueness+nonconjugacy equivalence proven via compact minimizing-velocity bundle and inversebranch;proper shortening rG interior,uniform smallrho. Index form permits tangential fields,endpointzero equality implies globalJacobi inclbreakpoints. Branch Hessian at nonconjugate cuts differs from global smoothtruecost;A(w)(w,.)=<w,.>,A(0)=g. Indexform minimum requires minimizing nonconjugate;strict divided radialcomparison viazeroextensionnotJacobi. Transverse concavity coefficient-2/3 MTW and finite Jensen require entireconvexhull inside I and equalxi projection;cannotapplybeyondcut beforecontinuation. Intro compares FGR published2014Thm1.7 nonfocal,FRV2011Lemma3.1 convexI premise,CMS2001Claims2.4/5.6 etc historical bodies notyetread. Optional degree route notmainproof. No numericrun/coveragepromotion yet."
+    },
+    {
+      "at": "2026-10-23T08:24:59.390052+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex"
+      ],
+      "note": "All231lines actualread. Segment nonconjugacy requires ENTIRE segment subset G and endpoints nonconjugate;doesnot assume wholeGconvex. Proper radialcontraction gives wholeinsideI forweakMTW. At singularz nonzerokkernel perpendicularz;paralleltransport fixedJacobi field defines smoothP(a)=index(Ja,Ja),nonnegativeG,positiveI. TrialboundsA(a)(xi,xi)<=C-c/P(a) forxi.k!=0. Transverseendpointlowerbounds force kernelspan e,z orthogonal e. TangentialP(z+te)<=Ct^2 andradialLipschitz yielduniformtwo-parameter P(r(z+te))<=C(t^2+1-r),not separatepathwiseconstants. B=g-A hasradialnull;fr=B(r(z+te))(z,z)convex andendpointbounded givesfr<=Ct,soA(e,e)>=1-C/t;chooser=1-t^2contradictsupper-c/t^2. No inverseexponentialatconjugatezused. Cor geo:first-cut finite minimizingconvexhull withnonconjugategenerators byinductionpositiveweights;not anyarbitraryhull. OldCMS2001Prop2.5relatedtrialnotfullsameproof;originalnotread."
+    },
+    {
+      "at": "2026-10-23T08:26:04.762808+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex"
+      ],
+      "note": "All748lines actualread,including entirecontinuation. Uniform half-ray upper supports yieldcost semiconcavity andD-Lipschitz potentials;ordinarysubgradient exactlyconvexhull ofALLactive minimizinglogs,atmostn+1affinelyindependent positive logs,activefamilyitselfmayinfinite. Finitemaxdualcompletionpreservesfunctionnotnecessarilyactive set. H_r=A(rp)/r derivative=-S^-1S^-T,geometricuniformkappa lower fromupperJacobi bound;slack on Eperp uses later s onlyoriginalactive rays,not s*barycenterminimizing. Shorttimeprox homeomorphismforanyLipschitzsemiconvexdatum viaunique globalpole,localcoord(a-tK)|dx|<=B|dz| and C11. Capture EVERYminimizing log into graph forANY t>0 gives surjectivity,notinjectivity. Localcollisionproof finite n+1slots,uniformthirdderivatives atshortenedrays/nonconjbranch,equalxi-projectiononlypositive limitingweights;finite linear cancellation BEFORE dividingdistance^2,zeroweightsvanishwithboundedHessians,no convergence-rate assumption. Covering lemma orientation-free usesinvarianceofdomain andsurjective pi1fromhomotopytohomeomorphism;Hatcher exactscopes historicalnotreadthispackage. Firstfailing t*attainedbycompactness;allscaledhulls minimizingviaearlierlimits,generatorsproperlyshortenedinterior→nonconjugacy→localinjectivity→one-sheetcover;capturealllogs excludesordinarycut andcontradictsactualfailure. Endpoint1 closure supports only. G convex fromtwo-mountainmax andsupport,I=interiorG convex,notstrict/boundarysmoothing. Liftedgap sublevelscompactconvexinclcut;diam^2<=8(r+oscv). IntermediateQ_tu=-Q_(1-t)v two-sidedproperray supports Hessian[-Cg/(1-t),Cg/t];pole/momentum via backwardgeodesicflow(noinverseexpdifferential) anduniformlocalquadraticgrowth withs=(1+t)/2. Constants dependM,g,t uniformlyonlyaway0/1;no density or solverrate."
+    },
+    {
+      "at": "2026-10-23T08:26:38.894065+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex"
+      ],
+      "note": "All280lines actualread optionaldegreealternative,notrequiredmainproof. geo:local-growth assumes earliergraph insideI andterminalnonconjugacy;finite positiveactivehull E,linearmax dominates if|hE|>=B|h|^2 elseweightedtransverseslack+mixedO(h^3),b/rho localnotuniversal. Boundarygap onball plusbranchminimization provesopenness,notassumedglobalunique. geo:degree conditional terminallocalminimum+openness andallr<=t nonconjugacy;Mintyq=x+ap coords stronglyconvexh,biLipschitzgraph;ae X=Dqx>=0,P=(I-X)/a symmetriccommute. Firstderivativegraphline integral withintegrationbyparts(no secondpolederivative) yields X(tP+AcoordX)>=0. KernelXblock(t/a)I+complementpositive=>nonnegative determinant;mixcostfactor signpositive onlyalongnonconjugateray. Shorttimechartpositive independentlyofterminalassumption. H_r=F_r F_eps^-1 homotopyidentity,Lipschitz;strongW1n smoothapprox+Stokes gives signeddegreeintegral,areaformula+Jacsign>=0+surjectivity=>N=1ae;OPENNESS essential excludesdoubleimages onopenpositivevolume,not ae uniquenessalone/discretefiberassumption. Nonorientable caseorientationdoublecover/deckequivarianthomotopy. Captureallminimizinglogs+terminalnonconjugacy gives interior/uniqueglobalpole. Moreau/AA1999/MPW2012/Simon2018 originals not yetread,no numericalJacobian test or computeddegree."
+    },
+    {
+      "at": "2026-10-23T08:27:02.908673+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/references.bib"
+      ],
+      "note": "All197Biblines actuallyread. Bibliography identity/year pitfalls: keyFGR2014 actuallypublishedSIAM47(2),2015,969-1000,DOI140961821,publishedTheoremnumbering;keyCalegari2013 notesdatedApril1 2015 based2013course;Gorodski2016revisedJune8chapter copyright2012;Hatcheronline2015corrections notnewedition. Explicit oldroots include FGRnonfocal,Villani2011conjecture,FRV2011convexI global support,MTW2005strong,TW2009A3w,Loeper2009,KM2010smoothilluminatedconditions,CMS2001dividedaction/Jacobi/intermediateestimates,Moreau1965/AA1999/MPW2012coordinates,Simon2018areaformula,Hatchertopology. No originalbodyread or historicalscope credit from bibliographymetadata. First manuscript all6TeX1782+197Bib read;not fullfamily while companionunread/formal/historyopen."
+    },
+    {
+      "at": "2026-10-23T08:27:02.950343+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex"
+      ],
+      "note": "All60lines actualread. Abstractsourceclaim:fixed smoothconnectedcompactboundarylessM,n>=2,weakMTW→commonHolderestimates transport+inverse overmeasurableprobabilitydensities fixedpositiveupper/lowerbounds;homeomorphicrepresentatives,conjugatecutallowed,no densityregularity. Thisisnot proofcoverage,algorithm,meshconvergenceor specifiedexplicitconstants;remainingall6sections/bib unread atthispoint."
+    },
+    {
+      "at": "2026-10-23T08:28:05.603743+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex"
+      ],
+      "note": "All385lines actuallyread. Regular thm:main fixedM,g,lambda>0<=Lambda finite andnonemptyprobabilitydensityclass,measurableae boundsbothdensities;aeuniqueOTmap admits homeomorphicrepresentativeanduniformbiHolder alpha,C dependonlyfixedgeometry+bounds. Positiveexponentbycontradiction,no explicitexponent or varyingmetricuniformity;notfinitegridsolverrate. No smoothdensity,strictMTW,nonfocalityorcutavoidance assumed. McCann2001 existence/aeuniqueness input;oldFKMroughdensity estimatesneed smoothcost,cconvex/nondegenerate localization,not common scale nearconjugatepairs;LV2010strongnonfocal/extrauniformregularity+deltaM>0 andFKMspheres oldspecialuniformity;Warren2026requires C2logdensitycommonbounds+smallW2,not interchangeable. FRV2011necessaryTCP⇒weakMTW+convexI,sourceforwardcombinedgivesequivalence beyondsurface,notnewprojecttheorem. Entire geometry section RESTATES firstpaperpreciseinterfaceswithpublishedLemma4.1-4.11;ordinaryfullsubgradient/global support needed,not merelyconvexI. Shorttime forscalarincreasingmodifiedpotentials onlyLipschitzsemiconvex maynotcostpotential;laterproofmustrespectthis. Allt<1inverse/C11,not arbitrarytime1. Primaryexternaloriginalbodiesnotyetread. Foundation2026internalalreadyfullyread,sharedlabels acrossmanuscripts require sourcequalified binding/notnewindependentmathematics."
+    },
+    {
+      "at": "2026-10-23T08:28:53.305866+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex"
+      ],
+      "note": "All726lines actualread. JacobiC,J symplecticWronskians;dexp_Tv=J(T)/T,S=J^-1C symmetric,Sprime=-J^-1J^{-*} exactorder;reversaldexp=adjoint survivesconjugacy(det equality),branchHessianmaynonminimizingbutnotundefinedsingularinverse. Uniformradialtransversality forv∈G,delta<=1/2 everyordered sj(short)>=c(sj(v)+delta) and<=C counterpart,no multiplicityrestriction. Fixedh1/4join,T∈[1/2,1],prefix/reversedsuffixcompactinterior→uniformpieceinversebounds;brokenactionD(1)>=0,D(1-delta)=D(1)+deltaGdelta withcI<=G<=CI. ExactJ(T)=Jh(T-h)D(T)J(h),holdsfullsingular;stationarySchurA(Tv)/T=P-E*D^-1E. N=-delta(A-I)=Q+delta(I-TP),Q>0 spectrumdelta/(sj+delta);backgroundOdelta essentialsinceN radialzero butradialsj1. Radialdetshort>=c endpointdet;longerreversecenter upper versus shorterreverseouter lower inequalitiesnotinterchangeable. Isotropicpullbackgainrequires T*r minimizingextraextension1<T*<=2,L=dexp_reverse=J(1)*,halfextensiontau=(1+T*)/2 smooth evenfullterminalconjugate;fullterminalHessian onlyifnonconjugate. NoncommutingB_s=J(1)J(s)^-1,ratioinverseJ(s)J(1)^-1 bounded,notcommuted. Uniformaffinesegmentcomparisonrequires[-a0,1]⊂G,p.q>0,|q|^2/(p.q)<=B andqnonzero;L(t)=I+tqq*/pq boundedinvertible;radialnull convertsperpendicularMTW into LoewnerconvexFδ,allowslargefixedxi modulo radialkernel. Failingorderedratio pickslogδbetween viaexclude radiiR^(1/3) atn*floorR^(1/3) denseparameters,total2nR^(2/3)<R/2. LocallyuniformPSDmatrixlimit hasgap {0}∪[c,C],constantinteriorrank;separate endpointorderF(1-)<=E forbidsrankloss,contradictsjcenter<<delta<<sjend. Closedsegments radiallimit,constants geometric/a0/Bexistnotexplicitcomputational. Barycentricoutwarddet needsfixedpositivevertexweight>=mu,radialprojectionh>0,h²>=kappaD,normincrement<=L0D;remainingbarycenter givesoppositeextension[-mu,1],no upperm/(1-m)needed. Noneisalgorithm/finite numericproof;limitscale/templatesmuststayindependentlaterperturbations."
+    },
+    {
+      "at": "2026-10-23T08:30:03.217163+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex"
+      ],
+      "note": "All860lines actualread. Cclass alladmissibledensitydualpairspotentialsnormalized,F(r)=supsectionoscillation boundednondecreasing acrossWHOLEclass. PowerF<=C r^beta→endpointdiam<=Csqrt(F+r),globaluniquecontacts+reverseclass→homeomorphicbiHolder exponent<=halfmin(beta,1);constants fixedgeometry+boundsnotgivenexplicit. No-power plateau r<<R→0,Dactualnearsuposcillation>0,F(R)<=(1+δ)D,|logD|/|logR|→0→R/D^k→0 EVERYfixedk;Dneednottend0. b_-/b_+separatecubicroots;uniformsmallnessr/b,b/R,b/D^k,τ/D,τ²/b forτ<=8b/D. TemplatesBc decreasing logisticfixed eps0=c0=2^-10,c1=c0/4;outerBo positivebarrier,Bo1=0,Bo0about1,Bo prime>0,Bosecond<=-K onlylowcap region[-2eta,1-eta];height<=2M0+8 INDEPENDENTK,derivatives maydependK. Explicitbump construction M0first,K/outerprofilethen scales;δ=oeta andb/D derivatives,b/D²2nd→0 ensuresbothscalar modifications increasing. Firstswitch via originalleftgeodesic,semiconcavecutcostupper andintegratedoned-sided derivative;middlelevelmountains excluded,leftrightfirstequality at b/(32D)<=τ<=8b/D independentK;allactives/y0y1 inoriginalCbsection actualabsolutelevels[-δ,1+δ],normsP-2Dsi+oD. Uniformpositiveexcess E=wc-wo^cc∈[c0b,b] fromsupportedintermediatelog normP-D/2 using globalordinarysubgradient support,not justIconvex;uniformconstantsindependentK. Penaltyπ=c0b/4+2b²/bplus givesstrictinterioramplitude max. Forfixedscaleand t→1 Φ=Q_tg+Q_(1-t)wc-π positiveinteriormax,C11 uniqueeachpole;wc increasingsemiconvex butneednotcostpotential;alignmentexact and l=1+bBcprime/D∈(0,1) gives centertruebeforecut viaextendedoriginalvsubgrad. Parameterinequality Bc(s)-ΣmiBo(si)>=πprime>=c1 forEVERYpositivefiniteactivebarycenter,not chosenrepresentation:decreaseb h,polemoveO(sqrth),projectE O(h),cancelweightedlinearbeforelimit,transversequadratic>=0,mixedO(h^1.5),fixedscaletimeweightsfirst. Levelidentity exact;allactives+centercommonoriginal(Ho+2)bsection,s<3/4,rightweight>=c1,lowerlevels>=-2eta. Outwardfinitelemma assumesE=line,q=p.e>0,N<=n+1,norm-levelerrorζ<=1/16;findvertexweight>=m*=c1/[12(n+1)],moment>=c1D/[8(n+1)q],displacement<=3D/(2q),normincrement<=3D,Bo<=1/m*,si<1-eta. M0=2/m*=24(n+1)/c1 fixedBEFOREK. JetsmuststillproveElineandq²>=kappaD independentlyK. No finite solver/rate or numericaloutput;proofscaleexistence only."
+    },
+    {
+      "at": "2026-10-23T08:37:21.291894+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex",
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/references.bib"
+      ],
+      "note": "All1174jets+26conclusion+192Biblines actually read across sequential ranges. Contact-volume bound only original dual potentials;viscosity lower tests at true interior logs derive determinant upper without Jacobian at chosen points. Transfer gives exact zero-linear endpoint pullback jets miL, R=L>=0, LE=0 and approximate maximum H<=L+etaI. Half-extension center semibound avoids unknown unregularized Hessian and terminalconjugacy. Outer scalar slope>1 makes true shortened log interior;dividedaction blowup plus viscosity excludes modified outer conjugacy before any center density equation. Universal amplitude inequality applies every positive barycenter after fixed-k Jensen limits;line E and q²>=cD then selected outward weight fixed beforeK. Remove area-formula null preimage of original bad set BEFOREJensen,without assuming DY invertible. Diagonal nu(k) after fixed-k limits preserves selected outer branch,errors<=(1-tk)^3/k. Outer positive baseline+detupper bounds L,H then HessG;shortcost expansion gives DY=I-tau HessG+O(tau²),hence invertible and chosen center outside originalbadset. Uniform subgradient differential at Alexandrov point justifies stationary differentiation without differentiable neighbors;undo-short Hesswc=HessG+O(tau). Only NOW use original ae Jacobian at good centers. Exact squared pulled-back determinant gives V>0 and uniform nonconjugacy of limiting true center,while ordinarycut allowed;no assertion limiting originalendpoint Alexandrov or lowerjet. Oblique projection P=I-e p*/q onto pperp alongE preservesL;Schur ratio detVi/detV>=mi^(n-1) gamma(pi.e)^2/(beta q²)>=cK. Reverse radial centerupper/outerlower determinant comparisons and ordered outward comparison cancel sigma_center>0;fixed independent constants contradict chosenlargeK. Order cap/weight, K/outerprofile, scales, prefixlimit, Jensen sequence essential. Uniformclass no-power contradiction yields beta>0 unspecified and alpha=halfmin(beta,1);reverse density pair gives inverse,not arbitrarycostpotential time-oneinjectivity. Bib aliases CMS2001/CEMS2001 same DOI002220100160;FGR2014/FGR2015 same DOI140961821,published2015. Foundation2026 is first same-family manuscript,notexternalwork. No numerical/symbolicrun or historical-original proof approval."
+    }
+  ],
+  "reading_ledger": "data/provenance/readings/F-360.json",
+  "quality_evidence": "reports/reproducibility/20261023-weak-mtw",
+  "retrospective": "reports/retrospectives/038-source-guarantees-and-actual-consumers.md",
+  "source_result_count": 55,
+  "restated_source_bindings": 8,
+  "new_candidates": 0,
+  "new_initial_checks": 0
+}

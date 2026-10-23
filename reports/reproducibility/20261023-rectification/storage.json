@@ -1,0 +1,188 @@
+{
+  "at": "2026-10-23T06:01:16.145571+00:00",
+  "temporary_root": "/private/tmp/ai-paper-WP102",
+  "primary_software_projects": 3,
+  "old_original_PDFs": 1,
+  "acquired_source_files": 8,
+  "downloaded_bytes": 389827,
+  "actual_pixels": 4,
+  "temporary_raw_files": [
+    {
+      "name": "Keller-page-13.png",
+      "bytes": 114333,
+      "sha256": "4896f08214b983c531f84056325987b023df9cb1bcbdc791da91bd58c200406f",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Keller-page-15.png",
+      "bytes": 142506,
+      "sha256": "3f187a700358a7fdf7b61aa35542fcdf9303345aeb594d3ec4751bdda1eff708",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Keller-page-4.png",
+      "bytes": 128945,
+      "sha256": "293ff53c9cc4fc2aa1fa8ebfee42f002669e16e13a88c431eba36d60fbf3c7fe",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Keller-page-7.png",
+      "bytes": 142885,
+      "sha256": "0f1cfce4304f96436e2ad14af4fac768659c91c1157bd64a45511bbafd52fe04",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Keller1999v1.pdf",
+      "bytes": 182523,
+      "sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Keller1999v1.txt",
+      "bytes": 43096,
+      "sha256": "1753529b83a7b17a32abcb68911c486d4d8037f3bb8cc445f1271f55dd9aacbd",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "gap-packages--qpa--lib--complex.gd",
+      "bytes": 4988,
+      "sha256": "1ae4e343e347ab1c99c2fbfa241c3d435ab63ddbc685d2e7a60229110f8bfc58",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "gap-packages--qpa--lib--complex.gi",
+      "bytes": 61846,
+      "sha256": "718a5aebfecf3def3b8072ae363bc7dcdd5d541427a4bbc03f6d248692696be9",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "gap-packages--qpa--lib--derivedcat.gi",
+      "bytes": 40757,
+      "sha256": "414047291b142d3eb307c8b8b9db5b6a6ce96b9b014a5e310b6dcfc18c78f8bd",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "gap-packages--qpa--read.g",
+      "bytes": 2148,
+      "sha256": "9e1aebd8c2ecc09ac990159ef82f5039f689648d7d678fa0583d5a4bc52d9363",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "gheber--kenzo--src--kenzo-9--effective-homology.lisp",
+      "bytes": 23415,
+      "sha256": "41d5c1d2e7a50c4420a97d756f28810e8e293b436091cf0042699845a5297ba7",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "gheber--kenzo--src--kenzo-9--lp-space-efhm.lisp",
+      "bytes": 25321,
+      "sha256": "3e409ca8a922b03ccf94554c46b5a1008399866e3084e29bac6e4f3a99fec7f0",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "sagemath--sage--src--sage--homology--algebraic_topological_model.py",
+      "bytes": 24062,
+      "sha256": "b14a0e9709c552b329148a25d6b4df9b4837ce40dbc886e8c56803f8515b4bd9",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "sagemath--sage--src--sage--homology--chain_homotopy.py",
+      "bytes": 24767,
+      "sha256": "c51088d2841a00e3d25ad457748e96f95f7b683f429d44a72316e7d1aa481992",
+      "retention": "Removed after actual version/source/line/page/image provenance saved;not redistributed"
+    }
+  ],
+  "temporary_raw_bytes_removed": 961592,
+  "own_archive": "reports/reproducibility/20261023-rectification/helpers-and-logs.tar.gz",
+  "compressed_bytes": 29475,
+  "uncompressed_tar_bytes": 112640,
+  "compressed_sha256": "f6aaca1b7ddccac46606f758a579e9474f417147c21a1e1a203af0326953cdd8",
+  "uncompressed_tar_sha256": "de5f2585d608cbab32443b2d3a53e6a2a8f6fd6b2fffbff9f13a7d7a80c3d0b5",
+  "member_bytes": 90939,
+  "members": {
+    "acquire-kenzo.py": {
+      "bytes": 248,
+      "sha256": "586e15f4d06394cfa0aacfd15786d27c9ebbe1ff0604b5f3be0ba84635fd7e1d"
+    },
+    "acquire-qualified.py": {
+      "bytes": 801,
+      "sha256": "94109575da2dd5248f4f84c0653cd6459d8e0cf8179bcd24e2601bf10046094c"
+    },
+    "acquire-sources.py": {
+      "bytes": 919,
+      "sha256": "f7d7d3edf27217ee3b05a7ae5ab16155259a9feffaf1b7433bf6e226e9b7b80d"
+    },
+    "acquire.py": {
+      "bytes": 1373,
+      "sha256": "782f840e1443a2563917d868cc51c34f8b2181386d0b0830f7d24d95c7eed543"
+    },
+    "acquisition.json": {
+      "bytes": 7858,
+      "sha256": "b0e4dffe1efed45cc698f34bb0761974230fd1cbd1de7a0e5450b8eea8684ae6"
+    },
+    "clean-check.py": {
+      "bytes": 2219,
+      "sha256": "a5f92d1010b599f082242980c56534492bdc288e3ca5d990ff5c4fb197718541"
+    },
+    "close-state.log": {
+      "bytes": 78,
+      "sha256": "5c776de35e2fbcf3bcf86b498f79c90cd1e10a948062f4159fab2f872b3afa83"
+    },
+    "close-state.py": {
+      "bytes": 12540,
+      "sha256": "d73ed6608d9380315683dc7615a667402811168197587a3126894c5196ff8f90"
+    },
+    "core.log": {
+      "bytes": 11538,
+      "sha256": "00fec6fd82d137238d4be772eeb9ae07b8e513339935e6b828e731dd3c33bfcd"
+    },
+    "curate.py": {
+      "bytes": 20415,
+      "sha256": "13b6f3be65361e00e833c7d33fe531e71065dbb9b09083870ff129cba07bb8d2"
+    },
+    "curation.log": {
+      "bytes": 338,
+      "sha256": "7d071b86faf1c83525e0ea5e6c3bae2614cf5fa60bdaa860173cea7c2bd2c38b"
+    },
+    "finalize-storage.py": {
+      "bytes": 9139,
+      "sha256": "f23e362370f1fa2b88043cf48aca73c6938e955858202abe56f7b9490df6db0e"
+    },
+    "git-reference-observations.json": {
+      "bytes": 408,
+      "sha256": "2f18cf1f25d753f039965b43c982514151ae43a30c6a5c825d1c7c63a85a8d45"
+    },
+    "next-reading-inventory.json": {
+      "bytes": 1036,
+      "sha256": "453b8e6d6009934fc113d1996069be94ee0af17207a03781c3cbcf194b21bdb6"
+    },
+    "no-math-clean.log": {
+      "bytes": 11538,
+      "sha256": "5b889284a12801c4d0c9c6ec145ca38c5763765dd9bb130436d6637f8ca5e6b2"
+    },
+    "qa.log": {
+      "bytes": 185,
+      "sha256": "84aff1aef0b289a98964d9187c5e3c59ddf92b21f7f3356ff258a1276834de7a"
+    },
+    "qa.py": {
+      "bytes": 8367,
+      "sha256": "f0481c0b46546632a5c4219866b86cb838326d011e6ca4092e5bae2be3247310"
+    },
+    "render-inventory.json": {
+      "bytes": 1303,
+      "sha256": "89026d4e9c9b55fe16ef6718193b24ee0f18886d12c80ce0870078dd7f177c1a"
+    },
+    "repositories.json": {
+      "bytes": 636,
+      "sha256": "8649ad1bd98455ff06eacca948b4fb1513e006d8cbf8dbe1f028b5410c4655ea"
+    }
+  },
+  "all_decompressed_member_bytes_verified_before_plaintext_removal": true,
+  "failed_retrievals_retained": true,
+  "official_math_clean_pinned": true,
+  "root_charter_hash_unchanged": true,
+  "new_numerical_experiment_data": false,
+  "software_installed_or_invoked": false,
+  "external_fulltext_republished": false,
+  "temporary_root_removed": true
+}

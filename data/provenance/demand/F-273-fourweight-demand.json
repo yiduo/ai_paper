@@ -1,0 +1,371 @@
+{
+  "work_package": "WP-094",
+  "generation_id": "GEN-20261022-090",
+  "recorded_at": "2026-10-22T06:28:46.126350+00:00",
+  "project_base_commit": "aa50432e5c9f628c9850bdfb558c86fd94371d06",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "candidate_id": "APP-273-01",
+  "source_projects_budget": 3,
+  "source_projects_examined": [
+    {
+      "project": "LipSDP",
+      "repository": "https://github.com/arobey1/LipSDP",
+      "commit": "bf01cafe97195330f4eb516d7b3a57247b31c5b3",
+      "paper": "https://arxiv.org/html/1906.04893v2",
+      "scope": "arXiv1906.04893v2(2023-01-14) HTMLSections2.1-2.5 Lemma1/Theorems1,2/Remark1;AppendixA.3-A.5 proofs,A.8 repeated-nonlinearity interface. Selected ranges only,not entire historical/dependency audit."
+    },
+    {
+      "project": "CVXPY",
+      "repository": "https://github.com/cvxpy/cvxpy",
+      "commit": "8280648bd1f70fce701d362de4f58120f940c2f3",
+      "scope": "Only actual selected constraints/psd.py and constraint.py bodies read,pinned HEAD not a release;live documentation considered separately"
+    },
+    {
+      "project": "Kubo-Ando1980",
+      "url": "https://link.springer.com/article/10.1007/BF01371042",
+      "scope": "Publisher metadata/access limitation only;original body unread"
+    }
+  ],
+  "software_archive": {
+    "path": "data/provenance/tools/fourweight-interfaces-20261022.tar.gz",
+    "sha256": "866683e812958e60a358c734acb50bdb50f781eed7b1e37cabb889491e2fdd4a",
+    "uncompressed_tar_sha256": "7df3c63e011a5fc3ab22620f9c77dd27a9a26fb6d06f11bb418413ec8bdab850",
+    "all_members_exact_roundtrip": true,
+    "members": [
+      {
+        "member": "lipsdp-README.md",
+        "bytes": 8599,
+        "sha256": "8c7892b4a7edb651fd5b9c1dd12d34e00fb4eda647be82ab936dc56fd3e75272",
+        "source_url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/README.md",
+        "lines": 151,
+        "read_ranges": [
+          [
+            1,
+            151
+          ]
+        ]
+      },
+      {
+        "member": "lipsdp-solve_sdp.py",
+        "bytes": 3422,
+        "sha256": "51e860072779bab6a9faa22fac4b68dff9df24edcdd7449f9365aa9eae54ccbc",
+        "source_url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/solve_sdp.py",
+        "lines": 112,
+        "read_ranges": [
+          [
+            1,
+            112
+          ]
+        ]
+      },
+      {
+        "member": "lipsdp-solve_LipSDP.m",
+        "bytes": 2133,
+        "sha256": "25af4154426b16767f8f4d8df61181721ff405e2f624764d4b003c0fb21d52f5",
+        "source_url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/matlab_engine/solve_LipSDP.m",
+        "lines": 48,
+        "read_ranges": [
+          [
+            1,
+            48
+          ]
+        ]
+      },
+      {
+        "member": "lipsdp-lipschitz_multi_layer.m",
+        "bytes": 5982,
+        "sha256": "e06805f0ef5b6e941da89b44a5a81cf57b05e2ff155932392d42ed0f3cd539c9",
+        "source_url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/matlab_engine/lipschitz_multi_layer.m",
+        "lines": 166,
+        "read_ranges": [
+          [
+            1,
+            166
+          ]
+        ]
+      },
+      {
+        "member": "lipsdp-split_and_solve.m",
+        "bytes": 2942,
+        "sha256": "19e8c82a8431f16e442791a322f4f5613c0c9690b3d70d7c886556b521634c5e",
+        "source_url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/matlab_engine/split_and_solve.m",
+        "lines": 69,
+        "read_ranges": [
+          [
+            1,
+            69
+          ]
+        ]
+      },
+      {
+        "member": "lipsdp-LICENSE",
+        "bytes": 1067,
+        "sha256": "1efe4178b73916b7a64062fb79484bda7ab01c47dc0e30f8a20d0fede067bc18",
+        "source_url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LICENSE",
+        "lines": 21,
+        "read_ranges": "License retained;not counted as source-body research"
+      },
+      {
+        "member": "cvxpy-psd.py",
+        "bytes": 7948,
+        "sha256": "6b78a181448ac3162e8d7f2ce8d09acad9a3f05ee9d3c2ef082e2e871d64f6c7",
+        "source_url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/cvxpy/constraints/psd.py",
+        "lines": 233,
+        "read_ranges": [
+          [
+            1,
+            233
+          ]
+        ]
+      },
+      {
+        "member": "cvxpy-constraint.py",
+        "bytes": 10955,
+        "sha256": "1e7c9608eda07fee38523cc779a989385208882d57ef3af6ec44351e63161344",
+        "source_url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/cvxpy/constraints/constraint.py",
+        "lines": 376,
+        "read_ranges": [
+          [
+            1,
+            376
+          ]
+        ]
+      },
+      {
+        "member": "cvxpy-LICENSE",
+        "bytes": 11344,
+        "sha256": "94d81cb282da837f4ace0df08b52fd1c72e07da9efb52e5aa6d556a5cea5286f",
+        "source_url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/LICENSE",
+        "lines": 201,
+        "read_ranges": "License retained;not counted as source-body research"
+      }
+    ],
+    "licenses": [
+      "LipSDP MIT original notice",
+      "CVXPY Apache-2.0 original notice/headers"
+    ],
+    "unmodified_bytes": true,
+    "not_imported_or_executed": true
+  },
+  "original_acquisitions": [
+    {
+      "file": "lipsdp-repo.json",
+      "url": "https://api.github.com/repos/arobey1/LipSDP",
+      "sha256": "d832e10128be85642601bd3a512b9f1124f14f44801b88cfaea9345a1fa495e2",
+      "bytes": 5086,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-head.json",
+      "url": "https://api.github.com/repos/arobey1/LipSDP/commits/master",
+      "sha256": "9ac62f483b77ebf861fcf140560a8fa2b515fa1813c64408df9775f8860019b0",
+      "bytes": 5192,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-README.md",
+      "url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/README.md",
+      "sha256": "8c7892b4a7edb651fd5b9c1dd12d34e00fb4eda647be82ab936dc56fd3e75272",
+      "bytes": 8599,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-LICENSE",
+      "url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LICENSE",
+      "sha256": "1efe4178b73916b7a64062fb79484bda7ab01c47dc0e30f8a20d0fede067bc18",
+      "bytes": 1067,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-directory.json",
+      "url": "https://api.github.com/repos/arobey1/LipSDP/contents/LipSDP?ref=bf01cafe97195330f4eb516d7b3a57247b31c5b3",
+      "sha256": "a9a4c785a074d32ef40c60d2cfe75e3b4997117718810a9655fbb85b497abceb",
+      "bytes": 2614,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "cvxpy-repo.json",
+      "url": "https://api.github.com/repos/cvxpy/cvxpy",
+      "sha256": "4bc07060ee0dff44e29ba9c2b8c71d683d22a90e159066837d0f1f3ea0b979a1",
+      "bytes": 6076,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "cvxpy-head.json",
+      "url": "https://api.github.com/repos/cvxpy/cvxpy/commits/master",
+      "sha256": "4e2d81d0187f72e5feacbac71debd7b7859987c5f12bb128c518037d03830aad",
+      "bytes": 11180,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "cvxpy-README.md",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/README.md",
+      "sha256": "581d70ec7272afc58f0b2fd4e3e9f266b7eb12494e4d5a7b01db9455aaab56de",
+      "bytes": 7037,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "cvxpy-LICENSE",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/LICENSE",
+      "sha256": "94d81cb282da837f4ace0df08b52fd1c72e07da9efb52e5aa6d556a5cea5286f",
+      "bytes": 11344,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "cvxpy-psd.py",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/cvxpy/constraints/psd.py",
+      "sha256": "6b78a181448ac3162e8d7f2ce8d09acad9a3f05ee9d3c2ef082e2e871d64f6c7",
+      "bytes": 7948,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "cvxpy-constraint.py",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/8280648bd1f70fce701d362de4f58120f940c2f3/cvxpy/constraints/constraint.py",
+      "sha256": "1e7c9608eda07fee38523cc779a989385208882d57ef3af6ec44351e63161344",
+      "bytes": 10955,
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-solve_sdp.py",
+      "url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/solve_sdp.py",
+      "bytes": 3422,
+      "sha256": "51e860072779bab6a9faa22fac4b68dff9df24edcdd7449f9365aa9eae54ccbc",
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-engine-directory.json",
+      "url": "https://api.github.com/repos/arobey1/LipSDP/contents/LipSDP/matlab_engine?ref=bf01cafe97195330f4eb516d7b3a57247b31c5b3",
+      "bytes": 5064,
+      "sha256": "742beb25ed83df234523ab80660d5bac5079ccb40b52c62ef115e71c58a9da61",
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-lipschitz_multi_layer.m",
+      "url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/matlab_engine/lipschitz_multi_layer.m",
+      "bytes": 5982,
+      "sha256": "e06805f0ef5b6e941da89b44a5a81cf57b05e2ff155932392d42ed0f3cd539c9",
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-solve_LipSDP.m",
+      "url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/matlab_engine/solve_LipSDP.m",
+      "bytes": 2133,
+      "sha256": "25af4154426b16767f8f4d8df61181721ff405e2f624764d4b003c0fb21d52f5",
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "lipsdp-split_and_solve.m",
+      "url": "https://raw.githubusercontent.com/arobey1/LipSDP/bf01cafe97195330f4eb516d7b3a57247b31c5b3/LipSDP/matlab_engine/split_and_solve.m",
+      "bytes": 2942,
+      "sha256": "19e8c82a8431f16e442791a322f4f5613c0c9690b3d70d7c886556b521634c5e",
+      "normal_TLS": true,
+      "read_only": true
+    },
+    {
+      "file": "LipSDP-v2.html",
+      "url": "https://arxiv.org/html/1906.04893v2",
+      "bytes": 419424,
+      "sha256": "560da75da33a402ec1dafeb98df27055240d36e930c581a5b76fd87d39d9fd82",
+      "normal_TLS": true,
+      "read_only": true
+    }
+  ],
+  "download_total_bytes": 516065,
+  "paper_actual_read_scope": "arXiv1906.04893v2(2023-01-14) HTMLSections2.1-2.5 Lemma1/Theorems1,2/Remark1;AppendixA.3-A.5 proofs,A.8 repeated-nonlinearity interface. Selected ranges only,not entire historical/dependency audit.",
+  "source_interpolation_reread": {
+    "path": "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/02-interpolation.tex",
+    "sha256": "fa0efd354ad4de0c006c259d638bb443e8d2a67b66aef372881379521ddf04ee",
+    "range": [
+      1,
+      245
+    ],
+    "scope": "Selected statement/parallel-sum operations/Stieltjes setup;prior full-source draft remains separate"
+  },
+  "findings": [
+    {
+      "id": "actual_demand",
+      "evidence": "LipSDP original selected v2 and pinned caller",
+      "observation": "A real use of quadratic-matrix certificates exists:global neural-network Lipschitz upper bounds;selected v2 permits general positive definite quadratic norms.",
+      "boundary": "Nonlinear network IQCs and an optimized diagonal multiplier T do not provide all four F273 positive diagonal-family comparisons on the same linear maps. No pre-existing fourcertificatebank observed in the selected caller files;not a global nonexistence claim."
+    },
+    {
+      "id": "source_software_version",
+      "evidence": "Pinned MATLAB lipschitz_multi_layer.m lines47-105,130-164 versus v2 Lemma1/Section2.5/A.8",
+      "observation": "Code has off-diagonal network/network-rand/network-dec-vars branches;selected v2 global Theorems1,2 use diagonal T. AppendixA.8 describes a separate fixed-reference-point quadratic-constraint construction.",
+      "boundary": "Do not attribute every old repository branch to the selected revised global theorem or use it as certified baseline without further qualification. This is a scoped contract mismatch,not a newly proved counterexample or formal D classification."
+    },
+    {
+      "id": "returned_object",
+      "evidence": "solve_sdp.py1-112,solve_LipSDP.m1-48,lipschitz_multi_layer.m1-166,split_and_solve.m1-68",
+      "observation": "Selected software takes saved network weights,alpha/beta and formulation/splitting options;constructs an LMI using CVX/MOSEK;returns numeric sqrt(L_sq). Split version multiplies subnetwork estimates.",
+      "boundary": "Selected path does not export four exact/interval premise certificates for specified F273 tuples,maps and blockweights. No MATLAB/CVX/MOSEK install or run,training or timing reproduction."
+    },
+    {
+      "id": "judge_scope",
+      "evidence": "Pinned CVXPY psd.py95-109,constraint.py209-256",
+      "observation": "PSD residual is computed from a minimum-eigenvalue expression;Constraint.value defaults to tolerance1e-8 and compares scalar violation with tolerance. DCP qualification only checks affine structure.",
+      "boundary": "This numerical feasibility interface alone is not an independent exact/interval PSD proof with transcendental weight enclosures. A small tolerated negative eigenvalue is not ruled out by the API contract;no numerical falsification experiment was run."
+    },
+    {
+      "id": "direct_target_baseline",
+      "evidence": "F273 source comparison definition and CVXPY direct PSD interface",
+      "observation": "For a fixed finite full-domain linear caller,the target condition is PSD of D_F,0-sum_i w_i L_i^* D_F,i L_i;on a restricted finite testspace use the form restricted to that space.",
+      "boundary": "This is a direct comparator contract,not a certified implemented LDL/interval judge or measured runtime. Include allfour premise-production/conversion/enclosure costs unless genuine prior availability is established;no speed claim from factorization counts."
+    },
+    {
+      "id": "old_operator_history",
+      "evidence": "Kubo-Ando1980 original publisher landing page https://link.springer.com/article/10.1007/BF01371042",
+      "observation": "Title,authors,volume246/pages205-224/October1980 and subscription access identified.",
+      "boundary": "Original body not accessible in this bounded pass;not replaced by later summaries. Old Kubo-Ando/Anderson-Duffin nodes remain unread metadata;source manuscript direct parallel-sum proof read,not complete original lineage."
+    }
+  ],
+  "retrieval_limits": [
+    {
+      "url": "https://arxiv.org/html/1906.04893v3",
+      "observed": "404 nonexistent version;actual abs identifies v2,then v2 body obtained",
+      "used_as_evidence": false
+    },
+    {
+      "url": "https://eudml.org/doc/163796",
+      "observed": "Unverified guessed locator/cachemiss;not accepted as source identity or original content",
+      "used_as_evidence": false
+    },
+    {
+      "url": "https://link.springer.com/article/10.1007/BF01371042",
+      "observed": "Subscription landing page;no original fulltext acquired or purchased",
+      "used_as_evidence": "Metadata/access scope only"
+    }
+  ],
+  "admission": {
+    "actual_related_caller_observed": true,
+    "candidate_exact_contract_caller_established": false,
+    "genuine_preexisting_fourcertificatebank": false,
+    "qualified_exact_interval_independent_judge": false,
+    "full_marginal_cost_baseline_established": false,
+    "numerical_run_admitted": false
+  },
+  "hypothesis_and_plan_changed": false,
+  "new_candidate_count": 0,
+  "new_initial_check_count": 0,
+  "new_numerical_run": false,
+  "human_review": null,
+  "second_provider": null,
+  "full_family_complete": false,
+  "decision": "Keep APP27301 conditional far candidate,lower immediate implementation priority;no invented premise bank or identity toy to add initialcheck. Next WP095 low-coverage natural source route,then retro034.",
+  "publication": "Local batch only,no push;officialmath read-only and not redeployed"
+}

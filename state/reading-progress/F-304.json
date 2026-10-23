@@ -1,0 +1,175 @@
+{
+  "work_package": "WP-103",
+  "family_id": "F-304",
+  "manuscript_id": "P-d5b8bdf01fefba04",
+  "at": "2026-10-23T06:33:02.730793+00:00",
+  "upstream": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "completed_source_decomposition_draft",
+  "readme": {
+    "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/README.md",
+    "lines": 17,
+    "sha256": "333aa08e130933b13338120a07f6711600768ff297fafbeabb50756c6ccef332",
+    "actually_read": true,
+    "scope": "Selection metadata only;not source-body coverage"
+  },
+  "files": [
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/appendices/duality-signs.tex",
+      "lines": 226,
+      "bytes": 9243,
+      "sha256": "038a6d2804ccf806b71f381574dc8e87cdca0cd95dbf58733778286381a97cf5",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/figures/local-test.tex",
+      "lines": 32,
+      "bytes": 1354,
+      "sha256": "cdf1590806db622745bf81a025a1086f71c9347950b06f3f38b23dcc2c1ae9fc",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/main.tex",
+      "lines": 111,
+      "bytes": 3565,
+      "sha256": "e6263c35fa770842a323a0d107d954215a00d3b744863188ebb9c3256ea5944f",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/references.bib",
+      "lines": 452,
+      "bytes": 14862,
+      "sha256": "9070238e2daf4f5b33d976b9b7d8f12ef144b81699d5e5e3a28f5c653aed31ac",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "lines": 314,
+      "bytes": 16010,
+      "sha256": "df283b874400b28ad668debe32a00b8921b332ccba9d135a7e97c0ec2252be60",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "lines": 752,
+      "bytes": 33051,
+      "sha256": "b8544d62cafd1c59099547d8ea393fb8d7dad6170132c66509e664d764953227",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "lines": 472,
+      "bytes": 20250,
+      "sha256": "eb18eb8a92a51a001277c74138c4b0c29b31e8e5e53556e5405d4dbca7fdbab9",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "lines": 529,
+      "bytes": 22466,
+      "sha256": "663f9dc97ecc75839763d508ea177273d473ebb96fac4bf0f208de3a02815f49",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "lines": 538,
+      "bytes": 22788,
+      "sha256": "24d106f902399267b09f8ad6932972832392ca7b5da292e49aeb832f6049708b",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "lines": 527,
+      "bytes": 23271,
+      "sha256": "391518dab55e6cdc038dd6abbcfb191ebf07e8e8e2d3e60a2be2c4c07d5bac7d",
+      "actually_read": true
+    }
+  ],
+  "tex_files": 9,
+  "tex_lines": 3501,
+  "bib_lines": 452,
+  "source_body_read": true,
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "numeric_or_symbolic_run": false,
+  "next_action": "WP104 boundedrealconsumerqualification;do notredownload4oldoriginals or rereadalreadycompletedsource",
+  "started_at": "2026-10-23T06:03:00.684127+00:00",
+  "actual_read_ranges": {
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/appendices/duality-signs.tex": [
+      [
+        1,
+        226
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/figures/local-test.tex": [
+      [
+        1,
+        32
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/main.tex": [
+      [
+        1,
+        111
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/references.bib": [
+      [
+        1,
+        452
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        314
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex": [
+      [
+        1,
+        752
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex": [
+      [
+        1,
+        472
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex": [
+      [
+        1,
+        529
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex": [
+      [
+        1,
+        538
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex": [
+      [
+        1,
+        527
+      ]
+    ]
+  },
+  "metadata_count_correction": "README actual splitlines17;WP102 narrative said18. Exact pinned bytes and actual content unchanged;no source coverage credit affected.",
+  "formal_registration": "not_registered_no_local_build",
+  "historical_actual_works": 4,
+  "actual_pdf_pixels": 12,
+  "local_formal_main_bindings_B": 0,
+  "source_results_C": 41,
+  "new_candidates": 1,
+  "new_initial_checks": 0,
+  "reading_ledger": "data/provenance/readings/F-304.json",
+  "completed_at": "2026-10-23T06:33:02.730793+00:00",
+  "evidence": [
+    "data/provenance/readings/F-304.json",
+    "reports/hilbert-smith-F304-reading.md",
+    "reports/reproducibility/20261023-hilbert-smith"
+  ],
+  "new_records": 113,
+  "new_explicit_edges": 295
+}

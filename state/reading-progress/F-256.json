@@ -1,0 +1,172 @@
+{
+  "work_package": "WP-097",
+  "family_id": "F-256",
+  "status": "current_source_draft_canonical_QA_complete_not_full_family",
+  "at": "2026-10-23T02:50:57.924299+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "current_manuscripts": [
+    "P-96f3844b49d3a0f7",
+    "P-63f4b2af9a574825"
+  ],
+  "files": [
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/README.md",
+      "bytes": 690,
+      "sha256": "5ad6a313f645a29cf9d98d66af936977106ca3fec369d10bf1f30c2a32c9c6a5",
+      "lines": 18,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/main.tex",
+      "bytes": 1557,
+      "sha256": "3e70fd90b19fea1883e5eb656b1558e170ca95783aa78b566565e0c8b5170c85",
+      "lines": 46,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "bytes": 3747,
+      "sha256": "95da1d983b63bbc03687ac8e9d3b87b3688e9b738babde063ef16ceec4c54483",
+      "lines": 100,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/fixed-space.tex",
+      "bytes": 13229,
+      "sha256": "5951248853437b62d60eada07d029a5f91ab8ab01038a2e9df6d8b28a7566233",
+      "lines": 297,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/history.tex",
+      "bytes": 4861,
+      "sha256": "c8a0faebb664439325a566bdade6a7cd759f538af6ff5e640e62bca9f09786b9",
+      "lines": 79,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/introduction.tex",
+      "bytes": 5290,
+      "sha256": "a90eec91a71d4e2223efc65169fc45a639a918632c7f9272b5108c3e782dade4",
+      "lines": 99,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/kernel.tex",
+      "bytes": 8056,
+      "sha256": "591356c87116cfc32e71b0f3b20260526475cd91a9eba5093d7c454edc764cbf",
+      "lines": 162,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/phase.tex",
+      "bytes": 8013,
+      "sha256": "01625b4197d6b826946592e40067bd25e3e882edac96833a96ae0237dca9d93f",
+      "lines": 201,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/planar.tex",
+      "bytes": 13373,
+      "sha256": "b263f99c9c6690c5caae36e84ee80935ca7ff220c4008b23409ae38a35f898a9",
+      "lines": 293,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/README.md",
+      "bytes": 603,
+      "sha256": "fb7fed8c2503f2c331251999ab29907f2121f456bb57c1e4f751c68b969812ed",
+      "lines": 18,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/paper.tex",
+      "bytes": 1486,
+      "sha256": "fb51cb31bb8bfa31d6c4605fe2af21c0dace13a914f43be88009e9ad47de1003",
+      "lines": 47,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "bytes": 4984,
+      "sha256": "aae200dc5e7d489c853b81e0c8639671102317afd0d2b0a8a66b32540bf4b8c7",
+      "lines": 109,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/degree.tex",
+      "bytes": 5354,
+      "sha256": "a2158bf0a34c08e6c1b126d89d8ca400f9ecb1f48ab2993104101d63e13c80e4",
+      "lines": 144,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/diagram.tex",
+      "bytes": 11691,
+      "sha256": "46a2c69d6709b7e556060f9901381037d4d04e880ff801e99646840a65fc3b28",
+      "lines": 250,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/introduction.tex",
+      "bytes": 7620,
+      "sha256": "f9222724c85672dc18661e35d0db12e019ed505707ccdd78332d25eae5987b08",
+      "lines": 150,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/phase.tex",
+      "bytes": 6203,
+      "sha256": "6c9db8680a4f08138c39d110f4f5517448074e5e92b31c604f42bc631d786506",
+      "lines": 149,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/topology.tex",
+      "bytes": 7845,
+      "sha256": "4b4f6935392f71f3b00844d6a946555f6518d09c21c6882467e5637b05d40d3e",
+      "lines": 140,
+      "actually_read": true
+    }
+  ],
+  "actual_read_scope": "All14TeX2157lines+109Bib+2README36lines actually read,including indirect history include. Root include closure checked;system glyph includes external TeX runtime,not new repo files.",
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "new_numerical_run": false,
+  "next_action": "WP098 bounded actual consumer/old-method qualification;then mandatoryglobalretro035",
+  "started_at": "2026-10-23T02:54:34.127001+00:00",
+  "previous_goal_turn": "Productive full-source/history/formal reading and raw same-provider roles;canonical curation completed after recovery without repeating experiments",
+  "new_download_bytes": 0,
+  "numerical_or_symbolic_benchmark_started": false,
+  "updated_at": "2026-10-23T03:44:52.974103+00:00",
+  "all_current_natural_source_bodies_read": true,
+  "include_closure_verified": true,
+  "remaining": [
+    "19externaloriginalbodies andrecursivehistorical/proof closure unread",
+    "Lean/Comparator build,fullimportproof andhuman specificationreview notdone",
+    "Actual symboliccaller,independent embeddingjudge,strongoldbaseline and frozenbatch notadmitted",
+    "Secondprovider andallrealhuman gates deferred,notwaived"
+  ],
+  "selected_original_works_scoped": 4,
+  "external_pdf_local_bytes": 4894426,
+  "actual_pixel_inspections": 8,
+  "GR1962_original_scope": "Entire article cached primary PDF text pp1531-1533,title through references,not neighbouring article text. DirectHTTP403 and screenshot cookieAbsent;no original bytes/hash or successful pixels for this work.",
+  "formal_static_scope": {
+    "files": 47,
+    "declarations": 743,
+    "placeholder_tokens": 0,
+    "lexical_local_axioms": 0,
+    "build": "not_run",
+    "Comparator": "not_run"
+  },
+  "formal_actual_scope": "docs256/config/challenge/Model/Main/FixedSpaces/PhaseSubadditivity full bodies;MatrixTrace1-85,195-302;RegularOperators1-48;ScalarPhase1-55. Not all proofs/imports read. Config absentKervaire name in YAML;numericPaper256HyperbolicCones unrelated.",
+  "reading_ledger": "data/provenance/readings/F-256.json",
+  "canonical_analysis": "ANALYSIS-F-256",
+  "named_results": 10,
+  "method_contracts": 20,
+  "new_candidate_ids": [
+    "APP-256-01"
+  ],
+  "new_initial_checks": 0,
+  "quality_evidence": "reports/reproducibility/20261023-group-equations"
+}

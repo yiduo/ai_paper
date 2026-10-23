@@ -1,0 +1,63 @@
+{
+  "work_package": "WP-096",
+  "status": "completed",
+  "started_at": "2026-10-23T02:24:01.512499+00:00",
+  "updated_at": "2026-10-23T02:40:34.816281+00:00",
+  "project_base_commit": "842a129",
+  "generation_id": "GEN-20261023-093",
+  "input_candidate": "APP-058-01",
+  "actual_projects_read": [
+    {
+      "project": "REDLOG",
+      "url": "https://www.redlog.eu/documentation/service.php?key=rlqe",
+      "read": "Full web-tool rendered rlqe body;not local direct body",
+      "local_byte_content_status": "Two direct37byte HTML skeletons are acquisition failures for content;their hashes do not identify documentation prose",
+      "generic_read": "Historical original manual search excerpt,not full body/current implementation",
+      "generic_primary_url": "https://andreasseidl.com/publications/DSS04b.pdf"
+    },
+    {
+      "project": "QEPCAD B",
+      "repository": "https://github.com/chriswestbrown/qepcad",
+      "commit": "0f57079731afb850d0960f2265f00de8b9e213a0",
+      "commit_date": "2021-03-09T17:59:52Z",
+      "selected_documents": 9,
+      "selected_document_raw_lines": 706,
+      "scope": "Full bodies of selected README,input/solution/projection/lifting docs,regression README/application input and license;not C/C++ proof or dependency audit",
+      "actual_application_input_blocks": 7,
+      "binary_run": false
+    },
+    {
+      "project": "RAGlib",
+      "url": "https://safey.perso.lip6.fr/RAGLib/",
+      "distribution_url": "https://perso.lip6.fr/Mohab.Safey/RAGLib/distrib.html",
+      "read": "Both whole web-tool rendered pages,including dated release3.4 and historical interface changes;no local original bytes obtained",
+      "software_version_claim": "Author release-page list only,not latest package/binary verified"
+    },
+    {
+      "project": "RAGlib actual consumer",
+      "url": "https://arxiv.org/html/2402.07782v2",
+      "source_revision": "2402.07782v2(2025-01-24)",
+      "sha256": "6d58a315b6a9928da7d77b010f0590e4bc9b71bb223fb1ffacb1efa25f4e652d",
+      "local_acquired_bytes": 622114,
+      "read": "Introduction including Assumptions1/2,Problem1,Theorem1.1;Section4.2 Lemmas4.7/4.8,Algorithm2,Th4.9 and proof;Section5/Table1/P3P. Not all Sections2,3,4.1,4.3 or full historical proof closure.",
+      "local_fulltext_retention": "Temporary HTML removed after acquisition/hash verification;no full paper redistribution"
+    }
+  ],
+  "source_limit_projects": 3,
+  "source_projects_examined": 3,
+  "download_cap_bytes": 10485760,
+  "new_download_bytes": 921020,
+  "numeric_or_symbolic_benchmark_started": false,
+  "actual_caller_admitted": false,
+  "ledger": "data/provenance/demand/F-058-symbolic-limit-contracts.json",
+  "new_records": 13,
+  "new_explicit_edges": 33,
+  "github_write": false,
+  "remaining": [
+    "Deferred true human/second-provider gates",
+    "Future actual caller/certificates/independent fullcost judge if candidate revisited"
+  ],
+  "completed_at": "2026-10-23T02:50:57.924299+00:00",
+  "quality_evidence": "reports/reproducibility/20261023-symbolic-limit",
+  "next_work_package": "WP-097"
+}

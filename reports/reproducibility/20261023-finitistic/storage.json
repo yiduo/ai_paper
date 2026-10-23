@@ -1,0 +1,201 @@
+{
+  "at": "2026-10-23T05:39:25.269850+00:00",
+  "temporary_root": "/private/tmp/ai-paper-WP101",
+  "primary_original_works": 4,
+  "downloaded_PDFs": 4,
+  "downloaded_bytes": 872597,
+  "actual_pixels": 8,
+  "temporary_raw_files": [
+    {
+      "name": "Cummings-asymmetry.png",
+      "bytes": 296549,
+      "sha256": "3f2e87547f20736dd894e620057d4da9070a05dd77566d937fb57ad7abd11db1",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Cummings2022v1.pdf",
+      "bytes": 148609,
+      "sha256": "004dc60949f15eda5bd2fe611289c4911388361558d3e4e26d0626649eb9ac31",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Cummings2022v1.txt",
+      "bytes": 31103,
+      "sha256": "aa4408ae40a5c705a6072b005176662f35a5118b7542def71133641eb7996e16",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "MY-pd.png",
+      "bytes": 319990,
+      "sha256": "7d2efd02b1b38d75f6bb29cbbaefda702c4ad771f4b9179d72bc5111e68fb0fe",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "MinamotoYamaura2017v1.pdf",
+      "bytes": 362946,
+      "sha256": "ee898625dc7697ab7bd4480d034448d89bdabc39f4544f19fa03aa51a8a7a9ec",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "MinamotoYamaura2017v1.txt",
+      "bytes": 95806,
+      "sha256": "462f1610d069ff53d4c7dc52faf77d05e6c41d0b853a29676898e7240b112a81",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "NRS-localization.png",
+      "bytes": 315387,
+      "sha256": "4bfb3731031704d02c9d4b78f3d0fad2fd79ec9306fb99db346dee5df48ea1e5",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "NRS2004v2.pdf",
+      "bytes": 153632,
+      "sha256": "4eef7b624526d9bc9b467cf9be5a6ee9418bd87e8a76246fa3293530fbf2dff3",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "NRS2004v2.txt",
+      "bytes": 41201,
+      "sha256": "2e6e7d4583869561459162cf77324d4c72aa5dca825621bdc0047791e5c82e87",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Rickard-generation.png",
+      "bytes": 310307,
+      "sha256": "1c45512e9b09f75d7210f8e3b2ead11dbd6573ee75e70c40de2c6b6f158a062a",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Rickard2018v1.pdf",
+      "bytes": 207410,
+      "sha256": "012dea160bbeceea9035a417349b814fa3d6104dc0beda4d0819471711826691",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Rickard2018v1.txt",
+      "bytes": 56760,
+      "sha256": "b4164f2ba4debef992ca75e7b4bc0527a43b8637f87c1db872d0dbc256a2b455",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "current-source.txt",
+      "bytes": 80749,
+      "sha256": "e95f90989b52907152bba866136da4e426e971da8cf9e2fdad669c0d0fdd2b69",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "source-finite-quotients.png",
+      "bytes": 313380,
+      "sha256": "9dc884480b9c646c3e3979fd16e7d011d939aeb0acc6a3745c15124a23cdc0ad",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "source-fixed-data.png",
+      "bytes": 309706,
+      "sha256": "2b5de57110e2bddbfde43c06fc277e222e7628d1d353df7ae6fdd92d5969a1f6",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "source-main.png",
+      "bytes": 269316,
+      "sha256": "62cc33d1362f0c63ecc77627e75ad18af4160f3ad2efb6c67df4563b323f67a6",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "source-rectification.png",
+      "bytes": 219568,
+      "sha256": "4e8d00306e2454d698c338f7b00f62c75a10bb80b99ed21cc3e4098faa6f9dc9",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    }
+  ],
+  "temporary_raw_bytes_removed": 3532419,
+  "own_archive": "reports/reproducibility/20261023-finitistic/helpers-and-logs.tar.gz",
+  "compressed_bytes": 37877,
+  "uncompressed_tar_bytes": 143360,
+  "compressed_sha256": "4fdc21e9561fb3bf71169ce26d2e7dcb8992d654ea5806462ca8c6d6da55d5d4",
+  "uncompressed_tar_sha256": "07865650bfd461c8928402fe4fda2d28b6e1c96c36ca9ca694c3521097e732c7",
+  "member_bytes": 125044,
+  "members": {
+    "acquire.py": {
+      "bytes": 1145,
+      "sha256": "03f539f24a5acd9ac7d81d014bcb5807b1de01b8fd15cb335b2ba1a059a81616"
+    },
+    "acquisition.json": {
+      "bytes": 2079,
+      "sha256": "1f5d8d76e501f74f9c4d7b8067b9cc1df6b125ed18251dc5323f5d7e5c2964e0"
+    },
+    "clean-check.py": {
+      "bytes": 2216,
+      "sha256": "b660a2768774dfaf3ef1f173771eea7d1bf785a0c145d3ebe4b8d106dafdf974"
+    },
+    "close-state.py": {
+      "bytes": 13738,
+      "sha256": "2d26234678f09741e7a46b38830184f6ddb399c74a8a9cad7c9bfceeffefc44f"
+    },
+    "core.log": {
+      "bytes": 11538,
+      "sha256": "e4464da2099830a58d371f32e696e35c5a95854266dd772f7d31998b2c87bf54"
+    },
+    "curate.py": {
+      "bytes": 36967,
+      "sha256": "410703379392581026d25f2aedfb9d6f576c45f28734f07f1e32472ca2681a49"
+    },
+    "curation.log": {
+      "bytes": 991,
+      "sha256": "c39d8ecc098ecf02bceba25792248be41415f4523b194a85ba244dd177318043"
+    },
+    "finalize-storage.py": {
+      "bytes": 9086,
+      "sha256": "a5ee90d1f666257d396b5858600dae0b165af1af05ae0f94869c82ff41b74657"
+    },
+    "freeze-code-citations.log": {
+      "bytes": 1313,
+      "sha256": "ca6b2a316f5a6edfd57b93e2ad60c1e4ea62ae823d45b90f112df741d392e970"
+    },
+    "freeze-code-citations.py": {
+      "bytes": 2698,
+      "sha256": "541d7e13fa8b50989cd048ab5cbca3940473bb83f5ba90e51cbca89027276a28"
+    },
+    "make-qa.py": {
+      "bytes": 6872,
+      "sha256": "e136a62fa26195a0a8ff347d6d5a424f0b18f1c3a1eced17f31e2a13a2cc4185"
+    },
+    "no-math-clean.log": {
+      "bytes": 11538,
+      "sha256": "6d6e40313b2fc1c445d5c50460cfdf7fef85d7b6fd737dda739d94beb156dada"
+    },
+    "qa.log": {
+      "bytes": 157,
+      "sha256": "ac77fcab7bb379837fd128a8951367e8dd204c129a979765606130f36746130a"
+    },
+    "qa.py": {
+      "bytes": 8576,
+      "sha256": "783798dea7c007a510566bed6bdae6db30c4fff395a5b3065b95f6a8055654dd"
+    },
+    "render-inventory.json": {
+      "bytes": 3535,
+      "sha256": "b8d8bf0bd62a8d4adf548c4c53cdb452bfbbea737bebb3ed4f14b2a34edc5027"
+    },
+    "render.py": {
+      "bytes": 1223,
+      "sha256": "abf2b1f27d539591e357d076ac6abecdffbcfbadb17449ecd49949a23108931d"
+    },
+    "retry-two.py": {
+      "bytes": 959,
+      "sha256": "92ff2b5308c66052cd1f9f081ab10db0cf7fb1063ad54f582f742fb2b804fef0"
+    },
+    "tests.log": {
+      "bytes": 10413,
+      "sha256": "9834acdc42bce6e256ef7cf4a364b41fe51aa0018e3a40c7364f8304504e50ad"
+    }
+  },
+  "all_decompressed_member_bytes_verified_before_plaintext_removal": true,
+  "failed_helper_and_log_retained": true,
+  "official_math_clean_pinned": true,
+  "root_charter_hash_unchanged": true,
+  "new_numerical_experiment_data": false,
+  "install_or_cache_download": false,
+  "external_fulltext_republished": false,
+  "temporary_root_removed": true
+}

@@ -1,0 +1,206 @@
+{
+  "at": "2026-10-23T04:42:56.362326+00:00",
+  "temporary_root": "/private/tmp/ai-paper-WP099",
+  "downloaded_original_pdf_bytes": 2047757,
+  "original_PDF_count": 4,
+  "temporary_raw_files": [
+    {
+      "name": "Gardam-thA.png",
+      "bytes": 245533,
+      "sha256": "ca8b0a288f92ff948526986c46c2e74a83d3ef1579b298d47c18b05cf3332d6c",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Gardam2021v4.pdf",
+      "bytes": 145721,
+      "sha256": "25260e6ba48805975e2b622b861c3f27da58561d89d2597f9d25c437f7f2ec6d",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Gardam2021v4.txt",
+      "bytes": 34436,
+      "sha256": "7b98968f3cb939d636db91f75068968a8180b2295781c766089e1d9ae245dca1",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Garg-T1-T4.png",
+      "bytes": 215618,
+      "sha256": "7592a1fbeb57bbeb9f3d423cea15279f1f62a01385c82c7ec7a05a09c694ba18",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "GargMineyev2025v2.pdf",
+      "bytes": 885223,
+      "sha256": "8a9702395a9e7bfd27a633e3c0cbb1f09f26f79f0779547efa2a99978338d26a",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "GargMineyev2025v2.txt",
+      "bytes": 107502,
+      "sha256": "5978c4dc574fdbab8ce2157b7dfd5d069cb9ef7721687acc87e21337cb162dd6",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Mineyev-revised2026.pdf",
+      "bytes": 373679,
+      "sha256": "e62e62a25056b3138b10ec9b4bccc6c806c989f17bdae5bb9d4d0e9b201fd3b6",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Mineyev-revised2026.txt",
+      "bytes": 100721,
+      "sha256": "0f9c35c9cf5b087393f149ca249e9489820a29b3b1e8f0653aa27c0c30081ccd",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Mineyev-th27.png",
+      "bytes": 426364,
+      "sha256": "bb74a92de7b08eeb3e00f7bf27e6811f1c089040bf562af8fd316097df690b85",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Shin-th11.png",
+      "bytes": 351043,
+      "sha256": "b167cceb6a919386ea40f33b97279f54e4fa4da0ddcdc9d053d0636ace8d5743",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Shin2026v1.pdf",
+      "bytes": 643134,
+      "sha256": "ba859df617d9078eb006b7e9f1b536c50d6d1836fae6a62cc69f55bdf7cf19b7",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "Shin2026v1.txt",
+      "bytes": 140827,
+      "sha256": "6d917db9c5c83e4bcd4f676fb6ad7775a3a140059532ec5afdb77eac09622d99",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "current-source.txt",
+      "bytes": 92733,
+      "sha256": "6d443d6e7b9b9e7d4d638f178af1ca3704df63c005b255da765ebde9869393dc",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "source-alignment.png",
+      "bytes": 288919,
+      "sha256": "04c8ee7e53fa1cf64480c78b0537c819c30972e6f64b3f5ecbb18e7160d1fdd3",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "source-factors.png",
+      "bytes": 314507,
+      "sha256": "fb87c42a11e3f9145121ac77c50e0efa6bd6ddfd9336ae1dcb6c30a7d1f76025",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "source-main.png",
+      "bytes": 314183,
+      "sha256": "145c7a02eae07c489b1d635f514decbee5694e0471e14017f4b1f8cac58a4056",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    },
+    {
+      "name": "source-surgery.png",
+      "bytes": 340370,
+      "sha256": "93413667a7bb73858d216ec0a398f8dc4a86eaf17ca7ce4a5f34dc0eb98030ed",
+      "retention": "Removed after source/version/page/image provenance was recorded;no external original text redistributed"
+    }
+  ],
+  "temporary_raw_bytes_removed": 5020513,
+  "own_archive": "reports/reproducibility/20261023-zero-divisors/helpers-and-logs.tar.gz",
+  "compressed_bytes": 34228,
+  "uncompressed_tar_bytes": 122880,
+  "uncompressed_tar_sha256": "cc902da7ba86e26051b4d7707b4f4e7163b08e354c74a9a47f34c95ac77cfa70",
+  "compressed_sha256": "d04e64110660212c26d2d8d671fbaf645027d35f834a5c492e309e1360f76a26",
+  "member_bytes": 104871,
+  "members": {
+    "acquire.log": {
+      "bytes": 1172,
+      "sha256": "a826f1426f3ad6f3722fdb817a842115bf67366c2c33054ae30cc1a50f5f73c9"
+    },
+    "acquire.py": {
+      "bytes": 1383,
+      "sha256": "231b8126f215e3c522d9241fe4a30232a70b9e7ef8d91af3b3b7bfbb1184c77e"
+    },
+    "acquisition.json": {
+      "bytes": 1493,
+      "sha256": "56ea7c9dbbb2d15835cc80e381ea19f0852570254dee2c267ffa071cb36b64e9"
+    },
+    "clean-check.py": {
+      "bytes": 2219,
+      "sha256": "b4bc2846d9c7c274afef2d56f8d630d8cacfcf367d67d6e6207a520e315e3d3e"
+    },
+    "clean-run.log": {
+      "bytes": 488,
+      "sha256": "a812f58818e3535bae8e0daf917a35af49dc8c7b577ebec0f23a93d1f892bd51"
+    },
+    "close-state.log": {
+      "bytes": 42,
+      "sha256": "2d17e5cf36f31b66bf1215d4b54ab831476ceb1f85c9e8a097d92e881084776a"
+    },
+    "close-state.py": {
+      "bytes": 10721,
+      "sha256": "2b7812d66a63dd664390f1e146e097110ed5ff8e056388ba162052c97847d45e"
+    },
+    "core.log": {
+      "bytes": 11374,
+      "sha256": "a3a50bb3bae88d1aa0a476ae8de8c6a52f061c456ceb41956a5639bd253df9df"
+    },
+    "curate.py": {
+      "bytes": 35272,
+      "sha256": "91a07d7684844536273bf91e4cd8b705bf847138b77f5b4f98de09981735c53c"
+    },
+    "curation-run.log": {
+      "bytes": 340,
+      "sha256": "2e2b375e89651c05792b26a807be86b7ffb8f6887e9e625816ef2f2aea4930c5"
+    },
+    "finalize-storage.py": {
+      "bytes": 7488,
+      "sha256": "c1b051c2116dcc8a8ee5d6913dfb610a15ba94f58399fe2f64ee51c81c188ef5"
+    },
+    "make-qa.py": {
+      "bytes": 4434,
+      "sha256": "189f2ba8803d6e95ddd5473ba87e1c82a9944ac72f7efd7cc06b9d7fc1947258"
+    },
+    "no-math-clean.log": {
+      "bytes": 11374,
+      "sha256": "9e19193baca194ee315d4304a73e7608c3655d650e5fca8e768b452f01aeddf4"
+    },
+    "qa.log": {
+      "bytes": 3474,
+      "sha256": "f5b5312ca2cb769f7f49f42244c1ac26d9d407d097aa81acd6ac39984bcf8e57"
+    },
+    "qa.py": {
+      "bytes": 6077,
+      "sha256": "76b2e41f36e7327d5360f1179c5793003f78c65141558a7cc4e282c7ffd97291"
+    },
+    "render-inventory.json": {
+      "bytes": 3494,
+      "sha256": "5390ca430729598eaac602223c64dece26f8a47b1e25279f27685b112436ee74"
+    },
+    "render.log": {
+      "bytes": 286,
+      "sha256": "1b5ccfcd9fd0cc71882fb618178e4244f6419a451c2bc22ae38c28085f3c3d85"
+    },
+    "render.py": {
+      "bytes": 1177,
+      "sha256": "852b5a6180ffbf3f70545647a42f4eab7165be1aaec8a7c1541882f873a8de9f"
+    },
+    "source-qa.log": {
+      "bytes": 774,
+      "sha256": "b316bdddb74e6ec0e57a882382d39803bb4801662ee7a3f9a621159b78c0b74e"
+    },
+    "source-qa.py": {
+      "bytes": 1789,
+      "sha256": "b4296184822b744165a96653e1fed741a07f3be4e3c2835fee8c430e94956e44"
+    }
+  },
+  "all_decompressed_member_bytes_and_hashes_verified_before_plaintext_removal": true,
+  "no_math_copy_or_install": true,
+  "no_new_numerical_experiment_data": true,
+  "official_math_commit_and_clean_verified": true,
+  "root_charter_hash_unchanged": true,
+  "external_fulltext_republished": false,
+  "temporary_root_removed": true
+}

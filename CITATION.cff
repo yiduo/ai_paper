@@ -1,9 +1,11 @@
 cff-version: 1.2.0
-message: "Please cite the exact project revision and upstream manuscript version used. This is an unreleased local research project."
-title: "AI Math Application Mining"
+message: "Please cite the exact project revision and upstream manuscript version used. This is an ongoing public research project; phase one is incomplete."
+title: "MathWeave: Evidence for Mathematical Applications"
 type: software
 version: 0.1.0
 license: Apache-2.0
 authors:
-  - name: "AI Math Application Mining contributors"
+  - name: "MathWeave contributors"
 abstract: "Evidence-preserving application hypotheses, typed knowledge graph, and reproducible numerical applicability checks for a pinned mathematical manuscript corpus."
+repository-code: "https://github.com/yiduo/mathweave"
+url: "https://github.com/yiduo/mathweave"

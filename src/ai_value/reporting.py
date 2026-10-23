@@ -12,6 +12,20 @@ from .graph import load, review_sample, validate
 from .publication import publication_status
 
 
+def family_result_rows(properties: dict, nodes: dict) -> list[str]:
+    bindings = list(properties['result_ids_by_label'].items())
+    bindings += [('无原文标签（按源码位置绑定）', identifier)
+                 for identifier in properties.get('unlabelled_result_ids', [])]
+    rows = []
+    for label, identifier in bindings:
+        item = nodes[identifier]['properties']
+        conditions = '; '.join(item.get('conditions', []))
+        statement = (item['statement']+' 条件：'+conditions).replace('|', r'\|')
+        constants = '; '.join(item.get('constants_and_constructions', item.get('constants', []))).replace('|', r'\|')
+        rows.append(f'| `{label}` | `{identifier}` | {statement} | {constants} |')
+    return rows
+
+
 def render(root: Path) -> dict:
     metrics = validate(root)
     publication = publication_status(root)
@@ -30,14 +44,11 @@ def render(root: Path) -> dict:
                  '由规范图谱导出。全文拆解草稿不等于完整历史谱系、数学验证或人工规格审核。','',
                  f'正文模块：{len(p["source_sections"])}；源码行：{p["source_line_count"]}；具名结果：{len(p["result_ids_by_label"])}。','',
                  '| 原文标签 | 稳定节点 | 原文主张 / 条件 | 常数与构造 |','| --- | --- | --- | --- |']
+        if p.get('unlabelled_result_ids'):
+            lines[4] = lines[4][:-1] + f'；另无标签结果：{len(p["unlabelled_result_ids"])}。'
         if p.get('manuscript_source_drafts_complete_ids'):
             lines[4:4] = [f'已读并拆解手稿 {len(p["manuscript_source_drafts_complete_ids"])}/{len(p["manuscript_ids"])}；未读手稿不计入全文草稿。','']
-        for label,identifier in p['result_ids_by_label'].items():
-            item = nodes[identifier]['properties']
-            conditions = '; '.join(item.get('conditions',[]))
-            statement = (item['statement']+' 条件：'+conditions).replace('|',r'\|')
-            constants = '; '.join(item.get('constants_and_constructions',item.get('constants',[]))).replace('|',r'\|')
-            lines.append(f'| `{label}` | `{identifier}` | {statement} | {constants} |')
+        lines += family_result_rows(p, nodes)
         lines += ['', '可迁移零件：', '']
         for identifier in p['method_ids']:
             item = nodes[identifier]['properties']

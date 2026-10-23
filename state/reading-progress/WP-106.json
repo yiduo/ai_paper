@@ -1,0 +1,213 @@
+{
+  "work_package": "WP-106",
+  "at": "2026-10-23T08:20:45.272362+00:00",
+  "status": "completed_source_qualification",
+  "base_commit": "a1c355c9a2b9ef23768fce25fbfe461f59fc3a45",
+  "project_cap": 3,
+  "new_download_bytes_cap": 2097152,
+  "selected_projects": [
+    "sympy/sympy",
+    "Qiskit/qiskit",
+    "cvxpy/cvxpy"
+  ],
+  "actually_read_source_files": [
+    {
+      "project": "sympy",
+      "repo": "sympy/sympy",
+      "commit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+      "release_tag": "1.14.0",
+      "repo_path": "sympy/matrices/decompositions.py",
+      "path": "/private/tmp/ai-paper-WP106/sympy-decompositions.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/sympy/matrices/decompositions.py",
+      "bytes": 47865,
+      "sha256": "e4e8f015ee59fde3365e864faab34563df84b2addc3bff32a85c53f5004f1e04",
+      "file_total_lines": 1621,
+      "actually_read_ranges": [
+        [
+          196,
+          575
+        ]
+      ],
+      "actually_read_lines": 380,
+      "whole_file_read": false,
+      "manual_reading_note": "Full dense/sparse Cholesky and LDL implementations and source docstrings;positive-definite/nonsingular promises,unit triangular L and separate D,explicit square-root avoidance. No pivoted semidefinite completion claim for this implementation.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-SYMPY-DECOMPOSITIONS"
+    },
+    {
+      "project": "sympy",
+      "repo": "sympy/sympy",
+      "commit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+      "release_tag": "1.14.0",
+      "repo_path": "sympy/matrices/solvers.py",
+      "path": "/private/tmp/ai-paper-WP106/sympy-solvers.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/sympy/matrices/solvers.py",
+      "bytes": 25163,
+      "sha256": "916914772d17a166e7ed16384b5374a8d831280714ac789396271bdb9ad1f73e",
+      "file_total_lines": 942,
+      "actually_read_ranges": [
+        [
+          210,
+          313
+        ]
+      ],
+      "actually_read_lines": 104,
+      "whole_file_read": false,
+      "manual_reading_note": "Both actual Cholesky/LDL solve bodies;under-determined rejection,symmetric/non-Hermitian branches,normal equations if reformed,triangular solves and explicit D.diagonal_solve. Consumer asks for solution,not unweighted rational Gram columns.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-SYMPY-SOLVERS"
+    },
+    {
+      "project": "qiskit",
+      "repo": "Qiskit/qiskit",
+      "commit": "65094a013073e4bda53c2b341056ab9ade0eb1bd",
+      "release_tag": "2.6.0",
+      "repo_path": "qiskit/quantum_info/operators/channel/transformations.py",
+      "path": "/private/tmp/ai-paper-WP106/qiskit-transformations.py",
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/qiskit/quantum_info/operators/channel/transformations.py",
+      "bytes": 18198,
+      "sha256": "581e1355310e9a460a9332f3528cf18ee11bbe890f80b1b925c844021e900eec",
+      "file_total_lines": 488,
+      "actually_read_ranges": [
+        [
+          1,
+          24
+        ],
+        [
+          88,
+          99
+        ],
+        [
+          205,
+          274
+        ]
+      ],
+      "actually_read_lines": 106,
+      "whole_file_read": false,
+      "manual_reading_note": "Imports,actual dispatch _to_kraus,complete _kraus_to_choi and _choi_to_kraus. Standard Kraus uses column-major vec outer products. Hermitian tolerance,numerical condition/Schur perturbation,square roots,thresholding and zero-map singleton;non-CP SVD produces generalized left/right sets. No numerical runtime executed or bug asserted.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-QISKIT-TRANSFORMATIONS"
+    },
+    {
+      "project": "qiskit",
+      "repo": "Qiskit/qiskit",
+      "commit": "65094a013073e4bda53c2b341056ab9ade0eb1bd",
+      "release_tag": "2.6.0",
+      "repo_path": "qiskit/quantum_info/operators/channel/kraus.py",
+      "path": "/private/tmp/ai-paper-WP106/qiskit-kraus.py",
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/qiskit/quantum_info/operators/channel/kraus.py",
+      "bytes": 13260,
+      "sha256": "d987de8cfed33b48353427bfb0d0fb08d89aa18e363710a6d2c4cbe873da5b8e",
+      "file_total_lines": 337,
+      "actually_read_ranges": [
+        [
+          1,
+          191
+        ]
+      ],
+      "actually_read_lines": 191,
+      "whole_file_read": false,
+      "manual_reading_note": "Channel semantics,full actual constructor/data/is_cptp/_evolve. Direct matrices cast np.asarray(dtype=complex),conversion calls _to_kraus,sets compared with allclose. CPTP tested by accumulating A^dagger A and tolerance-based identity. Float-complex contract,not exact rational certificate.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-QISKIT-KRAUS"
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_tag": "v1.9.3",
+      "repo_path": "cvxpy/atoms/quad_form.py",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-quad_form.py",
+      "url": "https://github.com/cvxpy/cvxpy/blob/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/atoms/quad_form.py",
+      "bytes": 10920,
+      "sha256": "dd2b9d24352881a08a94f16a7f651907413198697a516d929ecb0167a5add173",
+      "file_total_lines": 318,
+      "actually_read_ranges": [
+        [
+          1,
+          318
+        ]
+      ],
+      "actually_read_lines": 318,
+      "whole_file_read": true,
+      "manual_reading_note": "Entire pinned file actually read:quadratic atom,parameter/constant PSD rules,symbolic wrapper,decomp_quad and quad_form. Dense LDL,positive/negative masks at machine-precision cutoff,square-root factors and common scale. assume_PSD wraps a promise;does not prove PSD. Source speed wording not independently benchmarked.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-CVXPY-QUAD-FORM"
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_tag": "v1.9.3",
+      "repo_path": "cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-quad_form_canon.py",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+      "bytes": 1757,
+      "sha256": "5922236e5e704216aa3fa54e99eb7d7a40585230bcc7f48bd299d3b1267af221",
+      "file_total_lines": 47,
+      "actually_read_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "actually_read_lines": 47,
+      "whole_file_read": true,
+      "manual_reading_note": "Entire actual canonicalizer:decomp_quad(P.value),zero and indefinite handling,Constant(M.T)@x,sum_squares,quad_over_lin and returned scale. Actual downstream conic structure,not exact rational unweighted witness.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-CVXPY-QUAD-FORM-CANON"
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_tag": "v1.9.3",
+      "repo_path": "cvxpy/utilities/linalg.py",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-linalg.py",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/utilities/linalg.py",
+      "bytes": 15000,
+      "sha256": "aaf1590fdfcee5193144b8ac0de25a64756034b9b299e058c4e3e95d0c7e822c",
+      "file_total_lines": 389,
+      "actually_read_ranges": [
+        [
+          1,
+          8
+        ],
+        [
+          194,
+          389
+        ]
+      ],
+      "actually_read_lines": 204,
+      "whole_file_read": false,
+      "manual_reading_note": "Imports and complete dense_ldl_decomp,_dense_ldl_factor,_qdldl_residual_norm,sparse_cholesky:2x2 numerical block eigenvectors,thresholds,sparse QDLDL permutation/zero-column handling,residual validation and dense fallback. Sparse real/numeric contract,n-by-rank factors;not rational arithmetic.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-CVXPY-LINALG"
+    }
+  ],
+  "admitted_real_unweighted_rational_PSD_consumer": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "github_push": false,
+  "no_install_or_math_write": true,
+  "source_lines": 1350,
+  "actual_related_consumers": 3,
+  "new_records": 17,
+  "new_explicit_edges": 39,
+  "evidence": "data/provenance/demand/F-174-rational-psd-contracts.json",
+  "source_download_bytes": 162810,
+  "decision": {
+    "admitted_real_consumer": false,
+    "actual_related_consumers": 3,
+    "source_body_projects": 3,
+    "stop_after_project_cap": true,
+    "status": "bounded_qualification_complete_no_application_run",
+    "retained_possible_mapping": "Exact rational PSD/Choi certificate without algebraic extensions remains structurally plausible. Lack of current caller does not formally reject the idea.",
+    "next_action": "Stop library expansion;rotate to lowcoverage geometry F360 for WP107,then mandatoryretro038.",
+    "not_a_global_absence_or_bug_claim": true
+  },
+  "next_action": "WP107F360 complete currentbodies/formal/history,then mandatoryretro038;no extension of thisthree-project search",
+  "identifier_correction": "Two filename-derived new stable IDs sanitized,exact unaccepted v1 archived",
+  "quality_evidence": "reports/reproducibility/20261023-rational-psd"
+}

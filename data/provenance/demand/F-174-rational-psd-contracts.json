@@ -1,0 +1,575 @@
+{
+  "work_package": "WP-106",
+  "family_id": "F-174",
+  "generation_id": "GEN-20261023-103",
+  "at": "2026-10-23T08:10:15.471923+00:00",
+  "base_commit": "a1c355c9a2b9ef23768fce25fbfe461f59fc3a45",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "projects": [
+    {
+      "project": "sympy",
+      "repo": "sympy/sympy",
+      "release_tag": "1.14.0",
+      "commit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+      "release_html_url": "https://github.com/sympy/sympy/releases/tag/1.14.0",
+      "commit_html_url": "https://github.com/sympy/sympy/commit/fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+      "commit_identity_source": "Official release page commit hyperlink observed with web tool;not repository clone or signatureverification",
+      "selected_paths": [
+        "sympy/matrices/decompositions.py",
+        "sympy/matrices/solvers.py",
+        "LICENSE"
+      ]
+    },
+    {
+      "project": "qiskit",
+      "repo": "Qiskit/qiskit",
+      "release_tag": "2.6.0",
+      "commit": "65094a013073e4bda53c2b341056ab9ade0eb1bd",
+      "release_html_url": "https://github.com/Qiskit/qiskit/releases/tag/2.6.0",
+      "commit_html_url": "https://github.com/Qiskit/qiskit/commit/65094a013073e4bda53c2b341056ab9ade0eb1bd",
+      "commit_identity_source": "Official release page commit hyperlink observed with web tool;not repository clone or signatureverification",
+      "selected_paths": [
+        "qiskit/quantum_info/operators/channel/transformations.py",
+        "qiskit/quantum_info/operators/channel/kraus.py",
+        "LICENSE.txt"
+      ]
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "release_tag": "v1.9.3",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_html_url": "https://github.com/cvxpy/cvxpy/releases/tag/v1.9.3",
+      "commit_html_url": "https://github.com/cvxpy/cvxpy/commit/fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "commit_identity_source": "Official release page commit hyperlink observed with web tool;not repository clone or signatureverification",
+      "selected_paths": [
+        "cvxpy/atoms/quad_form.py",
+        "cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+        "cvxpy/utilities/linalg.py",
+        "LICENSE"
+      ]
+    }
+  ],
+  "project_cap": 3,
+  "selected_source_files": [
+    {
+      "project": "sympy",
+      "repo": "sympy/sympy",
+      "commit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+      "release_tag": "1.14.0",
+      "repo_path": "sympy/matrices/decompositions.py",
+      "path": "/private/tmp/ai-paper-WP106/sympy-decompositions.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/sympy/matrices/decompositions.py",
+      "bytes": 47865,
+      "sha256": "e4e8f015ee59fde3365e864faab34563df84b2addc3bff32a85c53f5004f1e04",
+      "file_total_lines": 1621,
+      "actually_read_ranges": [
+        [
+          196,
+          575
+        ]
+      ],
+      "actually_read_lines": 380,
+      "whole_file_read": false,
+      "manual_reading_note": "Full dense/sparse Cholesky and LDL implementations and source docstrings;positive-definite/nonsingular promises,unit triangular L and separate D,explicit square-root avoidance. No pivoted semidefinite completion claim for this implementation.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-SYMPY-DECOMPOSITIONS"
+    },
+    {
+      "project": "sympy",
+      "repo": "sympy/sympy",
+      "commit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+      "release_tag": "1.14.0",
+      "repo_path": "sympy/matrices/solvers.py",
+      "path": "/private/tmp/ai-paper-WP106/sympy-solvers.py",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/sympy/matrices/solvers.py",
+      "bytes": 25163,
+      "sha256": "916914772d17a166e7ed16384b5374a8d831280714ac789396271bdb9ad1f73e",
+      "file_total_lines": 942,
+      "actually_read_ranges": [
+        [
+          210,
+          313
+        ]
+      ],
+      "actually_read_lines": 104,
+      "whole_file_read": false,
+      "manual_reading_note": "Both actual Cholesky/LDL solve bodies;under-determined rejection,symmetric/non-Hermitian branches,normal equations if reformed,triangular solves and explicit D.diagonal_solve. Consumer asks for solution,not unweighted rational Gram columns.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-SYMPY-SOLVERS"
+    },
+    {
+      "project": "qiskit",
+      "repo": "Qiskit/qiskit",
+      "commit": "65094a013073e4bda53c2b341056ab9ade0eb1bd",
+      "release_tag": "2.6.0",
+      "repo_path": "qiskit/quantum_info/operators/channel/transformations.py",
+      "path": "/private/tmp/ai-paper-WP106/qiskit-transformations.py",
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/qiskit/quantum_info/operators/channel/transformations.py",
+      "bytes": 18198,
+      "sha256": "581e1355310e9a460a9332f3528cf18ee11bbe890f80b1b925c844021e900eec",
+      "file_total_lines": 488,
+      "actually_read_ranges": [
+        [
+          1,
+          24
+        ],
+        [
+          88,
+          99
+        ],
+        [
+          205,
+          274
+        ]
+      ],
+      "actually_read_lines": 106,
+      "whole_file_read": false,
+      "manual_reading_note": "Imports,actual dispatch _to_kraus,complete _kraus_to_choi and _choi_to_kraus. Standard Kraus uses column-major vec outer products. Hermitian tolerance,numerical condition/Schur perturbation,square roots,thresholding and zero-map singleton;non-CP SVD produces generalized left/right sets. No numerical runtime executed or bug asserted.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-QISKIT-TRANSFORMATIONS"
+    },
+    {
+      "project": "qiskit",
+      "repo": "Qiskit/qiskit",
+      "commit": "65094a013073e4bda53c2b341056ab9ade0eb1bd",
+      "release_tag": "2.6.0",
+      "repo_path": "qiskit/quantum_info/operators/channel/kraus.py",
+      "path": "/private/tmp/ai-paper-WP106/qiskit-kraus.py",
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/qiskit/quantum_info/operators/channel/kraus.py",
+      "bytes": 13260,
+      "sha256": "d987de8cfed33b48353427bfb0d0fb08d89aa18e363710a6d2c4cbe873da5b8e",
+      "file_total_lines": 337,
+      "actually_read_ranges": [
+        [
+          1,
+          191
+        ]
+      ],
+      "actually_read_lines": 191,
+      "whole_file_read": false,
+      "manual_reading_note": "Channel semantics,full actual constructor/data/is_cptp/_evolve. Direct matrices cast np.asarray(dtype=complex),conversion calls _to_kraus,sets compared with allclose. CPTP tested by accumulating A^dagger A and tolerance-based identity. Float-complex contract,not exact rational certificate.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-QISKIT-KRAUS"
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_tag": "v1.9.3",
+      "repo_path": "cvxpy/atoms/quad_form.py",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-quad_form.py",
+      "url": "https://github.com/cvxpy/cvxpy/blob/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/atoms/quad_form.py",
+      "bytes": 10920,
+      "sha256": "dd2b9d24352881a08a94f16a7f651907413198697a516d929ecb0167a5add173",
+      "file_total_lines": 318,
+      "actually_read_ranges": [
+        [
+          1,
+          318
+        ]
+      ],
+      "actually_read_lines": 318,
+      "whole_file_read": true,
+      "manual_reading_note": "Entire pinned file actually read:quadratic atom,parameter/constant PSD rules,symbolic wrapper,decomp_quad and quad_form. Dense LDL,positive/negative masks at machine-precision cutoff,square-root factors and common scale. assume_PSD wraps a promise;does not prove PSD. Source speed wording not independently benchmarked.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-CVXPY-QUAD-FORM"
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_tag": "v1.9.3",
+      "repo_path": "cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-quad_form_canon.py",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+      "bytes": 1757,
+      "sha256": "5922236e5e704216aa3fa54e99eb7d7a40585230bcc7f48bd299d3b1267af221",
+      "file_total_lines": 47,
+      "actually_read_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "actually_read_lines": 47,
+      "whole_file_read": true,
+      "manual_reading_note": "Entire actual canonicalizer:decomp_quad(P.value),zero and indefinite handling,Constant(M.T)@x,sum_squares,quad_over_lin and returned scale. Actual downstream conic structure,not exact rational unweighted witness.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-CVXPY-QUAD-FORM-CANON"
+    },
+    {
+      "project": "cvxpy",
+      "repo": "cvxpy/cvxpy",
+      "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+      "release_tag": "v1.9.3",
+      "repo_path": "cvxpy/utilities/linalg.py",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-linalg.py",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/utilities/linalg.py",
+      "bytes": 15000,
+      "sha256": "aaf1590fdfcee5193144b8ac0de25a64756034b9b299e058c4e3e95d0c7e822c",
+      "file_total_lines": 389,
+      "actually_read_ranges": [
+        [
+          1,
+          8
+        ],
+        [
+          194,
+          389
+        ]
+      ],
+      "actually_read_lines": 204,
+      "whole_file_read": false,
+      "manual_reading_note": "Imports and complete dense_ldl_decomp,_dense_ldl_factor,_qdldl_residual_norm,sparse_cholesky:2x2 numerical block eigenvectors,thresholds,sparse QDLDL permutation/zero-column handling,residual validation and dense fallback. Sparse real/numeric contract,n-by-rank factors;not rational arithmetic.",
+      "actually_executed": false,
+      "node_id": "LIT-174-PSD-CVXPY-LINALG"
+    }
+  ],
+  "selected_source_lines": 1350,
+  "license_metadata_only": [
+    {
+      "project": "sympy",
+      "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/LICENSE",
+      "bytes": 7885,
+      "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286",
+      "path": "/private/tmp/ai-paper-WP106/sympy-LICENSE",
+      "read_scope": "Code license headers read;license body acquired/hashed only,not counted in1350 source lines;no third-party source redistributed"
+    },
+    {
+      "project": "qiskit",
+      "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/LICENSE.txt",
+      "bytes": 11418,
+      "sha256": "0a7558bc0c5a5bcac5e2bdc5e5367f3550b0c3b45b7e6f5a81b4f9fde6693374",
+      "path": "/private/tmp/ai-paper-WP106/qiskit-LICENSE.txt",
+      "read_scope": "Code license headers read;license body acquired/hashed only,not counted in1350 source lines;no third-party source redistributed"
+    },
+    {
+      "project": "cvxpy",
+      "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/LICENSE",
+      "bytes": 11344,
+      "sha256": "94d81cb282da837f4ace0df08b52fd1c72e07da9efb52e5aa6d556a5cea5286f",
+      "path": "/private/tmp/ai-paper-WP106/cvxpy-LICENSE",
+      "read_scope": "Code license headers read;license body acquired/hashed only,not counted in1350 source lines;no third-party source redistributed"
+    }
+  ],
+  "web_observations": {
+    "release_links": [
+      "https://github.com/sympy/sympy/releases/tag/1.14.0",
+      "https://github.com/Qiskit/qiskit/releases/tag/2.6.0",
+      "https://github.com/cvxpy/cvxpy/releases/tag/v1.9.3"
+    ],
+    "qiskit_commit_page_web_cache_miss": true,
+    "qiskit_commit_identity_from_release_href": true,
+    "not_a_signature_verification": true,
+    "docs_pages_not_version_identity": "Latest docs used for navigation only,pinned source contracts below authoritative",
+    "body_copy_policy": "No full webpage or source bodies retained in public project"
+  },
+  "acquisition": {
+    "at": "2026-10-23T07:59:48.744897+00:00",
+    "download_bytes": 162810,
+    "cap": 2097152,
+    "project_cap": 3,
+    "projects": [
+      {
+        "project": "sympy",
+        "repo": "sympy/sympy",
+        "release_tag": "1.14.0",
+        "commit": "fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+        "release_html_url": "https://github.com/sympy/sympy/releases/tag/1.14.0",
+        "commit_html_url": "https://github.com/sympy/sympy/commit/fe935ceb303891d1f8bea4c03b19fd9ec9464b02",
+        "commit_identity_source": "Official release page commit hyperlink observed with web tool;not repository clone or signatureverification",
+        "selected_paths": [
+          "sympy/matrices/decompositions.py",
+          "sympy/matrices/solvers.py",
+          "LICENSE"
+        ]
+      },
+      {
+        "project": "qiskit",
+        "repo": "Qiskit/qiskit",
+        "release_tag": "2.6.0",
+        "commit": "65094a013073e4bda53c2b341056ab9ade0eb1bd",
+        "release_html_url": "https://github.com/Qiskit/qiskit/releases/tag/2.6.0",
+        "commit_html_url": "https://github.com/Qiskit/qiskit/commit/65094a013073e4bda53c2b341056ab9ade0eb1bd",
+        "commit_identity_source": "Official release page commit hyperlink observed with web tool;not repository clone or signatureverification",
+        "selected_paths": [
+          "qiskit/quantum_info/operators/channel/transformations.py",
+          "qiskit/quantum_info/operators/channel/kraus.py",
+          "LICENSE.txt"
+        ]
+      },
+      {
+        "project": "cvxpy",
+        "repo": "cvxpy/cvxpy",
+        "release_tag": "v1.9.3",
+        "commit": "fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+        "release_html_url": "https://github.com/cvxpy/cvxpy/releases/tag/v1.9.3",
+        "commit_html_url": "https://github.com/cvxpy/cvxpy/commit/fba7e1f41ca5cf0718918d47d02ba2c3614395d2",
+        "commit_identity_source": "Official release page commit hyperlink observed with web tool;not repository clone or signatureverification",
+        "selected_paths": [
+          "cvxpy/atoms/quad_form.py",
+          "cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+          "cvxpy/utilities/linalg.py",
+          "LICENSE"
+        ]
+      }
+    ],
+    "requests": [
+      {
+        "url": "https://api.github.com/repos/sympy/sympy/releases/latest",
+        "name": "sympy-release.json",
+        "at": "2026-10-23T07:59:27.360857+00:00",
+        "tls": "normal verified TLS",
+        "status": "failed",
+        "error": "HTTP Error 403: rate limit exceeded"
+      },
+      {
+        "url": "https://api.github.com/repos/Qiskit/qiskit/releases/latest",
+        "name": "qiskit-release.json",
+        "at": "2026-10-23T07:59:37.597208+00:00",
+        "tls": "normal verified TLS",
+        "status": "failed",
+        "error": "HTTP Error 403: rate limit exceeded"
+      },
+      {
+        "url": "https://api.github.com/repos/cvxpy/cvxpy/releases/latest",
+        "name": "cvxpy-release.json",
+        "at": "2026-10-23T07:59:39.508461+00:00",
+        "tls": "normal verified TLS",
+        "status": "failed",
+        "error": "HTTP Error 403: rate limit exceeded"
+      },
+      {
+        "project": "sympy",
+        "repo_path": "sympy/matrices/decompositions.py",
+        "name": "sympy-decompositions.py",
+        "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/sympy/matrices/decompositions.py",
+        "at": "2026-10-23T08:01:32.028414+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 47865,
+        "sha256": "e4e8f015ee59fde3365e864faab34563df84b2addc3bff32a85c53f5004f1e04",
+        "path": "/private/tmp/ai-paper-WP106/sympy-decompositions.py"
+      },
+      {
+        "project": "sympy",
+        "repo_path": "sympy/matrices/solvers.py",
+        "name": "sympy-solvers.py",
+        "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/sympy/matrices/solvers.py",
+        "at": "2026-10-23T08:01:44.282991+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 25163,
+        "sha256": "916914772d17a166e7ed16384b5374a8d831280714ac789396271bdb9ad1f73e",
+        "path": "/private/tmp/ai-paper-WP106/sympy-solvers.py"
+      },
+      {
+        "project": "sympy",
+        "repo_path": "LICENSE",
+        "name": "sympy-LICENSE",
+        "url": "https://raw.githubusercontent.com/sympy/sympy/fe935ceb303891d1f8bea4c03b19fd9ec9464b02/LICENSE",
+        "at": "2026-10-23T08:01:48.223365+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 7885,
+        "sha256": "07a5e9819f727b4986ad2829c7a29a6320d42575f720eb24d71b7fef573a0286",
+        "path": "/private/tmp/ai-paper-WP106/sympy-LICENSE"
+      },
+      {
+        "project": "qiskit",
+        "repo_path": "qiskit/quantum_info/operators/channel/transformations.py",
+        "name": "qiskit-transformations.py",
+        "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/qiskit/quantum_info/operators/channel/transformations.py",
+        "at": "2026-10-23T08:02:10.953188+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 18198,
+        "sha256": "581e1355310e9a460a9332f3528cf18ee11bbe890f80b1b925c844021e900eec",
+        "path": "/private/tmp/ai-paper-WP106/qiskit-transformations.py"
+      },
+      {
+        "project": "qiskit",
+        "repo_path": "qiskit/quantum_info/operators/channel/kraus.py",
+        "name": "qiskit-kraus.py",
+        "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/qiskit/quantum_info/operators/channel/kraus.py",
+        "at": "2026-10-23T08:02:13.048050+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 13260,
+        "sha256": "d987de8cfed33b48353427bfb0d0fb08d89aa18e363710a6d2c4cbe873da5b8e",
+        "path": "/private/tmp/ai-paper-WP106/qiskit-kraus.py"
+      },
+      {
+        "project": "qiskit",
+        "repo_path": "LICENSE.txt",
+        "name": "qiskit-LICENSE.txt",
+        "url": "https://raw.githubusercontent.com/Qiskit/qiskit/65094a013073e4bda53c2b341056ab9ade0eb1bd/LICENSE.txt",
+        "at": "2026-10-23T08:02:26.005969+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 11418,
+        "sha256": "0a7558bc0c5a5bcac5e2bdc5e5367f3550b0c3b45b7e6f5a81b4f9fde6693374",
+        "path": "/private/tmp/ai-paper-WP106/qiskit-LICENSE.txt"
+      },
+      {
+        "project": "cvxpy",
+        "repo_path": "cvxpy/atoms/quad_form.py",
+        "name": "cvxpy-quad_form.py",
+        "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/atoms/quad_form.py",
+        "at": "2026-10-23T08:02:36.101478+00:00",
+        "tls": "normal verified TLS",
+        "status": "failed",
+        "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+      },
+      {
+        "project": "cvxpy",
+        "repo_path": "cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+        "name": "cvxpy-quad_form_canon.py",
+        "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/reductions/dcp2cone/canonicalizers/quad_form_canon.py",
+        "at": "2026-10-23T08:03:06.111276+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 1757,
+        "sha256": "5922236e5e704216aa3fa54e99eb7d7a40585230bcc7f48bd299d3b1267af221",
+        "path": "/private/tmp/ai-paper-WP106/cvxpy-quad_form_canon.py"
+      },
+      {
+        "project": "cvxpy",
+        "repo_path": "cvxpy/utilities/linalg.py",
+        "name": "cvxpy-linalg.py",
+        "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/utilities/linalg.py",
+        "at": "2026-10-23T08:03:22.358660+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 15000,
+        "sha256": "aaf1590fdfcee5193144b8ac0de25a64756034b9b299e058c4e3e95d0c7e822c",
+        "path": "/private/tmp/ai-paper-WP106/cvxpy-linalg.py"
+      },
+      {
+        "project": "cvxpy",
+        "repo_path": "LICENSE",
+        "name": "cvxpy-LICENSE",
+        "url": "https://raw.githubusercontent.com/cvxpy/cvxpy/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/LICENSE",
+        "at": "2026-10-23T08:03:27.698457+00:00",
+        "tls": "normal verified TLS",
+        "status": "acquired",
+        "bytes": 11344,
+        "sha256": "94d81cb282da837f4ace0df08b52fd1c72e07da9efb52e5aa6d556a5cea5286f",
+        "path": "/private/tmp/ai-paper-WP106/cvxpy-LICENSE"
+      },
+      {
+        "project": "cvxpy",
+        "repo_path": "cvxpy/atoms/quad_form.py",
+        "name": "cvxpy-quad_form.py",
+        "url": "https://github.com/cvxpy/cvxpy/blob/fba7e1f41ca5cf0718918d47d02ba2c3614395d2/cvxpy/atoms/quad_form.py",
+        "path": "/private/tmp/ai-paper-WP106/cvxpy-quad_form.py",
+        "at": "2026-10-23T08:05:00.376155+00:00",
+        "status": "acquired",
+        "via": "official GitHub connector fetch_file UTF8 response,afterdirectTLS timeout",
+        "bytes": 10920,
+        "sha256": "dd2b9d24352881a08a94f16a7f651907413198697a516d929ecb0167a5add173",
+        "reported_git_blob_sha1": "4b22a9e5ddac679843d1fd84c77bb691dfab4523",
+        "git_blob_recomputed_equal": true
+      }
+    ],
+    "metadata_fallback": "All3directGitHubreleasesAPI403ratelimit retained;official release page commit hrefs used to fix tag/commit. Qiskitcommitpagewebcachemiss retained;fullcommit comes from releasepage actuallink. No TLS bypass."
+  },
+  "contracts": [
+    {
+      "project": "sympy",
+      "id": "CHECK-174-SYMPY-PSD-CONTRACT",
+      "baseline_id": "OLD-174-SYMPY-WEIGHTED-LDL",
+      "source_files": [
+        "LIT-174-PSD-SYMPY-DECOMPOSITIONS",
+        "LIT-174-PSD-SYMPY-SOLVERS"
+      ],
+      "input": "Symbolic real/complex matrix;Hermitian positive-definite promise for hermitian LDL,or symmetric branch. Solver square nonsingular or overdetermined least squares with reform when required.",
+      "actual_output": "L,D with unit diagonal L and separate diagonal weights;linear solve consumes triangular factors and D to return solution. Cholesky is a different square-root output.",
+      "unweighted_rational_columns_required": false,
+      "whole_PSD_singular_promise_established": false,
+      "old_method_scope": "For rational positive-definite eligible input,weighted LDL already avoids square roots. The inspected unpivoted code is not claimed to cover all singular PSD inputs.",
+      "mapping_boundary": "Source lemma adds a general rational PSD unweighted witness contract,which this inspected consumer does not request;not evidence no other SymPy consumer exists."
+    },
+    {
+      "project": "qiskit",
+      "id": "CHECK-174-QISKIT-PSD-CONTRACT",
+      "baseline_id": "OLD-174-QISKIT-NUMERIC-KRAUS",
+      "source_files": [
+        "LIT-174-PSD-QISKIT-TRANSFORMATIONS",
+        "LIT-174-PSD-QISKIT-KRAUS"
+      ],
+      "input": "Quantum channel data/direct matrices converted to NumPy complex arrays;Choi converter accepts approximate Hermitian/CP tests and generalized non-CP cases.",
+      "actual_output": "Standard numerical Kraus array list or generalized paired left/right arrays,with shape/order and tolerance-based CPTP checks.",
+      "unweighted_rational_columns_required": false,
+      "whole_PSD_singular_promise_established": false,
+      "old_method_scope": "Numerical Schur plus square roots and tolerance dropping;non-CP SVD. Source lemma covers exact rational Hermitian PSD only,not arbitrary numerical non-CP maps or minimum Kraus rank.",
+      "mapping_boundary": "Column-major Choi outer-product relation is an actual object match. Exact rational Choi-to-Kraus certification remains a retained possible task,without an actual exact caller,batch,required representation or runtime advantage."
+    },
+    {
+      "project": "cvxpy",
+      "id": "CHECK-174-CVXPY-PSD-CONTRACT",
+      "baseline_id": "OLD-174-CVXPY-NUMERIC-QUAD",
+      "source_files": [
+        "LIT-174-PSD-CVXPY-QUAD-FORM",
+        "LIT-174-PSD-CVXPY-QUAD-FORM-CANON",
+        "LIT-174-PSD-CVXPY-LINALG"
+      ],
+      "input": "Numeric symmetric constant matrix or value,PSD/NSD promise;dense numerical LDL or sparse real QDLDL with zero-pivot/residual checks and dense fallback.",
+      "actual_output": "scale,M1,M2 numerical factors;canonicalizer forms sum_squares(Constant(M.T)@x),then conic expression and constraints.",
+      "unweighted_rational_columns_required": false,
+      "whole_PSD_singular_promise_established": false,
+      "old_method_scope": "Existing numerical factorization already outputs the required conic factor structure. Extra rational Gram columns may enlarge cone/serialization size;must charge this downstream cost.",
+      "mapping_boundary": "No inspected output needs exact rational witnesses;source exact arithmetic is a different contract. No performance claim inferred from docstring or simple PSD formula recomputation."
+    }
+  ],
+  "admission_gates": [
+    {
+      "requirement": "Real downstream caller requires exact unweighted rational vectors,not weighted LDL or ordinary numerical factors",
+      "status": "not_established",
+      "evidence": "All three inspected consumers have related but different output requirements"
+    },
+    {
+      "requirement": "Complete public rational Hermitian PSD input batch and independently checkable premise certificates",
+      "status": "not_established",
+      "evidence": "No actual eligible batch located in bounded scope;do not treat every float matrix as rational certified PSD"
+    },
+    {
+      "requirement": "Independent exact same-output judge and strong old weighted/SOS/algebraic baseline with full bit costs",
+      "status": "not_established",
+      "evidence": "Output-specific weighted LDL and numeric methods documented;no exact benchmark frozen"
+    },
+    {
+      "requirement": "Preregister data/success thresholds,bit/column/serialization costs and holdout before experiment",
+      "status": "not_started",
+      "evidence": "No new candidate or numerical/symbolic experiment admitted"
+    }
+  ],
+  "decision": {
+    "admitted_real_consumer": false,
+    "actual_related_consumers": 3,
+    "source_body_projects": 3,
+    "stop_after_project_cap": true,
+    "status": "bounded_qualification_complete_no_application_run",
+    "retained_possible_mapping": "Exact rational PSD/Choi certificate without algebraic extensions remains structurally plausible. Lack of current caller does not formally reject the idea.",
+    "next_action": "Stop library expansion;rotate to lowcoverage geometry F360 for WP107,then mandatoryretro038.",
+    "not_a_global_absence_or_bug_claim": true
+  },
+  "strong_old_null": "Inspected callers already consume weighted LDL or tolerance-based numerical factors. Exact unweighted rational columns are neither their stated output nor an observed bottleneck;rank/column and denominator growth can raise total cost. No gain demonstrated.",
+  "all_old_source_claims_and_F174_reading_ledger_unchanged": true,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "software_installed_or_executed": false,
+  "github_push": false,
+  "full_family_and_history_complete": false,
+  "scope_limits": [
+    "Seven files1350actually read selected lines,not complete repositories or runtime testing",
+    "Three direct release metadata API403 and one rawTLS failure retained;GitHubconnector full-body recovery verified by recomputed reportedGitblobSHA1",
+    "Only162810 successful primary body bytes locally materialized,within2MiB;webmetadata transport bytes unavailable,not counted as rawsource bodies",
+    "No transitive library proof audit,numerical stability evaluation,production issue or consumer absence theorem",
+    "Human/provider gaps remain deferred,not waived"
+  ],
+  "version": 2,
+  "revision_reason": "Pre-acceptance validator rejected underscores in two new generated stable IDs. Replace only these IDs/references,retain exact unaccepted draft and failure log;no mathematical/caller fact or old record changed."
+}

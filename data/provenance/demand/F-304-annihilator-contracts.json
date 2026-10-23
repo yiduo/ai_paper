@@ -1,0 +1,339 @@
+{
+  "work_package": "WP-104",
+  "family_id": "F-304",
+  "generation_id": "GEN-20261023-101",
+  "at": "2026-10-23T06:54:19.325460+00:00",
+  "base_commit": "4c33ac0571651343491d97763e8c1cdf355f0d4c",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "projects": [
+    {
+      "project": "Sage10.8",
+      "revision": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "actual_caller": "ChainComplex.homology/_homology_generators_snf;InducedHomologyMorphism.to_matrix",
+      "actual_input": "Finite scalar chaincomplex matrices;ZZgroups orfieldhomology. Chainmap validates onlydF=Fd/sizes,not exactfive-termrow equality. Inducedhomology object requires field.",
+      "actual_output": "Invariant factors,optionalexplicitcyclegenerators,orfieldhomologymapmatrix withpi/F/iota.",
+      "partial_match": "Integerpresentations and chainmaps are real computableobjects;strongoldHNF/SNFalreadyinactualcaller.",
+      "not_admitted": "No completepair exactfive-termrows/fiveverticals/allfourouterannihilatorcertificates/reusedq/fullcostbatch or realdecision acceptingcoarsebound. Rationalrank != integralcokernelcertificate;fieldoutput loses torsion.",
+      "admitted_complete_batch": false
+    },
+    {
+      "project": "Kenzo",
+      "revision": "f68ee7a809b4846f508cb19ee70bba5c92a0f7b2",
+      "actual_caller": "chcm-homology/gen,ECHCM-KILL-EPI,CHML-CLSS-INTR",
+      "actual_input": "Actuallyeffective finitebases perdegree,boundarymatrices;Smith transformations feedreduction/homologyclassconstructors. Locallyeffectivebasis rejected atmatrixentry.",
+      "actual_output": "Integralcomponentorders/explicitcycles,orconstructivef/g/h reduction/cohomologyrepresentative coefficients.",
+      "partial_match": "Real integralhomology tasks and basischange consumers identified.",
+      "not_admitted": "A sufficientannihilator omits requiredbasisimages/inverses,unitdiagonal test andcycles. No actualalloutercertificates/exactcomparisondiagram/reusebatch/coarseonlydecision orfullcost evidence. Sourcewarnings retainedwithout declaringsoftwarefailure.",
+      "admitted_complete_batch": false
+    },
+    {
+      "project": "OriginalCHomP",
+      "revision": "unknown;liveoriginalofficialdocs,sourcezipbytesnotacquired",
+      "actual_caller": "Documented homchain/homcubes/HomologyMap only;bodyunread",
+      "actual_input": "Documentedintegral orprimefield chaincomplex/map andrelativecubicaldata.",
+      "actual_output": "Documentedgroups,inducedhomomorphism/indexmap,optionalcyclegenerators.",
+      "partial_match": "Officialdocumentation identifiesrealhomology/maptasks. This isweakerthan inspectedcallerbody.",
+      "not_admitted": "Originalhosthtml/zipnormalTLS andoneRutgerssourcefallback timedout;websourcepagecachemiss. No actualbody,fixedpackagehash,completeexactdiagram/outercertificates orcoarseboundconsumer;do notinfer featureabsence.",
+      "admitted_complete_batch": false
+    }
+  ],
+  "project_cap": 3,
+  "selected_source_files": [
+    {
+      "temporary_name": "sage--chain_complex_morphism.py",
+      "project": "Sage10.8",
+      "path": "src/sage/homology/chain_complex_morphism.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_complex_morphism.py",
+      "sha256": "d2a7354af518dc8104d762acaf5ff0e60d38b6916912dbf71f0582fea0448016",
+      "bytes": 22438,
+      "total_lines": 628,
+      "actual_read_ranges": [
+        [
+          1,
+          203
+        ],
+        [
+          518,
+          606
+        ]
+      ],
+      "selected_lines": 292,
+      "scope": "Actual constructor validates matrix sizes and dF=Fd whencheckTrue,stores immutabledegree matrices. Blockrank/nullity predicates are chain-level;rank-basedsurjectivity cannot certify an integral quotient cokernel iszero or supply q.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "temporary_name": "sage--chain_complex.py",
+      "project": "Sage10.8",
+      "path": "src/sage/homology/chain_complex.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_complex.py",
+      "sha256": "99c498c05242c6cdc309be201d4705cbab9bbe5293fbe49b39af8b890eff88fb",
+      "bytes": 80723,
+      "total_lines": 2144,
+      "actual_read_ranges": [
+        [
+          762,
+          800
+        ],
+        [
+          1134,
+          1375
+        ]
+      ],
+      "selected_lines": 281,
+      "scope": "Actual homology caller:ZZ orfields only;integer elementarydivisors withpari/dhswautoselection;generators requirekernelbasis,HNF,SNF and inversebasis transport. Rank supportscoefficientchange. No five-term certificateconsumer seen in selectedmethods.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "temporary_name": "sage--homology_group.py",
+      "project": "Sage10.8",
+      "path": "src/sage/homology/homology_group.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/homology_group.py",
+      "sha256": "b010196c1888a8f436856e6438054d142425cb01274419d578e6c0da848acdf3",
+      "bytes": 6512,
+      "total_lines": 187,
+      "actual_read_ranges": [
+        [
+          1,
+          187
+        ]
+      ],
+      "selected_lines": 187,
+      "scope": "Full file:HomologyGroup stores actual invariantfactorpresentation/freepart,fieldVectorSpacealternative;coarseannihilator does not reproduce requested group/generator output.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "temporary_name": "sage--homology_morphism.py",
+      "project": "Sage10.8",
+      "path": "src/sage/homology/homology_morphism.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/homology_morphism.py",
+      "sha256": "826bcdf12733759a0b5661c64de5922fcc3fc0383b085b89c08e3da9b3e278f5",
+      "bytes": 15442,
+      "total_lines": 421,
+      "actual_read_ranges": [
+        [
+          1,
+          55
+        ],
+        [
+          133,
+          255
+        ],
+        [
+          275,
+          388
+        ]
+      ],
+      "selected_lines": 292,
+      "scope": "Actual inducedhomology constructor rejectsnonfields and mutablecomplexes;to_matrix usespi*chainmap*iota fromalgebraictopologicalmodels;call/equality/rankpredicates need inducedmatrix,not an integer five-term comparisonbound.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "temporary_name": "kenzo--homology-groups.lisp",
+      "project": "Kenzo",
+      "path": "src/kenzo-9/homology-groups.lisp",
+      "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/homology-groups.lisp",
+      "sha256": "d30764e8281fd641d8290824aa79a1bac8471483a529729b5f83fd670d6ee01c",
+      "bytes": 21382,
+      "total_lines": 711,
+      "actual_read_ranges": [
+        [
+          385,
+          433
+        ],
+        [
+          476,
+          680
+        ]
+      ],
+      "selected_lines": 254,
+      "scope": "Actualhomologie simultaneousboundary reduction tracksrepresentatives/torsion. CHCM-MAT rejects locally-effectivebasis;chcm-homology printsorders andchcm-homology-gen returns explicitcycles. No scalarbound output contract admitted.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "temporary_name": "kenzo--new-smith.lisp",
+      "project": "Kenzo",
+      "path": "src/kenzo-9/new-smith.lisp",
+      "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/new-smith.lisp",
+      "sha256": "e673e8641b9a7ce3d5056db448fe3a167ed7940175c706cf5f09f26b164de559",
+      "bytes": 48917,
+      "total_lines": 1467,
+      "actual_read_ranges": [
+        [
+          832,
+          949
+        ],
+        [
+          1164,
+          1245
+        ],
+        [
+          1320,
+          1410
+        ]
+      ],
+      "selected_lines": 291,
+      "scope": "LIST-SMITH/SMITH retain5matrix basis transforms. ECHCM-KILL-EPI checksunitdiagonal andconstructsf/g/h reduction;CHML-CLSS-INTR usesinversebasis coefficients. Sourcecomments note oldrandom example failures andpost-SMITHsafe-arithmeticwarning;not runtime bugs or wholeKenzo verdict. Coarse q3 cannot supply transformations.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    }
+  ],
+  "selected_source_lines": 1597,
+  "web_observations": [
+    {
+      "url": "https://doc.sagemath.org/html/en/reference/homology/sage/homology/chain_complex_morphism.html",
+      "actual_scope": "Manual10.8 matrixdictionary interface,chainmapdegree matrices;fixed code separatelychecked",
+      "content_checked": true,
+      "byte_hash_status": "unknown"
+    },
+    {
+      "url": "https://doc.sagemath.org/html/en/reference/homology/sage/homology/homology_morphism.html",
+      "actual_scope": "Manual10.8 field-only inducedmap,actualcontract;fixed code separatelychecked",
+      "content_checked": true,
+      "byte_hash_status": "unknown"
+    },
+    {
+      "url": "https://www.pawelpilarczyk.com/chomp/download/",
+      "actual_scope": "OriginalCHomP official source/download/licensinglist,2024-02-15date label;zip notsuccessfully acquired,date label not packagebyteversion",
+      "content_checked": true,
+      "byte_hash_status": "unknown"
+    },
+    {
+      "url": "https://chomp.rutgers.edu/Projects/Computational_Homology/OriginalCHomP/software/programs.php",
+      "actual_scope": "OriginalCHomP homchain integral/primefieldchainmapoutput,homcubes relativehomology/maps,homcub2lindexmap andconverterinterfaces. Documentation only;no callerbodyread",
+      "content_checked": true,
+      "byte_hash_status": "unknown"
+    },
+    {
+      "url": "https://www.pawelpilarczyk.com/chomp/libdoc/chomp_2homology_2homology_8h.html",
+      "actual_scope": "OriginalCHomP generatedreference:integerchaincomplex/chainmapaliases,Homology transforms simpleform,HomologyMap andShowHomology/generatorinterfaces. Declarations/docs only;sourcepage unavailable",
+      "content_checked": true,
+      "byte_hash_status": "unknown"
+    },
+    {
+      "url": "https://github.com/gheber/kenzo/tree/master/src/kenzo-9",
+      "actual_scope": "Filename discovery only;fixed commit raw source used for bodyevidence",
+      "content_checked": true,
+      "byte_hash_status": "unknown"
+    }
+  ],
+  "acquisition": {
+    "cap_bytes": 8388608,
+    "downloaded_bytes": 195414,
+    "requests": [
+      {
+        "name": "sage--chain_complex_morphism.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_complex_morphism.py",
+        "at": "2026-10-23T06:45:17.958316+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_complex_morphism.py",
+        "bytes": 22438,
+        "sha256": "d2a7354af518dc8104d762acaf5ff0e60d38b6916912dbf71f0582fea0448016"
+      },
+      {
+        "name": "sage--chain_complex.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_complex.py",
+        "at": "2026-10-23T06:45:19.146947+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_complex.py",
+        "bytes": 80723,
+        "sha256": "99c498c05242c6cdc309be201d4705cbab9bbe5293fbe49b39af8b890eff88fb"
+      },
+      {
+        "name": "sage--homology_group.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/homology_group.py",
+        "at": "2026-10-23T06:45:20.811400+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/homology_group.py",
+        "bytes": 6512,
+        "sha256": "b010196c1888a8f436856e6438054d142425cb01274419d578e6c0da848acdf3"
+      },
+      {
+        "name": "kenzo--homology-groups.lisp",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/homology-groups.lisp",
+        "at": "2026-10-23T06:45:21.772289+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/homology-groups.lisp",
+        "bytes": 21382,
+        "sha256": "d30764e8281fd641d8290824aa79a1bac8471483a529729b5f83fd670d6ee01c"
+      },
+      {
+        "name": "kenzo--new-smith.lisp",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/new-smith.lisp",
+        "at": "2026-10-23T06:45:23.414654+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/new-smith.lisp",
+        "bytes": 48917,
+        "sha256": "e673e8641b9a7ce3d5056db448fe3a167ed7940175c706cf5f09f26b164de559"
+      },
+      {
+        "name": "chomp-download.html",
+        "url": "https://www.pawelpilarczyk.com/chomp/download/",
+        "at": "2026-10-23T06:45:24.786682+00:00",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      },
+      {
+        "name": "chomp-full.zip",
+        "url": "https://www.pawelpilarczyk.com/chomp/download/chomp-full.zip",
+        "at": "2026-10-23T06:46:59.358767+00:00",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      },
+      {
+        "name": "sage--homology_morphism.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/homology_morphism.py",
+        "at": "2026-10-23T06:47:29.379546+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/homology_morphism.py",
+        "bytes": 15442,
+        "sha256": "826bcdf12733759a0b5661c64de5922fcc3fc0383b085b89c08e3da9b3e278f5"
+      },
+      {
+        "name": "chomp-homology-source.html",
+        "url": "https://chomp.rutgers.edu/Projects/Computational_Homology/OriginalCHomP/libdoc/chomp_2homology_2homology_8h_source.html",
+        "at": "2026-10-23T06:50:01.468025+00:00",
+        "scope": "One official OriginalCHomP mirror fallback after originalhost TLS failures;not another softwareproject",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      }
+    ]
+  },
+  "admission_gates": [
+    {
+      "id": "actual_decision",
+      "requirement": "A realcaller acceptsnonminimalmiddleannihilator without hidden invariantfactor/generator/matrixrequirements",
+      "status": "not_established",
+      "observed": "InspectedSage/Kenzo returnstrongerobjects;CHomPdocumentedmapoutputs also stronger,butbodyunread"
+    },
+    {
+      "id": "complete_inputs",
+      "requirement": "Ten exactintegerpresentations,8rowmaps,5verticalmaps,well-definedness/commutativity/actualexactness,all4outerkernel+cokernelqcertificates",
+      "status": "not_established",
+      "observed": "dF=Fd checks composition only;rank test does not establish integralsurjectivity or saturation;no admitteddiagram"
+    },
+    {
+      "id": "q_and_reuse",
+      "requirement": "Positiveintegerannihilator in divisibilitysense,certificateacquisition/lifts and actualsharedreuse accounted",
+      "status": "not_established",
+      "observed": "No qsource,sharedbatch or downstreamtolerance identified"
+    },
+    {
+      "id": "old_matched_cost",
+      "requirement": "CachedSNF/HNF/query-specificlatticesolve and quantitativechase on sameacceptedoutput,fullcost/bitlength",
+      "status": "not_run",
+      "observed": "Actual oldconstructive normalforms have outputs neededbycurrentcallers;no faithful newsubstitution admitted"
+    }
+  ],
+  "decision": "Stop after3projectscopes:2actualsourcebodyprojects+OriginalCHomPofficialdocs-only/accessgap. No admittedcoarse-only exactcomparisonconsumer orcompleteinputbatch. RetainAPP30401conditional,pending;lower numericalimplementationpriority. No formalrejection/globalabsenceornewcandidate/run. Mandatoryretro037 now.",
+  "strong_old_null": "The existingconsumer needs invariantfactors,cycles ormatrixtransforms thatq3cannotreplace;orold same-outputquantitativechase/cachednormalforms already suffice. No measured superiormethodclaim.",
+  "original_prediction_plan_roles_unchanged": true,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "software_installed_or_executed": false,
+  "github_push": false,
+  "full_family_and_history_complete": false,
+  "scope_limits": "No wholeprojectaudit,CHomPcallerbodyorpackagebyteversion,performanceoutput,completehistoricalproofclosure,human orsecondprovider review. ThreeTLSretrievalfailures andwebsourceformat/cachefailures retained."
+}

@@ -1,0 +1,11 @@
+# WP107 quality and evidence scope
+
+Both current F360 manuscripts:13TeX5013lines+389Bib,55 labelled source bindings including8 companion restatements,14 method contracts. Four original historical works were inspected only in documented scopes;seven PDF pages actually viewed. Two selected main scopes retain upstreamB;53 other bindings conservativelyC,full chainsunknown. No Lean/Comparator build,human specification approval,new candidate or scientific experiment.
+
+All69 core tests passed. Ten new/old dependency routing cases passed. Complete JSON and GraphML objects match the full graph,not only counts. All15 archived experiments/267 source members passed compressed/decompressed hash checks. Old4531 canonical lines,all oldedges,experiment source/spec/data,code/tests,corpus tables,51family reports and old coverage members are byte-exact. Full graph7522nodes/20986relations;4627canonical records,8107source annotations(8097core),7472local/635external,436external without bytehash.
+
+Separate clean directory without math/Git history: 1887 individually byte-verified files/69799187 bytes,fullcheck exit0,then removed. Missing upstream bytes are validated against the pinned manifest,not freshly read original files. Retro038 representative actual332 adverse and374 limitedsupport replays match complete scientific payloads;only332's already specified clock/RSS fields excluded. No new hypotheses or efficacy evidence.
+
+The first helper expected56 bindings but actual parser/manual sets contained55. A subsequent broad text edit damaged the SHA function spelling and failed before any canonical write. Both failure logs and exact first helper retained;targeted correction then succeeded. Old canonical records,mathematical thresholds and validation code were never changed by these failed attempts.
+
+Normal verified TLS acquired2009926bytes under four-work/8MiB cap. Third-party PDF/text/pixels are hash-verified then removed,not republished. Own helper/failure/replay/check logs are compressed and every decompressed member SHA verified before plaintext cleanup;storage.json records final state. No install,math write,GitHub push or remoteCI observation. Overall goal remains active_incomplete;retro038 resets counter,nextWP108 has only F239README/inventory coverage.

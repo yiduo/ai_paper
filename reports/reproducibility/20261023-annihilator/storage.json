@@ -1,0 +1,156 @@
+{
+  "at": "2026-10-23T07:05:27.152150+00:00",
+  "temporary_root": "/private/tmp/ai-paper-WP104",
+  "primaryproject_scopes": 3,
+  "actualbodyprojects": 2,
+  "officialdocsonlyprojects": 1,
+  "selected_source_files": 6,
+  "actual_selected_lines": 1597,
+  "downloaded_bytes": 195414,
+  "temporary_raw_files": [
+    {
+      "name": "kenzo--homology-groups.lisp",
+      "bytes": 21382,
+      "sha256": "d30764e8281fd641d8290824aa79a1bac8471483a529729b5f83fd670d6ee01c",
+      "retention": "External selectedsource removed after actualscope/version/hash saved;not redistributed"
+    },
+    {
+      "name": "kenzo--new-smith.lisp",
+      "bytes": 48917,
+      "sha256": "e673e8641b9a7ce3d5056db448fe3a167ed7940175c706cf5f09f26b164de559",
+      "retention": "External selectedsource removed after actualscope/version/hash saved;not redistributed"
+    },
+    {
+      "name": "sage--chain_complex.py",
+      "bytes": 80723,
+      "sha256": "99c498c05242c6cdc309be201d4705cbab9bbe5293fbe49b39af8b890eff88fb",
+      "retention": "External selectedsource removed after actualscope/version/hash saved;not redistributed"
+    },
+    {
+      "name": "sage--chain_complex_morphism.py",
+      "bytes": 22438,
+      "sha256": "d2a7354af518dc8104d762acaf5ff0e60d38b6916912dbf71f0582fea0448016",
+      "retention": "External selectedsource removed after actualscope/version/hash saved;not redistributed"
+    },
+    {
+      "name": "sage--homology_group.py",
+      "bytes": 6512,
+      "sha256": "b010196c1888a8f436856e6438054d142425cb01274419d578e6c0da848acdf3",
+      "retention": "External selectedsource removed after actualscope/version/hash saved;not redistributed"
+    },
+    {
+      "name": "sage--homology_morphism.py",
+      "bytes": 15442,
+      "sha256": "826bcdf12733759a0b5661c64de5922fcc3fc0383b085b89c08e3da9b3e278f5",
+      "retention": "External selectedsource removed after actualscope/version/hash saved;not redistributed"
+    }
+  ],
+  "temporary_raw_bytes_removed": 195414,
+  "own_archive": "reports/reproducibility/20261023-annihilator/helpers-and-logs.tar.gz",
+  "compressed_bytes": 46036,
+  "uncompressed_tar_bytes": 163840,
+  "compressed_sha256": "648f69ad69c83a675bcc3ae7b1a5db4779537bc9a989cf79cbb32d6579c55e17",
+  "uncompressed_tar_sha256": "1cfc966f1e76e1801745ebd53612c2a3e73fb546b14158f427cf2334f309bf6d",
+  "member_bytes": 136115,
+  "members": {
+    "acquire-chomp-mirror.py": {
+      "bytes": 1047,
+      "sha256": "06b2dfb5fee919ad658b51f14119afb0c182ded6c51ce59d4deccf84bfe2fd7f"
+    },
+    "acquire-followup.py": {
+      "bytes": 1067,
+      "sha256": "36d92d11ed801e2d09a70916901f5956e3b62a17ea9f42a36a7a1c263db251bb"
+    },
+    "acquire.py": {
+      "bytes": 1647,
+      "sha256": "56dd17893ea977cffd4c5d29c6179f10b84025384cc7a40b1b76fc9f92ae2441"
+    },
+    "acquisition.json": {
+      "bytes": 4136,
+      "sha256": "19e747447cd519c2fe436ab1691a36add7d38e5af79ef5e3faa708e16d246e6c"
+    },
+    "clean-check.py": {
+      "bytes": 2217,
+      "sha256": "91225ceb32728aa6df8634f2f0d91cef7f745628b0efaf9890e85f06ab1b7c1f"
+    },
+    "clean-helper.log": {
+      "bytes": 489,
+      "sha256": "38010df985c4eda7901f91debf62e98ca0ec9479603207e24aa5969db0830b89"
+    },
+    "close-state.log": {
+      "bytes": 89,
+      "sha256": "a81e89c16ff18497e71906d53b7e460ecf9b3936e3d0b433dbaacef9800de6cd"
+    },
+    "close-state.py": {
+      "bytes": 13752,
+      "sha256": "936616384ea51d43c45e463ad810c9a5c0a1d6058d8dd0595dd3c7987658bcc5"
+    },
+    "core.log": {
+      "bytes": 11538,
+      "sha256": "99f1a1d8979c7a52c5bd0e82d0ab50a525751f2f8d3364f52d3d918bbddcb81f"
+    },
+    "curate.py": {
+      "bytes": 18326,
+      "sha256": "75da2f1eb69bd853d6d8f290cebf0ec67c323dc40b2fcb490223a5403f3df560"
+    },
+    "curation.log": {
+      "bytes": 297,
+      "sha256": "2f13f3b4170ff50fa7a975d7a1e378b3dac3c7d04ac0a9eab6482777df739916"
+    },
+    "finalize-storage.py": {
+      "bytes": 9833,
+      "sha256": "b68302881c70ae669ce502af6f1fa7833ec5d76ac9339058a2f4aa5c3802a12c"
+    },
+    "make-qa.py": {
+      "bytes": 5112,
+      "sha256": "589c1730f1d6fa3bc3f9ab8fa1f5fa98fcb1bf88b33de3e86b1c5bc6d47a0b75"
+    },
+    "next-reading-inventory.json": {
+      "bytes": 26370,
+      "sha256": "034526d7cba210427fbdc5a81e2c8766393236a7237fb9eb910cb6dea2b0f498"
+    },
+    "no-math-clean.log": {
+      "bytes": 11538,
+      "sha256": "73c4e34fbe5482c7e4abf5fe49a9b940f87878347546059f89dabd4cd2f9b596"
+    },
+    "qa.log": {
+      "bytes": 262,
+      "sha256": "5cf4beba52e1bde9bc9e511c5aaf0ac6455317f771a4868cff5a29727895ae51"
+    },
+    "qa.py": {
+      "bytes": 9778,
+      "sha256": "44b659082315e33b57be9d1e4f1fa457c35e5ae070e07b2504a99507ecb0f206"
+    },
+    "replay221.log": {
+      "bytes": 459,
+      "sha256": "119032ff47d89d6f4cb2985d531d89d6c36c154db2bd8cc0bb4d45da49d52af2"
+    },
+    "replay325.log": {
+      "bytes": 459,
+      "sha256": "9f88cbeab357314eac9eac3f5ebc5fdba21636163c9793edfd5ae8be7d9527f8"
+    },
+    "report.py": {
+      "bytes": 4671,
+      "sha256": "bcaf77c9240d318bd917fa96d0559e3889a1b9520c53f0f3da094851106f1873"
+    },
+    "retro.py": {
+      "bytes": 11694,
+      "sha256": "3c01edce5907b129c3715147ade0f8cebaa5b45920f1d49d3432f1a8a4b4814a"
+    },
+    "web-observations.json": {
+      "bytes": 1334,
+      "sha256": "b4ab9dd2048d6a5213726870c44cc2c81c79f7c6910ecc651546bc77f7539718"
+    }
+  },
+  "all_decompressed_member_bytes_verified_before_plaintext_removal": true,
+  "failed_retrieval_and_web_errors_retained": true,
+  "retro_initial_draft_corrections_retained": "reports/reproducibility/20261023-annihilator/retro-first-draft.md.gz",
+  "prior_helper_copies_checked_against_existing_archive": true,
+  "official_math_clean_pinned": true,
+  "root_charter_hash_unchanged": true,
+  "new_scientific_experiment": false,
+  "existing_replays": 2,
+  "software_installed_or_invoked": false,
+  "external_fulltext_republished": false,
+  "temporary_root_removed": true
+}

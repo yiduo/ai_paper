@@ -1,0 +1,266 @@
+{
+  "at": "2026-10-23T06:41:06.389044+00:00",
+  "temporary_root": "/private/tmp/ai-paper-WP103",
+  "old_original_PDFs": 4,
+  "downloaded_bytes": 1374189,
+  "actual_pixels": 12,
+  "temporary_raw_files": [
+    {
+      "name": "BalmerWalter2002-p6.png",
+      "bytes": 291735,
+      "sha256": "edc59d6525c809a04a6fedfdf8563b5f9d2ad6a7629dae2eb045b785a442bc3e",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "BalmerWalter2002.pdf",
+      "bytes": 324430,
+      "sha256": "ac9a29a764efa5591bb08ad56d6ad518661fd5dbcd3ef973f1da6f39907cf6d6",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "BalmerWalter2002.txt",
+      "bytes": 94843,
+      "sha256": "8dec8660cfbaac3437ad66c79b3bba8109f8d355f5a2f5920899088c82ef3ca3",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003-p1.png",
+      "bytes": 145086,
+      "sha256": "71eee3b062265e0c6e3658c883064d4c6a869c0dc1a83f1f6345cef5d0bdcd3b",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003-p31.png",
+      "bytes": 121818,
+      "sha256": "f402a4830f93fb2800ca3fbee1bd630e3be821842c9eb39532d7255614fcbab4",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003-p32.png",
+      "bytes": 141281,
+      "sha256": "8366064fa0207e15e8c60debe72392275e7283380609d8cfc1f35c0e252a29ce",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003-p33.png",
+      "bytes": 167027,
+      "sha256": "544f90f28145a0a993c1eceea960b597ab3647f7c957edb89c903d6848b9c434",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003-p34.png",
+      "bytes": 180176,
+      "sha256": "979a153ffd139af991b4b6a0e45443ed8ecf16f7ad16b5c3d947a0f7811ba46e",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003-p35.png",
+      "bytes": 107790,
+      "sha256": "a5f23a557f2d462b932f0438e56ac0ef6f12384e2a94fdd3d10cdd64c9816b64",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003.pdf",
+      "bytes": 505795,
+      "sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "HornbostelSchlichting2003.txt",
+      "bytes": 195547,
+      "sha256": "849f79ace472dfea98d41de15b2aca621416716b405b14dd1314dbe48725a906",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "Pardon2013-p13.png",
+      "bytes": 229229,
+      "sha256": "8865a3fc45a8672ad197c3901b045eac0c5f53e938b4d9757eaead90be70cdcc",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "Pardon2013.pdf",
+      "bytes": 263977,
+      "sha256": "e5ca7045fe34675aec074d82761eb43b2deee588e2be54e1406f7933053b69db",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "Pardon2013.txt",
+      "bytes": 73158,
+      "sha256": "43ff7e095984a96e8b354608b151f23923a6d7c7d89e6c61baa8157c133f59b8",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "Woolf2008-p17.png",
+      "bytes": 163078,
+      "sha256": "241743bb468ad1692a17f93d854c88faee964d2e44e1860e56c02914c226cb0a",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "Woolf2008.pdf",
+      "bytes": 279987,
+      "sha256": "ee5c7178324ffd2ef2b5cc61e3ffadd20e0e8ea806250788e4864f51dbf07fed",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "Woolf2008.txt",
+      "bytes": 105384,
+      "sha256": "2a90281ec297f5732c1cb4b7a6d6513ce270b84bf08238584adee914a26dcec1",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "current-p2.png",
+      "bytes": 262343,
+      "sha256": "1f7b31243e8a6ed2b24ef1f2940de200e00a06eeb059b1c31837aad82e425f03",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "current-p26.png",
+      "bytes": 260804,
+      "sha256": "694c38bbabeff615c5f0d0a993df61d142190cbfd3b76b200133c9d1e9195162",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "current-p38.png",
+      "bytes": 237172,
+      "sha256": "ef83481253bf84621e2c5768e889085dc1988aa625a89652554c0bb4254bb2f4",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    },
+    {
+      "name": "current-source.txt",
+      "bytes": 156515,
+      "sha256": "dd587c02f55479e136478f8e92d3e334af484ff7512c8b896c8d80b5f7ccad7b",
+      "retention": "Removed after actually read version/hash/range/pixel provenance saved;not republished"
+    }
+  ],
+  "temporary_raw_bytes_removed": 4307175,
+  "own_archive": "reports/reproducibility/20261023-hilbert-smith/helpers-and-logs.tar.gz",
+  "compressed_bytes": 60447,
+  "uncompressed_tar_bytes": 204800,
+  "compressed_sha256": "70d24842f5ba5ac68d4706eb0b8a70d67f4016e27298f46994106386733526fb",
+  "uncompressed_tar_sha256": "e8b5c1549d996e2b0e20577e2b160735238c9f787dbc11c130661762f2370678",
+  "member_bytes": 182127,
+  "members": {
+    "acquire.py": {
+      "bytes": 1424,
+      "sha256": "1079dd00a3d8b2667e02169bce7a7e50a7aeb8471990fbb02f98db461b4c9004"
+    },
+    "acquisition.json": {
+      "bytes": 1990,
+      "sha256": "98d1545598f85b1d50bd716b0eb87fecb190522b0f2bc6625a354df2890ae557"
+    },
+    "bibliography-parsed.json": {
+      "bytes": 11299,
+      "sha256": "2a7f037926354f9ee1c9457f3e9f5e5c5d28617081ef5091e09382a96addeaac"
+    },
+    "clean-check.py": {
+      "bytes": 2219,
+      "sha256": "f2f0fae375ebff534c4afe2ac2a72db5c8cc5b06245b1003b763f250dcd397bd"
+    },
+    "close-state.log": {
+      "bytes": 73,
+      "sha256": "bd1d65aaeae2206fd1e162a1723eca3f757110ec80b0a74956704cbbac2f6331"
+    },
+    "close-state.py": {
+      "bytes": 13056,
+      "sha256": "9948bb8daadebf6096d860cb6628e493fbdfcac7fbfa662c0d5ca7821105a82b"
+    },
+    "core-first-failed.log": {
+      "bytes": 12330,
+      "sha256": "bd48d9c3a05316c05ddefcbe7d95b5402e1eb353ae8919b90b6fc2883b04105c"
+    },
+    "core.log": {
+      "bytes": 11538,
+      "sha256": "965aabedd8e5fa3ece6019cc21acb48fb3f4525baec6000c4aba6fbe931c13f7"
+    },
+    "curate.py": {
+      "bytes": 28008,
+      "sha256": "79061841580dde047c04cb96d61bbd679a4bdbaebdcd322e5d1be0b792fbd42c"
+    },
+    "curation.log": {
+      "bytes": 299,
+      "sha256": "8823899b0800d1a8f5fb7585b8dff66c7b2c610ef9f40e4b771accd61d9a9d08"
+    },
+    "defender.json": {
+      "bytes": 11936,
+      "sha256": "0d0f5dee3102e4ae111d873bbbb8a01c57ca435e5211952036e3e8c3f158d68e"
+    },
+    "facts.py": {
+      "bytes": 21003,
+      "sha256": "45db66bdb2296b502ceaeba879b44983f93431e2eceb72b5df5c6fb2dc383757"
+    },
+    "finalize-storage.py": {
+      "bytes": 10690,
+      "sha256": "92c3840b9ff6ca8c0175c9339be400e6d7a5efdf8d12d14264bc31063d2b3f71"
+    },
+    "formal-registration-audit.json": {
+      "bytes": 669,
+      "sha256": "26b419db55c126d67474a49fdf110c882c6a613f0cf12e70a55956742abf4ebc"
+    },
+    "logging-scope-note.json": {
+      "bytes": 450,
+      "sha256": "a5f256cc1a4a3728ad08cf9834be63123684e4df97657f3bdddd880d378dd370"
+    },
+    "metadata-query-failure.json": {
+      "bytes": 289,
+      "sha256": "7b3c32a32ea4659adf3dcbb918d55b410df4ac4d7566842ce07afcc75a5d4f2d"
+    },
+    "metadata-runtime-note.json": {
+      "bytes": 309,
+      "sha256": "f1ec714f7c7b317e1acb3ac4c3ce36519c5914a83274b3ef7196d2cd1cf1d33b"
+    },
+    "no-math-clean.log": {
+      "bytes": 11538,
+      "sha256": "a89202eb356a440a00768546b5c2dc536f3acd497dfdc577124701057f2346b5"
+    },
+    "qa.log": {
+      "bytes": 268,
+      "sha256": "4f55563b3bec2e23e6b8d4b0b2b1eed7e39e858da33f818afd71ebdea8c5d2a4"
+    },
+    "qa.py": {
+      "bytes": 9498,
+      "sha256": "846a07af7025f595059242a694de356e321b45fe042bf851b1d44f3ccf08be32"
+    },
+    "render-inventory.json": {
+      "bytes": 4876,
+      "sha256": "ee06e0f30225d3ce68beb4e8f3ca5a0c3bd87cdf2bfbdacc74e68f7638ec193a"
+    },
+    "repair-null-source-hash.py": {
+      "bytes": 2208,
+      "sha256": "5d8e943bbe2bc4288b72c0c3e109baed084883bc1e189d5f40300ca2ea3f2392"
+    },
+    "report.py": {
+      "bytes": 6089,
+      "sha256": "a1b400e3a6f807c8f0594a3114bb6c05aaeb05745e4d0468707e88dfd8a47c34"
+    },
+    "retry-HS.py": {
+      "bytes": 156,
+      "sha256": "119217e2940148af677a9ff33a5197dc15ec84f8ed3815cfcad955ed13328ac0"
+    },
+    "scope-and-failure-notes.json": {
+      "bytes": 945,
+      "sha256": "e9a7c647ff5a9e64aafeaf596e66970fcf4a0ba76853844a30d302d8d3cbc18f"
+    },
+    "skeptic.json": {
+      "bytes": 9637,
+      "sha256": "8524b12b30e72ac252e0755c95bff7601141d9402bfbf72d9be4b8b23a5be310"
+    },
+    "source-result-index.json": {
+      "bytes": 8825,
+      "sha256": "93e4ee03d054a757693ece042b1d5cc0695b1fbbd44f3940cb576e316be964ea"
+    },
+    "unknown-hash-repair.json": {
+      "bytes": 505,
+      "sha256": "ebdb2c8c9a5a509ac9204dd9ccd76efcac25207dbefccaf6fde3c4da71f90e5e"
+    }
+  },
+  "all_decompressed_member_bytes_verified_before_plaintext_removal": true,
+  "failed_retrieval_and_metadata_failure_retained": true,
+  "prior_helper_copies_checked_against_existing_archive": true,
+  "new_record_representation_versions_archived": 32,
+  "official_math_clean_pinned": true,
+  "root_charter_hash_unchanged": true,
+  "new_numerical_or_symbolic_experiment_data": false,
+  "software_installed_or_invoked": false,
+  "external_fulltext_republished": false,
+  "temporary_root_removed": true
+}

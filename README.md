@@ -1,16 +1,22 @@
-# AI 数学成果应用挖掘
+# MathWeave · 数学织网
 
 [English overview](README.en.md) · [English charter](CHARTER.en.md) · [English progress](PROGRESS.en.md) · [中文纲领](722篇AI数学论文应用价值挖掘纲领.md)
+
+**连接数学成果、历史方法与可检验应用的证据网络。**
 
 把固定版本的 OpenAI 数学手稿与历史文献、可迁移零件和具体应用问题连接，使用可复现实验检验连接。研究单位是“成果族 + 历史谱系 + 应用问题”。项目依据根目录纲领持续执行，当前第一阶段**尚未完成**。
 
 目前已登记 372 个成果族、719 条当前手稿记录；旧版 722 条记录逐项解释为 692 项路径不变、27 项明确链接的版本更新和 3 项证明撤回。776 个 preprints PDF 文件不是 776 篇论文。未公开的约 4000 条原始问题没有被编造为数据集。
 
-已保存41条候选连接，其中13张局部初检卡片、13项不同假设的可复现检验；五项限定预测支持、八项不利观察。这些结果不等于五项新数学或工程收益。49族有实际阅读，17个门类均至少一族；其中43族为全文拆解草稿，共1123个带原文标签的来源结果绑定，另2个无标签主定理单独定位。F238另有4/12篇及95绑定，八篇仍未读完。 F029仅选读伴随稿引言115行，不计全文草稿。完整成果族、完整历史谱系、人审、第二供应商及试点均未完成；尝试次数和命题数量不计应用候选。详见[验收矩阵](reports/acceptance.md)、[当前状态](state/status.md)与[真实指标](reports/metrics.json)。
+已保存44条候选连接，其中13张局部初检卡片、13项不同假设的可复现检验；五项限定预测支持、八项不利观察。这些结果不等于五项新数学或工程收益。57族有实际阅读，17个门类均至少一族；其中52族为全文拆解草稿，共1462个带原文标签的来源结果绑定，另2个无标签主定理、1个无标签推论和1条无标签流迭代结论单独定位。F238另有4/12篇及95绑定，八篇仍未读完。 F029仅选读伴随稿引言115行，不计全文草稿。完整成果族、完整历史谱系、人审、第二供应商及试点均未完成；尝试次数和命题数量不计应用候选。详见[验收矩阵](reports/acceptance.md)、[当前状态](state/status.md)与[真实指标](reports/metrics.json)。
+
+最新 [F360弱MTW与最优传输源码草稿](reports/families/F-360.md)完成两稿全文、55个来源标签绑定及14个方法契约；[复盘038](reports/retrospectives/038-source-guarantees-and-actual-consumers.md)保留适用条件与实际消费者缺口，没有新增应用实验。WP108已读完F239两稿24个TeX文件／8083行（含参考文献与图源），阅读日志已保存；历史原作、形式范围及规范入图仍待完成，未增加上述覆盖指标。
+
+此前 [F174有理PSD实际调用](reports/F174-rational-psd-interface-audit.md)选读三个原始项目七文件1350行；加权LDL／数值Kraus／数值平方型输出尚未准入精确无权有理证书任务，无新候选或实验；下一包转低覆盖微分几何F360。此前 [F174强薄树两稿与历史边界](reports/strong-thin-trees-F174-reading.md)整理58结果、12契约和3项旧原作选段；全切割／谱、二进制位成本／实际性能与已知算法来源分别保留，无新候选或实验。随后有界核对真实有理PSD消费者，GitHub按里程碑批次更新。此前 [F304有限湮灭证书实际接口](reports/F304-annihilator-interface-audit.md)核对固定Sage／Kenzo六源码文件及OriginalCHomP官方文档；未准入完整正合比较批次与松界消费者，候选保持待定，无新初检。[复盘037](reports/retrospectives/037-certificate-output-and-coverage.md)停止扩搜，下一包转低覆盖组合F174两稿。此前 [F304 Hilbert–Smith全文与历史范围](reports/hilbert-smith-F304-reading.md)补入40标签结果、1条无标签推论及24方法，全部局部C／全链未知；四部旧原作选段区分旧同伦不变性、cofinality指数二界和当前类别条件。新增1条有限正合比较的待定连接，尚无实际消费者或应用运行，随后WP104已完成有界调用资格核查。此前 [F198实际严格化接口核查](reports/F198-rectification-interface-audit.md)核对固定QPA／Sage／Kenzo源码及Keller原作选段，找到相关实际调用，但完整右B图输入、独立严格作用裁判和全成本尚未准入，没有新增初检；其后WP103完成拓扑F304当前正文。此前 [F198有限维代数全文与有限零件](reports/finitistic-F198-reading.md)整理16项结果（含无标签推论）、22方法、四项原作选段和形式规格；固定A的存在尚无完整可执行矩阵数据，没有新增候选或初检。[复盘036](reports/retrospectives/036-fixed-objects-and-finite-components.md)转向有限严格化零件的实际调用资格核查。此前 [F196零因子与有限见证缺口](reports/zero-divisors-F196-reading.md)整理当前一稿12项结果、19方法、四项原作限定范围及所选形式规格。原文未提供具体匹配表，没有新增候选／初检。[关键历史输入](reports/F196-critical-history.md)已补核分隔器与相对拓扑范围，Brown比较定理仍缺；日常仅本地保存／提交，GitHub按重要里程碑合并更新，官方math不部署。
 
 公开需求与待定候选的适用条件对照见 [第二次需求反查](reports/demand-review-002.md)。硬件历史标定、动态通信与机器人初始停止条件分别保留，没有据此新增实验或效果声明。
 
-知识图谱已有6175节点、16201关系、6134条规范来源注释（其中6124条属于核心研究类型校验）。此前[F089全文拆解](reports/graph-l1-F089-reading.md)连接两稿59项结果、25个方法契约、历史勘误和一条待定远类比候选；[复盘020](reports/retrospectives/020-cut-laws-and-evidence-scope.md)已完成。 [场景接口核对](reports/F089-scenario-interface-audit.md)补入两项真实旧采样接口及目标语义缺口，未增加初检。原始主张、已读形式规格、完整依赖、外部检验与人审分别记录，撤回按具体结果传播。图谱可离线检索并导出压缩JSON／GraphML。 [F122实际恢复接口](reports/F122-reconstruction-interface-audit.md)保留已知长度／纯删除模拟的部分匹配，并补明强旧基线与尚缺的真实消费者／精度／预算。 [F122迹重构三稿核查](reports/trace-reconstruction-F122-reading.md)连接样本、解码位成本、旧方法与未建立的真实信道／预算前提；新增一条待定候选，没有新初检。 [F142实际接口审计](reports/F142-matrix-interface-audit.md)明确输出语义及未闭合前提，候选保留待定；[复盘022](reports/retrospectives/022-matrix-contracts-and-coverage.md)转向未读迹重构族。 [F142全文与矩阵证书零件](reports/factorization-F142-reading.md)新增30项绑定、21契约和一条待定远类比，明确巨大位界／旧小特征分支及Hecke依赖。 [F155三维平铺核查](reports/tiling-F155-reading.md)补入21结果、18契约，明确周期搜索的理论边界及尚缺的实际工具／见证规模；[复盘023](reports/retrospectives/023-trace-tiling-and-completeness.md)完成。[F155实际工具审计](reports/F155-tiling-interface-audit.md)保留三维形状的部分匹配，并明确有限盒与无限周期规格之别，没有新增实验。[F334光滑局部浸入核查](reports/local-immersion-F334-reading.md)补入喷流／正则性／整块条件、历史状态差异及形式化范围，无新增初检。[F294拟迹与矩形归一化核查](reports/quasitrace-F294-reading.md)新增独立有限零件条件候选，明确强旧缩放与未闭合消费者／成本；[复盘024](reports/retrospectives/024-regularity-quasitraces-and-finite-parts.md)完成。现在可搜索全部节点并用深链接打开；[全局证据／条件／缺口导航](reports/graph/navigation.md)覆盖372族和41候选，[整理报告](reports/knowledge-graph-organization.md)保留整理快照，当前18条直接基线关系缺口见导航。 [图谱工作规范](docs/knowledge-graph.md)把证据、适用条件、强旧基线和应用缺口作为整理主线；[F243接口审计](reports/F243-query-interface-audit.md)已补入实际示例，[复盘021](reports/retrospectives/021-query-models-and-graph-conditions.md)完成。 [F243全文与历史核对](reports/choiceless-F243-reading.md)新增51项绑定、24个契约及一条待定DSL能力测试候选，明确无序表达性与普通算法速度的边界。
+知识图谱已有7522节点、20986关系、8107条规范来源注释（其中8097条属于核心研究类型校验）。此前[F089全文拆解](reports/graph-l1-F089-reading.md)连接两稿59项结果、25个方法契约、历史勘误和一条待定远类比候选；[复盘020](reports/retrospectives/020-cut-laws-and-evidence-scope.md)已完成。 [场景接口核对](reports/F089-scenario-interface-audit.md)补入两项真实旧采样接口及目标语义缺口，未增加初检。原始主张、已读形式规格、完整依赖、外部检验与人审分别记录，撤回按具体结果传播。图谱可离线检索并导出压缩JSON／GraphML。 [F122实际恢复接口](reports/F122-reconstruction-interface-audit.md)保留已知长度／纯删除模拟的部分匹配，并补明强旧基线与尚缺的真实消费者／精度／预算。 [F122迹重构三稿核查](reports/trace-reconstruction-F122-reading.md)连接样本、解码位成本、旧方法与未建立的真实信道／预算前提；新增一条待定候选，没有新初检。 [F142实际接口审计](reports/F142-matrix-interface-audit.md)明确输出语义及未闭合前提，候选保留待定；[复盘022](reports/retrospectives/022-matrix-contracts-and-coverage.md)转向未读迹重构族。 [F142全文与矩阵证书零件](reports/factorization-F142-reading.md)新增30项绑定、21契约和一条待定远类比，明确巨大位界／旧小特征分支及Hecke依赖。 [F155三维平铺核查](reports/tiling-F155-reading.md)补入21结果、18契约，明确周期搜索的理论边界及尚缺的实际工具／见证规模；[复盘023](reports/retrospectives/023-trace-tiling-and-completeness.md)完成。[F155实际工具审计](reports/F155-tiling-interface-audit.md)保留三维形状的部分匹配，并明确有限盒与无限周期规格之别，没有新增实验。[F334光滑局部浸入核查](reports/local-immersion-F334-reading.md)补入喷流／正则性／整块条件、历史状态差异及形式化范围，无新增初检。[F294拟迹与矩形归一化核查](reports/quasitrace-F294-reading.md)新增独立有限零件条件候选，明确强旧缩放与未闭合消费者／成本；[复盘024](reports/retrospectives/024-regularity-quasitraces-and-finite-parts.md)完成。现在可搜索全部节点并用深链接打开；[全局证据／条件／缺口导航](reports/graph/navigation.md)覆盖372族和41候选，[整理报告](reports/knowledge-graph-organization.md)保留整理快照，当前18条直接基线关系缺口见导航。 [图谱工作规范](docs/knowledge-graph.md)把证据、适用条件、强旧基线和应用缺口作为整理主线；[F243接口审计](reports/F243-query-interface-audit.md)已补入实际示例，[复盘021](reports/retrospectives/021-query-models-and-graph-conditions.md)完成。 [F243全文与历史核对](reports/choiceless-F243-reading.md)新增51项绑定、24个契约及一条待定DSL能力测试候选，明确无序表达性与普通算法速度的边界。
 
 F238的条件信息篇已完成64项来源绑定，保留固定剩余储备与正逆方向条件，见 [条件信息阅读与图谱](reports/conditional-information-F238.md)。
 
@@ -86,11 +92,11 @@ PYTHONPATH=src python3 -m ai_value.cli report
 
 本项目代码、原创文档与原创派生记录采用 Apache-2.0，见 `LICENSE` 和 `NOTICE`。上游仍保留自身许可；外部论文仅保存书目信息、必要转述和定位，不能推定其全文采用同一许可。`math/` 排除于本项目历史，按 commit 和清单引用。
 
-本项目已公开发布至 [GitHub](https://github.com/yiduo/ai_paper)；远程提交及匿名核验记录见 [发布记录](state/publication.json) 与 [发布范围](docs/publication.md)。OpenAI 官方 `math/` 目录不上传、不复制或重新部署，仅引用其链接、固定版本和来源散列。`0.1.0` 不是已发布的正式版本声明。
+本项目已公开发布至 [GitHub](https://github.com/yiduo/mathweave)；远程提交及匿名核验记录见 [发布记录](state/publication.json) 与 [发布范围](docs/publication.md)。OpenAI 官方 `math/` 目录不上传、不复制或重新部署，仅引用其链接、固定版本和来源散列。`0.1.0` 不是已发布的正式版本声明。
 
 ## English overview
 
-A local, evidence-preserving application-mining project for a pinned mathematical manuscript corpus. It stores typed claims, sources, transferable components, hypotheses, conservative dependency grades, and reproducible numerical checks. The full phase-one goal remains open. No human reviews, independent second-provider checks, engineering pilots, or public release are claimed. The offline standard-library checks and archived-source replays require no model credentials.
+A local, evidence-preserving application-mining project for a pinned mathematical manuscript corpus. It stores typed claims, sources, transferable components, hypotheses, conservative dependency grades, and reproducible numerical checks. The full phase-one goal remains open. Human reviews, independent second-provider checks and engineering pilots remain outstanding. The public repository scope and last verified snapshot are recorded separately. The offline standard-library checks and archived-source replays require no model credentials.
 
 F115的实际表/流工具反查见 [第四次需求反查](reports/table-flow-demand-F115.md)：固定SciPy阶乘表律与NetworkX最优流接口后，候选继续待定；历史文档的精确代数见证不增加应用初检。
 
@@ -149,3 +155,7 @@ WP089 [真实符号需求核查](reports/F025-demand-followup.md)找到带第二
 [F113两稿全文与计数接口](reports/perfect-matching-F113-reading.md)：62项结果、26契约及三前提缺口已入图；无权相对计数／二进制粗计数、最大律熵／任意观测熵、保见证／保计数分别保留。六个选定形式规格局部B，未构建／无人审；没有新候选或应用实验。
 
 [F113真实计数接口与光子标定联系](reports/F113-counting-demand.md)：实际三来源核对产生一条待定近类比候选，字面副本采样成本不准入，没有运行或新增初检；旧精确／随机计数与一般量子采样边界分别保留。
+
+[F139精确查询模型与旧法边界](reports/log-concave-F139-reading.md)完成39结果与16契约的当前全文草稿；任意正维度幂的查询上界不代表运行时间改进。GitHub按实质里程碑批次降频，本包保持本地，官方math仍只读且不发布。
+
+[F273四权重真实需求核查](reports/F273-fourweight-demand.md)核对原始LipSDP与CVXPY接口：相关用途存在，但现成四前提证书、认证裁判和完整成本仍未准入。候选与原预测保留，无新数值运行或初检。下一包转低覆盖的代数与复几何F058两稿。

@@ -1,0 +1,14 @@
+{
+  "recorded_at": "2026-10-23T02:20:40.136630+00:00",
+  "current_objective_attachment": "/Users/smzdm/.codex/attachments/9889aa5b-5623-4db2-8f84-3b34de21114d/goal-objective.md",
+  "current_raw_sha256": "2886c68f4c439ca639c677754d58cf53e1f3799cb8bd52d2be671bc882e32cb2",
+  "prior_objective_attachment": "/Users/smzdm/.codex/attachments/4a727305-a278-4599-aef2-b98007707bdc/pasted-text-1.txt",
+  "prior_raw_sha256": "a268c970a0230ba22f6c39f28e1b1edf3507aeb557d54bc3f0cb96b372732f8b",
+  "normalized_equal": true,
+  "normalization": "Remove backslash-newline richtext continuations,unescape Markdown backtick/hash/star/dot/pipe/hyphen,strip trailing line whitespace;compare full texts",
+  "normalized_sha256": "a268c970a0230ba22f6c39f28e1b1edf3507aeb557d54bc3f0cb96b372732f8b",
+  "scope_change": false,
+  "requirements_or_acceptance_relaxed": false,
+  "project_prompt_retained": "prompts/continuous-research-goal.md",
+  "note": "New attachment was actually read in full before continuing;only formatting escapes changed. Prior evidence and current phase-one acceptance remain applicable."
+}

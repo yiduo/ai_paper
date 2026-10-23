@@ -1,0 +1,592 @@
+{
+  "family_id": "F-058",
+  "work_package": "WP-095",
+  "started_at": "2026-10-22T06:42:41.366029+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "c05f1fa",
+  "status": "current_source_decomposition_draft_completed_not_full_family",
+  "files": [
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/README.md",
+      "sha256": "8871bdde9599cf5aa32ad23cf71320ad90b99cb223c79d2aa16e68901a58886c",
+      "lines": 18,
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/figures/proof-overview.tex",
+      "sha256": "b8b0b90a19be06f749f74c55e11f3c0001c68eb7d2fd497d681727fde0e72063",
+      "lines": 18,
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/main.tex",
+      "sha256": "2ee0fbfd9cec23c0cb2eaeb39e6ab98230e85a34054ceceebb5587ed09ec66a4",
+      "lines": 376,
+      "body_read_ranges": [
+        [
+          1,
+          376
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/references.bib",
+      "sha256": "0ae29c1a5b228a5fbaed36ea8cf6ab81c4002a96da8a2491af5e166fa6ce72cb",
+      "lines": 571,
+      "body_read_ranges": [
+        [
+          1,
+          571
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/compact.tex",
+      "sha256": "81e3a85b05b957999be771e37e658aa0120fe48a11e79b2cd85b68f63fde3d4b",
+      "lines": 605,
+      "body_read_ranges": [
+        [
+          1,
+          605
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/groups.tex",
+      "sha256": "3dbb77a0a4bf75cdc733d0df39bc2be3d8eb0efbacf6c6eadf7c13f71350970f",
+      "lines": 535,
+      "body_read_ranges": [
+        [
+          1,
+          535
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/history.tex",
+      "sha256": "016027663bbc9c3b2a576ce4e82ec435f9aa804eafdec4da95c5d6db70775479",
+      "lines": 92,
+      "body_read_ranges": [
+        [
+          1,
+          92
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/localization.tex",
+      "sha256": "82c5f0f1372d15e12425f3fdd9ea304e020a86b64b2ebb5383b752ded3d08cf5",
+      "lines": 517,
+      "body_read_ranges": [
+        [
+          1,
+          517
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/preliminaries.tex",
+      "sha256": "e6b05e9fa4c67b14fcb998d55f025dd3d9774d6a456002a4a37903094ccf10dc",
+      "lines": 865,
+      "body_read_ranges": [
+        [
+          1,
+          865
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/quasiprojective.tex",
+      "sha256": "2f51e87feb1b4d8b345aaf66b3c7e775a43e693c2c71186407d37c8ada505c72",
+      "lines": 68,
+      "body_read_ranges": [
+        [
+          1,
+          68
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/quotient.tex",
+      "sha256": "aab9e1eb891b04a7186776fc8bda6d2849ea4e255b97bd3fc222d57f7b40245f",
+      "lines": 808,
+      "body_read_ranges": [
+        [
+          1,
+          808
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/sections/windows.tex",
+      "sha256": "dee218fb77743f1a1787d59c4b1260cccd3659a38acaa1e2445d8678e1ff34a2",
+      "lines": 932,
+      "body_read_ranges": [
+        [
+          1,
+          932
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/README.md",
+      "sha256": "75f0c98d4212c8a5c878d556aa4d5664a3b8dc0b6755c6e010c86a1d118bce73",
+      "lines": 18,
+      "body_read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/01_geometry.tex",
+      "sha256": "b1bf69c551d8eeb7f8306af42482d35d64b507742cd99f6d6a2621acc078040e",
+      "lines": 232,
+      "body_read_ranges": [
+        [
+          1,
+          232
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/02_preparation.tex",
+      "sha256": "75edd1da21f2548bfbaee9b751beb93902603b1bd535d05e6cc817151aed2280",
+      "lines": 395,
+      "body_read_ranges": [
+        [
+          1,
+          395
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/03_noncollapse.tex",
+      "sha256": "a9676ffbfaf7ca87b73c83c9bdda84acfb0be2c2b8d5fdc001028e1c3daf0103",
+      "lines": 308,
+      "body_read_ranges": [
+        [
+          1,
+          308
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/04_scaling.tex",
+      "sha256": "a1ce462396c1fed34fc6f03804aaeca281343b3f9af5c0ef867c242b27678b8c",
+      "lines": 380,
+      "body_read_ranges": [
+        [
+          1,
+          380
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/05_symmetry.tex",
+      "sha256": "0d309c25e14d508f15ea96e57e804f0a263675b866d0362cf474877f52cf6bf5",
+      "lines": 90,
+      "body_read_ranges": [
+        [
+          1,
+          90
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/bibliography.tex",
+      "sha256": "fd6a3595d284504a527ff05f6ae106ce54e776c7d7bff5b486dd94029bac3748",
+      "lines": 93,
+      "body_read_ranges": [
+        [
+          1,
+          93
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/figures/proof-overview.tex",
+      "sha256": "00f6149953c7301ed6b19cb160793601f9dfa2a4fdaa5102926475343bbfb1b6",
+      "lines": 37,
+      "body_read_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/paper.tex",
+      "sha256": "8527c26b772f449b3199482843376162712debf7aff04d13fee778469e736aa5",
+      "lines": 230,
+      "body_read_ranges": [
+        [
+          1,
+          230
+        ]
+      ],
+      "fully_read": true
+    }
+  ],
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "observations": [
+    "Bounded-domain manuscript all8TeX1765lines incl bibliography/figure body actuallyread;source theorem allows finite stabilizers,possibly singular/nonnormal reduced affine ambient,no projective/smooth quotient assumed. Cocompact boundedness smoothness precedes semialgebraic boundary argument.",
+    "Generic joint normal-offset limits use countably many rational tests with individual ramification/neighborhoods,not one uniform countable chart or rate. Analytic-disc H2 construction uses regularization delta=t^2;included ct-radius slice balls exclude collapse.",
+    "Two-sided scaling:compact interior inclusion plusapproximatingexcludedpoints,independent support peaks ensure allnormal O(t) versus tangential O(sqrt(t));proper intrinsicdistance gives inverse containment. Full image not inferred from one-composition identity alone.",
+    "ModelC initially onlyconnectedopencone;positive independent supports give intrinsic-dim bounded Cayleyrealization;Veydivisibility includes finite stabilizers. No source numerical algorithm,exactC or finite complexity supplied.",
+    "Classification main/history read:U=D*C^m*F,F simplyconnectednormalprojective possiblysingular;space presentation only,no deckdefinability requirement. Explicit SpecialAbelianity external companion and zero-boundary logabundance inputs;neither read here yet. Broadercover classification not a proofinput of bounded-domain manuscript.",
+    "Classificationprelim865/loc517 actuallyread. Bounded algebraicdata counts/degrees distinctfromcoefficient/scalematrixbounds. Genericcountabletests needno commonopenbox;powerbounds uniformexponent but thresholds dependfixedparameters.",
+    "Finite-jet specialization:polynomial fibrevariables,analyticparametercoefficients,PuiseuxR_t andinversepowerbounds;strictslackt^A thenresidualt^B,fibre-preserving distancecorrection Btheta>A+1 and||R^-1||t^(Btheta)->0;truncatehighfiniteorder. Merelysubanalytic data yieldsubanalytic notsemialgebraic conclusion. Noeffective Taylororder/costgiven.",
+    "Openkernel requiresneighborhood eventual inclusion,notpointwisemembership. Thinclosedsubanalyticpseudoconcave holes dimension<=2n-2 ->analyticdivisor viaVajaitu q1;propagation requiresfullrelativecontainer properineachfibre,Chowcycles avoidlimitequationidenticallyzero.",
+    "LocalizationrequiresSfixedwhenrealcentermoves,realpolynomialblockdiagonalG_j(u_>j),allreal u invertible G;allfinitebox Ck ratio convergence;seeduniforminitialball. Replacementpaths preservefixedcenter viaordinaryuniformization/monomialclock,notnecessarilydefinableafterretiming.",
+    "Attached-disc equations solvedlastblocktofirst;fullrealcenter rank2d bycomplexperturbationsonstartarc;fixschedule/bounds/correctionbox then tlimit THEN shrinkarc. Accessibleuppercontainment allboundedpaths atgenericfixedcenter;matrixoutertests lambda_min>=-o(1) onlyfixedradius,noarbitraryjointradius/scale,numericalrateorfinitePSDguarantee.",
+    "Classification windows932,quotient808,groups535,compact605,quasiprojective68,figure18 and bibliography571 now entirely actually read. Combined18TeX6581 plus separate571Bib and twoREADME36 lines. Programmatic include/bib closure covers all18TeX and571Bib; no omitted source file in current directories.",
+    "Windows: generic Levi-null plaques algebraic bounded degree, contact quotient gives meromorphic symmetric H and full positive Schur epigraph. Bergman argument requires entire fibre components; negative chambers yield zero Bergman kernel. Full relative divisor container traps all upper-half-disc approaches, not only vertical rays. Compose marked models/resolutions before scales.",
+    "Window normalization: joint Puiseux and inverse-power bounds give finite Taylor polynomial limits on all bounded boxes. Cayley-Montel normalization T=(Im H_seed)^1/2 preserves strict matrix positivity; square-root ratio proof uses AA^T and no commuting matrices assumption. Choose e=t^N only after fixed test boxes, pole bounds, accuracy; no arbitrary moving scale assertion.",
+    "Tower: recursive strict Im M_j>0, Schur-slack coordinates give contractibility; polynomial tails versus -logdet give strict psh exhaustion. Explicit bounded chart uses first column of (I-iM)^-1; complete holomorphic fields span complex tangent, not yet real transitivity. Localization outer inequalities do not certify finite-scale PSD.",
+    "Quotient: functorial resolution mu:V->U proper connected fibres; projective quotient extension gives local pseudoconvexity. Guard h=exp(-alpha sum tr log(I-iM_j)), alpha<1/(2 sum sizes), sector<pi/2, decays polynomially. Finite incidence trace with strict psh yields intrinsic projective leaf fibration; overlap equality is essential.",
+    "Cutoff-normal convergence: moving boundary guard uniformly tends0, W12/Rellich alone onlyL2. Circle traces plus argument principle and moving complex lines yield actual equicontinuity; sector and nonzero seed prevent zero limit. Translated high charts exhaust but need not nest. Tightness requires one fixed inverse chart compact set, not only varying charts.",
+    "Descent to normal U uses mu_*O=O and compact connected mu fibres. Prepare flatness, normality of every fibre, actual fibrewise bimeromorphic resolution and canonical Whitney strata before final scales/translates. Discrete/free deck image is a later additional condition for proper compact quotient fibration; do not use it circularly in quotient construction.",
+    "Groups: core orbifold base general type used only through extension theorem, underlying base need not general type. SpecialAbelianity applies to entire ordinary pi1 of smooth compact special Kahler manifolds. Very-general lifted core levels countable; proper resolved incidence makes their local projections locally finite. Countability alone not discreteness. Closure identity component fixes dense levels -> discrete image.",
+    "Selberg applies to Ad(Lambda), not assumed faithful. Finite stabilizers trivial on Ad preserve all complete fields; complex spanning gives identity derivative, finite-order local averaging gives identity. Free finite-index action; torsionfree argued separately by contractible finite-CW cohomological obstruction. Nadel-Frankel/Farb-Weinberger bounded-factor splitting and Liouville remove discrete residual factor; distinct from Vey route in bounded manuscript.",
+    "Compactifiable cover kernel: compact core fibres yield finite monodromy index after restricting regular cover; punctured-fibre pi1 surjects ordinary core-fibre pi1 since map extends. Virtually abelian kernel is finitely generated via smooth compact fibre, not from normal-subgroup finiteness alone.",
+    "Compact factor: intersect all index<=d subgroups in fg kernel to get characteristic finite-index free abelian Kprime. Contractible M makes each fibre pi1 equal Kprime and lifted fibre simply connected. Integral H1 local systems embed saturated via actual common resolution. Normal projective Albanese has finite kernel on H1; torsionfree Kprime upgrades to integral iso. No rational-singularity assumption.",
+    "Relative Albanese is torsor, not chosen global origin; variation can be nonisotrivial. Fibre maps bundles via KPv2Th20 require entire semialgebraic universal pullback; homotopy pi1 iso plus torus pi2=0 gives connected simply connected normal projective fibres. Fibrewise flatness Stacks00MP then base-change proper flat j:U->T.",
+    "T universal torus-torsor cover affine with vector partE over contractible Stein M. CartanH1 kills translation cocycle, Oka trivializesE -> M*C^a without claiming original tori isotrivial. Gamma proper onT follows compact j preimages; finite stabilizers/kernel allowed.",
+    "Closed-invariant rigidity: T~R^b proper cocompact smooth countable group action, A closed invariant finite-CW homotopy. Ordered locally finite translated homotopies give bounded-distance proper retraction and controlled proper homotopy; one-point compactification degree contradiction excludes missing point. Does not require quotient to be a covering.",
+    "Chow fibre space: fixed dimension/degree integral cycles contained entirely inU are exactly whole j fibres (Stein base). Continuous analytic cycle map plus transverse intersection proves inverse continuity. Semialgebraic via universal incidence/QE, no smooth compactification needed.",
+    "Polarized locus: graph degree int(k c1L+c1AZ)^n constant from cycle integration despite L not extending to compactification. Graph incidence first-order bijective/injective + normality yields isomorphisms. c1 of evaluation-pullback L constant on finitely many connected semialgebraic components. For simply connected normal projectiveF, Pic0 compact vector group=0 so integral c1 injective; no definable L assumed.",
+    "Each polarized isomorphism class invariant semialgebraic; closure finite-CW plus rigidity -> dense. Two disjoint dense semialgebraic classes impossible. Relative Hilbert orbit and reduced base yield local products even singular fibres; Oka principal stabilizer bundle over contractible SteinT gives U=T*F. Converse uses Borel orbit semialgebraicity, no algebraic deck requirement.",
+    "Quasiprojective refinement separately invokes OpenAI logabundance zero-boundary -> smooth abundance premise -> CHKfinite-etale abelian-base holomorphic bundle. General infinite cover asserted only pullback direction, not all converse directions. C^n universal-cover smooth projective case forces compact fibre point. External inputs not yet independently checked.",
+    "Actual selected Lean scope: Basic definitions and Main statement match challenge modulo whitespace, finite isotropy retained, connected means nonempty. No-free/projective quotient hypotheses. Source endpoint uses axis/negative isotropy rather than named Vey black box; complete scope chain not audited. Static335file/1982declaration index has zero lexical placeholder/axiom but is not a build or full proof reading."
+  ],
+  "next_read": [
+    "WP095 current-source work complete;do not reread whole bodies or redownload4selected historicalworks",
+    "WP096 qualify APP05801 actualconsumer/exactoriginalfamilyjudge/suppliedcertificates andcompletecost before any separately frozen experiment",
+    "Fullhistory,formalimportproof,human andsecondprovider gaps remain;current-source completion is not whole-family acceptance"
+  ],
+  "not_executed": [
+    "Lean build",
+    "Comparator",
+    "full imported proof reading",
+    "canonical graph/result/method curation",
+    "application candidate test",
+    "numerical experiment",
+    "human specification or grading",
+    "second-provider review",
+    "GitHub push"
+  ],
+  "saved_at": "2026-10-23T02:17:06.400798+00:00",
+  "include_closure_receipt": {
+    "path": "reports/reproducibility/20261022-semialgebraic-reading/include-closure.json.gz",
+    "raw_sha256": "813a82e50ab631343896f7e823f428ffe7259aef855a73832dbfa41f5a09d6b3",
+    "raw_bytes": 11886,
+    "gzip_bytes": 1671,
+    "decompressed_verified": true
+  },
+  "natural_source_body_read_complete": true,
+  "formal_selected_actual_read": [
+    {
+      "path": "math/lean/docs/058.md",
+      "sha256": "c8a667c7631f5a333fc267c1aaf207eedcdcf411fbd4d7e84d070117bd12664a",
+      "lines": 17,
+      "body_read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SymmetricDomains.json",
+      "sha256": "1acb77b2abcbf8d8889a0ae36f2c9c09a3a86922181de832a38d67e315e2ec06",
+      "lines": 14,
+      "body_read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/SymmetricDomains.lean",
+      "sha256": "2d838d21d7431014cea2d5af5bc4b64121075333c5833b4cfc5efb73c4a1f1ce",
+      "lines": 62,
+      "body_read_ranges": [
+        [
+          1,
+          62
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Analysis/SymmetricDomains/Basic.lean",
+      "sha256": "56f730d56e16dce93377b44c13d0f314c6bec7e565d57e5d8abd752972840e42",
+      "lines": 228,
+      "body_read_ranges": [
+        [
+          1,
+          228
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Analysis/SymmetricDomains/Model.lean",
+      "sha256": "97e6135fb03571851a455d2748cc289433a64376997c014fb3d750c90cfb4369",
+      "lines": 120,
+      "body_read_ranges": [
+        [
+          1,
+          120
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Analysis/SymmetricDomains/Main.lean",
+      "sha256": "5282d167e823ba9afe35533f8c1390433e57e5dd9de7c242e77766fdc40e5c00",
+      "lines": 92,
+      "body_read_ranges": [
+        [
+          1,
+          92
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Analysis/SymmetricDomains/DivisibleHermitianModel.lean",
+      "sha256": "f487eccaca642a91059a8a006247b31a552d5ec27e46256efea2791c1e9a2df2",
+      "lines": 110,
+      "body_read_ranges": [
+        [
+          1,
+          110
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Analysis/SymmetricDomains/HermitianModelSymmetric.lean",
+      "sha256": "9e0930db968d2cf890f278190bbacba882b816d8cd859cdeec443204fcb2ac78",
+      "lines": 140,
+      "body_read_ranges": [
+        [
+          1,
+          140
+        ]
+      ],
+      "fully_read": true
+    }
+  ],
+  "formal_selected_scope": {
+    "challenge_definition_block_matches_basic_ignoring_whitespace": true,
+    "main_statement_matches_challenge_ignoring_whitespace": true,
+    "registered_theorem": "OAI.Release061.main",
+    "covers": "Bounded-domain symmetry manuscript only, including finite stabilizers and singular reduced affine ambient",
+    "does_not_establish": "Universal-cover classification or complete imported proof agreement; no Lean/Comparator/human run",
+    "selected_endpoint_observation": "main_point handles singleton; otherwise original_divisible_hermitian_model plus hermitian_model_bounded_symmetric. Formal symmetry uses negative-isotropy and axis normalization; natural manuscript invokes Vey. Do not call these identical line-by-line arguments.",
+    "static_index": "reports/reproducibility/20261022-semialgebraic-reading/lean-static-import-index.json.gz",
+    "static_local_files": 335,
+    "static_declarations": 1982,
+    "lexical_placeholders": 0,
+    "lexical_local_axioms": 0,
+    "actual_read_all_335_files": false,
+    "local_build": "not_run",
+    "comparator": "not_run",
+    "human_specification_review": "missing",
+    "source_grade_not_yet_promoted_to_canonical": true
+  },
+  "required_external_companion_mapping": [
+    {
+      "manuscript_id": "P-3ce919f2014b379a",
+      "family_id": "F-057",
+      "path": "math/preprints/The-abelianity-conjecture-for-special-compact-Kahler-manifolds-September-23-2026/paper.pdf",
+      "sha256": "dfbf9ad2335b9d20dedd8a2ae527ebb45b74155a976acc6d284dd851144e22b8",
+      "role": "Main classification group input: entire ordinary fundamental group of smooth compact special Kahler manifold virtually abelian",
+      "actual_body_read": false,
+      "proof_verified": false,
+      "full_chain_credibility": "unknown"
+    },
+    {
+      "manuscript_id": "P-b377a2b00e07188b",
+      "family_id": "F-034",
+      "path": "math/preprints/Log-abundance-in-characteristic-zero-September-24-2026/paper.pdf",
+      "sha256": "87b191f75e8c852683847be18fb99e2a226e11e55967624c8d2bbba41c509be0",
+      "role": "Quasi-projective refinement only: zero-boundary smooth abundance premise",
+      "actual_body_read": false,
+      "proof_verified": false,
+      "full_chain_credibility": "unknown"
+    }
+  ],
+  "version_observations": {
+    "local_upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+    "local_path_history": "Both manuscript directories show only adc7f1241 initial commit 2026-10-06 in bounded local git log",
+    "catalogue_reconciliation": "Both exact paths unchanged between recorded historical/current catalogue;no withdrawal in pinned current manuscript registration",
+    "scope_limit": "Not full remote history,priority or all prior-draft proof audit",
+    "full_lineage_complete": false
+  },
+  "original_history_scope_ledger": "data/provenance/readings/F-058-history.json",
+  "pixel_inspections": [
+    {
+      "name": "U-main",
+      "source": "P-c3639a0ea6ca2516",
+      "pdf_page": 1,
+      "sha256": "5dd8f6ec8414ec3c3fc0a8553c54774bf70029a40158f44863ef90bb22594b74",
+      "bytes": 247600,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "U-figure",
+      "source": "P-c3639a0ea6ca2516",
+      "pdf_page": 5,
+      "sha256": "7354c6bc32b86c04fd76f250d526545e29014f3ce9576be6ede91b423979a416",
+      "bytes": 258734,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "B-main",
+      "source": "P-797062f12750f925",
+      "pdf_page": 1,
+      "sha256": "2ec6dc9678ce88b6d9e623d435ba3a539dcf12cd588911c6ebe5f6aae7bbfef7",
+      "bytes": 239891,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "B-figure",
+      "source": "P-797062f12750f925",
+      "pdf_page": 4,
+      "sha256": "f9a0c2a9200baa782fc2862846172384fbc1ac814cbd19db5eb3af53f4820419",
+      "bytes": 219394,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "Vey-p479",
+      "source": "Vey1970",
+      "pdf_page": 2,
+      "sha256": "fb5338484836a891cdeb3860df1eeb6d5ff8f7dfc00c49a568b90ff41c3560ed",
+      "bytes": 205458,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "KP-p10",
+      "source": "KollarPardon2012",
+      "pdf_page": 10,
+      "sha256": "e5cde3d1edd803637e355dae55171ca9bb2c62d5a7ea2fa5e4518d91437abfc9",
+      "bytes": 279510,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "CHK-p12",
+      "source": "ClaudonHoeringKollar2013",
+      "pdf_page": 12,
+      "sha256": "cee3fd27f1a7389f82442aa16df8dc1683cf97698f409ad302e111059c4daac3",
+      "bytes": 263041,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "FW-p6",
+      "source": "FarbWeinberger2008",
+      "pdf_page": 6,
+      "sha256": "dabed646758194918f59047b0c7938853557d3f7afa5e24959fcd04a37b30538",
+      "bytes": 263907,
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "pending_statement_index": {
+    "path": "state/reading-progress/F-058-pending-index.json.gz",
+    "raw_sha256": "a74ed3056701f3a1ebfd2617b93f997fedb48a54124c8a755630a9da85c2b757",
+    "gzip_bytes": 5205,
+    "qualified_results": 73,
+    "manual_contracts_complete": false
+  },
+  "history_quality_receipt": "reports/reproducibility/20261022-semialgebraic-reading/history-quality-summary.json.gz",
+  "manual_contract_draft": {
+    "path": "state/reading-progress/F-058-contract-draft.json.gz",
+    "raw_sha256": "82e8427093f91a8ac384e5027ab41b325ca7e2c1b419c3a2827007b9549c2b1f",
+    "qualified_results": 73,
+    "methods": 20,
+    "canonical_graph_inserted": true,
+    "coverage_promoted": true,
+    "writer_path": "reports/reproducibility/20261022-semialgebraic-reading/manual-contract-writer.py.gz",
+    "writer_raw_sha256": "26dc673340b4b18f7a2cf1d5b74b1d56e724a59d15b87697082f4eeb46073099",
+    "promoted_generation": "GEN-20261022-092",
+    "note": "Referenced compressed draft remains immutable historical staging record;current canonical ledger above controls facts"
+  },
+  "candidate_draft": {
+    "path": "state/reading-progress/F-058-candidate-draft.json.gz",
+    "raw_sha256": "ff7f5e898558484ffbdda067b9181d120cff2bc48ceee00adab7dcc1518ce26f",
+    "gzip_bytes": 2406
+  },
+  "isolated_same_provider_opinions": {
+    "path": "state/reading-progress/F-058-agent-opinions.json.gz",
+    "raw_sha256": "e001807331f4a48f9e7762abee914ac6af7888e4eaa49bbeb20bf318bfdb8660",
+    "gzip_bytes": 3685
+  },
+  "exploration_draft": {
+    "path": "state/reading-progress/F-058-exploration-draft.json.gz",
+    "raw_sha256": "1f862e77f19c851b788f25a612c3a1221af1cc5590e21acf77260fe04fddad2e",
+    "gzip_bytes": 1927
+  },
+  "canonical_new_candidates": 1,
+  "exact_agent_receipts": {
+    "path": "state/reading-progress/F-058-agent-exact-receipts.json.gz",
+    "raw_sha256": "6018a6277e6ac6b7dfd246eeac90fb87c93559a1974aaf3a52e45a07f77bef16",
+    "gzip_bytes": 8693,
+    "actual_dispatch_and_received_content": true
+  },
+  "completed_at": "2026-10-23T02:17:06.400798+00:00",
+  "full_source_completed": true,
+  "historical_lineage_complete": false,
+  "canonical_generation": "GEN-20261022-092",
+  "canonical_ledger": "data/provenance/readings/F-058.json",
+  "quality_receipt": {
+    "path": "reports/reproducibility/20261022-semialgebraic-canonical/quality-summary.json.gz",
+    "raw_sha256": "765717180cbeafe22bb17dc7dcadace3472f6686bfb5766ffd97f4396c7797fa",
+    "gzip_bytes": 909
+  }
+}

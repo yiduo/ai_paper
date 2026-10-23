@@ -1,0 +1,16 @@
+{
+  "new_canonical_nodes": 11,
+  "revised_nodes": [
+    "APP-273-01"
+  ],
+  "old_other_nodes_exact": 3864,
+  "old_edges_exact": true,
+  "new_explicit_edges": 15,
+  "hypothesis_and_frozen_plan_unchanged": true,
+  "new_candidate_count": 0,
+  "new_initial_check_count": 0,
+  "new_numerical_run": false,
+  "selected_software_archive_gzip_bytes": 15716,
+  "selected_member_count": 9,
+  "actual_source_body_lines": 1155
+}

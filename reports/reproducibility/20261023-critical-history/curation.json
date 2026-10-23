@@ -1,0 +1,50 @@
+{
+  "at": "2026-10-23T04:56:20.945145+00:00",
+  "generation": "GEN-20261023-097",
+  "new_records": 14,
+  "new_ids": [
+    "GEN-20261023-097",
+    "OLD-196-LT-WEIGHTED-SEPARATOR",
+    "OLD-196-LT-UNWEIGHTED-SEPARATOR",
+    "PART-196-LT-LEVEL-CYCLE",
+    "OLD-196-HATCHER-HOMOLOGICAL-WHITEHEAD",
+    "OLD-196-HATCHER-CW-HEP",
+    "OLD-196-HATCHER-RELATIVE-EQUIVALENCE",
+    "OLD-196-HATCHER-HUREWICZ",
+    "OLD-196-HATCHER-HUREWICZ-MAP",
+    "OLD-196-BROWN-FINITE-RESOLUTION-VANISHING",
+    "PART-196-RESOLUTION-DIMENSION-GATE",
+    "CHECK-196-BROWN-COMPARISON-UNREAD",
+    "CHECK-196-HUREWICZ-SPECIALIZATION",
+    "XPL-196-CRITICAL-HISTORY"
+  ],
+  "new_explicit_edges": 56,
+  "updated_with_exact_priors": [
+    "LIT-196-LIPTONTARJAN1979",
+    "LIT-200-00F68475E7",
+    "LIT-196-BROWN1982",
+    "ANALYSIS-F-196"
+  ],
+  "old_other_records_exact": 4188,
+  "old_edges_prefix_exact": true,
+  "actual_original_works": 3,
+  "PDFs": 5,
+  "download_bytes": 3115137,
+  "actual_pixels": 13,
+  "required_scope_keys_added": 2,
+  "Brown_required_comparison_still_unread": true,
+  "original_WP099_ledger_unchanged": true,
+  "no_candidate_or_experiment_added": true,
+  "validation": {
+    "nodes": 6884,
+    "research_nodes": 4202,
+    "edges": 18766,
+    "citations_checked": 7220,
+    "candidate_connections": 43,
+    "externally_checked_cards": 13,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 13,
+    "human_grading_records": 0,
+    "pilots": 0
+  }
+}

@@ -206,3 +206,29 @@ bytes are reused from the existing quota-tree-tools-20261021 archive.
 No solver was installed or executed and no transitive dependency audit
 is claimed. The 2017 GBS paper is cited by version, scope and hash;
 its full text and temporary formula-page images are not redistributed.
+
+Selected four-weight certificate-interface audit (2026-10-22):
+Nine unmodified selected source/documentation/license members are retained
+in data/provenance/tools/fourweight-interfaces-20261022.tar.gz.
+LipSDP, Alex Robey, commit bf01cafe97195330f4eb516d7b3a57247b31c5b3,
+retains its complete MIT notice. CVXPY, original per-file copyright
+Steven Diamond, commit 8280648bd1f70fce701d362de4f58120f940c2f3,
+retains its complete Apache-2.0 license and original source headers.
+These materials retain their terms,are not relicensed or imported into
+this runtime,and were not executed. Only the ledger-listed files and
+original LipSDP v2 scopes were reviewed;other branches and dependencies
+are not thereby validated. The original paper HTML and publisher access
+page are referenced by selected scope/URL/hash as available;fulltexts
+are not redistributed. No solver,training stack or dataset was installed.
+
+Selected QEPCAD B interface documents (2026-10-23):
+Nine unmodified documents, regression inputs and the complete original
+license are retained in
+data/provenance/tools/qepcad-selected-0f570797-20261023.tar.gz.
+Source: Christopher W. Brown's chriswestbrown/qepcad repository, commit
+0f57079731afb850d0960f2265f00de8b9e213a0. Copyright (c) 1990, 2008,
+Hoon Hong & Chris Brown. These materials retain their original terms;
+see qesource/LICENSE inside the archive. They were read as selected
+interfaces and examples, not installed or executed. External REDLOG,
+RAGlib and paper fulltexts are referenced by exact reading scope and
+available URL/revision/hash, and are not redistributed here.

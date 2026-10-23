@@ -1,0 +1,49 @@
+{
+  "work_package": "WP-102",
+  "started_at": "2026-10-23T05:41:17.876897+00:00",
+  "status": "completed_source_qualification",
+  "base_commit": "b259dc91163b05ebc87f50d835987b3487630507",
+  "original_scope": {
+    "id": "WP-102",
+    "priority": 1,
+    "status": "in_progress",
+    "parent_task": "WP-006",
+    "objective": "Bounded qualification of actual consumers and complete finite inputs for F198 three-column rectification, against strong old homotopy/bar strictification",
+    "selection_reason": "Retro036 distinguishes a usable finite proof component from the unsupplied final F196/F198 algebra constructors. Two full-source drafts plus classical scopes added no application checks. Test actual demand now without assuming absence of complete final matrices rules out all components. Old Keller/bar strictification may already be equivalent.",
+    "inputs": [
+      "F-198",
+      "CLM-198-LEM-RECTIFICATION",
+      "data/provenance/readings/F-198.json",
+      "reports/finitistic-F198-reading.md",
+      "reports/retrospectives/036-fixed-objects-and-finite-components.md"
+    ],
+    "resource_limit": "At most three public primary software projects; candidates QPA, Sage and Kenzo are unverified investigation choices only. <=8MiB downloads, normal TLS, no installs/cache/upstream copies. Reuse exact existing source facts; preserve failures. No numerical/symbolic output before separate preregistration.",
+    "acceptance": "Inspect actual code/documentation and real callers. Require bounded finite right-B complexes, chain maps f, degree-minus-one homotopies h, complete independent quadratic relation basis, no longer paths/overlaps and independently meaningful output. Match the old baseline on identical input/output semantics and charge all construction, homotopy and denominator costs. Record partial matches without false absence claims. Canonical version/source/FK/grades/gates/impact/full-graph/export/core/no-math QA. Any actual new hypothesis needs isolated skeptic/defender roles and separate preregistration before output.",
+    "stop_or_redirect": "Stop after three projects. If no admitted actual caller or old construction already suffices, record bounded result and keep conditional ideas; do not invent consumers, lower standards or count d-squared unit checks as an application gain. WP103 preserves a different subject or unfinished-family reading slot; decide its exact object from new evidence.",
+    "created_at": "2026-10-23T05:37:47.538904+00:00",
+    "retrospective_due": "WP102–104 then globalretro037; major evidence or two packages without information earlier",
+    "started_at": "2026-10-23T05:41:17.876897+00:00",
+    "execution_journal": "state/reading-progress/WP-102.json"
+  },
+  "downloaded_bytes": 0,
+  "project_scopes": [],
+  "numeric_or_symbolic_run": false,
+  "github_push": false,
+  "at": "2026-10-23T05:59:24.855467+00:00",
+  "completed_at": "2026-10-23T05:59:24.855467+00:00",
+  "evidence": [
+    "data/provenance/demand/F-198-rectification-contracts.json",
+    "reports/F198-rectification-interface-audit.md",
+    "reports/reproducibility/20261023-rectification"
+  ],
+  "source_files": 8,
+  "selected_source_lines": 2164,
+  "old_original_works": 1,
+  "actual_pixels": 4,
+  "new_records": 15,
+  "new_explicit_edges": 38,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "next_action": "WP103 F304 actualbody/formal/historyreading;README/inventory only sofar",
+  "runtime_invocations": false
+}

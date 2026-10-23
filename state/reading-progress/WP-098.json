@@ -1,0 +1,46 @@
+{
+  "work_package": "WP-098",
+  "at": "2026-10-23T03:48:22.590184+00:00",
+  "status": "completed_bounded_qualification_no_admission",
+  "source_ids": [
+    "APP-256-01"
+  ],
+  "scope": "Bounded3primaryprojects GAP/SageMath/KBMAG;actualsource semantics not titles",
+  "download_limit_bytes": 8388608,
+  "new_download_bytes": 1256208,
+  "new_experiment": false,
+  "github_push": false,
+  "previous_goal_turn": "progress verified local6106f34 and live source/QA receipts",
+  "updated_at": "2026-10-23T04:13:59.991451+00:00",
+  "source_ledger": "data/provenance/demand/F-256-group-presentation-contracts-v2.json",
+  "selected_source_files": 8,
+  "selected_source_lines": 1691,
+  "primary_project_commits": {
+    "gap-system/gap": {
+      "branch_observed": "master",
+      "commit": "4186b9566092fbe12cc34c41872d78a5c68017a8",
+      "commit_date": "2026-10-23T00:12:26Z",
+      "commit_url": "https://github.com/gap-system/gap/commit/4186b9566092fbe12cc34c41872d78a5c68017a8"
+    },
+    "sagemath/sage": {
+      "branch_observed": "develop",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "commit_date": "2026-10-22T21:45:45Z",
+      "commit_url": "https://github.com/sagemath/sage/commit/601df58edafe95f68597b9dec61e0a75adca8983"
+    },
+    "gap-packages/kbmag": {
+      "branch_observed": "master",
+      "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+      "commit_date": "2026-10-01T20:18:45Z",
+      "commit_url": "https://github.com/gap-packages/kbmag/commit/82d1c1bea633485d2415df73b6d93ddddb97f721"
+    }
+  },
+  "canonical_new_records": 12,
+  "canonical_new_explicit_edges": 35,
+  "prior_versions_retained": true,
+  "candidate_prediction_plan_runs_unchanged": true,
+  "exact_guard_caller_admitted": false,
+  "guard_implementation": false,
+  "quality": "reports/reproducibility/20261023-group-guard",
+  "remaining": "No actual exactguardbatch/independentembeddingjudge/fullcost;retainconditionalcandidate. Globalretro035 redirects nextpackage;human/provider remain deferred."
+}

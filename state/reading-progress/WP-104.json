@@ -1,0 +1,27 @@
+{
+  "work_package": "WP-104",
+  "at": "2026-10-23T07:01:54.189206+00:00",
+  "started_at": "2026-10-23T06:44:04.927349+00:00",
+  "status": "completed_source_qualification",
+  "base_commit": "4c33ac0571651343491d97763e8c1cdf355f0d4c",
+  "projects_cap": 3,
+  "download_cap": 8388608,
+  "numeric_or_symbolic_run": false,
+  "github_push": false,
+  "next_action": "WP105 F174 currentbody/formal/history;README/inventory only;retro037done",
+  "completed_at": "2026-10-23T07:01:54.189206+00:00",
+  "evidence": [
+    "data/provenance/demand/F-304-annihilator-contracts.json",
+    "reports/F304-annihilator-interface-audit.md",
+    "reports/reproducibility/20261023-annihilator",
+    "reports/retrospectives/037-certificate-output-and-coverage.md"
+  ],
+  "source_files": 6,
+  "selected_source_lines": 1597,
+  "source_body_projects": 2,
+  "docs_only_projects": 1,
+  "new_records": 13,
+  "new_explicit_edges": 31,
+  "new_candidates": 0,
+  "new_initial_checks": 0
+}

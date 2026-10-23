@@ -1,0 +1,58 @@
+{
+  "at": "2026-10-23T04:02:31.795338+00:00",
+  "generation": "GEN-20261023-095",
+  "new_records": 12,
+  "new_record_ids": [
+    "GEN-20261023-095",
+    "LIT-256-GAP-FP-INTERFACE",
+    "LIT-256-SAGE-FP-INTERFACE",
+    "LIT-256-KBMAG-FP-INTERFACE",
+    "PART-256-RELATIVE-PRESENTATION-GATE",
+    "PART-256-MAP-IDENTITY-GATE",
+    "PART-256-EMBEDDING-JUDGE-GATE",
+    "PART-256-GROUP-FULL-COST-GATE",
+    "CHECK-256-CALLER-GAP",
+    "CHECK-256-CANONICAL-MAP-GAP",
+    "CHECK-256-JUDGE-COST-GAP",
+    "XPL-256-GROUP-GUARD-QUALIFICATION"
+  ],
+  "new_explicit_edges": 35,
+  "old_unchanged_records": 4120,
+  "prior_candidate_archive": "data/graph/history/GEN095-APP25601-before.json.gz",
+  "original_candidate_fields_preserved": true,
+  "source_selected_files": 8,
+  "source_selected_read_lines": 1691,
+  "unused_downloaded_files_no_body_read": 2,
+  "download_bytes": 1256208,
+  "old_edges_exact": true,
+  "validation": {
+    "nodes": 6766,
+    "research_nodes": 4129,
+    "edges": 18335,
+    "citations_checked": 7037,
+    "candidate_connections": 43,
+    "externally_checked_cards": 13,
+    "effective_leads": 5,
+    "distinct_validation_hypotheses": 13,
+    "human_grading_records": 0,
+    "pilots": 0
+  },
+  "no_runtime_experiment": true,
+  "github_push": false,
+  "source_ledger": "data/provenance/demand/F-256-group-presentation-contracts-v2.json",
+  "source_locator_repair": {
+    "at": "2026-10-23T04:04:34.633148+00:00",
+    "reason": "The published C5/C12 example was assigned lines1378-1391,which belong to following example. Numbered pinned source confirms correct scope1359-1369. No relators,rank interpretation,admission status or prediction changed. Clarify no install/invocation performed by WP098,not global absence of Sage.",
+    "old_example_lines": [
+      1378,
+      1391
+    ],
+    "correct_example_lines": [
+      1359,
+      1369
+    ]
+  },
+  "prior_version_batch_archive": "data/graph/history/GEN095-before-example-locator-correction.json.gz",
+  "updated_record_versions": 13,
+  "old_source_ledger_unchanged": true
+}

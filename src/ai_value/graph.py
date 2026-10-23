@@ -248,6 +248,17 @@ def validate(root: Path) -> dict:
             references = prop['result_ids_by_label'].values()
             if any(ref not in nodes for ref in references):
                 raise ValueError('Family decomposition references a missing result')
+            unlabelled = prop.get('unlabelled_result_ids', [])
+            if len(unlabelled) != len(set(unlabelled)) or set(unlabelled) & set(references):
+                raise ValueError('Duplicate labelled or unlabelled source result')
+            for ref in unlabelled:
+                if ref not in nodes or nodes[ref]['kind'] != 'claim':
+                    raise ValueError('Unlabelled source result must reference a claim')
+                if prop['family_id'] not in nodes[ref]['properties'].get('family_ids', []):
+                    raise ValueError('Unlabelled source result belongs to another family')
+                if not any(source.get('path') in prop['source_sections']
+                           for source in nodes[ref]['sources']):
+                    raise ValueError('Unlabelled source result has no declared source module')
             if prop.get('full_family_complete') and not prop.get('historical_lineage_complete'):
                 raise ValueError('Complete family cannot omit historical lineage')
             if prop.get('source_decomposition_draft_complete') or prop.get('manuscript_source_drafts_complete_ids'):

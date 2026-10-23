@@ -1,0 +1,44 @@
+{
+  "connection_id": "APP-304-01",
+  "version": 1,
+  "created_at": "2026-10-23T06:27:56.352774+00:00",
+  "status": "conditional_plan_not_preregistered",
+  "scientific_run": false,
+  "actual_consumer_identified": false,
+  "input": "Ten exact integer presentations Zi/imRi;8row matrices,5comparison matrices,well-definedness/commutativity certificates,exactness at internal3terms in eachrow,common positive integral annihilator q for all4outer kernels/cokernels,usable constructive lifts if output needs witnesses.",
+  "output": "Sufficient common q^3 annihilator plus verified inference trace for middle kernel/cokernel;not minimal exponent,invariant factors,generators or an explicit inverse.",
+  "falsifiable_prediction": "For a frozen real repeated workload accepting a coarse certificate,optional chase-first route reduces end-to-end cost relative to strongest same-output old method at unchanged correctness;numeric improvement threshold and resources must be fixed with actualcaller before any outputs.",
+  "entry_gates": [
+    "Locate inspectable public consumer accepting coarse annihilation only",
+    "Freeze complete actual diagrams,presentation and input provenance,q discovery and certificate construction",
+    "Freeze independent exact judge,strong old implementations and cached reuse policy",
+    "Preregister dataset/holdout/threshold/resources before scientific outputs"
+  ],
+  "baselines": [
+    "Optimized cached SNF with certified input/output",
+    "Target-specific HNF/lattice membership or integer solve for same query",
+    "Existing quantitative five lemma/chase,same certificates and separate outer annihilator products instead of unnecessarily commonq^3",
+    "Existing caller precheck/fallback,all failed new attempts charged"
+  ],
+  "full_cost": [
+    "Parsing and group normalization",
+    "Well-definedness,commutativity and exactness certificate acquisition and verification",
+    "Four outer-map analyses,q discovery,constructive lifts",
+    "Middle inference and independent exact verification",
+    "Coefficient/intermediate/q/output bit lengths,serialization,peak memory",
+    "One-shot and amortized batch totals,equal reuse for old methods",
+    "Downstream cost of loose exponents and fallback/refinement"
+  ],
+  "controls": [
+    "q1 isomorphism control",
+    "Separate small annihilators versus large commonq",
+    "Sparse/dense,torsion/free,large coefficients",
+    "Repeated nested chases and exponent growth",
+    "Invalid premise rejection",
+    "Warm-cache and one-shot cases"
+  ],
+  "stop_rule": "Bounded publiccaller search fails or old same-output chase already equivalent:retain pending and switch,do not manufacture workload or formula QA as application efficacy.",
+  "reproducibility": "Future real run requires separate immutable executable spec;gzip all rawoutputs/data/source,verify decompressed SHA256 before plaintext cleanup.",
+  "model_roles": "data/provenance/reviews/APP-304-01-isolated-roles.json.gz",
+  "human_and_second_provider": "missing,deferred not waived"
+}

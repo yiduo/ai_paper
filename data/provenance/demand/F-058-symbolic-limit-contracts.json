@@ -1,0 +1,412 @@
+{
+  "work_package": "WP-096",
+  "generation_id": "GEN-20261023-093",
+  "recorded_at": "2026-10-23T02:40:34.816281+00:00",
+  "project_base_commit": "842a129",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "candidate_id": "APP-058-01",
+  "source_projects_budget": 3,
+  "source_projects_examined": [
+    "REDLOG",
+    "QEPCAD B",
+    "RAGlib,including a documented paper consumer"
+  ],
+  "download_limit_bytes": 10485760,
+  "download_total_bytes": 921020,
+  "acquisition_receipts": [
+    {
+      "name": "qepcad-commit.json",
+      "url": "https://api.github.com/repos/chriswestbrown/qepcad/commits/master",
+      "at": "2026-10-23T02:32:00.894007+00:00",
+      "final_url": "https://api.github.com/repos/chriswestbrown/qepcad/commits/master",
+      "status": 200,
+      "bytes": 17162,
+      "sha256": "107261bf9fe8cc42a42b5cca8de0a0f5a248b79152059db9164bc610fc3f1c8c"
+    },
+    {
+      "name": "qepcad-tree.json",
+      "url": "https://api.github.com/repos/chriswestbrown/qepcad/git/trees/0f57079731afb850d0960f2265f00de8b9e213a0?recursive=1",
+      "at": "2026-10-23T02:32:02.578810+00:00",
+      "final_url": "https://api.github.com/repos/chriswestbrown/qepcad/git/trees/0f57079731afb850d0960f2265f00de8b9e213a0?recursive=1",
+      "status": 200,
+      "bytes": 254372,
+      "sha256": "b9bf39cd78f1e8c6f566c7a5e850c60538acbdd35960ff5e262dbdf0885620f6"
+    },
+    {
+      "name": "redlog-rlqe.html",
+      "url": "https://www.redlog.eu/documentation/service.php?key=rlqe",
+      "at": "2026-10-23T02:32:05.026552+00:00",
+      "final_url": "https://www.redlog.eu/documentation/service.php?key=rlqe",
+      "status": 200,
+      "bytes": 37,
+      "sha256": "a37957b97f6c968915b28515c137de806596814e1e71caf2126729505376eaba"
+    },
+    {
+      "name": "redlog-rlgqe.html",
+      "url": "https://www.redlog.eu/documentation/service.php?key=rlgqe",
+      "at": "2026-10-23T02:32:07.434113+00:00",
+      "final_url": "https://www.redlog.eu/documentation/service.php?key=rlgqe",
+      "status": 200,
+      "bytes": 37,
+      "sha256": "a37957b97f6c968915b28515c137de806596814e1e71caf2126729505376eaba"
+    },
+    {
+      "name": "redlog-manual.pdf",
+      "url": "https://andreasseidl.com/publications/DSS04b.pdf",
+      "at": "2026-10-23T02:32:09.823618+00:00",
+      "error": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'andreasseidl.com'. (_ssl.c:1129)>"
+    },
+    {
+      "name": "raglib-home.html",
+      "url": "https://safey.perso.lip6.fr/RAGLib/",
+      "at": "2026-10-23T02:32:11.210487+00:00",
+      "error": "URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+    },
+    {
+      "name": "raglib-distribution.html",
+      "url": "https://perso.lip6.fr/Mohab.Safey/RAGLib/distrib.html",
+      "at": "2026-10-23T02:32:36.231948+00:00",
+      "error": "URLError: <urlopen error _ssl.c:1112: The handshake operation timed out>"
+    },
+    {
+      "name": "gaillard-safey-v2.html",
+      "url": "https://arxiv.org/html/2402.07782v2",
+      "at": "2026-10-23T02:33:01.255356+00:00",
+      "final_url": "https://arxiv.org/html/2402.07782v2",
+      "status": 200,
+      "bytes": 622114,
+      "sha256": "6d58a315b6a9928da7d77b010f0590e4bc9b71bb223fb1ffacb1efa25f4e652d"
+    },
+    {
+      "name": "qepcad-README",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/README",
+      "at": "2026-10-23T02:33:38.293843+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/README",
+      "status": 200,
+      "bytes": 2138,
+      "sha256": "4f382b7111b33d0f46225c8772993937c1c5694c1382acafd53a10d8f021fc68"
+    },
+    {
+      "name": "qepcad-qesource__README",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/README",
+      "at": "2026-10-23T02:33:39.514120+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/README",
+      "status": 200,
+      "bytes": 3057,
+      "sha256": "1fc81c05ab32704e12ff571f966a4a66845c134a51a0bd116613b2f46d811cf2"
+    },
+    {
+      "name": "qepcad-qesource__LICENSE",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/LICENSE",
+      "at": "2026-10-23T02:33:41.166371+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/LICENSE",
+      "status": 200,
+      "bytes": 830,
+      "sha256": "f057228858e7fd30c9debdc1d1b7c9c1c5995fa8c72e474fd5776f3fa4327380"
+    },
+    {
+      "name": "qepcad-public_html__B__user__EnterForm.html",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/EnterForm.html",
+      "at": "2026-10-23T02:33:42.279054+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/EnterForm.html",
+      "status": 200,
+      "bytes": 5644,
+      "sha256": "ec82dcf7caa75ff003cb691a2a7df55c37e80ecf4f98a505c8a5c776cfede007"
+    },
+    {
+      "name": "qepcad-public_html__B__user__Solution.html",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Solution.html",
+      "at": "2026-10-23T02:33:43.675728+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Solution.html",
+      "status": 200,
+      "bytes": 5693,
+      "sha256": "c6d576c8a1c9b0a04ae6d09d5858332a36b8bbd7a93874aae1c4215160af5183"
+    },
+    {
+      "name": "qepcad-public_html__B__user__Projection.html",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Projection.html",
+      "at": "2026-10-23T02:33:44.935515+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Projection.html",
+      "status": 200,
+      "bytes": 4372,
+      "sha256": "e0e01f17efb386b34f236b1f00ae0485084c5a53309316804733685d24360d70"
+    },
+    {
+      "name": "qepcad-public_html__B__user__Lifting.html",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Lifting.html",
+      "at": "2026-10-23T02:33:46.129552+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Lifting.html",
+      "status": 200,
+      "bytes": 1935,
+      "sha256": "d49b287e39d835ef444cb61517431aebf0532aaa5a9602650d41ca86cf51c611"
+    },
+    {
+      "name": "qepcad-regressiontests__README",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/README",
+      "at": "2026-10-23T02:33:47.186467+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/README",
+      "status": 200,
+      "bytes": 1666,
+      "sha256": "542c433cb4830bbe608e01752d9b5dcd0dadbb3f834c8456105b2e30af84d1b5"
+    },
+    {
+      "name": "qepcad-regressiontests__applicationTestSet",
+      "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/applicationTestSet",
+      "at": "2026-10-23T02:33:48.522052+00:00",
+      "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/applicationTestSet",
+      "status": 200,
+      "bytes": 1963,
+      "sha256": "96f0f990906a3d2a83dac5a149de2a217cf4be7baccf842777f2cc529aac1c4e"
+    }
+  ],
+  "retained_selected_software_documents": {
+    "path": "data/provenance/tools/qepcad-selected-0f570797-20261023.tar.gz",
+    "sha256": "0465b0a8c07db693b0543c5a4dec530163b06fde7aabb76abb145c3bfa7b7b4d",
+    "compressed_bytes": 9994,
+    "members": [
+      {
+        "name": "qepcad-README",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/README",
+        "at": "2026-10-23T02:33:38.293843+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/README",
+        "status": 200,
+        "bytes": 2138,
+        "sha256": "4f382b7111b33d0f46225c8772993937c1c5694c1382acafd53a10d8f021fc68",
+        "archive_member": "README",
+        "raw_lines": 47,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-qesource__README",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/README",
+        "at": "2026-10-23T02:33:39.514120+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/README",
+        "status": 200,
+        "bytes": 3057,
+        "sha256": "1fc81c05ab32704e12ff571f966a4a66845c134a51a0bd116613b2f46d811cf2",
+        "archive_member": "qesource/README",
+        "raw_lines": 86,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-qesource__LICENSE",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/LICENSE",
+        "at": "2026-10-23T02:33:41.166371+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/LICENSE",
+        "status": 200,
+        "bytes": 830,
+        "sha256": "f057228858e7fd30c9debdc1d1b7c9c1c5995fa8c72e474fd5776f3fa4327380",
+        "archive_member": "qesource/LICENSE",
+        "raw_lines": 15,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__EnterForm.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/EnterForm.html",
+        "at": "2026-10-23T02:33:42.279054+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/EnterForm.html",
+        "status": 200,
+        "bytes": 5644,
+        "sha256": "ec82dcf7caa75ff003cb691a2a7df55c37e80ecf4f98a505c8a5c776cfede007",
+        "archive_member": "public_html/B/user/EnterForm.html",
+        "raw_lines": 127,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__Solution.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Solution.html",
+        "at": "2026-10-23T02:33:43.675728+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Solution.html",
+        "status": 200,
+        "bytes": 5693,
+        "sha256": "c6d576c8a1c9b0a04ae6d09d5858332a36b8bbd7a93874aae1c4215160af5183",
+        "archive_member": "public_html/B/user/Solution.html",
+        "raw_lines": 145,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__Projection.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Projection.html",
+        "at": "2026-10-23T02:33:44.935515+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Projection.html",
+        "status": 200,
+        "bytes": 4372,
+        "sha256": "e0e01f17efb386b34f236b1f00ae0485084c5a53309316804733685d24360d70",
+        "archive_member": "public_html/B/user/Projection.html",
+        "raw_lines": 109,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__Lifting.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Lifting.html",
+        "at": "2026-10-23T02:33:46.129552+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Lifting.html",
+        "status": 200,
+        "bytes": 1935,
+        "sha256": "d49b287e39d835ef444cb61517431aebf0532aaa5a9602650d41ca86cf51c611",
+        "archive_member": "public_html/B/user/Lifting.html",
+        "raw_lines": 46,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-regressiontests__README",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/README",
+        "at": "2026-10-23T02:33:47.186467+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/README",
+        "status": 200,
+        "bytes": 1666,
+        "sha256": "542c433cb4830bbe608e01752d9b5dcd0dadbb3f834c8456105b2e30af84d1b5",
+        "archive_member": "regressiontests/README",
+        "raw_lines": 47,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-regressiontests__applicationTestSet",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/applicationTestSet",
+        "at": "2026-10-23T02:33:48.522052+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/applicationTestSet",
+        "status": 200,
+        "bytes": 1963,
+        "sha256": "96f0f990906a3d2a83dac5a149de2a217cf4be7baccf842777f2cc529aac1c4e",
+        "archive_member": "regressiontests/applicationTestSet",
+        "raw_lines": 84,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      }
+    ],
+    "member_roundtrip_sha_verified": true,
+    "license_member": "qesource/LICENSE",
+    "execution": false
+  },
+  "actual_source_scopes": [
+    {
+      "project": "REDLOG",
+      "url": "https://www.redlog.eu/documentation/service.php?key=rlqe",
+      "read": "Full web-tool rendered rlqe body;not local direct body",
+      "local_byte_content_status": "Two direct37byte HTML skeletons are acquisition failures for content;their hashes do not identify documentation prose",
+      "generic_read": "Historical original manual search excerpt,not full body/current implementation",
+      "generic_primary_url": "https://andreasseidl.com/publications/DSS04b.pdf"
+    },
+    {
+      "project": "QEPCAD B",
+      "repository": "https://github.com/chriswestbrown/qepcad",
+      "commit": "0f57079731afb850d0960f2265f00de8b9e213a0",
+      "commit_date": "2021-03-09T17:59:52Z",
+      "selected_documents": 9,
+      "selected_document_raw_lines": 706,
+      "scope": "Full bodies of selected README,input/solution/projection/lifting docs,regression README/application input and license;not C/C++ proof or dependency audit",
+      "actual_application_input_blocks": 7,
+      "binary_run": false
+    },
+    {
+      "project": "RAGlib",
+      "url": "https://safey.perso.lip6.fr/RAGLib/",
+      "distribution_url": "https://perso.lip6.fr/Mohab.Safey/RAGLib/distrib.html",
+      "read": "Both whole web-tool rendered pages,including dated release3.4 and historical interface changes;no local original bytes obtained",
+      "software_version_claim": "Author release-page list only,not latest package/binary verified"
+    },
+    {
+      "project": "RAGlib actual consumer",
+      "url": "https://arxiv.org/html/2402.07782v2",
+      "source_revision": "2402.07782v2(2025-01-24)",
+      "sha256": "6d58a315b6a9928da7d77b010f0590e4bc9b71bb223fb1ffacb1efa25f4e652d",
+      "local_acquired_bytes": 622114,
+      "read": "Introduction including Assumptions1/2,Problem1,Theorem1.1;Section4.2 Lemmas4.7/4.8,Algorithm2,Th4.9 and proof;Section5/Table1/P3P. Not all Sections2,3,4.1,4.3 or full historical proof closure.",
+      "local_fulltext_retention": "Temporary HTML removed after acquisition/hash verification;no full paper redistribution"
+    }
+  ],
+  "findings": [
+    {
+      "id": "full_original_qe",
+      "evidence": "REDLOG rlqe web documentation;QEPCAD pinned EnterForm/Lifting/Solution",
+      "observation": "Existing real-algebra QE accepts quantified polynomial formulas and can return exact quantifier-free sets;for exact algebraic-analytic branches and centre the full moving-witness limit formula is a baseline contract. This is expressibility,not a locally executed independent judge.",
+      "boundary": "Arbitrary analytic coefficients are not thereby rational-polynomial inputs. Preserve branch/domain encodings and every epsilon/delta/witness quantifier;do not reuse the jet adapter in the reference."
+    },
+    {
+      "id": "redlog_modes",
+      "evidence": "https://www.redlog.eu/documentation/service.php?key=rlqe web body actually read;historical manual rlgqe primary search excerpt only",
+      "observation": "rlqe correctness with assumptions is conditional on those assumptions. Virtual substitution has a degree restriction and normally combines with partial CAD;disabling fallback can leave quantifiers. Generic elimination extends assumptions in the historical manual excerpt.",
+      "boundary": "Do not accept residual quantified output as QF or remove exceptional centres by unexamined assumptions. Current rlgqe service body was inaccessible;the author-manual PDF failed hostname verification. No modern generic implementation was audited."
+    },
+    {
+      "id": "qepcad_all_cells",
+      "evidence": "public_html/B/user/Solution.html whole145rawlines,especially115-118;Lifting.html whole46",
+      "observation": "solution-extension T can add projection factors to return a Tarski formula;E returns indexed-root extended language;F deliberately ignores lower-dimensional cells. Lifting documentation describes truth on all cells.",
+      "boundary": "F-mode or sample-point equality alone is not full set equivalence. A comparison through symmetric-difference QE must preserve lower-dimensional and exceptional strata;no such computation was run."
+    },
+    {
+      "id": "qepcad_order_and_retries",
+      "evidence": "EnterForm.html whole127;Projection.html whole109;regressiontests/README whole47;applicationTestSet whole84",
+      "observation": "Variable order,degree,formula splitting and projection choices matter. The projection page explicitly labels itself out of date and describes a possible-error/restart path. Regression README warns textually different formulas may be equivalent. Seven selected regression input blocks use ordinary quantified polynomial formulas.",
+      "boundary": "The pinned repository revision is not a claim to a newly released binary. Historical projection advice is not verified current branch behaviour. Charge order search,retries,solution construction and exact equivalence checking;no solver or regression was executed. F/G quantifiers do not automatically express t approaching zero."
+    },
+    {
+      "id": "raglib_interface",
+      "evidence": "RAGlib author homepage and distribution page,entire web bodies read",
+      "observation": "Documented interfaces decide real feasibility and sample each connected component of polynomial systems. The author distribution page lists release3.4(December2017),Maple/FGb prerequisites and older mixed-system genericity warnings.",
+      "boundary": "The dated release page is not a live installation report or assurance all old genericity restrictions persist in3.4. The selected page does not supply joint-limit or sufficient-jet-order certificates. No Maple/FGb/RAGlib install or execution."
+    },
+    {
+      "id": "actual_root_classification_caller",
+      "evidence": "Gaillard/Safey El Din2402.07782v2 Introduction Assumptions1,2,Problem1,Theorem1.1;Section4.2 Algorithm2/Th4.9/proof;Section5",
+      "observation": "An actual RAGlib consumer samples non-vanishing determinant regions for parametric real-root classification,including camera P3P. Problem1 requires a dense union of regions,not all parameter points. Algorithm2 explicitly excludes w_infinity=0 and minors=0;correctness also assumes a good randomly selected rational basis change.",
+      "boundary": "Generically nonempty finite complex fibres are required;regular-sequence/Assumption2 additionally serve complexity,while the practical implementation says it uses only Assumption1. Do not mistake root counts/chambers or this dense-region output for an exact joint upper-limit set,or claim that all boundary data are supplied."
+    },
+    {
+      "id": "published_cost_not_local_cost",
+      "evidence": "2402.07782v2 Section5,Table1 and P3P paragraphs",
+      "observation": "The authors separately report Hermite matrices,minors,determinants and sample-point times on Xeon6244 with1.5TB RAM. In the general5parameter P3P example,computing sample points outside the discriminant is explicitly a further step.",
+      "boundary": "Published timings concern another algorithm/task/platform,not APP05801 full cost or local replication. Do not call determinant generation full classification or borrow those speedups. Adaptive Puiseux/Newton and certified Taylor remain unimplemented comparison obligations,not measured losers."
+    },
+    {
+      "id": "certificate_and_caller_gap",
+      "evidence": "All three selected projects and original APP05801 conditional plan",
+      "observation": "Within selected primary scopes,no actual caller batch was established that requests the precise moving-witness joint-limit output and provides or budgets discovery/verification of all source slack,fixed-fibre-distance,inverse-scale,remainder and sufficient-order certificates.",
+      "boundary": "This bounded absence is not global nonexistence,formal rejection,source theorem error or a failed performance experiment. No admitted workload,no preregistered experiment and no initial-check credit."
+    }
+  ],
+  "runtime_observation": {
+    "scope": "Current PATH only,not full-machine inventory",
+    "found": {
+      "redcsl": null,
+      "reduce": null,
+      "qepcad": null,
+      "Maple": null,
+      "wolframscript": null
+    },
+    "dependency_installs": 0
+  },
+  "admission": {
+    "related_actual_use_found": true,
+    "exact_joint_limit_caller_admitted": false,
+    "representative_batch_frozen": false,
+    "all_source_certificates_available": false,
+    "certificate_discovery_and_verification_cost_established": false,
+    "independent_full_original_family_judge_executed": false,
+    "adaptive_puiseux_baseline_executed": false,
+    "same_order_certified_taylor_baseline_executed": false,
+    "full_cost_comparison_executed": false,
+    "decision": "not_admitted_after_bounded_qualification"
+  },
+  "hypothesis_and_plan_changed": false,
+  "new_candidate_count": 0,
+  "new_initial_check_count": 0,
+  "new_numerical_or_symbolic_run": false,
+  "human_review": false,
+  "second_provider": false,
+  "full_family_complete": false,
+  "retrieval_limits": [
+    "Initial normal shell DNS unavailable;bounded verified-TLS escalation used.",
+    "USNA direct web403;author public GitHub mirror pinned instead.",
+    "REDLOG37byte HTTP200 skeletons are not full content;rlqe web cache body and historical generic excerpt distinguished.",
+    "Author manual TLS hostname mismatch and web timeout retained;no insecure TLS workaround.",
+    "RAGlib direct TLS handshakes timed out;web primary bodies read,local bytes/hash unknown.",
+    "Paper2402.07782v2 was HTML;no PDF acquisition/render or pixel inspection claimed."
+  ],
+  "decision": "Keep APP05801 near/待定/候选 with original prediction and empty runs;lower immediate implementation priority. Stop at3projects and redirect WP097 to low-coverage group theory F256 complete current natural sources. No global absence or formal否定.",
+  "publication": {
+    "github_write": false,
+    "cadence": "local routine work;meaningful milestone publication batches only",
+    "official_math_excluded": true,
+    "last_verified_public_snapshot": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0"
+  }
+}

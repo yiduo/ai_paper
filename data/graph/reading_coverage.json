@@ -315,6 +315,66 @@
       "Three primaryworks/five selected earlier-version scopes/fivePDFformula pixels;44externalbibliographyworks not complete history",
       "Ten domains/three cross-family count-versus-witness/law comparisons;no new candidate/initial/numerical run",
       "No complete family/lineage/human/second-provider credit"
+    ],
+    "F-139": [
+      "All current12TeX4254lines+254Bib+README actually read;39distinct result statements/1alias,16methods",
+      "Selected main/upper/lower formal endpoint comparison;326file3903decl staticindex,notbuild or fullproofclosure",
+      "4 original works selected scopes,8PDFpixel inspections;23bibliography entries,fullhistory incomplete",
+      "Ten conditional domain maps/3crossfamily boundaries;no candidate or application run promoted"
+    ],
+    "F-058": [
+      "Bothcurrentmanuscripts18TeX6581+571Bib+2README actuallyread;73qualifiedsourcebindings,20methods",
+      "Bounded main only selectedB;72C andfullchainunknown;335file staticimportindexnotbuild",
+      "79bibbindings resolve71externalworks+3internalreferences;4selectedoriginalscopes/8PDFpixels,fullhistoryincomplete",
+      "Ten domain/3crossfamily attempts andoneconditionaljoint-upperlimit candidate;no numericalrun/human/secondprovider"
+    ],
+    "F-256": {
+      "scope": "Bothcurrent14TeX2157lines+109Bib+2READMEs36lines;10results20methods,4originalselectedscopes8pixels and10selectedformalfiles;fullfamily/history/proof/humangates incomplete",
+      "evidence": "data/provenance/readings/F-256.json",
+      "manuscript_ids": [
+        "P-96f3844b49d3a0f7",
+        "P-63f4b2af9a574825"
+      ],
+      "full_family_complete": false
+    },
+    "F-196": {
+      "scope": "Onecurrent8TeX1453+261Bib+README18fullyread;12results19methods,4selectedoldoriginals8pixels;selectedformalmainB/11C/fullchainunknown;noactualmatchingsorbenchmark",
+      "evidence": "data/provenance/readings/F-196.json",
+      "manuscript_ids": [
+        "P-3d6fa1dbaf31b181"
+      ],
+      "full_family_complete": false
+    },
+    "F-198": {
+      "scope": "Allcurrent8TeX1992+208Bib+README18,16results(15labelled+1unlabelled),22methods,4scopedoldoriginals8pixels;2selectedB/14C/fullchainunknown,noexplicitfinalfixture",
+      "evidence": "data/provenance/readings/F-198.json",
+      "manuscript_ids": [
+        "P-315560cf0726c894"
+      ],
+      "full_family_complete": false
+    },
+    "F-304": {
+      "scope": "All9TeX3501+452Bib+README17,40labelled+1unlabelled,24methods,4scopedoldoriginals12pixels;allC/fullchainunknown,oneuntestedconditionalcandidate",
+      "evidence": "data/provenance/readings/F-304.json",
+      "manuscript_ids": [
+        "P-d5b8bdf01fefba04"
+      ],
+      "full_family_complete": false
+    },
+    "F-174": {
+      "scope": "Two current manuscripts32TeX7384+582Bib,58qualified result drafts,12methods,three selected old originals,sixPDFpixels,two selected mainB;not fullfamily/history/proof review",
+      "evidence": "data/provenance/readings/F-174.json",
+      "manuscript_ids": [
+        "P-402de1fcb7f04b26",
+        "P-df23ae02b1b76555"
+      ],
+      "full_family_complete": false
+    },
+    "F-360": [
+      "All two current manuscripts13TeX5013lines+389Bib+README20each actuallyread;55labelbindings including8restatements;14methodcontracts",
+      "Two selected main upstreamB/53remainingC/fullchainunknown;finite-family formal scope differs from arbitrary-potential localinjectivity,no build/Comparator/human approval",
+      "Four oldoriginals selectedscopes/sevenPDFpixels;remainingrootandrecursivehistoryopen",
+      "Ten-domain/threecross-family attempts;no newcandidate/check/experiment"
     ]
   },
   "withdrawal_notices_checked": [
@@ -365,7 +425,13 @@
     "F-332",
     "F-153",
     "F-113",
-    "F-262"
+    "F-262",
+    "F-139",
+    "F-058",
+    "F-256",
+    "F-196",
+    "F-198",
+    "F-360"
   ],
-  "updated_at": "2026-10-22T05:24:27.856371+00:00"
+  "updated_at": "2026-10-23T08:47:49.476419+00:00"
 }

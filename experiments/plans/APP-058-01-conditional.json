@@ -1,0 +1,42 @@
+{
+  "id": "APP-058-01",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261022-092",
+  "analogy": "near",
+  "input": [
+    "For independent full-familyQE judge,restrict to exactly algebraic-analytic coefficients/scales with certified branches and exact algebraic centre,or supply a separately justified decidable original-family judge. General analytic input outside this judge scope unsupported.",
+    "Bounded state/projective chart coverage and original parameter box explicit;all zero loci,exceptional centres,strict inequalities,singular equalities and empty fibres accounted for.",
+    "No universal fixed truncation order;caller supplies certificates or charge discovery and verification,including sufficient order,slack/residual exponents,inverse power and remainder bounds. Holomorphic finiteTaylor extraction does not prove feasibility certificates.",
+    "Identify real callable workload and independently freeze inclusion,resource caps,timeouts,denominators and amortization before running. Do not count known theorem examples or handcrafted easy controls as application validation."
+  ],
+  "output": "L={(h,y):forall epsilon>0 forall delta>0 exists0<t<delta exists(hprime,yprime),distance((hprime,yprime),(h,y))<epsilon and b=x+R_t*hprime lies in originalB and original Boolean polynomial-in-y constraints hold at(b,yprime)}. Return exact L intersect supplied rational reporting window W;do not restrict witnesses to W without separately defining a relative target. Not pointwise fixed-h limits,finite-t feasibility,connected chambers,adjacency or topology.",
+  "hypothesis": "On a separately preregistered batch of actual admitted exactly-judgeable caller instances,return exact joint-upper-limit formulas agreeing with independent original-family limit-QE for EVERY admitted case and achieve median complete cost<=0.8 of strongest old comparator at matched coverage/certificates. One wrong set or any in-pack timeout/resource failure defeats functional coverage;missing admission outside pack remains unsupported with coverage disclosed. Failure to improve full median by20% defeats the gain hypothesis;benefit may be zero. No experiment has run.",
+  "judge": "QE of symmetric difference between exact candidate L and full original-family quantified L;no reused jet adapter in reference. Sampling is not equality. Components/topology excluded from this hypothesis.",
+  "baseline": [
+    "Full original-family quantified limit formula elimination,with all algebraic branch encodings",
+    "Competent adaptive Puiseux/Newton/leading-order simplification and QE with same certificate access and resource caps",
+    "Direct same-order certified Taylor elimination without new wrapper;charge certificate/order discovery and setup identically"
+  ],
+  "limits": [
+    "All current natural bodies read and73qualifiedresults/20methods manually decomposed;this is a current-source draft,not complete mathematical proof/historical acceptance.",
+    "79bibliographykeyoccurrences resolve71externalworks and3internal manuscriptreferences;only4externalworks checked in selected scopes,not full works or closure.",
+    "Selected bounded main is sourcegradeB only;72support/classification results remainC,whole dependencygradeunknown;335-file staticindex is not Lean/Comparator build or wholeproofreading.",
+    "SpecialAbelianity and zero-boundary logabundance companions are exact-ID/hashmapped but original bodies/proofs unread;different input roles retained.",
+    "Candidate joint upperlimit is not fixed-h limit,chambers,adjacency or finite-t topology. General realanalytic inputs need not have an independent full-family algebraicQE judge;only separately exact-judgeable subcases may be admitted.",
+    "No effective slack/correction/order/certificate algorithm or cost bound supplied;old Taylor/Puiseux/QE may already suffice. No real caller/admitted batch or application experiment yet.",
+    "Fresh same-provider roles reviewed initial proposal,not an independent second-provider/human or a new re-review of the refined card. All required human/provider gates remain pending."
+  ],
+  "source_labels": [
+    "U:prep:finite-jet-specialization",
+    "U:win:finite-taylor"
+  ],
+  "part_keys": [
+    "FINITE-JET",
+    "FIXED-FIBRE-CORRECTION"
+  ],
+  "revisit": "Find source-backed exact polynomial-family consumer and old solver interface;verify actual supplied certificates and independent original-family judge before accepting a workload. Retain candidate even if no immediate implementation qualifies.",
+  "resources": "No installs,large data or experimental run now;actual caller/premises/full-cost strong-baseline qualification before separate frozen experiment. Compress future numerical data,verify decompressed hashes before plaintext removal.",
+  "initial_proposal_receipt": "state/reading-progress/F-058-agent-exact-receipts.json.gz",
+  "no_numerical_run": true
+}

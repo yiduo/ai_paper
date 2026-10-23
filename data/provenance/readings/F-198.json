@@ -1,0 +1,1174 @@
+{
+  "family_id": "F-198",
+  "work_package": "WP-101",
+  "generation_id": "GEN-20261023-098",
+  "at": "2026-10-23T05:21:57.383677+00:00",
+  "base_commit": "195f674",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-315560cf0726c894"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/paper.tex",
+      "lines": 21,
+      "bytes": 704,
+      "sha256": "e0d8df68ce341585231c3d6ebbe74e6294f4fb541b49f3a8a5167c9033001f4f",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/preamble.tex",
+      "lines": 70,
+      "bytes": 2681,
+      "sha256": "7cd5845c807771ae4270cfe5c5dab20edb61c003c5bb45e6b686ca1209312b17",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/references.bib",
+      "lines": 208,
+      "bytes": 7530,
+      "sha256": "df89f9700636e9db334530b623562df090a567d0b4a4238eb11de82eacc2ea44",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "lines": 230,
+      "bytes": 11131,
+      "sha256": "82d7fc3e1727a1c31c637ef83182b63471193d42f3d5b0214cdbc08cdbb4b484",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "lines": 377,
+      "bytes": 14535,
+      "sha256": "2dbb052ffbf54fd4d553df2ea707806b9bf05ae8477565c7f8fde936f532d948",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "lines": 452,
+      "bytes": 18245,
+      "sha256": "0a79346e7f7d6584c12afb45c48efd1d1c1dc8467867e8d7cd687e6a1d4dcc48",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "lines": 304,
+      "bytes": 11284,
+      "sha256": "4e8d713c6728c3a4120896dde1c8660a12b22153538d7860043352d50b270f60",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/05-ordinary-simulation.tex",
+      "lines": 149,
+      "bytes": 5525,
+      "sha256": "8efe5824ab2dd08526594ff50fecc3be0683360ecc25d62f4dfc3ec9e20401f8",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex",
+      "lines": 389,
+      "bytes": 13890,
+      "sha256": "92e5ffec3428f1cdd06ba17d38ade2e0ae002c8481378a527b9245822673bb99",
+      "actually_read": true
+    }
+  ],
+  "readme": {
+    "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/README.md",
+    "lines": 18,
+    "sha256": "ebe69f94d9b14a9c67df67d5cd72d56a9c22d6443a1e57b5c360a2ad14280f89",
+    "actually_read": true,
+    "scope": "Selection metadata only,not source-body coverage"
+  },
+  "source_sections": [
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/paper.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/preamble.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/05-ordinary-simulation.tex",
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex"
+  ],
+  "source_tex_lines": 1992,
+  "bibliography_lines": 208,
+  "results": [
+    {
+      "id": "CLM-198-THM-MAIN",
+      "label": "thm:main",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        24,
+        32
+      ],
+      "statement": "One fixed finite-dimensional unital complex algebra A has,for each positive m,a finite-dimensional left module N_m with 2m-2<=pd_A(N_m)<infinity.",
+      "conditions": [
+        "A and all lifted complexes are fixed before m;does not assert all modules have finite pd or a uniform module-size bound. No concrete final multiplication table/bases/chain matrices are supplied."
+      ],
+      "constants_and_constructions": [
+        "A and all lifted complexes are fixed before m;does not assert all modules have finite pd or a uniform module-size bound. No concrete final multiplication table/bases/chain matrices are supplied."
+      ],
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-COR-LEFT-RIGHT-ASYMMETRY",
+      "label": "cor:left-right-asymmetry",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        91,
+        105
+      ],
+      "statement": "A separate finite-dimensional complex algebra Lambda has little/big left dimensions infinite,opposite dimensions zero,and left injectives nongenerating/right injectives generating.",
+      "conditions": [
+        "Auxiliary Lambda from Cummings triangular construction after opposite/Morita transport;no assertion about right dimensions or generation of the original A. All four dimensions use left-module convention."
+      ],
+      "constants_and_constructions": [
+        "Auxiliary Lambda from Cummings triangular construction after opposite/Morita transport;no assertion about right dimensions or generation of the original A. All four dimensions use left-module convention."
+      ],
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-PROP-SELECTION",
+      "label": "prop:selection",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "statement_lines": [
+        19,
+        31
+      ],
+      "statement": "Fixed finitely presented complex R,central idempotent e and automorphism alpha give H^j(Y_m) nonzero for0<=j<m and H^m(Y_m)=0.",
+      "conditions": [
+        "H(Y)=restriction along alpha of eY;R=C[G] need not be finite-dimensional. Finite quotient has characteristic2,but representations and e=(1+z0)/2 are overC."
+      ],
+      "constants_and_constructions": [
+        "H(Y)=restriction along alpha of eY;R=C[G] need not be finite-dimensional. Finite quotient has characteristic2,but representations and e=(1+z0)/2 are overC."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-GROUP-FINITE-PRESENTATION",
+      "label": "lem:group-finite-presentation",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "statement_lines": [
+        81,
+        84
+      ],
+      "statement": "The indexed auxiliary group has a finite presentation on fifteen generators.",
+      "conditions": [
+        "Kernel-lattice centralizers and argument-zero relations suffice;all actually used pairs of weights Z3->Z2 are surjective. No arbitrary extra group relations imported."
+      ],
+      "constants_and_constructions": [
+        "Kernel-lattice centralizers and argument-zero relations suffice;all actually used pairs of weights Z3->Z2 are surjective. No arbitrary extra group relations imported."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-CENTRAL-SHIFT",
+      "label": "lem:central-shift",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "statement_lines": [
+        175,
+        186
+      ],
+      "statement": "z_N=[U_i(a),V_i(b)],a+b=N,is independent of splitting/internal index,central,involutory,and shifted by an automorphism.",
+      "conditions": [
+        "Central commutator transfer uses the stated cross-index commutations;independence/nontrivial images of whole segments are established separately by finite quotients."
+      ],
+      "constants_and_constructions": [
+        "Central commutator transfer uses the stated cross-index commutations;independence/nontrivial images of whole segments are established separately by finite quotients."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-FINITE-CENTRAL-QUOTIENTS",
+      "label": "lem:finite-central-quotients",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "statement_lines": [
+        244,
+        249
+      ],
+      "statement": "For each m,the image in GL5(F2[t]/(t^m-1)) detects independent central z0,...,z_(m-1),giving(C2)^m.",
+      "conditions": [
+        "Ring is finite with monic degree-m basis and t a unit;even m/nonreduced quotient allowed. Matrix image is a quotient,not a faithful representation of all G."
+      ],
+      "constants_and_constructions": [
+        "Ring is finite with monic degree-m basis and t a unit;even m/nonreduced quotient allowed. Matrix image is a quotient,not a faithful representation of all G."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-DIRECTED-BOUND",
+      "label": "lem:directed-bound",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "statement_lines": [
+        69,
+        80
+      ],
+      "statement": "Finite-dimensional algebra with n ordered complete orthogonal idempotents,scalar diagonal corners and no backwards components has global dimension<=n-1 on both sides.",
+      "conditions": [
+        "Includes arbitrary modules:successive kernel supports move strictly forward. Applied to B gives<=2;not a bound for arbitrary quiver algebras or final square-zero A."
+      ],
+      "constants_and_constructions": [
+        "Includes arbitrary modules:successive kernel supports move strictly forward. Applied to B gives<=2;not a bound for arbitrary quiver algebras or final square-zero A."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-ODD-DOUBLE",
+      "label": "lem:odd-double",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "statement_lines": [
+        190,
+        196
+      ],
+      "statement": "In an arbitrary triangulated category,a formal idempotent summand U has U+U[1] and U+U[3] represented by old objects in the idempotent completion.",
+      "conditions": [
+        "U itself need not split in the old category;cones and fullness give odd double. No algorithmic/natural splitting or unrestricted strictification claimed."
+      ],
+      "constants_and_constructions": [
+        "U itself need not split in the old category;cones and fullness give odd double. No algorithmic/natural splitting or unrestricted strictification claimed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-DIAGRAM-LIFT",
+      "label": "lem:diagram-lift",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "statement_lines": [
+        337,
+        340
+      ],
+      "statement": "Every B-diagram in the chosen Verdier quotient is isomorphic to the image of one B-diagram in the homotopy category.",
+      "conditions": [
+        "Three vertices,two arrow layers,finite relation space;common denominators are cleared before any test module. Relations become zero in homotopy category,not strictly zero chain maps."
+      ],
+      "constants_and_constructions": [
+        "Three vertices,two arrow layers,finite relation space;common denominators are cleared before any test module. Relations become zero in homotopy category,not strictly zero chain maps."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-PROP-LIFTED-DIAGRAM",
+      "label": "prop:lifted-diagram",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "statement_lines": [
+        401,
+        424
+      ],
+      "statement": "One fixed collection of bounded right-projective D_i,chain maps f_a and degree-minus-one h_rho realizes the selected diagram under every finite-dimensional evaluation Y.",
+      "conditions": [
+        "d h+h d=sum rho_ba f_b f_a. All choices independent of Y;the source does not provide explicit chosen denominators,bases or null-homotopy matrices."
+      ],
+      "constants_and_constructions": [
+        "d h+h d=sum rho_ba f_b f_a. All choices independent of Y;the source does not provide explicit chosen denominators,bases or null-homotopy matrices."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-THM-REALIZATION",
+      "label": "thm:realization",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "statement_lines": [
+        8,
+        24
+      ],
+      "statement": "For any field,finitely presented R,central e and unital endomorphism alpha,a single bounded right-projective B-bimodule complex P sends M(Y) to M(HY)+M(HY)[3] by derived tensor.",
+      "conditions": [
+        "P fixed before Y;three-vertex B has global dimension<=2. Objectwise splitting suffices;not a natural splitting,flat ordinary tensor shortcut or a computed finite fixture."
+      ],
+      "constants_and_constructions": [
+        "P fixed before Y;three-vertex B has global dimension<=2. Objectwise splitting suffices;not a natural splitting,flat ordinary tensor shortcut or a computed finite fixture."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-LEM-RECTIFICATION",
+      "label": "lem:rectification",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "statement_lines": [
+        36,
+        59
+      ],
+      "statement": "The supplied three-vertex homotopy diagram admits a strict bounded right-projective bimodule complex with vertex homotopy equivalences and arrow homotopies.",
+      "conditions": [
+        "Use a basis of quadratic relation space,no paths of length3;d_P=[[d0,p,h],[0,-d1,q],[0,0,d2]],pq=-f_rho,dh+hd=f_rho. Does not rectify arbitrary homotopy actions without higher coherence."
+      ],
+      "constants_and_constructions": [
+        "Use a basis of quadratic relation space,no paths of length3;d_P=[[d0,p,h],[0,-d1,q],[0,0,d2]],pq=-f_rho,dh+hd=f_rho. Does not rectify arbitrary homotopy actions without higher coherence."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-PROP-ORDINARY-SIMULATION",
+      "label": "prop:ordinary-simulation",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/05-ordinary-simulation.tex",
+      "statement_lines": [
+        77,
+        92
+      ],
+      "statement": "Finite-dimensional product D and ordinary off-diagonal bimodule X have F^2(Z)=P[b_*] derived-tensored with Z on the first factor.",
+      "conditions": [
+        "Support interval[a_*,b_*],l=b_*-a_* fixed;global dimensions D,Dop<=3l+2;chain isomorphism uses sign(-1)^(b_*n). Neither support endpoints nor final matrices numerically specified."
+      ],
+      "constants_and_constructions": [
+        "Support interval[a_*,b_*],l=b_*-a_* fixed;global dimensions D,Dop<=3l+2;chain isomorphism uses sign(-1)^(b_*n). Neither support endpoints nor final matrices numerically specified."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-PROP-BAR-SPLITTING",
+      "label": "prop:bar-splitting",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex",
+      "statement_lines": [
+        19,
+        39
+      ],
+      "statement": "For a split square-zero A=D semidirect X over a field,and inflated left D-module N,D derived-tensor_A N is directsum_r(F^rN)[r].",
+      "conditions": [
+        "F is genuinely derived tensor;X need not be flat. Absolute bar faces preserve X-count and rescaling corrects signs;direct sums finite in each total degree,not products/completion. N not required finite here."
+      ],
+      "constants_and_constructions": [
+        "F is genuinely derived tensor;X need not be flat. Absolute bar faces preserve X-count and rescaling corrects signs;direct sums finite in each total degree,not products/completion. N not required finite here."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-198-COR-PD-DETECTION",
+      "label": "cor:pd-detection",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex",
+      "statement_lines": [
+        157,
+        168
+      ],
+      "statement": "With D finite global dimension on both sides and N finite-dimensional,extinction at t>=1 implies finite pd_A;survival at r implies pd_A>=r,including infinite pd.",
+      "conditions": [
+        "Iterates have cohomology in[-rg,0];minimal resolution/Nakayama detects finiteness after semisimple base change. Lower bound uses iterate index,not an invented estimate of shifts."
+      ],
+      "constants_and_constructions": [
+        "Iterates have cohomology in[-rg,0];minimal resolution/Nakayama detects finiteness after semisimple base change. Lower bound uses iterate index,not an invented estimate of shifts."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    }
+  ],
+  "unlabelled_results": [
+    {
+      "id": "CLM-198-UNLABELLED-ITERATION",
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "statement_lines": [
+        284,
+        293
+      ],
+      "proof_lines": [
+        295,
+        304
+      ],
+      "label": null,
+      "statement": "For j>=0,Phi^j(M(Y)) is the direct sum of M(H^jY)[3q] with binomial(j,q) multiplicities.",
+      "conditions": [
+        "Finite-dimensional Y,derived tensor,objectwise finite sums/shifts;no natural choice of truncation splittings needed."
+      ],
+      "constants_and_constructions": [
+        "q=0..j,shift3q;the later ordinary simulation adds j*b_* separately."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    }
+  ],
+  "methods": [
+    {
+      "id": "PART-198-FINITE-RELATOR-ORBIT",
+      "input": "Indexed group relations and commuting lattice action",
+      "output": "Fifteen-generator presentation from kernel centralizers and zero-argument patterns",
+      "conditions": "Weights used in pair patterns must map onto Z2;not arbitrary relation simplification.",
+      "cannot_transfer": "Weights used in pair patterns must map onto Z2;not arbitrary relation simplification.",
+      "labels": [
+        "lem:group-finite-presentation"
+      ]
+    },
+    {
+      "id": "PART-198-CENTRAL-COMMUTATOR-TRANSFER",
+      "input": "Actual cross-index group commutations",
+      "output": "Central involution family and an exact shift automorphism",
+      "conditions": "Splitting independence,centrality and quotient independence are separate checks.",
+      "cannot_transfer": "Splitting independence,centrality and quotient independence are separate checks.",
+      "labels": [
+        "lem:central-shift"
+      ]
+    },
+    {
+      "id": "PART-198-FINITE-QUOTIENT-CHARACTER",
+      "input": "Image group over F2[t]/(t^m-1),central(C2)^m",
+      "output": "Nonzero complex regular-character summand with chosen signs",
+      "conditions": "Even m nonreduced ring allowed;image may be large,does not give final A matrices.",
+      "cannot_transfer": "Even m nonreduced ring allowed;image may be large,does not give final A matrices.",
+      "labels": [
+        "lem:finite-central-quotients",
+        "prop:selection"
+      ]
+    },
+    {
+      "id": "PART-198-CENTRAL-SELECTION",
+      "input": "Central e and restriction-of-scalars alpha",
+      "output": "H^jY=alpha^j-pullback of e0...e_(j-1)Y",
+      "conditions": "Alpha need not preserve finite-quotient kernel;fixed R/e/alpha before j,m.",
+      "cannot_transfer": "Alpha need not preserve finite-quotient kernel;fixed R/e/alpha before j,m.",
+      "labels": [
+        "prop:selection"
+      ]
+    },
+    {
+      "id": "PART-198-QUADRATIC-HOMOGENIZATION",
+      "input": "Finite noncommutative presentation",
+      "output": "Three-vertex finite B and module encoding M(Y)",
+      "conditions": "Auxiliary partial-product variables retain constants/linear terms;not a finite-dimensionality claim about R.",
+      "cannot_transfer": "Auxiliary partial-product variables retain constants/linear terms;not a finite-dimensionality claim about R.",
+      "labels": [
+        "lem:directed-bound"
+      ]
+    },
+    {
+      "id": "PART-198-DIRECTED-DIMENSION",
+      "input": "Ordered scalar diagonal corners,no backward components",
+      "output": "Successive syzygy support advance gives gldim<=n-1 on both sides",
+      "conditions": "Not final A dimension bound;arbitrary-module direct sums retained.",
+      "cannot_transfer": "Not final A dimension bound;arbitrary-module direct sums retained.",
+      "labels": [
+        "lem:directed-bound"
+      ]
+    },
+    {
+      "id": "PART-198-QUOTIENT-EVALUATION",
+      "input": "Cones of two invertible-on-M(Y) arrow maps",
+      "output": "Verdier quotient action evaluated at every Y",
+      "conditions": "Does not identify entire quotient with D(R),assume stably flatness or give general word equality algorithm.",
+      "cannot_transfer": "Does not identify entire quotient with D(R),assume stably flatness or give general word equality algorithm.",
+      "labels": [
+        "prop:lifted-diagram"
+      ]
+    },
+    {
+      "id": "PART-198-ODD-DOUBLE",
+      "input": "Formal idempotent summand in triangulated category",
+      "output": "Two cones represent U+U[3] inside old category",
+      "conditions": "Not splitting U alone;fullness and identity-summand cancellation required.",
+      "cannot_transfer": "Not splitting U alone;fullness and identity-summand cancellation required.",
+      "labels": [
+        "lem:odd-double"
+      ]
+    },
+    {
+      "id": "PART-198-FINITE-DIAGRAM-DENOMINATOR",
+      "input": "A finite three-vertex quotient diagram",
+      "output": "One lifted homotopy-category diagram clearing all denominators",
+      "conditions": "Uniform before Y;finitely many relation maps,no arrows into0/longer paths;no algorithm/cost claimed.",
+      "cannot_transfer": "Uniform before Y;finitely many relation maps,no arrows into0/longer paths;no algorithm/cost claimed.",
+      "labels": [
+        "lem:diagram-lift"
+      ]
+    },
+    {
+      "id": "PART-198-RELATION-NULLHOMOTOPIES",
+      "input": "Zero relations in homotopy category",
+      "output": "Choose degree-minus-one chain homotopies as rectification input",
+      "conditions": "Relations not strictly zero initially;actual h matrices must be supplied to implement.",
+      "cannot_transfer": "Relations not strictly zero initially;actual h matrices must be supplied to implement.",
+      "labels": [
+        "prop:lifted-diagram"
+      ]
+    },
+    {
+      "id": "PART-198-THREE-COLUMN-RECTIFICATION",
+      "input": "D_i,f_a,h_rho and quadratic relation basis",
+      "output": "Explicit signed three-column bimodule differential",
+      "conditions": "No path3/overlaps;general homotopy algebra actions can have higher obstructions.",
+      "cannot_transfer": "No path3/overlaps;general homotopy algebra actions can have higher obstructions.",
+      "labels": [
+        "lem:rectification"
+      ]
+    },
+    {
+      "id": "PART-198-VERTEX-FILTRATION",
+      "input": "Strictified vertex complex divided by original D_i",
+      "output": "Finite source-index filtration proves quotient acyclic/homotopy equivalence",
+      "conditions": "Relation basis injective and full path-space quotient required;ordinary tensor preserves homotopies,not all quasi-isomorphisms.",
+      "cannot_transfer": "Relation basis injective and full path-space quotient required;ordinary tensor preserves homotopies,not all quasi-isomorphisms.",
+      "labels": [
+        "lem:rectification"
+      ]
+    },
+    {
+      "id": "PART-198-GAP-SPLITTING",
+      "input": "Cohomology only in degrees0,-3 and gldimB<=2",
+      "output": "Ext4 connecting morphism zero,objectwise derived direct sum",
+      "conditions": "Do not infer functorially natural splitting;full B action matters,not only vertex dimensions.",
+      "cannot_transfer": "Do not infer functorially natural splitting;full B action matters,not only vertex dimensions.",
+      "labels": [
+        "thm:realization"
+      ]
+    },
+    {
+      "id": "PART-198-OBJECTWISE-BINOMIAL",
+      "input": "Realization on each H^jY",
+      "output": "Finite shifted-binomial iterate formula",
+      "conditions": "Uses tensor preserving isomorphisms/sums/shifts,no uniform natural splitting;unlabelled corollary bound separately.",
+      "cannot_transfer": "Uses tensor preserving isomorphisms/sums/shifts,no uniform natural splitting;unlabelled corollary bound separately.",
+      "labels": [
+        "thm:realization"
+      ]
+    },
+    {
+      "id": "PART-198-ORDINARY-CHAIN-SIMULATION",
+      "input": "A bounded right-projective bimodule complex P",
+      "output": "Ordinary X over finite-global-dimension product D with two-step simulation",
+      "conditions": "Radical-square-zero chain length l fixed;right-projective resolution and sign(-1)^(b*n) retained.",
+      "cannot_transfer": "Radical-square-zero chain length l fixed;right-projective resolution and sign(-1)^(b*n) retained.",
+      "labels": [
+        "prop:ordinary-simulation"
+      ]
+    },
+    {
+      "id": "PART-198-BAR-COUNT",
+      "input": "Split square-zero A=D semidirect X and inflated N",
+      "output": "Direct decomposition by number of X entries",
+      "conditions": "Endpoint X actions and X*X zero;derived multibars,not ordinary powers when nonflat.",
+      "cannot_transfer": "Endpoint X actions and X*X zero;derived multibars,not ordinary powers when nonflat.",
+      "labels": [
+        "prop:bar-splitting"
+      ]
+    },
+    {
+      "id": "PART-198-MULTIBAR-SIGNS",
+      "input": "X-count r and D-block lengths i_j",
+      "output": "Rescaling(-1)^sum((r-j)*i_j) identifies [r]-shifted derived multibar",
+      "conditions": "Bounded-above/free replacements,degreewise finite sums;no completed products.",
+      "cannot_transfer": "Bounded-above/free replacements,degreewise finite sums;no completed products.",
+      "labels": [
+        "prop:bar-splitting"
+      ]
+    },
+    {
+      "id": "PART-198-DERIVED-SURVIVAL-LOWER-BOUND",
+      "input": "Nonzero actual F^rN in nonpositive degrees",
+      "output": "Nonzero base-change homology forces pd_A>=r",
+      "conditions": "Actual derived survival needed;not a bound from ordinary tensor or shift size alone.",
+      "cannot_transfer": "Actual derived survival needed;not a bound from ordinary tensor or shift size alone.",
+      "labels": [
+        "cor:pd-detection"
+      ]
+    },
+    {
+      "id": "PART-198-MINIMAL-RESOLUTION-DETECTOR",
+      "input": "Tensor extinction,finite D dimensions,finite N",
+      "output": "Semisimple base change and minimal resolution yield finite pd",
+      "conditions": "Nilpotent X in radical,finite generation and Nakayama required.",
+      "cannot_transfer": "Nilpotent X in radical,finite generation and Nakayama required.",
+      "labels": [
+        "cor:pd-detection"
+      ]
+    },
+    {
+      "id": "PART-198-FIXED-ALGEBRA-QUANTIFIERS",
+      "input": "R/e/alpha,B,P,support,D,X all fixed",
+      "output": "Only quotient,character,Y_m,N_m vary with m",
+      "conditions": "Varying A with m proves a different weaker statement;no supplied final multiplication table or complexity bound.",
+      "cannot_transfer": "Varying A with m proves a different weaker statement;no supplied final multiplication table or complexity bound.",
+      "labels": [
+        "thm:main"
+      ]
+    },
+    {
+      "id": "PART-198-LEFT-RIGHT-TRANSPORT",
+      "input": "Original A,opposite basic C and Cummings triangular T",
+      "output": "Auxiliary Lambda=Top has asymmetric dimensions/generation",
+      "conditions": "Right-module original results must be transported;does not determine right side of original A.",
+      "cannot_transfer": "Right-module original results must be transported;does not determine right side of original A.",
+      "labels": [
+        "cor:left-right-asymmetry"
+      ]
+    },
+    {
+      "id": "PART-198-CONCRETE-FIXTURE-GATE",
+      "input": "An actual proposed CAS/derived-complex benchmark",
+      "output": "Require fixed bases,relations,P/f/h matrices and independent homology/pd judge",
+      "conditions": "SelectedFixedDiagram uses Classical.choice and source gives no executable final fixture. Source finite-quotient arithmetic is only an upstream component,not full application validation.",
+      "cannot_transfer": "SelectedFixedDiagram uses Classical.choice and source gives no executable final fixture. Source finite-quotient arithmetic is only an upstream component,not full application validation.",
+      "labels": [
+        "thm:main",
+        "prop:lifted-diagram"
+      ]
+    }
+  ],
+  "include_closure_verified": true,
+  "historical_works": {
+    "NRS2004": {
+      "name": "NRS2004v2.pdf",
+      "version": "arXivmath/0205034v2,2002-07-02;relatedjournal2004,notassertedbyteidentity",
+      "actual_scope": "Intro and Section1 printed/PDF1-6 selected text,Th1.1 andProp1.2 construction/proofs;not entire15pages or undecidability proof",
+      "statement": "Finite presented S is Morita-equivalent to a universal localization of finite-dimensional A with gldim<=2. Localization need not be injective or stably flat.",
+      "boundary": "F198 uses its own quadratic three-vertex encoding and direct Verdier evaluation,not an assumed derived equivalence or stable-flatness. Old quiver encoding alone is not new application gain.",
+      "url": "https://arxiv.org/pdf/math/0205034v2",
+      "bytes": 153632,
+      "sha256": "4eef7b624526d9bc9b467cf9be5a6ee9418bd87e8a76246fa3293530fbf2dff3"
+    },
+    "MinamotoYamaura": {
+      "name": "MinamotoYamaura2017v1.pdf",
+      "version": "arXiv1710.01469v1,2017-10-04;sourceprinted2017-10-05;references explicitly usev1 numbering",
+      "actual_scope": "Selected text in introduction/conventions,Prop2.5 pp6-7,Lemma3.6 pp12,Remark4.9/Th4.10 pp17-19,Cor4.11/Lemma4.13 p18,Th4.17 p20;selected proofs,not whole30pages/recursive inputs",
+      "statement": "For an inflated complex,old derived-tensor pd formula is exact;graded/ungraded pd coincide,and perfectness equivalent to perfect iterates plus eventual extinction. Right-module conventions.",
+      "boundary": "Switch opposite algebra for F198 left modules. Lemma4.13 explicitly proves only(1),leaves remaining assertions to reader. Nonflat X requires derived powers;old equality is stronger than new final survival/finite-pd transfer,not new software gain.",
+      "url": "https://arxiv.org/pdf/1710.01469v1",
+      "bytes": 362946,
+      "sha256": "ee898625dc7697ab7bd4480d034448d89bdabc39f4544f19fa03aa51a8a7a9ec"
+    },
+    "Cummings2024": {
+      "name": "Cummings2022v1.pdf",
+      "version": "arXiv2211.04394v1,2022-11-08;related2024publication,numberedscopesactuallymatchv1,notassertedbyteidentity",
+      "actual_scope": "Intro,notation/Construction2.1 pp3-4,Propositions3.2-3.3 p7 and4.3-4.4 pp8-9,selected proofs andFGR75/Cum21 reference entries pp10-11;not complete11pages",
+      "statement": "For a basic finite-dimensional algebra over algebraically closed k,old triangular construction preserves lower little/big dimensions and opposite dimensions0;generation passes to base and holds for opposite.",
+      "boundary": "Right-module conventions;F198 Lambda is auxiliary. Proposition3.2 uses unreadFGR75Cor4.21,3.3 usesBass6.2,4.3 usesunreadCum21Example6.11;recursive closure remains unknown.",
+      "url": "https://arxiv.org/pdf/2211.04394v1",
+      "bytes": 148609,
+      "sha256": "004dc60949f15eda5bd2fe611289c4911388361558d3e4e26d0626649eb9ac31"
+    },
+    "Rickard2019": {
+      "name": "Rickard2018v1.pdf",
+      "version": "arXiv1804.09801v1,2018-04-25;related2019publication,notassertedbyteidentity",
+      "actual_scope": "Intro/right-module conventions pp1-2,Definition3.1 p4,Definitions4.1-4.2/Th4.3 and selected full proof pp7-8;not entirepaper",
+      "statement": "Injectives generating unbounded derived category under arbitrary coproducts implies finite big,and hence little,finitistic dimension for a finite-dimensional algebra.",
+      "boundary": "Uses right modules and all modules/unbounded cochain complexes;F198 applies to Aop. Contrapositive is an old consequence,not a new inverse implication or claim about original A right side.",
+      "url": "https://arxiv.org/pdf/1804.09801v1",
+      "bytes": 207410,
+      "sha256": "012dea160bbeceea9035a417349b814fa3d6104dc0beda4d0819471711826691"
+    }
+  },
+  "bibliography_keys": {
+    "Bass1960": {
+      "target": "LIT-198-BASS1960",
+      "line": 1,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "Rego2022": {
+      "target": "LIT-198-REGO2022",
+      "line": 14,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "NRS2004": {
+      "target": "LIT-198-NRS2004",
+      "line": 31,
+      "body_scope": "Intro and Section1 printed/PDF1-6 selected text,Th1.1 andProp1.2 construction/proofs;not entire15pages or undecidability proof"
+    },
+    "BalmerSchlichting2001": {
+      "target": "LIT-198-BALMERSCHLICHTING2001",
+      "line": 47,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "Keller2000": {
+      "target": "LIT-198-KELLER2000",
+      "line": 61,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "MinamotoYamaura": {
+      "target": "LIT-198-MINAMOTOYAMAURA",
+      "line": 77,
+      "body_scope": "Selected text in introduction/conventions,Prop2.5 pp6-7,Lemma3.6 pp12,Remark4.9/Th4.10 pp17-19,Cor4.11/Lemma4.13 p18,Th4.17 p20;selected proofs,not whole30pages/recursive inputs"
+    },
+    "StacksProject": {
+      "target": "LIT-198-STACKSPROJECT",
+      "line": 96,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "HuisgenZimmermann1992": {
+      "target": "LIT-198-HUISGENZIMMERMANN1992",
+      "line": 109,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "GreenKirkmanKuzmanovich1991": {
+      "target": "LIT-198-GREENKIRKMANKUZMANOVICH1991",
+      "line": 120,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "GreenHuisgenZimmermann1991": {
+      "target": "LIT-198-GREENHUISGENZIMMERMANN1991",
+      "line": 132,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "IgusaTodorov2005": {
+      "target": "LIT-198-IGUSATODOROV2005",
+      "line": 142,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "Rickard2019": {
+      "target": "LIT-198-RICKARD2019",
+      "line": 154,
+      "body_scope": "Intro/right-module conventions pp1-2,Definition3.1 p4,Definitions4.1-4.2/Th4.3 and selected full proof pp7-8;not entirepaper"
+    },
+    "HuisgenZimmermann1995": {
+      "target": "LIT-198-HUISGENZIMMERMANN1995",
+      "line": 169,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    },
+    "Cummings2024": {
+      "target": "LIT-198-CUMMINGS2024",
+      "line": 188,
+      "body_scope": "Intro,notation/Construction2.1 pp3-4,Propositions3.2-3.3 p7 and4.3-4.4 pp8-9,selected proofs andFGR75/Cum21 reference entries pp10-11;not complete11pages"
+    },
+    "OpenAITachikawa2026": {
+      "target": "P-ba058fe207bc26ec",
+      "line": 202,
+      "body_scope": "Upstreambibliographicmetadata only;bodyunread"
+    }
+  },
+  "formal_actual_files": [
+    {
+      "path": "math/lean/docs/198.md",
+      "sha256": "e2d8195941ced611e210088da40499b2060a6ecd7a476490166f933ed4dc170f",
+      "actual_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LittleFinitistic.json",
+      "sha256": "14ac61824b748c4a332fd1a6ddf0dd71531f5dfdd39025d69d695023fbd207ce",
+      "actual_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FinitisticAsymmetry.json",
+      "sha256": "9a3eaf61ff768857a0ddc1562650b6391c78c38a51c15406f6b0b55a01e80141",
+      "actual_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LittleFinitistic.lean",
+      "sha256": "22840db694ba3cbc43bbb286270fdc624656e6fcbf1fd96ff51f8dee6ff958f3",
+      "actual_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FinitisticAsymmetry.lean",
+      "sha256": "64ea38db9933f0082a04d2fa181083fbe01a7a823c9ce07f32d0835dce83cf96",
+      "actual_ranges": [
+        [
+          1,
+          41
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Main.lean",
+      "sha256": "cd1bcd4b31913493d999dad452a5de94234c02cc48a6e9d64286a44c3def5df0",
+      "actual_ranges": [
+        [
+          1,
+          56
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/FinitisticAsymmetry/Main.lean",
+      "sha256": "80c3411e8d580b81fabbde9ec500eee3e38f8baa0a4a099a3e5e7282518fafa0",
+      "actual_ranges": [
+        [
+          1,
+          65
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Basic.lean",
+      "sha256": "8f5383a8b87e4f2b88e2a9491b641e164d95e0b09a7acccc0402c0d361762e67",
+      "actual_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedOrdinaryOrbit.lean",
+      "sha256": "1e802d30a2612e038d9f5ab978c357b8868979fed5cec2971efdf222838fd77e",
+      "actual_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedPDConclusion.lean",
+      "sha256": "22720e60c86df1c854c532aae4cc8b5c721622b4b78b4021a20aa80c3e6421d6",
+      "actual_ranges": [
+        [
+          1,
+          58
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/FinitisticAsymmetry/Asymmetry.lean",
+      "sha256": "93cb024ee38da393c8687858a38dc31550ab144b870b911ed749c4ea7eb06563",
+      "actual_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedOrdinaryAlgebra.lean",
+      "sha256": "211a4d2294c9f098867902fa5728350e9379d43e467071d77b8c017c776cd910",
+      "actual_ranges": [
+        [
+          1,
+          63
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedFixedDiagram.lean",
+      "sha256": "ca28be8f63930862e261a16cac5701bbd725d661c3a1999e34b8a0fd462b5830",
+      "actual_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/FinitisticAsymmetry/Model.lean",
+      "sha256": "cffd69033b8e8b0639411e8f89fb59891451ebafa0dbd542319595f7bc363e60",
+      "actual_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "actual_ranges": [
+        [
+          230,
+          236
+        ],
+        [
+          1222,
+          1229
+        ],
+        [
+          1356,
+          1366
+        ]
+      ],
+      "fully_read": false
+    }
+  ],
+  "formal_statement_comparison": [
+    {
+      "item": "One fixed algebra and actual module quantifiers",
+      "natural": "Finite-dimensional complex A fixed beforem;finite leftN_m with2m-2<=pd<infinity",
+      "Lean": "Main.exists_counterexample andBasiclittleFinitisticDimension use actual ModuleCat projectiveDimension and Module.Finite overA;finitecomplexA gives the finite-vector-space setting",
+      "assessment": "Selectedmain localB;no Lean/Comparator/human or full support-proof verification"
+    },
+    {
+      "item": "Auxiliary asymmetry and module sides",
+      "natural": "AuxiliaryLambda,leftlittle/big infinity,rightzero,injectives leftnongenerating/rightgenerating",
+      "Lean": "FinitisticAsymmetry.Main.extreme_left_right_asymmetry,ModelbigFinitisticDimension andInjectivesGenerate;Opposite/triangularaugmentation clauses explicit",
+      "assessment": "Selectedcorollary localB;not a statement about originalA right side"
+    },
+    {
+      "item": "Concrete versus selected data",
+      "natural": "Finite roof/diagram/homotopy choices fixed uniformly beforeY,but no explicit numeric final matrices",
+      "Lean": "SelectedFixedDiagram.fixed usesClassical.choice;SelectedOrdinaryAlgebra selects supportinterval thenTrivSqZeroExt;SelectedPDConclusion consumes proved actual extinction/bar bounds",
+      "assessment": "No executable finite fixture or generic thm:realization/rectification formal coverage inferred from selected endpoint names"
+    },
+    {
+      "item": "Remaining support statements",
+      "natural": "Genericrealization,diagramlift,nonflatbar andunlabelledbinomialcorollary have their ownconditions",
+      "Lean": "SelectedOrdinaryOrbit/PDConclusion read as bridge files;entire588file3778declarationunion not mathematicallyread",
+      "assessment": "14other source results remainC and all full dependency grades unknown"
+    }
+  ],
+  "formal_static_index": "data/provenance/formal/F-198-import-index.json.gz",
+  "static_files": 588,
+  "static_declarations": 3778,
+  "local_build": "not_run",
+  "Comparator": "not_run",
+  "human_spec_review": "missing",
+  "version_mapping": {
+    "current_status": "catalogued_not_withdrawn",
+    "historical_version_rows": [],
+    "meaning": "NoF198rows in pinnedhistorical_versionstable;unavailableauthorhistorynotreviewed"
+  },
+  "acquisition": {
+    "cap": 8388608,
+    "downloaded_bytes": 872597,
+    "requests": [
+      {
+        "name": "NRS2004v2.pdf",
+        "url": "https://arxiv.org/pdf/math/0205034v2",
+        "at": "2026-10-23T05:09:26.457657+00:00",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      },
+      {
+        "name": "MinamotoYamaura2017v1.pdf",
+        "url": "https://arxiv.org/pdf/1710.01469v1",
+        "at": "2026-10-23T05:10:01.483307+00:00",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1710.01469v1",
+        "bytes": 362946,
+        "content_type": "application/pdf",
+        "sha256": "ee898625dc7697ab7bd4480d034448d89bdabc39f4544f19fa03aa51a8a7a9ec"
+      },
+      {
+        "name": "Cummings2022v1.pdf",
+        "url": "https://arxiv.org/pdf/2211.04394v1",
+        "at": "2026-10-23T05:10:18.435450+00:00",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      },
+      {
+        "name": "Rickard2018v1.pdf",
+        "url": "https://arxiv.org/pdf/1804.09801v1",
+        "at": "2026-10-23T05:10:53.446090+00:00",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/1804.09801v1",
+        "bytes": 207410,
+        "content_type": "application/pdf",
+        "sha256": "012dea160bbeceea9035a417349b814fa3d6104dc0beda4d0819471711826691"
+      },
+      {
+        "name": "NRS2004v2.pdf",
+        "url": "https://arxiv.org/pdf/math/0205034v2",
+        "attempt": 2,
+        "at": "2026-10-23T05:11:36.793589+00:00",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/math/0205034v2",
+        "bytes": 153632,
+        "content_type": "application/pdf",
+        "sha256": "4eef7b624526d9bc9b467cf9be5a6ee9418bd87e8a76246fa3293530fbf2dff3"
+      },
+      {
+        "name": "Cummings2022v1.pdf",
+        "url": "https://arxiv.org/pdf/2211.04394v1",
+        "attempt": 2,
+        "at": "2026-10-23T05:11:47.645196+00:00",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/2211.04394v1",
+        "bytes": 148609,
+        "content_type": "application/pdf",
+        "sha256": "004dc60949f15eda5bd2fe611289c4911388361558d3e4e26d0626649eb9ac31"
+      }
+    ]
+  },
+  "actual_pdf_pixels": [
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "1fb7f827f59dcca0f391c279c346e4e8bc941880c24ec30fe1cba2e9a319f89c",
+      "page_one_based": 1,
+      "image": "/private/tmp/ai-paper-WP101/source-main.png",
+      "image_sha256": "62cc33d1362f0c63ecc77627e75ad18af4160f3ad2efb6c67df4563b323f67a6",
+      "image_bytes": 269316,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "1fb7f827f59dcca0f391c279c346e4e8bc941880c24ec30fe1cba2e9a319f89c",
+      "page_one_based": 7,
+      "image": "/private/tmp/ai-paper-WP101/source-finite-quotients.png",
+      "image_sha256": "9dc884480b9c646c3e3979fd16e7d011d939aeb0acc6a3745c15124a23cdc0ad",
+      "image_bytes": 313380,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "1fb7f827f59dcca0f391c279c346e4e8bc941880c24ec30fe1cba2e9a319f89c",
+      "page_one_based": 15,
+      "image": "/private/tmp/ai-paper-WP101/source-rectification.png",
+      "image_sha256": "4e8d00306e2454d698c338f7b00f62c75a10bb80b99ed21cc3e4098faa6f9dc9",
+      "image_bytes": 219568,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "1fb7f827f59dcca0f391c279c346e4e8bc941880c24ec30fe1cba2e9a319f89c",
+      "page_one_based": 22,
+      "image": "/private/tmp/ai-paper-WP101/source-fixed-data.png",
+      "image_sha256": "2b5de57110e2bddbfde43c06fc277e222e7628d1d353df7ae6fdd92d5969a1f6",
+      "image_bytes": 309706,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP101/MinamotoYamaura2017v1.pdf",
+      "source_sha256": "ee898625dc7697ab7bd4480d034448d89bdabc39f4544f19fa03aa51a8a7a9ec",
+      "page_one_based": 18,
+      "image": "/private/tmp/ai-paper-WP101/MY-pd.png",
+      "image_sha256": "7d2efd02b1b38d75f6bb29cbbaefda702c4ad771f4b9179d72bc5111e68fb0fe",
+      "image_bytes": 319990,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP101/Cummings2022v1.pdf",
+      "source_sha256": "004dc60949f15eda5bd2fe611289c4911388361558d3e4e26d0626649eb9ac31",
+      "page_one_based": 7,
+      "image": "/private/tmp/ai-paper-WP101/Cummings-asymmetry.png",
+      "image_sha256": "3f2e87547f20736dd894e620057d4da9070a05dd77566d937fb57ad7abd11db1",
+      "image_bytes": 296549,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP101/NRS2004v2.pdf",
+      "source_sha256": "4eef7b624526d9bc9b467cf9be5a6ee9418bd87e8a76246fa3293530fbf2dff3",
+      "page_one_based": 5,
+      "image": "/private/tmp/ai-paper-WP101/NRS-localization.png",
+      "image_sha256": "4bfb3731031704d02c9d4b78f3d0fad2fd79ec9306fb99db346dee5df48ea1e5",
+      "image_bytes": 315387,
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP101/Rickard2018v1.pdf",
+      "source_sha256": "012dea160bbeceea9035a417349b814fa3d6104dc0beda4d0819471711826691",
+      "page_one_based": 7,
+      "image": "/private/tmp/ai-paper-WP101/Rickard-generation.png",
+      "image_sha256": "1c45512e9b09f75d7210f8e3b2ead11dbd6573ee75e70c40de2c6b6f158a062a",
+      "image_bytes": 310307,
+      "pixels_actually_viewed": true
+    }
+  ],
+  "domain_attempts": [
+    {
+      "domain": "symbolic algebra",
+      "conditional_interface": "Long finite projective-resolution regression",
+      "gap": "Needs concrete fixed A/N/P matrices and independent minimal-resolution judge;not supplied by selected choices.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "formal verification",
+      "conditional_interface": "Audit bounded-cutoff assumptions about all finite modules",
+      "gap": "Two selected sourceB endpoints,not executable witnesses/build/human or an actual downstream verifier request.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "quantum control",
+      "conditional_interface": "Repeated central selection",
+      "gap": "H is an abstract complex-module functor;not a supplied completely-positive physical channel with resource constraints.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "communication coding",
+      "conditional_interface": "Finite quotient sign filters",
+      "gap": "Finite ring quotient/complex character not a validated channel/code or decoding improvement;old sign/shift constructions already available.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "biology",
+      "conditional_interface": "Extinction-time state model",
+      "gap": "No biological state-to-R-module map/data;projective dimension not measured cell death time.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "finance",
+      "conditional_interface": "Long terminating dependency chains",
+      "gap": "Homological dimension is not chronological risk/cashflow;no positivity/probability input or actual consumer.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "databases",
+      "conditional_interface": "Finite query truncation bounds",
+      "gap": "Resolution length is not query work;no supplied algebra encoding of a real query batch or matched baseline.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "robotics",
+      "conditional_interface": "Repeated constraints through group representations",
+      "gap": "Finite matrix quotient does not provide a pose model or robust real-geometry semantics.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "transport",
+      "conditional_interface": "Multi-stage scheduling representation",
+      "gap": "Old radical-square-zero chain records a complex,not a scheduling gain;no consumer/exact cost mapping.",
+      "result": "no_current_qualified_candidate"
+    },
+    {
+      "domain": "art",
+      "conditional_interface": "Controlled repeated pattern survival",
+      "gap": "Old finite shift registers already implement a chosen horizon;no benefit from unknown final algebra fixture.",
+      "result": "no_current_qualified_candidate"
+    }
+  ],
+  "cross_family_attempts": [
+    {
+      "target": "F-196",
+      "mapping": "Compare finite quotients,group-algebra coefficients and fixed construction order",
+      "boundary": "F198 uses complex characters of finite quotient images,not torsionfreeF196group or F2zero-divisors;no combined result."
+    },
+    {
+      "target": "F-200",
+      "mapping": "Compare minimal resolutions/Betti certificates",
+      "boundary": "F200 graded commutative regular-sequence conditions differ from noncommutative square-zero algebra;no inherited speed or exact fixtures."
+    },
+    {
+      "target": "F-317",
+      "mapping": "Compare formal idempotent completion and relative diagram realization",
+      "boundary": "Different category structures/coherence and completion semantics;odd double does not give arbitrary categorical tensor/strictification algorithm."
+    }
+  ],
+  "gaps": [
+    "Currentone-manuscript8TeX1992+208Bib+README18fullyread;16results(15labelled+1unlabelled) and22methods are source drafts,not completefamily/history assurance.",
+    "15bibliographykeys=14externalworks+oneinternalF199manuscript. Four external originals checked only in explicit scopes,10other originalbodies and internalF199bodyunread;recursiveFGR75/Cum21/Bass and foundational proofs remain unreviewed.",
+    "Only mainandauxiliaryasymmetry have selectedlocalB;14supports includingunlabelledcorollary remainC. Actual14fullformal files plusyamlselectedranges;588file3778declarationstaticunion/0lexicalplaceholders/axioms is not proofreading/build. Allfullchaingradesunknown.",
+    "No explicit chosen denominator/chainmaps/nullhomotopy matrices or finalA multiplication table,basis/dimension/runtime is supplied. Groupfinitequotient component does not make complete application fixture;no new candidate or numerical/symbolic application run.",
+    "One fixed algebra versus changing modules,little versus big,left versus right,ordinary versusderivedtensor andobjectwise versusnatural splitting are retained separately. Old exactMY formula stronger than finalpd transfer;no new algorithm gain inferred.",
+    "Ten-domain/three-family attempts yield no qualified application in this boundedpackage;human/secondprovider deferrednotwaived,no roleorinitialcheck credit."
+  ],
+  "new_application_candidates": 0,
+  "new_initial_checks": 0,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_numerical_symbolic_run": false,
+  "github_push": false
+}

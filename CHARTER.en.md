@@ -1,5 +1,7 @@
 # Charter for Finding Applications of 722 AI Mathematics Manuscripts
 
+Project: **MathWeave** · [GitHub](https://github.com/yiduo/mathweave)
+
 October 20, 2026 · @email4u
 
 English translation prepared October 22, 2026. The [Chinese original](722篇AI数学论文应用价值挖掘纲领.md) remains unchanged. This document translates the program and its targets; it is not a claim that those targets have been achieved. The original heading “Six principles” contains eight numbered principles, all preserved below. The original embedded illustration was unavailable and is represented by its caption.

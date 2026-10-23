@@ -1,0 +1,27 @@
+{
+  "work_package": "WP-100",
+  "status": "completed_scoped_original_history_not_full_family",
+  "at": "2026-10-23T05:02:59.739614+00:00",
+  "base_commit": "9e35254",
+  "upstream": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "previous_turn": "progress",
+  "actual_background_bodies_read_this_package": [
+    "LiptonTarjan1979 scopedscan",
+    "Hatcher2002 selectedauthorchapterbytes",
+    "Brown1982 publisherpreviews only"
+  ],
+  "resource_cap": {
+    "primary_original_works": 3,
+    "new_download_bytes": 8388608
+  },
+  "new_experiment": false,
+  "github_push": false,
+  "evidence": "data/provenance/history/F-196-critical-inputs.json",
+  "selected_original_roots_total": 6,
+  "partial_root": "Brown1982,I7.5p24stillunread",
+  "actual_pixels": 13,
+  "new_records": 14,
+  "new_explicit_edges": 56,
+  "full_family_complete": false,
+  "next_work_package": "WP-101thenretro036"
+}

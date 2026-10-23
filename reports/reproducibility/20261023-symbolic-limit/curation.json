@@ -1,0 +1,137 @@
+{
+  "at": "2026-10-23T02:40:34.816281+00:00",
+  "generation": "GEN-20261023-093",
+  "old_canonical_records": 4049,
+  "unchanged_old_records": 4048,
+  "versioned_candidates": 1,
+  "new_records": 13,
+  "new_explicit_edges": 33,
+  "all_old_edges_exact": true,
+  "original_candidate_prediction_plan_runs_and_scope_exact": true,
+  "prior_candidate_archive": {
+    "path": "data/graph/history/GEN093-APP05801-before.json.gz",
+    "gzip_bytes": 4366,
+    "raw_bytes": 9257,
+    "raw_sha256": "d7e04f8a2822e03fe928a8335265e2542b0a2c9b4000f99ba7e2d69dcecf589f"
+  },
+  "software_archive": {
+    "path": "data/provenance/tools/qepcad-selected-0f570797-20261023.tar.gz",
+    "sha256": "0465b0a8c07db693b0543c5a4dec530163b06fde7aabb76abb145c3bfa7b7b4d",
+    "compressed_bytes": 9994,
+    "members": [
+      {
+        "name": "qepcad-README",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/README",
+        "at": "2026-10-23T02:33:38.293843+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/README",
+        "status": 200,
+        "bytes": 2138,
+        "sha256": "4f382b7111b33d0f46225c8772993937c1c5694c1382acafd53a10d8f021fc68",
+        "archive_member": "README",
+        "raw_lines": 47,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-qesource__README",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/README",
+        "at": "2026-10-23T02:33:39.514120+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/README",
+        "status": 200,
+        "bytes": 3057,
+        "sha256": "1fc81c05ab32704e12ff571f966a4a66845c134a51a0bd116613b2f46d811cf2",
+        "archive_member": "qesource/README",
+        "raw_lines": 86,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-qesource__LICENSE",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/LICENSE",
+        "at": "2026-10-23T02:33:41.166371+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/qesource/LICENSE",
+        "status": 200,
+        "bytes": 830,
+        "sha256": "f057228858e7fd30c9debdc1d1b7c9c1c5995fa8c72e474fd5776f3fa4327380",
+        "archive_member": "qesource/LICENSE",
+        "raw_lines": 15,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__EnterForm.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/EnterForm.html",
+        "at": "2026-10-23T02:33:42.279054+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/EnterForm.html",
+        "status": 200,
+        "bytes": 5644,
+        "sha256": "ec82dcf7caa75ff003cb691a2a7df55c37e80ecf4f98a505c8a5c776cfede007",
+        "archive_member": "public_html/B/user/EnterForm.html",
+        "raw_lines": 127,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__Solution.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Solution.html",
+        "at": "2026-10-23T02:33:43.675728+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Solution.html",
+        "status": 200,
+        "bytes": 5693,
+        "sha256": "c6d576c8a1c9b0a04ae6d09d5858332a36b8bbd7a93874aae1c4215160af5183",
+        "archive_member": "public_html/B/user/Solution.html",
+        "raw_lines": 145,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__Projection.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Projection.html",
+        "at": "2026-10-23T02:33:44.935515+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Projection.html",
+        "status": 200,
+        "bytes": 4372,
+        "sha256": "e0e01f17efb386b34f236b1f00ae0485084c5a53309316804733685d24360d70",
+        "archive_member": "public_html/B/user/Projection.html",
+        "raw_lines": 109,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-public_html__B__user__Lifting.html",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Lifting.html",
+        "at": "2026-10-23T02:33:46.129552+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/public_html/B/user/Lifting.html",
+        "status": 200,
+        "bytes": 1935,
+        "sha256": "d49b287e39d835ef444cb61517431aebf0532aaa5a9602650d41ca86cf51c611",
+        "archive_member": "public_html/B/user/Lifting.html",
+        "raw_lines": 46,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-regressiontests__README",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/README",
+        "at": "2026-10-23T02:33:47.186467+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/README",
+        "status": 200,
+        "bytes": 1666,
+        "sha256": "542c433cb4830bbe608e01752d9b5dcd0dadbb3f834c8456105b2e30af84d1b5",
+        "archive_member": "regressiontests/README",
+        "raw_lines": 47,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      },
+      {
+        "name": "qepcad-regressiontests__applicationTestSet",
+        "url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/applicationTestSet",
+        "at": "2026-10-23T02:33:48.522052+00:00",
+        "final_url": "https://raw.githubusercontent.com/chriswestbrown/qepcad/0f57079731afb850d0960f2265f00de8b9e213a0/regressiontests/applicationTestSet",
+        "status": 200,
+        "bytes": 1963,
+        "sha256": "96f0f990906a3d2a83dac5a149de2a217cf4be7baccf842777f2cc529aac1c4e",
+        "archive_member": "regressiontests/applicationTestSet",
+        "raw_lines": 84,
+        "actually_read": "entire selected document,not implementation/dependency body"
+      }
+    ],
+    "member_roundtrip_sha_verified": true,
+    "license_member": "qesource/LICENSE",
+    "execution": false
+  },
+  "download_total_bytes": 921020,
+  "no_benchmark_no_install_no_github_write": true
+}

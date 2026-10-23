@@ -2752,7 +2752,7 @@
     {
       "id": "WP-093",
       "priority": 1,
-      "status": "ready",
+      "status": "completed",
       "parent_task": "WP-006",
       "objective": "Actually read and decompose the current F139 well-conditioned log-concave sampling manuscript and compare natural/formal/history query versus computation contracts",
       "selection_reason": "Retro033 chooses unread-family coverage over literal astronomical counting,unqualified continuum-to-grid experiments and tuning adverse denoising. Existing source only;no application gain presumed.",
@@ -2764,7 +2764,640 @@
       "resource_limit": "Reuse read-only math1581d4cb. Prior4254line inventory is not completed reading;verify include closure and actual body. No large model/Lean libraries or clone. Bound original history acquisitions;compress own outputs.",
       "acceptance": "Full current source, versions/withdrawal,all named results and constants,actual selected formal proof/spec comparison,methods and10-domain attempts. Preserve C2 potential supplied minimizer,Hessian I..2I,exact values/gradients,fixedTV1/10,worstcase queries versus unrestricted computation. No runtime or implementation benefit inferred from oracle exponent. Core/source/FK/impact/export/no-math QA,full-family gaps explicit.",
       "stop_or_redirect": "Do not construct an apparent practical sampler by dropping exact-oracle or between-query computation requirements. Source lower bounds/existence not an application experiment. Need actual caller,independent judge and preregistration before numerical tests.",
-      "created_at": "2026-10-22T05:32:17.358852+00:00"
+      "created_at": "2026-10-22T05:32:17.358852+00:00",
+      "started_at": "2026-10-22T05:36:34.550722+00:00",
+      "reading_execution_receipt": "state/reading-progress/F-139.json",
+      "actual_read_ranges": {
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/README.md": [
+          [
+            1,
+            17
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/divergence-trace-opening.tex": [
+          [
+            1,
+            31
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/implementation-two-depths.tex": [
+          [
+            1,
+            17
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/main.tex": [
+          [
+            1,
+            74
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/references.bib": [
+          [
+            1,
+            254
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex": [
+          [
+            1,
+            414
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex": [
+          [
+            1,
+            535
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex": [
+          [
+            1,
+            729
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/introduction.tex": [
+          [
+            1,
+            269
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex": [
+          [
+            1,
+            317
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex": [
+          [
+            1,
+            379
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex": [
+          [
+            1,
+            779
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex": [
+          [
+            1,
+            275
+          ]
+        ],
+        "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex": [
+          [
+            1,
+            435
+          ]
+        ]
+      },
+      "canonical_coverage_promoted": true,
+      "full_source_completed": true,
+      "next_actual_action": "Qualify existing APP27301 four-weight feature-certificate transfer against a real caller,premise availability and strongest old direct PSD/parallel-sum cost before any experiment",
+      "completed_at": "2026-10-22T06:12:50.520659+00:00",
+      "quality_evidence": "reports/reproducibility/20261022-log-concave",
+      "reading_ledger": "data/provenance/readings/F-139.json",
+      "result_summary": "39results/16methods/23bibliography/4selectedoriginals/8pixels;84newcanonical240newexplicit,old3781+oldedgesexact;68core+8impact+15archiveintegrity+no-mathclean passed;no candidate or numericalrun"
+    },
+    {
+      "id": "WP-094",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Qualify existing APP27301 four-weight feature-certificate transfer against a real caller,premise availability and strongest old direct PSD/parallel-sum cost before any experiment",
+      "selection_reason": "After unread F139 source,return to a previously registered distant conditional mapping with a concrete finite matrix interface;do not repeat astronomical counting,source-only Gaussian controls or frozen adverse grids. Real four-certificate demand is an untested admission gate,not presumed absent globally.",
+      "inputs": [
+        "APP-273-01",
+        "experiments/plans/APP-273-01-conditional.json",
+        "reports/entropy-photon-F273-reading.md",
+        "reports/log-concave-F139-reading.md",
+        "reports/retrospectives/033-counting-cost-and-continuum-scope.md"
+      ],
+      "resource_limit": "Read existing canonical contract/original references first;bounded at most3 distinct original consumer/software/interface sources. No outreach,new issues,large dependencies or math copy. Reuse existing runtimes;cap new downloads10MiB only if genuinely needed. Compress own evidence/helpers with raw SHA verification.",
+      "acceptance": "Actually establish or explicitly fail observed real linear caller needing same-map positive diagonal-form certificate transfer,pre-existing four premise certificates/admissible invariant finite domain,certified PSD/interval judge and complete marginal cost versus direct target PSD and old operator-mean/parallel-sum methods. Preserve original universal admitted-pack prediction;no experiment/initial credit for inventory or theorem-identity toy. Version any factual correction,canon/hash/FK/impact/gates/export/core and scoped clean checks. Numerical run only after separate frozen preregistration and complete admission.",
+      "stop_or_redirect": "Stop after bounded source qualification;if actual premise bank/caller/cost not established,record exact boundary and redirect WP095 to unread-family coverage. Bounded absence is not global absence;do not manufacture certificates just to count an initial check.",
+      "created_at": "2026-10-22T06:12:50.520659+00:00",
+      "started_at": "2026-10-22T06:20:24.315973+00:00",
+      "execution_journal": "state/reading-progress/WP-094.json",
+      "completed_at": "2026-10-22T06:35:11.233814+00:00",
+      "quality_evidence": "reports/reproducibility/20261022-fourweight-demand",
+      "demand_ledger": "data/provenance/demand/F-273-fourweight-demand.json",
+      "result_summary": "3boundedoriginalprojects;actualrelatedneedbutfourcertificatebank/certifiedjudge/costnotadmitted;11newnodes15newedges,1exactoldAPPversion,plan/predictionunchanged;68core8impact15archives/no-mathclean pass;no run"
+    },
+    {
+      "id": "WP-095",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Actually read/decompose both F058 current semialgebraic universal-cover and bounded-domain symmetry manuscripts,versions,selected natural/formal/history scopes and transferable contracts",
+      "selection_reason": "Algebraic/complex geometry has only2of36families with actual reading,versus12of40inTCS;return to low-coverage different objects after bounded nonlinear/finite-matrix demand work. No application gain presumed. Two catalogue manuscripts belong together,not one-title completion.",
+      "inputs": [
+        "F-058",
+        "P-c3639a0ea6ca2516",
+        "P-797062f12750f925",
+        "reports/F273-fourweight-demand.md",
+        "reports/retrospectives/033-counting-cost-and-continuum-scope.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 2,
+        "tex_files": 18,
+        "tex_lines": 6581,
+        "current_read_scope": "All18TeX6581+571Bib+2README actuallyread;selected8formal/doc/config bodies,4original scoped works and8PDFpixels read.73result locators only,manualcontracts/methods/bibliographymerging/exploration pending;no canonical source draft promotion."
+      },
+      "resource_limit": "Use read-only math1581d4cb;verify include closure and actual source bodies,figure/version/withdrawal facts. No clone/cache/dependency install. Bounded necessary original history acquisitions,compress own helpers/outputs and verify byteSHA before cleanup.",
+      "acceptance": "All current manuscript bodies,versions,named statements/aliases,constants/conditions,key proof inputs,selected actual formal specification/proof scope and original historical comparisons,multiple method contracts/ten-domain attempts and justified cross-family routes. Preserve normal/projective/compact quotient,complex versus real semialgebraic hypotheses,covering/symmetry/action/effectivity distinctions as actually stated,do not infer finite algorithms from classification. Graph/source/prior/FK/gates/impact/export/core/no-math clean QA. Full family/history gaps explicit.",
+      "stop_or_redirect": "No numerical experiment from title or known bounded-domain examples;first qualify actual caller/constructor/independent judge and preregister if warranted. Immediately globalretro034 after completed WP095,or earlier major evidence.",
+      "created_at": "2026-10-22T06:35:11.233814+00:00",
+      "started_at": "2026-10-22T06:42:41.366029+00:00",
+      "reading_execution_receipt": "state/reading-progress/F-058.json",
+      "actual_reading_progress": {
+        "manuscripts": 2,
+        "tex_files": 18,
+        "tex_lines": 6581,
+        "separate_bib_lines": 571,
+        "readme_lines": 36,
+        "all_current_natural_source_bodies_read": true,
+        "include_closure_verified": true,
+        "canonical_coverage_promoted": false,
+        "full_family_complete": false,
+        "selected_actual_formal_files": 8,
+        "static_index_only_files": 335,
+        "remaining": [
+          "Review73manualcontracts/20methods and constrained joint-upper-limit candidate draft;do not equate source reading or role agreement with proof/application evidence",
+          "Merge79bibliographykeys to unique works;reuse4historicalnodes and separate3internal manuscript references",
+          "Insert newsource generation with explicitsource result/method/history/cross-family/candidate relations and fullunknown dependency grades;do not reuse original-history generation091 ID",
+          "Actual wholegraph/source/FK/gates/impact/exports/core/archive/no-math checks and weeklyhumanqueue preparation on changedcandidatepopulation if canonical candidate created",
+          "Only then completeWP095 and immediateglobalretro034;compare candidate-qualification route against more source-only reading and old-method null"
+        ],
+        "selected_original_works_scoped": 4,
+        "pdf_pixel_inspections": 8,
+        "qualified_result_inventory": 73,
+        "bibliography_key_occurrences_unmerged": 79,
+        "new_history_canonical_records": 8,
+        "source_decomposition_promoted": false,
+        "manual_result_contract_drafts": 73,
+        "method_contract_drafts": 20,
+        "ten_domain_exploration_draft": 10,
+        "cross_family_exploration_draft": 3,
+        "conditional_candidate_drafts_not_canonical": 1,
+        "same_provider_isolated_roles_completed": 2
+      },
+      "checkpoint_quality_receipt": "reports/reproducibility/20261022-semialgebraic-reading/reading-checkpoint-quality.json.gz",
+      "history_evidence": "data/provenance/readings/F-058-history.json",
+      "history_quality_receipt": "reports/reproducibility/20261022-semialgebraic-reading/history-quality-summary.json.gz",
+      "next_actual_action": "Merge79bibliographykeys to unique works;reuse4historicalnodes and separate3internal manuscript references",
+      "drafts": {
+        "contracts": "state/reading-progress/F-058-contract-draft.json.gz",
+        "candidate": "state/reading-progress/F-058-candidate-draft.json.gz",
+        "opinions": "state/reading-progress/F-058-agent-opinions.json.gz",
+        "exploration": "state/reading-progress/F-058-exploration-draft.json.gz"
+      },
+      "completed_at": "2026-10-23T02:17:06.400798+00:00",
+      "full_source_completed": true,
+      "canonical_coverage_promoted": true,
+      "reading_ledger": "data/provenance/readings/F-058.json",
+      "quality_evidence": "reports/reproducibility/20261022-semialgebraic-canonical",
+      "result_summary": "Bothcurrent18TeX6581+571Bib+2README;73results20methods79bibkeys71externalworks3internal;4scopedoriginals8pixels;1conditionalcandidate,noinitial/run;68core10impact15archives/no-mathpassed;fullfamily/history/human/providerstill0",
+      "interruption_recovered_at": "2026-10-23T02:17:06.400798+00:00"
+    },
+    {
+      "id": "WP-096",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Qualify actual symbolic joint-upper-limit caller,certified finite-jet input and strongest old original-family QE/Puiseux full-cost baseline for APP-058-01",
+      "selection_reason": "Retro034 finds source-only bias:51actualread/46sourcedrafts but13initialchecks. Return to a concrete newly clarified local-method candidate instead of another pure reading package or unqualified old wrappers;no gain presumed.",
+      "inputs": [
+        "APP-058-01",
+        "experiments/plans/APP-058-01-conditional.json",
+        "data/provenance/readings/F-058.json",
+        "state/reading-progress/F-058-agent-exact-receipts.json.gz",
+        "reports/retrospectives/034-effective-interfaces-and-caller-admission.md"
+      ],
+      "resource_limit": "At most3distinct primary consumer/tool projects;newdownloads<=10MiB,normalTLS,temporaryfulltexts hashed thenremoved. Reuse runtimes,read-only pinnedmath,no install of Sage/Mathematica/largeCAD or newmodelAPI. Compress own evidence/logs.",
+      "acceptance": "Actual requestedoperation must match joint-upperlimit with moving witnesses,not fixedh limit/finite-t topology. Identify exact algebraic-analytic branch encodings,boundedcharts,verifiedslack/fixedfibre-distance/inversepower/remainder/sufficientorder certificates andwho paysdiscovery. Independent original-family judge must not reuse jet adapter;compare directQE,adaptivePuiseux/Newton andsame-orderTaylor withfullcost. Preserve candidate prediction/version;no initialcredit without complete actual external check. Canonical provenance/FK/grade/gates/fullgraph/source/impact/export/core/no-math QA.",
+      "stop_or_redirect": "Stop after bounded qualification. If no actual admittedcaller/certificates/independentjudge,retainconditionalcandidate andrecordboundedfailure,notglobalabsence or formal否定;turn next to lowcoverage group/algebra or an existing genuinely executable candidate. If admitted,create separate frozen experiment specification before any numerical/symbolic benchmark. Never invent newmath to supply effectiveorders.",
+      "created_at": "2026-10-23T02:17:06.400798+00:00",
+      "retrospective_due": "AfterWP096-WP098 globalretro035,or earliermajor evidence/two no-informationpackages",
+      "started_at": "2026-10-23T02:24:01.512499+00:00",
+      "selected_primary_projects": [
+        "REDLOG",
+        "QEPCAD B",
+        "RAGlib"
+      ],
+      "execution_journal": "state/reading-progress/WP-096.json",
+      "completed_at": "2026-10-23T02:50:57.924299+00:00",
+      "result_summary": "Three bounded primary projects;9pinnedQEPCADdocuments706lines,actualRAGlibcaller/dense-outputscope;13newcanonical33edges,priorcandidatepreserved,originalprediction/plan/runsunchanged. Not admitted,no initial/benchmark/install/GitHubwrite.68core8impact15archives267sourcemembers/no-mathpassed.",
+      "evidence": [
+        "data/provenance/demand/F-058-symbolic-limit-contracts.json",
+        "reports/F058-symbolic-limit-demand.md",
+        "reports/reproducibility/20261023-symbolic-limit/"
+      ]
+    },
+    {
+      "id": "WP-097",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Actually read and decompose both F256 group-equation manuscripts,all current natural source bodies,selected formal scope/history and transferable methods",
+      "selection_reason": "WP096 bounded qualification produced useful all-strata/certificate constraints but no admitted experiment;stop at3projects. Group theory remains1/14actualread versus TCS12/40. F256 offers a different existence/extension/effective-computation interface;do not presume algorithmic application from title.",
+      "inputs": [
+        "F-256",
+        "P-96f3844b49d3a0f7",
+        "P-63f4b2af9a574825",
+        "reports/F058-symbolic-limit-demand.md",
+        "reports/retrospectives/034-effective-interfaces-and-caller-admission.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 2,
+        "tex_files": 14,
+        "tex_lines": 2157,
+        "separate_bib_lines": 109,
+        "scope": "Only2READMEs and file inventory read at selection;current source bodies not read,zero coverage promotion"
+      },
+      "resource_limit": "Read-only pinnedmath,no clone/cache/install. At most4necessary original historical works selected after reading actual citations,newdownloads<=8MiB,normalTLS. Reuse runtime,hash external temporary bytes and compress own evidence. No unregistered numerical experiment.",
+      "acceptance": "All current manuscript bodies/include closure,versions and exact named-result conditions;compare existence in overgroup,embeddability,nonsingularity and any effective output exactly as stated. Selected natural/formal specification,history/method contracts,ten-domain/cross-family exploration with no invented application count. Canonical/source/FK/gates/impact/exports/core/no-math QA. Full family/history/human proof gates remain separate.",
+      "stop_or_redirect": "Record existence-versus-algorithm and finite-versus-infinite scope limits;do not invent new mathematics,solver or toy benchmark to claim application. Retain uncertain mappings;qualify real caller/reference before any separate experimental specification.",
+      "created_at": "2026-10-23T02:50:57.924299+00:00",
+      "retrospective_due": "AfterWP098 globalretro035 or earlier major evidence/two no-information packages",
+      "execution_journal": "state/reading-progress/F-256.json",
+      "started_at": "2026-10-23T02:54:34.127001+00:00",
+      "completed_at": "2026-10-23T03:44:52.974103+00:00",
+      "full_source_completed": true,
+      "canonical_coverage_promoted": true,
+      "full_family_complete": false,
+      "reading_ledger": "data/provenance/readings/F-256.json",
+      "quality_evidence": "reports/reproducibility/20261023-group-equations",
+      "result_summary": "Bothcurrent14TeX2157+109Bib+2README36read;10results20methods23externalworks/1companion4selectedoriginals8pixels;1conditionalguard,0initial/run;59newrecords207edges,4062oldexact;68core12impact15archives267members/fullJSONGraphML/no-mathpassed;noGitHubwrite"
+    },
+    {
+      "id": "WP-098",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Bounded actual group-presentation caller and strong Tietze/old embedding baseline qualification for APP25601 before any implementation or experiment",
+      "selection_reason": "F256 current source now resolves existence versus effective operations;low-coverage group theory improved while source-draft/validation gap persists. Test a concrete newly defined conditional interface instead of another pure source package or known easy rank examples.",
+      "inputs": [
+        "APP-256-01",
+        "experiments/plans/APP-256-01-conditional.json",
+        "data/provenance/readings/F-256.json",
+        "reports/group-equations-F256-reading.md",
+        "reports/retrospectives/034-effective-interfaces-and-caller-admission.md"
+      ],
+      "resource_limit": "At most3primary public software/consumer projects,e.g.GAP,SageMath andKBMAG only if source fits. Newdownloads<=8MiB,normalTLS,no package/cache/install or upstreamcopy. Read actual source/docs and executable caller semantics,notinvented usage;compress own evidence andhash-clean temporarybytes.",
+      "acceptance": "Identify actual consumer requiring canonical coefficient injectivity rather than isomorphism,finite realization or solution inoriginalG. Bind completegroup/map/AST/batch identity and requiredsemantics;rank witness is not independentembeddingjudge. Compare strongest applicable Tietze/elimination/explicit embedding/old special-group theorem at complete cost. Realadmittedbatch and independentlysupportedembedding evidence required before separate preregistration/run. Preserve candidate/version/negative paths;canonical/source/FK/gates/impact/fullgraph/export/core/no-mathQA.",
+      "stop_or_redirect": "Stop after bounded3projectqualification;no general absence/theoremrefutation/formalnegative from failedadmission. No fabricated toyconsumer or rankunitchecks as applicationvalidation. Retain conditionalcandidate;immediately globalretro035 andcompare existingexecutable routes/coverage/opportunity cost.",
+      "created_at": "2026-10-23T03:44:52.974103+00:00",
+      "retrospective_due": "Immediately afterWP098 globalretro035,or earliermajor evidence/two no-informationpackages",
+      "started_at": "2026-10-23T03:48:22.590184+00:00",
+      "execution_journal": "state/reading-progress/WP-098.json",
+      "completed_at": "2026-10-23T04:13:59.991451+00:00",
+      "result_summary": "3pinnedprimaryprojects,8selectedsourcefiles1691lines;realSage/GAP/KBMAGoutputs need stronger/differentcontracts;notadmitted/noimplementation/run.12newrecords35edges,4120oldexact/candidatev1andv2retained;68core12impact15archives267members/no-mathpassed;retro035dueandcompleted",
+      "evidence": [
+        "data/provenance/demand/F-256-group-presentation-contracts-v2.json",
+        "reports/F256-group-guard-demand.md",
+        "reports/reproducibility/20261023-group-guard"
+      ],
+      "global_retrospective": "reports/retrospectives/035-group-guards-and-checkable-algebra.md"
+    },
+    {
+      "id": "WP-099",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Actually read and decompose low-coverage algebra F196 torsion-free group-algebra zero-divisor construction,its selected formal/history scope and checkable finite-witness interfaces before any application promise",
+      "selection_reason": "Retro035 stops repeatedunadmittedgroupguard search;algebra2/18 versusTCS12/40. F196 offers a materially different finitealgebraicobject/exactwitness route but its effectivity/wordequality/nonzero/torsionassurances remain unobserved. Do not infer executableapplication from catalogue.",
+      "inputs": [
+        "F-196",
+        "P-3d6fa1dbaf31b181",
+        "state/reading-progress/F-196.json",
+        "reports/retrospectives/035-group-guards-and-checkable-algebra.md",
+        "reports/F256-group-guard-demand.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 1,
+        "tex_files": 8,
+        "tex_lines": 1453,
+        "separate_bib_lines": 261,
+        "current_read_scope": "README18lines andfileinventoryonly;no sourcebody/formalread,no coveragepromotion",
+        "meaning": "Original pre-reading selection snapshot,not current coverage;see completion evidence."
+      },
+      "resource_limit": "Read-only pinnedmath,no clone/cache/install. At most4necessary originalhistorical works after actualsourcecitationselection,newdownloads<=8MiB,normalTLS. Reuseexistingruntimes;hash-clean externalbytes andcompress ownhelpers/logs. No unregistered numeric/symbolicexperiment.",
+      "acceptance": "All currentnaturalbodies/includeclosure,versions/withdrawals,exact namedstatements/constants andkey proofcontracts. Distinguishfinite group-ring identityverification,groupwordequality,nonzero factors,torsionfreeness andfiniteclassifyingspace. Selectedactualformal/modelscope versus catalogue,necessary originalhistoricalconditions/oldcounterexamples,methods/tendomain/crossfamily withnoinventedapplicationcount. Canonical/source/FK/grades/gates/impact/exports/core/no-mathQA. Fullfamily/history gaps explicit.",
+      "stop_or_redirect": "No theorem/proofextension/newmathematics to supply missingcertificates. Finiteexpression isnot automaticallydecidable group-ring multiplication/nonzero proof;sourcecheck isnot application gain. If actualindependentjudge/caller/effective constructor exists,freeze separate specificationbefore anyoutputs;otherwisepreserve conditional scope and redirect.",
+      "created_at": "2026-10-23T04:13:59.991451+00:00",
+      "retrospective_due": "WP099-WP101 then globalretro036;major evidence/two no-informationpackages earlier",
+      "started_at": "2026-10-23T04:17:14.927078+00:00",
+      "execution_journal": "state/reading-progress/F-196.json",
+      "completed_at": "2026-10-23T04:41:15.969296+00:00",
+      "result_summary": "Completecurrent8TeX1453+261Bib+README;12results19methods4scopedoriginals8pixels;selectedmainB/11C/fullchainunknown;59newrecords194edges/all4133oldexact. Noactualmatchingtable/candidate/run.68core12impact15archives267members/fullgraphpassed;no-mathreceiptseparate.",
+      "evidence": [
+        "data/provenance/readings/F-196.json",
+        "reports/zero-divisors-F196-reading.md",
+        "reports/reproducibility/20261023-zero-divisors"
+      ]
+    },
+    {
+      "id": "WP-100",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Bounded original-source qualification of the classical separator, CW/Hurewicz and cyclic-group cohomology inputs actually required by F196",
+      "selection_reason": "WP099 established no concrete zero-divisor fixture and complete dependency grades remain unknown. Close actual old proof-input gaps rather than another consumer search or immediately enlarging current-source drafts. Existing old separator/parity methods may already suffice for any finite application.",
+      "inputs": [
+        "F-196",
+        "CLM-196-LEM-PLANAR-SEPARATION",
+        "CLM-196-LEM-PICTURES",
+        "CLM-196-COR-TORSION-FREE",
+        "LIT-196-LIPTONTARJAN1979",
+        "LIT-200-00F68475E7",
+        "LIT-196-BROWN1982",
+        "data/provenance/readings/F-196.json",
+        "reports/zero-divisors-F196-reading.md"
+      ],
+      "resource_limit": "At most3 original works in bounded actually needed scopes;<=8MiB new downloads,normalTLS,publicauthor/publisheraccess only,no installs/cache/upstreamcopies. Reuse existing exact source locations. Preserve failed retrievals and unread scope;do not expand cap simply to force completion. Compress own evidence and verify hashes before cleanup.",
+      "acceptance": "Read exact original statements/selected proofs needed for simple planar separation constants,relativeCW/conepicture/Whitehead-Hurewicz and primecyclic periodic free-resolution obstruction;retain actual version/page/pixels/byte hashes. Distinguish finite2D dimension,finite generation,free restricted resolutions and actual lifts. Version changed canonical facts,route mandatory impact without promoting unrelated contexts. Fullfamily/recursivehistory/human gaps remain explicit. Canonical/source/FK/gates/fullgraph/exports/core/no-mathQA.",
+      "stop_or_redirect": "Do not invent new mathematics or executablematching witness. If an original body is inaccessible after bounded retrieval,retain precise gap and continue available inputs;metadata/secondarysummary not originalproofcredit. No proof re-evaluation counted as application gain. AfterWP100 preserve one bounded different-route selection forWP101 andretro036.",
+      "created_at": "2026-10-23T04:41:15.969296+00:00",
+      "retrospective_due": "AfterWP101 globalretro036;major evidence/two no-informationpackages earlier",
+      "started_at": "2026-10-23T04:44:55.791888+00:00",
+      "execution_journal": "state/reading-progress/WP-100.json",
+      "completed_at": "2026-10-23T05:02:59.739614+00:00",
+      "result_summary": "Threeoriginalworks/fivePDFs/13actualpixels;LTconstant/disconnected,HatcherrelativeCW/Hurewicz andBrownVIII2.1 scoped. I7.5p24unread;6selectedroots+Brownpartial+15unread.14newrecords56edges,fouroldexactpriors/twonewsourcebindingpriors,4188otheroldbyteexact.68core14impact/fullgraph15archives267memberspassed;no-mathreceiptseparate. No candidate/run/fullfamily promotion.",
+      "evidence": [
+        "data/provenance/history/F-196-critical-inputs.json",
+        "reports/F196-critical-history.md",
+        "reports/reproducibility/20261023-critical-history"
+      ]
+    },
+    {
+      "id": "WP-101",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Read and decompose all current F198 finite-dimensional algebra/module source bodies,selected formal/history scopes and exact checkable interfaces before any application claim",
+      "selection_reason": "WP099 found no concrete group-ring matching witness;WP100 closed selected old proof-input scopes butBrowncomparisonbookbody remains unobserved. Avoid a third consecutivepackage on the same source/accessgap. F198 modules/projective dimensions are different objects from torsionfreegroups;algebra remains3/18 read. README18lines and8TeX1992+208Bib inventory only,not proofread. F206 alternative37TeX17089lines would consume muchlarger first fullbodypackage. No inference of a finitealgorithm from title.",
+      "inputs": [
+        "F-198",
+        "P-315560cf0726c894",
+        "state/reading-progress/F-198.json",
+        "reports/F196-critical-history.md",
+        "reports/retrospectives/035-group-guards-and-checkable-algebra.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 1,
+        "tex_files": 8,
+        "tex_lines": 1992,
+        "separate_bib_lines": 208,
+        "actual_scope": "README18lines and fileinventory only;allsourcebodies/preamble/bib/formal/historyunread,no canonicalcoveragepromotion"
+      },
+      "resource_limit": "Read-only pinnedmath,no cache/install/clone. At most4necessary originalhistorical works,<=8MiB newdownloads,normalTLS. Reuseexistingruntimes;compress ownhelpers/logs and verify original/temp hashes beforecleanup. Numerical/symbolic output onlyafter separatepreregisteredspecification.",
+      "acceptance": "Entirecurrentmanuscript bodies/includeclosure,versions/withdrawals,exact results/keylemmas/constants and sourcebound methods. Separate fixedfinite-dimensional algebra,ordinarymodules,finiteprojectivedimensionversusunboundedfamily,selection/localization/parameterexistence from a suppliedcomputablepresentation/certificate. Compare actual selectedformal specifications,old original conditions and strongbaseline/null;ten-domain/crossfamilyattempts without inventedconsumer/benefit/count. Canonicalversion/source/FK/grades/gates/impact/wholegraph/export/core/no-mathQA;fullfamily/historygaps honest.",
+      "stop_or_redirect": "No new mathematics to supply missingconstructor or proof. Sourceproofrecalculation/knownsmallalgebraexamples not application gain. Keep conditional mappings if concrete,request isolated skeptic/defender roles onlyfor actualnewhypothesis;secondprovider/humanstillmissing. Complete globalretro036 immediately afterWP101 or earliermajorissue/two no-informationpackages.",
+      "created_at": "2026-10-23T05:02:59.739614+00:00",
+      "retrospective_due": "Immediately afterWP101 globalretro036",
+      "started_at": "2026-10-23T05:06:12.386695+00:00",
+      "execution_journal": "state/reading-progress/F-198.json",
+      "completed_at": "2026-10-23T05:37:47.538904+00:00",
+      "result_summary": "WP101完成F198当前一稿8TeX1992行、208Bib与README全文；15标签结果另1无标签推论／22方法、四项原作选段及8页实际像素入图。两个主规格局部B，其余14C，全链未知；588文件3778声明静态索引不是构建，Classical.choice不是可执行矩阵。固定有限维A、变化有限维模、非平坦派生bar、有限消失与存活下界分别保留，旧Minamoto–Yamaura公式更强；辅助Λ右侧结论不移给原A。没有新增候选／初检／数值或符号运行。65新规范217显式边，三旧代码引用精确版本／三源码gzip保留，4203其他旧规范／旧边／全部候选／实验／旧族报告原字节不变；导出与外键校验保留无标签推论及条件，新增第69项软件测试。6985节点19138关系7386规范注释（7376核心类型，6866本地散列、520外部未保留全文，其中355无字节散列）。54阅读49全文草稿1309标签另2无标签主定理及1推论，43候选13初检13假设5限定支持8不利；完整族／历史／真人／第二供应商／试点仍0。69核心14传播、完整JSON／GraphML和15归档267成员通过；无math干净目录与存储清理以本包实际收据为准。复盘036已完成归零：不立即补两个最终反例构造器，WP102至多三公开原始软件项目核有限三列严格化实际调用／完整右B复形、关系同伦和强旧bar基线，未准入则不编造消费者或拿小矩阵d²检查充应用收益。WP103保留跨门类／未完成族，WP102–104后复盘037。仅本地保存／提交，未推送GitHub；重要里程碑合并发布，官方math只读不部署。整体active_incomplete。",
+      "evidence": [
+        "data/provenance/readings/F-198.json",
+        "reports/finitistic-F198-reading.md",
+        "reports/retrospectives/036-fixed-objects-and-finite-components.md",
+        "reports/reproducibility/20261023-finitistic"
+      ]
+    },
+    {
+      "id": "WP-102",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Bounded qualification of actual consumers and complete finite inputs for F198 three-column rectification, against strong old homotopy/bar strictification",
+      "selection_reason": "Retro036 distinguishes a usable finite proof component from the unsupplied final F196/F198 algebra constructors. Two full-source drafts plus classical scopes added no application checks. Test actual demand now without assuming absence of complete final matrices rules out all components. Old Keller/bar strictification may already be equivalent.",
+      "inputs": [
+        "F-198",
+        "CLM-198-LEM-RECTIFICATION",
+        "data/provenance/readings/F-198.json",
+        "reports/finitistic-F198-reading.md",
+        "reports/retrospectives/036-fixed-objects-and-finite-components.md"
+      ],
+      "resource_limit": "At most three public primary software projects; candidates QPA, Sage and Kenzo are unverified investigation choices only. <=8MiB downloads, normal TLS, no installs/cache/upstream copies. Reuse exact existing source facts; preserve failures. No numerical/symbolic output before separate preregistration.",
+      "acceptance": "Inspect actual code/documentation and real callers. Require bounded finite right-B complexes, chain maps f, degree-minus-one homotopies h, complete independent quadratic relation basis, no longer paths/overlaps and independently meaningful output. Match the old baseline on identical input/output semantics and charge all construction, homotopy and denominator costs. Record partial matches without false absence claims. Canonical version/source/FK/grades/gates/impact/full-graph/export/core/no-math QA. Any actual new hypothesis needs isolated skeptic/defender roles and separate preregistration before output.",
+      "stop_or_redirect": "Stop after three projects. If no admitted actual caller or old construction already suffices, record bounded result and keep conditional ideas; do not invent consumers, lower standards or count d-squared unit checks as an application gain. WP103 preserves a different subject or unfinished-family reading slot; decide its exact object from new evidence.",
+      "created_at": "2026-10-23T05:37:47.538904+00:00",
+      "retrospective_due": "WP102–104 then globalretro037; major evidence or two packages without information earlier",
+      "started_at": "2026-10-23T05:41:17.876897+00:00",
+      "execution_journal": "state/reading-progress/WP-102.json",
+      "completed_at": "2026-10-23T05:59:24.855467+00:00",
+      "evidence": [
+        "data/provenance/demand/F-198-rectification-contracts.json",
+        "reports/F198-rectification-interface-audit.md",
+        "reports/reproducibility/20261023-rectification"
+      ],
+      "result_summary": "WP102在三个原始软件项目达到上限后停止：固定QPA f24fe865、Sage10.8剥离commit981d7d71、Kenzo f68ee7a8，八文件2164行实际选读。找到真实投射分解／锥、标量收缩和环空间微扰调用，但未准入完整有限投射右B图、独立关系基及全部同伦／严格作用裁判／全成本批次。Keller1999v1选定§2／3／6／7／8及四页像素核对，旧两项有限特例、一般消失条件与bar强作用分别保留，不能宣称任意幅度下相同或有速度收益。15新规范38显式边，Keller书目旧记录精确压缩前版保留，4270其他旧规范／旧边／候选／实验／代码测试／WP101台账与coverage原字节不变。图谱7011节点19203关系，7413规范注释（7403核心类型、6883本地散列、530外部原文不保留，其中355无字节散列）。54阅读49全文草稿、43候选13初检13假设5限定支持8不利不变，完整族／历史／人审／第二供应商／试点仍0。69核心、19新旧传播、完整导出和15归档267源码成员通过；无math干净目录与压缩清理依本包最终收据，不把完整性当科学重放。没有安装或调用QPA／Sage／Kenzo数值运行。API403、TLS超时、错误根路径404及Sage标签／commit区别保留，不推断功能不存在。复盘036后计数1；WP103选未读拓扑F304，当前仅README18行、9TeX3501行＋452Bib清单，不升覆盖。F308两稿7601TeX行和F321761TeX行备选；后者延续当前复形／群代数对象，暂不优先。WP104后retro037或重大证据提前。仅本地保存／提交，无GitHub推送，官方math只读。总目标active_incomplete。"
+    },
+    {
+      "id": "WP-103",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Actually read and decompose F304 complete current Hilbert–Smith source,selected formal/history scopes and conditional transferable interfaces",
+      "selection_reason": "WP102 reached3project cap with related homotopies but no full rectification input/judge. Retro036 preserves different-subject coverage. Topology only2/18actuallyread;F304 transformation/local-action objects differ from current algebra-complex route. F308 two manuscripts7601TeXlines costs larger firstread;F321761lines returns same complexes/groupalgebra objects. Selection is not a promise of an algorithm or application.",
+      "inputs": [
+        "F-304",
+        "P-d5b8bdf01fefba04",
+        "state/reading-progress/F-304.json",
+        "reports/F198-rectification-interface-audit.md",
+        "reports/retrospectives/036-fixed-objects-and-finite-components.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 1,
+        "tex_files": 9,
+        "tex_lines": 3501,
+        "separate_bib_lines": 452,
+        "actual_scope": "README18 and file inventory only;natural/formal/history bodies unread;no new coverage",
+        "count_correction": "README actual17;prior inventory narrative18 corrected in immutable reading ledger;no byte or coverage change"
+      },
+      "resource_limit": "Read-only pinnedmath,no clone/cache/install. At most4necessary originalhistorical works and<=8MiB newdownloads,normalTLS. Existing runtimes only;compress helpers/logs and hashcheck beforecleanup. No numerical/symbolic output before separate preregistered spec.",
+      "acceptance": "Read every current source body/include closure and relevant versions/withdrawal scope. Separate effective continuous actions,local regularity,dimension/compactness and all quantitative/nonconstructive assumptions as actually stated. Compare actual formal endpoints,old results/conditions and baseline/null,not just theorem title. Extract source-bound input-output-condition methods and ten-domain/crossfamily attempts;no artificial application counts. Canonical provenance/grades/FK/impact/gates/fullgraph/export/core/no-mathQA;fullfamily/history gaps explicit.",
+      "stop_or_redirect": "Do not fill new mathematics or equate proof checks with applications. Retain concrete conditional hypotheses even without humans;isolate skeptic/defender roles for actual new connection. Missing secondprovider/humans deferred not waived. AfterWP104retro037 or earliermajor issue/two no-information packages.",
+      "created_at": "2026-10-23T05:59:24.855467+00:00",
+      "retrospective_due": "AfterWP104 globalretro037,or earliermajor evidence/two no-informationpackages",
+      "started_at": "2026-10-23T06:03:00.684127+00:00",
+      "execution_journal": "state/reading-progress/F-304.json",
+      "completed_at": "2026-10-23T06:33:02.730793+00:00",
+      "evidence": [
+        "data/provenance/readings/F-304.json",
+        "reports/hilbert-smith-F304-reading.md",
+        "reports/reproducibility/20261023-hilbert-smith"
+      ],
+      "result_summary": "WP103完成F304当前9TeX3501行、452Bib与README17全文，40标签结果另1无标签流迭代结论、24方法入图。四原作Pardon／Hornbostel–Schlichting／Balmer–Walter／Woolf选段及12页像素核对；旧cofinality2界、完美层同伦不变性与当前生成类别的限制分开。另36根正文与递归Serre／Newman／Balmer／Lie／对偶性来源仍未闭合。固定登记未见匹配形式化，全部41局部C／全链未知，未构建Lean或Comparator。新增具体待定APP30401：完整整数正合图与外层湮灭证书下传播中间保守q³；真实消费者／批次／收益均未找到，旧定量五引理／同输出SNF／HNF可能足够；两隔离同OpenAI角色仅辅助意见，不充第二供应商或人审。没有数值／符号运行、新初检或验证假设。\n\n113新规范295显式边，4286旧规范行及所有旧边原字节保留；旧候选／实验／计划／源码测试／旧族报告与阅读台账保持。全图7172节点19719关系、7634规范注释（7624核心类型、7068本地散列、566外部原文不保留，其中387无字节散列）。55阅读50全文草稿1349标签，另2无标签主定理／1推论／1流结论；F238部分95另列。44候选（近33／远10／大胆1）、13初检／13不同假设、5限定支持8不利；完整族／历史／真人／第二供应商／试点仍0。质量以本包最终收据为准，不把归档完整性冒充重放。新下载1374189字节，四原作达到上限，正常TLS一次超时后有界重试。README旧18行说法显式纠正17，不改源文／覆盖。无软件安装或官方math写入部署。\n\n复盘036后计数2，下一WP104至多三个公开原始软件／任务核有限正合比较的实际调用、完整证书／q来源、可接受松界、强旧基线与全部成本。未准入则保留待定并停止扩搜，禁止捏造消费者或q³公式小例充应用收益；完成后retro037或重大证据提前。日常本地保存／提交，GitHub没有更新，重要里程碑合并发布。整体active_incomplete。"
+    },
+    {
+      "id": "WP-104",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Bounded real-consumer and strong-old-method qualification for APP30401 finite exact-diagram annihilator certificates",
+      "selection_reason": "F304 actualsource reveals independently finite component with complete objectmapping but no consumer or benefit. Before another source draft or formula-only run,check whether a real caller accepts coarse bounds and reusable certificates. Old quantitativefivelemma or target-specific normalforms may already suffice;negative qualification has informationvalue. Retro037 mandatory afterthispackage.",
+      "inputs": [
+        "APP-304-01",
+        "CLM-304-LAT-FINITE-CHASES",
+        "PART-304-FINITE-DIAGRAM-EXPONENT",
+        "experiments/plans/APP-304-01-conditional.json",
+        "data/provenance/readings/F-304.json",
+        "data/provenance/reviews/APP-304-01-isolated-roles.json.gz"
+      ],
+      "resource_limit": "At most3primarypublic software/task projects;candidateSage integralhomology,CHomP,Kenzo are unverified investigation choices,not asserted consumers. <=8MiB downloads,normalTLS,no install/clone/cache/mathwrite. Existingretained provenance prevents redundant acquisition;no numericaloutput before separate preregistration.",
+      "acceptance": "Inspect actualcaller body and outputsemantics. Need exactintegerpresentations,allrow/comparisonmaps,well-definedness/commutativity/exactness certificates,positiveintegerq provenance and constructive lifts where demanded. Realdecision must accept nonminimalannihilator without requiring hidden fullinvariants. Compare cachedSNF/HNF,target-specificlatticesolve and oldquantitativefivelemma includingseparateannihilatorproducts. Charge acquisition/verification/bitlength/downstream/fallback and equalreuse. Preserve boundedpartialmatches,version/hash/gates,fullgraph/export/core/no-mathQA.",
+      "stop_or_redirect": "Stop after3projects;unadmittedinput or equivalentoldchase means pending,not formalnegative/globalabsence. No syntheticformula demonstration forinitialcheck quota. Completeglobalretro037 before selectingnextcoverage/validationroute.",
+      "created_at": "2026-10-23T06:33:02.730793+00:00",
+      "retrospective_due": "Immediately afterWP104globalretro037;earliermajor evidence/two no-informationpackages",
+      "started_at": "2026-10-23T06:44:04.927349+00:00",
+      "execution_journal": "state/reading-progress/WP-104.json",
+      "completed_at": "2026-10-23T07:01:54.189206+00:00",
+      "evidence": [
+        "data/provenance/demand/F-304-annihilator-contracts.json",
+        "reports/F304-annihilator-interface-audit.md",
+        "reports/reproducibility/20261023-annihilator",
+        "reports/retrospectives/037-certificate-output-and-coverage.md"
+      ],
+      "result_summary": "WP104达到三项目范围上限：固定Sage10.8剥离commit981d7d71和Kenzo f68ee7a8，六文件1597行实际选读；OriginalCHomP仅官方接口文档，主机及一次官方镜像源码正常TLS超时，未取得包散列／调用体，不冒充源码审计。实际群分解、生成元、域上的诱导矩阵和Smith逆基变换请求不能被q³标量替代，尚无完整两条正合行／外层四映射湮灭证书／q来源／重复批次与松界消费者。Sage链级rank判断与整数格饱和分开，未运行或宣布外部软件错误。APP30401版本2仍近类比／待定，降低实现优先级；原预测／计划／空run／辅助意见不变，精确前版对象和原JSONL压缩保留，不正式否定。\n\n13新规范31显式边，4398其他旧规范行和全部旧边／实验／代码测试／F304台账／coverage／50旧族报告原字节保留。全图7195节点19773关系、7657规范注释（7647核心类型、7083本地散列、574外部原文不保留，其中389无字节散列）。55阅读50全文草稿1349标签及4条单独无标签结果，44候选／13初检／13不同假设、5限定支持8不利不变；完整族／历史／真人／第二供应商／试点仍0。24新旧传播、完整JSON／GraphML／15归档267源码成员及既有221限定支持、325不利完整raw／summary实际重放通过；69核心／无math干净目录／存储最终状态见本包收据。新成功获取195414字节，没有安装或执行所查软件，没有新科学实验。官方math只读，不更新GitHub。\n\n强制复盘037完成归零，停止继续扩搜本轮证书消费者。比较旧同输出定量追踪／缓存SNF／HNF零假设与F360、F239、F238等路线，下一WP105选低覆盖组合F174两稿，32TeX7384行＋582Bib；当前仅两README各18行和文件清单，正文／形式／历史未读，不升覆盖。不得由polynomial-time标题宣称可执行／实用算法，不把普通MST／均匀树／颜色配额树当全切割或谱薄树保证。WP105–107后复盘038或重大证据提前；常规本地保存／提交，重要里程碑合并发布，总目标active_incomplete。"
+    },
+    {
+      "id": "WP-105",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Read and decompose complete current two-manuscript F174 strong thin tree source,actual formal/history scopes and conditional finite graph construction interfaces",
+      "selection_reason": "Retro037 stopsboundedF198/F304consumersearch afterrealinput/outputgaps. Combinatoricsonly3/37read;F174finitegraph/tree objects and claimedconstruction may admit independentcut/spectraljudges,butnoneassumed. Two-manucript7384TeX+582Bib read costs exceed shorterF360geometry5013TeXyetdirectlytest constructive/effectiveclaims;F2398083TeXasymptoticrates andF238unreadcompanionsremainalternatives.",
+      "inputs": [
+        "F-174",
+        "P-402de1fcb7f04b26",
+        "P-df23ae02b1b76555",
+        "state/reading-progress/F-174.json",
+        "reports/retrospectives/037-certificate-output-and-coverage.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 2,
+        "tex_files": 32,
+        "tex_lines": 7384,
+        "bib_lines": 582,
+        "actual_scope": "Superseded by actual all34sourcefile reading;58result drafts,12methods,3selectedoldoriginals,6pixels;see ledger"
+      },
+      "resource_limit": "Read-onlypinnedmath,noclone/cache/install. Atmost4necessaryoldoriginalworksand<=8MiBnewdownloads,normalTLS. Existingruntimesonly,compressownhelpers/logs/outputs androundtriphashbeforecleanup. No numerical/symbolicoutputbeforeseparate preregistration.",
+      "acceptance": "Readallincludeclosure/currentmanuscripts/relevantversions/withdrawals. Bindallsourceclaims,lemmas,methods/constants;distinguishcutversusspectral thinness,weighted/unweighted/integer/rationalinput,random/deterministic/effectiveconstructions,uniformconstants/bitlength and actualformalendpoints. Compareoldtreepacking/sparsification/strongthinconditions and completecost/independentfullcutjudge,not ordinaryMST/uniformtree/colorquota. Tentargetdomainattempts andcrossfamilyboundaries,no quotacandidates;actualnewhypothesisrequiresisolatedroles. Fullgraph/sourceFK/impact/gates/export/core/no-mathQA;fullfamily/historygapsexplicit.",
+      "stop_or_redirect": "Do notderivepracticalimplementationfromtitleorprovesnewmath. Retainconditionalconnectionsbutno syntheticknownQAasapplicationgain. Aftercompleteactualsourcechoosefinitecaller/speconlyifadmitted,otherwisealternateF360/F239/F238. WP105–107thenretro038;earliermajor evidence/two no-informationpackages.",
+      "created_at": "2026-10-23T07:01:54.189206+00:00",
+      "retrospective_due": "AfterWP107globalretro038,or earliermajor evidence/two no-informationpackages",
+      "started_at": "2026-10-23T07:08:54.507569+00:00",
+      "execution_journal": "state/reading-progress/F-174.json",
+      "evidence": [
+        "data/provenance/readings/F-174.json",
+        "reports/strong-thin-trees-F174-reading.md",
+        "reports/reproducibility/20261023-thin-trees"
+      ],
+      "result_summary": "WP105实际读完F174两篇当前稿32TeX7384行、582Bib及两README各18行，58结果草稿／12方法契约入图。静态核对两项主Lean规格为上游B，56辅助项C／全链未知，未构建Lean或运行Comparator。三部历史原作限定选段、六页PDF像素实际核对，40书目键合为32作品身份（30外部／2伴随）；外部27部根正文和递归历史仍未读。全切割／谱薄性、二进制重数／显式展开、精确秩／数值框架、弱SDP／精确可行性、已有成本舍入和签名算法分别保留。十领域和三跨族尝试没有准入新候选，没有新实验／初检。\n\n102新规范、333显式边；4412旧规范行／全部旧边／旧候选、实验代码测试与旧族报告原字节保留。8重复书目别名与104词法引用的首稿精确压缩保留，引用关系不冒充必需前提。全图7362节点20333关系、7884规范注释（7874核心，7275本地散列、609外部原文不留，其中421未取字节散列）。56阅读51全文草稿1407标签另4无标签结果；44候选13初检13不同假设、5限定支持8不利不变。完整族／历史／真人／第二供应商／试点仍0。全图、12传播、完整JSON／GraphML、15归档267源码成员实际通过；核心／干净目录与存储最终状态以质量收据为准。\n\n正常TLS获取1635535字节，未安装依赖、执行算法或运行新科学实验。临时原文清理与自有记录压缩回解以存储收据为准。GitHub无更新，日常本地保存提交、重要里程碑合并发布，官方math只读且排除。复盘037后计数1，WP107后复盘038或重大证据提前；下一WP106至多三个原始项目核对有理PSD无权外积的真实消费契约，与旧加权LDL／数值谱分解和完整位成本比较，未准入则转F360/F239/F238。整体active_incomplete。",
+      "completed_at": "2026-10-23T07:54:45.077748+00:00",
+      "quality_scope": "69core/fullsourceFKgates/12impact/fullJSONGraphML/15archives267members/no-mathclean passed;storageverified separately;no scientificreplay/newexperiment"
+    },
+    {
+      "id": "WP-106",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Qualify actual rational PSD outer-product consumers and strong old-method contracts before admitting any F174 component application",
+      "selection_reason": "F174 source contains a finite rational PSD component independent of practical all-cut-tree constants. Source reading alone supplies no consumer requiring unweighted rational vectors;weighted LDL may already suffice. Bounded reverse demand qualification can resolve this specific uncertainty before new candidate or experiment;then stop and rotate rather than indefinite library expansion.",
+      "inputs": [
+        "PART-174-RATIONAL-PSD-OUTERS",
+        "CLM-174-LEM-RATIONAL-PSD",
+        "data/provenance/readings/F-174.json",
+        "XPL-174-DOMAIN-AND-COMBINATION"
+      ],
+      "resource_limit": "At most3original public software/task projects;SymPy exact linear algebra,Qiskit quantum channel and CVXPY quadratic-form interfaces are unverified search choices. <=2MiB successful new downloads,normalTLS,no clone/install/cache/mathwrite,retain original project commit/version and selected actual caller lines. No numerical/symbolic outputs before separate executable preregistration.",
+      "acceptance": "Inspect actual exact/numeric input and output contracts,not title/API name. Need rational Hermitian PSD with certified premises,unweighted rational-vector outer products as required downstream output,complete real batch and independent exact judge. Compare exact weighted LDL or rational congruence/SOS witness,algebraic Cholesky and actual numerical methods at their own requested output. Include pivot/certificate acquisition,rank blowup,denominators,serialization,total time/memory and equal reuse;no assumed Kraus-rank or performance gain. Admit concrete hypothesis only if actual mapping survives;then isolated skeptic/defender required. Keep fullgraph/source/gates/export/core/no-math QA and compressed ownrecords.",
+      "stop_or_redirect": "Stop after3projects or2MiB. If nobody needs exact unweighted rational output or oldsame-output method already equivalent,retain observed partialmatches/no newcandidate or formulaQA experiment;select lowcoverageF360/F239 or unreadF238companions. Overall research active;human/provider deferred not waived.",
+      "created_at": "2026-10-23T07:49:26.607561+00:00",
+      "retrospective_due": "WP107thenretro038;earlier major evidence or two no-information packages",
+      "started_at": "2026-10-23T07:59:24.049100+00:00",
+      "execution_journal": "state/reading-progress/WP-106.json",
+      "evidence": [
+        "data/provenance/demand/F-174-rational-psd-contracts.json",
+        "reports/F174-rational-psd-interface-audit.md",
+        "reports/reproducibility/20261023-rational-psd"
+      ],
+      "result_summary": "WP106达到三项目上限：固定SymPy1.14.0／Qiskit2.6.0／CVXPY1.9.3源码七文件1350行实际选读，找到加权LDL线性求解、浮点Kraus转换、数值平方型锥规范化三个真实相关调用。本轮未准入要求精确无权有理外积的调用／完整实际批次／独立裁判，旧加权LDL或数值因子已满足所读输出契约；精确PSD／Choi证书可能方向仍低成本保留，不正式否定、不假称软件缺陷或速度收益。没有新候选、初检或实验。\n\n17新规范39显式边，4514旧规范行／全部旧边及旧候选、实验、代码测试、F174阅读台账、coverage和51旧族报告原字节保留。初稿两项下划线ID被校验器拒绝，精确首稿及失败日志保留，更正后全图／13传播／完整JSON与GraphML／15归档267源码成员通过，核心和干净目录终态以质量收据为准。全图7388节点20397关系、7909规范注释（7899核心、7293本地散列／616外部，其中421无字节散列）。56阅读51全文草稿1407标签及4无标签，44候选13初检13假设／5限定支持8不利；完整族／历史／真人／第二供应商／试点仍0。\n\n新获取162810字节；三API403与一次raw正常TLS超时均保留，GitHub只读连接器补回一个文件并验证Gitblob散列；没有安装软件、克隆或写math。临时第三方源码和许可核验清理、自有助手日志压缩回解状态见storage收据。无GitHub更新，重要里程碑合并发布。停止同契约库扩搜，下一WP107转低覆盖微分几何F360两稿；目前只读两README各20行和13TeX5013＋389Bib清单，正文／形式／历史未读，不升覆盖。复盘037后计数2，WP107后必须复盘038或重大证据提前，总目标active_incomplete。",
+      "completed_at": "2026-10-23T08:20:45.272362+00:00",
+      "quality_scope": "69core/fullsourceFKgates/13impact/fullJSONGraphML/15archives267members/no-mathclean passed;storageverified separately;no scientificreplay/newexperiment"
+    },
+    {
+      "id": "WP-107",
+      "priority": 1,
+      "status": "completed",
+      "parent_task": "WP-006",
+      "objective": "Read and decompose both current F360 weak-MTW/optimal-transport manuscripts with actual formal/historical scopes and conditional geometry-to-application contracts",
+      "selection_reason": "WP106 reaches three-project cap with no exact-output consumer;stop same-interface library expansion. Differential geometry remains2/29 actually read,versus combinatorics4/37 andTCS12/40. F36013TeX5013+389Bib addresses a low-coverage source with possible geometric transport interfaces;regularity existence does not imply a solver rate. F2398083TeX asymptotic matrix results and F238eight unread companion manuscripts remain alternatives.",
+      "inputs": [
+        "F-360",
+        "P-ce31113d2b428321",
+        "P-d34a3e42980b2ea6",
+        "state/reading-progress/F-360.json",
+        "reports/retrospectives/037-certificate-output-and-coverage.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 2,
+        "tex_files": 13,
+        "tex_lines": 5013,
+        "bib_lines": 389,
+        "actual_scope": "TwoREADME20each andfileinventoryonly;body/formal/historyunread,no coverage promotion"
+      },
+      "resource_limit": "Read-only pinnedmath,no clone/cache/install;atmost4necessary primary historicalworks and<=8MiB newdownloads,normalTLS. Existing runtimes only;compress ownhelpers/logs/output with decompressed hashes beforecleanup. No numerical/symbolic output before independent executable preregistration.",
+      "acceptance": "Read all current source/includeclosure and relevant versions/withdrawals;bind every main/support result,method,constant and exact cost/domain/density/quantifier assumptions. Compare actual selected Lean endpoints without claiming builds/human approval;read original old-scope statements at precise versions. Distinguish local/global support,cut locus/injectivity,matrix curvature conditions,compactness/dimension and regularity constants from finite-grid numerical stability/rates. Ten-domain and cross-family attempts retained,no quota-candidates;actual new hypothesis needs isolated roles. Fullgraph/sourceFK/gates/impact/export/core/no-math quality and compressed evidence;fullfamily/history gaps explicit.",
+      "stop_or_redirect": "No new mathematical proof or invented mesh-rate theorem. Keep unmet exact geometric input/constant/oldmethod conditions;do not run generic OT toy as applicationgain. After package mandatoryretro038 compares materially distinct routes and oldmethod-suffices null before selecting new work.",
+      "created_at": "2026-10-23T08:17:41.123993+00:00",
+      "retrospective_due": "Mandatoryretro038 immediatelyafterWP107;earlier major evidence or two no-information packages",
+      "started_at": "2026-10-23T08:23:43.470348+00:00",
+      "execution_journal": "state/reading-progress/F-360.json",
+      "completed_at": "2026-10-23T08:57:55.365942+00:00",
+      "evidence": [
+        "data/provenance/readings/F-360.json",
+        "reports/families/F-360.md",
+        "reports/reproducibility/20261023-weak-mtw",
+        "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
+      ],
+      "quality_scope": "69core/10impacts/fullJSONGraphML/15archives267members/no-mathclean exit0;332adverse and374limitedsupportactualreplay;no newexperiment"
+    },
+    {
+      "id": "WP-108",
+      "priority": 1,
+      "status": "in_progress",
+      "parent_task": "WP-006",
+      "objective": "Actually read both F239 symmetric random sign singularity manuscripts,qualify finite versus asymptotic interfaces and compare historical/formal scopes before application tests",
+      "selection_reason": "Retro038 ends F174 PSD same-contract library expansion and declines genericOT toy;probability remains3/29 while TCS12/40. F239 has2currentmanuscripts24TeX8083lines,unread. Full source can resolve symmetry/bias/asymptotic effective-constant uncertainty;F238eight unread companions and other low-coverage fields remain alternatives.",
+      "inputs": [
+        "F-239",
+        "P-a12e95803a6ff0ff",
+        "P-88bbfa0056a7bec9",
+        "state/reading-progress/F-239.json",
+        "reports/retrospectives/038-source-guarantees-and-actual-consumers.md"
+      ],
+      "source_inventory_only": {
+        "manuscripts": 2,
+        "tex_files": 24,
+        "tex_lines": 8083,
+        "actual_scope": "TwoREADME18each actualread;allbody/formal/historyunread,no canonicalcoveragepromotion"
+      },
+      "resource_limit": "Read-only pinnedmath,no clone/install/cache;atmost4necessaryprimaryoldworks/8MiBnewdownloads,normalTLS;existingruntimesonly;compress outputs/helpers with roundtripSHA beforecleanup. No scientificnumeric/symbolic output before independently frozen executable specification.",
+      "acceptance": "Read completebothcurrent manuscripts/includeclosure/references,relevantversions andactualformalendpoints. Bind all named/unlabelledmain/supportresults,methods,constants,quantifiers. Separate independentuppertriangle from dependentrows,fixed/varyingbias,singularityprobability/smallballs/conditionnumber,asymptotico(n)/finiteeffectivebounds. Ten-domain andcross-family attempts without quotas;conditionalcandidate stage distinctfromexperimentadmission. Actualnewhypothesis requires isolatedskeptic/defender auxiliaries,not secondprovider/humans. Fullgraph/FK/hash/gates/impact/export/core/no-mathQA andcompressedrecords.",
+      "stop_or_redirect": "No newmathematicalproof or smallmatrixfrequencyasproof ofsharpasymptotics. If effectiveconstructor/constants/actualoutputjudge absent,retain preciseconditional route andcompareF238remainingcompanions/otherlowcoverage ratherthan widenknownmatrixgrid.",
+      "created_at": "2026-10-23T08:57:55.365942+00:00",
+      "retrospective_due": "AfterWP108-110 thenretro039;earliermajorevidence ortwono-informationpackages",
+      "github_push": false,
+      "started_at": "2026-10-23T09:02:37.973027+00:00",
+      "execution_journal": "state/reading-progress/F-239.json"
     }
-  ]
+  ],
+  "updated_at": "2026-10-23T09:02:37.973027+00:00"
 }

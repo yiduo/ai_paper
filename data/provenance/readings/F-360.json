@@ -1,0 +1,2067 @@
+{
+  "family_id": "F-360",
+  "work_package": "WP-107",
+  "generation_id": "GEN-20261023-104",
+  "at": "2026-10-23T08:47:49.476419+00:00",
+  "base_commit": "4e34ea2a6295cbe20a868301dd98006b58c281ad",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-ce31113d2b428321",
+    "P-d34a3e42980b2ea6"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex",
+      "lines": 280,
+      "sha256": "6f5ed86cf542886e6563ca111e6fcc513b12641be2180151eccc2f32b75f4e7e",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+      "lines": 66,
+      "sha256": "a8813b7605b38d399844594644d01bcd292fe9ca1c53d5262af1fadd279885a4",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/references.bib",
+      "lines": 197,
+      "sha256": "7b47a56672d4e0eecb570cf30c60812fd52f67bcf42080c97d3437d3df0cc0b6",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex",
+      "lines": 231,
+      "sha256": "797ae73dcb9b15f2109cdd832fe811968d7cf2d1dbcdb7df12524221a50d58e5",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "lines": 748,
+      "sha256": "7429b52ce2e47a8ec7a82116f7ce4520081484e0c808faeb967aea42e6d7d392",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+      "lines": 216,
+      "sha256": "1fa8b606b6c774c399a05dbe56f804fc08d193b771735e7b2f71a031137bd5b7",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+      "lines": 241,
+      "sha256": "834fe1811a26bc6592f01670bf2a3994fd4ae9eea1fc6dc9926c51f665e1cbb5",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "lines": 60,
+      "sha256": "9dfac82a7711c413df34599cafc5ef07b7c8d7cf86a11e13d4421f21ff27bd70",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/references.bib",
+      "lines": 192,
+      "sha256": "cfe818c85ae01b926ab0fc1763660c6e9df5c5da48f361f663cd071f0ff97d18",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex",
+      "lines": 26,
+      "sha256": "3108f263bcd4cdb88d38a486147c61d0db7517fa8431fadedafd17d330890477",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "lines": 176,
+      "sha256": "8f31363248313d3aa3612c30e5446d6d7bf94a5cff5787175f402691a16c1db2",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+      "lines": 209,
+      "sha256": "08e697324bf067dcc76fc938bb123919080b245e591ab40142c9bc9a3b6681b6",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "lines": 1174,
+      "sha256": "318a97418a9605c370ff1b1e601e92c56232a1a86f1fc4b30b50c4f46a2fe3e1",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "lines": 860,
+      "sha256": "7fa369e075c95996de160e1514ae8b56a932eeacfb45c518fdb3f8a2e630fc6c",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "lines": 726,
+      "sha256": "5a471d6885720bdb209f9cb60356429ba0952a792efe8b3c85bcfd8be80dcc9f",
+      "actually_read": true
+    }
+  ],
+  "readmes": [
+    {
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/README.md",
+      "lines": 20,
+      "sha256": "40d2d0dd11252f25c3a2ae7865ea4f0bb8fb24dc57768f4a7069c633b1091cc5",
+      "actually_read": true,
+      "scope": "README metadata only,notbody/formal/history"
+    },
+    {
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/README.md",
+      "lines": 20,
+      "sha256": "be5b5729e1cf814ccc6c0898ca43ff5356c2aaa80c00da72b213cf66cef733cb",
+      "actually_read": true,
+      "scope": "README metadata only,notbody/formal/history"
+    }
+  ],
+  "actual_read_ranges": {
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex": [
+      [
+        1,
+        66
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex": [
+      [
+        1,
+        216
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex": [
+      [
+        1,
+        241
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex": [
+      [
+        1,
+        231
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex": [
+      [
+        1,
+        748
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex": [
+      [
+        1,
+        280
+      ]
+    ],
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/references.bib": [
+      [
+        1,
+        197
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex": [
+      [
+        1,
+        60
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex": [
+      [
+        1,
+        209
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex": [
+      [
+        1,
+        176
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex": [
+      [
+        1,
+        726
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex": [
+      [
+        1,
+        860
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex": [
+      [
+        1,
+        1174
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex": [
+      [
+        1,
+        26
+      ]
+    ],
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/references.bib": [
+      [
+        1,
+        192
+      ]
+    ]
+  },
+  "manual_file_reading_notes": [
+    {
+      "at": "2026-10-23T08:24:40.882128+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex"
+      ],
+      "note": "All523lines actualread. Smooth connected compact closed Riemannian M,n>=2,c=d^2/2;weakMTW only xi orthogonal eta at interior minimizing velocity,not nonorthogonal/strict/nonfocal or prior injectivity convexity. Main claims ordinary linear convexity of I and G,not strictness or boundary smoothness. Foundation density-free:every ordinary semiconvex subgradient minimizing+global mountain;F_t entire graph homeomorphism,unique global Q_t pole for0<t<1;compact convex lifted sections diameter^2<=8(r+oscv);Q_tu=-Q_(1-t)v C11 with inverse/Lipschitz/local quadratic-growth constants depending onlyM,g,t,uniform onlycompactsubintervals(0,1),not endpoint1. Main endpointclosure only support/minimizing;pointmountain many finalpoles. Interior uniqueness+nonconjugacy equivalence proven via compact minimizing-velocity bundle and inversebranch;proper shortening rG interior,uniform smallrho. Index form permits tangential fields,endpointzero equality implies globalJacobi inclbreakpoints. Branch Hessian at nonconjugate cuts differs from global smoothtruecost;A(w)(w,.)=<w,.>,A(0)=g. Indexform minimum requires minimizing nonconjugate;strict divided radialcomparison viazeroextensionnotJacobi. Transverse concavity coefficient-2/3 MTW and finite Jensen require entireconvexhull inside I and equalxi projection;cannotapplybeyondcut beforecontinuation. Intro compares FGR published2014Thm1.7 nonfocal,FRV2011Lemma3.1 convexI premise,CMS2001Claims2.4/5.6 etc historical bodies notyetread. Optional degree route notmainproof. No numericrun/coveragepromotion yet."
+    },
+    {
+      "at": "2026-10-23T08:24:59.390052+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex"
+      ],
+      "note": "All231lines actualread. Segment nonconjugacy requires ENTIRE segment subset G and endpoints nonconjugate;doesnot assume wholeGconvex. Proper radialcontraction gives wholeinsideI forweakMTW. At singularz nonzerokkernel perpendicularz;paralleltransport fixedJacobi field defines smoothP(a)=index(Ja,Ja),nonnegativeG,positiveI. TrialboundsA(a)(xi,xi)<=C-c/P(a) forxi.k!=0. Transverseendpointlowerbounds force kernelspan e,z orthogonal e. TangentialP(z+te)<=Ct^2 andradialLipschitz yielduniformtwo-parameter P(r(z+te))<=C(t^2+1-r),not separatepathwiseconstants. B=g-A hasradialnull;fr=B(r(z+te))(z,z)convex andendpointbounded givesfr<=Ct,soA(e,e)>=1-C/t;chooser=1-t^2contradictsupper-c/t^2. No inverseexponentialatconjugatezused. Cor geo:first-cut finite minimizingconvexhull withnonconjugategenerators byinductionpositiveweights;not anyarbitraryhull. OldCMS2001Prop2.5relatedtrialnotfullsameproof;originalnotread."
+    },
+    {
+      "at": "2026-10-23T08:26:04.762808+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex"
+      ],
+      "note": "All748lines actualread,including entirecontinuation. Uniform half-ray upper supports yieldcost semiconcavity andD-Lipschitz potentials;ordinarysubgradient exactlyconvexhull ofALLactive minimizinglogs,atmostn+1affinelyindependent positive logs,activefamilyitselfmayinfinite. Finitemaxdualcompletionpreservesfunctionnotnecessarilyactive set. H_r=A(rp)/r derivative=-S^-1S^-T,geometricuniformkappa lower fromupperJacobi bound;slack on Eperp uses later s onlyoriginalactive rays,not s*barycenterminimizing. Shorttimeprox homeomorphismforanyLipschitzsemiconvexdatum viaunique globalpole,localcoord(a-tK)|dx|<=B|dz| and C11. Capture EVERYminimizing log into graph forANY t>0 gives surjectivity,notinjectivity. Localcollisionproof finite n+1slots,uniformthirdderivatives atshortenedrays/nonconjbranch,equalxi-projectiononlypositive limitingweights;finite linear cancellation BEFORE dividingdistance^2,zeroweightsvanishwithboundedHessians,no convergence-rate assumption. Covering lemma orientation-free usesinvarianceofdomain andsurjective pi1fromhomotopytohomeomorphism;Hatcher exactscopes historicalnotreadthispackage. Firstfailing t*attainedbycompactness;allscaledhulls minimizingviaearlierlimits,generatorsproperlyshortenedinterior→nonconjugacy→localinjectivity→one-sheetcover;capturealllogs excludesordinarycut andcontradictsactualfailure. Endpoint1 closure supports only. G convex fromtwo-mountainmax andsupport,I=interiorG convex,notstrict/boundarysmoothing. Liftedgap sublevelscompactconvexinclcut;diam^2<=8(r+oscv). IntermediateQ_tu=-Q_(1-t)v two-sidedproperray supports Hessian[-Cg/(1-t),Cg/t];pole/momentum via backwardgeodesicflow(noinverseexpdifferential) anduniformlocalquadraticgrowth withs=(1+t)/2. Constants dependM,g,t uniformlyonlyaway0/1;no density or solverrate."
+    },
+    {
+      "at": "2026-10-23T08:26:38.894065+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex"
+      ],
+      "note": "All280lines actualread optionaldegreealternative,notrequiredmainproof. geo:local-growth assumes earliergraph insideI andterminalnonconjugacy;finite positiveactivehull E,linearmax dominates if|hE|>=B|h|^2 elseweightedtransverseslack+mixedO(h^3),b/rho localnotuniversal. Boundarygap onball plusbranchminimization provesopenness,notassumedglobalunique. geo:degree conditional terminallocalminimum+openness andallr<=t nonconjugacy;Mintyq=x+ap coords stronglyconvexh,biLipschitzgraph;ae X=Dqx>=0,P=(I-X)/a symmetriccommute. Firstderivativegraphline integral withintegrationbyparts(no secondpolederivative) yields X(tP+AcoordX)>=0. KernelXblock(t/a)I+complementpositive=>nonnegative determinant;mixcostfactor signpositive onlyalongnonconjugateray. Shorttimechartpositive independentlyofterminalassumption. H_r=F_r F_eps^-1 homotopyidentity,Lipschitz;strongW1n smoothapprox+Stokes gives signeddegreeintegral,areaformula+Jacsign>=0+surjectivity=>N=1ae;OPENNESS essential excludesdoubleimages onopenpositivevolume,not ae uniquenessalone/discretefiberassumption. Nonorientable caseorientationdoublecover/deckequivarianthomotopy. Captureallminimizinglogs+terminalnonconjugacy gives interior/uniqueglobalpole. Moreau/AA1999/MPW2012/Simon2018 originals not yetread,no numericalJacobian test or computeddegree."
+    },
+    {
+      "at": "2026-10-23T08:27:02.908673+00:00",
+      "manuscript_id": "P-ce31113d2b428321",
+      "source_files": [
+        "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/references.bib"
+      ],
+      "note": "All197Biblines actuallyread. Bibliography identity/year pitfalls: keyFGR2014 actuallypublishedSIAM47(2),2015,969-1000,DOI140961821,publishedTheoremnumbering;keyCalegari2013 notesdatedApril1 2015 based2013course;Gorodski2016revisedJune8chapter copyright2012;Hatcheronline2015corrections notnewedition. Explicit oldroots include FGRnonfocal,Villani2011conjecture,FRV2011convexI global support,MTW2005strong,TW2009A3w,Loeper2009,KM2010smoothilluminatedconditions,CMS2001dividedaction/Jacobi/intermediateestimates,Moreau1965/AA1999/MPW2012coordinates,Simon2018areaformula,Hatchertopology. No originalbodyread or historicalscope credit from bibliographymetadata. First manuscript all6TeX1782+197Bib read;not fullfamily while companionunread/formal/historyopen."
+    },
+    {
+      "at": "2026-10-23T08:27:02.950343+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex"
+      ],
+      "note": "All60lines actualread. Abstractsourceclaim:fixed smoothconnectedcompactboundarylessM,n>=2,weakMTW→commonHolderestimates transport+inverse overmeasurableprobabilitydensities fixedpositiveupper/lowerbounds;homeomorphicrepresentatives,conjugatecutallowed,no densityregularity. Thisisnot proofcoverage,algorithm,meshconvergenceor specifiedexplicitconstants;remainingall6sections/bib unread atthispoint."
+    },
+    {
+      "at": "2026-10-23T08:28:05.603743+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex"
+      ],
+      "note": "All385lines actuallyread. Regular thm:main fixedM,g,lambda>0<=Lambda finite andnonemptyprobabilitydensityclass,measurableae boundsbothdensities;aeuniqueOTmap admits homeomorphicrepresentativeanduniformbiHolder alpha,C dependonlyfixedgeometry+bounds. Positiveexponentbycontradiction,no explicitexponent or varyingmetricuniformity;notfinitegridsolverrate. No smoothdensity,strictMTW,nonfocalityorcutavoidance assumed. McCann2001 existence/aeuniqueness input;oldFKMroughdensity estimatesneed smoothcost,cconvex/nondegenerate localization,not common scale nearconjugatepairs;LV2010strongnonfocal/extrauniformregularity+deltaM>0 andFKMspheres oldspecialuniformity;Warren2026requires C2logdensitycommonbounds+smallW2,not interchangeable. FRV2011necessaryTCP⇒weakMTW+convexI,sourceforwardcombinedgivesequivalence beyondsurface,notnewprojecttheorem. Entire geometry section RESTATES firstpaperpreciseinterfaceswithpublishedLemma4.1-4.11;ordinaryfullsubgradient/global support needed,not merelyconvexI. Shorttime forscalarincreasingmodifiedpotentials onlyLipschitzsemiconvex maynotcostpotential;laterproofmustrespectthis. Allt<1inverse/C11,not arbitrarytime1. Primaryexternaloriginalbodiesnotyetread. Foundation2026internalalreadyfullyread,sharedlabels acrossmanuscripts require sourcequalified binding/notnewindependentmathematics."
+    },
+    {
+      "at": "2026-10-23T08:28:53.305866+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex"
+      ],
+      "note": "All726lines actualread. JacobiC,J symplecticWronskians;dexp_Tv=J(T)/T,S=J^-1C symmetric,Sprime=-J^-1J^{-*} exactorder;reversaldexp=adjoint survivesconjugacy(det equality),branchHessianmaynonminimizingbutnotundefinedsingularinverse. Uniformradialtransversality forv∈G,delta<=1/2 everyordered sj(short)>=c(sj(v)+delta) and<=C counterpart,no multiplicityrestriction. Fixedh1/4join,T∈[1/2,1],prefix/reversedsuffixcompactinterior→uniformpieceinversebounds;brokenactionD(1)>=0,D(1-delta)=D(1)+deltaGdelta withcI<=G<=CI. ExactJ(T)=Jh(T-h)D(T)J(h),holdsfullsingular;stationarySchurA(Tv)/T=P-E*D^-1E. N=-delta(A-I)=Q+delta(I-TP),Q>0 spectrumdelta/(sj+delta);backgroundOdelta essentialsinceN radialzero butradialsj1. Radialdetshort>=c endpointdet;longerreversecenter upper versus shorterreverseouter lower inequalitiesnotinterchangeable. Isotropicpullbackgainrequires T*r minimizingextraextension1<T*<=2,L=dexp_reverse=J(1)*,halfextensiontau=(1+T*)/2 smooth evenfullterminalconjugate;fullterminalHessian onlyifnonconjugate. NoncommutingB_s=J(1)J(s)^-1,ratioinverseJ(s)J(1)^-1 bounded,notcommuted. Uniformaffinesegmentcomparisonrequires[-a0,1]⊂G,p.q>0,|q|^2/(p.q)<=B andqnonzero;L(t)=I+tqq*/pq boundedinvertible;radialnull convertsperpendicularMTW into LoewnerconvexFδ,allowslargefixedxi modulo radialkernel. Failingorderedratio pickslogδbetween viaexclude radiiR^(1/3) atn*floorR^(1/3) denseparameters,total2nR^(2/3)<R/2. LocallyuniformPSDmatrixlimit hasgap {0}∪[c,C],constantinteriorrank;separate endpointorderF(1-)<=E forbidsrankloss,contradictsjcenter<<delta<<sjend. Closedsegments radiallimit,constants geometric/a0/Bexistnotexplicitcomputational. Barycentricoutwarddet needsfixedpositivevertexweight>=mu,radialprojectionh>0,h²>=kappaD,normincrement<=L0D;remainingbarycenter givesoppositeextension[-mu,1],no upperm/(1-m)needed. Noneisalgorithm/finite numericproof;limitscale/templatesmuststayindependentlaterperturbations."
+    },
+    {
+      "at": "2026-10-23T08:30:03.217163+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex"
+      ],
+      "note": "All860lines actualread. Cclass alladmissibledensitydualpairspotentialsnormalized,F(r)=supsectionoscillation boundednondecreasing acrossWHOLEclass. PowerF<=C r^beta→endpointdiam<=Csqrt(F+r),globaluniquecontacts+reverseclass→homeomorphicbiHolder exponent<=halfmin(beta,1);constants fixedgeometry+boundsnotgivenexplicit. No-power plateau r<<R→0,Dactualnearsuposcillation>0,F(R)<=(1+δ)D,|logD|/|logR|→0→R/D^k→0 EVERYfixedk;Dneednottend0. b_-/b_+separatecubicroots;uniformsmallnessr/b,b/R,b/D^k,τ/D,τ²/b forτ<=8b/D. TemplatesBc decreasing logisticfixed eps0=c0=2^-10,c1=c0/4;outerBo positivebarrier,Bo1=0,Bo0about1,Bo prime>0,Bosecond<=-K onlylowcap region[-2eta,1-eta];height<=2M0+8 INDEPENDENTK,derivatives maydependK. Explicitbump construction M0first,K/outerprofilethen scales;δ=oeta andb/D derivatives,b/D²2nd→0 ensuresbothscalar modifications increasing. Firstswitch via originalleftgeodesic,semiconcavecutcostupper andintegratedoned-sided derivative;middlelevelmountains excluded,leftrightfirstequality at b/(32D)<=τ<=8b/D independentK;allactives/y0y1 inoriginalCbsection actualabsolutelevels[-δ,1+δ],normsP-2Dsi+oD. Uniformpositiveexcess E=wc-wo^cc∈[c0b,b] fromsupportedintermediatelog normP-D/2 using globalordinarysubgradient support,not justIconvex;uniformconstantsindependentK. Penaltyπ=c0b/4+2b²/bplus givesstrictinterioramplitude max. Forfixedscaleand t→1 Φ=Q_tg+Q_(1-t)wc-π positiveinteriormax,C11 uniqueeachpole;wc increasingsemiconvex butneednotcostpotential;alignmentexact and l=1+bBcprime/D∈(0,1) gives centertruebeforecut viaextendedoriginalvsubgrad. Parameterinequality Bc(s)-ΣmiBo(si)>=πprime>=c1 forEVERYpositivefiniteactivebarycenter,not chosenrepresentation:decreaseb h,polemoveO(sqrth),projectE O(h),cancelweightedlinearbeforelimit,transversequadratic>=0,mixedO(h^1.5),fixedscaletimeweightsfirst. Levelidentity exact;allactives+centercommonoriginal(Ho+2)bsection,s<3/4,rightweight>=c1,lowerlevels>=-2eta. Outwardfinitelemma assumesE=line,q=p.e>0,N<=n+1,norm-levelerrorζ<=1/16;findvertexweight>=m*=c1/[12(n+1)],moment>=c1D/[8(n+1)q],displacement<=3D/(2q),normincrement<=3D,Bo<=1/m*,si<1-eta. M0=2/m*=24(n+1)/c1 fixedBEFOREK. JetsmuststillproveElineandq²>=kappaD independentlyK. No finite solver/rate or numericaloutput;proofscaleexistence only."
+    },
+    {
+      "at": "2026-10-23T08:37:21.291894+00:00",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "source_files": [
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex",
+        "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/references.bib"
+      ],
+      "note": "All1174jets+26conclusion+192Biblines actually read across sequential ranges. Contact-volume bound only original dual potentials;viscosity lower tests at true interior logs derive determinant upper without Jacobian at chosen points. Transfer gives exact zero-linear endpoint pullback jets miL, R=L>=0, LE=0 and approximate maximum H<=L+etaI. Half-extension center semibound avoids unknown unregularized Hessian and terminalconjugacy. Outer scalar slope>1 makes true shortened log interior;dividedaction blowup plus viscosity excludes modified outer conjugacy before any center density equation. Universal amplitude inequality applies every positive barycenter after fixed-k Jensen limits;line E and q²>=cD then selected outward weight fixed beforeK. Remove area-formula null preimage of original bad set BEFOREJensen,without assuming DY invertible. Diagonal nu(k) after fixed-k limits preserves selected outer branch,errors<=(1-tk)^3/k. Outer positive baseline+detupper bounds L,H then HessG;shortcost expansion gives DY=I-tau HessG+O(tau²),hence invertible and chosen center outside originalbadset. Uniform subgradient differential at Alexandrov point justifies stationary differentiation without differentiable neighbors;undo-short Hesswc=HessG+O(tau). Only NOW use original ae Jacobian at good centers. Exact squared pulled-back determinant gives V>0 and uniform nonconjugacy of limiting true center,while ordinarycut allowed;no assertion limiting originalendpoint Alexandrov or lowerjet. Oblique projection P=I-e p*/q onto pperp alongE preservesL;Schur ratio detVi/detV>=mi^(n-1) gamma(pi.e)^2/(beta q²)>=cK. Reverse radial centerupper/outerlower determinant comparisons and ordered outward comparison cancel sigma_center>0;fixed independent constants contradict chosenlargeK. Order cap/weight, K/outerprofile, scales, prefixlimit, Jensen sequence essential. Uniformclass no-power contradiction yields beta>0 unspecified and alpha=halfmin(beta,1);reverse density pair gives inverse,not arbitrarycostpotential time-oneinjectivity. Bib aliases CMS2001/CEMS2001 same DOI002220100160;FGR2014/FGR2015 same DOI140961821,published2015. Foundation2026 is first same-family manuscript,notexternalwork. No numerical/symbolicrun or historical-original proof approval."
+    }
+  ],
+  "source_sections": [
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex",
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex",
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+    "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+    "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex"
+  ],
+  "source_tex_lines": 5013,
+  "bibliography_lines": 389,
+  "include_links_checked": [
+    {
+      "source": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex"
+    },
+    {
+      "source": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex"
+    },
+    {
+      "source": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex"
+    },
+    {
+      "source": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex"
+    },
+    {
+      "source": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex"
+    },
+    {
+      "source": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex"
+    },
+    {
+      "source": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex"
+    },
+    {
+      "source": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex"
+    },
+    {
+      "source": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex"
+    },
+    {
+      "source": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex"
+    },
+    {
+      "source": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/main.tex",
+      "target": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/conclusion.tex"
+    }
+  ],
+  "results": [
+    {
+      "id": "CLM-360-G-GEO-LOCAL-GROWTH",
+      "qualified_label": "G:geo:local-growth",
+      "label": "geo:local-growth",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex",
+      "statement_lines": [
+        16,
+        28
+      ],
+      "statement": "A terminal pole has local quadratic growth and the projection is open under continuation hypotheses.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Optional degree route;earlier graphs interior,terminal nonconjugate;finite active E;local b,rho,not global solver rate."
+      ],
+      "constants_and_constructions": [
+        "Optional degree route;earlier graphs interior,terminal nonconjugate;finite active E;local b,rho,not global solver rate."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-DEGREE",
+      "qualified_label": "G:geo:degree",
+      "label": "geo:degree",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/appendices/degree.tex",
+      "statement_lines": [
+        101,
+        113
+      ],
+      "statement": "Conditional terminal projection has positive degree and is globally one-to-one.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Optional route requires openness+local minima+ALL earlier nonconjugacy;Minty coordinates,nonnegative Jacobian,area formula+degree+openness;ae multiplicity1 alone insufficient;orientation double cover if needed."
+      ],
+      "constants_and_constructions": [
+        "Optional route requires openness+local minima+ALL earlier nonconjugacy;Minty coordinates,nonnegative Jacobian,area formula+degree+openness;ae multiplicity1 alone insufficient;orientation double cover if needed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-PROP-SEGMENT-NONCONJUGACY",
+      "qualified_label": "G:prop:segment-nonconjugacy",
+      "label": "prop:segment-nonconjugacy",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex",
+      "statement_lines": [
+        18,
+        22
+      ],
+      "statement": "A segment of minimizing velocities with nonconjugate endpoints has no conjugate point.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "ENTIRE segment subset G required;radially shortened interior comparison and fixed Jacobi trial P(r(z+te))<=C(t²+1-r),r=1-t²;no inverse exp at singular point."
+      ],
+      "constants_and_constructions": [
+        "ENTIRE segment subset G required;radially shortened interior comparison and fixed Jacobi trial P(r(z+te))<=C(t²+1-r),r=1-t²;no inverse exp at singular point."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-FIRST-CUT",
+      "qualified_label": "G:geo:first-cut",
+      "label": "geo:first-cut",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/conjugacy.tex",
+      "statement_lines": [
+        199,
+        207
+      ],
+      "statement": "A finite minimizing convex hull with nonconjugate generators is nonconjugate.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Entire convex hull subset G,not arbitrary hull;positive-weight induction uses segment result."
+      ],
+      "constants_and_constructions": [
+        "Entire convex hull subset G,not arbitrary hull;positive-weight induction uses segment result."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-PRELIM",
+      "qualified_label": "G:geo:prelim",
+      "label": "geo:prelim",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        53,
+        72
+      ],
+      "statement": "Uniform semiconcavity and ordinary active-log subgradient representation.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "All active minimizing logs,possibly infinite;each subgradient has <=n+1 affinely independent positive slots;D-Lipschitz,uniform semiconvex;finite max completion preserves function,not active set."
+      ],
+      "constants_and_constructions": [
+        "All active minimizing logs,possibly infinite;each subgradient has <=n+1 affinely independent positive slots;D-Lipschitz,uniform semiconvex;finite max completion preserves function,not active set."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-RADIAL-INDEX",
+      "qualified_label": "G:geo:radial-index",
+      "label": "geo:radial-index",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        139,
+        158
+      ],
+      "statement": "H_r=A(rp)/r has negative definite derivative and uniform divided-action slack.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Hprime=-S^-1 S^-T;proper minimizing segments;uniform upper Jacobi bound gives kappa(s-t)I."
+      ],
+      "constants_and_constructions": [
+        "Hprime=-S^-1 S^-T;proper minimizing segments;uniform upper Jacobi bound gives kappa(s-t)I."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-SLACK",
+      "qualified_label": "G:geo:slack",
+      "label": "geo:slack",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        187,
+        204
+      ],
+      "statement": "An active barycenter has a definite transverse divided-action gap.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "E=span(pi-p);gap H_t(p)-sum mi H_s(pi)>=kappa(s-t)I on Eperp;later s required only for original active pi,not s*p minimizing in advance."
+      ],
+      "constants_and_constructions": [
+        "E=span(pi-p);gap H_t(p)-sum mi H_s(pi)>=kappa(s-t)I on Eperp;later s required only for original active pi,not s*p minimizing in advance."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-SHORT-TIME",
+      "qualified_label": "G:geo:short-time",
+      "label": "geo:short-time",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        230,
+        247
+      ],
+      "statement": "A Lipschitz semiconvex datum has a short-time unique global pole,C11 envelope and graph homeomorphism.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Datum need not be a cost potential;small time depends on semiconvexity/Lipschitz bounds and geometry;inverse pole Lip."
+      ],
+      "constants_and_constructions": [
+        "Datum need not be a cost potential;small time depends on semiconvexity/Lipschitz bounds and geometry;inverse pole Lip."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-MINIMIZER-CAPTURE",
+      "qualified_label": "G:geo:minimizer-capture",
+      "label": "geo:minimizer-capture",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        285,
+        293
+      ],
+      "statement": "Every minimizing velocity from a global Q_t minimizer belongs to the ordinary subgradient graph.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "All minimizing logs and any t>0;gives surjectivity,not injectivity."
+      ],
+      "constants_and_constructions": [
+        "All minimizing logs and any t>0;gives surjectivity,not injectivity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-LOCAL-INJECTIVITY",
+      "qualified_label": "G:geo:local-injectivity",
+      "label": "geo:local-injectivity",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        322,
+        331
+      ],
+      "statement": "The graph projection is locally injective at the first admissible terminal scale.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "All earlier scaled graphs interior and terminal nonconjugacy;arbitrary potentials in natural proof;cancel exact finite linear sum before division/limit,zero weights require bounded quadratic terms,not a convergence rate."
+      ],
+      "constants_and_constructions": [
+        "All earlier scaled graphs interior and terminal nonconjugacy;arbitrary potentials in natural proof;cancel exact finite linear sum before division/limit,zero weights require bounded quadratic terms,not a convergence rate."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-LEM-COVERING-HOMEOMORPHISM",
+      "qualified_label": "G:lem:covering-homeomorphism",
+      "label": "lem:covering-homeomorphism",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        471,
+        477
+      ],
+      "statement": "A locally injective map of a connected compact topological n-manifold,homotopic to a homeomorphism,is a homeomorphism.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "No orientation premise;invariance of domain,finite covering,pi1 surjectivity and lifting;not surjectivity alone."
+      ],
+      "constants_and_constructions": [
+        "No orientation premise;invariance of domain,finite covering,pi1 surjectivity and lifting;not surjectivity alone."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-SUPPORT",
+      "qualified_label": "G:geo:support",
+      "label": "geo:support",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        505,
+        517
+      ],
+      "statement": "Every ordinary semiconvex subgradient of a cost potential is minimizing and gives a global mountain.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "F_t full graph homeomorphism for0<t<1 via first-failure continuation and capture of every log;at t=1 support/minimizing closure only."
+      ],
+      "constants_and_constructions": [
+        "F_t full graph homeomorphism for0<t<1 via first-failure continuation and capture of every log;at t=1 support/minimizing closure only."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-CONVEXITY",
+      "qualified_label": "G:geo:convexity",
+      "label": "geo:convexity",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        585,
+        588
+      ],
+      "statement": "Open and closed minimizing tangent domains are convex.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Use two-mountain maximum plus ordinary support;I=intG,not strict convexity."
+      ],
+      "constants_and_constructions": [
+        "Use two-mountain maximum plus ordinary support;I=intG,not strict convexity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-SECTIONS",
+      "qualified_label": "G:geo:sections",
+      "label": "geo:sections",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        602,
+        617
+      ],
+      "statement": "Lifted gap sections are compact and convex with a diameter estimate.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Dual pair u,v;sections include minimizing boundary velocities;diam²<=8(r+oscv);not strong convexity."
+      ],
+      "constants_and_constructions": [
+        "Dual pair u,v;sections include minimizing boundary velocities;diam²<=8(r+oscv);not strong convexity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-GEO-INTERMEDIATE",
+      "qualified_label": "G:geo:intermediate",
+      "label": "geo:intermediate",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        644,
+        674
+      ],
+      "statement": "Intermediate envelopes are C11 and inverse poles/momenta are Lipschitz with local quadratic growth.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Q_tu=-Q_(1-t)v;Hess bounds[-Cg/(1-t),Cg/t];0<t<1,uniform only away endpoints;inverse via backward geodesic flow,not endpoint inverse dexp;density-free."
+      ],
+      "constants_and_constructions": [
+        "Q_tu=-Q_(1-t)v;Hess bounds[-Cg/(1-t),Cg/t];0<t<1,uniform only away endpoints;inverse via backward geodesic flow,not endpoint inverse dexp;density-free."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-THM-MAIN",
+      "qualified_label": "G:thm:main",
+      "label": "thm:main",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+      "statement_lines": [
+        47,
+        54
+      ],
+      "statement": "Every open tangent injectivity domain is linearly convex.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "No prior convexity,strict MTW or nonfocality;closed minimizing domains convex too,not strict convexity or boundary regularity."
+      ],
+      "constants_and_constructions": [
+        "No prior convexity,strict MTW or nonfocality;closed minimizing domains convex too,not strict convexity or boundary regularity."
+      ],
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-THM-FOUNDATION",
+      "qualified_label": "G:thm:foundation",
+      "label": "thm:foundation",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+      "statement_lines": [
+        94,
+        129
+      ],
+      "statement": "Ordinary subgradients give global support;intermediate graph homeomorphism,compact convex lifted sections and C11 pole control.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Every cost potential;0<t<1 only for homeomorphism/C11;diameter²<=8(r+oscv);constants uniform only on compact time subintervals inside(0,1),not arbitrary time-one uniqueness."
+      ],
+      "constants_and_constructions": [
+        "Every cost potential;0<t<1 only for homeomorphism/C11;diameter²<=8(r+oscv);constants uniform only on compact time subintervals inside(0,1),not arbitrary time-one uniqueness."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-LEM-INTERIOR-CHARACTERIZATION",
+      "qualified_label": "G:lem:interior-characterization",
+      "label": "lem:interior-characterization",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+      "statement_lines": [
+        53,
+        65
+      ],
+      "statement": "A minimizing velocity is interior iff its endpoint has one minimizing geodesic and that branch is nonconjugate.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "G compact in velocity bundle;I=intG;proper radial contraction rG subset I for0<=r<1;norm<=diamM."
+      ],
+      "constants_and_constructions": [
+        "G compact in velocity bundle;I=intG;proper radial contraction rG subset I for0<=r<1;norm<=diamM."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-LEM-HESSIAN-INDEX",
+      "qualified_label": "G:lem:hessian-index",
+      "label": "lem:hessian-index",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+      "statement_lines": [
+        149,
+        160
+      ],
+      "statement": "Branch Hessian equals the endpoint index form of the prescribed Jacobi field.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Minimizing nonconjugate ray;piecewise smooth tangential fields allowed;zero-endpoint equality forces unbroken Jacobi field. Branch Hessian at ordinary cut is not global smooth cost."
+      ],
+      "constants_and_constructions": [
+        "Minimizing nonconjugate ray;piecewise smooth tangential fields allowed;zero-endpoint equality forces unbroken Jacobi field. Branch Hessian at ordinary cut is not global smooth cost."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-LEM-RADIAL-COMPARISON",
+      "qualified_label": "G:lem:radial-comparison",
+      "label": "lem:radial-comparison",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+      "statement_lines": [
+        182,
+        191
+      ],
+      "statement": "Divided radial branch action strictly decreases along a nonconjugate minimizing ray.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "0<s<sprime with sprime*p interior;A(sp)/s>A(sprime*p)/sprime by zero-extension index comparison."
+      ],
+      "constants_and_constructions": [
+        "0<s<sprime with sprime*p interior;A(sp)/s>A(sprime*p)/sprime by zero-extension index comparison."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-G-LEM-TRANSVERSE-CONCAVITY",
+      "qualified_label": "G:lem:transverse-concavity",
+      "label": "lem:transverse-concavity",
+      "manuscript_id": "P-ce31113d2b428321",
+      "path": "math/preprints/Global-Support-and-Convex-Injectivity-Domains-under-Weak-MTW-September-25-2026/build/sections/preliminaries.tex",
+      "statement_lines": [
+        212,
+        228
+      ],
+      "statement": "The action Hessian is concave along a velocity segment transverse to the test vector.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "ENTIRE hull inside I;equal test-vector projection;second derivative=-2/3 MTW<=0;do not apply beyond cut before continuation."
+      ],
+      "constants_and_constructions": [
+        "ENTIRE hull inside I;equal test-vector projection;second derivative=-2/3 MTW<=0;do not apply beyond cut before continuation."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-GEO-PRELIM",
+      "qualified_label": "R:geo:prelim",
+      "label": "geo:prelim",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        23,
+        38
+      ],
+      "statement": "Uniform semiconcavity and ordinary active-log subgradient representation.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "All active minimizing logs,possibly infinite;each subgradient has <=n+1 affinely independent positive slots;D-Lipschitz,uniform semiconvex;finite max completion preserves function,not active set."
+      ],
+      "constants_and_constructions": [
+        "All active minimizing logs,possibly infinite;each subgradient has <=n+1 affinely independent positive slots;D-Lipschitz,uniform semiconvex;finite max completion preserves function,not active set."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-PRELIM"
+    },
+    {
+      "id": "CLM-360-R-GEO-RADIAL-INDEX",
+      "qualified_label": "R:geo:radial-index",
+      "label": "geo:radial-index",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        49,
+        59
+      ],
+      "statement": "H_r=A(rp)/r has negative definite derivative and uniform divided-action slack.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Hprime=-S^-1 S^-T;proper minimizing segments;uniform upper Jacobi bound gives kappa(s-t)I."
+      ],
+      "constants_and_constructions": [
+        "Hprime=-S^-1 S^-T;proper minimizing segments;uniform upper Jacobi bound gives kappa(s-t)I."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-RADIAL-INDEX"
+    },
+    {
+      "id": "CLM-360-R-GEO-SLACK",
+      "qualified_label": "R:geo:slack",
+      "label": "geo:slack",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        61,
+        74
+      ],
+      "statement": "An active barycenter has a definite transverse divided-action gap.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "E=span(pi-p);gap H_t(p)-sum mi H_s(pi)>=kappa(s-t)I on Eperp;later s required only for original active pi,not s*p minimizing in advance."
+      ],
+      "constants_and_constructions": [
+        "E=span(pi-p);gap H_t(p)-sum mi H_s(pi)>=kappa(s-t)I on Eperp;later s required only for original active pi,not s*p minimizing in advance."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-SLACK"
+    },
+    {
+      "id": "CLM-360-R-GEO-SHORT-TIME",
+      "qualified_label": "R:geo:short-time",
+      "label": "geo:short-time",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        82,
+        95
+      ],
+      "statement": "A Lipschitz semiconvex datum has a short-time unique global pole,C11 envelope and graph homeomorphism.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Datum need not be a cost potential;small time depends on semiconvexity/Lipschitz bounds and geometry;inverse pole Lip."
+      ],
+      "constants_and_constructions": [
+        "Datum need not be a cost potential;small time depends on semiconvexity/Lipschitz bounds and geometry;inverse pole Lip."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-SHORT-TIME"
+    },
+    {
+      "id": "CLM-360-R-GEO-SUPPORT",
+      "qualified_label": "R:geo:support",
+      "label": "geo:support",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        103,
+        113
+      ],
+      "statement": "Every ordinary semiconvex subgradient of a cost potential is minimizing and gives a global mountain.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "F_t full graph homeomorphism for0<t<1 via first-failure continuation and capture of every log;at t=1 support/minimizing closure only."
+      ],
+      "constants_and_constructions": [
+        "F_t full graph homeomorphism for0<t<1 via first-failure continuation and capture of every log;at t=1 support/minimizing closure only."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-SUPPORT"
+    },
+    {
+      "id": "CLM-360-R-GEO-CONVEXITY",
+      "qualified_label": "R:geo:convexity",
+      "label": "geo:convexity",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        115,
+        117
+      ],
+      "statement": "Open and closed minimizing tangent domains are convex.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Use two-mountain maximum plus ordinary support;I=intG,not strict convexity."
+      ],
+      "constants_and_constructions": [
+        "Use two-mountain maximum plus ordinary support;I=intG,not strict convexity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-CONVEXITY"
+    },
+    {
+      "id": "CLM-360-R-GEO-SECTIONS",
+      "qualified_label": "R:geo:sections",
+      "label": "geo:sections",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        119,
+        131
+      ],
+      "statement": "Lifted gap sections are compact and convex with a diameter estimate.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Dual pair u,v;sections include minimizing boundary velocities;diam²<=8(r+oscv);not strong convexity."
+      ],
+      "constants_and_constructions": [
+        "Dual pair u,v;sections include minimizing boundary velocities;diam²<=8(r+oscv);not strong convexity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-SECTIONS"
+    },
+    {
+      "id": "CLM-360-R-GEO-INTERMEDIATE",
+      "qualified_label": "R:geo:intermediate",
+      "label": "geo:intermediate",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/geometry.tex",
+      "statement_lines": [
+        139,
+        163
+      ],
+      "statement": "Intermediate envelopes are C11 and inverse poles/momenta are Lipschitz with local quadratic growth.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Q_tu=-Q_(1-t)v;Hess bounds[-Cg/(1-t),Cg/t];0<t<1,uniform only away endpoints;inverse via backward geodesic flow,not endpoint inverse dexp;density-free."
+      ],
+      "constants_and_constructions": [
+        "Q_tu=-Q_(1-t)v;Hess bounds[-Cg/(1-t),Cg/t];0<t<1,uniform only away endpoints;inverse via backward geodesic flow,not endpoint inverse dexp;density-free."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "restates": "CLM-360-G-GEO-INTERMEDIATE"
+    },
+    {
+      "id": "CLM-360-R-THM-MAIN",
+      "qualified_label": "R:thm:main",
+      "label": "thm:main",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/introduction.tex",
+      "statement_lines": [
+        32,
+        53
+      ],
+      "statement": "Every admissible density pair has an a.e.-unique optimal map represented by a globally bi-Holder homeomorphism.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Fixed(M,g),0<lambda<=Lambda finite and nonempty class of measurable probability densities with a.e. bounds on BOTH densities;common alpha,C across class;alpha>0 existential,not explicit or uniform over varying metrics/bounds;no finite-grid solver rate."
+      ],
+      "constants_and_constructions": [
+        "Fixed(M,g),0<lambda<=Lambda finite and nonempty class of measurable probability densities with a.e. bounds on BOTH densities;common alpha,C across class;alpha>0 existential,not explicit or uniform over varying metrics/bounds;no finite-grid solver rate."
+      ],
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-CONTACT-VOLUME",
+      "qualified_label": "R:jet:contact-volume",
+      "label": "jet:contact-volume",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        40,
+        53
+      ],
+      "statement": "Original dual contacts compare image and source volumes.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "lambda/Lambda<=volume ratio<=Lambda/lambda;completed measures of Borel/analytic images;only original density-coupled potentials,not arbitrary modified envelopes."
+      ],
+      "constants_and_constructions": [
+        "lambda/Lambda<=volume ratio<=Lambda/lambda;completed measures of Borel/analytic images;only original density-coupled potentials,not arbitrary modified envelopes."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-VISCOSITY",
+      "qualified_label": "R:jet:viscosity",
+      "label": "jet:viscosity",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        74,
+        88
+      ],
+      "statement": "A C2 lower test of the original potential at an interior log bounds its positive Monge-Ampere determinant.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "r=gradphi in I,W=Hessphi+A(r)>0 =>sigma(r)detW<=Lambda/lambda;strict lowertouch/area/contact-volume;no original Jacobian equation at chosen point assumed."
+      ],
+      "constants_and_constructions": [
+        "r=gradphi in I,W=Hessphi+A(r)>0 =>sigma(r)detW<=Lambda/lambda;strict lowertouch/area/contact-volume;no original Jacobian equation at chosen point assumed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-TRANSFER",
+      "qualified_label": "R:jet:transfer",
+      "label": "jet:transfer",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        167,
+        201
+      ],
+      "statement": "A differentiable pole map transfers nonnegative pole-matrix jets to every active endpoint.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "L=R>=0,LE=0,D²f=tI-R;endpoint pullback zero linear EXACT and Hessian miL,optionally mi(L+LQsL);split cost at proper prefix even fullendpointconjugate;finite weighted linear cancellation;not density equation."
+      ],
+      "constants_and_constructions": [
+        "L=R>=0,LE=0,D²f=tI-R;endpoint pullback zero linear EXACT and Hessian miL,optionally mi(L+LQsL);split cost at proper prefix even fullendpointconjugate;finite weighted linear cancellation;not density equation."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-SEMIBOUND",
+      "qualified_label": "R:jet:semibound",
+      "label": "jet:semibound",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        344,
+        369
+      ],
+      "statement": "Center extension supplies a lower matrix semibound before using center Hessians or density equation.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "H>=c b/D I-C b/D² pp*-epsI;fixedscales,t->1,simultaneous derivatives and graderror->0;true center endpoint may conjugate;halfextension smooth support avoids multiplying unknown Hessian by coordinate error."
+      ],
+      "constants_and_constructions": [
+        "H>=c b/D I-C b/D² pp*-epsI;fixedscales,t->1,simultaneous derivatives and graderror->0;true center endpoint may conjugate;halfextension smooth support avoids multiplying unknown Hessian by coordinate error."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-OUTER-CONJUGACY",
+      "qualified_label": "R:jet:outer-conjugacy",
+      "label": "jet:outer-conjugacy",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        551,
+        563
+      ],
+      "statement": "An active increasing concave outer modification excludes conjugacy of its full modified ray.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "l>1,phi second<0;true shortened log r/l beforecut;radial dividedaction blows up under conjugacy,contradicts original viscosity bound;does not use center density equation."
+      ],
+      "constants_and_constructions": [
+        "l>1,phi second<0;true shortened log r/l beforecut;radial dividedaction blows up under conjugacy,contradicts original viscosity bound;does not use center density equation."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-OUTER-TEST",
+      "qualified_label": "R:jet:outer-test",
+      "label": "jet:outer-test",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        602,
+        627
+      ],
+      "statement": "Undoing the outer scalar change converts the endpoint jet to a positive form with determinant upper bound.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Nonconjugate specified branch B;Vo=Ho+B*(lA(r/l)-A(r))B-phi second/l² pp*>0;detVo<=l^n Lambda/lambda sigma(p)²/sigma(r/l);fixedscale compact outer family gives uniform positive baseline before center bound."
+      ],
+      "constants_and_constructions": [
+        "Nonconjugate specified branch B;Vo=Ho+B*(lA(r/l)-A(r))B-phi second/l² pp*>0;detVo<=l^n Lambda/lambda sigma(p)²/sigma(r/l);fixedscale compact outer family gives uniform positive baseline before center bound."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-SUBGRADIENT-DIFFERENTIAL",
+      "qualified_label": "R:jet:subgradient-differential",
+      "label": "jet:subgradient-differential",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        666,
+        676
+      ],
+      "statement": "All nearby semiconvex subgradients have uniform first-order differential at an Alexandrov point.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "zeta(h)=p+Ah+o|h| uniformly,not just differentiable neighboring points;convex shift and alpha=sqrt(max(omega(2r),r²))."
+      ],
+      "constants_and_constructions": [
+        "zeta(h)=p+Ah+o|h| uniformly,not just differentiable neighboring points;convex shift and alpha=sqrt(max(omega(2r),r²))."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-DETERMINANTS",
+      "qualified_label": "R:jet:determinants",
+      "label": "jet:determinants",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        704,
+        739
+      ],
+      "statement": "The limiting matrix configuration has line span,positive center and outer forms,and density determinant inequalities.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Null preimage removed before Jensen;fixedk then nu then diagonal;outer baseline+det first boundL,H,HessG;DY=I-tau HessG+O(tau²) nonsingular then original center outside badset. Only THEN insert original ae Jacobian;limit endpoint need not Alexandrov. E=line,q²>=cD,selectedweight>=m*,Vi>=miL+cKb/D² pi pi*,H>=V+cb/D I-Cb/D²pp*,H<=L,LE0;all constants used in final contradiction independentK;fixedscale auxiliary rates may dependK."
+      ],
+      "constants_and_constructions": [
+        "Null preimage removed before Jensen;fixedk then nu then diagonal;outer baseline+det first boundL,H,HessG;DY=I-tau HessG+O(tau²) nonsingular then original center outside badset. Only THEN insert original ae Jacobian;limit endpoint need not Alexandrov. E=line,q²>=cD,selectedweight>=m*,Vi>=miL+cKb/D² pi pi*,H>=V+cb/D I-Cb/D²pp*,H<=L,LE0;all constants used in final contradiction independentK;fixedscale auxiliary rates may dependK."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-MATRIX",
+      "qualified_label": "R:jet:matrix",
+      "label": "jet:matrix",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        1086,
+        1096
+      ],
+      "statement": "Oblique projection recovers the missing direction and gives detVi>=cK detV.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "P=I-e p*/q onto pperp along e;V>0,LE0,H<=L,center/outer inequalities,mi>=m*,q>0,di>0. Schur complement S<=Cbq²/D²;nonorthogonal basis determinant cancels;not arbitrary PSD matrices."
+      ],
+      "constants_and_constructions": [
+        "P=I-e p*/q onto pperp along e;V>0,LE0,H<=L,center/outer inequalities,mi>=m*,q>0,di>0. Schur complement S<=Cbq²/D²;nonorthogonal basis determinant cancels;not arbitrary PSD matrices."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-JET-CONTRADICTION",
+      "qualified_label": "R:jet:contradiction",
+      "label": "jet:contradiction",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/jets.tex",
+      "statement_lines": [
+        1137,
+        1141
+      ],
+      "statement": "All-class section oscillation has a positive power upper bound.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Choose cap/center/weight constants,then K/outertemplate,then small scales,prefix,Jensen limits;radial reverse centerupper/outerlower and ordered outward comparison cancel sigma_center>0,forcing boundedK contradiction;no computable exponent supplied."
+      ],
+      "constants_and_constructions": [
+        "Choose cap/center/weight constants,then K/outertemplate,then small scales,prefix,Jensen limits;radial reverse centerupper/outerlower and ordered outward comparison cancel sigma_center>0,forcing boundedK contradiction;no computable exponent supplied."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-POWER",
+      "qualified_label": "R:sc:power",
+      "label": "sc:power",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        29,
+        36
+      ],
+      "statement": "A power bound for all-class section oscillation implies uniform bi-Holder transport.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "F(r) supremum across whole fixed density class;diam²<=8(F+r);alpha=halfmin(beta,1);reverse pair essential for inverse,not arbitrary cost potential t=1."
+      ],
+      "constants_and_constructions": [
+        "F(r) supremum across whole fixed density class;diam²<=8(F+r);alpha=halfmin(beta,1);reverse pair essential for inverse,not arbitrary cost potential t=1."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-PLATEAU",
+      "qualified_label": "R:sc:plateau",
+      "label": "sc:plateau",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        82,
+        94
+      ],
+      "statement": "Absence of every positive power bound yields separated logarithmic plateau scales.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "r<<R->0,D>0 actual near-sup section oscillation,F(R)<=(1+delta)D,|logD|/|logR|->0;R/D^k->0 all fixed k;D need not ->0."
+      ],
+      "constants_and_constructions": [
+        "r<<R->0,D>0 actual near-sup section oscillation,F(R)<=(1+delta)D,|logD|/|logR|->0;R/D^k->0 all fixed k;D need not ->0."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-TEMPLATES",
+      "qualified_label": "R:sc:templates",
+      "label": "sc:templates",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        178,
+        200
+      ],
+      "statement": "Bounded-height center/outer profiles give increasing scalar modifications at sufficiently small scales.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "eps0=c0=2^-10,c1=c0/4;outer cap M0 fixed BEFORE K;outer height<=2M0+8 independentK,derivatives may dependK;negative outer curvature only specified low cap;K fixed before scales."
+      ],
+      "constants_and_constructions": [
+        "eps0=c0=2^-10,c1=c0/4;outer cap M0 fixed BEFORE K;outer height<=2M0+8 independentK,derivatives may dependK;negative outer curvature only specified low cap;K fixed before scales."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-SWITCH",
+      "qualified_label": "R:sc:switch",
+      "label": "sc:switch",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        326,
+        350
+      ],
+      "statement": "A first left/right envelope switch occurs at a controlled short displacement with absolute section levels.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "b/(32D)<=tau<=8b/D independentK;all active endpoints and references in original Cb section<R;one-sided semiconcave derivatives handle cuts;norm²=P-2Dsi+oD."
+      ],
+      "constants_and_constructions": [
+        "b/(32D)<=tau<=8b/D independentK;all active endpoints and references in original Cb section<R;one-sided semiconcave derivatives handle cuts;norm²=P-2Dsi+oD."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-EXCESS",
+      "qualified_label": "R:sc:excess",
+      "label": "sc:excess",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        497,
+        505
+      ],
+      "statement": "Modified center minus completed outer potential has positive excess comparable to b.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "c0b<=E(b)<=b independentK;global ordinary support supplies middle contact,not merely injectivity convexity."
+      ],
+      "constants_and_constructions": [
+        "c0b<=E(b)<=b independentK;global ordinary support supplies middle contact,not merely injectivity convexity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-MAXIMUM",
+      "qualified_label": "R:sc:maximum",
+      "label": "sc:maximum",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        572,
+        589
+      ],
+      "statement": "Penalized intermediate envelopes have positive interior amplitude maxima.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "pi=c0b/4+2b²/bplus;t->1 with scales/templates fixed;C11 both spatial envelopes,aligned minimizing rays;wc semiconvex need not cost potential;l=1+bBcprime/D in(0,1)."
+      ],
+      "constants_and_constructions": [
+        "pi=c0b/4+2b²/bplus;t->1 with scales/templates fixed;C11 both spatial envelopes,aligned minimizing rays;wc semiconvex need not cost potential;l=1+bBcprime/D in(0,1)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-PARAMETER",
+      "qualified_label": "R:sc:parameter",
+      "label": "sc:parameter",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        657,
+        672
+      ],
+      "statement": "Every positive finite active barycentric representation at an exact maximum satisfies the amplitude inequality.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Bc(s)-sum miBo(si)>=pi prime>=c1;fixedtime/scales first;pole change O(sqrt h),E component O(h);exact weighted linear cancellation before limit,not persistence of a chosen vertex."
+      ],
+      "constants_and_constructions": [
+        "Bc(s)-sum miBo(si)>=pi prime>=c1;fixedtime/scales first;pole change O(sqrt h),E component O(h);exact weighted linear cancellation before limit,not persistence of a chosen vertex."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-LEVELS",
+      "qualified_label": "R:sc:levels",
+      "label": "sc:levels",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        747,
+        767
+      ],
+      "statement": "All active levels and the center lie in a common controlled original section.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "s<3/4,right weight>=c1,levels>=-2eta,span<=1+delta;exact norm-level identity before prefix limit."
+      ],
+      "constants_and_constructions": [
+        "s<3/4,right weight>=c1,levels>=-2eta,span<=1+delta;exact norm-level identity before prefix limit."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SC-OUTWARD",
+      "qualified_label": "R:sc:outward",
+      "label": "sc:outward",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/scales.tex",
+      "statement_lines": [
+        797,
+        819
+      ],
+      "statement": "A line-span configuration has a positive-weight outward vertex in the fixed cap.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "Assume E=line,q=p.e>0,N<=n+1,zeta<=1/16;mi>=m*=c1/[12(n+1)],mi di>=c1D/[8(n+1)q],di<=3D/(2q),normincrement<=3D;M0=2/m* beforeK;does not itself prove E=line."
+      ],
+      "constants_and_constructions": [
+        "Assume E=line,q=p.e>0,N<=n+1,zeta<=1/16;mi>=m*=c1/[12(n+1)],mi di>=c1D/[8(n+1)q],di<=3D/(2q),normincrement<=3D;M0=2/m* beforeK;does not itself prove E=line."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SPEC-IDENTITIES",
+      "qualified_label": "R:spec:identities",
+      "label": "spec:identities",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "statement_lines": [
+        42,
+        82
+      ],
+      "statement": "Jacobi identities give branch Hessians,radial derivative,and reversal differential.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "C,J symplectic;dexp_Tv=J(T)/T;S=J^-1 C,Sprime=-J^-1 J^{-*};reversal dexp=adjoint survives full conjugacy;branch inverse only where nonsingular,order not commuted."
+      ],
+      "constants_and_constructions": [
+        "C,J symplectic;dexp_Tv=J(T)/T;S=J^-1 C,Sprime=-J^-1 J^{-*};reversal dexp=adjoint survives full conjugacy;branch inverse only where nonsingular,order not commuted."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SPEC-RADIAL",
+      "qualified_label": "R:spec:radial",
+      "label": "spec:radial",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "statement_lines": [
+        143,
+        174
+      ],
+      "statement": "Every ordered singular value of a shortened minimizing ray is comparable to sj(endpoint)+delta.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "v in G,0<delta<=1/2;fixed join h=1/4,T in[1/2,1];D(1)>=0,D(1-delta)=D(1)+deltaGdelta,cI<=G<=CI;exact Jfactorization holds full singular;N=Q+O(delta),radial kernel requires background term."
+      ],
+      "constants_and_constructions": [
+        "v in G,0<delta<=1/2;fixed join h=1/4,T in[1/2,1];D(1)>=0,D(1-delta)=D(1)+deltaGdelta,cI<=G<=CI;exact Jfactorization holds full singular;N=Q+O(delta),radial kernel requires background term."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SPEC-RADIAL-DETERMINANTS",
+      "qualified_label": "R:spec:radial-determinants",
+      "label": "spec:radial-determinants",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "statement_lines": [
+        323,
+        342
+      ],
+      "statement": "Exponential determinant comparisons distinguish proper shortening and extension.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "sigma(short)>=c sigma(endpoint);reverse center longer-ray upper and outer shorter-ray lower have different directions,not interchangeable."
+      ],
+      "constants_and_constructions": [
+        "sigma(short)>=c sigma(endpoint);reverse center longer-ray upper and outer shorter-ray lower have different directions,not interchangeable."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SPEC-PULLBACK",
+      "qualified_label": "R:spec:pullback",
+      "label": "spec:pullback",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "statement_lines": [
+        358,
+        384
+      ],
+      "statement": "An extendible minimizing ray gives an isotropic divided-action gain after dexp pullback.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "1<Tstar<=2,Tstar*r minimizing;halfextension nonsingular even full terminal conjugate;full terminal Hessian used only if nonconjugate;gain c(Tstar-1)I;matrix ratio order matters."
+      ],
+      "constants_and_constructions": [
+        "1<Tstar<=2,Tstar*r minimizing;halfextension nonsingular even full terminal conjugate;full terminal Hessian used only if nonconjugate;gain c(Tstar-1)I;matrix ratio order matters."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SPEC-COMPARISON",
+      "qualified_label": "R:spec:comparison",
+      "label": "spec:comparison",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "statement_lines": [
+        441,
+        459
+      ],
+      "statement": "An extended affine minimizing segment controls every ordered endpoint singular value by the center.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "[-a0,1] segment subset G,q!=0,p.q>0,|q|²/(p.q)<=B;constants geometry,a0,B;Loewner convex regularized matrices,logarithmic spectral separation and independent endpoint order,not an explicit constant algorithm."
+      ],
+      "constants_and_constructions": [
+        "[-a0,1] segment subset G,q!=0,p.q>0,|q|²/(p.q)<=B;constants geometry,a0,B;Loewner convex regularized matrices,logarithmic spectral separation and independent endpoint order,not an explicit constant algorithm."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-360-R-SPEC-OUTWARD",
+      "qualified_label": "R:spec:outward",
+      "label": "spec:outward",
+      "manuscript_id": "P-d34a3e42980b2ea6",
+      "path": "math/preprints/Uniform-Bi-Holder-Transport-from-Weak-MTW-September-25-2026/build/sections/spectral.tex",
+      "statement_lines": [
+        683,
+        703
+      ],
+      "statement": "An outward positive-weight barycentric vertex has controlled exponential determinant.",
+      "conditions": [
+        "Smooth connected compact boundaryless Riemannian (M,g),n>=2,c=d²/2;weakMTW at interior minimizing velocities and orthogonal test vectors only. Constants depend on fixed geometry unless otherwise stated.",
+        "mi>=mu>0,p_i=p+t_i e,h=p.e>0,h²>=kappaD,normincrement<=L0D;opposite extension[-mu,1];constant independent later K."
+      ],
+      "constants_and_constructions": [
+        "mi>=mu>0,p_i=p+t_i e,h=p.e>0,h²>=kappaD,normincrement<=L0D;opposite extension[-mu,1];constant independent later K."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    }
+  ],
+  "methods": [
+    {
+      "id": "PART-360-ORDINARY-SUPPORT",
+      "input": "Cost potential and ordinary semiconvex subgradient",
+      "output": "Global minimizing supporting mountain",
+      "qualified_source_label": "G:geo:support",
+      "conditions": "Ambient weakMTW;all active logs,not only differentiable/finite target cases"
+    },
+    {
+      "id": "PART-360-FIRST-FAILURE",
+      "input": "Earlier admissible graph scales plus terminal nonconjugacy",
+      "output": "Homeomorphic intermediate projection for0<t<1",
+      "qualified_source_label": "G:geo:local-injectivity",
+      "conditions": "Exact finite cancellations,one-sheet covering and capture every minimizing log;no endpoint-one injectivity"
+    },
+    {
+      "id": "PART-360-CONVEX-SECTION",
+      "input": "Dual potentials and gap height r",
+      "output": "Compact convex lifted section,diam²<=8(r+oscv)",
+      "qualified_source_label": "G:geo:sections",
+      "conditions": "Tangent velocity geometry with c=d²/2,not arbitrary metric embedding"
+    },
+    {
+      "id": "PART-360-INTERMEDIATE-POLE",
+      "input": "Cost potential,0<t<1",
+      "output": "C11 envelope and Lipschitz backward pole",
+      "qualified_source_label": "G:geo:intermediate",
+      "conditions": "Constants deteriorate near0/1;not mesh solver convergence"
+    },
+    {
+      "id": "PART-360-JACOBI-RADIAL",
+      "input": "Minimizing velocity including conjugate endpoint",
+      "output": "All ordered singular values of shortened ray comparable to sj+delta",
+      "qualified_source_label": "R:spec:radial",
+      "conditions": "Fixed compactgeometry and positive shortening;Odelta background retained"
+    },
+    {
+      "id": "PART-360-EXTENDED-SEGMENT",
+      "input": "Extended affine minimizing segment with obliqueness bound",
+      "output": "Ordered spectral/determinant comparison",
+      "qualified_source_label": "R:spec:comparison",
+      "conditions": "pq>0 and |q|²/pq<=B,entire extended segment minimizing;no explicit constants"
+    },
+    {
+      "id": "PART-360-PLATEAU",
+      "input": "Bounded monotone class oscillation without power",
+      "output": "Separated near-flat logarithmic scales",
+      "qualified_source_label": "R:sc:plateau",
+      "conditions": "Nonconstructive contradiction route,D need not tend0"
+    },
+    {
+      "id": "PART-360-AMPLITUDE-BARYCENTER",
+      "input": "Exact regularized interior amplitude maximum",
+      "output": "Inequality for EVERY active positive barycenter",
+      "qualified_source_label": "R:sc:parameter",
+      "conditions": "Scalar profiles,penalty and exact weighted cancellation;not generic convex mixing"
+    },
+    {
+      "id": "PART-360-ORIGINAL-LOWER-TEST",
+      "input": "Original density-coupled potential,C2 lower test at interior log",
+      "output": "Viscosity determinant upper bound",
+      "qualified_source_label": "R:jet:viscosity",
+      "conditions": "Does not transfer original density equation to arbitrary modified potential"
+    },
+    {
+      "id": "PART-360-ENDPOINT-JET",
+      "input": "C11 intermediate minimum,pole differential,active barycenter",
+      "output": "Exact zero-linear endpoint pullback jet miL",
+      "qualified_source_label": "R:jet:transfer",
+      "conditions": "Split proper cost prefixes,uniform finite family,not endpoint inverse at conjugacy"
+    },
+    {
+      "id": "PART-360-BOOTSTRAP-GOOD-CENTER",
+      "input": "Outer jet positivity/determinant and semibound",
+      "output": "Bounded pole matrices then invertible short map and good original centers",
+      "qualified_source_label": "R:jet:determinants",
+      "conditions": "Area-null exclusion BEFOREJensen;density Jacobian used only after invertibility;limits need not original differentiability"
+    },
+    {
+      "id": "PART-360-OBLIQUE-DET-GAIN",
+      "input": "Positive center/outer forms satisfying line-span geometry",
+      "output": "detVi>=cK detV",
+      "qualified_source_label": "R:jet:matrix",
+      "conditions": "Fixed positive vertex weight and outward direction;not unconditional rank-one update gain"
+    },
+    {
+      "id": "PART-360-CLASS-HOLDER",
+      "input": "Power bound on class section oscillation",
+      "output": "Common bi-Holder homeomorphic representative",
+      "qualified_source_label": "R:sc:power",
+      "conditions": "Fixed manifold and strictly positive lower density bound;no explicit alpha/no varying metric constants"
+    },
+    {
+      "id": "PART-360-POSITIVE-DEGREE",
+      "input": "Open local-minimum terminal graph projection with nonconjugacy",
+      "output": "Conditional degree-one homeomorphism",
+      "qualified_source_label": "G:geo:degree",
+      "conditions": "Optional route;ae Jacobian multiplicity alone insufficient;not a numerical degree estimator"
+    }
+  ],
+  "historical_references_by_key": {
+    "FGR2014": "LIT-360-FGR2015",
+    "Figalli2010": "LIT-360-FIGALLI2010",
+    "Hatcher2002": "LIT-360-HATCHER2002",
+    "Calegari2013": "LIT-360-CALEGARI2013",
+    "MTW2005": "LIT-360-MTW2005",
+    "Loeper2009": "LIT-360-LOEPER2009",
+    "FRV2011": "LIT-360-FRV2011",
+    "LoeperVillani2010": "LIT-360-LOEPERVILLANI2010",
+    "KM2010": "LIT-360-KM2010",
+    "Moreau1965": "LIT-360-MOREAU1965",
+    "MPW2012": "LIT-360-MPW2012",
+    "Simon2018": "LIT-360-SIMON2018",
+    "Gorodski2016": "LIT-360-GORODSKI2016",
+    "Villani2011": "LIT-360-VILLANI2011",
+    "TW2009": "LIT-360-TW2009",
+    "CMS2001": "LIT-360-CEMS2001",
+    "AA1999": "LIT-360-AA1999",
+    "FGR2015": "LIT-360-FGR2015",
+    "FKM2013Holder": "LIT-360-FKM2013HOLDER",
+    "FKM2013Spheres": "LIT-360-FKM2013SPHERES",
+    "CEMS2001": "LIT-360-CEMS2001",
+    "CIL1992": "LIT-360-CIL1992",
+    "LPZ2019": "LIT-360-LPZ2019",
+    "McCann2001": "LIT-360-MCCANN2001",
+    "Warren2026": "LIT-360-WARREN2026",
+    "Foundation2026": "P-ce31113d2b428321",
+    "Caffarelli1992": "LIT-360-CAFFARELLI1992"
+  },
+  "historical_aliases": {
+    "FGR2014": "FGR2015",
+    "CMS2001": "CEMS2001"
+  },
+  "historical_selected_originals": [
+    {
+      "id": "FGR2015",
+      "url": "https://gallouet.github.io/MTWCLNF.pdf",
+      "at": "2026-10-23T08:38:13.547452+00:00",
+      "tls": "normal verified TLS",
+      "final_url": "https://gallouet.github.io/MTWCLNF.pdf",
+      "status": "acquired",
+      "bytes": 448566,
+      "sha256": "6cf05171d0d3fb32f97297606118e4b9c7a930d0b387aaaff60face07596d672",
+      "path": "/private/tmp/ai-paper-WP107/FGR2015.pdf",
+      "key": "FGR2015",
+      "node_id": "LIT-360-FGR2015",
+      "version": "Published SIAM47(2),2015,969-1000,DOI10.1137/140961821",
+      "actually_read_selected_scope": "Extracted lines70-175 and839-900;PDF3/15 pixels actually viewed,printed971/983.",
+      "verified_contract": "Theorem1.7 assumes nonfocality plus weakMTW. Theorem4.1 gives another sufficient route with extended curvature,radial distance control and compact Z inside nonfocal domains;not all old results require global nonfocality. Source year key2014 is not publication year.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "id": "CEMS2001",
+      "url": "https://www.math.toronto.edu/mccann/papers/cms.pdf",
+      "at": "2026-10-23T08:38:19.431767+00:00",
+      "tls": "normal verified TLS",
+      "final_url": "https://www.math.toronto.edu/mccann/papers/cms.pdf",
+      "status": "acquired",
+      "bytes": 539519,
+      "sha256": "aec70ee5fab01cd48fe27aa8ae273aac7c9ac1cc30f31ffe7e84373423010a7a",
+      "path": "/private/tmp/ai-paper-WP107/CEMS2001.pdf",
+      "key": "CEMS2001",
+      "node_id": "LIT-360-CEMS2001",
+      "version": "Published Invent146(2),2001,219-257,DOI10.1007/s002220100160",
+      "actually_read_selected_scope": "Extracted lines1135-1308;Prop4.1 including proof andThm4.2 statement/start of proof;PDF23/25 pixels viewed,printed241/243.",
+      "verified_contract": "Original L1 absolutely continuous source/target probabilities yield a source-full Borel set of Alexandrov points,before-cut gradients and positive Jacobian identity. Strict positive density converts source-full to volume-full. Sign convention original c-concave phi corresponds to current semiconvex v=-phi. Not a formula at every chosen modified-envelope point.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "id": "CIL1992v1",
+      "url": "https://arxiv.org/pdf/math/9207212v1",
+      "at": "2026-10-23T08:38:27.181089+00:00",
+      "tls": "normal verified TLS",
+      "final_url": "https://arxiv.org/pdf/math/9207212v1",
+      "status": "acquired",
+      "bytes": 599424,
+      "sha256": "58aac2fbf8773e5654ba8700b316a313b5f56fa7e885e495135de31708d08a7c",
+      "path": "/private/tmp/ai-paper-WP107/CIL1992v1.pdf",
+      "key": "CIL1992",
+      "node_id": "LIT-360-CIL1992",
+      "version": "arXiv math/9207212v1;published BullAMS27(1992)1-67",
+      "actually_read_selected_scope": "Extracted lines3238-3335;AppendixA.3/A.4 statements and proofs;PDF60/61 pixels viewed.",
+      "verified_contract": "Semiconvex strict maximum gives positive-measure small-linear-perturbation contact set;quartic strictification produces actual ae twice-differentiable points with small gradient and Hessian upper errors. Does not by itself justify density equation at a limit endpoint.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "id": "FKM2013",
+      "url": "https://people.math.ethz.ch/~afigalli/papers-pdf/Holder-continuity-and-injectivity-of-optimal-maps.pdf",
+      "at": "2026-10-23T08:38:51.248539+00:00",
+      "tls": "normal verified TLS",
+      "final_url": "https://people.math.ethz.ch/~afigalli/papers-pdf/Holder-continuity-and-injectivity-of-optimal-maps.pdf",
+      "status": "acquired",
+      "bytes": 422417,
+      "sha256": "fadf0a0b03d29bd8aabf6270ec2f588a6f7f4341eda6ca89e2064601f8d5b81a",
+      "path": "/private/tmp/ai-paper-WP107/FKM2013.pdf",
+      "key": "FKM2013Holder",
+      "node_id": "LIT-360-FKM2013HOLDER",
+      "version": "Author-hosted49-page manuscript,publication DOI10.1007/s00205-013-0629-5;downloaded byte version distinguished",
+      "actually_read_selected_scope": "Extracted lines1-28 and180-311;conditionsB0-B3/B2s,Thm2.1 and proof/context;PDF6 pixels viewed.",
+      "verified_contract": "Weak A3w already yields local Holder/injectivity for C4 cost,bi-twist,bi-convex and strongly c-convex target domains with density ratios bounded. Manifold localization still needs suitable cut separation. Not a strong-MTW-only result and not all-class global cut-inclusive theorem.",
+      "whole_work_and_recursive_history_complete": false
+    }
+  ],
+  "historical_verified_keys": [
+    "FGR2015",
+    "CEMS2001",
+    "CIL1992",
+    "FKM2013Holder",
+    "FGR2014",
+    "CMS2001"
+  ],
+  "unread_root_body_keys": [
+    "Figalli2010",
+    "Hatcher2002",
+    "Calegari2013",
+    "MTW2005",
+    "Loeper2009",
+    "FRV2011",
+    "LoeperVillani2010",
+    "KM2010",
+    "Moreau1965",
+    "MPW2012",
+    "Simon2018",
+    "Gorodski2016",
+    "Villani2011",
+    "TW2009",
+    "AA1999",
+    "FKM2013Spheres",
+    "LPZ2019",
+    "McCann2001",
+    "Warren2026",
+    "Caffarelli1992"
+  ],
+  "historical_external_work_count": 24,
+  "formal_status": {
+    "selected_files_actually_read": [
+      {
+        "path": "math/lean/docs/360.md",
+        "lines": 19,
+        "sha256": "36af7a15e7d017d426bf0b9b6468f43d18dc417ffa0715d39bd515472d8423c5"
+      },
+      {
+        "path": "math/lean/ComparatorChallenges/WeakMTWGlobalSupport.json",
+        "lines": 14,
+        "sha256": "deb8a523598d086b146fe7908bfa641c4654f9f1c20e58b84036b1e4ee334385"
+      },
+      {
+        "path": "math/lean/ComparatorChallenges/BiholderTransport.json",
+        "lines": 14,
+        "sha256": "7c9eb6cfa8ef73414fd72772596c4289850e13af37fe0d2204e9823af97737f8"
+      },
+      {
+        "path": "math/lean/ComparatorChallenges/WeakMTWGlobalSupport.lean",
+        "lines": 79,
+        "sha256": "7cb7b3cb07bfd7a6ba8f2e289dcf95e7dc7b722a6b2f679a47ecec0da7e34f35"
+      },
+      {
+        "path": "math/lean/ComparatorChallenges/BiholderTransport.lean",
+        "lines": 127,
+        "sha256": "0a01595c5b2289901b195b6a358e5c463146d6e1f3a106250139672bed2ff20e"
+      },
+      {
+        "path": "math/lean/OAI/Geometry/WeakMTW/Main.lean",
+        "lines": 9,
+        "sha256": "611a41083c6068d0897e25be171d11bf7a97a8daa70fefeab59de31961dde2c4"
+      },
+      {
+        "path": "math/lean/OAI/Geometry/WeakMTW/Endpoints.lean",
+        "lines": 103,
+        "sha256": "7dbb78f0e96e4becfe3ce863a215570352749e97c94862da50c4068449cfbb0e"
+      },
+      {
+        "path": "math/lean/OAI/Geometry/WeakMTW/Convexity.lean",
+        "lines": 82,
+        "sha256": "8e48dafc02f24b0eeca65e202be53cf0da0c8f04ee90811f455ba03b90368ab6"
+      },
+      {
+        "path": "math/lean/OAI/Geometry/WeakMTW/Model.lean",
+        "lines": 67,
+        "sha256": "7796975fe15f9ef94cb429465a12c09ed447ecc65546d5375e03a5921865be8d"
+      },
+      {
+        "path": "math/lean/OAI/Analysis/BiholderTransport/Main.lean",
+        "lines": 58,
+        "sha256": "9bf6adbcf58f16be43cd7838b0b990cde20aeb4be99962c510f1bf345bc2d1ca"
+      },
+      {
+        "path": "math/lean/OAI/Analysis/BiholderTransport/Model.lean",
+        "lines": 98,
+        "sha256": "982ad4575e8e32600877285fd2733fdc97d33c46a284ec0fa57059e269488ff5"
+      }
+    ],
+    "yaml_selected_ranges": [
+      {
+        "path": "math/lean/formalization.yaml",
+        "lines": [
+          995,
+          1015
+        ]
+      },
+      {
+        "path": "math/lean/formalization.yaml",
+        "lines": [
+          1758,
+          1775
+        ]
+      }
+    ],
+    "both_main_declarations_registered": true,
+    "main_static_scope_matches": [
+      "G:thm:main",
+      "R:thm:main"
+    ],
+    "other53_bindings_not_assigned_B": true,
+    "local_lean_build": false,
+    "comparator_run": false,
+    "human_spec_review": false,
+    "full_import_proof_reading": false,
+    "challenge_sorry_scope": "Challenge files contain deliberate statement placeholders;actual Convexity and BiholderTransport/Main have proofs. This is not an observed solution failure or successful Comparator.",
+    "assessment": "Only two selected main scopes retain upstream B,notA;auxiliaries C pending individual matching,full dependency chains unknown. docs360 explicitly finite-family local injectivity differs from arbitrary-potential natural assertion."
+  },
+  "formal_statement_comparison": [
+    {
+      "item": "Global main convexity",
+      "natural": "Closed connected smooth n>=2,weakMTW=>linear convexI without nonfocality/priorconvexity",
+      "Lean": "WeakMTWGlobalSupport challenge,Model,actual Convexity endpoint;Endpoints selected declarations",
+      "assessment": "Static selected main scope matches upstreamB;foundation and auxiliary scopes not blanketpromoted;no build/Comparator/human review"
+    },
+    {
+      "item": "Uniform biHolder main",
+      "natural": "Fixed manifold and nonempty class of measurable positive bounded probability densities;common exponent/constant,aeuniqueness and homeomorphic representative/inverse",
+      "Lean": "BiholderTransport challenge+Model metricVolume calibration/AdmissibleDensity and actual Main proof invoking class_power/endpoint",
+      "assessment": "Static quantifiers and selected definitions match upstreamB;full imported proof unread,notA,no explicit constant or solver convergence"
+    },
+    {
+      "item": "Local injectivity foundation scope",
+      "natural": "Arbitrary potential graph with all earlier scales interior and terminal nonconjugacy",
+      "Lean": "docs360 and Endpoints.current_critical_local_injectivity require Fintype finite target family",
+      "assessment": "Finite-family formal endpoint does not cover arbitrary-potential natural local assertion;retainC/unknown chain,do not distribute B"
+    }
+  ],
+  "actual_pdf_pixels": [
+    {
+      "image": "/private/tmp/ai-paper-WP107/CEMS2001-p23.png",
+      "sha256": "0f5d296a193db87a2112bd924554ee52f39f01cd8d6ec9740b83647036235343",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    },
+    {
+      "image": "/private/tmp/ai-paper-WP107/CEMS2001-p25.png",
+      "sha256": "f6103c489cfd0c5e66c6a2e044cacdca05a175ed4dd49c16624343f0011f29f6",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    },
+    {
+      "image": "/private/tmp/ai-paper-WP107/CIL1992v1-p60.png",
+      "sha256": "484132ad8b86c7c72c6bb5e3a100ecb30e41a9e76d6c1a8c7feeb71a3ca8b742",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    },
+    {
+      "image": "/private/tmp/ai-paper-WP107/CIL1992v1-p61.png",
+      "sha256": "7a32e2b1ff1d78e271ffac93631193fdd68e356aa91fddcd3decd8abbb03cf62",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    },
+    {
+      "image": "/private/tmp/ai-paper-WP107/FGR2015-p15.png",
+      "sha256": "294f90175b00beb9881b50dbd8c5ef5cacd99103a76ecda822127ad85cc625e7",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    },
+    {
+      "image": "/private/tmp/ai-paper-WP107/FGR2015-p3.png",
+      "sha256": "9249c9579a707128ca5a9b9f75f863d21c212182997102e47cb83a538d6192f2",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    },
+    {
+      "image": "/private/tmp/ai-paper-WP107/FKM2013-p6.png",
+      "sha256": "db9cf7368b7be880fce6230b41d54250d331bd5bb5b14c91894def054699200f",
+      "pixels_actually_viewed": true,
+      "scope": "Physical PDF page in filename,not inferred printed page"
+    }
+  ],
+  "acquisition": {
+    "works_cap": 4,
+    "bytes_cap": 8388608,
+    "total_downloaded_bytes": 2009926,
+    "items": [
+      {
+        "id": "FGR2015",
+        "url": "https://gallouet.github.io/MTWCLNF.pdf",
+        "at": "2026-10-23T08:38:13.547452+00:00",
+        "tls": "normal verified TLS",
+        "final_url": "https://gallouet.github.io/MTWCLNF.pdf",
+        "status": "acquired",
+        "bytes": 448566,
+        "sha256": "6cf05171d0d3fb32f97297606118e4b9c7a930d0b387aaaff60face07596d672",
+        "path": "/private/tmp/ai-paper-WP107/FGR2015.pdf"
+      },
+      {
+        "id": "CEMS2001",
+        "url": "https://www.math.toronto.edu/mccann/papers/cms.pdf",
+        "at": "2026-10-23T08:38:19.431767+00:00",
+        "tls": "normal verified TLS",
+        "final_url": "https://www.math.toronto.edu/mccann/papers/cms.pdf",
+        "status": "acquired",
+        "bytes": 539519,
+        "sha256": "aec70ee5fab01cd48fe27aa8ae273aac7c9ac1cc30f31ffe7e84373423010a7a",
+        "path": "/private/tmp/ai-paper-WP107/CEMS2001.pdf"
+      },
+      {
+        "id": "CIL1992v1",
+        "url": "https://arxiv.org/pdf/math/9207212v1",
+        "at": "2026-10-23T08:38:27.181089+00:00",
+        "tls": "normal verified TLS",
+        "final_url": "https://arxiv.org/pdf/math/9207212v1",
+        "status": "acquired",
+        "bytes": 599424,
+        "sha256": "58aac2fbf8773e5654ba8700b316a313b5f56fa7e885e495135de31708d08a7c",
+        "path": "/private/tmp/ai-paper-WP107/CIL1992v1.pdf"
+      },
+      {
+        "id": "FKM2013",
+        "url": "https://people.math.ethz.ch/~afigalli/papers-pdf/Holder-continuity-and-injectivity-of-optimal-maps.pdf",
+        "at": "2026-10-23T08:38:51.248539+00:00",
+        "tls": "normal verified TLS",
+        "final_url": "https://people.math.ethz.ch/~afigalli/papers-pdf/Holder-continuity-and-injectivity-of-optimal-maps.pdf",
+        "status": "acquired",
+        "bytes": 422417,
+        "sha256": "fadf0a0b03d29bd8aabf6270ec2f588a6f7f4341eda6ca89e2064601f8d5b81a",
+        "path": "/private/tmp/ai-paper-WP107/FKM2013.pdf"
+      }
+    ]
+  },
+  "domain_attempts": [
+    {
+      "domain": "medical image registration",
+      "problem": "Global invertible mass-preserving anatomical warp",
+      "possible_mapping": "Fixed weakMTW manifold and positive bounded densities could supply topological regularity",
+      "judgment": "Voxel zeros,boundaries,estimated metric and finite solver rates remain unsupported;no actual admissible dataset or benefit judge",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "robotics",
+      "problem": "Density redistribution on configuration space",
+      "possible_mapping": "BiHolder transport might control continuity of spatial allocation",
+      "judgment": "Obstacles,boundary and many configuration metrics lack weakMTW;no validated premise certificate or controller guarantee",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "machine learning",
+      "problem": "Invertible manifold normalizing transport",
+      "possible_mapping": "Homeomorphic representative for bounded densities",
+      "judgment": "Discrete empirical/sparse distributions lack a.e. positive lower bound;no neural approximation/training guarantee",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "astronomy",
+      "problem": "Spherical mass redistribution",
+      "possible_mapping": "Geodesic sphere OT regularity interface",
+      "judgment": "Round-sphere/product results already old;no incremental consumer need or benchmark established",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "geoscience",
+      "problem": "Conservative global field remapping",
+      "possible_mapping": "Closed surface volume transport",
+      "judgment": "Real geographic metric,holes/zeros and numerical constants need proof;old remapping may suffice",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "economics",
+      "problem": "Optimal assignment with curved type space",
+      "possible_mapping": "Single-valued continuous allocation",
+      "judgment": "General economic cost is not fixed squared Riemannian distance;weakMTW/bounded densities and boundaryless compactness unverified",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "computer graphics",
+      "problem": "Mass-preserving surface texture map",
+      "possible_mapping": "BiHolder inverse could avoid continuous folding",
+      "judgment": "Most meshes have boundaries/no certifiedweakMTW;Hölder is not bounded distortion/Lipschitz Jacobian or mesh error",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "energy systems",
+      "problem": "Redistribution of demand on periodic geometry",
+      "possible_mapping": "Convex lifted sections as geometric feasible regions",
+      "judgment": "Power-flow physics and dispatch constraints not squared-distance transport;no valid typed bridge",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "ecology",
+      "problem": "Species density migration matching",
+      "possible_mapping": "Continuity under positive density bounds",
+      "judgment": "Vacant habitats/obstacles break lower bound and closed geometry;theorem gives no dynamics/causal ecological prediction",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "language processing",
+      "problem": "Semantic embedding transport",
+      "possible_mapping": "Analogy to manifold matching",
+      "judgment": "Learned metric/curvature,continuous probability lower bounds and exact geometry unverified;generic OT toy not a new application",
+      "counts_as_new_candidate": false
+    }
+  ],
+  "cross_family_attempts": [
+    {
+      "family": "F-262",
+      "comparison": "Convex lifted velocity sections versus convex-body geometric interfaces",
+      "boundary": "Actual c-support,active logs and weakMTW geometry cannot be replaced by arbitrary convex-body or matrix constraints;no new candidate"
+    },
+    {
+      "family": "F-238",
+      "comparison": "Continuous OT regularity versus discrete shuffle/mixing",
+      "boundary": "Finite atomic distributions and mixing-time contraction do not supply a.e. density lower bound or geometric MTW;no derived rate"
+    },
+    {
+      "family": "F-332",
+      "comparison": "Transport continuity as a denoising stability mechanism",
+      "boundary": "Nonexplicit Holder class regularity gives no held-out prediction loss or improvement over frozen weighted-median identity;prior adverse evidence unchanged"
+    }
+  ],
+  "gaps": [
+    "Bothcurrentmanuscripts13TeX5013+389Bib andtwoREADME20each actuallyread;55source-labelled bindings include8restatements,not55independentmathematicaldiscoveries.",
+    "Only4historical original selected scopes verified;allotherrootbodies andrecursive history/old editions remain open. Bibliography aliases CMS/CEMS andFGR2014/2015 merged bysameDOI;Foundation2026 internalalreadyread.",
+    "Two main selected Lean scopes upstreamB;53otherbindings conservativelyC/fullchainunknown. Finite-family localinjectivity formal scope does not cover arbitrary-potential assertion. No full import reading,Leanbuild,Comparator or human specification review.",
+    "Current source proof supplies existential fixed-class Holder exponent/constant,not an explicit algorithm,finite-grid error,runtime,metric-uniformity or generic density-zero result. No concrete admissible consumer/benchmark and no newapplicationcandidate/check/experiment.",
+    "Pinned corpus maps2currentmanuscripts;unavailableolderversions andrecursivehistoricalcoverage not complete. Fullfamily/history,human,secondprovider,pilotremain0."
+  ],
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "source_reuse_policy": "Temporary third-party originals/pixels removed after hash check;retain own notes and precise locators. math read-only excluded.",
+  "github_push": false
+}

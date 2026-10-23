@@ -1,0 +1,15 @@
+# WP099 quality receipt
+
+2026-10-23. Source reading and graph curation only; no new numerical/symbolic application experiment, Lean build, Comparator, human or second-provider review.
+
+- Existing 68 core tests passed with no skips, followed by full canonical validation, regenerated reports and lossless provenance audit. Existing Python3.12.14 / bundled Node; no dependency installation.
+- 59 new canonical records / 194 explicit edges. All 4,133 old canonical records and old edge bytes remain exact; experiment code, plans, runs and tests unchanged.
+- Full graph: 6,863 nodes / 18,674 relations; 7,194 canonical source annotations, including 7,184 core-validated types. Local hashed annotations 6,709; external annotations without retained original text 485, of which 347 have no byte hash. Scope/version annotations are retained independently.
+- Twelve mandatory/contextual dependency-impact cases passed. The selected main and every full proof chain remain unknown; context comparisons do not become mathematical premises. F058/F256 old candidate dependencies remain intact.
+- JSON and GraphML full node/edge objects match graph.load. All eight natural source hashes / 12 result-source bindings, 13 actual formal file scopes, four original PDF hashes and eight actually inspected page-image hashes were verified.
+- All 15 existing compressed experiment archives and 267 source-snapshot members passed output, decompression and input-member hashes. No scientific replay was needed because experimental code/specifications/data/comparators did not change; archive integrity is not new application validation.
+- A clean independent directory containing 1,742 files / 63,347,633 bytes, with no math directory, completed the same core/validation/report/provenance workflow with exit 0. Copied bytes were hashed; its manifest records the working-tree scope at copy time. Receipt-only later edits do not add another scientific test. The temporary clean directory was removed.
+- Four original PDFs total 2,047,757 bytes. External full texts, extracted text and eight PNGs were hash-checked and removed after source/version/page/image provenance was saved. Own helpers/logs total 104,871 bytes, stored in a 34,228-byte gzip/tar; every decompressed member was checked before plaintext cleanup. Storage manifest retains exact sizes/hashes.
+- Official math is clean at the pinned revision; root Chinese charter hash unchanged. No GitHub push or remote write. Work after the last verified public f0c3ddc remains local; GitHub uses meaningful milestone batches.
+
+Current-source decomposition is a draft, not complete-family/history assurance. No actual F196 matching table or independently checkable finite zero-divisor fixture was supplied. Counts remain 43 candidates / 13 preliminary checks / 13 distinct hypotheses / five narrowly supported and eight adverse observations; real human review, separate provider, complete families and full lineages remain zero. WP100 addresses three bounded classical proof-input scopes, not an invented benchmark.

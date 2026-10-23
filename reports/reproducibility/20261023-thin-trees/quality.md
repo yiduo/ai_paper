@@ -1,0 +1,11 @@
+# WP105 quality and evidence scope
+
+All 69 core checks passed with complete source/FK/gate/provenance checks. Twelve new and old dependency-impact cases passed; full JSON and GraphML objects exactly match the full graph. All15 experiment archives and267 source members passed compressed/decompressed hash integrity. Experimental algorithm/spec/data/comparator did not change; this is not a new scientific replay or application validation.
+
+The separate clean directory without math or Git history passed the full check with exit0: 1860 files / 68152443 bytes copied and individually verified, then removed. With no upstream present,the pinned manifest checks hashes;it does not freshly read or verify the originals.
+
+The final graph has7362 nodes/20333 relations;4514 canonical records,7884 source annotations(7874 core-validated). All4412 old record lines,old edges,old candidates,experimental source/data/tests and old family reports remain byte-exact. New source reading:58result drafts/12methods,three selected primary originals/six viewed pages;56read families/51source drafts. Candidate44/preliminary13/distinct13 counts unchanged;fullfamily/history/human/provider/pilots remain0.
+
+Eight aliases and104 lexical references were qualified with the exact unaccepted first draft preserved. First core and first clean-directory runs failed at the provenance audit because32 unacquired-byte hashes were encoded null. Their logs/manifests and27 exact previous new objects remain archived;the existing absent-hash convention was restored,without inventing bytes or changing old records. Full affected checks then passed. See draft-qualification,unknown-hash-encoding-correction and compressed helper logs.
+
+Normal TLS acquired1635535 bytes,within four-work/eight-MiB cap. Original PDFs/text/pixels were hash-verified and removed,not republished. Own helper/logs/failures are compressed with every member's decompressed SHA256 checked before plaintext deletion;actual storage receipt is storage.json. No installation,scientific experiment,Lean/Comparator build,GitHub write or official math deployment. Selected main upstream B scopes are not human approval. Overall goal active_incomplete;nextWP106 bounded realPSD consumer qualification,retro038 afterWP107 or earlier significant evidence.

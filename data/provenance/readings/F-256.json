@@ -1,0 +1,1383 @@
+{
+  "family_id": "F-256",
+  "work_package": "WP-097",
+  "generation_id": "GEN-20261023-094",
+  "recorded_at": "2026-10-23T03:36:45.739339+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "a7b6abf13d112fd2603566c028e3aae354192337",
+  "manuscript_ids": [
+    "P-96f3844b49d3a0f7",
+    "P-63f4b2af9a574825"
+  ],
+  "read_files": {
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/README.md": {
+      "sha256": "5ad6a313f645a29cf9d98d66af936977106ca3fec369d10bf1f30c2a32c9c6a5",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/main.tex": {
+      "sha256": "3e70fd90b19fea1883e5eb656b1558e170ca95783aa78b566565e0c8b5170c85",
+      "total_lines": 46,
+      "read_ranges": [
+        [
+          1,
+          46
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex": {
+      "sha256": "95da1d983b63bbc03687ac8e9d3b87b3688e9b738babde063ef16ceec4c54483",
+      "total_lines": 100,
+      "read_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/fixed-space.tex": {
+      "sha256": "5951248853437b62d60eada07d029a5f91ab8ab01038a2e9df6d8b28a7566233",
+      "total_lines": 297,
+      "read_ranges": [
+        [
+          1,
+          297
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/history.tex": {
+      "sha256": "c8a0faebb664439325a566bdade6a7cd759f538af6ff5e640e62bca9f09786b9",
+      "total_lines": 79,
+      "read_ranges": [
+        [
+          1,
+          79
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/introduction.tex": {
+      "sha256": "a90eec91a71d4e2223efc65169fc45a639a918632c7f9272b5108c3e782dade4",
+      "total_lines": 99,
+      "read_ranges": [
+        [
+          1,
+          99
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/kernel.tex": {
+      "sha256": "591356c87116cfc32e71b0f3b20260526475cd91a9eba5093d7c454edc764cbf",
+      "total_lines": 162,
+      "read_ranges": [
+        [
+          1,
+          162
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/phase.tex": {
+      "sha256": "01625b4197d6b826946592e40067bd25e3e882edac96833a96ae0237dca9d93f",
+      "total_lines": 201,
+      "read_ranges": [
+        [
+          1,
+          201
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/planar.tex": {
+      "sha256": "b263f99c9c6690c5caae36e84ee80935ca7ff220c4008b23409ae38a35f898a9",
+      "total_lines": 293,
+      "read_ranges": [
+        [
+          1,
+          293
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/README.md": {
+      "sha256": "fb7fed8c2503f2c331251999ab29907f2121f456bb57c1e4f751c68b969812ed",
+      "total_lines": 18,
+      "read_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/paper.tex": {
+      "sha256": "fb51cb31bb8bfa31d6c4605fe2af21c0dace13a914f43be88009e9ad47de1003",
+      "total_lines": 47,
+      "read_ranges": [
+        [
+          1,
+          47
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib": {
+      "sha256": "aae200dc5e7d489c853b81e0c8639671102317afd0d2b0a8a66b32540bf4b8c7",
+      "total_lines": 109,
+      "read_ranges": [
+        [
+          1,
+          109
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/degree.tex": {
+      "sha256": "a2158bf0a34c08e6c1b126d89d8ca400f9ecb1f48ab2993104101d63e13c80e4",
+      "total_lines": 144,
+      "read_ranges": [
+        [
+          1,
+          144
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/diagram.tex": {
+      "sha256": "46a2c69d6709b7e556060f9901381037d4d04e880ff801e99646840a65fc3b28",
+      "total_lines": 250,
+      "read_ranges": [
+        [
+          1,
+          250
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/introduction.tex": {
+      "sha256": "f9222724c85672dc18661e35d0db12e019ed505707ccdd78332d25eae5987b08",
+      "total_lines": 150,
+      "read_ranges": [
+        [
+          1,
+          150
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/phase.tex": {
+      "sha256": "6c9db8680a4f08138c39d110f4f5517448074e5e92b31c604f42bc631d786506",
+      "total_lines": 149,
+      "read_ranges": [
+        [
+          1,
+          149
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/topology.tex": {
+      "sha256": "4b4f6935392f71f3b00844d6a946555f6518d09c21c6882467e5637b05d40d3e",
+      "total_lines": 140,
+      "read_ranges": [
+        [
+          1,
+          140
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "include_closure": {
+    "verified": true,
+    "N_history_included_via": "sections/introduction.tex",
+    "K_external_runtime_inputs": [
+      "glyphtounicode",
+      "glyphtounicode-cmex"
+    ],
+    "runtime_inputs_not_installed": true
+  },
+  "source_tex_files": 14,
+  "source_tex_lines": 2157,
+  "separate_bib_lines": 109,
+  "readme_lines": 36,
+  "results": [
+    {
+      "id": "CLM-256-N-THM-FIXED-SPACE",
+      "manuscript_id": "P-96f3844b49d3a0f7",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/fixed-space.tex",
+      "sha256": "5951248853437b62d60eada07d029a5f91ab8ab01038a2e9df6d8b28a7566233",
+      "kind": "theorem",
+      "natural_label": "thm:fixed-space",
+      "qualified_label": "N:thm:fixed-space",
+      "title_tex": "Simultaneous fixed spaces",
+      "statement_lines": [
+        11,
+        37
+      ],
+      "statement": "For shared unrestricted unitary variables of possibly different sizes and arbitrary fixed right factors,full signed-multiplicity row rank forces a simultaneous total fixed-space dimension at least the sum of variable sizes.",
+      "conditions": "r>=0,n>=1,k_i>0;ordered signed block occurrences,empty blocks/U(0) allowed;sum_j dim ker(F_j-I)>=sum_i k_i. Sorted k and nested nonzero minors allocate particular l_j,not arbitrary per-channel targets. No algorithm or continuous selector.",
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-N-THM-MAIN",
+      "manuscript_id": "P-96f3844b49d3a0f7",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/introduction.tex",
+      "sha256": "a90eec91a71d4e2223efc65169fc45a639a918632c7f9272b5108c3e782dade4",
+      "kind": "theorem",
+      "natural_label": "thm:main",
+      "qualified_label": "N:thm:main",
+      "title_tex": "Nonsingular systems",
+      "statement_lines": [
+        27,
+        37
+      ],
+      "statement": "Every finite full-rational-row-rank system over any coefficient group embeds its coefficient group into the presented quotient.",
+      "conditions": "1<=m<=n;complete integer exponent matrix rankQ=m;ordinary group overgroup,not necessarily the original group or finite/effective/structure-preserving.",
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-N-LEM-PHASE-SUBADDITIVITY",
+      "manuscript_id": "P-96f3844b49d3a0f7",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/phase.tex",
+      "sha256": "01625b4197d6b826946592e40067bd25e3e882edac96833a96ae0237dca9d93f",
+      "kind": "lemma",
+      "natural_label": "lem:phase-subadditivity",
+      "qualified_label": "N:lem:phase-subadditivity",
+      "title_tex": "Spectral-phase subadditivity",
+      "statement_lines": [
+        83,
+        89
+      ],
+      "statement": "The unnormalized fractional spectral phase in the arbitrary-group regular finite matrix algebra is subadditive under unitary multiplication.",
+      "conditions": "Any group,positive finite matrix size;h(e^(2pi it))=fract(t),h(1)=0;full regular commutant/finite faithful trace,not finite approximation hypothesis;not a robust symmetric error norm.",
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-N-LEM-CYCLE-PHASE",
+      "manuscript_id": "P-96f3844b49d3a0f7",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/phase.tex",
+      "sha256": "01625b4197d6b826946592e40067bd25e3e882edac96833a96ae0237dca9d93f",
+      "kind": "lemma",
+      "natural_label": "lem:cycle-phase",
+      "qualified_label": "N:lem:cycle-phase",
+      "title_tex": "Weighted-cycle formula",
+      "statement_lines": [
+        167,
+        179
+      ],
+      "statement": "A unitary-weighted cycle has exact phase (a-1)/2 plus phase trace of the ordered circuit product.",
+      "conditions": "a positive;unitary Q_t in the group regular algebra;C=Q_a...Q_1;unnormalized matrix trace and tau(I)=1;scalar rephasing preserves cut convention.",
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-N-PROP-PLANAR",
+      "manuscript_id": "P-96f3844b49d3a0f7",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/sections/planar.tex",
+      "sha256": "b263f99c9c6690c5caae36e84ee80935ca7ff220c4008b23409ae38a35f898a9",
+      "kind": "proposition",
+      "natural_label": "prop:planar",
+      "qualified_label": "N:prop:planar",
+      "title_tex": "Planar boundary obstruction",
+      "statement_lines": [
+        46,
+        54
+      ],
+      "statement": "A connected genus-zero full-slot paired surface with full-rank relator exponent rows cannot have exactly one nontrivial coefficient boundary word.",
+      "conditions": "Nonempty finite signed disks;same variable/opposite traversal signs each slot used once;all other boundary words trivial;arbitrary pairing alone does not guarantee planarity.",
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-K-LEM-FIXED",
+      "manuscript_id": "P-63f4b2af9a574825",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/degree.tex",
+      "sha256": "a2158bf0a34c08e6c1b126d89d8ca400f9ecb1f48ab2993104101d63e13c80e4",
+      "kind": "lemma",
+      "natural_label": "lem:fixed",
+      "qualified_label": "K:lem:fixed",
+      "title_tex": null,
+      "statement_lines": [
+        12,
+        21
+      ],
+      "statement": "A signed repeat of one unrestricted unitary with total exponent+1 or-1 can be chosen so its fixed right product fixes a k-plane.",
+      "conditions": "k>=1,s_i in+/-1,sum s_i=+/-1,P arbitrary unitary of size nk;existence only,no continuous selection. Incidence manifold and mod2degree.",
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-K-THM-PLANAR",
+      "manuscript_id": "P-63f4b2af9a574825",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/diagram.tex",
+      "sha256": "46a2c69d6709b7e556060f9901381037d4d04e880ff801e99646840a65fc3b28",
+      "kind": "theorem",
+      "natural_label": "thm:planar",
+      "qualified_label": "K:thm:planar",
+      "title_tex": "Planar boundary theorem",
+      "statement_lines": [
+        34,
+        39
+      ],
+      "statement": "A connected genus-zero paired surface from copies of a single unimodular relator cannot have only one nontrivial coefficient boundary.",
+      "conditions": "Nonempty finite disks;opposite traversal signs,every slot paired;disk sign differs from traversal sign. Uniform bound for every boundary phase,not limiting convergence of auxiliary X.",
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-K-THM-MAIN",
+      "manuscript_id": "P-63f4b2af9a574825",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/introduction.tex",
+      "sha256": "f9222724c85672dc18661e35d0db12e019ed505707ccdd78332d25eae5987b08",
+      "kind": "theorem",
+      "natural_label": "thm:main",
+      "qualified_label": "K:thm:main",
+      "title_tex": null,
+      "statement_lines": [
+        23,
+        30
+      ],
+      "statement": "For any group and one unimodular relator in A*Z,the canonical coefficient map into its one-relator quotient is injective.",
+      "conditions": "Exponent sum exactly+1 or-1;no torsion/cardinality/presentation restriction. Not the multi-relator/nonzero-exponent generalization.",
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-K-COR-KERVAIRE",
+      "manuscript_id": "P-63f4b2af9a574825",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/introduction.tex",
+      "sha256": "f9222724c85672dc18661e35d0db12e019ed505707ccdd78332d25eae5987b08",
+      "kind": "corollary",
+      "natural_label": "cor:kervaire",
+      "qualified_label": "K:cor:kervaire",
+      "title_tex": "The Kervaire conjecture",
+      "statement_lines": [
+        36,
+        40
+      ],
+      "statement": "For a nontrivial coefficient group,adjoining one generator and one relation never yields the trivial group.",
+      "conditions": "Every relator;for exponent sum not+/-1 use nontrivial cyclic quotient Z/dZ,including Z atd=0. This branch proves nontriviality,not coefficient injectivity.",
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    },
+    {
+      "id": "CLM-256-K-LEM-PHASE",
+      "manuscript_id": "P-63f4b2af9a574825",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/sections/phase.tex",
+      "sha256": "6c9db8680a4f08138c39d110f4f5517448074e5e92b31c604f42bc631d786506",
+      "kind": "lemma",
+      "natural_label": "lem:phase",
+      "qualified_label": "K:lem:phase",
+      "title_tex": "Subadditivity of spectral phase",
+      "statement_lines": [
+        67,
+        72
+      ],
+      "statement": "Fractional spectral phase is subadditive on the arbitrary-group finite regular matrix algebra.",
+      "conditions": "Same cut h(1)=0 and unnormalized finite trace as multi manuscript;one-sided smoothing at cut,not symmetric smoothing or hardware noise metric.",
+      "source_claim_grade": "B",
+      "dependency_chain_grade": "unknown",
+      "input_output_conditions_curated": true,
+      "human_proof_review": false
+    }
+  ],
+  "methods": [
+    {
+      "id": "PART-256-EXPONENT-RANK-INJECTION",
+      "input": "Complete finite relator words over G*F_n with declared coefficient/new-variable namespaces",
+      "output": "Conditional coefficient injectivity when the full exponent matrix has rational full row rank",
+      "conditions_and_nontransferability": "Bind all rows/variables/AST/group identity;rank failure unsupported,not collapse;no arbitrary specification conservativity. General source theoremC.",
+      "source_qualified_labels": [
+        "N:thm:main"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-QUOTIENT-UNIVERSAL",
+      "input": "Normal-closure quotient and a solution in an overgroup preserving G",
+      "output": "Equivalence between canonical coefficient injectivity and overgroup solution",
+      "conditions_and_nontransferability": "No solution inG,word-problem decision,finite overgroup or isomorphism toG follows.",
+      "source_qualified_labels": [
+        "N:thm:main",
+        "K:thm:main"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-FINITE-SUPPORT-CLOSURE",
+      "input": "Arbitrary sets of finite-support independent exponent rows and an alleged coefficient kernel element",
+      "output": "Reduction to finitely many relators/variables in its normal-closure witness",
+      "conditions_and_nontransferability": "Source kernel.tex154-162,not an effective stopping bound or finite-memory global algorithm.",
+      "source_qualified_labels": [
+        "N:thm:main"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-MULTI-FIXEDSPACE",
+      "input": "Signed ordered block lists,shared X_i inU(k_i),fixed arbitraryP_j,rankQ(B)=r",
+      "output": "Existence of shared choices with total fixed dimensions >=sumk_i",
+      "conditions_and_nontransferability": "No prescribed independent l_j,restricted controls,numerical constructor or robustness guarantee.",
+      "source_qualified_labels": [
+        "N:thm:fixed-space"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-NESTED-MINOR-ALLOCATION",
+      "input": "k_i sorted descending and full-row-rank integer multiplicity matrix",
+      "output": "Nested nonzero column minors and l_(j_t)=k_t;suml=sumk,suml^2=sumk^2",
+      "conditions_and_nontransferability": "Exact rational rank,compatible selected columns;allocation concerns existence constraints,not an optimized arbitrary target vector. Source fixed-space40-68.",
+      "source_qualified_labels": [
+        "N:thm:fixed-space"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-FIXEDPLANE-INCIDENCE",
+      "input": "U(d) and fixed l-plane incidence R(d,l)",
+      "output": "Compact smooth resolving bundle overGr_l(C^d),dimensiond^2-l^2",
+      "conditions_and_nontransferability": "The image itself need not be a submanifold;use pushed-forward homology class. l=0,d endpoints retained.",
+      "source_qualified_labels": [
+        "N:thm:fixed-space",
+        "K:lem:fixed"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-EXTERIOR-INTERSECTION",
+      "input": "Compatible primitive rational odd generators and fixed-plane incidence classes",
+      "output": "Nonzero top coefficient via product of nested minors forces simultaneous intersection",
+      "conditions_and_nontransferability": "All shorter exterior-length terms vanish in top degree;this is existence,not a computed intersection point;Borel/McCleary/Hatcher background not fully audited.",
+      "source_qualified_labels": [
+        "N:thm:fixed-space"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-ONEBLOCK-DEGREE",
+      "input": "One signed repeat with total +/-1 and fixedP",
+      "output": "Odd mod2degree via unique regular preimage after paired-block homotopy",
+      "conditions_and_nontransferability": "No orientation needed in this single case;multi-case uses rational intersection instead. No continuous choice of X.",
+      "source_qualified_labels": [
+        "K:lem:fixed"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-FAITHFUL-REGULAR-TRACE",
+      "input": "Arbitrary group and finite matrices commuting with right translations",
+      "output": "Unnormalized faithful normal trace tau_d(I)=d detecting positive zero",
+      "conditions_and_nontransferability": "Countable support per l2vector does not restrict cardinality of group;no finite sampled or nonfaithful representation substitution.",
+      "source_qualified_labels": [
+        "N:lem:phase-subadditivity",
+        "K:lem:phase"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-PHASE-CUT",
+      "input": "Unitary in finite regular commutant with faithful trace",
+      "output": "Nonnegative ell=tau(h(U));ell=0 iff identity with h(1)=0",
+      "conditions_and_nontransferability": "Directed fractional cut,not a symmetric distance;small ordinary perturbations across1 can jump. Source definition and faithfulness equations.",
+      "source_qualified_labels": [
+        "N:lem:phase-subadditivity",
+        "K:lem:phase"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-PHASE-SUBADDITIVITY",
+      "input": "Unitary U,V in correct traced algebra",
+      "output": "ell(UV)<=ell(U)+ell(V)",
+      "conditions_and_nontransferability": "Forward smoothing f_epsilon approaches h(1)=0 and derivative<=1;trace positivity handles noncommuting h(V). Finite-matrix precedent already Thompson.",
+      "source_qualified_labels": [
+        "N:lem:phase-subadditivity",
+        "K:lem:phase"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-WEIGHTED-CYCLE",
+      "input": "Unitary steps Q_1,...,Q_a in a cycle",
+      "output": "ell(T)=(a-1)/2+tau(h(Q_a...Q_1))",
+      "conditions_and_nontransferability": "Ordered products and unnormalized trace crucial;cyclic starts conjugate,not commuting weights.",
+      "source_qualified_labels": [
+        "N:lem:cycle-phase",
+        "K:thm:planar"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-BALANCED-DISKS",
+      "input": "Full-rank exponent rows and same-variable/opposite-sign slot pairing",
+      "output": "Equal positive/negative counts by relator type;2Kdisks,2bslots,bbands",
+      "conditions_and_nontransferability": "Traversal sign and disk sign separate;does not force genuszero.",
+      "source_qualified_labels": [
+        "N:prop:planar",
+        "K:thm:planar"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-BOUNDARY-PERMUTATION",
+      "input": "Disk successor sigma,band involution theta and corner labels",
+      "output": "Boundary cycles of sigma*theta with r_z ordered c_(theta d)",
+      "conditions_and_nontransferability": "Operator circuit uses inverse boundary word because left weights compose in reverse. Explicit figures verified.",
+      "source_qualified_labels": [
+        "N:prop:planar",
+        "K:thm:planar"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-BOUNDARY-PHASE-FLOW",
+      "input": "Connected boundary adjacency graph and zero-sum prescribed eta_z",
+      "output": "Antisymmetric edge/corner gamma with required cycle sums",
+      "conditions_and_nontransferability": "Spanning-tree leaf elimination;loops zero,q=1zero;classical flow construction,not new network optimization gain.",
+      "source_qualified_labels": [
+        "N:prop:planar",
+        "K:thm:planar"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-REVERSAL-MIXING",
+      "input": "Same type repeated coefficients and shared Xi between positive/negative arrays",
+      "output": "Scalar involutionJ withJSJ=S^-1;phaseSJ=b/2;fixedspace doubles under traversal exchange",
+      "conditions_and_nontransferability": "Same coefficient across arrays commutes with scalar mixing;not arbitrary coefficient-varying control blocks.",
+      "source_qualified_labels": [
+        "N:prop:planar",
+        "K:thm:planar"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-PLANAR-PHASE-SANDWICH",
+      "input": "Genuszero paired surface,all but one boundary trivial",
+      "output": "Uniformell(STheta)<=3b/2-K matches boundary limit plus exceptional nonnegative phase",
+      "conditions_and_nontransferability": "eta_trivial=-epsilon,eta_exception=(q-1)epsilon;Euler2-q=2K-b;no convergence of chosenXi needed;no positive genus transfer.",
+      "source_qualified_labels": [
+        "N:prop:planar",
+        "K:thm:planar"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-COEFFICIENT-BANDS",
+      "input": "Actual nullhomotopy on finite punctured disk intoY wedge variable circles",
+      "output": "Disjoint level arcs pair slots while original coefficient map is exactly constant on bands",
+      "conditions_and_nontransferability": "Boundary-fixed circle approximations<1/12,levels(1/3,2/3),original distance>1/4;separate approximations need not combine into wedge map. Arbitrary pairing not enough.",
+      "source_qualified_labels": [
+        "N:thm:main",
+        "K:thm:main"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-INNERMOST-FILLING",
+      "input": "Finite nested planar band components and retained coefficient map",
+      "output": "Innermost filling removes components and kills original coefficient kernel element",
+      "conditions_and_nontransferability": "Only compact domain triangulated;Y may infinite/nonaspherical. Remaining map/corner/band invariant retained at every fill.",
+      "source_qualified_labels": [
+        "N:thm:main",
+        "K:thm:main"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    },
+    {
+      "id": "PART-256-NONTRIVIAL-CYCLIC-QUOTIENT",
+      "input": "A nontrivial coefficient group and arbitrary one-relator exponent sumd",
+      "output": "Nontrivial quotient via unimodular injection or surjection toZ/dZ",
+      "conditions_and_nontransferability": "d=0givesZ;d not+/-1 branch does not prove coefficient injection.",
+      "source_qualified_labels": [
+        "K:cor:kervaire"
+      ],
+      "complete_chain_grade": "unknown",
+      "application_gain_tested": false
+    }
+  ],
+  "bibliography_bindings": [
+    {
+      "qualified_key": "N:AntezanaLarotondaVarela2012",
+      "key": "AntezanaLarotondaVarela2012",
+      "target_id": "LIT-256-ANTEZANALAROTONDAVARELA2012",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 3,
+      "reading_scope_this_package": "PDF2-3 and10-12,Section2finite formula/II1 conventions andSection4 selected argument throughTh4.4;PDF11 pixels;not fullpaper",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Borel1953",
+      "key": "Borel1953",
+      "target_id": "LIT-256-BOREL1953",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 9,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Chen2026",
+      "key": "Chen2026",
+      "target_id": "LIT-256-CHEN2026",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 16,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:GerstenhaberRothaus1962",
+      "key": "GerstenhaberRothaus1962",
+      "target_id": "LIT-256-GERSTENHABERROTHAUS1962",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 22,
+      "reading_scope_this_package": "Complete article cached primary PDF text from title through references pp1531-1533,excluding adjacent articles;no successful pixels or locally retained original bytes",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Hatcher2002",
+      "key": "Hatcher2002",
+      "target_id": "LIT-200-00F68475E7",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 28,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": true,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Howie1981",
+      "key": "Howie1981",
+      "target_id": "LIT-256-HOWIE1981",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 33,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Jones2009",
+      "key": "Jones2009",
+      "target_id": "LIT-256-JONES2009",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 39,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Klyachko1993",
+      "key": "Klyachko1993",
+      "target_id": "LIT-256-KLYACHKO1993",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 45,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:KlyachkoMikheenkoRomankov2024",
+      "key": "KlyachkoMikheenkoRomankov2024",
+      "target_id": "LIT-256-KLYACHKOMIKHEENKOROMANKOV2024",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 51,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:McCleary2001",
+      "key": "McCleary2001",
+      "target_id": "LIT-256-MCCLEARY2001",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 57,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Nicolaescu2010",
+      "key": "Nicolaescu2010",
+      "target_id": "LIT-256-NICOLAESCU2010",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 63,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:NitscheThom2022",
+      "key": "NitscheThom2022",
+      "target_id": "LIT-256-NITSCHETHOM2022",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 69,
+      "reading_scope_this_package": "PDF1-3 locally,Introduction Th1.2/Th1.3,Lemma2.1 proof andRemark2.2;additional selected primary cached fragments PDF4-6 cocycleLemma2.3,Th1.3 proof andRemark2.5;not complete9pages;PDF2 pixels",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:OpenAIKervaire2026",
+      "key": "OpenAIKervaire2026",
+      "target_id": "P-63f4b2af9a574825",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 75,
+      "reading_scope_this_package": "Internal companion fully read",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Pestov2008",
+      "key": "Pestov2008",
+      "target_id": "LIT-256-PESTOV2008",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 82,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:RamirezCoteWise2025",
+      "key": "RamirezCoteWise2025",
+      "target_id": "LIT-256-RAMIREZCOTEWISE2025",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 88,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "N:Thompson1986",
+      "key": "Thompson1986",
+      "target_id": "LIT-256-THOMPSON1986",
+      "path": "math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/build/references.tex",
+      "line": 94,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:GerstenhaberRothaus1962",
+      "key": "GerstenhaberRothaus1962",
+      "target_id": "LIT-256-GERSTENHABERROTHAUS1962",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 1,
+      "reading_scope_this_package": "Complete article cached primary PDF text from title through references pp1531-1533,excluding adjacent articles;no successful pixels or locally retained original bytes",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Kervaire1965",
+      "key": "Kervaire1965",
+      "target_id": "LIT-256-KERVAIRE1965",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 8,
+      "reading_scope_this_package": "PDF2 and4-6 (printed225,227-229),Introduction,necessary conditions,Th1.1,normalweight definition,Lemma1.2 proof andstartofsufficiency;PDF5pixels;not completepaper/proof",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Howie1983",
+      "key": "Howie1983",
+      "target_id": "LIT-256-HOWIE1983",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 16,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Klyachko1993",
+      "key": "Klyachko1993",
+      "target_id": "LIT-256-KLYACHKO1993",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 23,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Chen2026",
+      "key": "Chen2026",
+      "target_id": "LIT-256-CHEN2026",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 30,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:KlyachkoLurye2012",
+      "key": "KlyachkoLurye2012",
+      "target_id": "LIT-256-KLYACHKOLURYE2012",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 39,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:KlyachkoThom2017",
+      "key": "KlyachkoThom2017",
+      "target_id": "LIT-256-KLYACHKOTHOM2017",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 47,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Milnor1965",
+      "key": "Milnor1965",
+      "target_id": "LIT-256-MILNOR1965",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 54,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Hatcher2002",
+      "key": "Hatcher2002",
+      "target_id": "LIT-200-00F68475E7",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 60,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": true,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Jones2009",
+      "key": "Jones2009",
+      "target_id": "LIT-256-JONES2009",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 65,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:AntezanaLarotondaVarela2012",
+      "key": "AntezanaLarotondaVarela2012",
+      "target_id": "LIT-256-ANTEZANALAROTONDAVARELA2012",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 71,
+      "reading_scope_this_package": "PDF2-3 and10-12,Section2finite formula/II1 conventions andSection4 selected argument throughTh4.4;PDF11 pixels;not fullpaper",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Klyachko2004",
+      "key": "Klyachko2004",
+      "target_id": "LIT-256-KLYACHKO2004",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 79,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Pestov2008",
+      "key": "Pestov2008",
+      "target_id": "LIT-256-PESTOV2008",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 88,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:Kawauchi2024",
+      "key": "Kawauchi2024",
+      "target_id": "LIT-256-KAWAUCHI2024",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 97,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    },
+    {
+      "qualified_key": "K:KlyachkoMikheenkoOlshanskii2026",
+      "key": "KlyachkoMikheenkoOlshanskii2026",
+      "target_id": "LIT-256-KLYACHKOMIKHEENKOOLSHANSKII2026",
+      "path": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/build/references.bib",
+      "line": 104,
+      "reading_scope_this_package": "Bibliographic metadata only;body not read in this package",
+      "existing_record_reused": false,
+      "no_proof_scope_inherited_from_identity": true
+    }
+  ],
+  "historical_works": {
+    "GerstenhaberRothaus1962": {
+      "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.48.9.1531",
+      "version": "1962 original article pp1531-1533",
+      "read_scope": "Complete article cached primary PDF text from title through references pp1531-1533,excluding adjacent articles;no successful pixels or locally retained original bytes",
+      "verified_statement": "Theorem1 compact connected Lie group,square exponent determinant nonzero gives solution inside it. Theorem2 finite coefficient group gives a finite overgroup solution. Theorem3 finitely generated coefficient group faithfully embedded in a compact connected Lie group remains injective under nonsingular extension.",
+      "boundary": "No algorithm supplied;1962 no-satisfactory-algorithm remark is historical. Degree exponent OCR not adjudicated without pixels. Direct403/PMCchallenge/cookieAbsent screenshot are failed acquisition,not local hash evidence.",
+      "body_checked": true
+    },
+    "NitscheThom2022": {
+      "url": "https://arxiv.org/pdf/1811.07737v2",
+      "version": "arXiv1811.07737v2,2021-09-23;not asserted byte-identical to journal2022",
+      "read_scope": "PDF1-3 locally,Introduction Th1.2/Th1.3,Lemma2.1 proof andRemark2.2;additional selected primary cached fragments PDF4-6 cocycleLemma2.3,Th1.3 proof andRemark2.5;not complete9pages;PDF2 pixels",
+      "verified_statement": "Connes-embeddable coefficientG and H2=0 of presentation2-complex gives overgroup solution,finiteG finite overgroup. Th1.3 uses an H2-zero cover and still Connes-embeddableG. Lemma2.1 extends arbitrary possibly infinite systems by compactness in U(m).",
+      "boundary": "Presentation-complexH2 is not groupH2. GeneralTh1.3 semidirect/wreath construction does not assure Connes-embeddable resultingH. Historical absence of known counterexamples is not current evidence.",
+      "body_checked": true,
+      "local_name": "NT2021v2.pdf",
+      "sha256": "33de2d4efa39c6411eca213dbdfbd3c7c2992ce3df04504fd34783f796a628b4",
+      "bytes": 152334
+    },
+    "AntezanaLarotondaVarela2012": {
+      "url": "https://arxiv.org/pdf/1107.0348v1",
+      "version": "arXiv1107.0348v1,2011-07-02;not asserted identical to journal2012",
+      "read_scope": "PDF2-3 and10-12,Section2finite formula/II1 conventions andSection4 selected argument throughTh4.4;PDF11 pixels;not fullpaper",
+      "verified_statement": "Finite matrix Thompson formula is already an older route. Section4 works throughout with embeddable II1 factor M contained in R^omega;Th4.4 obtains a sequence of unitary-conjugate sums converging in operator norm.",
+      "boundary": "Not arbitrary finite factors or exact one-shot conjugation;finite-dimensional phase inequality is not new application gain. Versioned notation inconsistencies in finite formula/proof retained as unresolved,not silently corrected or used to refute new paper.",
+      "body_checked": true,
+      "local_name": "ALV2011v1.pdf",
+      "sha256": "77892a1a6f368659a376a85f50e3b0d4aba40f86ddf88647128153a68200b799",
+      "bytes": 196034
+    },
+    "Kervaire1965": {
+      "url": "https://www.numdam.org/item/10.24033/bsmf.1624.pdf",
+      "version": "Original1965 volume93 pp225-271,PDF48pages",
+      "read_scope": "PDF2 and4-6 (printed225,227-229),Introduction,necessary conditions,Th1.1,normalweight definition,Lemma1.2 proof andstartofsufficiency;PDF5pixels;not completepaper/proof",
+      "verified_statement": "For smooth n-knots with n>=3,the four conditions finite presentation,H1(group)=Z,H2(group)=0,normal weight1 characterize complement groups.",
+      "boundary": "Normal weight1 is not ordinary cyclic generation. Not a blanket n=1 or n=2 classification;historical motivation,not mandatory input to new embedding proof.",
+      "body_checked": true,
+      "local_name": "Kervaire1965.pdf",
+      "sha256": "92302bb8be9b4ede32fe6992f1be1e44013044eea6059bd34403bdfe39ed089e",
+      "bytes": 4546058
+    }
+  },
+  "acquisition": {
+    "download_limit_bytes": 8388608,
+    "download_total_bytes": 4894426,
+    "sources": [
+      {
+        "name": "GR1962.pdf",
+        "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.48.9.1531",
+        "at": "2026-10-23T02:59:22.794757+00:00",
+        "error": "HTTPError: HTTP Error 403: Forbidden"
+      },
+      {
+        "name": "NT2021v2.pdf",
+        "url": "https://arxiv.org/pdf/1811.07737v2",
+        "at": "2026-10-23T02:59:23.053619+00:00",
+        "final_url": "https://arxiv.org/pdf/1811.07737v2",
+        "status": 200,
+        "bytes": 152334,
+        "sha256": "33de2d4efa39c6411eca213dbdfbd3c7c2992ce3df04504fd34783f796a628b4",
+        "content_type": "application/pdf",
+        "pdf_signature_valid": true
+      },
+      {
+        "name": "ALV2011v1.pdf",
+        "url": "https://arxiv.org/pdf/1107.0348v1",
+        "at": "2026-10-23T02:59:24.776137+00:00",
+        "final_url": "https://arxiv.org/pdf/1107.0348v1",
+        "status": 200,
+        "bytes": 196034,
+        "sha256": "77892a1a6f368659a376a85f50e3b0d4aba40f86ddf88647128153a68200b799",
+        "content_type": "application/pdf",
+        "pdf_signature_valid": true
+      },
+      {
+        "name": "Kervaire1965.pdf",
+        "url": "https://www.numdam.org/item/10.24033/bsmf.1624.pdf",
+        "at": "2026-10-23T02:59:26.845050+00:00",
+        "final_url": "https://www.numdam.org/item/10.24033/bsmf.1624.pdf",
+        "status": 200,
+        "bytes": 4546058,
+        "sha256": "92302bb8be9b4ede32fe6992f1be1e44013044eea6059bd34403bdfe39ed089e",
+        "content_type": "application/pdf",
+        "pdf_signature_valid": true
+      }
+    ]
+  },
+  "pdf_pixels": [
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/nonsingular-systems-over-arbitrary-groups.pdf",
+      "source_sha256": "732c93a33db2c8c7da84a2bc8505ac9e00f7fe345731cf9a4bfe00b82c17cea2",
+      "page_one_based": 1,
+      "image": "/private/tmp/ai-paper-WP097/N-main.png",
+      "image_bytes": 284785,
+      "image_sha256": "23f7adf142e9dfea8743ed209dcc25dd690fbcbd8569c5607733356993af7b49",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/Nonsingular-systems-of-equations-over-arbitrary-groups-October-5-2026/nonsingular-systems-over-arbitrary-groups.pdf",
+      "source_sha256": "732c93a33db2c8c7da84a2bc8505ac9e00f7fe345731cf9a4bfe00b82c17cea2",
+      "page_one_based": 11,
+      "image": "/private/tmp/ai-paper-WP097/N-boundary.png",
+      "image_bytes": 265954,
+      "image_sha256": "7a46a21061f4de8341517c5803d464d2843e4cb9a59d5c8651e20682a891869e",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/The-Kervaire-Theorem-for-Groups-September-24-2026.pdf",
+      "source_sha256": "f43dad0504bcbe962f20a9e9a6f9eb016a21f5abff1e03cbc2c062ecd8f04449",
+      "page_one_based": 1,
+      "image": "/private/tmp/ai-paper-WP097/K-main.png",
+      "image_bytes": 191688,
+      "image_sha256": "aea5212366a2272e3c1c9568b85589802c5b4affbed74ece0f52f9b1e7faa0e6",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/The-Kervaire-Theorem-for-Groups-September-24-2026.pdf",
+      "source_sha256": "f43dad0504bcbe962f20a9e9a6f9eb016a21f5abff1e03cbc2c062ecd8f04449",
+      "page_one_based": 8,
+      "image": "/private/tmp/ai-paper-WP097/K-boundary.png",
+      "image_bytes": 259465,
+      "image_sha256": "f323275bb979a3fd621c9df8b79b2be9e8025d98beffacdfdfe7fb3f43e7c64a",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP097/NT2021v2.pdf",
+      "source_sha256": "33de2d4efa39c6411eca213dbdfbd3c7c2992ce3df04504fd34783f796a628b4",
+      "page_one_based": 2,
+      "image": "/private/tmp/ai-paper-WP097/NT-theorems.png",
+      "image_bytes": 371050,
+      "image_sha256": "03f7a19e1fa56a95c6deefc7fc5f4823f521181aade5a55abb9ceafdcc4ea0dd",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP097/ALV2011v1.pdf",
+      "source_sha256": "77892a1a6f368659a376a85f50e3b0d4aba40f86ddf88647128153a68200b799",
+      "page_one_based": 11,
+      "image": "/private/tmp/ai-paper-WP097/ALV-th44.png",
+      "image_bytes": 268776,
+      "image_sha256": "a0e802e8c0accc7c2ea2f31674bbb71e5d8340bee8c912a41f73cc0f48ae125e",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP097/Kervaire1965.pdf",
+      "source_sha256": "92302bb8be9b4ede32fe6992f1be1e44013044eea6059bd34403bdfe39ed089e",
+      "page_one_based": 5,
+      "image": "/private/tmp/ai-paper-WP097/Kervaire-th11.png",
+      "image_bytes": 266785,
+      "image_sha256": "e7464915edeb992867baa336b38d48fb5295dd1e134cd08aa625f6fc8a104468",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "math/preprints/The-Kervaire-Theorem-for-Groups-September-24-2026/The-Kervaire-Theorem-for-Groups-September-24-2026.pdf",
+      "source_sha256": "f43dad0504bcbe962f20a9e9a6f9eb016a21f5abff1e03cbc2c062ecd8f04449",
+      "page_one_based": 2,
+      "image": "/private/tmp/ai-paper-WP097/K-theorem.png",
+      "image_bytes": 415410,
+      "image_sha256": "d3ece02024639dac4bf95e61218c49c893ca34e9ffd06b49175605ee5ef47268",
+      "pixels_actually_viewed": true
+    }
+  ],
+  "formal_statement_comparison": [
+    {
+      "item": "Selected main",
+      "natural": "K one-variable unimodular coefficient embedding",
+      "Lean": "Kervaire.json selects OAI.Kervaire.coefficient_injective;Main86-88/Model definitions match challenge modulo whitespace",
+      "assessment": "Local sourceB only;no build/Comparator/human or full dependency reading"
+    },
+    {
+      "item": "Other actually inspected endpoints",
+      "natural": "K corollary nontriviality,K signed fixedspace,and both copies of phase subadditivity",
+      "Lean": "Main90-94,FixedSpaces113-125,MatrixTrace236-251 with same right-commutant/unnormalized trace definitions and ScalarPhase fract(arg/(2pi))",
+      "assessment": "Four additional natural bindings localB from present proof bodies;not selected Comparator claims or whole proof acceptance"
+    },
+    {
+      "item": "General multirelator and remaining results",
+      "natural": "N arbitrary full-row-rank main,multi-blockfixedspace,weightedcycle and bothplanarobstructions",
+      "Lean": "Selected one-relator entry does not cover these broader statements;no separately compared formal endpoint",
+      "assessment": "Five natural bindingsC;all complete dependency gradesunknown"
+    },
+    {
+      "item": "Catalogue identity",
+      "natural": "F256 group equations,not a numeric module guess",
+      "Lean": "No Kervaire name found in formalization.yaml;actual config/docs/Main present. OAI.Paper256.main_result belongs to HyperbolicCones",
+      "assessment": "Do not conflate numbering or infer no proof from missing YAML name"
+    }
+  ],
+  "formal_actual_files": [
+    {
+      "path": "math/lean/docs/256.md",
+      "sha256": "cfdd3d6f0f0b54ca063598a73c8498b61485361292333d49ebd0974aba4e76b9",
+      "lines": 15,
+      "body_read_ranges": [
+        [
+          1,
+          15
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Kervaire.json",
+      "sha256": "2a6ecc10a5f668e73b13274c2e13f3e9e7595b3e915252250cc63014c17fab74",
+      "lines": 14,
+      "body_read_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/Kervaire.lean",
+      "sha256": "c0ca6bc43b25344f7340899007c2fc0150d7d63cf6b91c49edf1f574d1c9431f",
+      "lines": 39,
+      "body_read_ranges": [
+        [
+          1,
+          39
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/Model.lean",
+      "sha256": "4114ed078df3f218d7d76585f87c4bafa1089f0a87821ac3bcbfcb4869bf6d38",
+      "lines": 31,
+      "body_read_ranges": [
+        [
+          1,
+          31
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/Main.lean",
+      "sha256": "458eafdcecf2ed10a80be80ce9c3d5d191fb853cee9a3542ea41fe7de47683bb",
+      "lines": 100,
+      "body_read_ranges": [
+        [
+          1,
+          100
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/FixedSpaces.lean",
+      "sha256": "41574a9ac23fa116fb7a3b66f3df8abf83259126dd33f931365cf93656be5fd3",
+      "lines": 230,
+      "body_read_ranges": [
+        [
+          1,
+          230
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/PhaseSubadditivity.lean",
+      "sha256": "c0dad9673868c3ecec9545f045b711a5677266fbc071085c020745f975d35623",
+      "lines": 219,
+      "body_read_ranges": [
+        [
+          1,
+          219
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/MatrixTrace.lean",
+      "sha256": "7ab8689587312cdbb27a718b3c945967eb3a473ff3e9192a38c66b1052128882",
+      "lines": 369,
+      "body_read_ranges": [
+        [
+          1,
+          85
+        ],
+        [
+          195,
+          302
+        ]
+      ],
+      "fully_read": false
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/RegularOperators.lean",
+      "sha256": "ea83f56f12868b83ec572f5cc9e3f3bad82f4a8cfab4b8603dc5f3717101c7e5",
+      "lines": 245,
+      "body_read_ranges": [
+        [
+          1,
+          48
+        ]
+      ],
+      "fully_read": false
+    },
+    {
+      "path": "math/lean/OAI/GroupTheory/Kervaire/ScalarPhase.lean",
+      "sha256": "561378280b5dd838a3706a095b39cf8349797d41d829c4dc25b3b9043ccfb7a1",
+      "lines": 229,
+      "body_read_ranges": [
+        [
+          1,
+          55
+        ]
+      ],
+      "fully_read": false
+    }
+  ],
+  "formal_index": "data/provenance/formal/F-256-import-index.json.gz",
+  "formal_index_files": 47,
+  "formal_index_declarations": 743,
+  "formal_definition_and_selected_statement_match_ignoring_whitespace": true,
+  "domain_attempts": [
+    {
+      "domain": "symbolic algebra",
+      "conditional_interface": "Incremental group-presentation coefficient-injectivity guard",
+      "condition_or_obstacle": "Specific candidate retained only with exact input/map identity and independent embedding judge;not Tietze equivalence or full theory conservativity.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "quantum control",
+      "conditional_interface": "Shared inverse/forward unitary blocks may admit fixed modes",
+      "condition_or_obstacle": "Exploration only;no actual control interface,algorithm or hardware constraints matched.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "photonic networks",
+      "conditional_interface": "Lossless multichannel scattering with shared unitary blocks",
+      "condition_or_obstacle": "Nested-minor allocation,total fixedspace and exact unitary premises;no prescribed individual resonance set or tolerance guarantee.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "robotics",
+      "conditional_interface": "Pose or loop constraints in transformation groups",
+      "condition_or_obstacle": "Typically fixed Lie-group solution is needed;an arbitrary overgroup is not a realizable pose and old compact-Lie criterion may suffice.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "database systems",
+      "conditional_interface": "Adding consistency equations without identifying old labels",
+      "condition_or_obstacle": "An injective group model does not preserve arbitrary queries or existential semantics;no justified SQL model transfer.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "language",
+      "conditional_interface": "Composition rules modelled by group generators",
+      "condition_or_obstacle": "No evidence language operations satisfy group axioms or declared coefficient interpretation;retain route only,not a candidate.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "biology",
+      "conditional_interface": "Circular regulatory compositions as group equations",
+      "condition_or_obstacle": "No justified faithful unitary/group law or source nonsingularity interface;not an experimentally supported mechanism.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "finance",
+      "conditional_interface": "Noncommuting transaction operations and retained identities",
+      "condition_or_obstacle": "Real operations may irreversible and costful;overgroup semantics/phase are unestablished,no effect or performance claim.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "transport",
+      "conditional_interface": "Planar paired routing diagrams and boundary-flow construction",
+      "condition_or_obstacle": "Classical spanning-tree flow already sufficient;genus/labels and coefficient group interpretation unestablished for actual routing.",
+      "application_result": "not_tested"
+    },
+    {
+      "domain": "art",
+      "conditional_interface": "Repeated reversible transformations and invariant subspaces",
+      "condition_or_obstacle": "Possible mathematical design analogy,but no actual target/caller/judge;does not add application credit.",
+      "application_result": "not_tested"
+    }
+  ],
+  "cross_family_attempts": [
+    {
+      "family_id": "F-243",
+      "target_id": "F-243",
+      "mapping": "Compare relabel-invariant finite structure manipulations with typed group-presentation input identity",
+      "boundary": "Finite WSC model does not decide arbitrary-group word problems or construct overgroups;not an established combined algorithm."
+    },
+    {
+      "family_id": "F-153",
+      "target_id": "F-153",
+      "mapping": "Compare finite-witness/infinite-object quantifiers and semidecision boundaries",
+      "boundary": "Finite normal-closure witness does not supply a uniform search/decision cutoff;no automatic finite-model completeness."
+    },
+    {
+      "family_id": "F-058",
+      "target_id": "PART-058-ORIGINAL-FAMILY-QE",
+      "mapping": "Exact algebraic finite-unitary existence could be independently judged by QE in separately encoded subcases",
+      "boundary": "General group embedding or whole regular operators do not reduce to finite rational-polynomial QE;source existence is not actual caller or cost gain."
+    }
+  ],
+  "role_receipt": {
+    "path": "data/provenance/reviews/F-256-same-provider-roles.json.gz",
+    "sha256": "b4b400ed526d4b024c8cc48c082081496060a2b3d684c87574e262791d86b6bd",
+    "decompressed_sha256": "842d5d9290ef139f2266e4cc3be60095ae93e669f41ae3eeef080784969480b4",
+    "raw_bytes": 32598,
+    "compressed_bytes": 10323
+  },
+  "gaps": [
+    "All2currentmanuscripts/14TeX2157lines+109Bib+2READMEs36lines actuallyread;10manualresultbindings/20methods form a current-source draft,not complete family proof acceptance.",
+    "31bibliographyoccurrences/24unique keys resolve23externalworks and1internal companion. Four originals checked only in declared scopes;19externalbodies and recursive lineage remain unread. Hatcher identity reused without importing proof scope.",
+    "Selected one-variable/unimodular Lean endpoint andfour additional mapped natural bindings give5localB/5C only. General multirelator theorem remainsC. Entire dependency grades unknown;47files/743lexical declarations is not full proof reading,build,Comparator or axiom assurance.",
+    "GR1962 primary cached article text read;direct403 and screenshot failure mean no local original SHA or pixels. Other arXiv versions not presumed journal-identical. External originals not republished.",
+    "Existence of an overgroup is not a solution in originalG,a word-problem algorithm,finite/amenable/solvable/linear overgroup,or an isomorphic/conservative specification extension.",
+    "No actual symbolic caller,inputbatch,guard implementation,certificateformat,independent embedding judge or cost evidence. Tietze/old embedding criteria may already cover all useful requests;application value may be zero.",
+    "Both isolated auxiliary tasks used current selected OpenAI with exactbackend unknown,reviewed initial concept only,not independent suppliers/humans or a second review of final refinement. Allhuman/provider gates pending."
+  ],
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "no_numerical_or_symbolic_benchmark": true,
+  "publication": "Local research;no GitHub update,upstreammath excluded"
+}

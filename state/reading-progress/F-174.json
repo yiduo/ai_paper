@@ -1,0 +1,594 @@
+{
+  "work_package": "WP-105",
+  "family_id": "F-174",
+  "at": "2026-10-23T07:54:45.077748+00:00",
+  "upstream": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "completed_current_source_draft",
+  "manuscripts": [
+    {
+      "id": "P-402de1fcb7f04b26",
+      "readme": {
+        "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/README.md",
+        "lines": 18,
+        "sha256": "67874b5de56c84f04892846508aaaa2b3ac1ad6017bdd2b51c249ab3729b2d37",
+        "actually_read": true,
+        "scope": "README18lines actually read;body completion now independently documented with per-file ranges"
+      },
+      "files": [
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/figures/packing_hierarchy.tex",
+          "lines": 77,
+          "sha256": "864d55661e254e56af0e9bc385cf2f39586add4b2b0b57a7d5525ffb0f033dba",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/main.tex",
+          "lines": 147,
+          "sha256": "697ac7e8f1834b4de0d53acdd9e3f42496b7d971d837a44c090a27ab83ff44f5",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/references.bib",
+          "lines": 253,
+          "sha256": "7b14853bb69a29a3cc52cec9cfe7e897198c3b8ef9cf748b63d60d18f3f3647a",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/extraction.tex",
+          "lines": 272,
+          "sha256": "360762e2945b5adebddc9a995e21f6e541b971580367f34336f7fd37d0eb2774",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/fixedpoint.tex",
+          "lines": 189,
+          "sha256": "8b5cc10416ac83d520b889ca910c40de5b6ca95b35c5bdb54268e4467e54a2fb",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy.tex",
+          "lines": 61,
+          "sha256": "c8806bb1a2a51bcdcf8a05e99fe5ae103c7364c3cfb9e024f44212721202b693",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned.tex",
+          "lines": 41,
+          "sha256": "b21162053ccfc28106abaf6c53b323635a2a0dba757ddcc20804b98499093745",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_construction.tex",
+          "lines": 457,
+          "sha256": "37418fd8ef56a38ccdcc7c0fe0dc68a378270cbbdeac5b83beb8a79731e55e21",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_order.tex",
+          "lines": 106,
+          "sha256": "8162ef632a76ec688fa3f47abb98c38f4db3393b580737af3e8b0dd0ce2fb8e0",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_postprocess.tex",
+          "lines": 154,
+          "sha256": "c2a8e8f0738329e7191a39ee0063de3d8238f3e74a98012d4b6f9cda41bba197",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_preprocess.tex",
+          "lines": 308,
+          "sha256": "f2747b97cd4d3bd9342f405e702f5b344593917a20ac0f98632c7f0db0ee1f57",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_bags.tex",
+          "lines": 337,
+          "sha256": "c0f2fa1fa6c34353615515cd7abf42a89070b0650676e1b92207a2ff8827d996",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_bags_spectral.tex",
+          "lines": 211,
+          "sha256": "aa76739a47806ef0688bfc7c42e5408917f4b818b0259038e14642a71369f0d3",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_compact.tex",
+          "lines": 326,
+          "sha256": "60a16188db87c16f151bc16e19869c2bd9409b7e23a8827b1243c2add3b6bf0a",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_dual.tex",
+          "lines": 335,
+          "sha256": "7620630aa6ec362a2ad17cc43683087641dfc52f88ede3da81db0831fa4e266d",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_proof.tex",
+          "lines": 160,
+          "sha256": "480bd889158f3bcc19cefa6643b2039df76434e978ccdb5ba22d0c0b6856b4ad",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/introduction.tex",
+          "lines": 175,
+          "sha256": "fc32e6c483da6b2f940842a98b6a1e59602f220ae305af8cc5a4442116745ec4",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/iteration.tex",
+          "lines": 91,
+          "sha256": "4c049501ad7344971a62107fc250e03515ae3a92c93826d4e49dde9f2a17822b",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/mss.tex",
+          "lines": 510,
+          "sha256": "8624f576e41a38a258280e843791cb34f6b64853635edf8060582c28eb71c355",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/preliminaries.tex",
+          "lines": 177,
+          "sha256": "61fa4f50715f9b66a8c3fcbee02858e923398f28242a41e0e0681df224f3d159",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/sparsification.tex",
+          "lines": 310,
+          "sha256": "06054993baf604bbcd8837846fd8dd63cf048bd1bb05548ff98055ea9627b4cc",
+          "actually_read": true
+        }
+      ],
+      "source_body_all_read": true
+    },
+    {
+      "id": "P-df23ae02b1b76555",
+      "readme": {
+        "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/README.md",
+        "lines": 18,
+        "sha256": "6e1ece099b8af1b12692bd4f2d131405f4d1fcb684c0ab4576a8739f747d28ed",
+        "actually_read": true,
+        "scope": "README18lines actually read;body completion now independently documented with per-file ranges"
+      },
+      "files": [
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/figures/metric_geometry.tex",
+          "lines": 43,
+          "sha256": "327ab686f53fc581b705e62b74875933992b04d4c25c72505c22d04873439dd3",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/macros.tex",
+          "lines": 48,
+          "sha256": "bbebd1e6f8603377fd19f5d9e4a26be1ca387d7edadab21d455801ef00f50b78",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/main.tex",
+          "lines": 33,
+          "sha256": "609d07f6657751076309b13a2de3dd800abdf48828f8bb24d1a301ff58b59017",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/refs/sources.bib",
+          "lines": 329,
+          "sha256": "5e28fb04a028047b0ce450e27338ed0f5f24fb2110d275c675f6bfddc8245cef",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/extraction.tex",
+          "lines": 510,
+          "sha256": "7d96fe5312eb3ce708f7edfcf18a696b1a86fa0348f9e8b3d15566b3bceb4842",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/fractional_rounding.tex",
+          "lines": 175,
+          "sha256": "e6bd1cc8baf230202cd71473eb1f3a77a4be100c3747cb7648abe6c153eae532",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/introduction.tex",
+          "lines": 164,
+          "sha256": "feda19d4f085b7fb99836300656c3f520c6db71089807d175d3d207bb4b4005e",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/iteration.tex",
+          "lines": 150,
+          "sha256": "3be9281b79efd0d516965eb0ef473be98abcf0e6b7a7075f61fd88689114eb61",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/main-theorem.tex",
+          "lines": 15,
+          "sha256": "b5f49f7407fc14ad8677b4f54bf429192b1326e8b5d87237c9ca6d5003a0a94a",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/normalization.tex",
+          "lines": 130,
+          "sha256": "2460381eb3380d40afd48d5092cd48aa7c1938d04c832f576a9f1a0f6ab973a1",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/signing.tex",
+          "lines": 206,
+          "sha256": "d4e06588b924fc04a2f0886086ee280b37b22f0aa01d6d9184c3ca47fbea804a",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/signing_interface.tex",
+          "lines": 581,
+          "sha256": "fa461c0a7019084d7308ac6afdd15f097f3c8768b6d5847fc31c895c49451f2a",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/tree_geometry.tex",
+          "lines": 885,
+          "sha256": "96b59e0acd7d6615af83c10d6f99cc875c1581101aa07519bbbbab87c121704f",
+          "actually_read": true
+        }
+      ],
+      "source_body_all_read": true
+    }
+  ],
+  "tex_lines": 7384,
+  "bib_lines": 582,
+  "source_body_read": true,
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "numeric_or_symbolic_run": false,
+  "next_action": "WP106bounded actual exactPSD consumer qualification,then alternatecoverage if unmet;not new experiments before independent prerequisites/specification",
+  "started_at": "2026-10-23T07:08:54.507569+00:00",
+  "base_commit": "e4d5935cd5824cfb887e09ee028478f5a87e6830",
+  "actual_read_ranges": {
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/main.tex": [
+      [
+        1,
+        147
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/introduction.tex": [
+      [
+        1,
+        175
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/preliminaries.tex": [
+      [
+        1,
+        177
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy.tex": [
+      [
+        1,
+        61
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/extraction.tex": [
+      [
+        1,
+        272
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/fixedpoint.tex": [
+      [
+        1,
+        189
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/figures/packing_hierarchy.tex": [
+      [
+        1,
+        77
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/sparsification.tex": [
+      [
+        1,
+        310
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/iteration.tex": [
+      [
+        1,
+        91
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/mss.tex": [
+      [
+        1,
+        510
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_proof.tex": [
+      [
+        1,
+        160
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_dual.tex": [
+      [
+        1,
+        335
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_bags.tex": [
+      [
+        1,
+        337
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_bags_spectral.tex": [
+      [
+        1,
+        211
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_compact.tex": [
+      [
+        1,
+        326
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned.tex": [
+      [
+        1,
+        41
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_order.tex": [
+      [
+        1,
+        106
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_preprocess.tex": [
+      [
+        1,
+        308
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_construction.tex": [
+      [
+        1,
+        457
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_postprocess.tex": [
+      [
+        1,
+        154
+      ]
+    ],
+    "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/references.bib": [
+      [
+        1,
+        253
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/main.tex": [
+      [
+        1,
+        33
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/macros.tex": [
+      [
+        1,
+        48
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/introduction.tex": [
+      [
+        1,
+        164
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/main-theorem.tex": [
+      [
+        1,
+        15
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/normalization.tex": [
+      [
+        1,
+        130
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/tree_geometry.tex": [
+      [
+        1,
+        885
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/figures/metric_geometry.tex": [
+      [
+        1,
+        43
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/extraction.tex": [
+      [
+        1,
+        510
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/signing.tex": [
+      [
+        1,
+        206
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/iteration.tex": [
+      [
+        1,
+        150
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/fractional_rounding.tex": [
+      [
+        1,
+        175
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/signing_interface.tex": [
+      [
+        1,
+        581
+      ]
+    ],
+    "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/refs/sources.bib": [
+      [
+        1,
+        329
+      ]
+    ]
+  },
+  "reading_notes": [
+    {
+      "at": "2026-10-23T07:09:37.134509+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/main.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/introduction.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/preliminaries.tex"
+      ],
+      "note": "Existence main:finite loopless undirected indexed multigraph,n>=2,kpositive;tree cut counts <=C/k allnontrivialcuts,no spectralPSDclaim. Unitmultiplicity distinctfrom weightededge compression. No uniform algorithm runtime in thispaper;companionclaimsfinitebit. NW-Tutte partitioncriterion proved via maximumpackingreachable-exchange;maximalq-packable sets coarsenwhenaddingedges,crosscount<q(parts-1). InversesfullSPD X versus Laplacian on1perp;cutonlyXupper not PSDupper;resistanceorder rank1equivalence. HistoricalATSP oldconstantapprox alreadyexists;thinallcuts alone also needs cost/orientation augmentation."
+    },
+    {
+      "at": "2026-10-23T07:09:58.461806+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/extraction.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/fixedpoint.tex"
+      ],
+      "note": "Hierarchy rootsV/leavessingletons,eachnodeinducedqlocaledgeconn,fullP vsparentO;eachoriginaledgein2parentboundaries. D SPDfullspace propercutupper1,notD<=L;impossibleVcut. Hierarchyweakpolynomialaverage q^-31/40 onmarked O>=P/q,q>=absoluteqH. Extraction rlarge u=r^-1/16,qfloor(1-u)r,K X>=L+I/n cut<=3;r>=2^31 convertsresponseaverage to r^-3/4. Threshold maximalq-packablepartitionsnested;dyadiccrosscounts tail<4Mi gives responseC0=40fractionr^-1/4 uniformlyallthresholds,no depthloss. Responsesnotcontinuous;finiteinterpolation+Brouwer+subsequencelimit andthresholdavoidance3..4r^-1/2 produceqtrees,closedfiniteedgecount essential. Coverstabilizationscale mayarbitrarilysmall;no complexityclaim. Fixedpointappendix actuallyprovesbarycentricsubdivision mesh d/(d+1),Spernerparity andnonexpansivenearestprojection ontoK;existencenot polynomialtime."
+    },
+    {
+      "at": "2026-10-23T07:10:22.653576+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/figures/packing_hierarchy.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/sparsification.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/iteration.tex"
+      ],
+      "note": "Rankpreservingauxrepresentation forunionqtrees via logdet h andquadraticregularization;positiveedgeweights preservesallsubsetranks,exactisotropy norm<=(1+rho)/q. Projectedtrace ontointernalpartition-spanorthogonal givesfloor(cq/(1+rho))packing. MSS split covarianceSigma<=2I singularallowed,independent2blocks+deterministicpadding normeps giveshalfSigma +-tauI,tau2sqrt eps+eps. Stacka=X^-1/2b andz withcrossblocksnotzero butSigma<=2I;eps6r^-1/2,choose SAMEsubset forcutupperandpackinglower. rstep>=16^16,u=r^-1/16,qfloor(1-u)r,rprimefloor((1-4u)r/2),rprime/r5/16..1/2,ratio<=1+15u. Iteration stopsr<rstar,productbounded Cit=exp(15rstar^-1/16/(1-2^-1/16)),C=3Cit*rstar;smallr/k1 included,r0=max(1,floor k/2)>=k/3. Allcut guarantee not fullPSD upper;existencenot runtime. Full77linefiguretex read:edgee disappears inbothparentboundaries,edgef persists."
+    },
+    {
+      "at": "2026-10-23T07:11:05.519752+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/mss.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_proof.tex"
+      ],
+      "note": "MSSappendix all510lines:finiteindependentcomplexsupport E covarianceI,trace<=eps ->positiveprob outcome norm<=(1+sqrt eps)^2;stabilityoperations/determinant +nonzero real specialization,expectationidentitysingularadjugate,commoninterlacingvia convexrealrootednessincludingrepeatedroots;selectionpositivechildren neverincreasemaxroot butno costbound. Barrier positivepartialfractions from rationalPick imag<=0 simple negativepolespositive residues/nonnegativeconstant;shift Phi_j+1/delta<=1 gives Ab andallbarriersnonincrease;eps+sqrt eps,tshift1+sqrt eps endpoint. Hierarchyproof readsall160lines plusnestedinputs notyetread:alphaq^-4/5,eps1/10,beta36,rho1/(2q²),C4=3,C3=1e4,Jlog256/alpha²,C2=128J^4,salpha/C2,Llog1/s,Hlog24/(rho*s²),C1=1024eps^-2. Goodnumerator<=2alphaE sinceeachparentboundaryatmost2;badmass captured s^eps/(384betaC1C2LH),charging E>=qM/320000;badq^-23/25(logq)^7,dual o(q^-31/40),strictslack half+half choosesDwithoutattainment. No explicitnumericqH/rstar instantiated;absolutecutoff includeslargeconditions. Allnesteddual/bags/compact/assignedmodules stillunread."
+    },
+    {
+      "at": "2026-10-23T07:11:39.358651+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_dual.tex"
+      ],
+      "note": "Full335linedualproof:primalp infDfullSPD cutonly maxmarked avgR;binaryembeddingX {0,1}^{h×V},h>=m,rowsemiorthogonalU UU^T=Im rowsedgeorthonormal notcolumns. p<=Q<=2p factorparentoverlap2. Strongduality viaopenconvexseparation/strictsmallI Slater,lambda sum1,y>=0 cuts only,alpha>0;no primalattainment/lower-eig bound assumed. Matrixinf trAD^-1+trZD=2trsqrt(Z^1/2 A Z^1/2) validsemidefinite viaauxepsperturbation notnewdualmultiplier. Cutweightsrationalapprox+repeatedbinaryrows allfiniteh givesexactsupremum,not exactbinaryrep irrationalweights orboundedh. Nuclearpolar SVD rowcompletion,row signflips nonnegativeae,CauchySchwarz overlambda andatmost2Ooverlap. ArbitrarycontractionU canbedilatedwithzeroXrows. K+eta feasibleD byinf slack,notoptimizeralgorithm."
+    },
+    {
+      "at": "2026-10-23T07:12:23.807643+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_bags.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_bags_spectral.tex"
+      ],
+      "note": "BinarycubeQ L1openballs;bagsdisjoint equalradius,compact betaDelta<=delta*size>=2;assignedcenterintnode andshortparentedge d<delta pluseta|O|size;geometriccompactDelta_next<lambda delta,assignednodesdistinct. Badt squaredavg a >=alpha avgd,a²<=d;two truncations yields2homogeneous dominantgamma1/(4J^4),J1+ceil log2(256/alpha²). Homogeneous4union givessalpha gamma/32,c1=min a²,c1Nprime>=sNc2;use spectralY=UX andbinaryL2²=L1 todisjointQballs. Eitherclustercompact ormanyDballsassigned;smallness s^eps<=1/(48beta C1),C1=1024eps^-2,eps<1/3;mass>=s^eps Sprime/(192betaC1),radius/diameter sc1..12c1/s. Scalegroups byfloorlog2min(a²),min(d);L=2+ceil log1/s;modH=1+ceil log24/(lambda s²) andtype choose1/(2H) ->massfactor384betaC1C2LH,no depthnloss. Spectrallemma Upsilonpositive, >=a avg||Ye||² ->a<=1,b>=am/16,br>=9mUpsilon/[512(5+log2 1/a)^2],b>=2. Usesnucleartrace/Frob singularvalue tail p>=floor am/16+1,r=Tp/(32m),greedyseparation>2sqrt r,rankapproxC<=b-1 contradiction;powerconversionC1=1024eps^-2. IfUpsilon0 allYe0possiblecoincidentcenters discard,not positiveballclaim."
+    },
+    {
+      "at": "2026-10-23T07:13:01.314155+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_compact.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_order.tex"
+      ],
+      "note": "Compactcharging full326:graphkconn,Xanycube,lambda<=1/12,beta>=36,finite/countable geometricfamilies ->(k/4)sumdelta*bagcount<=L1graphlength. Ordinaryballs includecenter vsstrictshells a<dist<b,zero widthsdiscard. Hollowlengthlemma requiresinner+outervertexwitness,radialclampcutintegral giveskwidth <=edgevariation;convexsegments+disjointshells boundedgevariationbudget<=length. Constructlivepairwisedisjointfresh/oldshells,potential freshdelta_i-6Delta_next,old[width-6Delta_i]+. Interiorwholebag splitoldrecord around[L-delta,R+delta],newcapacitypaysmass/4;remainingborders shrinkoldby2delta+Delta,positivepartreserve6Delta keepscapacity acrossphase. Countableviafiniteinitialsupremum. Assignedchargingstatement:binaryX,localkhierarchy,markedO>=k lambdaP,(24C3/k)-assigned distinctnodes,lambda<=1/(6C4),C4>=3,C3>=2[(C4+1)+4(C4+2)^2];energy >=kC4/(96C3)totalmass. Preprocessdiscard<=half mass,arrangementwidth>=C4/(12C3)retainedmass,energy k/4. Assignedorder106:phasesdecreasingradii,bagsincreasingdepth;labelrecords canidenticalsupport. Conflictintersect impliesowneralreadyprocessedancestor andcontainscurrentt;interiorunique viaL4;radialrestriction inheritslabels/domainseparation/witness;newnonoriginalrecords concentricconflictsubsets so borderneverbecomesinterior."
+    },
+    {
+      "at": "2026-10-23T07:13:37.423423+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_preprocess.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_construction.tex"
+      ],
+      "note": "Assignedpreprocess308full:binarycenter makesL1radiusaffinecontinuouscube,notfiniteX(V)intersections;ordinarycenterincluded essential evencoincidentvertices. Mengeredgepaths provedintegerantisymflowqaugmentations (parallelindicespreserved). LabelL1owner/avoiddescendant/predecessors,C rootedsubtree minusforbidden,L leafset routing—notgeometricpoints. L2allboundaryendpointsbeyondouterradius,L3inneru inL and>=k/4edge-disjointcrosspaths inownerinducedminusavoided;L4supportoverlap impliesdisjointconflictdomains. Rootcomparability testdomainoverlap. Pruningcostperpred<=4/C3 delta_l bags_l via2|P|endpoints eachfuturefamily andgeometricradius;noninsertablemass<=M/4,dropweakbags retainsM/2 andhalvesassignment24C3/k->12C3/k. Validcollectionenergy chargesedgePORTIONS notwholepath lengths;prefixpredecessoravoidance L2 includesexit-edge endpoints,parallelresourcesseparate,zero-lengthnochargetwice. Construction457fullthetaC4/(6C3),tokensfreshdelta-C4delta_next>=5delta/6,oldnonavoid[width-C4delta]+,avoid divided2(C4+2). Interior loopuntil<half bag,treatedcountsincludeuninjectedop3. Op1carveavoid+oneinput paysold+theta delta. Othercaseparentoutsideinduced splitsk/4components j<=2|O|/k;maxneighborUi>=3C3;radialclipping[a,b],ifmissingUi width>=(C3-1)delta. Densem delta>3L removesold expandedinterval,insertsmoriginals,paysold3/4fresh thenremaining>=thetaeach. Sparse mdelta<=3L keepsresiduals plusoverlappingcentral nonavoidowner t andavoidoldownerexcludingt,conflictdomainspartitionold;properancestorprovenby treatedexpandedinterval+borderpermanence. Newlabelsrequireseparatecrossingpathproof:k pathsinside t andceilk/4pathsoutside t;not justshrink. Positiveparttokenspreserveactualoldallocations,avoidcentralshellpaysold+theta mdelta;eachstepatleastone treated sofinitebagloop."
+    },
+    {
+      "at": "2026-10-23T07:14:06.682502+00:00",
+      "manuscript_id": "P-402de1fcb7f04b26",
+      "source_files": [
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/sections/hierarchy_assigned_postprocess.tex",
+        "math/preprints/The-strong-thin-tree-conjecture-September-23-2026/build/source/references.bib"
+      ],
+      "note": "Postprocess154full:bordercredits theta|Bor|delta plusinteriortreated yields>=theta/2 fullbagmass;changephaseq(B)>=p(B). Ifexcess>=theta bdelta keepcollectiondistribute,elseshinknonfreshrecord eachside(C3+1)delta andinsertallborders. Bordercondition/strictbounds avoidsnewrestrictedoldonlywhenconflictdomainsmeet. Shrinkdeficitnonnegative,recordwiseexcess>=C4/(3C3)deficit soD<=bdelta/2;reservehalfnewborderfresh tokens torepayalloldallocations,remaining>=delta/3>=theta delta. Countableinitiallimitsno limitingarrangement. Full253Bibread21entries incloneinternalConstructiveThinTreesCompanion;AOG1411.4613v4 exactrevised2015-09-01,HO1307.2274v1 appendixF;MSS2015theorem1.4;NW/Tutte/Edmonds1965,Barthe97preprint/Brouwer/Sperner andlaterthin/ATSPbaselines bibliographic-onlyuntiloriginalscopechecked. No originalhistoricaldownloadsorformalreadingyet."
+    },
+    {
+      "at": "2026-10-23T07:14:52.619365+00:00",
+      "manuscript_id": "P-df23ae02b1b76555",
+      "source_files": [
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/main.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/macros.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/introduction.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/main-theorem.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/normalization.tex"
+      ],
+      "note": "Constructivepaper explicitlyclaimsdeterministicpolyTOTALBINARYinput,k>=1,n>=1(emptytree singleton),parallelcopiesexplicitORbinarycounts (copiesmayexp). Addsnonnegativerationalfractionalcut>=1 plusarbitrarynonnegativecost simultaneouscut/costrounding,notrequiremetriccost;fullcorollaryunreadyet. Cutonlycompanionnotdirectlynewmetricconeoracle:extendsPSDcentered squared-distancetriangles via doubleddistanceprofilepolytope;radialaffinity exactspeed needed. Rampcapacities/partition-chainuncrossing/ellipsoidquantitativeinterior/graphicmatroidpartition andpublicEzeunalaJiangrank1signingclaimed,notyetreadspec/proof. BinarymultiplicitytruncationBEFOREexpansion claimed. Normalization130full:reducedincidenceinteger minors0+-1,Nexpd,logdet f>=logq gap<=nlog2M,Hessiancovtreenorm<=M,gradientnorm<=sqrtM;approxgradient<=1/(10r²),stopvnorm<=2/r² ->grad<=3/r²,step1/[2(M+1)] strictdecrease>=2alpha/r4,iterationsO((M+1)r4 nlog2M). Knownpolyboxd,B0,integerdet lowerlambdaN0>=(2M)^-(n-2),polynomiallog conditioning/guardbits/fixedgrid. Positive rational a relative1/(100r²),LDL pivots exact,whitening F=Da^-1/2 L^-1,z=sqrtaFc,EXACTisotropy norm<=(1+4/r)/q andallsubsetranks viaexactreferenceframe. Rationalapproximations2^-b doNOTredefine subsetranks;poly n+|B|+r+b initiallynotlogr,needbinaryreductionlater."
+    },
+    {
+      "at": "2026-10-23T07:15:57.543488+00:00",
+      "manuscript_id": "P-df23ae02b1b76555",
+      "source_files": [
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/tree_geometry.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/figures/metric_geometry.tex"
+      ],
+      "note": "All885geometry+43figureactuallyread. WorkcenteredE=1perp notfullSPD. N=PSDGram withall squared-distancestriangle (L2²pseudometric),poly n³displayconstraints;cutGram andcenteredI inN,N*trace-dual;shortcut D testsALLN strongerthancutonlycompanion,notassumed. ConicdualstrictD0<lambda_minL,open-separation gamma>0 eveninfnotattained;matrixinfsemidefinite,scale+nuclearpolar rowU givesupperp<=sup squaredboundarysums/totald (noexactfactor2assertionneeded). Doubleddistanceprofiles:finite metriczero-distanceidentifyGEOMETRYONLY retaininggraphvertices/edges/labels,R>2diam,dhat++/--=d,+-=R-d,profilescinfty,Qconv. radius||q-ca||=coordinate qa affine allQ,rho+rhoopposite=R,inward/outwardsegments exact traveledchange,not intermediatep->Q map. TransferusesEuclideanspectralpointsY=Up with||Ye||²<=d=||cu-cv||infty thenonlyselectedlabels intoQ;strictshellsupports/ordinarycenters retained. Full337..733transferexplicitlyrecheckscompactradialwitness/positiveparts andassignedlabelconflict/pathbudgets,centerwitnessmayoutside shell;exactoutwardmotion evencenter ofoldordinaryball/radialmeet,properancestorop3 nohiddenbinaryrequirement. SameC1,C2,L,H/capturedmass,compactk/4,assignedkC4/(96C3),good2h^-4/5+badO(h^-23/25 log7h)=o(h^-31/40),h0absolute. K_H X>=LH,traceXZ<=3traceLHZ allN ->compacttracebyI. Simultaneousresponseprop:connectedambientH,GsubsetH withh=floor r/2localconn inallnestedparts,0<s<=r^1/4,rlarge ->sameY=LH+D inK_H and allbutr^-1/3 fractioncrossedges Y>=6s bbT. Dyadicfinestperbin tail<4Mi andskippedMi<2M,failedfraction16(h^-1+6s h^-31/40)=O(r^-1+r^-21/40)<=r^-1/3. One consistentY entirechain;not arbitrarynonnestedpartitions."
+    },
+    {
+      "at": "2026-10-23T07:17:03.581760+00:00",
+      "manuscript_id": "P-df23ae02b1b76555",
+      "source_files": [
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/extraction.tex"
+      ],
+      "note": "Full510constructiveextraction:explicitm,r<=m,algorithmoutputs rationalX inK_H+>= (1-Ar^-1/16)r lowR<=r^-1/4trees (weakerresistancethanexist4r^-1/2). kappa1/(m+1),t=kappa/32,dyadicg in[r^-1/8,2r^-1/8],ramp p=min2,1/(sR),u=max0,p-1;invariant sumcross(u+kappa)>=Q(parts-1). startX=LH,s1/2,Qr;continuations s+=(1+t)s,XmixY,Q-=2grt while s4<r,numberO(t^-1(1+logr)),Q>=3r/4. LMIY>=6s*y bbT,concave lowerae=kappa+min1,u+t(5y-4),nonnegative>=7kappa/8;uplus+kappa>=ae. Continuationexist viaclosedconvexdownwardslacks notimageitself;separateweightprobpartitions,minmax tie-maxsumparts² uncross forcesrefinementchain using nonnegae,qpositive. Near-tight oldslack<=1 ->Gactive internalcuts>Q-2>=floor r/2,root>Q-1. Responsefewbad;M<=8r(d-1) loss<=32tr2/3<=grt,largeM halfu<=1/2 gainspaybadloss. Full conerepresentationN*=PSD+sumlambdaTijk exactclosedfromtraceT=2 inheritedcenteredtrace,notordinarytraceinreducedcoordinates. Exactpartitionsep via universal z*l>=qMST(l),Kruskalintegral andrationalMST-separationLPnestedGLS6.4.9;LMIPSDexactelimination rationalnegativequadraticseparator. Polynomialbitfullfeasibility crucialpositiveinradius NOT arbitraryexactSDP:coordinatesP=n+m+2,D<=P³,lambda_minLH>=P^-3,norm<=2m;auxY2LH,lambda/yP^-8,z kappa/2,nonpackingballP^-20;mixP^-8 strongsolutionmarginbeta=grt>=1/(32P) ->fullballP^-30,outer2P³. Ellipsoidvolume< (2rho/D)^D forcesexactacceptedpoint. Findall2Dtranslatesx+-eta ej feasible eta2^-32ceil logP,roundfixedgamma2^-36ceil logP withinL1 eta ->39L+O1bits each independentoldcapacitydenominators. Xrationalinheritedinverse exactly scheduleadditivebits notcascade. Dropbaselines<1 yieldsfloorQ-1trees viaactualgraphicmatroidunion,notMSTalone;constructorreferencesTerao2023algorithm/GLSbook originalsunreadyet."
+    },
+    {
+      "at": "2026-10-23T07:18:38.233643+00:00",
+      "manuscript_id": "P-df23ae02b1b76555",
+      "source_files": [
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/signing.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/iteration.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/fractional_rounding.tex"
+      ],
+      "note": "Signing206full:exactrationalHermitianPSDfactorization via pivotedLDL +base4 ab digits forpivot a/b ->c_k copies((2^k/b)u)((...)*) polynomialcountbitlength/no irrationalsqrt;realcolumnsreal,zeroempty. Stackedexactframe w two orthogonal blocks sum<=2I inclcross,individual<=5r^-1/4;rationalae approx w/2 error1/(1000|B|r),totaloutererror<=1/(100r),Sigma<=3/4I,normae²<=3r^-1/4. RationalresidualV V^T=I-Sigma;augmentJcoords,N=2r,N²columns (vj,tauk fj)/N balancedfixedtau->unsignedexactI;not simplyarbitrarypadding signedresidual discarded. SignedlowerD0 diagonal,upperpaddingVD0V^T,principalnorm<=T impliesdatasignnorm<=2T,offdiagirrelevant. Dyadicd0sqrtDelta..2sqrtDelta,T2^15d0,exactrationalPSD TI+-S ->halfdata error<=Cs r^-1/8,Cs=2^20. Fullrational-signing40sqrtDelta promisedAppendixcurrentlyunread. Iteration150full:packingfloor q(1/2-eps)/(1+4/r),rprime maxpackingcappedfloor r/2 viagraphicunion,ratio>=1/2(1-C2r^-1/16),rprime/r1/4..1/2,a_r1/2+3Cs r^-1/8 andratio<=1+C1r^-1/16,stopR0absolute productbounded,zero-roundsmallr andn1empty. BINARYBEFOREEXPANSION:capcprime=minc,k; a=floor2n²cprime/k ->allcuts>=n² and<=2n²/k oldcut,<n4explicitcopies;callnewparamn²,outputfactor2C/k. a mayexceedoriginalmultiplicity buttreeatmost1pairandpositiveoriginal available,logk notnumeric kruntime. Fractional175full:explicit edgeRECORDS loops+parallels allowed,x,c nonnegativebinaryrational,allxcut>=1PROMISE;choosecheapestpositive-x recordperpair preservescut andlowersc*x;K=n²,y=minXp,1,a=floor2Kyp,<n4copies/cut>=K/cost<=2Ksumcx. Bfixedinteger>=max1,C:ifK<12B anytree;elsekfloorK/2,mfloorK/(6B),repeatedC-thin tree deletion maintainsresidualcut>=halfA via1-3Bi/K,allT<=6Brelativecut,edge-disjointinA mincost<=24Bsumcx,outputallcut<=24B. Noexpandcommonrationaldenominator,zeros/roundedtinycoords/zero totalcost handled,no dividecost. Liftonecostminpositive-x originalrecord,otherextractedtreesmayduplicateonliftirrelevant. HistoricalfullAGMOSSz=(n-1)/n(h_uv+h_vu),cut>=1,cheaperorientationcostmayh=0 thoughzpairpositive;sourcefullDefinition4.1/Conj6.1 differSODAdef5.1/Thm6.1augmentation;oldATSPconstantapproxalreadyexists. Thisexplicitthincheapcorollaryalreadyinpaper,not a newprojectdiscovery or testedbenefit."
+    },
+    {
+      "at": "2026-10-23T07:29:16.277191+00:00",
+      "manuscript_id": "P-df23ae02b1b76555",
+      "source_files": [
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/sections/signing_interface.tex",
+        "math/preprints/A-polynomial-time-construction-of-strong-thin-trees-September-23-2026/build/source/refs/sources.bib"
+      ],
+      "note": "Completed signing interface all581lines, including final281lines: drift/covariance proves decrease but algorithm never computes irrational covariance; strict positive regularization epsilon produces quantitative Jacobian and derivative bounds; rational boxed SDP value oracle has explicit Slater radius and outer radius; finite differences and exact rational PSD negative directions use fixed dyadic mesh with inverse-polynomial step lower bounds; endpoint freezes preserve potential; deterministic polynomial total bit complexity and constant40 claimed. Arithmetic and proof read, not independently verified theorem or executed implementation. Bibliography329lines fully read; GLS1988/EzeunalaJiang2026/Bansal2024/BansalGarg2017 form explicit external verification gaps; 2010 and2017 ATSP versions kept distinct."
+    }
+  ],
+  "source_body_all_read": true,
+  "source_result_count": 58,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "reading_ledger": "data/provenance/readings/F-174.json",
+  "quality_evidence": "reports/reproducibility/20261023-thin-trees"
+}

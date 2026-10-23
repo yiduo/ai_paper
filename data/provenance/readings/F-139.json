@@ -1,0 +1,1264 @@
+{
+  "family_id": "F-139",
+  "manuscript_ids": [
+    "P-e54200c0718980f7"
+  ],
+  "work_package": "WP-093",
+  "generation_id": "GEN-20261022-089",
+  "recorded_at": "2026-10-22T06:05:43.943330+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "882345d31a2172c3c3c4ae0366b9e1f793ee76da",
+  "read_files": {
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/README.md": {
+      "sha256": "8033d0538131895069c3b9203f94325d16038244a9ccb0efc1c1671f4ae0c2e5",
+      "total_lines": 17,
+      "read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/divergence-trace-opening.tex": {
+      "sha256": "632f1734866c4a45a18a88b74a3db1629c8eab6a7037ad63e0365ed62459c530",
+      "total_lines": 31,
+      "read_ranges": [
+        [
+          1,
+          31
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/implementation-two-depths.tex": {
+      "sha256": "68cf307c5db3888838957ebace6262f6ccbca794ca77c008ae33f34927f7e175",
+      "total_lines": 17,
+      "read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/main.tex": {
+      "sha256": "d4fbad5d383699ceadc3bb629fd8801a89235e6605be4155db52ff89af5b9343",
+      "total_lines": 74,
+      "read_ranges": [
+        [
+          1,
+          74
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/references.bib": {
+      "sha256": "8dcec72f3f870052992f6b7782848d10bdc08b7175816021e7a224aed49498c4",
+      "total_lines": 254,
+      "read_ranges": [
+        [
+          1,
+          254
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex": {
+      "sha256": "9f371eaa5a4375c164af0f97f411bb2d4eb903e45d75fea654e0af3958416b20",
+      "total_lines": 414,
+      "read_ranges": [
+        [
+          1,
+          414
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex": {
+      "sha256": "c11c00f00860dc1809fba70a25a3671a4bbae6f6a20c780ce16e795ae923ddf2",
+      "total_lines": 535,
+      "read_ranges": [
+        [
+          1,
+          535
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex": {
+      "sha256": "b29306f158ee12993bc10db1e09aed76a117df7f2801d75d4b742dbff5a2f49d",
+      "total_lines": 729,
+      "read_ranges": [
+        [
+          1,
+          729
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/introduction.tex": {
+      "sha256": "b163dbf1f56f109ac7aad2e4efc4bab5294053b0f714723558ba826c40164ba2",
+      "total_lines": 269,
+      "read_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex": {
+      "sha256": "491b791f10420652c77b0aa4bd7d4003818d649b2767f8f0a00db2cc8ed3337c",
+      "total_lines": 317,
+      "read_ranges": [
+        [
+          1,
+          317
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex": {
+      "sha256": "f80e59005550f5b026ec3acf3454b3819bb82398458030243853484273170f02",
+      "total_lines": 379,
+      "read_ranges": [
+        [
+          1,
+          379
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex": {
+      "sha256": "44a382a57907b798f7c501c6c89749fe73c724ebcb37286ed9ce65609ee2aa9c",
+      "total_lines": 779,
+      "read_ranges": [
+        [
+          1,
+          779
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex": {
+      "sha256": "c77a74b7fc780e67096a29a91a2014916ce619400e7a1d55c7460f80085a13f9",
+      "total_lines": 275,
+      "read_ranges": [
+        [
+          1,
+          275
+        ]
+      ],
+      "fully_read": true
+    },
+    "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex": {
+      "sha256": "26a89f4d85fb800ba2f279c49e321b78e7b10bc5ad9afb7e4a3cb63602201a0c",
+      "total_lines": 435,
+      "read_ranges": [
+        [
+          1,
+          435
+        ]
+      ],
+      "fully_read": true
+    }
+  },
+  "source_closure": {
+    "included_tex_files": [
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/divergence-trace-opening.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/implementation-two-depths.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/main.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/introduction.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex",
+      "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex"
+    ],
+    "all_included_tex_read": true
+  },
+  "tex_files": 12,
+  "tex_lines": 4254,
+  "bibliography_lines": 254,
+  "named_result_count": 39,
+  "named_results": [
+    {
+      "id": "CLM-139-LEM-TRANSPORT-DERIVATIVES",
+      "label": "lem:transport-derivatives",
+      "qualified_label": "lem:transport-derivatives",
+      "aliases": [],
+      "title": "Transport correction derivatives",
+      "statement": "On [0,b*],transport minus identity k-th spatial split <=Ck*l*R^(-(k-1));time derivatives B^(m) Lp(op)<=polylog*l*a^-m.",
+      "conditions": "b*=sqrt(1-R^2),R in(0,1/2),fixed orders;Bprime=r*rho*B*U1 and Bprime(0)=0 exactly.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. b*=sqrt(1-R^2),R in(0,1/2),fixed orders;Bprime=r*rho*B*U1 and Bprime(0)=0 exactly.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex",
+      "lines": [
+        50,
+        65
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-CENTERING-KERNEL",
+      "label": "lem:centering-kernel",
+      "qualified_label": "lem:centering-kernel",
+      "aliases": [],
+      "title": "Observable centering kernel",
+      "statement": "Smooth K satisfies adjointDiv_xi* K=M*-u,opnorm K<=C L;fixed j split derivative <=Cj L R^-j.",
+      "conditions": "K^T=integral B U1=(1/r)integral Bprime/rho;quotient extends0;K need not be symmetric or PSD,not a coordinate Stein kernel assertion.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. K^T=integral B U1=(1/r)integral Bprime/rho;quotient extends0;K need not be symmetric or PSD,not a coordinate Stein kernel assertion.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex",
+      "lines": [
+        142,
+        149
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-CENTERING-LAW",
+      "label": "prop:centering-law",
+      "qualified_label": "prop:centering-law",
+      "aliases": [],
+      "title": "Stationary exact centering flow",
+      "statement": "Ydot=-K^T G/s,Gdot=(M*-u)/s complete and stationary under xi* x standard Gaussian;sG0+integral_0^1 M*(Yt)dt has law u+sG.",
+      "conditions": "Ideal independent anchors and exact u,K;G1 independent Y1,not original anchors;not yet a finite-query sampler.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Ideal independent anchors and exact u,K;G1 independent Y1,not original anchors;not yet a finite-query sampler.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex",
+      "lines": [
+        213,
+        226
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-STATIONARY-DERIVATIVES",
+      "label": "lem:stationary-derivatives",
+      "qualified_label": "lem:stationary-derivatives",
+      "aliases": [],
+      "title": "Stationary time derivative RMS",
+      "statement": "For stationary Lie derivative adjointGradient A gradient with skew A,order-k time derivative RMS<=Ck*a0*sqrt(d)*(alpha*R^-2)^k.",
+      "conditions": "n<=Cd,Gaussian tails,bounded Hessian,one-slot score and A derivative bounds,polynomial growth;fixed time/order RMS,not random path supremum.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. n<=Cd,Gaussian tails,bounded Hessian,one-slot score and A derivative bounds,polynomial growth;fixed time/order RMS,not random path supremum.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex",
+      "lines": [
+        298,
+        324
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-MATERIAL-IDENTITIES",
+      "label": "lem:material-identities",
+      "qualified_label": "lem:material-identities",
+      "aliases": [],
+      "title": "Material and adjoint identities",
+      "statement": "D M=adjointDiv U1;D Uq=adjointDiv U(q+1)+2r*rho*sum nonempty-subset jet contractions;D adjointDivV=adjointDivDV+r adjointDiv((DM)V).",
+      "conditions": "D=partial_rho-r*M dot gradient;distinguished divergence slot,ordered contractions and rho=0 continuous extension.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. D=partial_rho-r*M dot gradient;distinguished divergence slot,ordered contractions and rho=0 continuous extension.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "lines": [
+        48,
+        72
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-SPLIT-CONTRACTION",
+      "label": "lem:split-contraction",
+      "qualified_label": "lem:split-contraction",
+      "aliases": [],
+      "title": "One-edge split contraction",
+      "statement": "Contract one slot between A,B,each retaining a free slot;every output split is bounded by suitable nontrivial splits of A and B.",
+      "conditions": "No self-contraction or factor with all slots consumed;cannot transfer to arbitrary tensor networks.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. No self-contraction or factor with all slots consumed;cannot transfer to arbitrary tensor networks.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "lines": [
+        128,
+        138
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-THM-TENSOR-DIVERGENCE",
+      "label": "thm:tensor-divergence",
+      "qualified_label": "thm:tensor-divergence",
+      "aliases": [],
+      "title": "Uniform tensor divergence network",
+      "statement": "For expression E of weight k,all j>=0,2<=p<infinity,split-norm Lp <= CE^(j+1)(p+j+log(d+1))^(CE(j+1))*a^(-(k+j)/2).",
+      "conditions": "Admissible expression grammar retains>=2 slots after each adjoint;normalized Uq/L weightq-1. Same CE works for growing j,p;one closing trace d^b absorbed by moment order,not one factor for every graph cycle.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Admissible expression grammar retains>=2 slots after each adjoint;normalized Uq/L weightq-1. Same CE works for growing j,p;one closing trace d^b absorbed by moment order,not one factor for every graph cycle.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "lines": [
+        195,
+        211
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-DIVERGENCE-L2",
+      "label": "lem:divergence-l2",
+      "qualified_label": "lem:divergence-l2",
+      "aliases": [],
+      "title": "Final adjoint L2 bound",
+      "statement": "Frobenius L2 of adjointDivV <=C(Frobenius L2 of V+gradientV),independent of d and remaining slots.",
+      "conditions": "C2 H with bounded Hessian and Gaussian tails,V and gradientV in L2;C depends on Hessian bound. Final vector conversion costs one sqrt(d).",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. C2 H with bounded Hessian and Gaussian tails,V and gradientV in L2;C depends on Hessian bound. Final vector conversion costs one sqrt(d).",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "lines": [
+        419,
+        433
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-COR-PATH-DERIVATIVES",
+      "label": "cor:path-derivatives",
+      "qualified_label": "cor:path-derivatives",
+      "aliases": [],
+      "title": "Fixed-order material path derivatives",
+      "statement": "For fixed m>=1,RMS(D^m M)<=polylog L sqrt(d) a^-m;fixed q,m,p all-split Lp of D^m Uq<=polylog L*a^(-(q-1+2m)/2).",
+      "conditions": "Polylog constants depend on fixed orders;sup of timewise RMS is not expectation of path supremum.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Polylog constants depend on fixed orders;sup of timewise RMS is not expectation of path supremum.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "lines": [
+        457,
+        475
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COMPILER-ABSORPTION",
+      "label": "lem:compiler-absorption",
+      "qualified_label": "lem:compiler-absorption",
+      "aliases": [],
+      "title": "Query-preserving Gaussian absorption",
+      "statement": "If Q(x+Delta,z+v tensor Delta/r)=Q(x,z) pathwise,||v||<=Ds,n=r/(2Ds),P=sqrt(I-vvT/(4Ds^2)),then Q(x+nZ,PG) has exactly law Q(x,G).",
+      "conditions": "Independent standard Z,G initially;PP^T+vvT/(4Ds^2)=I;rewritten seeds may correlate Z;unmodified fresh seeds would add variance;translation preserves every physical query for fixed seeds.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Independent standard Z,G initially;PP^T+vvT/(4Ds^2)=I;rewritten seeds may correlate Z;unmodified fresh seeds would add variance;translation preserves every physical query for fixed seeds.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        35,
+        47
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COMPILER-HEIGHT",
+      "label": "lem:compiler-height",
+      "qualified_label": "lem:compiler-height",
+      "aliases": [],
+      "title": "Routine height distinct from expression depth",
+      "statement": "From labels(1,K0),rules(b+t,p) finalM,(b,p) finalS,(b-10t,p-1/4) others yield finite height H(K0,t),all reachable b>1/2.",
+      "conditions": "Terminal iff p<=b;each occurrence duplicates center-supply tree,all direct children keep parent labels,not repeated accuracy loss per expression tier.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Terminal iff p<=b;each occurrence duplicates center-supply tree,all direct children keep parent labels,not repeated accuracy loss per expression tier.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        192,
+        197
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COMPILER-COUNT",
+      "label": "lem:compiler-count",
+      "qualified_label": "lem:compiler-count",
+      "aliases": [],
+      "title": "Pathwise finite compiler query cap",
+      "statement": "Choose w depending only fixed K0,t,Picard counts,then interpolation orders;seed slots and queries<=polylog(d)*delta^-t on every execution;shift budgets hold.",
+      "conditions": "Sufficiently large d;Ds=delta^-t,expression tree fanout(D0+1)(1+F0)^D0 and fixed routineheight;cap established without an accuracy event;no arithmetic/bit bound.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Sufficiently large d;Ds=delta^-t,expression tree fanout(D0+1)(1+F0)^D0 and fixed routineheight;cap established without an accuracy event;no arithmetic/bit bound.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        359,
+        367
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COMPILER-TERMINAL",
+      "label": "lem:compiler-terminal",
+      "qualified_label": "lem:compiler-terminal",
+      "aliases": [],
+      "title": "Terminal one-query routines",
+      "statement": "Terminal M targets N(u,sigma^2I) W2<=polylog*sigma*delta^p D;Spre targets nu*N(0,3eta^2I/4) W2<=polylog*delta^p D;fixedseed centerLip<=lambda or rlambda.",
+      "conditions": "M=g(x+rZ)+sigmaG;Spre=Z-rg(x+rZ)+sqrt(3)*eta*G1/2;reserveetaG2/2 independent,not used in queries;standalone sizeconditions.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. M=g(x+rZ)+sigmaG;Spre=Z-rg(x+rZ)+sqrt(3)*eta*G1/2;reserveetaG2/2 independent,not used in queries;standalone sizeconditions.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        421,
+        437
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COMPILER-SIZES",
+      "label": "lem:compiler-sizes",
+      "qualified_label": "lem:compiler-sizes",
+      "aliases": [],
+      "title": "Recursive size and coefficient admission",
+      "statement": "Descendant labels preserve size conditions up to uniform polylog;lambda A<=polylog*delta^(1/3);nonfinal sigma_i<=C sigma(M) or r sigma_i<=C(S).",
+      "conditions": "Final mean-term R gain,neutral sampling noise eta/r,other terms pay Ds/R;not arbitrary recursively noisy center policy.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Final mean-term R gain,neutral sampling noise eta/r,other terms pay Ds/R;not arbitrary recursively noisy center policy.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        469,
+        482
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COMPILER-LIPSCHITZ",
+      "label": "lem:compiler-lipschitz",
+      "qualified_label": "lem:compiler-lipschitz",
+      "aliases": [],
+      "title": "Fixed-seed stability of compiled routines",
+      "statement": "For every seed array,even correlated/transformed,M centerLip<=polylog*lambda,S<=polylog*r*lambda;M positionanchor Lip<=polylog*L.",
+      "conditions": "Pathwise bound first;center-supply siblings not multiplied by invoked child shift again;does not imply actual intermediate ideal distributions.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Pathwise bound first;center-supply siblings not multiplied by invoked child shift again;does not imply actual intermediate ideal distributions.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        525,
+        534
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-COMPILER-ACCURACY",
+      "label": "prop:compiler-accuracy",
+      "qualified_label": "prop:compiler-accuracy",
+      "aliases": [],
+      "title": "Standalone compiled law induction",
+      "statement": "M W2 from N(u,sigma^2I)<=polylog*sigma*delta^p D;Spre W2 from nu*N(0,3eta^2I/4)<=polylog*delta^p D;S TV from nu*N(0,eta^2I)<=polylog*delta^p D/eta.",
+      "conditions": "Replace positionanchor then conditionanchors,apply pathwise stability,then Gaussian absorption,then standalone accuracy;single p-1/4 loss;all reserve Gaussians independent of own queries.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Replace positionanchor then conditionanchors,apply pathwise stability,then Gaussian absorption,then standalone accuracy;single p-1/4 loss;all reserve Gaussians independent of own queries.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "lines": [
+        575,
+        593
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-THM-MAIN",
+      "label": "thm:main",
+      "qualified_label": "thm:main",
+      "aliases": [],
+      "title": "Optimal dimension exponent",
+      "statement": "For every epsilon>0 Q(d)<=C_epsilon*d^epsilon for every d>=2;Q(d)>=c log d eventually;infimal polynomial exponent gamma*=0.",
+      "conditions": "No polylog upper bound, finite-precision/noisy-gradient robustness or practical runtime is asserted.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. No polylog upper bound, finite-precision/noisy-gradient robustness or practical runtime is asserted.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/introduction.tex",
+      "lines": [
+        51,
+        65
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "B"
+    },
+    {
+      "id": "CLM-139-LEM-APPELL-CUMULANTS",
+      "label": "lem:appell-cumulants",
+      "qualified_label": "lem:appell-cumulants",
+      "aliases": [],
+      "title": "All-split cumulants from Poincare",
+      "statement": "Every nontrivial matrix split of cumulant_n(S) <=C^n*n^(Cn)*beta^(n/2),independent of dimension and mean.",
+      "conditions": "MGF finite near zero and polynomial Poincare beta;arbitrary coefficient tensors,not only rank-one directions;singular Lipschitz images permitted by pullback.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. MGF finite near zero and polynomial Poincare beta;arbitrary coefficient tensors,not only rank-one directions;singular Lipschitz images permitted by pullback.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex",
+      "lines": [
+        77,
+        94
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-GAUSSIAN-JETS",
+      "label": "prop:gaussian-jets",
+      "qualified_label": "prop:gaussian-jets",
+      "aliases": [],
+      "title": "Conditional-mean Gaussian jets",
+      "statement": "Uq=rho^-q derivative^q M extends smoothly at0;all-split bound C^q q^(Cq)L*a^(-(q-1)/2);score=y+r*rho*M,bounded Hessian,and higher score split bounds.",
+      "conditions": "l<=1/2,rho<1,output slot included;conditional mean identity is not a free runtime oracle. Only original first derivative g used.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. l<=1/2,rho<1,output slot included;conditional mean identity is not a free runtime oracle. Only original first derivative g used.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex",
+      "lines": [
+        181,
+        210
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-TRANSPORT",
+      "label": "prop:transport",
+      "qualified_label": "prop:transport",
+      "aliases": [],
+      "title": "Probability-time transport",
+      "statement": "Yprime=-r*M_rho(Y) transports standard Gaussian to xi_rho;velocity globally C*l Lipschitz;compact time intervals have smooth two-sided flows.",
+      "conditions": "rho<1;no endpointrho=1 assertion or finite-query evaluation yet.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. rho<1;no endpointrho=1 assertion or finite-query evaluation yet.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex",
+      "lines": [
+        277,
+        287
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-THM-LOWER",
+      "label": "thm:lower",
+      "qualified_label": "thm:lower",
+      "aliases": [],
+      "title": "Fixed-condition Gaussian logarithmic lower",
+      "statement": "Q(d)>=c log d eventually even only quadratics V=xTAx/2 with I<=A<=2I;arbitrary adaptive randomized algorithms included.",
+      "conditions": "Exact value redundant with Ax;private randomness input independent;uniform TV1/10;old Gaussian lower-order strategy already exists,not a new application test.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Exact value redundant with Ax;private randomness input independent;uniform TV1/10;old Gaussian lower-order strategy already exists,not a new application test.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex",
+      "lines": [
+        14,
+        20
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "B"
+    },
+    {
+      "id": "CLM-139-LEM-DEFERRED-HAAR",
+      "label": "lem:deferred-haar",
+      "qualified_label": "lem:deferred-haar",
+      "aliases": [],
+      "title": "Deferred Haar including unrestricted output",
+      "statement": "Extend Haar experiment to mutually independent standard g1..g(q+1) such that O^T X in span{Lambda^j gi:j<=q};original joint law unchanged.",
+      "conditions": "2q+1<d;algorithm output may lie outside queriedspan;auxiliary gi need not be independent of O or A;measurable rank-stratum completions.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. 2q+1<d;algorithm output may lie outside queriedspan;auxiliary gi need not be independent of O or A;measurable rank-stratum completions.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex",
+      "lines": [
+        42,
+        57
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-LOWER-SPAN-STATISTIC",
+      "label": "lem:lower-span-statistic",
+      "qualified_label": "lem:lower-span-statistic",
+      "aliases": [],
+      "title": "Uniform block-span quadratic statistic",
+      "statement": "With probability>=.99,every u in full blockKrylovspan obeys |uTDp u|<=2*tau_d*|u|^2,tau_d=40(q+1)^2/sqrt(d).",
+      "conditions": "4q+1<2d,tau<=1/2;cosine-grid eigenvalues(3+cos theta)/2,Dp=diag cos((2q+1)theta);uniform coefficients,not assuming adaptive coefficients independent of input.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. 4q+1<2d,tau<=1/2;cosine-grid eigenvalues(3+cos theta)/2,Dp=diag cos((2q+1)theta);uniform coefficients,not assuming adaptive coefficients independent of input.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex",
+      "lines": [
+        172,
+        185
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-LOWER-TARGET-STATISTIC",
+      "label": "lem:lower-target-statistic",
+      "qualified_label": "lem:lower-target-statistic",
+      "aliases": [],
+      "title": "Gaussian target cosine separation",
+      "statement": "For U~N(0,Lambda^-1),mean UTDpU=d/sqrt2*(-varrho)^(2q+1)+R,|R|<=sqrt2*d*varrho^(2d-2q-1)/(1-varrho);variance<=2d;normmean<=d,normvariance<=2d.",
+      "conditions": "varrho=3-sqrt8,2q+1<d;mean sign is negative for odd exponent;separating event uses ABSOLUTE quadratic form >160(q+1)^2 sqrt(d). Natural c0=1/(16log(1/varrho));test may depend on A and need not be computed by sampler.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. varrho=3-sqrt8,2q+1<d;mean sign is negative for odd exponent;separating event uses ABSOLUTE quadratic form >160(q+1)^2 sqrt(d). Natural c0=1/(16log(1/varrho));test may depend on A and need not be computed by sampler.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex",
+      "lines": [
+        264,
+        277
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-PROBABILITY-CIRCUIT",
+      "label": "prop:probability-circuit",
+      "qualified_label": "prop:probability-circuit",
+      "aliases": [],
+      "title": "Global Picard probability circuit",
+      "statement": "After Np global layers,max over nodes RMS <=Cm polylog*l*sqrt(d)*h0^m+(Cm*l)^Np*C*r*D;state Lip<=Cm,correction Lip<=Cm*l.",
+      "conditions": "Exact input marginal;mesh in -log(1-rho),hcell controlled by endpointdistance;global simultaneous Picard layers,not sequential per-cell dependency depth.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Exact input marginal;mesh in -log(1-rho),hcell controlled by endpointdistance;global simultaneous Picard layers,not sequential per-cell dependency depth.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        85,
+        97
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-KERNEL-ANGLE-ERRORS",
+      "label": "lem:kernel-angle-errors",
+      "qualified_label": "lem:kernel-angle-errors",
+      "aliases": [],
+      "title": "Angle derivative of forward correction",
+      "statement": "Exact-angle RMS truncation<=Cm*l*sqrt(d)*delta^(2tm-4t);pre-stencil correction RMS<=Cm polylog*l*sqrt(d)(h0^m+delta^(2tm))+(Cm*l)^Np*C*r*D;correction Lip<=Cm*l.",
+      "conditions": "Ideal independent y~xi*,G~Gaussian;psi=delta^(4t),R=delta^t,h0=delta^w,0<w<t;differentiate T-id,not approximate matrix times unbounded momentum.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Ideal independent y~xi*,G~Gaussian;psi=delta^(4t),R=delta^t,h0=delta^w,0<w<t;differentiate T-id,not approximate matrix times unbounded momentum.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        204,
+        221
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-KERNEL-ENDPOINT-QUADRATURE",
+      "label": "lem:kernel-endpoint-quadrature",
+      "qualified_label": "lem:kernel-endpoint-quadrature",
+      "aliases": [],
+      "title": "Hermite removal of rho singularity",
+      "statement": "Kernel action quadrature exact-value RMS<=Cm polylog*l*sqrt(d)*h0^(m-2);sum |q_i|<=Cm*h0^-1*(1+|logR|+|logh0|).",
+      "conditions": "First cell Hermite derivative0 imposed exactly even on approximate values;m>=3;not arbitrary noisy numerical differentiation near zero.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. First cell Hermite derivative0 imposed exactly even on approximate values;m>=3;not arbitrary noisy numerical differentiation near zero.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        278,
+        293
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-KERNEL-CIRCUIT",
+      "label": "prop:kernel-circuit",
+      "qualified_label": "prop:kernel-circuit",
+      "aliases": [],
+      "title": "Finite centering velocity circuit",
+      "statement": "Stationary-input RMS error obeys displayed eq kernel-velocity-error and can be <=polylog*delta^J D with Np=O(J+1);global Lip<=Cm polylog*(L/sigma)*delta^(-4t-w).",
+      "conditions": "max(l,L/sigma)<=polylog*delta^b,b>=1/2;s=sigma/2 once;deterministic scalar means,1/r cancels;depth independent of mesh/interpolation order.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. max(l,L/sigma)<=polylog*delta^b,b>=1/2;s=sigma/2 once;deterministic scalar means,1/r cancels;depth independent of mesh/interpolation order.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        369,
+        389
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-MEAN-CIRCUIT",
+      "label": "prop:mean-circuit",
+      "qualified_label": "prop:mean-circuit",
+      "aliases": [],
+      "title": "Mean output circuit with ideal anchors",
+      "statement": "Joint-state RMS<=polylog*delta^J D;output RMS error from exact centering path<=polylog*sigma*delta^J D;O(J+1) layers each integration.",
+      "conditions": "Ideal independent xi* and Gaussian anchors;comparison circuit has exact conditional means,not a standalone query algorithm yet.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Ideal independent xi* and Gaussian anchors;comparison circuit has exact conditional means,not a standalone query algorithm yet.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        437,
+        446
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-EXACT-MEAN-CIRCUITS",
+      "label": "prop:exact-mean-circuits",
+      "qualified_label": "prop:exact-mean-circuits",
+      "aliases": [],
+      "title": "Interpolation order after dependency depth",
+      "statement": "N=ceil(10(J+2)) layers suffice;w(m-3)>J+10,t(m-3)>J+10,m>4(J+10);RMS guarantees persist;mean dependency depth O((N+1)^2).",
+      "conditions": "Choose J,N then w then fixed m;node/weight/iteration data deterministic;depth independent m,w,cellcount,constants not universally small.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Choose J,N then w then fixed m;node/weight/iteration data deterministic;depth independent m,w,cellcount,constants not universally small.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        484,
+        508
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-THM-NUMERICAL-INTERFACE",
+      "label": "thm:numerical-interface",
+      "qualified_label": "thm:numerical-interface",
+      "aliases": [
+        "lem:compiler-circuit"
+      ],
+      "title": "Deterministic exact-mean DAG interface",
+      "statement": "Nodes Mi=u_Ei,ri with Ei=bi+sum_{j<i}aij Mj;deterministic scalar coefficients known before queries;dependency depth<=3N^2+1;ideal-input law/error and explicit coefficient bounds.",
+      "conditions": "ri=r*taui>=rR/sqrt5;final mean terms scale rR;AM<=C1 log^C[(r/sigma)delta^(-4t-10w)+r^2],AS<=C1*r^2,AfM<=C1,AfS<=C1*r;alias lem:compiler-circuit is same result.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. ri=r*taui>=rR/sqrt5;final mean terms scale rR;AM<=C1 log^C[(r/sigma)delta^(-4t-10w)+r^2],AS<=C1*r^2,AfM<=C1,AfS<=C1*r;alias lem:compiler-circuit is same result.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "lines": [
+        590,
+        665
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-THM-PRIMITIVE",
+      "label": "thm:primitive",
+      "qualified_label": "thm:primitive",
+      "aliases": [],
+      "title": "Noised small-curvature primitive",
+      "statement": "One uniform gradient procedure returns Xpre+G/2, independent reserve;W2(Xpre,nu*N(0,3I/4))<=polylog(d)delta^K0 D;W2 and TV after reserve <=same;queries<=polylog(d)delta^-t every execution.",
+      "conditions": "K0>=2 integer,40(K0+2)t<1/4,sufficiently large d;F can be nonconvex;this is a Gaussian-convolved law,not final unnoised target.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. K0>=2 integer,40(K0+2)t<1/4,sufficiently large d;F can be nonconvex;this is a Gaussian-convolved law,not final unnoised target.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex",
+      "lines": [
+        54,
+        88
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-CONVEX-PRELIMINARIES",
+      "label": "lem:convex-preliminaries",
+      "qualified_label": "lem:convex-preliminaries",
+      "aliases": [],
+      "title": "Convex moments and synchronous comparison",
+      "statement": "For mI<=HessianH<=MI,mode second moment<=n/m,Poincare constant1/m,stationary Langevin synchronous contraction exp(-mt),W2(mu,eta)<=m^-1 RMS_eta(gradientH-gradientHbar).",
+      "conditions": "C2 bounded Hessians;polynomial-growth tests by cutoff and smooth approximation,not higher smoothness of original potential.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. C2 bounded Hessians;polynomial-growth tests by cutoff and smooth approximation,not higher smoothness of original potential.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex",
+      "lines": [
+        106,
+        131
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-COUPLING-SMOOTHING",
+      "label": "lem:coupling-smoothing",
+      "qualified_label": "lem:coupling-smoothing",
+      "aliases": [],
+      "title": "Conditional coupling and TV smoothing",
+      "statement": "Squared W2 of mixtures bounded by integrated conditional squared W2;independent weighted sums obey sum |a_i| W2;TV after Gaussian(s) <= W2/s;common kernels contract TV.",
+      "conditions": "Finite second moments;independence within each sum only;measurable conditional couplings,not assuming actual centers have ideal laws.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. Finite second moments;independence within each sum only;measurable conditional couplings,not assuming actual centers have ideal laws.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex",
+      "lines": [
+        219,
+        246
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-PROXIMAL-CONTRACTION",
+      "label": "lem:proximal-contraction",
+      "qualified_label": "lem:proximal-contraction",
+      "aliases": [],
+      "title": "Noised proximal invariance and contraction",
+      "statement": "P_h has invariant pi*N(0,hI);W2(kappa_y1,kappa_y2)<=|y1-y2|/(1+h),hence W2 contraction factor1/(1+h).",
+      "conditions": "h=delta/2;conditional kappa_y proportional exp(-V(x)-|x-y|^2/(2h));primitive yields noised P_h,not unnoised pi directly.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. h=delta/2;conditional kappa_y proportional exp(-V(x)-|x-y|^2/(2h));primitive yields noised P_h,not unnoised pi directly.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex",
+      "lines": [
+        40,
+        51
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-PROP-NOISED-MIXING",
+      "label": "prop:noised-mixing",
+      "qualified_label": "prop:noised-mixing",
+      "aliases": [],
+      "title": "Approximate proximal chain to noised target",
+      "statement": "From0,ceil(C*h^-1*logd)+1 fixed steps of approximate P_h give uniform TV o(1) from pi*N(0,hI).",
+      "conditions": "K0>2+1/e;propagate actual moment/W2 recurrence before last Gaussian smoothing;common conditional algorithm data processing,not free exact proximal oracle.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. K0>2+1/e;propagate actual moment/W2 recurrence before last Gaussian smoothing;common conditional algorithm data processing,not free exact proximal oracle.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex",
+      "lines": [
+        101,
+        108
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-DESCENT-MOMENTS",
+      "label": "lem:descent-moments",
+      "qualified_label": "lem:descent-moments",
+      "aliases": [],
+      "title": "Ideal-prefix variance descent moments",
+      "statement": "If y~pi*N(0,hI) and previous conditioning observations ideal,RMS |g_y(xj)|<=C sqrt(d) for0<=j<=J.",
+      "conditions": "x_{j+1}=xj+rjYj/2,rj+1=rj/sqrt2;only ideal-prefix hybrids used,not moment guarantee on all actual conditional histories.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. x_{j+1}=xj+rjYj/2,rj+1=rj/sqrt2;only ideal-prefix hybrids used,not moment guarantee on all actual conditional histories.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex",
+      "lines": [
+        224,
+        233
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-LEM-MODE-GAUSSIAN",
+      "label": "lem:mode-gaussian",
+      "qualified_label": "lem:mode-gaussian",
+      "aliases": [],
+      "title": "Small-curvature mode Gaussian comparison",
+      "statement": "For l=lambda*r^2<=1/2,TV(nu_xr,N(z0,I))<=C*l*sqrt(d),z0 mode.",
+      "conditions": "F C2 may be nonconvex;quadratic Gaussian term gives unique mode;KL(N0||shiftednu)<=2*l^2*d by interpolation;still need find mode approximately.",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. F C2 may be nonconvex;quadratic Gaussian term gives unique mode;KL(N0||shiftednu)<=2*l^2*d by interpolation;still need find mode approximately.",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex",
+      "lines": [
+        298,
+        306
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "C"
+    },
+    {
+      "id": "CLM-139-THM-UPPER",
+      "label": "thm:upper",
+      "qualified_label": "thm:upper",
+      "aliases": [],
+      "title": "Unnoised target subpolynomial upper",
+      "statement": "For every epsilon>0 uniform measurable exact first-order sampler has at most C_epsilon*d^epsilon queries every execution and TV<=1/10 for all d>=2.",
+      "conditions": "2e<epsilon,K0>2+1/e;noised chain then J=ceil(C1logd) variance-halving levels and fixed gradient modebase m0=ceil(C2logd);bounded-d natural fallback capceil(4*2^(d/2)),failure<=exp(-4).",
+      "constants": "delta=d^-e,0<e<1;Lip(g=gradientF)<=lambda=delta,0<r<=1;L=lambda*r,l=lambda*r^2,D(x)=sqrt(d)+|g(x)|;nu_xr proportional exp(-|z|^2/2-F(x+rz));a=1-rho^2. Fixed approximation orders/constants and dimension thresholds may depend on epsilon. 2e<epsilon,K0>2+1/e;noised chain then J=ceil(C1logd) variance-halving levels and fixed gradient modebase m0=ceil(C2logd);bounded-d natural fallback capceil(4*2^(d/2)),failure<=exp(-4).",
+      "file": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex",
+      "lines": [
+        369,
+        380
+      ],
+      "manuscript_id": "P-e54200c0718980f7",
+      "grade": "B"
+    }
+  ],
+  "result_label_aliases_not_extra_results": [
+    "lem:compiler-circuit = thm:numerical-interface"
+  ],
+  "methods": [
+    [
+      "CONDITIONAL-JETS",
+      "C2 small-curvature potential,Gaussian conditional law",
+      "Arbitrary-order all-split conditional-mean derivatives",
+      "Does not give free exact conditional mean access or original higher derivatives",
+      [
+        "lem:appell-cumulants",
+        "prop:gaussian-jets"
+      ]
+    ],
+    [
+      "SINGLE-CLOSING-TRACE",
+      "Admissible normalized jet/adjoint tensor grammar",
+      "Dimension logarithmic all-split Lp bounds by high trace moment",
+      "No self-contraction/consumed-factor generalization;moment order grows with logd",
+      [
+        "lem:split-contraction",
+        "thm:tensor-divergence",
+        "lem:divergence-l2"
+      ]
+    ],
+    [
+      "ENDPOINT-MESH",
+      "Fixed material derivative bounds singular at rho1",
+      "Log-distance mesh cancels local endpoint powers",
+      "Timewise RMS,not expected path supremum;compact rho interval",
+      [
+        "cor:path-derivatives",
+        "prop:probability-circuit"
+      ]
+    ],
+    [
+      "OBSERVABLE-KERNEL",
+      "Probability transport and observable M*-u",
+      "K with adjointDiv K=M*-u and bounded operator norm",
+      "K need not be symmetric or PSD;transpose and ordered Bprime essential",
+      [
+        "lem:transport-derivatives",
+        "lem:centering-kernel"
+      ]
+    ],
+    [
+      "STATIONARY-CENTERING",
+      "Ideal xi* x Gaussian anchors,exact u,K",
+      "Path integral has exact Gaussian-noised mean law",
+      "Not immediately algorithmic;stationary endpoint independence differs from initial anchors",
+      [
+        "prop:centering-law",
+        "lem:stationary-derivatives"
+      ]
+    ],
+    [
+      "GLOBAL-PICARD",
+      "Mean-valued global integral equations",
+      "Dependency layers independent of mesh cellcount",
+      "Constants/interpolation order still grow;unbounded real computation cost",
+      [
+        "prop:probability-circuit",
+        "prop:exact-mean-circuits"
+      ]
+    ],
+    [
+      "HERMITE-ZERO",
+      "Forward correction with exact derivative0 at rho0",
+      "Stable kernel/rho endpoint quadrature",
+      "Endpoint derivative condition imposed exactly;arbitrary noisy data cannot substitute",
+      [
+        "lem:kernel-angle-errors",
+        "lem:kernel-endpoint-quadrature"
+      ]
+    ],
+    [
+      "SCALAR-DAG",
+      "Fixed mean-circuit approximation orders",
+      "Deterministic scalar affine nodes and coefficient/scale bounds",
+      "No arbitrary matrix-times-momentum product;1/r cancellation part of sourceconstruction",
+      [
+        "prop:kernel-circuit",
+        "prop:mean-circuit",
+        "thm:numerical-interface"
+      ]
+    ],
+    [
+      "GAUSSIAN-ABSORPTION",
+      "Seeded Q with exact pathwise query-preserving translation",
+      "Noisy-center law restored by seed covariance reduction",
+      "Must prove identity for actual caller;fresh unmodified seeds add variance",
+      [
+        "lem:compiler-absorption"
+      ]
+    ],
+    [
+      "TWO-DEPTHS",
+      "Mean circuit expanded as uncached tree",
+      "Separate routineheight and expressiondependency error bookkeeping",
+      "Siblings use parent labels;duplicate entire center-supply trees;no free memoization assumption",
+      [
+        "lem:compiler-height",
+        "lem:compiler-count"
+      ]
+    ],
+    [
+      "SEED-STABILITY",
+      "Same fixed-seed translated child queries",
+      "Control inaccurate center before invoking standalone childlaw",
+      "Do not assume actual intermediate inputs ideal;absorption must precede law induction",
+      [
+        "lem:compiler-lipschitz",
+        "prop:compiler-accuracy"
+      ]
+    ],
+    [
+      "RESERVED-NOISE",
+      "Pre-noise W2 control,query-independent Gaussian reserve",
+      "TV control with exact variance budget",
+      "Reserve independent of all own queries;primitive target remains convolved",
+      [
+        "lem:compiler-terminal",
+        "prop:compiler-accuracy",
+        "lem:coupling-smoothing"
+      ]
+    ],
+    [
+      "PROXIMAL-CHAIN",
+      "Exact first-order potential,small-curvature gradientprimitive",
+      "Fixed-length noised mixing with actual moment recurrence",
+      "Old proximal framework already exists;RGO queries have nonzero implementation cost",
+      [
+        "lem:proximal-contraction",
+        "prop:noised-mixing"
+      ]
+    ],
+    [
+      "IDEAL-PREFIX",
+      "Variance-halving conditional descent from ideal noised target",
+      "Unnoised target via hybrid TVsum and small-curvature modebase",
+      "Only ideal-prefix moments justified;need fixed-level base and data processing",
+      [
+        "lem:descent-moments",
+        "lem:mode-gaussian",
+        "thm:upper"
+      ]
+    ],
+    [
+      "DEFERRED-HAAR",
+      "Private input-independent randomness,adaptive Gaussian matvecqueries",
+      "Block span includes arbitrary output direction",
+      "Gaussianblocks mutuallyindependent but can depend on random rotation",
+      [
+        "lem:deferred-haar"
+      ]
+    ],
+    [
+      "UNIFORM-SPAN-TEST",
+      "Cosine-grid spectrum and Gaussian blocks",
+      "Every vector in blockspan satisfies small absolute quadratic statistic",
+      "Uniformallcoefficients;target comparisonjointtest may depend on A,not algorithmcomputability",
+      [
+        "lem:lower-span-statistic",
+        "lem:lower-target-statistic",
+        "thm:lower"
+      ]
+    ]
+  ],
+  "formal_scope": {
+    "selected_read_files": {
+      "math/lean/docs/139.md": {
+        "sha256": "01a80d3457fd2b8abf1a013c484a14dd7b52f4585a759f5aef3cfc9849d6ce27",
+        "lines": 15,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/ComparatorChallenges/LogConcaveQuery.json": {
+        "sha256": "5a0e43007406bf58e647ffa64a7aa89ec8c37c68535ad6193723ccf0aa6620e7",
+        "lines": 14,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/ComparatorChallenges/LogConcaveQuery.lean": {
+        "sha256": "e35be4c9d8352ba082385717f8209296b6ddf264fbe03228df4daee47f7aedf2",
+        "lines": 93,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/OAI/Probability/LogConcave/Model.lean": {
+        "sha256": "9da5d4e0201d68e4aea7384b9d6ed1ad9bd6e2a3c6aaedc3ff6cef61330e6be9",
+        "lines": 91,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/OAI/Probability/LogConcave/Main.lean": {
+        "sha256": "3587973a46d608f46a49cf68a138c9f4efb3e17e94784b96ac00d71eda7fdc48",
+        "lines": 82,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/OAI/Probability/LogConcave/Sampling/MixingEnvelope.lean": {
+        "sha256": "061067e0f956829da69e7dd79031174111ccb269dd21162b15ccc07b1762ce5c",
+        "lines": 174,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/OAI/Probability/LogConcave/LowerBounds/TranscriptRejection.lean": {
+        "sha256": "d1575c77324ce925947dafa227a30e17437d1e989d0b0a5c7e4b03d6f2f84f93",
+        "lines": 203,
+        "read_scope": "Entire selected file actually read;not transitive proof review or build"
+      },
+      "math/lean/OAI/Probability/LogConcave/LowerBounds/HardEigenOutput.lean": {
+        "sha256": "1f7c181f88f7207fefe4235c783aa410c4fe0a6b4d904e65c77b251de523362a",
+        "total_lines": 393,
+        "read_ranges": [
+          [
+            320,
+            395
+          ]
+        ],
+        "read_scope": "Selected final lower-bound theorem/proof endpoint only;earlier body not fully read"
+      }
+    },
+    "index": {
+      "path": "data/graph/lean_indices/F-139-main.json.gz",
+      "sha256": "88a01e40b20e8261faa3db9cd4d23bff551663c5cf1bc7ce0115d8019fca661a",
+      "uncompressed_sha256": "abae748c611c2a1447fb109476354ca5e0e9fda8f624d55ccfa937a9c396497d",
+      "files": 326,
+      "declarations": 3903,
+      "external_unread": [
+        "Mathlib"
+      ],
+      "no_build": true
+    },
+    "main_claim_definition_exact_selected_comparison": true,
+    "build": false,
+    "Comparator": false,
+    "human_review": null,
+    "full_dependency_grade": "unknown",
+    "scope": "Selected Model/Main and upper/lower endpoint comparison gives local B for main/upper/lower only;36 supports remain C. Formal gammaStar is infimum of quantified ExponentBound;displayed natural limsup identity not separately certified.",
+    "implementation_differences": [
+      "Natural finite-d fallback ceil(4*2^(d/2)),failure exp(-4);formal finite_dimension_sampler uses10*2^d,coarser acceptance bound. Both meet final fixedTV interface,not identical algorithms.",
+      "Natural lower proof c0=1/(16log(1/(3-sqrt8))) eventually;formal lower endpoint c=(128log2)^-1,d0=2^128. Main statements existential,explicit proof constants differ."
+    ]
+  },
+  "original_history_scopes": [
+    {
+      "key": "chen2026picard",
+      "acquisition": "Picard2026v1",
+      "url": "https://arxiv.org/pdf/2609.06906v1",
+      "locator": "PDF39-40 Theorem7.1(i),(ii) and selected proof;PDF39 pixels",
+      "fact": "Fixed-condition,fixed-KL accuracy expected gradient upper Otilde(d^(1/6));supplied minimizer qualifies referencepoint. Delta=1/20 and capceil20B(d) give TV<1/10 by Pinsker plus Markov,already noted in F139 footnote.",
+      "boundary": "Actual cited v1,not later v2;Theorem7.2/high-accuracy composition is different d^(1/4) regime;transitive proof not fully audited."
+    },
+    {
+      "key": "chen2026cloud",
+      "acquisition": "Cloud2026v1",
+      "url": "https://arxiv.org/pdf/2609.38710v1",
+      "locator": "PDF3-4 Theorem1.1,assumptions and comparison;PDF3 pixels",
+      "fact": "C2,1-Lipschitz gradient,LSI kappa,supplied reference norm gradient<=sqrt(d/kappa);TVepsilon expected gradient upper O(kappa*(d+log(kappa*d/epsilon))^(1/5)*log^(13/2)(kappa*d/epsilon)).",
+      "boundary": "High-accuracy d^(1/5) improves that regime,not strongest fixedTV comparator versus Picard d^(1/6);selected interface reading,not all proof. Sept30 citation is in pinned Oct6 initial Git snapshot despite cover Sept26."
+    },
+    {
+      "key": "lee2021proximal",
+      "acquisition": "Proximal2021v4",
+      "url": "https://arxiv.org/pdf/2010.03106v4",
+      "locator": "PDF4 Definition1 and Theorem1;PDF14 Section1.4 erratum;PDF17-20 Algorithm1,Lemmas1,2,4 and Theorem1 completion;PDF17 pixels",
+      "fact": "Old RGO conditional plus Gaussian alternating chain is stationary and W2-contractive1/(1+eta*mu);one-step KL<=Delta^2/(2eta),TV errors sum. v4 explicitly repairs original Theorem1 proof through W2 after conductance warmness bottleneck.",
+      "boundary": "Original revised v4,not incorrectly reuse COLT proof;RGO is an oracle abstraction whose implementation cost still must be supplied;AppendixA/general base samplers not fully read."
+    },
+    {
+      "key": "chewi2023lower",
+      "acquisition": "Chewi2023v2-web",
+      "url": "https://arxiv.org/pdf/2304.02599v2",
+      "locator": "PDF34 Lemma39 statement/selected setup;PDF37-38 Theorem45 statement and proof,original web PDF text",
+      "fact": "Gaussian query lower strategy and rotated block-Krylov reduction already predate F139;Theorem45 has Omega_delta(sqrt(kappa)*logd) under kappa<=d^(1/5-delta) at universal constantTV accuracy.",
+      "boundary": "Lemma39 entire proof and preceding block-span proof not fully audited;no local PDF bytes/hash or pixels,18MB PDF not downloaded. Universal constantaccuracy does not by itself pin F139 TV1/10 or condition interval1..2."
+    }
+  ],
+  "original_acquisitions": [
+    {
+      "id": "Picard2026v1",
+      "url": "https://arxiv.org/pdf/2609.06906v1",
+      "sha256": "aba2d6b90ea07ca43600802f1c3ca3cebf6e792513506ccc88ea751877e807c7",
+      "bytes": 717704,
+      "normal_TLS": true,
+      "retained_fulltext": false
+    },
+    {
+      "id": "Cloud2026v1",
+      "url": "https://arxiv.org/pdf/2609.38710v1",
+      "sha256": "51674ab06395e3e7faf8805365e9fdc5497dab5a57e7383861c813186cb81e7c",
+      "bytes": 1057237,
+      "normal_TLS": true,
+      "retained_fulltext": false
+    },
+    {
+      "id": "Proximal2021v4",
+      "url": "https://arxiv.org/pdf/2010.03106v4",
+      "sha256": "6dc965b3f9d4a56d85363f4e17c00e0dfa2b85b597647578ce1df5971e614679",
+      "bytes": 681041,
+      "normal_TLS": true,
+      "retained_fulltext": false
+    }
+  ],
+  "failed_acquisitions": [],
+  "pixel_inspections": [
+    {
+      "name": "F139-theorem",
+      "source": "F139",
+      "pdf_page": 2,
+      "sha256": "600edb7438b87b8c56a1e70bd50d2985885ccbcd7909910e83004cde38d741ca",
+      "bytes": 342680,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "F139-trace",
+      "source": "F139",
+      "pdf_page": 16,
+      "sha256": "d019277b49257cc4626baf7de539b3d50f81692c5fbddc30d59348e4196743f3",
+      "bytes": 258075,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "F139-depth",
+      "source": "F139",
+      "pdf_page": 36,
+      "sha256": "b1226b9dc71f920136e8298842174d19d136f0b75edd0154926e54719c1d680c",
+      "bytes": 294216,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "F139-seed",
+      "source": "F139",
+      "pdf_page": 35,
+      "sha256": "4048990ae2bb9767e6582aa586a978813a5b539b3dc7eae9aafbfca5e49125fa",
+      "bytes": 320668,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "F139-absorption",
+      "source": "F139",
+      "pdf_page": 42,
+      "sha256": "1f66ff94042160469bd08d4e192c2fc39d482511ac5b035d81cbb03010fa544e",
+      "bytes": 371713,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "Picard-main",
+      "source": "Picard2026v1",
+      "pdf_page": 39,
+      "sha256": "a64d43b3439a8f09a510d6cabde8273460d9d8a224e79c8b4ba927cf8beff487",
+      "bytes": 231082,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "Cloud-main",
+      "source": "Cloud2026v1",
+      "pdf_page": 3,
+      "sha256": "0952badc66f3c33020afc5571088fa5d7edf8a51719a78a7897bfd67a881c29d",
+      "bytes": 346879,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "Proximal-contraction",
+      "source": "Proximal2021v4",
+      "pdf_page": 17,
+      "sha256": "b0b08b94815701b3e523182d53b3605cc412ee08d9f8f06cf673f959daeeff5f",
+      "bytes": 277529,
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "version_audit": {
+    "reconciliation": [
+      {
+        "evidence": [
+          "CONTENTS.md:old-and-current-exact-path"
+        ],
+        "family_id": "F-139",
+        "new_path": "preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/article.pdf",
+        "old_path": "preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/article.pdf",
+        "old_title": "Subpolynomial query complexity for well-conditioned log-concave sampling",
+        "status": "unchanged_catalogue_path"
+      }
+    ],
+    "archived_replacement_rows": 0,
+    "local_path_git_log": [
+      "adc7f1241b42e322a6451854ab7e4b4c146bf78a 2026-10-06T14:58:50-07:00 Initial commit"
+    ],
+    "scope": "Only local pinned path history and corpus reconciliation;no full remote history/priority audit. Cover Sept26 is not claimed as initial content date;current initial Git snapshot Oct6 includes subsequent Sept30 source."
+  },
+  "bibliography_bindings": 23,
+  "external_works": 23,
+  "historical_roots_selected_checked": 4,
+  "new_candidate_count": 0,
+  "new_numerical_run": false,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "dependency_closure_complete": false,
+  "gaps": [
+    "Current natural source all read/decomposed;23 bibliography entries but only4 original works selected scopes checked,not complete historical or transitive proof lineage.",
+    "Selected formal definitions/endpoints match main quantifiers;36 support statements not separately proof-mapped,326 static files not whole-file reading or successful build.",
+    "Explicit finite-d fallback and lower-proof constants differ natural/formal;displayed natural limsup identity not independently certified.",
+    "No finite-precision/noisy-oracle robustness,explicit practical C_epsilon,numerical implementation or actual application cost advantage established.",
+    "No application experiment or newly promoted candidate in this package;conditional ten-domain/cross-family maps await real assumptions/callers rather than weakening the oracle model.",
+    "Human mathematical/specification grading and second-provider audit deferred,not waived;full family/history completion remains0."
+  ]
+}

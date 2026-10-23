@@ -1,0 +1,214 @@
+{
+  "receipt_type": "Execution-only actual reading ranges;not canonical complete-source or family research",
+  "work_package": "WP-093",
+  "family_id": "F-139",
+  "saved_at": "2026-10-22T05:45:26.269291+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "files": [
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/README.md",
+      "sha256": "8033d0538131895069c3b9203f94325d16038244a9ccb0efc1c1671f4ae0c2e5",
+      "lines": 17,
+      "body_read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/divergence-trace-opening.tex",
+      "sha256": "632f1734866c4a45a18a88b74a3db1629c8eab6a7037ad63e0365ed62459c530",
+      "lines": 31,
+      "body_read_ranges": [
+        [
+          1,
+          31
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/figures/implementation-two-depths.tex",
+      "sha256": "68cf307c5db3888838957ebace6262f6ccbca794ca77c008ae33f34927f7e175",
+      "lines": 17,
+      "body_read_ranges": [
+        [
+          1,
+          17
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/main.tex",
+      "sha256": "d4fbad5d383699ceadc3bb629fd8801a89235e6605be4155db52ff89af5b9343",
+      "lines": 74,
+      "body_read_ranges": [
+        [
+          1,
+          74
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/references.bib",
+      "sha256": "8dcec72f3f870052992f6b7782848d10bdc08b7175816021e7a224aed49498c4",
+      "lines": 254,
+      "body_read_ranges": [
+        [
+          1,
+          254
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/centering.tex",
+      "sha256": "9f371eaa5a4375c164af0f97f411bb2d4eb903e45d75fea654e0af3958416b20",
+      "lines": 414,
+      "body_read_ranges": [
+        [
+          1,
+          414
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/divergence.tex",
+      "sha256": "c11c00f00860dc1809fba70a25a3671a4bbae6f6a20c780ce16e795ae923ddf2",
+      "lines": 535,
+      "body_read_ranges": [
+        [
+          1,
+          535
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/implementation.tex",
+      "sha256": "b29306f158ee12993bc10db1e09aed76a117df7f2801d75d4b742dbff5a2f49d",
+      "lines": 729,
+      "body_read_ranges": [
+        [
+          1,
+          729
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/introduction.tex",
+      "sha256": "b163dbf1f56f109ac7aad2e4efc4bab5294053b0f714723558ba826c40164ba2",
+      "lines": 269,
+      "body_read_ranges": [
+        [
+          1,
+          269
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/jets.tex",
+      "sha256": "491b791f10420652c77b0aa4bd7d4003818d649b2767f8f0a00db2cc8ed3337c",
+      "lines": 317,
+      "body_read_ranges": [
+        [
+          1,
+          317
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/lower.tex",
+      "sha256": "f80e59005550f5b026ec3acf3454b3819bb82398458030243853484273170f02",
+      "lines": 379,
+      "body_read_ranges": [
+        [
+          1,
+          379
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/numerics.tex",
+      "sha256": "44a382a57907b798f7c501c6c89749fe73c724ebcb37286ed9ce65609ee2aa9c",
+      "lines": 779,
+      "body_read_ranges": [
+        [
+          1,
+          779
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/preliminaries.tex",
+      "sha256": "c77a74b7fc780e67096a29a91a2014916ce619400e7a1d55c7460f80085a13f9",
+      "lines": 275,
+      "body_read_ranges": [
+        [
+          1,
+          275
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/preprints/Subpolynomial-query-complexity-for-well-conditioned-log-concave-sampling-September-26-2026/build/sections/sampling.tex",
+      "sha256": "26a89f4d85fb800ba2f279c49e321b78e7b10bc5ad9afb7e4a3cb63602201a0c",
+      "lines": 435,
+      "body_read_ranges": [
+        [
+          1,
+          435
+        ]
+      ],
+      "fully_read": true
+    }
+  ],
+  "status": "current_source_draft_curated_QA_passed_not_full_family",
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "observations": [
+    "Exact values and gradients;C2 potential Hessian I..2I and supplied minimizer0;fixed TV1/10",
+    "Worstcase queries on everyexecution not expected count;unrestricted measurable real computation between queries;C_epsilon/order depend on epsilon,no polylog runtime claim",
+    "Source introduction explicitly references subsequent September30preprint although coverdateSeptember26;current pinned version content must not be described as initial historical version without audit",
+    "Auxiliary noisy sampling/mean recursion and Gaussian seed covariance identity are only introductory descriptions so far;body/proof not audited",
+    "Auxiliary near-quadratic F may be nonconvex with Lipgradient<=d^-e;all centers allowed,error scalesD(x)=sqrt(d)+|g(x)|. Primitive produces Gaussian-convolved law with reserved independent half-Gaussian after allqueries,not unnoised target;noise removal stillunread. W2/TV smoothing and C2 curvature proof actuallyread.",
+    "Jets all-split cumulant lemma uses MGF finite near0 and polynomial Poincare,including singular Lipschitz images S=(Z,f/L). Appell repeated gradients use ambient polynomials and onlyDf,not higher derivatives of originalF.",
+    "Bounds control arbitrary Frobenius coefficient tensor partitions,not only rankone directional tests;C^n*n^(Cn)*beta^(n/2) is dimension independent but order dependent.",
+    "Conditional jets Uq=rho^-q derivativeq M extend smoothly at0 via cumulants a^-q;all splits include vector output. ODE probability transport onlyrho<1 andcompacttime;constructing conditionalmeans with actual finite gradientqueries and noise removal stillunread.",
+    "Divergence material identities and proof read:adjoint on distinguishedslot;single contraction requires eachfactorretainfreeslot,no selfcontraction allowed;every intermediateadjoint retains at least2slots.",
+    "Tensor divergence bound uniform over j and finitep through hightrace moments;IBPgraph has surviving tracechain,newedges between distinct primaries,Hessian>=2distinctprimaryneighbors,noHessian-Hessianedges;one closingtrace d^b absorbed by s>=(j+C)log(d+1). This is source argument,not independent proof certification.",
+    "Finalvector adjoint pays one sqrt(d) via Frobenius bound on singleton unfolding;fixed materialorder pathderivatives and mesh length cancel a-endpoint singularity. RMSsup overprobabilitytime not expected randompathsup. FigureTikZ orderP1,P2,H,P3,P4 and singleclosingtrace source read;not renderedpixels.",
+    "Centering kernel K^T=integral B_rho U1=1/r integral Bprime/rho;transpose/order essential,Bprime0=0 exact and quotientextends0. K neednot symmetric/positive and is for observableM*-u,notcoordinate Stein kernel.",
+    "Exactstationaryflow Ydot=-K^T G/s,Gdot=(M*-u)/s has smoothlocallyLipschitz linear-growth field,completeforward/backward;densitydivergencecancel gives stationarity. MarginalG1 independentY1,notinitialanchors.",
+    "Path output sG0+integralM*=u+sG1 still assumesidealsamplexi* andexactu invelocity;not yet finiteoraclealgorithm. Stationarytime derivatives use one-slot coefficientnorms/fixedtimeRMS,notexpectedpathsup;actualfiniteimplementation bodyunread.",
+    "Numerics uses global Picard layers independent of mesh cells;fixed dependencydepth3N^2+1 withN=ceil10(J+2);choose depth thenw then interpolationm. Hermite exactderivative0 removes kernel1/rho endpoint;forward correction cancels1/r,allcoefficients deterministic scalars.",
+    "Recursive compiler separates expression-depth from routine-height;uncachedtree duplicates eachoccurrence andcenter-supply subtree;sameparentlabels loseaccuracy once notperexpressiontier. Deterministic querypreserving translations withDs=delta^-t and seedcovariance sqrt(I-vvT/(4Ds^2));standalone childlaw only afterabsorption.",
+    "Querycap construction independent of response/accuracy assumptions:bound routineheightH,expand expressionfanout,chooseC3w<t/2 thenm. Ceps/order/dimensionthreshold andrealcomputation unrestricted;not practicalruntime.",
+    "Sampling uses noised proximalchain then fixedvariancehalving andmodeGaussianbase,actualunnoised target. Idealprefix replacement/data processing uses onlyidealhistorymoments,not assumesactualcentersideal. Finitedimfallback cappedceil(4*2^(d/2)) Gaussianvalue-rejection andzero onfailure;oldmethod may suffice onsmallworkloads.",
+    "Lowerbound independent Gaussianfamily:matrixvector query equivalentvalue-gradient;deferredHaar includes unrestrictedout-of-span outputs viaq+1Gaussianblocks notassumedindependentinputrotation. Uniformspanstatistic avoidfalsecoefficientindependence. Explicitcosinespectrum1..2,varrho=3-sqrt8,c0=1/(16log(1/varrho)),jointtestnotcomputablebyalgorithm required.",
+    "Full4254TeX+254Bib/README17 read;references23distinctbibliographykeys verified by parser;sourcecoverSeptember26 cites subsequentSeptember30preprint,currentpinnedcontent notinitialversionclaim. No numericalexperiment/sourcealgorithm/Leanbuild."
+  ],
+  "next_read": "WP094 APP27301 bounded four-certificate consumer/old-baseline qualification;no automatic numerical run",
+  "not_executed": [
+    "source sampling construction",
+    "numerical experiment",
+    "Lean build",
+    "Comparator"
+  ],
+  "canonical_ledger": "data/provenance/readings/F-139.json",
+  "canonical_analysis_id": "ANALYSIS-F-139",
+  "completed_at": "2026-10-22T06:12:50.520659+00:00",
+  "quality_evidence": "reports/reproducibility/20261022-log-concave",
+  "final_scope": "All current natural body read and39results/16methods curated;4 selected original works,8PDFpixels;selected formal main/upper/lower B,36supports C,not fullchain/build/humanreview. Lower separating event uses absolute quadratic form,not signed positive statistic."
+}

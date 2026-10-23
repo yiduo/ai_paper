@@ -1,0 +1,1483 @@
+{
+  "family_id": "F-304",
+  "work_package": "WP-103",
+  "generation_id": "GEN-20261023-100",
+  "at": "2026-10-23T06:27:56.352774+00:00",
+  "base_commit": "46923f1f1534c13aaffa3210620825e2738d173a",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscript_ids": [
+    "P-d5b8bdf01fefba04"
+  ],
+  "read_files": [
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/appendices/duality-signs.tex",
+      "lines": 226,
+      "bytes": 9243,
+      "sha256": "038a6d2804ccf806b71f381574dc8e87cdca0cd95dbf58733778286381a97cf5",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/figures/local-test.tex",
+      "lines": 32,
+      "bytes": 1354,
+      "sha256": "cdf1590806db622745bf81a025a1086f71c9347950b06f3f38b23dcc2c1ae9fc",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/main.tex",
+      "lines": 111,
+      "bytes": 3565,
+      "sha256": "e6263c35fa770842a323a0d107d954215a00d3b744863188ebb9c3256ea5944f",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/references.bib",
+      "lines": 452,
+      "bytes": 14862,
+      "sha256": "9070238e2daf4f5b33d976b9b7d8f12ef144b81699d5e5e3a28f5c653aed31ac",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "lines": 314,
+      "bytes": 16010,
+      "sha256": "df283b874400b28ad668debe32a00b8921b332ccba9d135a7e97c0ec2252be60",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "lines": 752,
+      "bytes": 33051,
+      "sha256": "b8544d62cafd1c59099547d8ea393fb8d7dad6170132c66509e664d764953227",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "lines": 472,
+      "bytes": 20250,
+      "sha256": "eb18eb8a92a51a001277c74138c4b0c29b31e8e5e53556e5405d4dbca7fdbab9",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "lines": 529,
+      "bytes": 22466,
+      "sha256": "663f9dc97ecc75839763d508ea177273d473ebb96fac4bf0f208de3a02815f49",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "lines": 538,
+      "bytes": 22788,
+      "sha256": "24d106f902399267b09f8ad6932972832392ca7b5da292e49aeb832f6049708b",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "lines": 527,
+      "bytes": 23271,
+      "sha256": "391518dab55e6cdc038dd6abbcfb191ebf07e8e8e2d3e60a2be2c4c07d5bac7d",
+      "actually_read": true
+    }
+  ],
+  "readme": {
+    "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/README.md",
+    "lines": 17,
+    "sha256": "333aa08e130933b13338120a07f6711600768ff297fafbeabb50756c6ccef332",
+    "actually_read": true,
+    "scope": "Selection metadata only;not source-body coverage"
+  },
+  "actual_read_ranges": {
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/appendices/duality-signs.tex": [
+      [
+        1,
+        226
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/figures/local-test.tex": [
+      [
+        1,
+        32
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/main.tex": [
+      [
+        1,
+        111
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/references.bib": [
+      [
+        1,
+        452
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        314
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex": [
+      [
+        1,
+        752
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex": [
+      [
+        1,
+        472
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex": [
+      [
+        1,
+        529
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex": [
+      [
+        1,
+        538
+      ]
+    ],
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex": [
+      [
+        1,
+        527
+      ]
+    ]
+  },
+  "source_sections": [
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/appendices/duality-signs.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/figures/local-test.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/main.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+    "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex"
+  ],
+  "source_tex_lines": 3501,
+  "bibliography_lines": 452,
+  "results": [
+    {
+      "id": "CLM-304-CAT-PRODUCT-SHIFT-SIGN",
+      "label": "cat:product-shift-sign",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/appendices/duality-signs.tex",
+      "statement_lines": [
+        122,
+        153
+      ],
+      "statement": "Suspending the first external-product input changes the two natural duality-comparison routes by(-1)^r only.",
+      "conditions": [
+        "All cochain shifts and Koszul/output-shift conventions fixed;kappa_j exponent jn-j(j-1)/2;translated biduality(-1)^(j(j+1)/2);not degree-dependent arbitrary endpoint signs."
+      ],
+      "constants_and_constructions": [
+        "All cochain shifts and Koszul/output-shift conventions fixed;kappa_j exponent jn-j(j-1)/2;translated biduality(-1)^(j(j+1)/2);not degree-dependent arbitrary endpoint signs."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-COR-LIE",
+      "label": "cor:lie",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        9,
+        14
+      ],
+      "statement": "A faithful jointly continuous action of a locally compact second-countable Hausdorff group on a connected Hausdorff second-countable finite-dimensional boundaryless manifold forces the group to be Lie.",
+      "conditions": [
+        "n>=1;faithful means trivial global kernel,not free stabilizers;noncompact/nonorientable/nontriangulable allowed. Dimension0 reduces to a point/trivial group."
+      ],
+      "constants_and_constructions": [
+        "n>=1;faithful means trivial global kernel,not free stabilizers;noncompact/nonorientable/nontriangulable allowed. Dimension0 reduces to a point/trivial group."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-MAIN",
+      "label": "thm:main",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        30,
+        35
+      ],
+      "statement": "Every jointly continuous Z_p action on that connected finite-dimensional manifold has nonzero closed kernel and hence factors through a finite quotient.",
+      "conditions": [
+        "Every prime p,n>=1;the kernel index is not quantified;no orbit-space dimension bound or transformation regularity assumed."
+      ],
+      "constants_and_constructions": [
+        "Every prime p,n>=1;the kernel index is not quantified;no orbit-space dimension bound or transformation regularity assumed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-CAT-SIMPLEX-GENERATORS",
+      "label": "cat:simplex-generators",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        98,
+        104
+      ],
+      "statement": "Closed simplex images generate the same pre-summand triangulated category;every completed object is a summand of one in the pre-summand category.",
+      "conditions": [
+        "Compact finite polyhedral sources and allowed continuous/semialgebraic maps;fullness and finite cones/sums/shifts;not arbitrary coproduct generation."
+      ],
+      "constants_and_constructions": [
+        "Compact finite polyhedral sources and allowed continuous/semialgebraic maps;fullness and finite cones/sums/shifts;not arbitrary coproduct generation."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-TEST-DUALITY",
+      "label": "prop:test-duality",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        182,
+        193
+      ],
+      "statement": "Verdier duality and its canonical biduality restrict to each compact-source generated test category;object and dual have a compact support bound.",
+      "conditions": [
+        "Test spaces and real sheaves;simplex boundary calculation plus proper-image comparison;does not assert finite-dimensional stalks or all ambient bounded objects reflexive."
+      ],
+      "constants_and_constructions": [
+        "Test spaces and real sheaves;simplex boundary calculation plus proper-image comparison;does not assert finite-dimensional stalks or all ambient bounded objects reflexive."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-TEST-PUSHFORWARD",
+      "label": "prop:test-pushforward",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        300,
+        312
+      ],
+      "statement": "Allowed direct images give exact composition-compatible duality functors;Rg_!=Rg_* on compact-supported test objects;open extension is fully faithful.",
+      "conditions": [
+        "g may be nonproper but objects and duals have compact support;generator compositions must stay allowed;not arbitrary restriction preservation."
+      ],
+      "constants_and_constructions": [
+        "g may be nonproper but objects and duals have compact support;generator compositions must stay allowed;not arbitrary restriction preservation."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-CAT-SYMMETRIC-CONE",
+      "label": "cat:symmetric-cone",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        435,
+        454
+      ],
+      "statement": "A symmetric possibly singular u:L->#L has a nonsingular neutral cone form for translated duality with compatible triangle identities.",
+      "conditions": [
+        "2 invertible in morphism groups;exactness delta=+/-1;psi v=-[1](#w),[1](#v)psi=delta[1](eta_L)w;all triangle/connecting signs required."
+      ],
+      "constants_and_constructions": [
+        "2 invertible in morphism groups;exactness delta=+/-1;psi v=-[1](#w),[1](#v)psi=delta[1](eta_L)w;all triangle/connecting signs required."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-CAT-INTERVAL-PRODUCTS",
+      "label": "cat:interval-products",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        505,
+        520
+      ],
+      "statement": "Interval-generated external products stay in the test category and the natural shifted product-duality comparison is invertible and pairing-compatible.",
+      "conditions": [
+        "B in thick<H,E0,E1>;A compact-source generated;proper-image/trace/shift coherence checked,not arbitrary objects or a general Kunneth assertion."
+      ],
+      "constants_and_constructions": [
+        "B in thick<H,E0,E1>;A compact-source generated;proper-image/trace/shift coherence checked,not arbitrary objects or a general Kunneth assertion."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-CAT-ENDPOINT-FORMS",
+      "label": "cat:endpoint-forms",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        623,
+        634
+      ],
+      "statement": "The sum of two endpoint pushforwards carries a neutral degree-r form with opposite diagonal scalar multiples and zero cross terms.",
+      "conditions": [
+        "Common c!=0;shifted duality signs;derived closed-support orthogonality and natural product comparison;not independent arbitrary endpoint signs."
+      ],
+      "constants_and_constructions": [
+        "Common c!=0;shifted duality signs;derived closed-support orthogonality and natural product comparison;not independent arbitrary endpoint signs."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-HOMOTOPY",
+      "label": "thm:homotopy",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/02-categories.tex",
+      "statement_lines": [
+        701,
+        714
+      ],
+      "statement": "Allowed homotopic test-space maps induce the same homomorphism on E_r and,for allowed semialgebraic homotopies,on corresponding P Witt groups.",
+      "conditions": [
+        "Every integer r;whole homotopy need not be proper because each relation is compactly supported;semialgebraic contractions must be allowed."
+      ],
+      "constants_and_constructions": [
+        "Every integer r;whole homotopy need not be proper because each relation is compactly supported;semialgebraic contractions must be allowed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-CUTOFF",
+      "label": "lem:cutoff",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        30,
+        40
+      ],
+      "statement": "A finite pre-summand construction admits a morphism from an O-supported compact-source construction that is invertible near closed K subset O.",
+      "conditions": [
+        "K closed,O open;source subdivisions with closure inside f^-1 O;cones require compatible lifted arrows;no effective mesh/modulus bound supplied."
+      ],
+      "constants_and_constructions": [
+        "K closed,O open;source subdivisions with closure inside f^-1 O;cones require compatible lifted arrows;no effective mesh/modulus bound supplied."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-COMPACT-SUPPORT",
+      "label": "prop:compact-support",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        114,
+        120
+      ],
+      "statement": "Open-extension image equals objects vanishing outside some compact subset of that open set,and is thick and duality stable.",
+      "conditions": [
+        "Actual support bound compact in U;use cutoff and genuine splitting;not every ambient restriction is in B(U)."
+      ],
+      "constants_and_constructions": [
+        "Actual support bound compact in U;use cutoff and genuine splitting;not every ambient restriction is in B(U)."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-GERMS",
+      "label": "thm:germs",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        165,
+        177
+      ],
+      "statement": "Hom in the ordinary Verdier quotient by B(U) is the filtered germ Hom near X minus U.",
+      "conditions": [
+        "Ambient derived restrictions;A,B in B(X);no summand closure or idempotent completion of quotient assumed;roofs and duality compatible."
+      ],
+      "constants_and_constructions": [
+        "Ambient derived restrictions;A,B in B(X);no summand closure or idempotent completion of quotient assumed;roofs and duality compatible."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-WITT-LOCALIZATION",
+      "label": "thm:witt-localization",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        227,
+        243
+      ],
+      "statement": "Integral Witt groups of B(U),B(X),and the ordinary quotient form a natural long exact sequence in every degree.",
+      "conditions": [
+        "Small-equivalent categories,full saturated thick duality-stable kernel,2 invertible,TR4+;boundary r->r-1 under W_r=W^-r;maps g(U) subset Uprime."
+      ],
+      "constants_and_constructions": [
+        "Small-equivalent categories,full saturated thick duality-stable kernel,2 invertible,TR4+;boundary r->r-1 under W_r=W^-r;maps g(U) subset Uprime."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-OPEN-COVER",
+      "label": "prop:open-cover",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        301,
+        313
+      ],
+      "statement": "An open cover X=U union V induces a fully faithful exact duality-compatible quotient inclusion whose image is dense up to actual summands.",
+      "conditions": [
+        "B(V)/B(U intersection V)->B(X)/B(U);does not assert the quotients equivalent before completion."
+      ],
+      "constants_and_constructions": [
+        "B(V)/B(U intersection V)->B(X)/B(U);does not assert the quotients equivalent before completion."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-DENSE-DOUBLING",
+      "label": "thm:dense-doubling",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        344,
+        362
+      ],
+      "statement": "A full replete triangulated duality-stable dense inclusion admits a reverse map on Witt groups with both composites multiplication by2.",
+      "conditions": [
+        "Every larger object a genuine summand of smaller object;D(q)=q perpendicular q perpendicular H(x[1]);neutral relations descend without assuming smaller category summand-closed."
+      ],
+      "constants_and_constructions": [
+        "Every larger object a genuine summand of smaller object;D(q)=q perpendicular q perpendicular H(x[1]);neutral relations descend without assuming smaller category summand-closed."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LOC-COR-OPEN-COVER-BOUND",
+      "label": "loc:cor-open-cover-bound",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/03-localization.tex",
+      "statement_lines": [
+        462,
+        467
+      ],
+      "statement": "The open-cover comparison on quotient Witt groups has kernel and cokernel killed by2 in every degree.",
+      "conditions": [
+        "Either generated test category;use dense inclusion and doubling;not equality before rationalization."
+      ],
+      "constants_and_constructions": [
+        "Either generated test category;use dense inclusion and doubling;not equality before rationalization."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LAT-POINT-GROUPS",
+      "label": "lat:point-groups",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        20,
+        33
+      ],
+      "statement": "Both point theories are Z in degree0 mod4 and zero otherwise;S0 is two copies with addition to the point.",
+      "conditions": [
+        "Real finite-dimensional bounded complexes at a point;signature identifies degree0;not coefficient change of the sheaf field."
+      ],
+      "constants_and_constructions": [
+        "Real finite-dimensional bounded complexes at a point;signature identifies degree0;not coefficient change of the sheaf field."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LAT-FINITE-CHASES",
+      "label": "lat:finite-chases",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        72,
+        98
+      ],
+      "statement": "In exact five-term rows,outer comparison kernels/cokernels killed byq imply middle ones killed byq^3;a square with horizontal2 bounds transports q to4q.",
+      "conditions": [
+        "Integer abelian groups,complete commuting exact diagrams;positive integral q;outer hypotheses include all four specified maps. Square cokernel even has2q bound;not a sharp exponent or an algorithm for discovering q."
+      ],
+      "constants_and_constructions": [
+        "Integer abelian groups,complete commuting exact diagrams;positive integral q;outer hypotheses include all four specified maps. Square cokernel even has2q bound;not a sharp exponent or an algorithm for discovering q."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-BOUNDED-COMPARISON",
+      "label": "thm:bounded-comparison",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        125,
+        133
+      ],
+      "statement": "F_r(S^j)->E_r(S^j) has kernel and cokernel killed by2^e_j with e_j independent of degree r.",
+      "conditions": [
+        "Finite sphere-cover/localization chases;j>=0,e0=0,e_j=9e_(j-1)+6=3(9^j-1)/4;uniform in every class,r;not merely elementwise2-primary torsion."
+      ],
+      "constants_and_constructions": [
+        "Finite sphere-cover/localization chases;j>=0,e0=0,e_j=9e_(j-1)+6=3(9^j-1)/4;uniform in every class,r;not merely elementwise2-primary torsion."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-SPHERE-RANK",
+      "label": "prop:sphere-rank",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        203,
+        214
+      ],
+      "statement": "Rational sphere groups split into point and dimension-shifted point groups;in odd degree d on S^d the group is a rational line.",
+      "conditions": [
+        "G=F or E,j>=0;split point projection plus dense quotient comparison;does not alone supply bounded integral denominators."
+      ],
+      "constants_and_constructions": [
+        "G=F or E,j>=0;split point projection plus dense quotient comparison;does not alone supply bounded integral denominators."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-GENERIC-SIGNATURE",
+      "label": "prop:generic-signature",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        262,
+        280
+      ],
+      "statement": "Each finite semialgebraic construction/relation is locally finite-constant on a common dense open ball,where signature is integral and detects the full rational image Z*u_F,d.",
+      "conditions": [
+        "Ball chosen after finite list including lagrangian data;Hardt/triangulation input;no single globally defined generic signature on arbitrary continuous images;d odd>=3."
+      ],
+      "constants_and_constructions": [
+        "Ball chosen after finite list including lagrangian data;Hardt/triangulation input;no single globally defined generic signature on arbitrary continuous images;d odd>=3."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-SPHERE-LATTICE",
+      "label": "thm:sphere-lattice",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        370,
+        386
+      ],
+      "statement": "The rational image of E_d(S^d) lies in L_d^-1 Z*u_d and spans its nonzero orientation line.",
+      "conditions": [
+        "d odd>=3;L_d=2^e_d fixed by dimension/comparison before every action,test,partition,p,k;real sheaf coefficients,integer Witt classes."
+      ],
+      "constants_and_constructions": [
+        "d odd>=3;L_d=2^e_d fixed by dimension/comparison before every action,test,partition,p,k;real sheaf coefficients,integer Witt classes."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-DEGREE-ACTION",
+      "label": "prop:degree-action",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        406,
+        418
+      ],
+      "statement": "A sphere degree-s map multiplies its rational Witt orientation line bys;the same orientation-class pushforward holds for closed connected oriented triangulable d-manifold sources.",
+      "conditions": [
+        "d odd>=3;not all arbitrary sources;finite models/simplicial approximation and local sheet signs;source triangulable does not mean PL manifold required."
+      ],
+      "constants_and_constructions": [
+        "d odd>=3;not all arbitrary sources;finite models/simplicial approximation and local sheet signs;source triangulable does not mean PL manifold required."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-CONTRACTIBLE-QUOTIENT",
+      "label": "prop:contractible-quotient",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/04-lattice.tex",
+      "statement_lines": [
+        487,
+        502
+      ],
+      "statement": "Removing a nonempty contractible open test set gives an integral isomorphism E_d(X)->W_d(T(X)/T(U)).",
+      "conditions": [
+        "d odd>=3;E_d(U)=0 and E_(d-1)(U)->E_(d-1)(X) split injective in both odd congruence classes;ordinary quotient,no rationalization/idempotent split."
+      ],
+      "constants_and_constructions": [
+        "d odd>=3;E_d(U)=0 and E_(d-1)(U)->E_(d-1)(X) split injective in both odd congruence classes;ordinary quotient,no rationalization/idempotent split."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-CHART-REDUCTION",
+      "label": "prop:chart-reduction",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        14,
+        21
+      ],
+      "statement": "A faithful Z_p action has a faithful orientation-preserving open subgroup on a connected invariant subset of one chart.",
+      "conditions": [
+        "Newman periodic rigidity;not globally free;replace H by2H,index2 only atp2;invariant chart subset need not have regular boundary."
+      ],
+      "constants_and_constructions": [
+        "Newman periodic rigidity;not globally free;replace H by2H,index2 only atp2;invariant chart subset need not have regular boundary."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-COLLAPSE",
+      "label": "lem:collapse",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        88,
+        103
+      ],
+      "statement": "Collapse S^d minus an arbitrary open W to infinity is continuous;the compact group action extends jointly continuously and all closed-subgroup orbit compactifications are metrizable.",
+      "conditions": [
+        "W=O times R^(d-n),d>n odd>=3;compact saturation GK controls infinity;invariant metric max and quotient minimum,not regularity of W boundary."
+      ],
+      "constants_and_constructions": [
+        "W=O times R^(d-n),d>n odd>=3;compact saturation GK controls infinity;invariant metric max and quotient minimum,not regularity of W boundary."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-AVERAGED-TEST",
+      "label": "lem:averaged-test",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        135,
+        150
+      ],
+      "statement": "After shrinking to an open subgroup,a normalized Haar average descends to a degree-one sphere test on the compact orbit space.",
+      "conditions": [
+        "Sphere-valued pinch close by<1/2 before averaging;normalizing homotopy norm>=1/2,compact support fixed;no finite sampling substitute for exact Haar/continuity."
+      ],
+      "constants_and_constructions": [
+        "Sphere-valued pinch close by<1/2 before averaging;normalizing homotopy norm>=1/2,compact support fixed;no finite sampling substitute for exact Haar/continuity."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-ORBIT-INJECTIVITY",
+      "label": "lem:orbit-injectivity",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        209,
+        224
+      ],
+      "statement": "Orbit direct image of a constant field sheaf has no higher images;over Q the unit has a natural sheaf retraction and Cech pullback is injective.",
+      "conditions": [
+        "Compact metrizable Z_p space,zero-dimensional compact orbits,proper base change;Q average rational from finite quotients;retraction not asserted for arbitrary characteristic."
+      ],
+      "constants_and_constructions": [
+        "Compact metrizable Z_p space,zero-dimensional compact orbits,proper base change;Q average rational from finite quotients;retraction not asserted for arbitrary characteristic."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-ODD-SPHERE-NULL",
+      "label": "lem:odd-sphere-null",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        287,
+        292
+      ],
+      "statement": "A rationally trivial sphere map from a compact metrizable K becomes nullhomotopic after some positive-degree postcomposition.",
+      "conditions": [
+        "d odd>=3;finite-nerve reduction,Serre finiteness and degree2q torsion-killing,telescope to K(Q,d);K may have arbitrary dimension;no effective/uniform degree s supplied."
+      ],
+      "constants_and_constructions": [
+        "d odd>=3;finite-nerve reduction,Serre finiteness and degree2q torsion-killing,telescope to K(Q,d);K may have arbitrary dimension;no effective/uniform degree s supplied."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-FINITE-SHEETS",
+      "label": "lem:finite-sheets",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        386,
+        407
+      ],
+      "statement": "For every k,a nonempty open orbit region has p^k labeled finite-quotient sheets and an equivariant locally constant root-of-unity multiplier.",
+      "conditions": [
+        "Faithful Z_p action,stabilizer subset p^kG at some point;finite quotient sheets,not free full action;region may depend on k."
+      ],
+      "constants_and_constructions": [
+        "Faithful Z_p action,stabilizer subset p^kG at some point;finite quotient sheets,not free full action;region may depend on k."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-TOP-NEIGHBORHOOD-EXTENSION",
+      "label": "top:neighborhood-extension",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        440,
+        446
+      ],
+      "statement": "A sphere-valued homotopy from a closed subset of compact metrizable Y extends to Y while retaining its initial map.",
+      "conditions": [
+        "Coordinate Tietze extension,positive-norm neighborhood and time cutoff lambda;not a general retraction or arbitrary target theorem."
+      ],
+      "constants_and_constructions": [
+        "Coordinate Tietze extension,positive-norm neighborhood and time cutoff lambda;not a general retraction or arbitrary target theorem."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-MOVE-TEST",
+      "label": "prop:move-test",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/05-local-tests.tex",
+      "statement_lines": [
+        478,
+        489
+      ],
+      "statement": "The fixed averaged orbit test can,after some positive-degree postcomposition,be homotoped constant outside any prescribed nonempty open region away from infinity.",
+      "conditions": [
+        "Use rational orbit injection,odd-sphere killing,and closed homotopy extension;s may depend on region and k;pinch transport stays in a compact subset of W."
+      ],
+      "constants_and_constructions": [
+        "Use rational orbit injection,odd-sphere killing,and closed homotopy extension;s may depend on region and k;pinch transport stays in a compact subset of W."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-CHARACTER-COPRODUCT",
+      "label": "lem:character-coproduct",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        37,
+        52
+      ],
+      "statement": "The orbit coefficient sheaf is an algebraic character direct sum;proper compact test images preserve its indicated derived coproducts.",
+      "conditions": [
+        "C means a positive real plane with complex scalar operators;compact-fiber finite-index sections/soft resolutions;noncompact-open sections need not globally have finite character support;not Hilbert completion."
+      ],
+      "constants_and_constructions": [
+        "C means a positive real plane with complex scalar operators;compact-fiber finite-index sections/soft resolutions;noncompact-open sections need not globally have finite character support;not Hilbert completion."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-LEM-ORTHOGONALITY",
+      "label": "lem:orthogonality",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        150,
+        155
+      ],
+      "statement": "Disjoint character subsums are real-orthogonal and finite-partition projectors are self-adjoint.",
+      "conditions": [
+        "T action convention byinverse translation,J dagger=-J,T dagger=T^-1;complex scalar structure distinguishes conjugate eigensheaves;bounded ambient retracts,not test-subcategory membership."
+      ],
+      "constants_and_constructions": [
+        "T action convention byinverse translation,J dagger=-J,T dagger=T^-1;complex scalar structure distinguishes conjugate eigensheaves;bounded ambient retracts,not test-subcategory membership."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-SUM-CLASSES",
+      "label": "prop:sum-classes",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        252,
+        260
+      ],
+      "statement": "Involution-defined integral character classes sum to twice the total test form.",
+      "conditions": [
+        "z_i=[A,alpha]+[A,alpha(2e_i-1)] lifted by integral quotient iso;S=sum E_jP_j,S^2=1,S dagger Q0 S=Q;no quotient-idempotent images required."
+      ],
+      "constants_and_constructions": [
+        "z_i=[A,alpha]+[A,alpha(2e_i-1)] lifted by integral quotient iso;S=sum E_jP_j,S^2=1,S dagger Q0 S=Q;no quotient-idempotent images required."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-CLASS-COVARIANCE",
+      "label": "prop:class-covariance",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        295,
+        303
+      ],
+      "statement": "Compact test maps push each integral character class to its composite-test class.",
+      "conditions": [
+        "Fixed finite partition;contractible-neighborhood bases at marked target values;compact X gives closed g(X minus N);control actual quotient roofs/germs,not just objects."
+      ],
+      "constants_and_constructions": [
+        "Fixed finite partition;contractible-neighborhood bases at marked target values;compact X gives closed g(X minus N);control actual quotient roofs/germs,not just objects."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-CLASS-HOMOTOPY",
+      "label": "prop:class-homotopy",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        345,
+        348
+      ],
+      "statement": "Homotopic sphere test maps yield equal integral character classes for a fixed partition.",
+      "conditions": [
+        "Marked value may move;finite close-pair subdivision via C_d={dot>=0},a2d-dimensional compact test with form degreed;normalization norm^2>=1/2."
+      ],
+      "constants_and_constructions": [
+        "Marked value may move;finite close-pair subdivision via C_d={dot>=0},a2d-dimensional compact test with form degreed;normalization norm^2>=1/2."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-PROP-EQUAL-PARTS",
+      "label": "prop:equal-parts",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        411,
+        419
+      ],
+      "statement": "For a test concentrated on finite quotient sheets,the cyclic partition classes are equal integrally.",
+      "conditions": [
+        "Locally constant unit beta is a real isometry and conjugates characters byzeta^-1;ordinary quotient/germ and integral lift,not arbitrary partition equality."
+      ],
+      "constants_and_constructions": [
+        "Locally constant unit beta is a real isometry and conjugates characters byzeta^-1;ordinary quotient/germ and integral lift,not arbitrary partition equality."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    },
+    {
+      "id": "CLM-304-THM-CONTRADICTION",
+      "label": "thm:contradiction",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/06-character-classes.tex",
+      "statement_lines": [
+        445,
+        449
+      ],
+      "statement": "An orientation-preserving continuous Z_p action on a connected open subset of R^n has nonzero kernel.",
+      "conditions": [
+        "First fix d>n odd,L_d;then choose m=p^k>4L_d. Rationally cancel s>0 without changing original integral classes;equal parts4/m contradict4L_d/m integer;includesp2."
+      ],
+      "constants_and_constructions": [
+        "First fix d>n odd,L_d;then choose m=p^k>4L_d. Rationally cancel s>0 without changing original integral classes;equal parts4/m contradict4L_d/m integer;includesp2."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    }
+  ],
+  "unlabelled_results": [
+    {
+      "id": "CLM-304-UNLABELLED-FLOW-ITERATE",
+      "label": null,
+      "source_binding": "unlabelled paragraph,not a theorem environment",
+      "path": "math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "statement_lines": [
+        42,
+        55
+      ],
+      "statement": "A homeomorphism whose cyclic subgroup has genuinely compact closure in Homeo(M) has some positive iterate equal to the time-one map of a continuous real flow.",
+      "conditions": [
+        "M satisfies cor:lie;compact closure is exact in compact-open topology. Positive iterate m exists without effective bound;no logarithm algorithm,smooth flow,original map m=1 or finite recurrence certificate. Pardon Conjecture1.4 already states this target."
+      ],
+      "constants_and_constructions": [
+        "K compact abelian Lie;K0 finite-index torus;surjective torus exponential after some iterate."
+      ],
+      "source_claim_grade": "C",
+      "dependency_chain_grade": "unknown"
+    }
+  ],
+  "methods": [
+    {
+      "id": "PART-304-COMPACT-SOURCE-CUTOFF",
+      "input": "Finite generated construction,A and closedK subset openO",
+      "output": "O-supported replacement invertible as germ",
+      "conditions": "Compact polyhedral source subdivisions;no computable modulus/mesh bound or arbitrary restriction closure",
+      "source_label": "lem:cutoff"
+    },
+    {
+      "id": "PART-304-CANONICAL-BIDUALITY",
+      "input": "Compact-source generator and proper duality comparison",
+      "output": "Canonical Verdier reflexivity propagated through finite cones/summands",
+      "conditions": "Infinite-dimensional stalks allowed;not algebraic stalk double dual or all ambient complexes",
+      "source_label": "prop:test-duality"
+    },
+    {
+      "id": "PART-304-SUPPORT-PUSHFORWARD",
+      "input": "Compact supported test object and allowedmap",
+      "output": "Exact duality-compatible Rg_!=Rg_*",
+      "conditions": "Map may be nonproper;composition of allowed generators and compact support essential",
+      "source_label": "prop:test-pushforward"
+    },
+    {
+      "id": "PART-304-CYLINDER-PAIRING",
+      "input": "Degree-r symmetric form and interval boundary",
+      "output": "Neutral opposite-endpoint form and homotopy equality",
+      "conditions": "2 invertible;common(-1)^r normalization and natural product/trace signs",
+      "source_label": "cat:endpoint-forms"
+    },
+    {
+      "id": "PART-304-GERM-ROOFS",
+      "input": "Objects of B(X),openU and ambient restrictions near complement",
+      "output": "Ordinary quotient Hom via filtered germ Hom",
+      "conditions": "Roofs,compatible cutoffs and compact support;no idempotent completion assumption",
+      "source_label": "thm:germs"
+    },
+    {
+      "id": "PART-304-DENSE-DOUBLING",
+      "input": "Full replete triangulated dense inclusion with duality",
+      "output": "Reverse Witt homomorphism with both composites2",
+      "conditions": "D(q)=q+q+H(x[1]);lagrangian descent;density not arbitrary summand closure",
+      "source_label": "thm:dense-doubling"
+    },
+    {
+      "id": "PART-304-FINITE-DIAGRAM-EXPONENT",
+      "input": "Complete commuting exact five-term abelian rows and outerq-annihilation",
+      "output": "Uniform middleq^3 bound;2-bound square gives4q",
+      "conditions": "Not sharp exponent;must obtain/verify all exactness,maps andq;no claimed algorithm gain",
+      "source_label": "lat:finite-chases"
+    },
+    {
+      "id": "PART-304-UNIFORM-SPHERE-EXPONENT",
+      "input": "Finite sphere-cover comparison and all-degree induction",
+      "output": "e0=0,e_j=9e_(j-1)+6 bounds comparison2-torsion",
+      "conditions": "Uniform in degree/class;dimension fixed first;rational isomorphism alone insufficient",
+      "source_label": "thm:bounded-comparison"
+    },
+    {
+      "id": "PART-304-FINITE-RELATION-SIGNATURE",
+      "input": "Finite semialgebraic objects,forms and lagrangian relation",
+      "output": "Integral generic signature on a chosen common ball",
+      "conditions": "Ball depends on finite relation;not global or arbitrary continuous-map constructibility",
+      "source_label": "prop:generic-signature"
+    },
+    {
+      "id": "PART-304-INTEGRAL-CONTRACTIBLE-QUOTIENT",
+      "input": "Oddd compact test and nonemptycontractibleopenU",
+      "output": "Integral Witt quotient lift without image objects",
+      "conditions": "Split injection in degree d-1;both d mod4 cases;not merely rational lifting",
+      "source_label": "prop:contractible-quotient"
+    },
+    {
+      "id": "PART-304-LOCAL-FAITHFUL-CHART",
+      "input": "Faithful continuous Z_p manifold action",
+      "output": "Orientation-preserving faithful open subgroup on invariant chartsubset",
+      "conditions": "Newman input;no boundaryregularity/freeaction/quantitative subgroupindex",
+      "source_label": "prop:chart-reduction"
+    },
+    {
+      "id": "PART-304-NORMALIZED-HAAR-TEST",
+      "input": "Sphere pinch and sufficiently small compact subgroup",
+      "output": "Invariant degree-one test",
+      "conditions": "Uniform<1/2 closeness,exactHaar andnorm>=1/2;not finitely sampled periodicity",
+      "source_label": "lem:averaged-test"
+    },
+    {
+      "id": "PART-304-ORBIT-RATIONAL-RETRACTION",
+      "input": "Compact metrizable Z_p space andQ constant sheaf",
+      "output": "Natural sheaf average and injective Cech pullback",
+      "conditions": "Zero-dimensional compactorbits/finitequotients;not arbitraryfield trace division",
+      "source_label": "lem:orbit-injectivity"
+    },
+    {
+      "id": "PART-304-FINITE-NERVE-FACTORIZATION",
+      "input": "Continuous compactmetrizable sphere map",
+      "output": "Finite nerve approximation respecting rational cohomology",
+      "conditions": "Image diameter<1/4,refinement and partitionofunity;no prescribedcovercost",
+      "source_label": "lem:odd-sphere-null"
+    },
+    {
+      "id": "PART-304-ODD-SPHERE-TELESCOPE",
+      "input": "Odd sphere map with trivial rationalorientationpullback",
+      "output": "Some positive-degree null postcomposition",
+      "conditions": "Serre finiteness/degree2q killing;no bounded s or arbitrary even sphere",
+      "source_label": "lem:odd-sphere-null"
+    },
+    {
+      "id": "PART-304-CLOSED-HOMOTOPY-EXTENSION",
+      "input": "Closed subset homotopy into sphere oncompactmetricY",
+      "output": "Extension withfixed initialmap",
+      "conditions": "Tietze coordinateextension,norm>1/2 neighborhood,timecutoff;not all targets",
+      "source_label": "top:neighborhood-extension"
+    },
+    {
+      "id": "PART-304-FINITE-QUOTIENT-SHEETS",
+      "input": "Faithful Z_p action and chosenk",
+      "output": "Local p^k quotient sheetlabels and multiplierbeta",
+      "conditions": "Regiondependsk;originalaction neednotfree;no effective regiondiscovery",
+      "source_label": "lem:finite-sheets"
+    },
+    {
+      "id": "PART-304-ALGEBRAIC-CHARACTER-SUM",
+      "input": "Orbit sheaf of locallyconstant complexvalues",
+      "output": "Algebraic sheaf directsum and compacttest derivedsum",
+      "conditions": "Complex asreal2plane;not analyticcompletion or globallyfinite support onnoncompactopen",
+      "source_label": "lem:character-coproduct"
+    },
+    {
+      "id": "PART-304-REAL-CHARACTER-ORTHOGONALITY",
+      "input": "T andcomplexscalars actingisometrically",
+      "output": "Selfadjoint finitepartitionprojectors",
+      "conditions": "Jdagger=-J;distinguish conjugates;ambientderivedretracts bounded",
+      "source_label": "lem:orthogonality"
+    },
+    {
+      "id": "PART-304-INVOLUTION-WITT-CLASS",
+      "input": "Selfadjoint projector inordinaryquotient",
+      "output": "Integral doubled selectedclass via2e-1 and quotientiso",
+      "conditions": "No imageobject/splitting asserted;markedpointcontractibleneighborhoodbasis",
+      "source_label": "prop:sum-classes"
+    },
+    {
+      "id": "PART-304-PROJECTOR-PERMUTATION-ISOMETRY",
+      "input": "Completeorthogonal finiteprojectorpartition",
+      "output": "S=sum E_jP_j givesS^2=1,SdaggerQ0S=Q andclasssum",
+      "conditions": "Form/object ringidentities;checking finite matrixidentityalone not applicationgain",
+      "source_label": "prop:sum-classes"
+    },
+    {
+      "id": "PART-304-CLOSE-PAIR-TEST-HOMOTOPY",
+      "input": "Uniformly closepair ofsphere tests",
+      "output": "Compact2d-dimensional test equates classpushforwards",
+      "conditions": "C_d dot>=0,norm^2>=1/2,finite homotopysubdivision;formdegree remainsd",
+      "source_label": "prop:class-homotopy"
+    },
+    {
+      "id": "PART-304-FIXED-LATTICE-CANCELLATION",
+      "input": "Fixed L_d lattice and integralclasses withsame s-multiplied rationalimages",
+      "output": "Cancelnonzero s thenusem>4L_d obstruction",
+      "conditions": "Do not cancelintegrally orenlargeL_dwiths;prime/exponent choicesafterdimensionbound",
+      "source_label": "thm:contradiction"
+    },
+    {
+      "id": "PART-304-COMPACT-CLOSURE-FLOW",
+      "input": "Homeomorphism with genuinelycompactcyclicclosure onmanifold",
+      "output": "Some positiveiterate is timeone ofcontinuousR-flow",
+      "conditions": "Exact compactclosure+sourceLieconclusion;no m bound,smoothness,logarithmalgorithm or approximatefiniteperiodicitycertificate",
+      "source_label": "cor:lie"
+    }
+  ],
+  "historical_references_by_key": {
+    "Balmer2000": "LIT-304-BALMER2000",
+    "BalmerWalter2002": "LIT-304-BALMERWALTER2002",
+    "HornbostelSchlichting2004": "LIT-304-HORNBOSTELSCHLICHTING2004",
+    "Woolf2008": "LIT-304-WOOLF2008",
+    "KashiwaraSchapira1990": "LIT-304-KASHIWARASCHAPIRA1990",
+    "SchapiraNotes": "LIT-304-SCHAPIRANOTES",
+    "StacksProperBaseChange": "LIT-304-STACKSPROPERBASECHANGE",
+    "StacksDerivedSums": "LIT-304-STACKSDERIVEDSUMS",
+    "Pardon2013": "LIT-304-PARDON2013",
+    "Hardt1980": "LIT-304-HARDT1980",
+    "Hatcher2002": "LIT-200-00F68475E7",
+    "RanickiWeiss2010": "LIT-304-RANICKIWEISS2010",
+    "Newman1931": "LIT-304-NEWMAN1931",
+    "DranishnikovFerryWeinberger2003": "LIT-304-DRANISHNIKOVFERRYWEINBERGER2003",
+    "BergfalkLupiniPanagiotopoulos2024": "LIT-304-BERGFALKLUPINIPANAGIOTOPOULOS2024",
+    "HardtLambrechtsTurchinVolic2011": "LIT-304-HARDTLAMBRECHTSTURCHINVOLIC2011",
+    "Serre1951": "LIT-304-SERRE1951",
+    "Serre1953": "LIT-304-SERRE1953",
+    "Hilbert1902": "LIT-304-HILBERT1902",
+    "Gleason1952": "LIT-304-GLEASON1952",
+    "MontgomeryZippin1952": "LIT-304-MONTGOMERYZIPPIN1952",
+    "Yamabe1953a": "LIT-304-YAMABE1953A",
+    "Yamabe1953b": "LIT-304-YAMABE1953B",
+    "MontgomeryZippin1955": "LIT-304-MONTGOMERYZIPPIN1955",
+    "Lee1997": "LIT-304-LEE1997",
+    "Pardon2019": "LIT-304-PARDON2019",
+    "BochnerMontgomery1946": "LIT-304-BOCHNERMONTGOMERY1946",
+    "RepovsScepin1997": "LIT-304-REPOVSSCEPIN1997",
+    "Maleshich1997": "LIT-304-MALESHICH1997",
+    "Martin1999": "LIT-304-MARTIN1999",
+    "Mj2012": "LIT-304-MJ2012",
+    "Shelukhin2024": "LIT-304-SHELUKHIN2024",
+    "Yang1960": "LIT-304-YANG1960",
+    "BredonRaymondWilliams1961": "LIT-304-BREDONRAYMONDWILLIAMS1961",
+    "Raymond1961": "LIT-304-RAYMOND1961",
+    "Verdier1966": "LIT-304-VERDIER1966",
+    "Coste2000": "LIT-304-COSTE2000",
+    "EilenbergSteenrod1952": "LIT-304-EILENBERGSTEENROD1952",
+    "StacksDerivedCategories": "LIT-304-STACKSDERIVEDCATEGORIES",
+    "StacksCechComparison": "LIT-304-STACKSCECHCOMPARISON"
+  },
+  "historical_selected_originals": [
+    {
+      "key": "Pardon2013",
+      "id": "LIT-304-PARDON2013",
+      "name": "Pardon2013.pdf",
+      "url": "https://www.math.stonybrook.edu/~jpardon/manuscripts/08_hilbertsmith.pdf",
+      "sha256": "e5ca7045fe34675aec074d82761eb43b2deee588e2be54e1406f7933053b69db",
+      "bytes": 263977,
+      "version": "Author manuscript dated2012-04-09,revised2013-01-22,24PDFpages;not asserted journal byte identity",
+      "actually_read_selected_scope": "PDF1-2 introduction,classical p-adic reduction,Conjecture1.4,Theorem1.5 regularity context;PDF13section4.1 full selected local reduction and start4.2 context",
+      "verified_contract": "Old main result dimension3;general reduction to p-adic actions and almost-periodic-flow target already present. Newman proof,Lee and full classical Lie inputs remain unread.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "key": "HornbostelSchlichting2004",
+      "id": "LIT-304-HORNBOSTELSCHLICHTING2004",
+      "name": "HornbostelSchlichting2003.pdf",
+      "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/marco_schlichting/research/hermlocn.pdf",
+      "sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "bytes": 505795,
+      "version": "Author preprint2003-09-11,37PDFpages;not asserted2004journal byte identity",
+      "actually_read_selected_scope": "PDF31-33 AppendixA.1/A.2 statement and proof actually read from pixels because embedded text garbled;PDF1date;34-35navigation only,AppendixB not credited",
+      "verified_contract": "Cofinal full triangulated duality-stable inclusion,1/2 invertible,K0 quotient and Tate Z/2 long exact12-periodic Witt sequence. Tate2-torsion already bounds kernel/cokernel by2. Recursive Balmer2000 proof inputs unread. Context to current direct reverse-map construction,not mandatory black-box replacement.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "key": "BalmerWalter2002",
+      "id": "LIT-304-BALMERWALTER2002",
+      "name": "BalmerWalter2002.pdf",
+      "url": "https://www.numdam.org/article/ASENS_2002_4_35_1_127_0.pdf",
+      "sha256": "ac9a29a764efa5591bb08ad56d6ad518661fd5dbcd3ef973f1da6f39907cf6d6",
+      "bytes": 324430,
+      "version": "Published2002pages127-152,26PDFpages",
+      "actually_read_selected_scope": "PDF5-7 and first paragraphPDF8,printed131-134;translated signs,definition1.1,proposition1.2,Theorem2.1 statement and selected proof/subquotient paragraph",
+      "verified_contract": "Small categories,2 invertible,full saturated duality-stable kernel and boundary symmetric-cone/TR4 signs. Base Balmer lemmas4.13/4.20/6.4 not audited;not complete recursive proof closure.",
+      "whole_work_and_recursive_history_complete": false
+    },
+    {
+      "key": "Woolf2008",
+      "id": "LIT-304-WOOLF2008",
+      "name": "Woolf2008.pdf",
+      "url": "https://ems.press/content/serial-article-files/43150?nt=1",
+      "sha256": "ee5c7178324ffd2ef2b5cc61e3ffadd20e0e8ea806250788e4864f51dbf07fed",
+      "bytes": 279987,
+      "version": "Published2008pages289-326,38PDFpages",
+      "actually_read_selected_scope": "Extracted text240-370section2.1 symmetric cone/lemma2.1;557-815section3 assumptions,perfect objects3.2-3.9,support pushforward,full cylinder proof proposition3.11,start3.5excision warning;PDF17pixels",
+      "verified_contract": "Hausdorff locally compact locally connected countable-at-infinity spaces and regular Noetherian finite-Krull-dimension coefficients with2 invertible. Compact-cohomological-support perfect objects and homotopy invariance old. Excision is explicitly difficult/may fail without assumptions;constructible-polyhedral repair is not identical to current arbitrary-continuous-image generated category.",
+      "whole_work_and_recursive_history_complete": false
+    }
+  ],
+  "historical_verified_keys": [
+    "Pardon2013",
+    "HornbostelSchlichting2004",
+    "BalmerWalter2002",
+    "Woolf2008"
+  ],
+  "unread_root_body_keys": [
+    "Balmer2000",
+    "KashiwaraSchapira1990",
+    "SchapiraNotes",
+    "StacksProperBaseChange",
+    "StacksDerivedSums",
+    "Hardt1980",
+    "Hatcher2002",
+    "RanickiWeiss2010",
+    "Newman1931",
+    "DranishnikovFerryWeinberger2003",
+    "BergfalkLupiniPanagiotopoulos2024",
+    "HardtLambrechtsTurchinVolic2011",
+    "Serre1951",
+    "Serre1953",
+    "Hilbert1902",
+    "Gleason1952",
+    "MontgomeryZippin1952",
+    "Yamabe1953a",
+    "Yamabe1953b",
+    "MontgomeryZippin1955",
+    "Lee1997",
+    "Pardon2019",
+    "BochnerMontgomery1946",
+    "RepovsScepin1997",
+    "Maleshich1997",
+    "Martin1999",
+    "Mj2012",
+    "Shelukhin2024",
+    "Yang1960",
+    "BredonRaymondWilliams1961",
+    "Raymond1961",
+    "Verdier1966",
+    "Coste2000",
+    "EilenbergSteenrod1952",
+    "StacksDerivedCategories",
+    "StacksCechComparison"
+  ],
+  "formal_status": {
+    "upstream": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+    "scope": "Pinned formal registration and narrowly scoped filenames only;not a proof audit or a statement no related theorem exists anywhere",
+    "registered_manuscript_formalization_claim": false,
+    "family_document_exists": false,
+    "registry_sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+    "registry_exact_paper_path_present": false,
+    "registry_name_match": false,
+    "challenge_names_matching": [],
+    "local_build": "not_run",
+    "Comparator": "not_run",
+    "human_spec_review": "missing",
+    "source_grade": "C for natural source results;complete dependency grades unknown"
+  },
+  "actual_pdf_pixels": [
+    {
+      "source": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003.pdf",
+      "source_sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "page_one_based": 1,
+      "image": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003-p1.png",
+      "image_sha256": "71eee3b062265e0c6e3658c883064d4c6a869c0dc1a83f1f6345cef5d0bdcd3b",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003.pdf",
+      "source_sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "page_one_based": 33,
+      "image": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003-p33.png",
+      "image_sha256": "544f90f28145a0a993c1eceea960b597ab3647f7c957edb89c903d6848b9c434",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003.pdf",
+      "source_sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "page_one_based": 34,
+      "image": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003-p34.png",
+      "image_sha256": "979a153ffd139af991b4b6a0e45443ed8ecf16f7ad16b5c3d947a0f7811ba46e",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003.pdf",
+      "source_sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "page_one_based": 35,
+      "image": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003-p35.png",
+      "image_sha256": "a5f23a557f2d462b932f0438e56ac0ef6f12384e2a94fdd3d10cdd64c9816b64",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003.pdf",
+      "source_sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "page_one_based": 31,
+      "image": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003-p31.png",
+      "image_sha256": "f402a4830f93fb2800ca3fbee1bd630e3be821842c9eb39532d7255614fcbab4",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003.pdf",
+      "source_sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5",
+      "page_one_based": 32,
+      "image": "/private/tmp/ai-paper-WP103/HornbostelSchlichting2003-p32.png",
+      "image_sha256": "8366064fa0207e15e8c60debe72392275e7283380609d8cfc1f35c0e252a29ce",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "e55fa13f40b4c35a98414519ca90d85c17bdd77c9a0b92aa6369eae8046782eb",
+      "page_one_based": 2,
+      "image": "/private/tmp/ai-paper-WP103/current-p2.png",
+      "image_sha256": "1f7b31243e8a6ed2b24ef1f2940de200e00a06eeb059b1c31837aad82e425f03",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "e55fa13f40b4c35a98414519ca90d85c17bdd77c9a0b92aa6369eae8046782eb",
+      "page_one_based": 26,
+      "image": "/private/tmp/ai-paper-WP103/current-p26.png",
+      "image_sha256": "694c38bbabeff615c5f0d0a993df61d142190cbfd3b76b200133c9d1e9195162",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/Users/smzdm/projects/ai_paper/math/preprints/The-Hilbert-Smith-conjecture-in-every-finite-dimension-September-23-2026/paper.pdf",
+      "source_sha256": "e55fa13f40b4c35a98414519ca90d85c17bdd77c9a0b92aa6369eae8046782eb",
+      "page_one_based": 38,
+      "image": "/private/tmp/ai-paper-WP103/current-p38.png",
+      "image_sha256": "ef83481253bf84621e2c5768e889085dc1988aa625a89652554c0bb4254bb2f4",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/Pardon2013.pdf",
+      "source_sha256": "e5ca7045fe34675aec074d82761eb43b2deee588e2be54e1406f7933053b69db",
+      "page_one_based": 13,
+      "image": "/private/tmp/ai-paper-WP103/Pardon2013-p13.png",
+      "image_sha256": "8865a3fc45a8672ad197c3901b045eac0c5f53e938b4d9757eaead90be70cdcc",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/BalmerWalter2002.pdf",
+      "source_sha256": "ac9a29a764efa5591bb08ad56d6ad518661fd5dbcd3ef973f1da6f39907cf6d6",
+      "page_one_based": 6,
+      "image": "/private/tmp/ai-paper-WP103/BalmerWalter2002-p6.png",
+      "image_sha256": "edc59d6525c809a04a6fedfdf8563b5f9d2ad6a7629dae2eb045b785a442bc3e",
+      "pixels_actually_viewed": true
+    },
+    {
+      "source": "/private/tmp/ai-paper-WP103/Woolf2008.pdf",
+      "source_sha256": "ee5c7178324ffd2ef2b5cc61e3ffadd20e0e8ea806250788e4864f51dbf07fed",
+      "page_one_based": 17,
+      "image": "/private/tmp/ai-paper-WP103/Woolf2008-p17.png",
+      "image_sha256": "241743bb468ad1692a17f93d854c88faee964d2e44e1860e56c02914c226cb0a",
+      "pixels_actually_viewed": true
+    }
+  ],
+  "acquisition": {
+    "cap_bytes": 8388608,
+    "downloaded_bytes": 1374189,
+    "requests": [
+      {
+        "name": "Pardon2013.pdf",
+        "url": "https://www.math.stonybrook.edu/~jpardon/manuscripts/08_hilbertsmith.pdf",
+        "at": "2026-10-23T06:06:35.894598+00:00",
+        "status": 200,
+        "final_url": "https://www.math.stonybrook.edu/~jpardon/manuscripts/08_hilbertsmith.pdf",
+        "bytes": 263977,
+        "sha256": "e5ca7045fe34675aec074d82761eb43b2deee588e2be54e1406f7933053b69db"
+      },
+      {
+        "name": "HornbostelSchlichting2003.pdf",
+        "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/marco_schlichting/research/hermlocn.pdf",
+        "at": "2026-10-23T06:06:45.578973+00:00",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      },
+      {
+        "name": "BalmerWalter2002.pdf",
+        "url": "https://www.numdam.org/article/ASENS_2002_4_35_1_127_0.pdf",
+        "at": "2026-10-23T06:07:10.593221+00:00",
+        "status": 200,
+        "final_url": "https://www.numdam.org/article/ASENS_2002_4_35_1_127_0.pdf",
+        "bytes": 324430,
+        "sha256": "ac9a29a764efa5591bb08ad56d6ad518661fd5dbcd3ef973f1da6f39907cf6d6"
+      },
+      {
+        "name": "Woolf2008.pdf",
+        "url": "https://ems.press/content/serial-article-files/43150?nt=1",
+        "at": "2026-10-23T06:07:30.723320+00:00",
+        "status": 200,
+        "final_url": "https://ems.press/content/serial-article-files/43150?nt=1",
+        "bytes": 279987,
+        "sha256": "ee5c7178324ffd2ef2b5cc61e3ffadd20e0e8ea806250788e4864f51dbf07fed"
+      },
+      {
+        "name": "HornbostelSchlichting2003.pdf",
+        "url": "https://warwick.ac.uk/fac/sci/maths/people/staff/marco_schlichting/research/hermlocn.pdf",
+        "at": "2026-10-23T06:08:14.586380+00:00",
+        "status": 200,
+        "final_url": "https://warwick.ac.uk/fac/sci/maths/people/staff/marco_schlichting/research/hermlocn.pdf",
+        "bytes": 505795,
+        "sha256": "bac1f3266267d615820cc58e4eba108315cf8fee8663354ae89e3bc8fe3dd9b5"
+      }
+    ]
+  },
+  "domain_attempts": [
+    {
+      "domain": "computational topology",
+      "problem": "Repeated exact integer homology comparisons",
+      "possible_mapping": "Finite five-term integer presentation chase could return conservative annihilator instead of full middle invariants",
+      "judgment": "Specific pending APP30401;real consumer,batch and certified complete inputs not located;old quantitative chase may be identical",
+      "counts_as_new_candidate": true
+    },
+    {
+      "domain": "robotics",
+      "problem": "Learned homeomorphism as a sampled robot return map",
+      "possible_mapping": "Compact cyclic closure would imply some iterate admits continuous flow",
+      "judgment": "Finite trajectory recurrence or learned approximate invertibility cannot certify exact compact closure;no effective m or flow construction",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "finance",
+      "problem": "Observed near-periodic price dynamics",
+      "possible_mapping": "Try continuous-flow embedding as an interpolation certificate",
+      "judgment": "Observed stochastic noninvertible finite series is not an exact manifold homeomorphism with compact cyclic closure;no justified connection",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "traffic control",
+      "problem": "Repeated network state update",
+      "possible_mapping": "Finite quotient of an alleged exact p-adic action",
+      "judgment": "Actual traffic updates lack joint continuous Zp action and faithful manifold model;no finite index bound or policy implementation",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "energy systems",
+      "problem": "Power-grid periodic controller stability",
+      "possible_mapping": "Compact transformation-group model may constrain symmetry class",
+      "judgment": "Lie conclusion gives no stability margin,cost bound or certified compact closure;older smooth Lie models may already suffice",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "biology",
+      "problem": "Periodic cell-state trajectories",
+      "possible_mapping": "Topological symmetry or flow embedding",
+      "judgment": "No faithful exact transformation group/manifold evidence;finite noisy snapshots do not certify hypotheses",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "language systems",
+      "problem": "Token-edit or latent-space cyclic transformation",
+      "possible_mapping": "Character partitions might produce invariant tests",
+      "judgment": "Discrete/noninvertible token operations not manifold action;algebraic sheaf direct sum not a numerical embedding or attention algorithm",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "materials",
+      "problem": "Quasiperiodic sample symmetry",
+      "possible_mapping": "Compact-group action could constrain a continuum model",
+      "judgment": "Physical samples and discrete approximate symmetries lack specified manifold action and exactcompact closure;no computable lattice extraction",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "digital twins",
+      "problem": "Repeated mesh deformation",
+      "possible_mapping": "Homeomorphism iterate could embed in continuous flow",
+      "judgment": "Mesh discretization and finite periodicity may already have elementary interpolation;no source effective modulus or algorithm",
+      "counts_as_new_candidate": false
+    },
+    {
+      "domain": "art and animation",
+      "problem": "Looping reversible animation",
+      "possible_mapping": "Continuous interpolation of an exactly compact-closure map",
+      "judgment": "Finite loop already cyclic/smooth interpolation old;topological existence supplies neither visual quality nor construction costs",
+      "counts_as_new_candidate": false
+    }
+  ],
+  "cross_family_attempts": [
+    {
+      "family": "F-317",
+      "comparison": "Finite diagram relations versus existing context-sensitive computational structure",
+      "boundary": "Both require complete typed certificates;no basis for transferring q^3 into an unrelated algorithm merely because diagrams occur. Actual F317 source grade/scope unchanged."
+    },
+    {
+      "family": "F-198",
+      "comparison": "Finite five-term chase and finite three-column strictification",
+      "boundary": "Both extract bounded proof components;F198 homotopies/right-B projectivity are distinct from integer-row exactness and annihilation. No supplied common caller;do not assume finite constructors eliminate premise costs."
+    },
+    {
+      "family": "F-200",
+      "comparison": "Integer budget certification and annihilator propagation",
+      "boundary": "F200 tested finite tables use separate algebraic assumptions and strong old bounds. A conservative bound can be useful without novelty;no evidence that F200 supplies these exact rows or gains from q^3."
+    }
+  ],
+  "gaps": [
+    "Current one manuscript all9TeX3501lines,452Bib andREADME17 actually read;40labelled results plus1unlabelled flow consequence are source drafts,not full-family proof approval.",
+    "40bibliography keys map40works;4originals read only in retained selected scopes. Other36rootbody scopes,recursiveBalmer/Serre/Newman/Lie/duality inputs and all unavailable manuscript history remain incomplete. Reused Hatcher identity gives no new degree-proof scope credit.",
+    "Pinned formal registry and narrow filenames show no matching registration/docs304 or challenge;all41natural claims C/fullchainunknown;no localLean/Comparator/human review. This is not a claim no related Lean lemma exists anywhere.",
+    "Real sheaf coefficients versus integer Witt groups;ordinary quotients versus completion,uniform dimension-bound beforeclass/action,finite local quotient sheets versus freefullaction,exactcompact closure versus finiteapproximation must stay separate.",
+    "No effective finite data,mesh/subgroup index/nullhomotopy degree/flow log algorithm or tested engineering benefit follows. APP30401 is one concrete demand-unqualified conditional hypothesis;old quantitativefivelemma may already suffice. No numerical/symbolicrun,initialcheck or prototype.",
+    "Humans,secondprovider and pilot gates remain missing;isolated sameOpenAI agents are auxiliary only. Fullfamily/fullhistory0 retained."
+  ],
+  "source_decomposition_draft_complete": true,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "historical_version_scope": "Pinned corpus has one current manuscript and no mapped historical_versions rows forF304;no withdrawn manuscript. This does not establish all external/unavailable history reviewed.",
+  "review_output": "data/provenance/reviews/APP-304-01-isolated-roles.json.gz",
+  "conditional_plan": "experiments/plans/APP-304-01-conditional.json",
+  "new_candidates": 1,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "metadata_count_correction": "README actual splitlines17;WP102 narrative said18. Exact pinned bytes and actual content unchanged;no source coverage credit affected.",
+  "source_reuse_policy": "No external PDF/text/pixels or upstream source duplicated into canonical records;hash+location and ownscope notes only.",
+  "github_push": false
+}

@@ -1,10 +1,16 @@
-# AI Mathematics Application Mining
+# MathWeave
 
 [中文](README.md) · [English charter](CHARTER.en.md) · [Original Chinese charter](722篇AI数学论文应用价值挖掘纲领.md) · [Progress and limits](PROGRESS.en.md)
 
+**Weaving mathematical results, historical methods, and testable applications into an evidence graph.**
+
 This project connects a pinned mathematical manuscript corpus with historical literature, transferable methods, and concrete application problems. Its unit of research is **result family + historical lineage + application problem**. A versioned knowledge graph records the evidence, conditions, dependencies, experiments, and unresolved gaps.
 
-**Phase one is incomplete.** The project has 41 candidate connections and 13 preliminary checks of distinct hypotheses. Five checks support narrowly defined predictions; eight retain adverse observations. These are not five new mathematical results or demonstrated engineering improvements. No family has completed the full research requirements or all six stages. Human review, independent checks by another model provider, and engineering pilots remain outstanding.
+**Phase one is incomplete.** The project has 44 candidate connections and 13 preliminary checks of distinct hypotheses. Five checks support narrowly defined predictions; eight retain adverse observations. These are not five new mathematical results or demonstrated engineering improvements. No family has completed the full research requirements or all six stages. Human review, independent checks by another model provider, and engineering pilots remain outstanding.
+
+Current curated progress: 57 families actually read, 52 current-source decomposition drafts, 7,522 graph nodes and 20,986 relations, through WP-107 / retrospective 038. F239’s two current source bodies (24 TeX files / 8,083 lines including references and figure source) have also been read, but historical/formal checks and canonical curation remain pending; this journal does not increase those counts. See [progress](PROGRESS.en.md).
+
+Repository: [yiduo/mathweave](https://github.com/yiduo/mathweave).
 
 ## Corpus and upstream boundary
 

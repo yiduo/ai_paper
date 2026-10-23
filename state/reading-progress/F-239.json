@@ -1,0 +1,445 @@
+{
+  "family_id": "F-239",
+  "work_package": "WP-108",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "manuscripts": [
+    {
+      "id": "P-a12e95803a6ff0ff",
+      "readme": {
+        "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/README.md",
+        "lines": 18,
+        "sha256": "a9ec26b4197ee78f12834f4f4d4d8b21e80d97365a007e98aebc3bdee0dde898",
+        "actually_read": true,
+        "scope": "README only,all body/formal/history unread"
+      },
+      "files": [
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex",
+          "lines": 29,
+          "sha256": "5d4adc46d2fcc57655c1da035f7a57a8da45c7fac23f130f77312ba0909e13f6",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+          "lines": 81,
+          "sha256": "a53da3b8ff3bc6a4be4b1825ebf67a9324a5ad1ff4ee220921f431f795a8a8a5",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex",
+          "lines": 120,
+          "sha256": "aa7473707f6e31290ea41698c247571a76af2f81c9fbc4ece4c5067e96d4815b",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+          "lines": 109,
+          "sha256": "dab571a2bae9bd8daa3541370be659d2a34e4e2ebbc27aab0e82cfa1b3151aa5",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+          "lines": 284,
+          "sha256": "087456a9ffba7c12f41b20dc343be624c469fe557960464b2f4c3a4b686d57c0",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex",
+          "lines": 482,
+          "sha256": "b85617e3a02589d0d49260e9edd726d606a856a2bafa40856273259b006546e7",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+          "lines": 396,
+          "sha256": "2ab4a2c8262548b88260deecf182c5b8b866232198bd9a5000139b29a9035e40",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex",
+          "lines": 443,
+          "sha256": "a81f1372d5db3b75034fb17091facb69f4a2a0668ef780ac69f35b6736817d29",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+          "lines": 604,
+          "sha256": "11a8f2512c8d68b6556c107ea2e603556c12a3b4df1ef7b279346cb01a0b1679",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex",
+          "lines": 434,
+          "sha256": "98bcc8e0422eadc4ac31cdd6d6ec93800acb50e5534ced5b5c5d06934334f378",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+          "lines": 653,
+          "sha256": "3eaede0e3972107e43fad71ebd3bf9958a60930454f63a6a99b75473bbc38b06",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex",
+          "lines": 443,
+          "sha256": "dfbbfd9f284ed8699b9a8f60a104d9fd72e23a3e2e4e9ea767d786211b74d9c0",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+          "lines": 485,
+          "sha256": "9e5885834266b2cb77b5b5b30b1ba71d6734c138ea72e33104f2e63f69643ebf",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+          "lines": 687,
+          "sha256": "4d02930f2a0dc988d7797e750d1cd6c6f5649248c23274d26b4b4c221471514e",
+          "actually_read": true
+        }
+      ]
+    },
+    {
+      "id": "P-88bbfa0056a7bec9",
+      "readme": {
+        "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/README.md",
+        "lines": 18,
+        "sha256": "f5880f34383668ce3ce2589ea60d7f24a62aceba339b535333d3662d11336d62",
+        "actually_read": true,
+        "scope": "README only,all body/formal/history unread"
+      },
+      "files": [
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex",
+          "lines": 30,
+          "sha256": "8788bc218c4b4a7da370c2b8a9bb14dfd4babb493d1b410dfddfe413cf415032",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex",
+          "lines": 31,
+          "sha256": "ce5a7909431246eadd4ccf77278fc84738963f477f5bd2924b867d4b72f55faf",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+          "lines": 63,
+          "sha256": "ee0fac762f98e97e64c9051c713578c50b8e2b7debd18e09728de45429ed2b8e",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex",
+          "lines": 158,
+          "sha256": "e5b8e68c986c208d8cb39669d0f8e8ea144c5915ed9926a26e6b199a23bd912b",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex",
+          "lines": 130,
+          "sha256": "5ddab1b91bd252c39075539b07f2f68e28bc75806e1b00056cc3d06fc95cbf6e",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+          "lines": 476,
+          "sha256": "7b34435ad58e1ab6c2ff852ae7a8db2b8410a42fc2beb73a8c62cb1738537e40",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex",
+          "lines": 201,
+          "sha256": "7c58d254f7e015b03726cfcb3fc799432d31305694d61323ec99cc9906f308b6",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex",
+          "lines": 481,
+          "sha256": "f66e6474774255d714b19abd057c3b9cfbf3055caa93104718b5410c71be0269",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex",
+          "lines": 708,
+          "sha256": "d0efd715095cf38b5ce4310a49b8f6d274bf7788ff93553fc5d1f7a16160514c",
+          "actually_read": true
+        },
+        {
+          "path": "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+          "lines": 555,
+          "sha256": "06e008516faf98efaf45d1a10d3a55496a6f3e3f0402a6f4c5d8ad10f5d5a0d7",
+          "actually_read": true
+        }
+      ]
+    }
+  ],
+  "tex_files": 24,
+  "tex_lines": 8083,
+  "source_body_read": true,
+  "canonical_coverage_promoted": false,
+  "full_family_complete": false,
+  "numeric_or_symbolic_run": false,
+  "actual_scope": "All 24 current TeX files / 8083 lines including references and TikZ source, plus both READMEs actually read; historical originals, formal scope and canonical curation pending. No new canonical coverage credit.",
+  "at": "2026-10-23T09:42:44.467813+00:00",
+  "base_commit": "7ce71bb",
+  "next_action": "Resume WP108 with bounded historical/formal qualification and canonical curation; do not reread completed source ranges. Publication requested first.",
+  "status": "source_bodies_read_pending_curation",
+  "actual_read_ranges": {
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex": [
+      [
+        1,
+        81
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        109
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex": [
+      [
+        1,
+        29
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex": [
+      [
+        1,
+        284
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex": [
+      [
+        1,
+        482
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex": [
+      [
+        1,
+        396
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex": [
+      [
+        1,
+        443
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex": [
+      [
+        1,
+        604
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex": [
+      [
+        1,
+        434
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex": [
+      [
+        1,
+        653
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex": [
+      [
+        1,
+        443
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex": [
+      [
+        1,
+        485
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex": [
+      [
+        1,
+        687
+      ]
+    ],
+    "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex": [
+      [
+        1,
+        120
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex": [
+      [
+        1,
+        63
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        130
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex": [
+      [
+        1,
+        476
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex": [
+      [
+        1,
+        201
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex": [
+      [
+        1,
+        481
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex": [
+      [
+        1,
+        708
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex": [
+      [
+        1,
+        555
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex": [
+      [
+        1,
+        30
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex": [
+      [
+        1,
+        31
+      ]
+    ],
+    "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex": [
+      [
+        1,
+        158
+      ]
+    ]
+  },
+  "reading_notes": [
+    {
+      "at": "2026-10-23T09:02:38.021051+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/main.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/01-introduction.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/figures/layers.tex"
+      ],
+      "note": "All81main+109intro+29figure-source lines actuallyread. Uniform independent ON/ABOVEdiagonal signs,not independentrows;Prsingular=2^-n+o(n) onlyasymptotic. Equal specified rowpair event2^-n lowerbound includes two diagonalcoupling conditions. ExactSchur reduction dimensionn->N=n-1 tobits,corankone/exposure reduction and admissible z quadratic in{0,1} plus bounded B^-1z;expectedcolumns2^o(N) target. Discriminant pairing,controlled-denominator partition,robust graphlattice,lowheight simultaneous rankcover and ReverseMinkowski quotient areproofinterfaces,not finiteeffective algorithm. Widthone commonquotient prime-power layers/retention certificates andwidthtwo BOTHcolumns admissibilitygate separate. Nonsingularprincipalminorpath steps1or2;longinitialpartcontrols highlayer tail,shortterminalwindowlimitslocalerror;no runtime/conditionnumber/finitegridgain inferred. Oldbounds andleast-singular references onlysourceclaims untiloriginalread. IncludedlayersTikZsource actuallyread,notPDFpixels."
+    },
+    {
+      "at": "2026-10-23T09:03:22.565770+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/02-framework.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/03-lattice-tools.tex"
+      ],
+      "note": "All284framework+482lattice lines actualread. Exact uniformsign-to-bit n->n-1 uses firstrowdetermined diagonalcongruence and Schur-2B;doesnot transfer directlytobiasedsigns. Typical means failure<=2^-Nf(N),f->infty uniformlym∈[N-N^.7,N],not merely highprobability;all loglog exponents fixedbeforeN. Principalrank overANYfield;forcedsymmetricjblock gives coranktail sum binom(m,j)2^-j(j+1)/2 and >N^.6 superexptail. Diagonalbitflip k-1 independentkernelcoordinatefunctionals produces corank1,subexp preimagesonly uniformlaw. Delete largestkernelcoordinate and adjugate rankone yields admissiblecolumn Schur valuea∈bits plus infinitynorm<=1;boundN2^-N E|S(B_N-1)|. Psi sumweightphi(layerheight),nu=log_Np/N,phi0=phi1=0,phi2=7/5,phik=2k;Hadamard=>Psi<=1;admissibletypicalbound andpotentialmoment still propositions whosefullproof unreadhere. Latticequotient requiresprimitiveK,orthogonal realspanquotient not ambient projectionmistake;dual/projection/preimage determinant formulas includezero ranks det1. Rationalheight>=1,finiteboundedheight via integerwedge;submodularityuses saturation and volume inequality,not exactmultiplicativeequality. Normalduallattice det=H(V)/H(U);arbitraryM has indexfactor and bound>=1/H(U). ReverseMinkowski citedoldTheorem1.2 requires EVERYsublattice det>=T^rank,not totaldetalone;tau=10(logj+2),mass<=3/2. Poisson allowslargerscalesfactor(sprime/s)^j. Primitive normalizeddetminimizer existsviafinitelowwedgevalues inclrank0;quotient allsubdetTbound;extrae^-Delta T0bound=>removedrank<=Delta/log(T0/T). Robustextraction maximizes cardinality2^-rhorank,loss<=rhom;atfixeda0 manyordered independentdifferencebases inclr0. RationalinjectiveaffineimagewithALLdifferences<=C0sqrtN givesactualdiscreterankr difference lattice;T=log^4N quotientGaussian distinctprojectioncount2^O(N/log^6N),robustfiber=>j<=O(Nell^D/log^6N);quotientgeneratingvectors=>detGamma<=(C0sqrtN)^j andlogdet<=4Nell+o(Nell). No computedminimizer/finiteeffectiveN ornewnumericalrun."
+    },
+    {
+      "at": "2026-10-23T09:04:26.831606+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/04-low-height-cover.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/05-typical-matrices.tex"
+      ],
+      "note": "All396cover+443typicallines actuallyread. Lowheightcover fixedD,A largeN for0<=m<=N,size<=2^(N²ell^-A),rankdistance<=Nell^-A,not angle/metric approximation or practical enumeration. Greatest minimizers h(U)+a d(U,Ps) form descendingchain,unprocessedcoordinatesinUs,E nondecreasing;no-dropcount andfinaldistance bound totalmultidrops<=4Delta. Normaldualbalance allsubdet>=N^-arank andsuffixdetbounds;shortestprimitiveflag,onlyO(ac)expensivepositions andnonec1;quotient normalizeddetminimizer removalrank<=2c/a;Gaussian image count and per-image AFFINEfiber actualdifferences/boundedradius yield O(c/a logN)bits,notdetalonenumbercount. Decodeonlyactualchainprefixes,subsumS²+N;allfixedexponents beforeN. TypicalrankF2 test uniformSYMMETRICbits inclindependentDIAGONAL:forfixedS,T,b<=a,rankdef>=t prob<=C0 2^-t(t+1)/2;equations ta-binome2 handlesenlarged mod2intersection anddiagonalconditionsinchar2. Primitiveintegerbasis retainsrankmod2;realrank>=mod2rank. THIS IS binaryB,not directsignA mod2(allones). Deficiencychanges<=rankdistance;coverP=2A+4 andallcoordinateX union2^m =>superexp simultaneousheightclass,not fixedspaceonly. Inverserestriction corollary is B^-1 BILINEARformonW,notmaprank,radicalsiso viaB. UniformALLprimecorank<=N^.6 onlyfor realnonsingularB,prime<=|detB|<=N^(N/2),union2^O(NlogN)dominated2^-cN^1.2. Small-spectrum boundNell^-A eigenvalues in±sqrtN ell^-(A+6),not leastsingularvalue orconditionnumber. Quantitativeclosedwalkmoments loopallowed,evenedges,treeCatalan,j=ell^(2A+4),momenterror m^-1+o1;nonnegativepolynomialmajorant validallreal,expectedtent o(mell^-A). Tent=1-g1+g2 convextraceparts globalL=sqrt2/w fromHoffmanWielandt;Talagrandtail exponentN²ell^-(4A+10),notordinarybounded-differencesNscale. RankoneJ perturbation altersintervalcount<=2. No oldoriginals or newnumericaloutput."
+    },
+    {
+      "at": "2026-10-23T09:05:14.825716+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/06-discriminant.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/07-minor-moves.tex"
+      ],
+      "note": "All604discriminant+434minor-moves lines actualread. Perfectfinite discriminant pairing Z^m/BZ^m toQ/Z,orthogonalprimaries,oddp cyclicblocks and2-primaryeven-diagonal odd-offdiagonal2x2blocks. Coloringisotropic classes atcutoffb3 leaves<=2topfactors;onefactor/deepdivisibility,twocyclicvaluationF+unitratio colors (odd roots<=2,p2<=4),oddheightgap1 mergesdeepcolor;2x2 pivot+oddderivativerootlift=>Cp<=1+8b1 andoddCp<=2^(b2-b3). Largeprimes>=N^.8 chargeheight2 coefficient5/4<beta7/5;smallprimes costO(N^.8logN),notlogp percolor. Onecolor differences restrictedpairingimageorder<=N^(N JB) withJB=sumheight>=3 kν;top<=2generators killedp^b3 andbottomorder bound. Rationalform radicalprimitive,projectedlattice;index t of pairing kernel onONEside givesdetorth>=1/[t detLbar²],not t²;rank0det1. Admissible graphgamma=(z,B^-1z) differences<=sqrt5N,robustheightbothW/L,adaptiveWallowedbysimultaneoustypicalrank;radicalKdet>=1 viainjectiveintegralfirstcoordinatevolume. Graphmetricinverseform eigenmu=lambda/(1+lambda²);compressionsdetupperviaexteriorpower/largestsingulars,not invariantS assumed. Ranklower andspectrum=>r/N<=2JB+O(ell^-P),pluscolorcost yieldsPsi staticbound. Gateddeletion:ifinversehasnonzerodiag delete1;elsemaxabsoluteoffdiagkappa givesnonsingular2delete viaJacobi,Schurdiag0 andbothcolumnsadmissible infinitynorm<=1;emptyminor det1/emptycolumn. Forwardwidth2 BOTHindependentuniformcolumns gateprob=(|S(C)|/2^m)²;destinationneednottypical,localmoment propositionnotyetproved. CommonquotientC bycolumns equalsdestinationGB bynewstandardclasses ONLYifdestnonsing;Cquotientsdefinedevenifdest singular. Cyclicquotient prefixF dropsu_t=max_i(min(bi,t)-ri)+,increments0/1;retainedlayersprefixwithinEACHoldconstantheightplateau,not arbitraryglobalprefix. Retentionlattice forANY selectedpositivelayers imposes coordinatep^countdivisibility;index productp^sumk exactlyN^Nq,necessarynotIFFretention. Symmetrickernelinequality overZ/p^t,notfield-only:alpha newcolumnclasses,imagep^U;gamma=Vtranspose onkerC has sameimage via perfectcharacterannihilatorJ=(kerC)perp andsymmetry;secondblocksolublefiber<=p^(FC-U),firstychoicesp^(ht-U),soFB<=FC+ht-2U inclchar2,t0. No numericalexperiment or historicalsourcebodyread."
+    },
+    {
+      "at": "2026-10-23T09:13:10.695086+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/08-cube-concentration.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/09-certificate-pricing.tex"
+      ],
+      "note": "All653cube+443certificate lines actuallyread. CubeconcentrationuniformEVERY intermediate fullrankK containingBZ^m,EVERYcoset,adaptiveotherdata allowed onONEstartingBtypicalevent;indexN^qN q<=1/2. Profile c(d/2)=1-(1-d)z(d/(1-d)),z=(1+sqrt(2u-u²))^-1 up to1then1/2;continuousendpoints,cmonotoneconcave,uniformhalfHolder. Exactlowheightorderedaffinebasiscount leadingj²bits includescenter2^m inlowerorder evenj0;newgraphheight ratio a sqrt(1+||v||²),largejumpschargeheight,duallatticedetminimizer+ReverseMinkowskiquotient andbinaryevaluationfibercost<=r0,not allsubspaceenumerationpractical. Witnesspricingrobustpieces<=3/eta,directSUMdifferenceWs,dims tiN;smallcosetcount onD xN<=tN;xt-x²/2<=sumti(ti-alphai)+etat+eta³. Encodebases thenchooseP usinguniformprojectedranks,revealPcolumns;knownL spannedbasisdifferences+columns LsubsetK fullrank withindex<=N^N/2. EnumerateKs AFTERknownL but BEFOREunrevealedblock viaannihilator dual<=N^.6generators;costO(N^1.6logN),notuncontrolledallsubgrouplist. Symmetricrowencoding usescolumns inK;countmatrix-basisPAIRS choosesonewitnessperB forlowercount,allKupper;floorlogsizegroups androbustbasismultiplicity cancelleadingcost,superexpviolationbound. Concentrationquotientdetminimizer T=log^4N,smallGaussianprojectionfibers;d=(m-rankF)/N andf=1-d INCLUDESN-m offset. q<=d/2+4ell/logN. PivotcomplementJ0smallcosetcount,greedyminimumcardinalityAi hasnondecreasingcardinality,disjointpivottriangularargument givesdirectsumWi,stop t>=alpha-2eta within<3/eta steps;removeONEcoordinatefromlastAi buildsSAMEsmall-countD fortwo witnesscalls. Piece-listlower on d+s andsinglefullsetupper solvealpha<=fz(d/f)+O(sqrteta),notnew independenceassumption;profileHolderabsorbsqerror. CertificatefixedE conditiontestedcolumnconditionallyUNIFORMgivenexposedC/quotient;marks maydependontestedcolumn/otherbits,subeventarbitrary. Classes constructedBEFORErepresentative/targets;wholeplateaucategoriesatmost2,heightlowerwi,markedprefixneeded. Largeprimeweightrecordallmarks,smallprimerecordprefixcounts,intermediatecellsbinlowerweight>=1-delta,countmarks only. Eachoutcomeoffersproductbinom(rj,aj) vs candidateproductbinom(nj,aj);doublecount original conditionalprobability,neverconditionv onobservedmarksasifstilluniform. Knownmarksincludefull,celltargetfloor,halfHolderuniformatboundaries;entropyE=H(s,u)-H(s-x,u),Etheta superadditive;class/roundingerrors fixedprecisionbeforeN. Retainedlayercostsigma=ceil(ell²)^-6,choosecertificateweightx=sigma²,profile~2sqrtq andentropyO(sigma²logsigma^-1) gives<=2^-Nsigma/2;conditionalprecedingcolumnallowed,DESTnonsingularitynotneeded. No primary originals or numericalexperimentyet."
+    },
+    {
+      "at": "2026-10-23T09:19:39.750856+00:00",
+      "manuscript_id": "P-a12e95803a6ff0ff",
+      "source_files": [
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/10-potential-step.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/sections/11-minor-paths.tex",
+        "math/preprints/The-sharp-exponential-rate-of-singularity-for-symmetric-Bernoulli-matrices-October-3-2026/build/references.tex"
+      ],
+      "note": "All485potential+687minorpaths+120references actualread;UNIFORM manuscript all14TeX5250lines now read inclreferences/TikZsource. Widthone layerbudget distinguishesactualmarkedmass a fromeffectivea0=a-L+P∈[0,a];symmetrickernelprefix atlastoldheight>=2 givesP<=L,increment<=beta g+(6-beta)a0-beta u withBbudget2g+3a0+u<=1/2 andCbudgetg+v0+2a0+2u<=1/2. Marks wholeplateaucategories,prefix evenheight1g viaBmonotonicheights;class partition BEFOREchoosemaxPsioutcome/targets,thenEdecreasinginfirstmass letsreplacea0 bya. Scalarbudget exact analyticdual,not numericaloptimization:evaluateentropyminimumL(t,h),supportingslope justifiesdualattainedequality;lambda/mu 3rangesw<=8/5,[8/5,3],>=3,integerinequalitiesverifyD21/10<2/5 andquarterLbound. Width2 gateindependentcolumns +PsiB<=1,PsiC<=1 yieldslocalmoment;no destinationtypicality imposedinconditionalbound. TailrecursionW_s(B)<=W_s+h(C)+2retentionweight restrictedheight>=s+1-h. Heavyretention lemma WITHOUTtypicality:fixedmasklatticeindex,maximumdissociatedgroupgenerators yieldatom<=2^-j;{-1,0,1}matrixM C rankj andHadamard=>index<=N^1.5j =>cost2qN/3. Highlayerprefixmaskentropy small/largeprimes splitthresholdsqrtN,heights>=R-1,R=ceil ell²;dyadicQ∈[q,2q),q>=eta/(100logN) bound2^-3qN/5. LongJ*=2ceilN^.6 beforewindowL*=ceilR^12;unionallnearfullprincipalminors/subexpfixedindexpaths. BACKWARDrealizedpath onlyeventcover;allprobabilities exposeFIXEDpath forwards,neverconditionfuturepathchoice/nonsingularity/gates asindependence. HeavytruncatedQ moment<=1+o1 forENTIREprobspace singularstartQ=0;tailbackwarditeration thresholdpastN^.6primecapforceshigh-tail sumQ>=epsilonprime(R-1)/4,prob2^-Omega(NR). LowPsiwindowlocalmoments accumulateonlyL*ell^-60=Oell^-36,notlongJ*. RemaininghighPsi/smalltail:Z=W2+R^-2 W1 bounded1;noncostlywidth1descentepsilon/(20R³),width2 atPsiC>1-1/R descent1/(40R). NeedOmegaepsilon(L*/R³)costlypositions,eachfuture-unconditionedeventprob<=3*2^-Nsigma/2,positionsentropyOt logR dominatedNsigmat =>2^-Omega(NR³),weight2^N safe. Thenepsilonfixed,N->infty,epsilon->0 yieldsmoment2^oN andsignN=n-1 rate;no explicitthreshold/uniformfinitefailurebudget. All18bibliographicentriesreadmetadataonly,primaryhistoricalbodiesnotyetread;no scientificrun/fullfamilypromotion."
+    },
+    {
+      "at": "2026-10-23T09:19:39.781521+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/main.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/01-introduction.tex"
+      ],
+      "note": "All63main+130intro actualread. FIXEDp∈(0,1) excluding1/2,Prsing^(1/n)->p²+(1-p)²,error maydependp;equalrowlowerprob changesfixedcorneronly. Global sign allowsp<1/2. Maxcolumnatomb=1-p too weak;structuralexception needsTWOrareextensions andnonexception deletionnearlyfull ORIGINAL Shannonentropy. Anchorrowgauge conditional independentbits probabilities{p,1-p},meanrank<=2,NOTuniformbitlaw;do not reuseunbiasedchangeofbasisinvariance. AdmissibleB^-1z l2<=L0sqrtn,notunbiasedinfinitynorm. Selectedoriginalcolumntypicalpositivecount needed forentropyweight,notallcolumns. CTVmaximumatomoldcoversfixedbias;JSSdiscretenonuniformoldindependentrowsstrategy;companionuniformproofreusedexactboundedinterfaces,notindependentnewproof. Newnearlycompletecubeentropy lossstatement allowsindexN^tauN,tau inversepolyloglog,adaptiveK ononenewtypicalevent;fullproofunreadhere. No historicaloriginal ornewapplicationtestyet."
+    },
+    {
+      "at": "2026-10-23T09:22:23.477604+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/02-reductions.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/03-typical.tex"
+      ],
+      "note": "All476reductions+201typical actuallyread. p<1/2 b=1-p,Q=p²+b²,a=-log2b,d*=-log2Q,h*=binaryentropy;strict2a>d*,h*>d* onlyfixedbias (gapsvanishp->1/2). Generalcorankforcedprincipalblock maxatom b tail2^-Omega_p(n^1.2);diagonalflip k-1 createscorank1,nowprobabilityratio(b/p)^t pluspreimageentropy subexp,not uniformcount alone. Anchortailoffmaxcoordinate normalizedl2=1,anchor<=sqrt(n-1). Compressibletaillemma choosegamma then delta then lambda;centeredWopnorm net/Hoeffdingfailure2^-4n,SEPARATEscalaru approximatessumv toavoidrankonemeanamplification. Outside chosenS,selectedfixed netrowtests use disjointindependententries WITHOUTconditioningnormevent;two largecoeffs giveallowedoppositevertices total<=Q,smallcoeffcase BerryEsseen withunequalsummands/varianceboundedp andthirdmomentu0;rowindependencenotfullmatrixrows. Anchorgaugeconditionalbits probs{p,b},mean=.5 11T-.5mut uuT rank<=2 includingdiagonal/principalminors;nullitypreservedandtailcoordinatesignschanged. Bitmodeluniformoverfixedprobarrays+rankmean<=2;typical2^-omegaN. AdmissibleS_L0 norml2<=L0sqrtN. Columnestimate claimed for m=N-1 only:prob nonsingand|S|>2^e0N <=2^-N(2a-10e0),fullprooflater. Rowcounts probabilityfewdeviantrows exp(-Omega(n²)) usesSUMselectedrowcounts independentuppertri bitscoeff1or2,notindependentrowcounts. Incompressibletailatleastlambda n/2coords>=c/sqrtn;fewbadrowsallowslargecoordinatewithORIGINAL typicalpositivecount. Fixanchor/deletionindices BEFOREconditioninganchorrow,unionn² notchosenkernelevent;B independentdeletedcol givenanchorrow. CompatiblezspecifiesoriginalN-1signs,pointprobs p^r b^(N-1-r) <=2^-N(h*-Cpw1-o1) onlywithoriginalrowcountcondition;dropdeleteddiag requirementforupperbound. ChooseL0 then e0,w1 smallusingstrictmargins;lowerboundequalrowfixedcorner(p³+b³)Q^(n-2). Primecorankbiasedbits proof DOESNOTuseunbiasedF2basis invariance:principalSchurforcedblock for ANYfixedsymmetricshift overANYfieldwheretwobitsdistinct,tail<=2^d b^k(k+1)/2. Realnonsingdet primeunion=>allprimecapN^.6 withuniformp-arraybounds;groupgeneratorsmaxprimecorank. Deterministicheightcover,primitivequotients,minimizer,ReverseMinkowski projectedcounts explicitly reuseUNIFORMcompanion alreadyread;not newindependentclaims nor algorithm. No historicaloriginalreadyet."
+    },
+    {
+      "at": "2026-10-23T09:24:31.883310+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/04-lattice.tex"
+      ],
+      "note": "All481lattice actuallyread. SimultaneousANYK containingBZ^m withindex>=N^(tauN),tau=ell^-DfixedD,ANYrealcoset<2^alphaN forANYfixedalpha>0;one typicalevent uniformp/bbitarrays. Highindexalone deterministicdoesNOTimplysmallcubeintersection. MinimizedK0 T=log^4N,lowheightF<=e^4Nell,quotientLambda det>=N^tauN/e^4Nell;Gaussianfewprojection=>dimF>=alphaN/2. CoverF rankdistance,notangle:U=Vperp dim<=(1-alpha/3)N,W0=E∩U,missingr<=Nell^-P;anisotropicS=N²onW0,N^-C-5onrcompl actuallycreatesEuclideanclosenesslater. ANYsublatticeZ^j⊕Pi lowerdet>=1/H(F) via integerfull-lift actualrank,not assumedfullrank. Pi/Lambda quotientGB <=N^.6generators => multiplicationu<=N^C imageorder>=N^(tauN-o(tauN)). Maximal separatedsubsets yields{-1,0,1}representations+Pierrors scalednorm<=R0sqrtN;volume boundforceserrorrank o(tauN),MCnonsingrank andHadamardforce>=c tauN separatedcoordinateindices foreachu. SmallJ<=gammaN intersectsALLpoly-manyIu byprobabilisticexistence,not explicitalgorithm. DualGaussianonLambda* weighted||S^-1y|| producesByintegral bysymmetry. Fourier squaredmod productexpect viaXi-Xiprime,Poissonratio nonnegative<=1;discardarbitraryshiftswithabsolutes;fartranslateGaussian e^-cN,neartranslate atmostonesubsetsum onJ∩Iu,prob<=b^c tauN. k=floorkappa tauN/logN independentdualvector samples,conditionallbutonenonzerowcoeff allowsarbitraryshift;unionallintegerw||w||∞<=N^C,choosegamma/C THENFourierconstants THENsmallkappa. Geometrynorm<=R0N^2sqrtN,distanceU<=R0N^-C-5sqrtN. Netscellsdiam4N^-C,representativeschosenONLYfixedU,J/cells satisfyinggeometry+Fourier,independentB andneednotbelongactualdual. Actualwitnessimpliesapproxintegrality4N^-CsqrtN. ConditionallbutJ×Jc crossblock =>DIFFERENTtestedrows disjointbits;biasedp/b haveidenticalcharacteristicMODULUS. ProductFejerkernelsM0=N^(C-2),nonzerofrequencybounds andsmallkappa =>rowprob<=N^-(C-3)k. PositiveentropyDelta=(C-3)(1-2gamma)-(C+4)(1-alpha/3) paysnets;superexpprob e^-c tauN² plusprimecorankfailure. No independentfullrows/angleapproximation/adaptivelatticenets/freeefficientGaussianconstructor assumed. HistoricalGaussiancomparison/ReverseMinkowski originalsnotread yet,no numericalrun."
+    },
+    {
+      "at": "2026-10-23T09:27:54.570565+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/05-pairings.tex"
+      ],
+      "note": "All708pairinglines actualread. T2=sumheightEXACTLY2weights distinctfromJB=sumheight>=3 kν andW2=sum(k-2)+ν;JB<=3W2. Staticcolumn estimate W2<=zeta implies|S_L0|<=2^e0N ononetypicalevent. Pairingcolorinputexplicitlyreuseuniformcompanionalreadyread,restrictedpairingonH notHomwholeGB. EachprimaryCOLORitself liesinsubgroupindex>=l^(b2-b3):scaledpairingradicalU[l^f],perfectquotient,samecolorimagesgeneratesisotropicA⊂Aperp =>index>=sqrtquotientorder. ColorcostifT2>=sigma chooseprimeprefixuntilthreshold,lastprimechargedOlogN polynomialcolorbound avoidovershoot;total2^oN. T2<sigma allcolorssubexp. LargeT2 colors intohighindexK thenbiasedsmallintersectiontheoremD20 (tau=o sigma),adaptiveKallowed. SmallT2 robustgraphl2bound differences²<=(1+4L0²)N,detLexpO_L0Nell andlowheightspan;bilinearinverse-ranklossonadaptiveF<=xiN andfewsmallB-eigenvalues<=xiN =>graphcompressionr/N<=2JB+2xi+o1 includingindefinite/rank0. RestrictedpairingimageindexONEpower andintegralfirstcoordsdetK>=1 inheritedexact. Biasedinverse-rank adaptation:fixedREALU choosebasisVI=I,conditionoutsideprincipalIblock=>VtBV=BII+fixedH,forcedblockatomcorankboundapplies;NOunbiasedF2distributioninvariance. Coverlist2^N²ell^-P plusnullityrankdistance,pushradicals bynonsingularB,uniforminprobarrays. Small-spectrum usescenteredvariancepb,rankmean<=2 ONLYHERE;fixedmomentsemicircleuniformallarrays (oddmomentsnotexactzero underbias,butlimit0),fixedw(xi,p),convexLipschitztracesL=(1/w)sqrt(2/pb),TalagrandARBITRARYproduct[0,1] theorem4.1.1 ratherthanuniformcubeTheorem3;ranktwo meanperturbationintervalcount<=4. NeedkeepTalagrandbibliographyIDENTITYqualifiedbymanuscript ifkeydenotesdifferentoldwork. Finally6zeta+2xi<e0;no explicitfiniteNthreshold/least-singular bound/efficientsampler,oldoriginals unread."
+    },
+    {
+      "at": "2026-10-23T09:30:44.093663+00:00",
+      "manuscript_id": "P-88bbfa0056a7bec9",
+      "source_files": [
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/sections/06-paths.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/layers.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/figures/terminal-window.tex",
+        "math/preprints/The-sharp-singularity-rate-for-biased-symmetric-sign-matrices-October-4-2026/build/references.tex"
+      ],
+      "note": "All555paths+61figure-source+158references actuallyread. Bothcurrentmanuscripts all24TeX8083lines nowactualread incl278referenceTeXlines;notcanonical/fullfamilypromotion. Gateddeletionoldinfinitynorm<=1 impliesnewl2<=L0sqrtN;commonquotients/retentionnecessarylattices/arbitrarylayer sets/tailrecursion inheriteduniformcompanion. CostlydefinedONLYretainedweight>=sigma;onecostlyextension probability<=pN=2^-N(a-2e0) via2^oNprefixmaskcover,simultaneoushighindexcubeintersection andmaxatom b^m,not probability2^-Shannon. SmallW2start width2 BOTHindependentcolumns gate<=pN². Dissociatedfixedmaskgeneralbiasedcost b^(2qN/3) withouttypicality;heavyheight>=R-1 masksentropy o_eta(qN) forq>=eta/100logN gives2^-cp qN. FixedlongH0=2ceilN^.6paths count2^oN,allnodes nearfullrankmean<=2 retained;backwardpathonlyeventcover,forwardfixedpathexposure conditionalindependence andfutureeventsindicatorsnotconditioning. Entireexposure truncatedheavyQ=0singularstart,dyadicmoment<=1+o1;tailrecursionbackthreshold>N^.6 killsallprimeheight cap;anywindowWR>eta entailsQsum>=eta(R-1)/4 =>2^-Omega_peta(NR). Biasedterminalwindow5R notuniformR^12;assumeterminalW2>zeta andallWR<=eta<zeta/4,deterministicallyTWOcostlydistinctsteps ORwidth2gatefromsmallW2. Ifexactlyonecostly latewithinR,twoearliernodeshaveW2<=delta;absencecheapstartwidth2 forcesadjacenttwowidth1,firstW1<=delta+4sigma thenheightinterlacingkeepsW2smallacrosscostlystep,remainingnoncostlycontradiction. For2positions towerconditionalexpectations <=pN² EVENadjacent,notassumedindependentsteps. UnionO(R²)and2^oNpaths,staticW2small bound,exception<=2^-N(2a-10e0). Figureschematicbounds/TikZsourceactuallyread;noPDFpixelsyet. Bibliographies:UNIFORMTalagrandkey1988Theorem3 DOI0964871-7 versusBIASEDTalagrand1995productspacesTheorem4.1.1 DOI BF02699376,DIFFERENTWORKS despiteSAMEKEY;mustqualifybeforemerge. ReverseMinkowskinumberingexplicitauthorarXiv1611.05979v6 distinctfrom2024publishedbytes. JSSDiscreteauthor2010.06554v2 andLT2004.03131v1 versionsspecified;SymmetricRateinternalcurrentcompanionread,HuSongWu2026newprimarynotread. No externalrootbodyread/Leanbuild/Comparator/numericrun."
+    }
+  ],
+  "recovery_evidence": {
+    "head": "7ce71bb",
+    "worktree_initially_clean": true,
+    "upstream_revision_verified": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+    "disk_free_observation": "17GiB",
+    "live_project_processes": "None beyond readonly ps query;previoushandles terminal",
+    "previous_storage_members_verified": 26,
+    "upstream_worktree_clean": true,
+    "source_inventory_hashes_verified": 24
+  }
+}

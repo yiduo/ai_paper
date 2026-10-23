@@ -1,0 +1,42 @@
+{
+  "work_package": "WP-094",
+  "started_at": "2026-10-22T06:20:24.315973+00:00",
+  "status": "completed_bounded_demand_qualification_not_application_run",
+  "project_base_commit": "aa50432",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "actual_existing_inputs": [
+    "APP-273-01",
+    "experiments/plans/APP-273-01-conditional.json",
+    "reports/entropy-photon-F273-reading.md",
+    "data/provenance/readings/F-273.json",
+    "math/preprints/The-entropy-photon-number-inequality-September-24-2026/build/sections/02-interpolation.tex:1-245 selected statement/operations"
+  ],
+  "source_project_budget": 3,
+  "planned_scopes": [
+    "LipSDP original paper/software actual contraction-certificate caller",
+    "CVXPY actual PSD modeling/residual interface and direct comparison",
+    "Kubo-Ando1980 original operator-mean statement if bounded retrieval succeeds"
+  ],
+  "new_numerical_run": false,
+  "full_family_complete": false,
+  "not_authorized_by_this_package": [
+    "engineering pilot",
+    "external outreach",
+    "GitHub push"
+  ],
+  "publication": "Local milestone batching,user requested fewerGitHubupdates",
+  "completed_at": "2026-10-22T06:35:11.233814+00:00",
+  "canonical_demand_ledger": "data/provenance/demand/F-273-fourweight-demand.json",
+  "quality_evidence": "reports/reproducibility/20261022-fourweight-demand",
+  "actual_source_projects": 3,
+  "original_software_commits": {
+    "LipSDP": "bf01cafe97195330f4eb516d7b3a57247b31c5b3",
+    "CVXPY": "8280648bd1f70fce701d362de4f58120f940c2f3"
+  },
+  "source_notice_archive": "data/provenance/tools/fourweight-interfaces-20261022.tar.gz",
+  "actual_source_body_lines": 1155,
+  "outcome": "Real related quadratic-certificate caller found,exact four-premise bank/judge/fullcost stillunadmitted;candidate retained withlower immediateimplementationpriority",
+  "new_initial_check_count": 0,
+  "new_candidate_count": 0,
+  "next_work_package": "WP-095"
+}

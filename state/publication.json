@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
   "state": "published",
-  "repository_url": "https://github.com/yiduo/ai_paper",
+  "repository_url": "https://github.com/yiduo/mathweave",
   "public": true,
   "remote_verified": true,
-  "verified_at": "2026-10-22T04:15:40.292105+00:00",
-  "verified_commit": "98c32a64fcaf642a206c604c1594c533307e0162",
+  "verified_at": "2026-10-22T05:36:10.206747+00:00",
+  "verified_commit": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0",
   "upstream_math_included": false,
   "scope": "Current reviewed project snapshot; no official OpenAI math directory, external full-text downloads, credentials, or bulk local Git history",
   "research_phase_one_complete": false,
-  "verified_tree": "59e9daa5ef416e6d86743b746ee5be6cffef1c5a",
+  "verified_tree": "91332f651a47d20c5c311ec7efc9da4f7bcb8ae9",
   "anonymous_api_verification": true,
   "upstream_math_paths": 0,
   "initial_snapshot_files": 1468,
   "initial_snapshot_bytes": 53092333,
-  "verification_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-publication-verification.json.gz",
+  "verification_receipt": "reports/reproducibility/20261022-publication-followup/WP090-WP092-publication-verification.json.gz",
   "initial_ci_attempt": {
     "url": "https://github.com/yiduo/ai_paper/actions/runs/39711929184",
     "conclusion": "failure",
@@ -27,8 +27,8 @@
     "comparison_unchanged": true
   },
   "linux_ci_scope": "68core checks,13otherarchived replays,exports and publication scan;EXP076andoptionalNumPyarchiveexcluded,not claimedportable",
-  "live_ci_url": "https://github.com/yiduo/ai_paper/actions",
-  "verification_scope": "Exact public science snapshot WP087-WP089/retro032,all1522blob paths/IDs and4selected files actualbytes anonymouslyverified. Publication doesnot mean CI or researchcompletion.",
+  "live_ci_url": "https://github.com/yiduo/mathweave/actions",
+  "verification_scope": "Exact WP090–WP092/retro033 publicsnapshot;all1592blob paths/modes/sizes/IDs match;6selectedfiles actualbytes anonymouslyread;onlypreviouspubliccommitparent. No officialmath.",
   "prior_verifications": [
     {
       "verified_at": "2026-10-22T02:33:01.917778+00:00",
@@ -36,33 +36,196 @@
       "verified_tree": "b5072cf49582671d90e84101945ebba09141969b",
       "verification_receipt": "reports/reproducibility/20261022-publication/initial-verification-and-replay.json.gz",
       "verification_scope": "Initial public commit;later updates remain separately inspectable in GitHub history. This receipt does not claim latest CI success."
+    },
+    {
+      "verified_at": "2026-10-22T04:15:40.292105+00:00",
+      "verified_commit": "98c32a64fcaf642a206c604c1594c533307e0162",
+      "verified_tree": "59e9daa5ef416e6d86743b746ee5be6cffef1c5a",
+      "verification_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-publication-verification.json.gz",
+      "verification_scope": "Exact public science snapshot WP087-WP089/retro032,all1522blob paths/IDs and4selected files actualbytes anonymouslyverified. Publication doesnot mean CI or researchcompletion.",
+      "latest_scoped_ci": {
+        "checked_at": "2026-10-22T04:18:23.789688+00:00",
+        "head_sha": "98c32a64fcaf642a206c604c1594c533307e0162",
+        "runs": [
+          {
+            "id": 39721336617,
+            "name": "offline-core",
+            "head_sha": "98c32a64fcaf642a206c604c1594c533307e0162",
+            "status": "completed",
+            "conclusion": "success",
+            "html_url": "https://github.com/yiduo/ai_paper/actions/runs/39721336617",
+            "created_at": "2026-10-22T04:15:12Z",
+            "updated_at": "2026-10-22T04:18:07Z",
+            "run_attempt": 1
+          }
+        ],
+        "scope": "68 core checks,13 archived replays,exports and publication audit as configured; no Lean, human, biological or optional NumPy validation"
+      },
+      "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-CI-observation.json.gz",
+      "latest_ci_conclusion": "success"
     }
   ],
   "latest_progress_packages": [
-    "WP-087",
-    "WP-088",
-    "WP-089"
+    "WP-090",
+    "WP-091",
+    "WP-092"
   ],
-  "latest_retrospective": "032",
+  "latest_retrospective": "033",
   "latest_scoped_ci": {
-    "checked_at": "2026-10-22T04:18:23.789688+00:00",
-    "head_sha": "98c32a64fcaf642a206c604c1594c533307e0162",
+    "checked_at": "2026-10-22T05:41:10.422660+00:00",
+    "head_sha": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0",
     "runs": [
       {
-        "id": 39721336617,
+        "id": 39728877160,
         "name": "offline-core",
-        "head_sha": "98c32a64fcaf642a206c604c1594c533307e0162",
+        "head_sha": "f0c3ddc05b4e8de3bb104216e2eb8ffa5d7875a0",
         "status": "completed",
         "conclusion": "success",
-        "html_url": "https://github.com/yiduo/ai_paper/actions/runs/39721336617",
-        "created_at": "2026-10-22T04:15:12Z",
-        "updated_at": "2026-10-22T04:18:07Z",
+        "html_url": "https://github.com/yiduo/ai_paper/actions/runs/39728877160",
+        "created_at": "2026-10-22T05:35:15Z",
         "run_attempt": 1
       }
     ],
-    "scope": "68 core checks,13 archived replays,exports and publication audit as configured; no Lean, human, biological or optional NumPy validation"
+    "jobs": [
+      {
+        "name": "portable-core",
+        "status": "completed",
+        "conclusion": "success",
+        "steps": [
+          {
+            "name": "Set up job",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/checkout@v4",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run actions/setup-python@v5",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/check.py",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-128-001-adf42abc31aca23e",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-097-001-f4db184a4c5e6d4d",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-130-001-eadb2e7b3a00d556",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-374-001-bc1d2887fa6a5d33",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/CHK-374-MOMENTS-001-67a3ef843df4bf9f",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-238-001-a1d52c04aeb9b1ba",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-200-001-a8300854205212bf",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/CHK-200-LEX-001-433f4f99a2d5ac2e",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-221-001-be34f84b97b2e9a9",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-314-001-ce8cf18c32275b81",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-325-001-9bedfaa5ac3a53d0",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-119-001-e9d098be0b1dda8f",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/replay_run.py experiments/runs/EXP-332-001-b2607a9926c44586",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run PYTHONPATH=src python -m ai_value.cli export-graph",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Run python scripts/audit_publication.py",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/setup-python@v5",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Post Run actions/checkout@v4",
+            "status": "completed",
+            "conclusion": "success"
+          },
+          {
+            "name": "Complete job",
+            "status": "completed",
+            "conclusion": "success"
+          }
+        ]
+      }
+    ],
+    "scope": "68core,13configuredarchivedreplays,exports andpublicationaudit. EXP076strictLinux/optionalNumPyexcluded;noLean/human/secondproviderornewapplicationtest."
   },
-  "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP087-WP089-CI-observation.json.gz",
+  "latest_ci_receipt": "reports/reproducibility/20261022-publication-followup/WP090-WP092-CI-observation.json.gz",
   "latest_ci_conclusion": "success",
-  "receipt_storage_scope": "These follow-up receipts and updated local state are saved after scientific commit98c32a6 was published;not yet included in that public snapshot. Inspect public Actions for that commit."
+  "receipt_storage_scope": "Last verified publicf0c3ddc coversWP090-WP092/retro033 only;WP093-WP095,currentfullsource/graph/quality andretro034 localonly. No push in WP095;meaningful milestone batches only.",
+  "update_policy": {
+    "recorded_at": "2026-10-22",
+    "user_instruction": "减少频繁更新GitHub",
+    "mode": "milestone_batches_only",
+    "rule": "Keep routine package commits,reading journals and checkpoints local. Consider a reviewed release batch after meaningful milestone/global retrospective;do not automatically publish every retrospective or package. An explicit user publication request can override cadence.",
+    "official_math_excluded": true,
+    "push_this_package": false
+  },
+  "project_name": "MathWeave",
+  "repository_id": 1429150108,
+  "renamed_from": "yiduo/ai_paper",
+  "renamed_at": "2026-10-23T09:42:44.467813+00:00",
+  "pending_batch": {
+    "scope": "WP093-WP107/retrospectives034-038 plus incomplete WP108 reading journal",
+    "state": "preparing",
+    "requested_by_owner": true,
+    "new_ci_verified": false
+  }
 }

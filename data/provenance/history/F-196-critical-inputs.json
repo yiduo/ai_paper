@@ -1,0 +1,414 @@
+{
+  "work_package": "WP-100",
+  "generation": "GEN-20261023-097",
+  "at": "2026-10-23T04:56:20.945145+00:00",
+  "base_commit": "9e35254",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "family": "F-196",
+  "previous_reading_ledger": "data/provenance/readings/F-196.json",
+  "acquisition": {
+    "cap": 8388608,
+    "downloaded_bytes": 3115137,
+    "requests": [
+      {
+        "name": "LiptonTarjan1979.pdf",
+        "url": "https://www.cs.princeton.edu/courses/archive/fall06/cos528/handouts/sepplanar.pdf",
+        "at": "2026-10-23T04:45:36.348452+00:00",
+        "status": 200,
+        "final_url": "https://www.cs.princeton.edu/courses/archive/fall06/cos528/handouts/sepplanar.pdf",
+        "content_type": "application/pdf",
+        "bytes": 837015,
+        "sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6"
+      },
+      {
+        "name": "Hatcher-ch4.pdf",
+        "url": "https://pi.math.cornell.edu/~hatcher/AT/ATch4.pdf",
+        "at": "2026-10-23T04:45:40.666451+00:00",
+        "status": 200,
+        "final_url": "https://pi.math.cornell.edu/~hatcher/AT/ATch4.pdf",
+        "content_type": "application/pdf",
+        "bytes": 1337444,
+        "sha256": "2406a6d735efabec618e336e351066237f903b8c917a7ddc73034e80ba83b737"
+      },
+      {
+        "name": "Hatcher-ch0.pdf",
+        "url": "https://pi.math.cornell.edu/~hatcher/AT/ATch0.pdf",
+        "at": "2026-10-23T04:46:52.430080+00:00",
+        "status": 200,
+        "final_url": "https://pi.math.cornell.edu/~hatcher/AT/ATch0.pdf",
+        "content_type": "application/pdf",
+        "bytes": 283346,
+        "sha256": "3c390bac0b166d5e084bc723c8593dcc7fc6b9bef54dbcae0784a3d348c3c73e"
+      },
+      {
+        "name": "Brown-I-preview.pdf",
+        "url": "https://page-one.springer.com/pdf/preview/10.1007/978-1-4684-9327-6_2",
+        "at": "2026-10-23T04:46:55.439330+00:00",
+        "status": 200,
+        "final_url": "https://page-one.springer.com/pdf/preview/10.1007/978-1-4684-9327-6_2",
+        "content_type": "application/pdf",
+        "bytes": 358081,
+        "sha256": "27161985fe4de1034cfb913490de55cfd341a32f47beabaceb45bdb2ad3510e1"
+      },
+      {
+        "name": "Brown-VIII-preview.pdf",
+        "url": "https://page-one.springer.com/pdf/preview/10.1007/978-1-4684-9327-6_9",
+        "at": "2026-10-23T04:46:58.226828+00:00",
+        "status": 200,
+        "final_url": "https://page-one.springer.com/pdf/preview/10.1007/978-1-4684-9327-6_9",
+        "content_type": "application/pdf",
+        "bytes": 299251,
+        "sha256": "cade6a43d57cd9d5909f3ab88dcb94f7e19016736412222a1e8f26dccfb15386"
+      }
+    ]
+  },
+  "original_works": {
+    "LiptonTarjan1979": {
+      "node": "LIT-196-LIPTONTARJAN1979",
+      "files": [
+        "LiptonTarjan1979.pdf"
+      ],
+      "version": "Published SIAM J.Appl.Math.36(2),1979,177-189;Princeton course-hosted scan,actual hash only",
+      "actual_read_scope": "PDF1-8 / printed177-184 by page pixels;Intro,Section2 Lemmas1-3/Theorem4/Corollaries1-3 and start ofSection3;remainingPDF9-14 unread",
+      "original_needed_scope": "Corollary2 p183 gives <=2sqrt(2n) separator with each side<=2n/3;proof is uniform vertexcost1/n specialization of weightedTheorem4 p182-183",
+      "verified_scope": "Required constant and unrestricted disconnected planar input verified in original;supporting selected proof read,not full recursive historical closure",
+      "proof_or_application_limits": "F196 removes loops/merges parallel edges first. Original weightedcost and linear-time algorithm statements are older;algorithm Section3 not fully read or run. No source theorem runtime/application gain claimed."
+    },
+    "Hatcher2002": {
+      "node": "LIT-200-00F68475E7",
+      "files": [
+        "Hatcher-ch0.pdf",
+        "Hatcher-ch4.pdf"
+      ],
+      "version": "Author-hosted chapter PDFs retrieved2026-10-23;chapter0 metadata2018-01-08,chapter4 metadata2021-06-03. Bibliographicbook2002;not asserted original-print byte identity",
+      "actual_read_scope": "Chapter0 text lines600-810:HEP definitions,Propositions0.16-0.19,Corollaries0.20-0.21 and selected proofs,printed14-17. Chapter4 text385-495 and1380-1745:selected4.5/4.6,4.32/4.33,4.36/4.37 and supporting discussion/proofs,printed346-348 and366-373. Not whole chapters/book",
+      "original_needed_scope": "CW/relativeHEP,simply-connected acyclic=>contractible viaCor4.33;Hurewicz4.32 and naturalmap4.37 with A=point,n2 for universal-cover sphere homology",
+      "verified_scope": "Actual statement conditions and selected proofs match these scoped uses;A=point removes general relativecoinvariant quotient. Homologyisomorphism requires simpleconnectivity and a map,not merely abstract groupisomorphisms",
+      "proof_or_application_limits": "Relative equivalence must fix common graph/subcomplex and glue overF;not an assertion that arbitrary attachment labels are embeddings. No audit of all sourcePLtriangulation/cellular approximation/covering lemmas or recursive textbook history."
+    },
+    "Brown1982": {
+      "node": "LIT-196-BROWN1982",
+      "files": [
+        "Brown-I-preview.pdf",
+        "Brown-VIII-preview.pdf"
+      ],
+      "version": "Publisher first-edition1982 chapter previews,current actual two-page bytes for each;not full chapters or fullbook",
+      "actual_read_scope": "ChapterI printed4-5 (previewPDF1-2) chaincomplex/homotopy definitions;ChapterVIII printed183-184 (previewPDF1-2),intro andLemma2.1 statement/proof",
+      "original_needed_scope": "VIII.2 finiteprojectiveresolution length boundsExt/cohomology;I.Theorem7.5 p24 comparison/resolution independence cited byF196",
+      "verified_scope": "VIII.2.1 equivalence and distinction between finite length/dimension versus finite generation/cell count verified in preview;I.7.5 p24 and full cyclic-resolution/cohomology proof not obtained",
+      "proof_or_application_limits": "Preview ends atI.p5 andVIII.p184;no credit for unreadp24 or entireVIII.2. Publisher requests institutional/purchase access for fullchapters;no auth/purchase attempted,no substitution by later authorlecture or secondarynotes."
+    }
+  },
+  "actual_pdf_pixels": [
+    {
+      "image_name": "LT-p1.png",
+      "image_bytes": 207167,
+      "image_sha256": "819cda69a41ee4da0f3adcc4210e8306ad940c79129b916af27e21531564f642",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 1,
+      "printed_page": 177,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p2.png",
+      "image_bytes": 224701,
+      "image_sha256": "a546a0b80264101d36bef841f7bd56958b99f2fb9a4a12c7472ac610a87b7a81",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 2,
+      "printed_page": 178,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p3.png",
+      "image_bytes": 162671,
+      "image_sha256": "158619f7ae8762d55cc42bf351085f0b3ccefce40b2811a3939d8fb75b9af086",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 3,
+      "printed_page": 179,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p4.png",
+      "image_bytes": 131400,
+      "image_sha256": "b699f4fe83343cacfcc229dfd5d306aebfbe53e19e31733ae9034ede018e2dc0",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 4,
+      "printed_page": 180,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p5.png",
+      "image_bytes": 251592,
+      "image_sha256": "aac9ee734fd20941ad718938de2d4232e2a9ef81ec28b7a219fd23f420019483",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 5,
+      "printed_page": 181,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p6.png",
+      "image_bytes": 171844,
+      "image_sha256": "af8a64e3e7800652e011420f5a6c7e8ff0c014d48af684627972d9b9939992c7",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 6,
+      "printed_page": 182,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p7.png",
+      "image_bytes": 196668,
+      "image_sha256": "86cab833dc06c06432793f52a8493cc0cd2c42dd38c281b555bf55bf54a823c1",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 7,
+      "printed_page": 183,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "LT-p8.png",
+      "image_bytes": 201147,
+      "image_sha256": "db39d4e0956433cfa8ba36f9c2f335c9449644deb0652565702612441818d6b9",
+      "source_name": "LiptonTarjan1979.pdf",
+      "source_sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "pdf_page_one_based": 8,
+      "printed_page": 184,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "Hatcher-ch4-p30.png",
+      "image_bytes": 385610,
+      "image_sha256": "00990218afb9588b08deb1f742d8c77862283fff46932ab9c465a835b380151b",
+      "source_name": "Hatcher-ch4.pdf",
+      "source_sha256": "2406a6d735efabec618e336e351066237f903b8c917a7ddc73034e80ba83b737",
+      "pdf_page_one_based": 30,
+      "printed_page": 366,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "Hatcher-ch4-p35.png",
+      "image_bytes": 407988,
+      "image_sha256": "0ad3de6d9267e7904381e7240f93a5d9f71ef7b368b4851d7f3506c3eec9e797",
+      "source_name": "Hatcher-ch4.pdf",
+      "source_sha256": "2406a6d735efabec618e336e351066237f903b8c917a7ddc73034e80ba83b737",
+      "pdf_page_one_based": 35,
+      "printed_page": 371,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "Hatcher-ch0-p16.png",
+      "image_bytes": 367883,
+      "image_sha256": "55b88c1890fc4c2314bb2db8e35c3a58746b4256c631986b55343f96b8113373",
+      "source_name": "Hatcher-ch0.pdf",
+      "source_sha256": "3c390bac0b166d5e084bc723c8593dcc7fc6b9bef54dbcae0784a3d348c3c73e",
+      "pdf_page_one_based": 16,
+      "printed_page": 16,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "Brown-VIII-p1.png",
+      "image_bytes": 219369,
+      "image_sha256": "cffa413d16d16bd48829ce9f4b6ce765e45ccb7269625ee0ec8acdbf5ce7b3c0",
+      "source_name": "Brown-VIII-preview.pdf",
+      "source_sha256": "cade6a43d57cd9d5909f3ab88dcb94f7e19016736412222a1e8f26dccfb15386",
+      "pdf_page_one_based": 1,
+      "printed_page": 183,
+      "pixels_actually_viewed": true
+    },
+    {
+      "image_name": "Brown-VIII-p2.png",
+      "image_bytes": 241039,
+      "image_sha256": "66ae02335514f122f18eb037123e5d4fad8ae66ad94f24eaeeb1965bd7a700e8",
+      "source_name": "Brown-VIII-preview.pdf",
+      "source_sha256": "cade6a43d57cd9d5909f3ab88dcb94f7e19016736412222a1e8f26dccfb15386",
+      "pdf_page_one_based": 2,
+      "printed_page": 184,
+      "pixels_actually_viewed": true
+    }
+  ],
+  "contracts": [
+    {
+      "id": "OLD-196-LT-WEIGHTED-SEPARATOR",
+      "kind": "claim",
+      "title": "Weighted original planar separator",
+      "statement": "For a planar graph on n vertices with nonnegative vertex costs summing to at most1,Theorem4 gives A,B,C with no A-B edges,each A/B cost<=2/3,and|C|<=2sqrt(2n). Disconnected graphs explicitly handled.",
+      "conditions": [
+        "Vertex costs are nonnegative and normalized;bound counts separator vertices,not separator cost.",
+        "Selected original proof uses BFS layers,bounded-radius cycle separator and planar contractions;remaining historical roots not independently read."
+      ],
+      "work": "LiptonTarjan1979",
+      "locator": "Theorem4 printed182-183 / PDF6-7;support Lemmas2-3 printed179-182"
+    },
+    {
+      "id": "OLD-196-LT-UNWEIGHTED-SEPARATOR",
+      "kind": "claim",
+      "title": "Original Corollary2 count separator",
+      "statement": "With uniform vertex costs1/n,Corollary2 partitions planar vertices into A,B,C,with no A-B edges,|A|,|B|<=2n/3,and|C|<=2sqrt(2n).",
+      "conditions": [
+        "Each component after deleting C is contained in A or B.",
+        "Apply to F196 simplified underlying graph;multigraph simplification preserves components after every vertex deletion."
+      ],
+      "work": "LiptonTarjan1979",
+      "locator": "Corollary2 and complete short proof printed183 / PDF7"
+    },
+    {
+      "id": "PART-196-LT-LEVEL-CYCLE",
+      "kind": "method",
+      "title": "Old layered planar cycle separator",
+      "input": "Planar embedding,nonnegative normalized vertex costs and BFS layers",
+      "output": "A bounded separator controlling weighted side masses;uniform costs yield count separator",
+      "conditions": [
+        "Bounded-radius spanning tree yields cycle length<=2r+1;contract lower layers and select bounding levels.",
+        "Existing original algorithm needs a representation of the embedding;onlySection3 start read,implementation/runtime not tested."
+      ],
+      "work": "LiptonTarjan1979",
+      "locator": "Lemmas2-3/Theorem4 printed179-183;Section3 opening printed184 / PDF3-8"
+    },
+    {
+      "id": "OLD-196-HATCHER-HOMOLOGICAL-WHITEHEAD",
+      "kind": "claim",
+      "title": "Homological Whitehead with simple connectivity",
+      "statement": "A map between simply-connected CW complexes inducing isomorphisms on all homology groups is a homotopy equivalence;in particular a simply-connected acyclic CW complex is contractible.",
+      "conditions": [
+        "Acyclicity alone without simple connectivity is insufficient.",
+        "Requires a map with induced homology isomorphisms;not a claim that arbitrary abstractly equal homotopy groups determine homotopytype."
+      ],
+      "work": "Hatcher2002",
+      "file": "Hatcher-ch4.pdf",
+      "locator": "Corollary4.33 and proof printed367-368 / PDF31-32;Theorem4.5 and Lemma4.6 printed346-347 / PDF10-11"
+    },
+    {
+      "id": "OLD-196-HATCHER-CW-HEP",
+      "kind": "claim",
+      "title": "CW homotopy extension",
+      "statement": "A CW pair has the homotopy extension property,obtained by relative cellwise deformation retractions.",
+      "conditions": [
+        "Specified boundary homotopy agrees with the initial map;continuity uses CW weak topology.",
+        "Not every closed pair has HEP;the old text gives an explicit bad closed subset of an interval."
+      ],
+      "work": "Hatcher2002",
+      "file": "Hatcher-ch0.pdf",
+      "locator": "HEP definitions and Proposition0.16 proof printed14-15 / PDF14-15"
+    },
+    {
+      "id": "OLD-196-HATCHER-RELATIVE-EQUIVALENCE",
+      "kind": "claim",
+      "title": "Homotopy equivalence relative to a common subcomplex",
+      "statement": "For HEP pairs (X,A),(Y,A),a homotopy equivalence fixing A can be made a homotopy equivalence relative to A;CW attaching maps homotopic on A yield glued spaces equivalent relative to the base.",
+      "conditions": [
+        "Both relative pair structures and pointwise identity on A matter.",
+        "This supports the scoped cone-substitute gluing overF,not injectivity of the labelled graph map intoF."
+      ],
+      "work": "Hatcher2002",
+      "file": "Hatcher-ch0.pdf",
+      "locator": "Propositions0.18-0.19 and proof printed16-17 / PDF16-17"
+    },
+    {
+      "id": "OLD-196-HATCHER-HUREWICZ",
+      "kind": "claim",
+      "title": "First nonzero Hurewicz range",
+      "statement": "For an (n-1)-connected space,n>=2,reduced homology below n vanishes and pi_n is isomorphic to H_n;the stated relative version also requires A nonempty and simply-connected.",
+      "conditions": [
+        "For universalcover andn2 simple connectivity is essential.",
+        "Does not identify all higher homotopy with homology or prove asphericity from a finite low-dimensional sample."
+      ],
+      "work": "Hatcher2002",
+      "file": "Hatcher-ch4.pdf",
+      "locator": "Theorem4.32 and proof printed366-367 / PDF30-31"
+    },
+    {
+      "id": "OLD-196-HATCHER-HUREWICZ-MAP",
+      "kind": "claim",
+      "title": "Natural sphere-to-homology map and relative quotient",
+      "statement": "The Hurewicz map sends a sphere class to its induced fundamental homologyclass. Theorem4.37 identifies a relative quotient by pi1(A)-action in the connected range;A=basepoint gives the absolute theorem used byF196.",
+      "conditions": [
+        "n>=2 and (X,A) (n-1)-connected,A nonempty/path-connected.",
+        "The homomorphism/naturality are explicit;the general relative quotient cannot be omitted for arbitrary A."
+      ],
+      "work": "Hatcher2002",
+      "file": "Hatcher-ch4.pdf",
+      "locator": "Definition/Proposition4.36 printed369-370;Theorem4.37 printed371 and selected proof through373 / PDF33-37"
+    },
+    {
+      "id": "OLD-196-BROWN-FINITE-RESOLUTION-VANISHING",
+      "kind": "claim",
+      "title": "Finite projective dimension and Ext vanishing,visible original scope",
+      "statement": "BrownVIII.2.1 equates projective dimension<=n with vanishing Ext^i(M,-) for i>n,and gives the projective-kernel condition for partial resolutions.",
+      "conditions": [
+        "RingR,moduleM,n nonnegative;not a statement of finite generation.",
+        "Read actual statement/proof onp184;resolution-independence TheoremI.7.5p24 remains unread."
+      ],
+      "work": "Brown1982",
+      "file": "Brown-VIII-preview.pdf",
+      "locator": "ChapterVIII pp183-184,especially Lemma2.1 / previewPDF1-2"
+    },
+    {
+      "id": "PART-196-RESOLUTION-DIMENSION-GATE",
+      "kind": "method",
+      "title": "Separate resolution length from generation size",
+      "input": "A proposed finite-length free/projective resolution or finite-dimensional classifying space",
+      "output": "Require exactness/length and coefficient/module semantics before using cohomology vanishing;track finite generation separately",
+      "conditions": [
+        "F196 restriction to primecyclicH keeps freeness via coset representatives,but modules can lose finite generation.",
+        "Primecyclic periodic cohomology and comparison theorem are not supplied by the visible Brown preview;F196 gives its own coefficient calculation."
+      ],
+      "work": "Brown1982",
+      "file": "Brown-VIII-preview.pdf",
+      "locator": "ChapterVIII intro andLemma2.1 pp183-184;F196topologycor:torsion-free for restriction calculation"
+    },
+    {
+      "id": "CHECK-196-BROWN-COMPARISON-UNREAD",
+      "kind": "claim",
+      "title": "Comparison theorem remains an actual original-source gap",
+      "statement": "Anonymous publisher access yielded chapterI pages4-5,not Theorem7.5p24. No original comparison-theorem proof credit or full cyclic-cohomology lineage credit was obtained.",
+      "conditions": [
+        "Not a statement that the comparison theorem is false or absent from the book.",
+        "No full-source/model/human/provider promotion from the purchase page or preview."
+      ],
+      "work": "Brown1982",
+      "file": "Brown-I-preview.pdf",
+      "locator": "VisiblepreviewPDF1-2 / printed4-5;publisherchapter10.1007/978-1-4684-9327-6_2"
+    },
+    {
+      "id": "CHECK-196-HUREWICZ-SPECIALIZATION",
+      "kind": "claim",
+      "title": "F196 Theorem4.37 citation uses a valid basepoint specialization",
+      "statement": "The general relative Theorem4.37 explicitly includes A=basepoint. With simply-connected universalcover andn2,the required natural pi2-to-H2 isomorphism is within the visible old statement.",
+      "conditions": [
+        "No specification mismatch is inferred merely because the old theorem is phrased for relative groups.",
+        "This local source comparison does not audit all cone pictures,lift uniqueness,or the proof that the cover is simply-connected."
+      ],
+      "work": "Hatcher2002",
+      "file": "Hatcher-ch4.pdf",
+      "locator": "Theorem4.37 opening p371 / PDF35 and spherehomology use in F196topology section"
+    }
+  ],
+  "required_original_scope_checked_keys_added": [
+    "LiptonTarjan1979",
+    "Hatcher2002"
+  ],
+  "partial_original_body_key": "Brown1982",
+  "comparison_theorem_still_unread": true,
+  "recursive_history_complete": false,
+  "full_family_complete": false,
+  "all_full_dependency_grades": "unknown",
+  "no_new_application_candidate_or_check": true,
+  "no_numerical_symbolic_Lean_Comparator_run": true,
+  "publisher_access_observations": [
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-1-4684-9327-6_2",
+      "scope": "Metadata/abstract/accessscreen/previewlinks read viaweb;no retained rawHTML/hash,no fullI.7.5p24"
+    },
+    {
+      "url": "https://link.springer.com/chapter/10.1007/978-1-4684-9327-6_9",
+      "scope": "Metadata/abstract/accessscreen/previewlinks read viaweb;two-pagepreview ends atp184"
+    }
+  ],
+  "retrieval_path_note": "webopen ofPrincetonscan403;boundednormalTLS urllib200. No insecureTLS/auth/purchase orlibraryinstall. No attempt to acquire a fourth substituteoriginal work.",
+  "github_push": false
+}

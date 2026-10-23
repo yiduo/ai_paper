@@ -2,9 +2,9 @@
 
 由规范记录的稳定ID、外键和显式边生成；不改写事实、不合并版本、不新增应用或检验。
 
-372族登记；49族有实际阅读记录；45份族分析、44份全文草稿；41候选、13实际检验。
+372族登记；57族有实际阅读记录；53份族分析、52份全文草稿；44候选、13实际检验。
 
-其中18候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。10候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
+其中19候选尚无直接指向旧方法的compared_with／compares_with边；这表示关系整理缺口，不表示没有旧方法或卡片未写基线。10候选明确连接未建立的先决条件；其他候选没有这种标记不等于条件已经满足。
 
 方法契约字段仅作结构盘点；语义完整性、最强旧方法、人审和完整谱系仍须实际审核。点击ID进入图谱并查看原始来源；未读标题来自目录，不计阅读。
 
@@ -14,6 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [APP-021-01](index.html#APP-021-01) | F-021 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-021-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-025-01](index.html#APP-025-01) | F-025 | 尚未运行 | 5 | [PART-025-CONSUMER-GATE](index.html#PART-025-CONSUMER-GATE)、[PART-025-BITCOST-GATE](index.html#PART-025-BITCOST-GATE)、[PART-025-SYMPY-RUNTIME-GATE](index.html#PART-025-SYMPY-RUNTIME-GATE) | [卡片](../cards/APP-025-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-058-01](index.html#APP-058-01) | F-058 | 尚未运行 | 3 | 未显式标记 | [卡片](../cards/APP-058-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-076-01](index.html#APP-076-01) | F-076 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-076-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-076-02](index.html#APP-076-02) | F-076 | 有run；按原预测结果 | 2 | 未显式标记 | [卡片](../cards/APP-076-02.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-089-01](index.html#APP-089-01) | F-089 | 尚未运行 | 2 | 未显式标记 | [卡片](../cards/APP-089-01.md)：原文、方法、baseline、limitations、revisit_when |
@@ -41,10 +42,12 @@
 | [APP-238-02](index.html#APP-238-02) | F-238 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-238-02.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-243-01](index.html#APP-243-01) | F-243 | 尚未运行 | 3 | [PART-243-CPT-COMPILER-GATE](index.html#PART-243-CPT-COMPILER-GATE)、[PART-243-SPARSE-ENCODING-GATE](index.html#PART-243-SPARSE-ENCODING-GATE) | [卡片](../cards/APP-243-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-255-01](index.html#APP-255-01) | F-255 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-255-01.md)：原文、方法、baseline、limitations、revisit_when |
-| [APP-273-01](index.html#APP-273-01) | F-273 | 尚未运行 | 2 | [PART-273-METRIC-CONSUMER-GATE](index.html#PART-273-METRIC-CONSUMER-GATE)、[PART-273-FINITE-COST-GATE](index.html#PART-273-FINITE-COST-GATE) | [卡片](../cards/APP-273-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-256-01](index.html#APP-256-01) | F-256 | 尚未运行 | 4 | 未显式标记 | [卡片](../cards/APP-256-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-273-01](index.html#APP-273-01) | F-273 | 尚未运行 | 4 | [PART-273-METRIC-CONSUMER-GATE](index.html#PART-273-METRIC-CONSUMER-GATE)、[PART-273-FINITE-COST-GATE](index.html#PART-273-FINITE-COST-GATE) | [卡片](../cards/APP-273-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-273-02](index.html#APP-273-02) | F-273 | 有run；按原预测结果 | 5 | 未显式标记 | [卡片](../cards/APP-273-02.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-276-01](index.html#APP-276-01) | F-276 | 尚未运行 | 2 | 未显式标记 | [卡片](../cards/APP-276-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-294-01](index.html#APP-294-01) | F-294 | 尚未运行 | 4 | [PART-294-CONSUMER-GATE](index.html#PART-294-CONSUMER-GATE)、[PART-294-BASELINE-BUDGET-GATE](index.html#PART-294-BASELINE-BUDGET-GATE) | [卡片](../cards/APP-294-01.md)：原文、方法、baseline、limitations、revisit_when |
+| [APP-304-01](index.html#APP-304-01) | F-304 | 尚未运行 | 0 | 未显式标记 | [卡片](../cards/APP-304-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-314-01](index.html#APP-314-01) | F-314 | 有run；按原预测结果 | 2 | 未显式标记 | [卡片](../cards/APP-314-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-325-01](index.html#APP-325-01) | F-325 | 有run；按原预测结果 | 1 | 未显式标记 | [卡片](../cards/APP-325-01.md)：原文、方法、baseline、limitations、revisit_when |
 | [APP-332-01](index.html#APP-332-01) | F-332 | 有run；按原预测结果 | 6 | [PART-332-REAL-DENOISING-CONSUMER-GATE](index.html#PART-332-REAL-DENOISING-CONSUMER-GATE) | [卡片](../cards/APP-332-01.md)：原文、方法、baseline、limitations、revisit_when |
@@ -114,7 +117,7 @@
 | [F-055 · Gepner symmetry and large-volume stability on threefolds.](index.html#F-055) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-056 · Termination of projective and Kähler fourfold minimal model programs.](index.html#F-056) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-057 · Fundamental groups of special complex varieties and root orbifolds.](index.html#F-057) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-058 · Semialgebraic universal covers and bounded domains.](index.html#F-058) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-058 · Semialgebraic universal covers and bounded domains.](index.html#F-058) | Algebraic and complex geometry | 有选读记录 | [全文草稿](../families/F-058.md) | 73／23 | 1 |
 | [F-059 · Counterexamples to Zariski’s multiplicity conjecture.](index.html#F-059) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-060 · The Global Spherical Shell conjecture.](index.html#F-060) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-062 · Projective contact classification and the LeBrun–Salamon conjecture.](index.html#F-062) | Algebraic and complex geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -192,7 +195,7 @@
 | [F-136 · A quasilinear PCP theorem for PPAD.](index.html#F-136) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-137 · One-tape time simulation in two-fifths-power space.](index.html#F-137) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-138 · Subset Sum in $`O(2^{0.49n})`$ time.](index.html#F-138) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-139 · Subpolynomial query complexity for log-concave sampling.](index.html#F-139) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-139 · Subpolynomial query complexity for log-concave sampling.](index.html#F-139) | Theoretical computer science | 有选读记录 | [全文草稿](../families/F-139.md) | 39／16 | 0 |
 | [F-140 · Memory–sample lower bounds for noiseless Gaussian regression.](index.html#F-140) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-141 · Existential–universal real sentences in the counting hierarchy.](index.html#F-141) | Theoretical computer science | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-142 · Deterministic polynomial factorization over prime fields.](index.html#F-142) | Theoretical computer science | 有选读记录 | [全文草稿](../families/F-142.md) | 30／26 | 1 |
@@ -226,7 +229,7 @@
 | [F-171 · The hypercube Ramsey conjecture.](index.html#F-171) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-172 · Classification of finite Euclidean Ramsey configurations.](index.html#F-172) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-173 · Seymour’s second-neighborhood conjecture.](index.html#F-173) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-174 · Deterministic construction of strong thin spanning trees.](index.html#F-174) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-174 · Deterministic construction of strong thin spanning trees.](index.html#F-174) | Combinatorics | 有选读记录 | [全文草稿](../families/F-174.md) | 58／15 | 0 |
 | [F-175 · Talagrand’s expectation thresholds, discrete convexity, and graph decompositions.](index.html#F-175) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-176 · The second Kahn–Kalai conjecture with an edge-count bound.](index.html#F-176) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-177 · Bounded-degree coboundary expanders.](index.html#F-177) | Combinatorics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -248,9 +251,9 @@
 | [F-193 · Serre’s intersection-multiplicity conjecture.](index.html#F-193) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-194 · Lech’s multiplicity conjecture.](index.html#F-194) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-195 · A counterexample to the small Cohen–Macaulay module conjecture.](index.html#F-195) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-196 · A counterexample to Kaplansky’s zero-divisor conjecture.](index.html#F-196) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-196 · A counterexample to Kaplansky’s zero-divisor conjecture.](index.html#F-196) | Algebra | 有选读记录 | [全文草稿](../families/F-196.md) | 25／21 | 0 |
 | [F-197 · A torsion-free group algebra that is not directly finite.](index.html#F-197) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-198 · A counterexample to finitistic-dimension finiteness.](index.html#F-198) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-198 · A counterexample to finitistic-dimension finiteness.](index.html#F-198) | Algebra | 有选读记录 | [全文草稿](../families/F-198.md) | 27／27 | 0 |
 | [F-199 · Counterexamples to Auslander–Reiten, Tachikawa and related homological conjectures.](index.html#F-199) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-200 · Eisenbud–Green–Harris and lex-plus-powers.](index.html#F-200) | Algebra | 有选读记录 | [全文草稿](../families/F-200.md) | 45／12 | 1 |
 | [F-201 · A counterexample to Kurosh’s division-ring problem.](index.html#F-201) | Algebra | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -308,7 +311,7 @@
 | [F-253 · An infinite finitely presented simple amenable group.](index.html#F-253) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-254 · Classifying spaces and geometric obstructions for Artin groups.](index.html#F-254) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-255 · Quasi-isometric recognition of virtually polycyclic groups.](index.html#F-255) | Group theory | 有选读记录 | [全文草稿](../families/F-255.md) | 47／15 | 1 |
-| [F-256 · Nonsingular systems of equations over arbitrary groups.](index.html#F-256) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-256 · Nonsingular systems of equations over arbitrary groups.](index.html#F-256) | Group theory | 有选读记录 | [全文草稿](../families/F-256.md) | 13／24 | 1 |
 | [F-257 · A hyperbolic group without a geometric CAT(0) action.](index.html#F-257) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-258 · Gersten’s conjecture and virtual compact specialness of one-relator groups.](index.html#F-258) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-259 · A group without fixed price.](index.html#F-259) | Group theory | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -325,7 +328,7 @@
 | [F-270 · Threshold and positive-energy bound states of the BFSS matrix model.](index.html#F-270) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-271 · Bloch's law, its lattice correction, and the spherical magnetization law.](index.html#F-271) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-272 · Entanglement without distillable secret key.](index.html#F-272) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-273 · The entropy photon-number inequality.](index.html#F-273) | Mathematical physics | 有选读记录 | [全文草稿](../families/F-273.md) | 17／26 | 2 |
+| [F-273 · The entropy photon-number inequality.](index.html#F-273) | Mathematical physics | 有选读记录 | [全文草稿](../families/F-273.md) | 17／27 | 2 |
 | [F-274 · Parity is not in QAC<sup>0</sup>.](index.html#F-274) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-275 · QMA-hardness of continuum Coulomb energy.](index.html#F-275) | Mathematical physics | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-276 · Classical capacity of generalized amplitude damping.](index.html#F-276) | Mathematical physics | 有选读记录 | [全文草稿](../families/F-276.md) | 14／10 | 1 |
@@ -356,7 +359,7 @@
 | [F-301 · Trace cones and Razak–Jacelon stabilization.](index.html#F-301) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-302 · Radius of comparison equals half the mean dimension.](index.html#F-302) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-303 · Weak pure infiniteness and Cuntz-algebra absorption.](index.html#F-303) | Operator algebras | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-304 · The Hilbert–Smith conjecture in every dimension.](index.html#F-304) | Topology | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-304 · The Hilbert–Smith conjecture in every dimension.](index.html#F-304) | Topology | 有选读记录 | [全文草稿](../families/F-304.md) | 45／32 | 1 |
 | [F-305 · Four-dimensional disk embedding and Wall's conjecture.](index.html#F-305) | Topology | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-306 · The purely cosmetic surgery conjecture.](index.html#F-306) | Topology | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-307 · Failure of rational injectivity for maximal coarse assembly.](index.html#F-307) | Topology | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -412,7 +415,7 @@
 | [F-357 · Bi-Lipschitz coordinates at every regular RCD point.](index.html#F-357) | Differential geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-358 · A three-manifold without conjugate points or nonpositive curvature.](index.html#F-358) | Differential geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-359 · Negative Kähler curvature without bounded holomorphic coordinates.](index.html#F-359) | Differential geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
-| [F-360 · Weak MTW curvature gives convexity and regular optimal transport.](index.html#F-360) | Differential geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
+| [F-360 · Weak MTW curvature gives convexity and regular optimal transport.](index.html#F-360) | Differential geometry | 有选读记录 | [全文草稿](../families/F-360.md) | 55／14 | 0 |
 | [F-361 · Failure of integer-degree harmonic dimension comparison.](index.html#F-361) | Differential geometry | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
 | [F-362 · Global smoothness for relativistic Vlasov–Maxwell.](index.html#F-362) | Partial differential equations | 有选读记录 | [全文草稿](../families/F-362.md) | 24／16 | 0 |
 | [F-363 · Nonuniqueness with local conservation for the hard-sphere Boltzmann equation.](index.html#F-363) | Partial differential equations | 未有规范阅读记录 | 未有族分析 | 0／0 | 0 |
@@ -433,7 +436,7 @@
 
 ## 文献身份待复核
 
-规范标识提取产生5个多记录身份候选组；可能是同一工作不同版本或不同核对范围，不能自动合并。组完整ID与标识在压缩索引的identity_review_candidates字段；原注释和来源定位全部保留。
+规范标识提取产生7个多记录身份候选组；可能是同一工作不同版本或不同核对范围，不能自动合并。组完整ID与标识在压缩索引的identity_review_candidates字段；原注释和来源定位全部保留。
 
 ## 复现
 

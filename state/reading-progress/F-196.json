@@ -1,0 +1,99 @@
+{
+  "work_package": "WP-099",
+  "family_id": "F-196",
+  "status": "current_source_draft_and_selected_formal_history_curated",
+  "at": "2026-10-23T04:41:15.969296+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "current_manuscripts": [
+    "P-3d6fa1dbaf31b181"
+  ],
+  "files": [
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/README.md",
+      "sha256": "43e3933305c4313c0e1e80c37587dbed65204f9baa9c5384ace8ca3afa0ad285",
+      "bytes": 595,
+      "lines": 18,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/figures/band-surgery.tex",
+      "sha256": "e45dd96302039e7e54bf1c4df67bad8baf69744010954e0895184c47d60144af",
+      "bytes": 1113,
+      "lines": 31,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/figures/block-alignment.tex",
+      "sha256": "54da4ccd2a9556932a5aa32d0111cfc4e3bbf6335400df664cd659876b1103ea",
+      "bytes": 1133,
+      "lines": 26,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/paper.tex",
+      "sha256": "efe38b50593e3005b69b49f4a8cba2d332b2b329cbbedca4b6412239b2d8c1ba",
+      "bytes": 11821,
+      "lines": 108,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/references/references.bib",
+      "sha256": "e9b50d3abb492bef367037b2dadde3108304aa36dcb9ece40cbf744b66416291",
+      "bytes": 8113,
+      "lines": 261,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/sections/entropy.tex",
+      "sha256": "e26931338b072a0f10b02f5cf0d7aaf776f82bef4d4cec33022f22efe42d30d7",
+      "bytes": 25724,
+      "lines": 548,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/sections/factors.tex",
+      "sha256": "81c5606b68c17ced220479629231d7d42e0812060919fc6549e82dd6b6846c74",
+      "bytes": 2406,
+      "lines": 34,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/sections/planar.tex",
+      "sha256": "91084d95e683940df3e4365070ad886b3f34e069139662f9b2b0a259e951aaff",
+      "bytes": 19229,
+      "lines": 423,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/sections/topology.tex",
+      "sha256": "cf157949813715512f11a02915c1cee1b0e2ab10dc4d7a22198297406fec5dca",
+      "bytes": 15017,
+      "lines": 113,
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/A-Torsion-Free-Group-Algebra-with-Zero-Divisors-September-23-2026/build/sections/types.tex",
+      "sha256": "3f74603230f7f21a25f5f8f9879168fa7a02eda0cea10bb195a5868e221a5cfc",
+      "bytes": 11601,
+      "lines": 170,
+      "actually_read": true
+    }
+  ],
+  "actual_read_scope": "All8TeX1453lines+261Bib+README18including2TikZfigures;sourcefinalparagraph explicitlynonconstructive/noactualmatchings",
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "new_numerical_run": false,
+  "next_action": "WP100 actual required classical proof-input qualification,not invented finite-witness benchmark",
+  "started_at": "2026-10-23T04:17:14.927078+00:00",
+  "previous_goal_turn": "progress;5684692verified",
+  "all_current_natural_source_bodies_read": true,
+  "include_closure_verified": true,
+  "historical_lineage_complete": false,
+  "formal_selected_files": 13,
+  "selected_old_originals": 4,
+  "actual_pixels": 8,
+  "local_main_grade": "B",
+  "other_natural_results_grade": "11C",
+  "full_dependency_grade": "unknown",
+  "evidence": "data/provenance/readings/F-196.json"
+}

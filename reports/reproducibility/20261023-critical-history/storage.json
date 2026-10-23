@@ -1,0 +1,245 @@
+{
+  "at": "2026-10-23T05:04:31.935820+00:00",
+  "temporary_root": "/private/tmp/ai-paper-WP100",
+  "primary_original_works": 3,
+  "downloaded_PDFs": 5,
+  "downloaded_bytes": 3115137,
+  "actual_pixels": 13,
+  "temporary_raw_files": [
+    {
+      "name": "Brown-I-preview.pdf",
+      "bytes": 358081,
+      "sha256": "27161985fe4de1034cfb913490de55cfd341a32f47beabaceb45bdb2ad3510e1",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Brown-I-preview.txt",
+      "bytes": 5075,
+      "sha256": "286a6b160e51724aeeb4e1efc915d28f903f9a5b23fe349505315539c52ffd4f",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Brown-VIII-p1.png",
+      "bytes": 219369,
+      "sha256": "cffa413d16d16bd48829ce9f4b6ce765e45ccb7269625ee0ec8acdbf5ce7b3c0",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Brown-VIII-p2.png",
+      "bytes": 241039,
+      "sha256": "66ae02335514f122f18eb037123e5d4fad8ae66ad94f24eaeeb1965bd7a700e8",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Brown-VIII-preview.pdf",
+      "bytes": 299251,
+      "sha256": "cade6a43d57cd9d5909f3ab88dcb94f7e19016736412222a1e8f26dccfb15386",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Brown-VIII-preview.txt",
+      "bytes": 3986,
+      "sha256": "2e0e586c6cb9453c087a1b2d4a7e5edb63586144be8155c2439a04efdd56a43a",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch0-p16.png",
+      "bytes": 367883,
+      "sha256": "55b88c1890fc4c2314bb2db8e35c3a58746b4256c631986b55343f96b8113373",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch0.pdf",
+      "bytes": 283346,
+      "sha256": "3c390bac0b166d5e084bc723c8593dcc7fc6b9bef54dbcae0784a3d348c3c73e",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch0.txt",
+      "bytes": 58619,
+      "sha256": "96e8b1b367114e3e62f8482c5b11877eb3e9182e8fc3d3fda888fc3eeafdd886",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch4-p30.png",
+      "bytes": 385610,
+      "sha256": "00990218afb9588b08deb1f742d8c77862283fff46932ab9c465a835b380151b",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch4-p35.png",
+      "bytes": 407988,
+      "sha256": "0ad3de6d9267e7904381e7240f93a5d9f71ef7b368b4851d7f3506c3eec9e797",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch4.pdf",
+      "bytes": 1337444,
+      "sha256": "2406a6d735efabec618e336e351066237f903b8c917a7ddc73034e80ba83b737",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "Hatcher-ch4.txt",
+      "bytes": 266402,
+      "sha256": "645ae0c82288b1ad1c0c06375292c9a956cd7fde72f4269fccc0fe9d6a65339a",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p1.png",
+      "bytes": 207167,
+      "sha256": "819cda69a41ee4da0f3adcc4210e8306ad940c79129b916af27e21531564f642",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p2.png",
+      "bytes": 224701,
+      "sha256": "a546a0b80264101d36bef841f7bd56958b99f2fb9a4a12c7472ac610a87b7a81",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p3.png",
+      "bytes": 162671,
+      "sha256": "158619f7ae8762d55cc42bf351085f0b3ccefce40b2811a3939d8fb75b9af086",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p4.png",
+      "bytes": 131400,
+      "sha256": "b699f4fe83343cacfcc229dfd5d306aebfbe53e19e31733ae9034ede018e2dc0",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p5.png",
+      "bytes": 251592,
+      "sha256": "aac9ee734fd20941ad718938de2d4232e2a9ef81ec28b7a219fd23f420019483",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p6.png",
+      "bytes": 171844,
+      "sha256": "af8a64e3e7800652e011420f5a6c7e8ff0c014d48af684627972d9b9939992c7",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p7.png",
+      "bytes": 196668,
+      "sha256": "86cab833dc06c06432793f52a8493cc0cd2c42dd38c281b555bf55bf54a823c1",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LT-p8.png",
+      "bytes": 201147,
+      "sha256": "db39d4e0956433cfa8ba36f9c2f335c9449644deb0652565702612441818d6b9",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LiptonTarjan1979.pdf",
+      "bytes": 837015,
+      "sha256": "761bfc50a12b18ed4c5503c3aac52d0c985a3d74380c0aca0132b79c24d34cc6",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    },
+    {
+      "name": "LiptonTarjan1979.txt",
+      "bytes": 14,
+      "sha256": "bac73e8e5d0502cae3490d5e2a0617d2a437fb20599903f18494f207e4f80cdc",
+      "retention": "Removed after actual source/version/page/image provenance saved;not redistributed"
+    }
+  ],
+  "temporary_raw_bytes_removed": 6618312,
+  "own_archive": "reports/reproducibility/20261023-critical-history/helpers-and-logs.tar.gz",
+  "compressed_bytes": 28019,
+  "uncompressed_tar_bytes": 143360,
+  "compressed_sha256": "c851d74fa5027e84a29a47c3c33dce948ac0296eb6d155b6c21fcebadb6b7319",
+  "uncompressed_tar_sha256": "7c320d38b8dc2315445305d415609cabd80f468a2fb3738fa901f71fafac1c48",
+  "member_bytes": 119730,
+  "members": {
+    "acquire-more.py": {
+      "bytes": 1140,
+      "sha256": "7a186c8bf2891c9246597c19f2ce3c0abb5ab967a90281835e5efe3eca4c7c8e"
+    },
+    "acquire.py": {
+      "bytes": 1102,
+      "sha256": "2d18f72b029041fdd7a48424a61a444d5ef24929840c3192347f934a36d0c8d3"
+    },
+    "acquisition.json": {
+      "bytes": 2233,
+      "sha256": "afd28ef488336c3d52e7be0526101adf42a4c62af09b7a4747f80c978ff9283e"
+    },
+    "clean-check.py": {
+      "bytes": 2222,
+      "sha256": "85d4e60ce4b8250cae911aadaefc7fc43b7170560b08d1f8d2bacff726fa9b63"
+    },
+    "clean-run.log": {
+      "bytes": 489,
+      "sha256": "3bd784cad205e0b4395c5877295dcf42fd23f864940d59d644f71a03c5ddc2d8"
+    },
+    "close-state.log": {
+      "bytes": 63,
+      "sha256": "dd37a4513e9f7eac78c91fe46343c80e56213297a9759c3c086073655dc0156f"
+    },
+    "close-state.py": {
+      "bytes": 11348,
+      "sha256": "e141b22c7a86b80c2adaac5987a13c1ff96a46b99c6d5f66818f254f22db2150"
+    },
+    "complete-source-bindings.py": {
+      "bytes": 1661,
+      "sha256": "3b6b8c3040f7d39f483d863d9b7052969ae7ffdc0e7d83ee3012e99da50125ee"
+    },
+    "core-final.log": {
+      "bytes": 11374,
+      "sha256": "ea1519b0fa392dfb3872c3e1e21989f3d9fce001ecff73e4cb12aae338c1a713"
+    },
+    "core.log": {
+      "bytes": 11374,
+      "sha256": "bbb955a82a2fc7b3f3aa0e98417d791c04b6f89a240e208752e0e69186c99097"
+    },
+    "curate-before-indent-fix.py": {
+      "bytes": 21062,
+      "sha256": "a77f2e00bdfe9288734eba69854f82868ed7ba1939e219e06c47841e07901398"
+    },
+    "curate.py": {
+      "bytes": 21158,
+      "sha256": "2f8e19e463176f2d1d72afcf1ac7e0f460e539938f404e3e23a4a7c0f7162317"
+    },
+    "curation-retry.log": {
+      "bytes": 399,
+      "sha256": "161bdd6559560ce72c2d25db04b438bc3ce6c0075847ae96b6d660f58412fc07"
+    },
+    "curation.log": {
+      "bytes": 937,
+      "sha256": "b6fb231887e9fe4f1134de7b1e5e4b8cef0038dde270fcb55d09f61a3ea93fef"
+    },
+    "finalize-storage.py": {
+      "bytes": 7470,
+      "sha256": "7f78e66137e230cdb04529007f44cc6f85de5cd64e8ae955cf3c70ca0bb6a307"
+    },
+    "make-qa.py": {
+      "bytes": 5619,
+      "sha256": "2658e334d3d4365a561f4b360ede742baf01b95d326fe3c7bed9a7ee5048b395"
+    },
+    "no-math-clean.log": {
+      "bytes": 11374,
+      "sha256": "a178c3dd350eb068185fb3332e771c9a96b1260a8c6011230e6592694e110d33"
+    },
+    "qa-final.log": {
+      "bytes": 151,
+      "sha256": "056f58d2d2e79760add6c3dcb6e5cc22a72e99b008259d973bd0bbf2a6cde154"
+    },
+    "qa.log": {
+      "bytes": 151,
+      "sha256": "321a75b07965b0d146dbad4ac7263e14cad34a91e1c109e9affdcccb09d1bf7d"
+    },
+    "qa.py": {
+      "bytes": 8403,
+      "sha256": "f8631c618709a74bf6d6e012b902427a0fef309c2e29d484bbbe85617667e483"
+    }
+  },
+  "all_decompressed_member_bytes_verified_before_plaintext_removal": true,
+  "failed_helper_and_log_retained": true,
+  "official_math_clean_pinned": true,
+  "root_charter_hash_unchanged": true,
+  "new_numerical_experiment_data": false,
+  "install_or_cache_download": false,
+  "external_fulltext_republished": false,
+  "temporary_root_removed": true
+}

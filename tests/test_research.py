@@ -14,6 +14,21 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 class CatalogueTests(unittest.TestCase):
+    def test_family_export_retains_unlabelled_corollary_and_conditions(self):
+        from ai_value.reporting import family_result_rows
+        properties = {'result_ids_by_label': {'thm:main': 'MAIN'},
+                      'unlabelled_result_ids': ['ITERATION']}
+        nodes = {'MAIN': {'properties': {'statement': 'Fixed algebra', 'conditions': []}},
+                 'ITERATION': {'properties': {'statement': 'Binomial shifted sum',
+                     'conditions': ['one object at a time; no natural splitting'],
+                     'constants_and_constructions': ['shift 3q']}}}
+        text = '\n'.join(family_result_rows(properties, nodes))
+        self.assertEqual(text.count('`ITERATION`'), 1)
+        self.assertIn('无原文标签', text)
+        self.assertIn('Binomial shifted sum', text)
+        self.assertIn('no natural splitting', text)
+        self.assertIn('shift 3q', text)
+
     def test_verification_results_keep_kind_and_exclude_nested_labels(self):
         from ai_value.source_results import named_results
         sample = r'''\begin{verification}[Finite certificate]

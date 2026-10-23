@@ -1,0 +1,37 @@
+{
+  "id": "APP-256-01",
+  "version": 1,
+  "status": "conditional_not_preregistered_not_run",
+  "model_generation_id": "GEN-20261023-094",
+  "analogy": "near",
+  "input": "Proposed real finite relatorbatch over declared coefficientG;no actualcaller or admittedpack yet",
+  "output": "Source-conditional injectivity of the canonical coefficient map only;not arbitrary specification conservativity",
+  "hypothesis": "For EVERY request in a separately frozen real admitted finite group-presentation pack with declared coefficient semantics,complete typed relators,exact full-row-rank witness bound to the full input,and independently supported canonical embedding evidence,the guard returns the correctly scoped source-conditional coefficient-injectivity assertion within all frozen caps. Any false embedding assertion,accepted invalid witness,input/map mismatch,excess semantic promise,timeout or in-pack resource failure falsifies functional coverage. Invalid inputs and unsupported rank cases must be distinguished and cannot count as successful embeddings. Measure useful decision coverage,abstentions and total cost against strongest applicable old methods;benefit may be zero. No speed or new-coverage gain is predicted before an actual caller and baseline are frozen.",
+  "judge": "Freeze actual consumer/version,group interpretation,all relator ASTs and canonical map,old-method applicability,admitted batch and held-out invalid/mismatch cases,CPU/memory/output caps before any outputs. A separately applicable older embedding theorem or explicit independently verified embedding certificate can judge supported subcases. Rechecking the same rank matrix,reusing the same generalC theorem,model agreement or guard-unit tests are not independent application validation. Labels covered by old methods test correctness but do not demonstrate new coverage. Count all premise/certificate discovery,verification,serialization,retries and abstentions.",
+  "baseline": [
+    "Tietze/defined-new-generator isomorphism and supplied explicit embedding certificates,when their premises hold",
+    "Gerstenhaber-Rothaus finite/compact-Lie/faithful-residual routes;finite groups already have finite overgroup solutions",
+    "Howie locally indicable,Klyachko torsion-free unimodular,Nitsche-Thom Connes-embeddable presentation-complex/cover criteria where independently established;some originals remain unread",
+    "Unknown group class is not evidence outside old-method coverage;measure best applicable certified comparator at equal coverage and complete cost"
+  ],
+  "limits": [
+    "All2currentmanuscripts/14TeX2157lines+109Bib+2READMEs36lines actuallyread;10manualresultbindings/20methods form a current-source draft,not complete family proof acceptance.",
+    "31bibliographyoccurrences/24unique keys resolve23externalworks and1internal companion. Four originals checked only in declared scopes;19externalbodies and recursive lineage remain unread. Hatcher identity reused without importing proof scope.",
+    "Selected one-variable/unimodular Lean endpoint andfour additional mapped natural bindings give5localB/5C only. General multirelator theorem remainsC. Entire dependency grades unknown;47files/743lexical declarations is not full proof reading,build,Comparator or axiom assurance.",
+    "GR1962 primary cached article text read;direct403 and screenshot failure mean no local original SHA or pixels. Other arXiv versions not presumed journal-identical. External originals not republished.",
+    "Existence of an overgroup is not a solution in originalG,a word-problem algorithm,finite/amenable/solvable/linear overgroup,or an isomorphic/conservative specification extension.",
+    "No actual symbolic caller,inputbatch,guard implementation,certificateformat,independent embedding judge or cost evidence. Tietze/old embedding criteria may already cover all useful requests;application value may be zero.",
+    "Both isolated auxiliary tasks used current selected OpenAI with exactbackend unknown,reviewed initial concept only,not independent suppliers/humans or a second review of final refinement. Allhuman/provider gates pending."
+  ],
+  "source_labels": [
+    "N:thm:main"
+  ],
+  "part_keys": [
+    "EXPONENT-RANK-INJECTION",
+    "FINITE-SUPPORT-CLOSURE"
+  ],
+  "revisit": "Actual caller and precise coefficient equality semantics,admitted batch,independent embedding evidence and strongest applicable old baseline;then separately preregister before running",
+  "incremental_boundary": "Later relations can identify old coefficients. Each new batch must be validated against actual currentG and canonical map;old coefficient generators must not be relabelled fresh variables. Bind complete whole-batch matrix;never drop failing rows.",
+  "rank_certificate": "Exact nonzero maximal minor or verified rational right inverse bound to all typed relator ASTs,namespace,group/map identity and row/column ordering;format and checker not implemented",
+  "negative_semantics": "Rank failure unsupported,not coefficient collapse or danger. Malformed input,invalid witness,unsupported rank and resource failure must remain distinct."
+}

@@ -1,0 +1,307 @@
+{
+  "family_id": "F-058",
+  "work_package": "WP-095",
+  "generation_id": "GEN-20261022-091",
+  "recorded_at": "2026-10-22T07:14:59.955820+00:00",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "project_base_commit": "7a772dc4ea7a4e02689a52429a594ef1cd31c2c5",
+  "stage": "selected_original_history_and_scope_qualification_completed;canonical_source_decomposition_pending",
+  "original_history_scopes": [
+    {
+      "key": "KollarPardon2012",
+      "node_id": "LIT-058-KOLLARPARDON2012",
+      "title": "Kollar-Pardon semialgebraic universal covers, explicit arXiv v2",
+      "acquisition_key": "kollar-pardon-v2",
+      "url": "https://arxiv.org/pdf/1104.2309v2",
+      "version": "v2,15 December2011",
+      "pdf_pages_read": [
+        1,
+        2,
+        10,
+        11,
+        12,
+        13
+      ],
+      "selected_scope": "Conjecture2 and Theorem3/Remark4 statements PDF1-2;Theorem20 and proof22 PDF10-12,selected Chow setup;Question25/26 PDF13. Dependencies14/15 and full earlier proof not read.",
+      "source_fact": "Theorem20 assumes smooth projective base with contractible universal cover,normal projective source and entire induced pullback semialgebraic projective-open;concludes a holomorphic fibre bundle. Initial proof passes to finite base cover to connect pullback,not an extra connected-fibre premise. Theorem3 has an irreducible bounded symmetric domain of dimension>=2 and free compact action;disk case has a separate caveat. Question25 asks bounded affine semialgebraic-domain symmetry.",
+      "comparison": "Old bundle theorem is used in F058 compact step after actual Albanese and entire pullback are supplied. It does not itself construct the general transverse quotient or remove group/specialness conditions.",
+      "unverified": "Whole theorem proof dependencies/topological lemmas,all versions and historical closure remain unreviewed.",
+      "upstream_bib": [
+        "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/references.bib",
+        "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/bibliography.tex"
+      ],
+      "pdf_sha256": "cc386af11c7138c81fbd1b95524d5954889e11c20bf306021b597fc8a93edf36",
+      "pdf_bytes": 240950,
+      "full_work_read": false
+    },
+    {
+      "key": "Vey1970",
+      "node_id": "LIT-058-VEY1970",
+      "title": "Vey divisible S-domains, original1970 scan",
+      "acquisition_key": "vey-1970",
+      "url": "https://www.numdam.org/article/ASENS_1970_4_3_4_479_0.pdf",
+      "version": "AnnSciENS4(3)479-506;scan29PDFpages includes metadata cover",
+      "pdf_pages_read": [
+        2,
+        3,
+        4
+      ],
+      "selected_scope": "Printed479-481/PDF2-4:proper discrete cocompact definition,S-domain symmetries,Theorem1 and following symmetry consequence,zero-block conventions. Full proof unread.",
+      "source_fact": "Divisibility requires compact sweeping set and proper action with discrete topology;freeness is not stated. An S-domain is bounded-realizable,meets its zero tangential block,and is invariant under all real normal translations,unit scalar tangential rotations and weighted positive dilations. Theorem1 gives homogeneity;the following paragraph states symmetry using earlier results. Exponent1/2 and zero tangential block are explicit cases.",
+      "comparison": "F058 bounded manuscript must first construct its global model,bounded realization,axis point and all invariances;Vey is not a classifier for arbitrary sampled real feasible regions.",
+      "unverified": "Vey proof and Hano/Koszul/Borel prerequisites not completely read.",
+      "upstream_bib": [
+        "math/preprints/Symmetry-of-semialgebraic-bounded-domains-with-compact-quotient-September-24-2026/build/bibliography.tex"
+      ],
+      "pdf_sha256": "3074f9d0803600640a6f2d9b6846812b99587f132fbf9e68e52ece4fcd49da5f",
+      "pdf_bytes": 2473747,
+      "full_work_read": false
+    },
+    {
+      "key": "ClaudonHoeringKollar2013",
+      "node_id": "LIT-058-CLAUDONHOERINGKOLLAR2013",
+      "title": "Claudon-Hoering-Kollar quasi-projective covers, separately identified author versions",
+      "acquisition_key": "clau-hoer-kollar",
+      "url": "https://claudon.pages.math.cnrs.fr/pdf/universal-final.pdf",
+      "version": "Acquired authorPDF front dateFebruary14,2011,abundance Conjecture1.3;not silently substituted for old cited July24,2011 cache Conjecture1.2",
+      "pdf_pages_read": [
+        1,
+        2,
+        12
+      ],
+      "selected_scope": "AcquiredPDF1-2 Theorem1.1/Conjecture1.3/Cor1.5 statements andPDF12Lemma4.7 proof. Cited originalURL cachedweb Theorem1.1/Conj1.2/Cor1.5/Lem4.7 also read;no byteSHA available for that cache.",
+      "source_fact": "Normal projective source;quasi-projective universal cover equivalence and infinite-cover refinement require smooth abundance. The finite abelian-base bundle need not be a product;general-cover assertion is a pullback direction,not a proved converse. Lemma4.7 gives integral H1 surjection to Albanese with finite kernel for normal projective varieties,via resolution and quotient of its Albanese.",
+      "comparison": "F058 invokes its separate OpenAI zero-boundary logabundance input for the global refinement;old Albanese statement has finite kernel,upgraded to iso only after torsionfree kernel was established.",
+      "unverified": "Global theorem proof and complete bibliography not reviewed;actual acquired file differs from cited/cache version in date and numbering.",
+      "upstream_bib": [
+        "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/references.bib"
+      ],
+      "cached_cited_url": "https://math.univ-cotedazur.fr/~hoering/articles/a13-universal.pdf",
+      "cached_version": "July24,2011 cover date in webPDF;Conjecture1.2,normal H1Lemma4.7",
+      "direct_cited_url_failure": "HTTP404 logged;web cache is not proof of current direct reachability",
+      "pdf_sha256": "40f58658356dcf67636ad8afd4eee368c4f2a37d0742d9d0a211111886cd023b",
+      "pdf_bytes": 458398,
+      "full_work_read": false
+    },
+    {
+      "key": "FarbWeinberger2008",
+      "node_id": "LIT-058-FARBWEINBERGER2008",
+      "title": "Farb-Weinberger aspherical Nadel-Frankel splitting, published2008",
+      "acquisition_key": "farb-weinberger",
+      "url": "https://annals.math.princeton.edu/wp-content/uploads/annals-v168-n3-p05.pdf",
+      "version": "Annals168(2008)915-940",
+      "pdf_pages_read": [
+        6,
+        22
+      ],
+      "selected_scope": "PDF6/printed920 Theorem1.10 statement/context;PDF22/printed936section4.8 selected proof discussion. Earlier ClaimIV and Nadel proposition not read.",
+      "source_fact": "Compact aspherical complex manifold with negative first Chern class admits a holomorphic product splitting after finite cover into locally symmetric and universally locally rigid factors. Section4.8 points to NadelProposition0.1 plus earlier ClaimIV;the alternative argument needs extra restrictions to upgrade isometric homogeneous splitting to holomorphic symmetric splitting.",
+      "comparison": "F058 must prove bounded contractible quotient and positive canonical bundle first;then its complex-spanning complete fields eliminate the discrete residual factor. This classification proof route is separate from the bounded manuscript Vey route.",
+      "unverified": "Earlier proof and Nadel/Frankel/Siu original dependencies not fully checked.",
+      "upstream_bib": [
+        "math/preprints/Semialgebraic-universal-covers-of-normal-projective-varieties-September-24-2026/build/references.bib"
+      ],
+      "pdf_sha256": "334b5e9a4853835c03bf8e362533af23c520ad4787f331d0606b4c7d06231413",
+      "pdf_bytes": 257289,
+      "full_work_read": false
+    }
+  ],
+  "original_acquisitions": [
+    {
+      "source": "kollar-pardon-v2",
+      "requested_url": "https://arxiv.org/pdf/1104.2309v2",
+      "at": "2026-10-22T07:05:57.676296+00:00",
+      "tls": "default verification;not disabled",
+      "status": "failed",
+      "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+    },
+    {
+      "source": "kollar-pardon-v2",
+      "requested_url": "https://arxiv.org/pdf/1104.2309v2",
+      "at": "2026-10-22T07:06:08.998319+00:00",
+      "tls": "default verification;not disabled",
+      "final_url": "https://arxiv.org/pdf/1104.2309v2",
+      "bytes": 240950,
+      "sha256": "cc386af11c7138c81fbd1b95524d5954889e11c20bf306021b597fc8a93edf36",
+      "local_path": "/private/tmp/ai-paper-WP095/originals/kollar-pardon-v2.pdf",
+      "status": "downloaded_not_yet_read"
+    },
+    {
+      "source": "vey-1970",
+      "requested_url": "https://www.numdam.org/article/ASENS_1970_4_3_4_479_0.pdf",
+      "at": "2026-10-22T07:06:12.446439+00:00",
+      "tls": "default verification;not disabled",
+      "final_url": "https://www.numdam.org/article/ASENS_1970_4_3_4_479_0.pdf",
+      "bytes": 2473747,
+      "sha256": "3074f9d0803600640a6f2d9b6846812b99587f132fbf9e68e52ece4fcd49da5f",
+      "local_path": "/private/tmp/ai-paper-WP095/originals/vey-1970.pdf",
+      "status": "downloaded_not_yet_read"
+    },
+    {
+      "source": "clau-hoer-kollar",
+      "requested_url": "https://math.univ-cotedazur.fr/~hoering/articles/a13-universal.pdf",
+      "at": "2026-10-22T07:07:08.623088+00:00",
+      "tls": "default verification;not disabled",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "source": "farb-weinberger",
+      "requested_url": "https://annals.math.princeton.edu/wp-content/uploads/annals-v168-n3-p05.pdf",
+      "at": "2026-10-22T07:07:11.060925+00:00",
+      "tls": "default verification;not disabled",
+      "final_url": "https://annals.math.princeton.edu/wp-content/uploads/annals-v168-n3-p05.pdf",
+      "bytes": 257289,
+      "sha256": "334b5e9a4853835c03bf8e362533af23c520ad4787f331d0606b4c7d06231413",
+      "local_path": "/private/tmp/ai-paper-WP095/originals/farb-weinberger.pdf",
+      "status": "downloaded_not_yet_read"
+    },
+    {
+      "source": "clau-hoer-kollar",
+      "requested_url": "https://claudon.pages.math.cnrs.fr/pdf/universal-final.pdf",
+      "at": "2026-10-22T07:08:01.295636+00:00",
+      "tls": "default verification;not disabled",
+      "final_url": "https://claudon.pages.math.cnrs.fr/pdf/universal-final.pdf",
+      "bytes": 458398,
+      "sha256": "40f58658356dcf67636ad8afd4eee368c4f2a37d0742d9d0a211111886cd023b",
+      "local_path": "/private/tmp/ai-paper-WP095/originals/clau-hoer-kollar.pdf",
+      "status": "downloaded_not_yet_read"
+    }
+  ],
+  "cached_source_scope": "Old CHK citedURL webPDF was readable,normal direct request404;cached and acquired versions explicitly separate,no byte hash invented for cache.",
+  "pixel_inspections": [
+    {
+      "name": "U-main",
+      "source": "P-c3639a0ea6ca2516",
+      "pdf_page": 1,
+      "sha256": "5dd8f6ec8414ec3c3fc0a8553c54774bf70029a40158f44863ef90bb22594b74",
+      "bytes": 247600,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "U-figure",
+      "source": "P-c3639a0ea6ca2516",
+      "pdf_page": 5,
+      "sha256": "7354c6bc32b86c04fd76f250d526545e29014f3ce9576be6ede91b423979a416",
+      "bytes": 258734,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "B-main",
+      "source": "P-797062f12750f925",
+      "pdf_page": 1,
+      "sha256": "2ec6dc9678ce88b6d9e623d435ba3a539dcf12cd588911c6ebe5f6aae7bbfef7",
+      "bytes": 239891,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "B-figure",
+      "source": "P-797062f12750f925",
+      "pdf_page": 4,
+      "sha256": "f9a0c2a9200baa782fc2862846172384fbc1ac814cbd19db5eb3af53f4820419",
+      "bytes": 219394,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "Vey-p479",
+      "source": "Vey1970",
+      "pdf_page": 2,
+      "sha256": "fb5338484836a891cdeb3860df1eeb6d5ff8f7dfc00c49a568b90ff41c3560ed",
+      "bytes": 205458,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "KP-p10",
+      "source": "KollarPardon2012",
+      "pdf_page": 10,
+      "sha256": "e5cde3d1edd803637e355dae55171ca9bb2c62d5a7ea2fa5e4518d91437abfc9",
+      "bytes": 279510,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "CHK-p12",
+      "source": "ClaudonHoeringKollar2013",
+      "pdf_page": 12,
+      "sha256": "cee3fd27f1a7389f82442aa16df8dc1683cf97698f409ad302e111059c4daac3",
+      "bytes": 263041,
+      "actual_pixels_inspected": true,
+      "retained": false
+    },
+    {
+      "name": "FW-p6",
+      "source": "FarbWeinberger2008",
+      "pdf_page": 6,
+      "sha256": "dabed646758194918f59047b0c7938853557d3f7afa5e24959fcd04a37b30538",
+      "bytes": 263907,
+      "actual_pixels_inspected": true,
+      "retained": false
+    }
+  ],
+  "required_external_companions": [
+    {
+      "manuscript_id": "P-3ce919f2014b379a",
+      "family_id": "F-057",
+      "path": "math/preprints/The-abelianity-conjecture-for-special-compact-Kahler-manifolds-September-23-2026/paper.pdf",
+      "sha256": "dfbf9ad2335b9d20dedd8a2ae527ebb45b74155a976acc6d284dd851144e22b8",
+      "role": "Main classification group input: entire ordinary fundamental group of smooth compact special Kahler manifold virtually abelian",
+      "actual_body_read": false,
+      "proof_verified": false,
+      "full_chain_credibility": "unknown"
+    },
+    {
+      "manuscript_id": "P-b377a2b00e07188b",
+      "family_id": "F-034",
+      "path": "math/preprints/Log-abundance-in-characteristic-zero-September-24-2026/paper.pdf",
+      "sha256": "87b191f75e8c852683847be18fb99e2a226e11e55967624c8d2bbba41c509be0",
+      "role": "Quasi-projective refinement only: zero-boundary smooth abundance premise",
+      "actual_body_read": false,
+      "proof_verified": false,
+      "full_chain_credibility": "unknown"
+    }
+  ],
+  "formal_scope": {
+    "challenge_definition_block_matches_basic_ignoring_whitespace": true,
+    "main_statement_matches_challenge_ignoring_whitespace": true,
+    "registered_theorem": "OAI.Release061.main",
+    "covers": "Bounded-domain symmetry manuscript only, including finite stabilizers and singular reduced affine ambient",
+    "does_not_establish": "Universal-cover classification or complete imported proof agreement; no Lean/Comparator/human run",
+    "selected_endpoint_observation": "main_point handles singleton; otherwise original_divisible_hermitian_model plus hermitian_model_bounded_symmetric. Formal symmetry uses negative-isotropy and axis normalization; natural manuscript invokes Vey. Do not call these identical line-by-line arguments.",
+    "static_index": "reports/reproducibility/20261022-semialgebraic-reading/lean-static-import-index.json.gz",
+    "static_local_files": 335,
+    "static_declarations": 1982,
+    "lexical_placeholders": 0,
+    "lexical_local_axioms": 0,
+    "actual_read_all_335_files": false,
+    "local_build": "not_run",
+    "comparator": "not_run",
+    "human_specification_review": "missing",
+    "source_grade_not_yet_promoted_to_canonical": true
+  },
+  "version_audit": {
+    "local_upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+    "local_path_history": "Both manuscript directories show only adc7f1241 initial commit 2026-10-06 in bounded local git log",
+    "catalogue_reconciliation": "Both exact paths unchanged between recorded historical/current catalogue;no withdrawal in pinned current manuscript registration",
+    "scope_limit": "Not full remote history,priority or all prior-draft proof audit",
+    "full_lineage_complete": false
+  },
+  "current_natural_source_body_read_complete": true,
+  "current_natural_source_decomposition_draft_complete": false,
+  "full_family_complete": false,
+  "historical_lineage_complete": false,
+  "dependency_closure_complete": false,
+  "new_candidates": 0,
+  "new_numerical_runs": 0,
+  "gaps": [
+    "73 qualified result environments (59classification+14bounded) inventoried but not yet manually contracted or canonically inserted;definition/remark/equation labels not extra results.",
+    "Whole transitive proof and historical lineage not reviewed;only4original works in selected scopes.",
+    "No complete335-file formal proof reading,Lean/Comparator build,human or independent second provider.",
+    "Methods,10-domain exploratory mappings and qualified candidate decisions still pending;no application effective constructor/runtime from classification.",
+    "WP095 not completed;globalretrospective counter remains2 until completion then immediate034."
+  ]
+}

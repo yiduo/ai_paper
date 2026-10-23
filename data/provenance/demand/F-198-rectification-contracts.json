@@ -1,0 +1,554 @@
+{
+  "work_package": "WP-102",
+  "family_id": "F-198",
+  "generation_id": "GEN-20261023-099",
+  "at": "2026-10-23T05:53:48.988343+00:00",
+  "base_commit": "b259dc91163b05ebc87f50d835987b3487630507",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "projects": {
+    "gap-packages/qpa": {
+      "commit": "f24fe86545ecbf2ebf2d66ed5c7474b558596084",
+      "ref": "HEAD"
+    },
+    "sagemath/sage": {
+      "commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "ref": "refs/tags/10.8",
+      "tag_object_not_yet_peeled": false,
+      "tag_object": "a4ca0fe6e7b556609bed7395ffd7f5cd262c9ba2",
+      "source_raw_ref": "a4ca0fe6e7b556609bed7395ffd7f5cd262c9ba2",
+      "ref_verification": "git ls-remote refs/tags/10.8 and peeled ref observed live;raw tag-object URLs explicitly distinguished from commit URLs"
+    },
+    "gheber/kenzo": {
+      "commit": "f68ee7a809b4846f508cb19ee70bba5c92a0f7b2",
+      "ref": "HEAD"
+    }
+  },
+  "git_reference_observations": {
+    "method": "git ls-remote over normal HTTPS,read-only,no clone",
+    "qpa_HEAD": "f24fe86545ecbf2ebf2d66ed5c7474b558596084",
+    "sage_10_8_tag_object": "a4ca0fe6e7b556609bed7395ffd7f5cd262c9ba2",
+    "sage_10_8_peeled_commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+    "kenzo_HEAD": "f68ee7a809b4846f508cb19ee70bba5c92a0f7b2",
+    "initial_GitHub_API": "403 rate limit exceeded on all three;logs retained"
+  },
+  "acquisition": {
+    "cap_bytes": 8388608,
+    "downloaded_bytes": 389827,
+    "requests": [
+      {
+        "name": "qpa-head.json",
+        "url": "https://api.github.com/repos/gap-packages/qpa/commits/master",
+        "at": "2026-10-23T05:42:14.118680+00:00",
+        "error": "<HTTPError 403: 'rate limit exceeded'>"
+      },
+      {
+        "name": "sage-head.json",
+        "url": "https://api.github.com/repos/sagemath/sage/commits/10.8",
+        "at": "2026-10-23T05:42:18.888668+00:00",
+        "error": "<HTTPError 403: 'rate limit exceeded'>"
+      },
+      {
+        "name": "kenzo-head.json",
+        "url": "https://api.github.com/repos/gheber/kenzo/commits/master",
+        "at": "2026-10-23T05:42:23.822653+00:00",
+        "error": "<HTTPError 403: 'rate limit exceeded'>"
+      },
+      {
+        "name": "gap-packages--qpa--lib--complex.gi",
+        "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/complex.gi",
+        "at": "2026-10-23T05:43:43.378577+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/complex.gi",
+        "bytes": 61846,
+        "sha256": "718a5aebfecf3def3b8072ae363bc7dcdd5d541427a4bbc03f6d248692696be9"
+      },
+      {
+        "name": "gap-packages--qpa--lib--complex.gd",
+        "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/complex.gd",
+        "at": "2026-10-23T05:43:49.730302+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/complex.gd",
+        "bytes": 4988,
+        "sha256": "1ae4e343e347ab1c99c2fbfa241c3d435ab63ddbc685d2e7a60229110f8bfc58"
+      },
+      {
+        "name": "gap-packages--qpa--read.g",
+        "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/read.g",
+        "at": "2026-10-23T05:44:04.995704+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/read.g",
+        "bytes": 2148,
+        "sha256": "9e1aebd8c2ecc09ac990159ef82f5039f689648d7d678fa0583d5a4bc52d9363"
+      },
+      {
+        "name": "gap-packages--qpa--PackageInfo.g",
+        "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/PackageInfo.g",
+        "at": "2026-10-23T05:44:26.612119+00:00",
+        "error": "URLError(timeout('_ssl.c:1112: The handshake operation timed out'))"
+      },
+      {
+        "name": "sagemath--sage--src--sage--homology--chain_homotopy.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/a4ca0fe6e7b556609bed7395ffd7f5cd262c9ba2/src/sage/homology/chain_homotopy.py",
+        "at": "2026-10-23T05:44:51.634493+00:00",
+        "error": "URLError(timeout('_ssl.c:1112: The handshake operation timed out'))"
+      },
+      {
+        "name": "sagemath--sage--src--sage--homology--algebraic_topological_model.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/a4ca0fe6e7b556609bed7395ffd7f5cd262c9ba2/src/sage/homology/algebraic_topological_model.py",
+        "at": "2026-10-23T05:45:16.657104+00:00",
+        "error": "URLError(timeout('_ssl.c:1112: The handshake operation timed out'))"
+      },
+      {
+        "name": "sagemath--sage--src--sage--homology--homology_vector_space_with_basis.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/a4ca0fe6e7b556609bed7395ffd7f5cd262c9ba2/src/sage/homology/homology_vector_space_with_basis.py",
+        "at": "2026-10-23T05:45:41.675736+00:00",
+        "error": "<HTTPError 404: 'Not Found'>"
+      },
+      {
+        "name": "gheber--kenzo--kenzo.asd",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/kenzo.asd",
+        "at": "2026-10-23T05:45:57.602616+00:00",
+        "error": "URLError(timeout('_ssl.c:1112: The handshake operation timed out'))"
+      },
+      {
+        "name": "gheber--kenzo--src--effective-homology.lisp",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/effective-homology.lisp",
+        "at": "2026-10-23T05:46:22.623402+00:00",
+        "error": "<HTTPError 404: 'Not Found'>"
+      },
+      {
+        "name": "gheber--kenzo--README.md",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/README.md",
+        "at": "2026-10-23T05:46:28.531225+00:00",
+        "error": "URLError(timeout('_ssl.c:1112: The handshake operation timed out'))"
+      },
+      {
+        "name": "sagemath--sage--src--sage--homology--chain_homotopy.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_homotopy.py",
+        "at": "2026-10-23T05:47:17.343887+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_homotopy.py",
+        "bytes": 24767,
+        "sha256": "c51088d2841a00e3d25ad457748e96f95f7b683f429d44a72316e7d1aa481992"
+      },
+      {
+        "name": "sagemath--sage--src--sage--homology--algebraic_topological_model.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/algebraic_topological_model.py",
+        "at": "2026-10-23T05:47:22.322347+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/algebraic_topological_model.py",
+        "bytes": 24062,
+        "sha256": "b14a0e9709c552b329148a25d6b4df9b4837ce40dbc886e8c56803f8515b4bd9"
+      },
+      {
+        "name": "gheber--kenzo--kenzo.asd",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/kenzo.asd",
+        "at": "2026-10-23T05:47:23.823417+00:00",
+        "error": "URLError(TimeoutError('_ssl.c:993: The handshake operation timed out'))"
+      },
+      {
+        "name": "gap-packages--qpa--lib--derivedcat.gi",
+        "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/derivedcat.gi",
+        "at": "2026-10-23T05:47:48.845346+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/derivedcat.gi",
+        "bytes": 40757,
+        "sha256": "414047291b142d3eb307c8b8b9db5b6a6ce96b9b014a5e310b6dcfc18c78f8bd"
+      },
+      {
+        "name": "Keller1999v1.pdf",
+        "url": "https://arxiv.org/pdf/math/9910178v1",
+        "at": "2026-10-23T05:48:03.732821+00:00",
+        "status": 200,
+        "final_url": "https://arxiv.org/pdf/math/9910178v1",
+        "bytes": 182523,
+        "sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e"
+      },
+      {
+        "name": "gheber--kenzo--src--kenzo-9--effective-homology.lisp",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/effective-homology.lisp",
+        "at": "2026-10-23T05:48:37.382140+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/effective-homology.lisp",
+        "bytes": 23415,
+        "sha256": "41d5c1d2e7a50c4420a97d756f28810e8e293b436091cf0042699845a5297ba7"
+      },
+      {
+        "name": "gheber--kenzo--src--kenzo-9--lp-space-efhm.lisp",
+        "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/lp-space-efhm.lisp",
+        "at": "2026-10-23T05:48:57.359133+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/lp-space-efhm.lisp",
+        "bytes": 25321,
+        "sha256": "3e409ca8a922b03ccf94554c46b5a1008399866e3084e29bac6e4f3a99fec7f0"
+      }
+    ]
+  },
+  "selected_source_files": [
+    {
+      "project": "gap-packages/qpa",
+      "path": "lib/complex.gi",
+      "temporary_name": "gap-packages--qpa--lib--complex.gi",
+      "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/complex.gi",
+      "sha256": "718a5aebfecf3def3b8072ae363bc7dcdd5d541427a4bbc03f6d248692696be9",
+      "bytes": 61846,
+      "commit": "f24fe86545ecbf2ebf2d66ed5c7474b558596084",
+      "total_lines": 1828,
+      "actual_body_read_ranges": [
+        [
+          1,
+          145
+        ],
+        [
+          1320,
+          1425
+        ],
+        [
+          1625,
+          1827
+        ]
+      ],
+      "selected_lines": 454,
+      "scope": "Right path-algebra module category and reversed multiplication convention;finite complex and chain-map validation;projective comparison lifting and full mapping-cone construction with signed shifts. Selected body only.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/qpa",
+      "path": "lib/complex.gd",
+      "temporary_name": "gap-packages--qpa--lib--complex.gd",
+      "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/complex.gd",
+      "sha256": "1ae4e343e347ab1c99c2fbfa241c3d435ab63ddbc685d2e7a60229110f8bfc58",
+      "bytes": 4988,
+      "commit": "f24fe86545ecbf2ebf2d66ed5c7474b558596084",
+      "total_lines": 106,
+      "actual_body_read_ranges": [
+        [
+          1,
+          105
+        ]
+      ],
+      "selected_lines": 105,
+      "scope": "Full declared complex interface;not evidence that other modules lack homotopies.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/qpa",
+      "path": "read.g",
+      "temporary_name": "gap-packages--qpa--read.g",
+      "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/read.g",
+      "sha256": "9e1aebd8c2ecc09ac990159ef82f5039f689648d7d678fa0583d5a4bc52d9363",
+      "bytes": 2148,
+      "commit": "f24fe86545ecbf2ebf2d66ed5c7474b558596084",
+      "total_lines": 52,
+      "actual_body_read_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "selected_lines": 52,
+      "scope": "Full package loading manifest;actual complex.gi/derivedcat.gi loaded,not runtime invocation.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/qpa",
+      "path": "lib/derivedcat.gi",
+      "temporary_name": "gap-packages--qpa--lib--derivedcat.gi",
+      "url": "https://raw.githubusercontent.com/gap-packages/qpa/f24fe86545ecbf2ebf2d66ed5c7474b558596084/lib/derivedcat.gi",
+      "sha256": "414047291b142d3eb307c8b8b9db5b6a6ce96b9b014a5e310b6dcfc18c78f8bd",
+      "bytes": 40757,
+      "commit": "f24fe86545ecbf2ebf2d66ed5c7474b558596084",
+      "total_lines": 1262,
+      "actual_body_read_ranges": [
+        [
+          210,
+          333
+        ],
+        [
+          650,
+          713
+        ]
+      ],
+      "selected_lines": 188,
+      "scope": "Actual projective-resolution and finite projective-to-injective callers use FiniteComplex. Resolutions can continue infinitely;selected finite functor computes D Hom(-,A),not a three-vertex relation-homotopy strictifier. Remaining body/dependencies unread.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "sagemath/sage",
+      "path": "src/sage/homology/chain_homotopy.py",
+      "temporary_name": "sagemath--sage--src--sage--homology--chain_homotopy.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/chain_homotopy.py",
+      "sha256": "c51088d2841a00e3d25ad457748e96f95f7b683f429d44a72316e7d1aa481992",
+      "bytes": 24767,
+      "commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "total_lines": 603,
+      "actual_body_read_ranges": [
+        [
+          1,
+          215
+        ],
+        [
+          388,
+          501
+        ]
+      ],
+      "selected_lines": 329,
+      "scope": "Supplied degree-opposite-to-differential matrix homotopy,optional g reconstructed from f-dH-Hd;ChainContraction checks composability,pi*iota,HH,piH,Hiota. Generic examples over ZZ are not field/projective-right-B hypotheses.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "sagemath/sage",
+      "path": "src/sage/homology/algebraic_topological_model.py",
+      "temporary_name": "sagemath--sage--src--sage--homology--algebraic_topological_model.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c/src/sage/homology/algebraic_topological_model.py",
+      "sha256": "b14a0e9709c552b329148a25d6b4df9b4837ce40dbc886e8c56803f8515b4bd9",
+      "bytes": 24062,
+      "commit": "981d7d71a2738778c9e3fb4fdf67a0fd3ce0c19c",
+      "total_lines": 594,
+      "actual_body_read_ranges": [
+        [
+          1,
+          340
+        ]
+      ],
+      "selected_lines": 340,
+      "scope": "Full first function and its actual ChainContraction caller;finite cell-complex field-only model,explicit phi/pi/iota matrices,zero-differential M and documented cup/cohomology operations. Delta variant unread.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gheber/kenzo",
+      "path": "src/kenzo-9/effective-homology.lisp",
+      "temporary_name": "gheber--kenzo--src--kenzo-9--effective-homology.lisp",
+      "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/effective-homology.lisp",
+      "sha256": "41d5c1d2e7a50c4420a97d756f28810e8e293b436091cf0042699845a5297ba7",
+      "bytes": 23415,
+      "commit": "f68ee7a809b4846f508cb19ee70bba5c92a0f7b2",
+      "total_lines": 637,
+      "actual_body_read_ranges": [
+        [
+          1,
+          215
+        ],
+        [
+          245,
+          286
+        ],
+        [
+          329,
+          430
+        ],
+        [
+          432,
+          460
+        ],
+        [
+          495,
+          516
+        ]
+      ],
+      "selected_lines": 410,
+      "scope": "BUILD-RDCT checks source/target/degrees;PRE-CHECK/CHECK evaluate identities on user supplied chains,not all generators. Basic/easy/special BPL and sigma iterates (-h delta) until zero;no uniform step cap. Local termination premise not measured here.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gheber/kenzo",
+      "path": "src/kenzo-9/lp-space-efhm.lisp",
+      "temporary_name": "gheber--kenzo--src--kenzo-9--lp-space-efhm.lisp",
+      "url": "https://raw.githubusercontent.com/gheber/kenzo/f68ee7a809b4846f508cb19ee70bba5c92a0f7b2/src/kenzo-9/lp-space-efhm.lisp",
+      "sha256": "3e409ca8a922b03ccf94554c46b5a1008399866e3084e29bac6e4f3a99fec7f0",
+      "bytes": 25321,
+      "commit": "f68ee7a809b4846f508cb19ee70bba5c92a0f7b2",
+      "total_lines": 671,
+      "actual_body_read_ranges": [
+        [
+          1,
+          100
+        ],
+        [
+          470,
+          610
+        ],
+        [
+          626,
+          670
+        ]
+      ],
+      "selected_lines": 286,
+      "scope": "Actual loop-space effective-homology constructors use reductions/cobar and special-bpl-1;loop entry combines known efhm,one equivalence branch explicitly unimplemented. Higher strings/locally effective complexes differ from bounded finite right-B relation diagrams. Not full algorithm/domain audit.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    }
+  ],
+  "selected_source_lines": 2164,
+  "primary_web_observations": [
+    {
+      "url": "https://gap-packages.github.io/qpa/doc/chap10.html",
+      "scope": "Live chapter10 right-module/finitecomplex/chainmap/cone interfaces only;fixed code additionally checked",
+      "content_checked": true,
+      "sha256_status": "unknown"
+    },
+    {
+      "url": "https://doc.sagemath.org/html/en/reference/homology/sage/homology/chain_homotopy.html",
+      "scope": "Observed manual10.8,homotopy/contraction definitions;separate pinned commit source used",
+      "content_checked": true,
+      "sha256_status": "unknown"
+    },
+    {
+      "url": "https://github.com/gheber/kenzo/blob/master/kenzo.asd",
+      "scope": "Live ASDF metadata1.1.9,GPLv3 and kenzo-7/8/9 module list;raw ASDF twice TLS timeout. Not claimed fixed byte-hash metadata",
+      "content_checked": true,
+      "sha256_status": "unknown"
+    }
+  ],
+  "operation_contracts": [
+    {
+      "project": "gap-packages/qpa",
+      "operation": "ComparisonLiftingToProjectiveResolution,MappingCone,ProjectiveResolutionOfComplex,ProjectiveToInjectiveFiniteComplex",
+      "actual_inputs": "Right modules of an arbitrary quotient path algebra,strict chain maps;projective/exact resolution conditions;homological degree and composeMaps(g,f)=f*g.",
+      "actual_outputs": "Lift of a module map,cone/inclusion/projection,possibly infinite projective resolution or finite D Hom(-,A) injective complex.",
+      "partial_match": "Right-module/projective data and finite chain constructors are relevant. A cone is already an old finite construction.",
+      "unestablished": "No inspected caller provides a full three-vertex directed B,independent quadratic relation basis,all B-linear h_rho and a request for a new strict B-left action. No performance or global feature-absence claim.",
+      "admitted_rectification_batch": false
+    },
+    {
+      "project": "sagemath/sage",
+      "operation": "ChainHomotopy,ChainContraction,algebraic_topological_model",
+      "actual_inputs": "Supplied matrices f,g,H;or finite simplicial/cubical cell complex over a field for first ATM function. Differential degree determines opposite homotopy degree.",
+      "actual_outputs": "Verified contraction and zero-differential homology model;cycle representatives support cup/cohomology computations.",
+      "partial_match": "Actual finite matrices and homotopies exist;this is concrete related demand.",
+      "unestablished": "Scalar matrix contraction has no supplied noncommutative right-B projectivity certificate,three-vertex algebra action,quadratic relation basis or all relation homotopies. Existing contraction output semantics differ from strict diagram replacement. Cannot infer that tensoring arbitrary data with B preserves the actual consumer task or adds value.",
+      "admitted_rectification_batch": false
+    },
+    {
+      "project": "gheber/kenzo",
+      "operation": "BUILD-RDCT,BPL-*-sigma,LS-LEFT-HMEQ-RIGHT-REDUCTION,LOOP-SPACE-EFHM",
+      "actual_inputs": "Locally effective chain morphisms and reductions f,g,h;perturbation with vanishing iterates needed by the observed sigma loop. Loop/cobar constructors use existing effective-homology structures.",
+      "actual_outputs": "Perturbed reductions and loop-space effective homology;pointwise reduction tests on supplied chains.",
+      "partial_match": "Actual homotopy-corrected differential construction and consumer,not merely a name search.",
+      "unestablished": "No observed finite bounded projective right-B relation diagram;BPL can require variable numbers of h-delta terms,unbounded cobar word lengths and caller-specific termination. Three-column truncation cannot be assumed valid for these objects. No whole-program verification or measured failure.",
+      "admitted_rectification_batch": false
+    }
+  ],
+  "old_original": {
+    "name": "Keller1999v1.pdf",
+    "url": "https://arxiv.org/pdf/math/9910178v1",
+    "sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e",
+    "bytes": 182523,
+    "actual_version": "math/9910178v1,submitted1999-11-01,printed1999-09-20;not asserted byte-identical to2000journal",
+    "actual_selected_scopes": [
+      {
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "scope": "Theorem2.1 and section3 two-term construction;section4 read but not used as a verified formula baseline"
+      },
+      {
+        "pages": [
+          7
+        ],
+        "scope": "6.1 strong action identities,Theorem6.1 and its vanishing premise"
+      },
+      {
+        "pages": [
+          10
+        ],
+        "scope": "6.3 obstruction-induction proof,selected;coalgebra dictionary not fully audited"
+      },
+      {
+        "pages": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "scope": "Section7 strong-to-strict action construction,7.2differential,adjunction,H-unital criterion and selected proofs"
+      },
+      {
+        "pages": [
+          16
+        ],
+        "scope": "Section8 existence proof and bounded truncation remark;references only partly read"
+      }
+    ],
+    "actual_pdf_pixels": [
+      {
+        "source_name": "Keller1999v1.pdf",
+        "source_sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e",
+        "page_one_based": 4,
+        "image_name": "Keller-page-4.png",
+        "image_sha256": "293ff53c9cc4fc2aa1fa8ebfee42f002669e16e13a88c431eba36d60fbf3c7fe",
+        "pixels_actually_viewed": true
+      },
+      {
+        "source_name": "Keller1999v1.pdf",
+        "source_sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e",
+        "page_one_based": 7,
+        "image_name": "Keller-page-7.png",
+        "image_sha256": "0f1cfce4304f96436e2ad14af4fac768659c91c1157bd64a45511bbafd52fe04",
+        "pixels_actually_viewed": true
+      },
+      {
+        "source_name": "Keller1999v1.pdf",
+        "source_sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e",
+        "page_one_based": 13,
+        "image_name": "Keller-page-13.png",
+        "image_sha256": "4896f08214b983c531f84056325987b023df9cb1bcbdc791da91bd58c200406f",
+        "pixels_actually_viewed": true
+      },
+      {
+        "source_name": "Keller1999v1.pdf",
+        "source_sha256": "a7adb210b83435e95960ede8eb5cdb00b8776f6b823bfde06ea4383c488a253e",
+        "page_one_based": 15,
+        "image_name": "Keller-page-15.png",
+        "image_sha256": "3f187a700358a7fdf7b61aa35542fcdf9303345aeb594d3ec4751bdda1eff708",
+        "pixels_actually_viewed": true
+      }
+    ],
+    "old_baseline": "Two-term complexes already have a three-column/truncation construction without the Toda vanishing premise. General theorem needs A k-projective,right-bounded projective T and negative-Hom vanishing;strong-action strictification uses A tensor T(A[1]) tensor X and H-unitality.",
+    "comparison_limit": "No claim this is already identical to F198 bounded three-vertex relation-basis construction for arbitrary complex amplitude. General m3 need not extend;do not omit higher coherences,unit conditions,chosen homotopies or truncation costs. No runtime cost evidence.",
+    "whole_proof_and_recursive_history_complete": false
+  },
+  "admission_gates": [
+    {
+      "id": "right_B",
+      "requirement": "Actual bounded finite projective right-B complexes,typed module actions and cochain degree/sign conversion",
+      "observed": "QPA right-module objects match partly;Sage scalar homotopies andKenzo locally-effective objects require additional data",
+      "status": "partial_only"
+    },
+    {
+      "id": "complete_diagram",
+      "requirement": "Three directed vertices,no length3 paths,complete independent quadratic relation basis,all chain maps and B-linear degree-1 relation homotopies",
+      "observed": "No inspected actual caller/batch supplies this whole input",
+      "status": "not_established"
+    },
+    {
+      "id": "output_judge",
+      "requirement": "Actual demand for strict B-left action and independently checked arrow/homotopy equivalence,not just d^2 or ranks/homology",
+      "observed": "Observed outputs are cones,resolutions,contractions or loop-space homology;no matched judge for new output",
+      "status": "not_established"
+    },
+    {
+      "id": "old_and_full_cost",
+      "requirement": "Strong admissible old Keller/bar or specialized existing construction on same input/output;charge f,h,basis/denominator discovery,conversion,verification and all terms",
+      "observed": "Keller already finite for two-term case,general hypotheses differ;no measured matched comparison",
+      "status": "not_ready"
+    }
+  ],
+  "decision": "Stop after three primary projects. Actual related users found but complete input/output contract not admitted. Retain finite component as conditional,not formal negative/global absence. No new candidate,prototype or application check;next WP103 restores unread topology coverage.",
+  "scope_limits": "No installed QPA/Sage/Kenzo invocation,no scientific output,full project audit or complete old proof lineage. API403/TLS/404 evidence retained;wrong root Kenzo path corrected after actual tree observation. Sage tag object versus peeled commit distinguished.",
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "numeric_or_symbolic_run": false,
+  "human_reviews": 0,
+  "second_provider_reviews": 0,
+  "github_push": false
+}

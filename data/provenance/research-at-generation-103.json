@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "upstream_url": "https://github.com/openai/math",
+  "baseline_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "historical_commit": "adc7f1241b42e322a6451854ab7e4b4c146bf78a",
+  "family_target": 372,
+  "candidate_target": 500,
+  "human_grading_target": 150,
+  "externally_checked_cards_target": 100,
+  "distinct_validation_target": 10,
+  "retrospective_every_work_packages": 3,
+  "weekly_review_fraction": 0.05,
+  "fact_error_pause_threshold": 0.1,
+  "model_provider": "OpenAI",
+  "model_identity": "current user-selected Codex session; exact backend model ID unavailable to execution tools",
+  "second_provider_status": "unavailable_user_deferred",
+  "human_review_status": "unavailable_user_deferred",
+  "storage_policy": "Do not duplicate upstream. Compress all experimental numerical payloads after verified roundtrip; archive sources compressed; remove temporary replay data automatically.",
+  "model_and_human_resource_policy": "Continue independent research without repeated resource questions; never synthesize missing decisions.",
+  "allocation": {
+    "coverage": 0.4,
+    "validation": 0.3,
+    "distant_and_combination": 0.2,
+    "quality": 0.1
+  },
+  "knowledge_graph_policy": "User prioritizes graph organization:maintain claim/evidence/conditions/old-method/application chains,explicit scope mismatches and unresolved prerequisites;canonical IDs,versioned corrections and source hashes;counts never substitute for completed research.",
+  "publication_policy": {
+    "cadence": "meaningful_milestone_batches",
+    "routine_work": "local_checkpoints_and_commits",
+    "automatic_push_per_work_package": false,
+    "automatic_push_per_retrospective": false,
+    "explicit_user_publication_request_may_override": true,
+    "official_math_excluded": true,
+    "reason": "User requested fewer GitHub updates; preserve work locally and publish reviewed batches with external value."
+  }
+}

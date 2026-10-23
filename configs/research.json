@@ -23,5 +23,14 @@
     "distant_and_combination": 0.2,
     "quality": 0.1
   },
-  "knowledge_graph_policy": "User prioritizes graph organization:maintain claim/evidence/conditions/old-method/application chains,explicit scope mismatches and unresolved prerequisites;canonical IDs,versioned corrections and source hashes;counts never substitute for completed research."
+  "knowledge_graph_policy": "User prioritizes graph organization:maintain claim/evidence/conditions/old-method/application chains,explicit scope mismatches and unresolved prerequisites;canonical IDs,versioned corrections and source hashes;counts never substitute for completed research.",
+  "publication_policy": {
+    "cadence": "meaningful_milestone_batches",
+    "routine_work": "local_checkpoints_and_commits",
+    "automatic_push_per_work_package": false,
+    "automatic_push_per_retrospective": false,
+    "explicit_user_publication_request_may_override": true,
+    "official_math_excluded": true,
+    "reason": "User requested fewer GitHub updates; preserve work locally and publish reviewed batches with external value."
+  }
 }

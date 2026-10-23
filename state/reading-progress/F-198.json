@@ -1,0 +1,434 @@
+{
+  "work_package": "WP-101",
+  "family_id": "F-198",
+  "manuscript_id": "P-315560cf0726c894",
+  "at": "2026-10-23T05:37:47.538904+00:00",
+  "upstream": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "status": "completed_current_source_draft_selected_formal_history",
+  "readme": {
+    "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/README.md",
+    "lines": 18,
+    "sha256": "ebe69f94d9b14a9c67df67d5cd72d56a9c22d6443a1e57b5c360a2ad14280f89",
+    "actually_read": true,
+    "scope": "Selection metadata only,not source-body coverage"
+  },
+  "files": [
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/paper.tex",
+      "lines": 21,
+      "bytes": 704,
+      "sha256": "e0d8df68ce341585231c3d6ebbe74e6294f4fb541b49f3a8a5167c9033001f4f",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/preamble.tex",
+      "lines": 70,
+      "bytes": 2681,
+      "sha256": "7cd5845c807771ae4270cfe5c5dab20edb61c003c5bb45e6b686ca1209312b17",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/references.bib",
+      "lines": 208,
+      "bytes": 7530,
+      "sha256": "df89f9700636e9db334530b623562df090a567d0b4a4238eb11de82eacc2ea44",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "lines": 230,
+      "bytes": 11131,
+      "sha256": "82d7fc3e1727a1c31c637ef83182b63471193d42f3d5b0214cdbc08cdbb4b484",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "lines": 377,
+      "bytes": 14535,
+      "sha256": "2dbb052ffbf54fd4d553df2ea707806b9bf05ae8477565c7f8fde936f532d948",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "lines": 452,
+      "bytes": 18245,
+      "sha256": "0a79346e7f7d6584c12afb45c48efd1d1c1dc8467867e8d7cd687e6a1d4dcc48",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "lines": 304,
+      "bytes": 11284,
+      "sha256": "4e8d713c6728c3a4120896dde1c8660a12b22153538d7860043352d50b270f60",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/05-ordinary-simulation.tex",
+      "lines": 149,
+      "bytes": 5525,
+      "sha256": "8efe5824ab2dd08526594ff50fecc3be0683360ecc25d62f4dfc3ec9e20401f8",
+      "actually_read": true
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex",
+      "lines": 389,
+      "bytes": 13890,
+      "sha256": "92e5ffec3428f1cdd06ba17d38ade2e0ae002c8481378a527b9245822673bb99",
+      "actually_read": true
+    }
+  ],
+  "tex_files": 8,
+  "tex_lines": 1992,
+  "bib_lines": 208,
+  "source_body_read": true,
+  "canonical_coverage_promoted": true,
+  "full_family_complete": false,
+  "numeric_or_symbolic_run": false,
+  "next_action": "WP102 bounded actual caller/finite-input qualification after completed retro036; no numerical or full-family promotion",
+  "started_at": "2026-10-23T05:06:12.386695+00:00",
+  "previous_goal_turn": "progress195f674verified",
+  "actual_read_ranges": {
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/paper.tex": [
+      [
+        1,
+        21
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/preamble.tex": [
+      [
+        1,
+        70
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/references.bib": [
+      [
+        1,
+        208
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex": [
+      [
+        1,
+        230
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex": [
+      [
+        1,
+        377
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex": [
+      [
+        1,
+        452
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex": [
+      [
+        1,
+        304
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/05-ordinary-simulation.tex": [
+      [
+        1,
+        149
+      ]
+    ],
+    "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex": [
+      [
+        1,
+        389
+      ]
+    ]
+  },
+  "include_closure_verified": true,
+  "source_result_inventory": [
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "label": "thm:main",
+      "line": 24
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/01-introduction.tex",
+      "label": "cor:left-right-asymmetry",
+      "line": 91
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "label": "prop:selection",
+      "line": 19
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "label": "lem:group-finite-presentation",
+      "line": 81
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "label": "lem:central-shift",
+      "line": 175
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/02-selection-process.tex",
+      "label": "lem:finite-central-quotients",
+      "line": 244
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "label": "lem:directed-bound",
+      "line": 69
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "label": "lem:odd-double",
+      "line": 190
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "label": "lem:diagram-lift",
+      "line": 337
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/03-localization-and-lifting.tex",
+      "label": "prop:lifted-diagram",
+      "line": 401
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "label": "thm:realization",
+      "line": 8
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "label": "lem:rectification",
+      "line": 36
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/05-ordinary-simulation.tex",
+      "label": "prop:ordinary-simulation",
+      "line": 77
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex",
+      "label": "prop:bar-splitting",
+      "line": 19
+    },
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/06-square-zero-and-conclusion.tex",
+      "label": "cor:pd-detection",
+      "line": 157
+    }
+  ],
+  "formal_actual_files": [
+    {
+      "path": "math/lean/docs/198.md",
+      "sha256": "e2d8195941ced611e210088da40499b2060a6ecd7a476490166f933ed4dc170f",
+      "actual_ranges": [
+        [
+          1,
+          18
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LittleFinitistic.json",
+      "sha256": "14ac61824b748c4a332fd1a6ddf0dd71531f5dfdd39025d69d695023fbd207ce",
+      "actual_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FinitisticAsymmetry.json",
+      "sha256": "9a3eaf61ff768857a0ddc1562650b6391c78c38a51c15406f6b0b55a01e80141",
+      "actual_ranges": [
+        [
+          1,
+          14
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/LittleFinitistic.lean",
+      "sha256": "22840db694ba3cbc43bbb286270fdc624656e6fcbf1fd96ff51f8dee6ff958f3",
+      "actual_ranges": [
+        [
+          1,
+          37
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/ComparatorChallenges/FinitisticAsymmetry.lean",
+      "sha256": "64ea38db9933f0082a04d2fa181083fbe01a7a823c9ce07f32d0835dce83cf96",
+      "actual_ranges": [
+        [
+          1,
+          41
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Main.lean",
+      "sha256": "cd1bcd4b31913493d999dad452a5de94234c02cc48a6e9d64286a44c3def5df0",
+      "actual_ranges": [
+        [
+          1,
+          56
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/FinitisticAsymmetry/Main.lean",
+      "sha256": "80c3411e8d580b81fabbde9ec500eee3e38f8baa0a4a099a3e5e7282518fafa0",
+      "actual_ranges": [
+        [
+          1,
+          65
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Basic.lean",
+      "sha256": "8f5383a8b87e4f2b88e2a9491b641e164d95e0b09a7acccc0402c0d361762e67",
+      "actual_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedOrdinaryOrbit.lean",
+      "sha256": "1e802d30a2612e038d9f5ab978c357b8868979fed5cec2971efdf222838fd77e",
+      "actual_ranges": [
+        [
+          1,
+          83
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedPDConclusion.lean",
+      "sha256": "22720e60c86df1c854c532aae4cc8b5c721622b4b78b4021a20aa80c3e6421d6",
+      "actual_ranges": [
+        [
+          1,
+          58
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/FinitisticAsymmetry/Asymmetry.lean",
+      "sha256": "93cb024ee38da393c8687858a38dc31550ab144b870b911ed749c4ea7eb06563",
+      "actual_ranges": [
+        [
+          1,
+          52
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedOrdinaryAlgebra.lean",
+      "sha256": "211a4d2294c9f098867902fa5728350e9379d43e467071d77b8c017c776cd910",
+      "actual_ranges": [
+        [
+          1,
+          63
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/Finitistic/Selected/SelectedFixedDiagram.lean",
+      "sha256": "ca28be8f63930862e261a16cac5701bbd725d661c3a1999e34b8a0fd462b5830",
+      "actual_ranges": [
+        [
+          1,
+          66
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/OAI/Algebra/FinitisticAsymmetry/Model.lean",
+      "sha256": "cffd69033b8e8b0639411e8f89fb59891451ebafa0dbd542319595f7bc363e60",
+      "actual_ranges": [
+        [
+          1,
+          27
+        ]
+      ],
+      "fully_read": true
+    },
+    {
+      "path": "math/lean/formalization.yaml",
+      "sha256": "5a8a164259591208886cd018416e61552665265ec9e20cff636f9d51117c2278",
+      "actual_ranges": [
+        [
+          230,
+          236
+        ],
+        [
+          1222,
+          1229
+        ],
+        [
+          1356,
+          1366
+        ]
+      ],
+      "fully_read": false
+    }
+  ],
+  "local_formal_main_bindings_B": 2,
+  "other_support_results_C": 14,
+  "static_union": {
+    "path": "data/provenance/formal/F-198-import-index.json.gz",
+    "files": 588,
+    "declarations": 3778,
+    "placeholders": 0,
+    "axioms": 0,
+    "not_all_proofs_read": true
+  },
+  "historical_actual_works": 4,
+  "actual_pdf_pixels": 8,
+  "unlabelled_results": [
+    {
+      "path": "math/preprints/An-algebra-of-infinite-little-finitistic-dimension-September-23-2026/build/sections/04-tensor-realization.tex",
+      "kind": "corollary",
+      "scope": "Phi^j binomial shifted-sum iteration,unlabelled after thm:realization proof",
+      "line_range": [
+        284,
+        304
+      ],
+      "statement_lines": [
+        284,
+        293
+      ]
+    }
+  ],
+  "completed_at": "2026-10-23T05:37:47.538904+00:00",
+  "evidence": [
+    "data/provenance/readings/F-198.json",
+    "reports/finitistic-F198-reading.md",
+    "reports/retrospectives/036-fixed-objects-and-finite-components.md",
+    "reports/reproducibility/20261023-finitistic"
+  ],
+  "quality_receipt": "reports/reproducibility/20261023-finitistic"
+}

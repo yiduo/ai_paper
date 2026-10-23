@@ -4,6 +4,7 @@
 
 - APP-021-01（待定）：新门类的具体边界QA接口；保留旧方法零假设，不增加初检或有效线索；证据及未执行项见对应卡片。
 - APP-025-01（待定）：Lower immediate implementation priority after bounded three-source qualification: related real two-marker/rank demand is not satisfied by current wrapper; strong old constrained search already exists；证据及未执行项见对应卡片。
+- APP-058-01（待定）：Retain conditional near candidate;lower immediate implementation priority after bounded three-project qualification:source certificates,actual joint-limit caller and executable all-strata judge/full cost remain unestablished；证据及未执行项见对应卡片。
 - APP-076-01（待定）：Specifictestablemappingwithold-methodzerohypothesis;nearanalogy;notinitialcheckcredit；证据及未执行项见对应卡片。
 - APP-076-02（观察）：固定有限方法比较未支持预测，停止调网格、换实例或扩大同组搜索。恢复未覆盖学科的源文覆盖；不得以第十项闭环代替100张初检或其他里程碑。；证据及未执行项见对应卡片。
 - APP-089-01（待定）：降低数值实现优先级：真实已读接口尚无完整bag-law／度量包络／远端多样性的共同需求；旧条件采样已覆盖一致law采样子任务。；证据及未执行项见对应卡片。
@@ -28,10 +29,12 @@
 - APP-238-02（待定）：Preserve a distinct conditional target;no extra toy QA or numerical initial-check promotion；证据及未执行项见对应卡片。
 - APP-243-01（待定）：降低数值实现优先级：两项实际语言均未建立合格CPT子集与可行紧凑见证；先整理知识图谱适用条件和缺口。；证据及未执行项见对应卡片。
 - APP-255-01（待定）：Specific source component retained with effectiveness gap;not an eleventh check or demonstrated engineering gain；证据及未执行项见对应卡片。
-- APP-273-01（待定）：Conditional far analogy; medium-low until real certificatebank andfullcost comparison；证据及未执行项见对应卡片。
+- APP-256-01（待定）：Lower immediate implementation priority after bounded GAP/Sage/KBMAG audit:actual outputs need stronger semantics or already old-known constructions;no independentguardjudge/realbatch/fullcost. Retain nearconditionalcandidate,notformalrejection.；证据及未执行项见对应卡片。
+- APP-273-01（待定）：Conditional far candidate retained;lower immediate implementation priority after bounded LipSDP/CVXPY qualification:exact fourcertificatebank/certifiedjudge and cost advantage still unestablished；证据及未执行项见对应卡片。
 - APP-273-02（观察）：Actual zero incremental detection and full reference already suffices;stop expanding this finite grid andreturn undercovered nonphysics families.；证据及未执行项见对应卡片。
 - APP-276-01（待定）：与新覆盖量子主题形成可检验接口；先避免重复单次公式校准，等参数/硬件需求明确后再运行。；证据及未执行项见对应卡片。
 - APP-294-01（待定）：降低数值优先级：接口部分匹配，但全参数扩张／过滤消费者未建立；旧指定边际路线更强，所选PD与高层通道接口须先核准。；证据及未执行项见对应卡片。
+- APP-304-01（待定）：Boundedactualcallersneedstrongerobjects;no completecoarseonlycomparisonbatch admitted. Retainconditionalcandidate,lower numericalimplementationpriority;redirectafterretro037.；证据及未执行项见对应卡片。
 - APP-325-01（观察）：固定预测不支持；停止调参或扩网格。保留可靠证书实现和不利对照，只有出现真实大规模多通道残差及旧强方法不够的证据才重访。；证据及未执行项见对应卡片。
 - APP-332-01（观察）：Concrete constructor with computable finite-coordinate interface,but benchmark/risk gain and old-method superiority unestablished；证据及未执行项见对应卡片。
 - APP-333-01（待定）：Lower source-specific numerical priority: under identical projected constraints, source covariance formula is old structured KKT Schur elimination. Original radial-drift prediction retained; no duplicate-formula run allocated.；证据及未执行项见对应卡片。

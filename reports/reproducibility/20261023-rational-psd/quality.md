@@ -1,0 +1,13 @@
+# WP106 quality and evidence scope
+
+All69 core checks and complete source/FK/gate/provenance checks passed. Thirteen new and old dependency-impact cases passed;complete JSON and GraphML objects exactly match the full graph. All15 experiment archives and267 source members passed compressed/decompressed integrity. No experimental source/spec/data/comparator changed;no new scientific replay or application validation is claimed.
+
+The independent clean directory without math or Git history passed the full check with exit0:1879 files/68526801 bytes copied and individually verified,then removed. Without upstream,the pinned checksum manifest checks source hashes;it does not freshly read the originals.
+
+Current full graph7388nodes/20397relations,4531canonicalrecords,7909sourceannotations(7899core-validated). All4514oldrecord lines,oldedgebytes,oldcandidates,experimental sources/data/tests,readingledgers,coverage and51oldfamilyreports remain byte-exact. New17records/39explicitrelations record three projects/seven files/1350actuallyread selectedlines. Candidate44/preliminary13/distinct13 and56readfamilies/51source drafts unchanged. Fullfamily/history/human/provider/pilots remain0.
+
+Initial curator validation rejected two filename-derived stableIDs containing underscores. Exact unaccepted nodes/edges/ledger and firstfailure log are retained compressed;only these IDs/references and their source-hash bindings were repaired. No old record or caller/theorem fact changed. The curator was not rerun against already appended state. All new external source citations have actualbodyhashes,no null unknownhashes introduced.
+
+Three direct release API403rate limits and one rawTLS timeout are retained. Official releasepage commit links supplied fixed revisions;one missing CVXPY source recovered via read-only GitHubconnector matched recomputed reportedGitblobSHA1. No signature verification or runtime behavior is claimed. All162810 successful primary source/license bytes were hash-verified and removed,not republished. Own helpers/logs/failures are compressed with every member's decompressed SHA256 verified before plaintext removal;actual storage receipt is storage.json.
+
+No dependency install,repository clone,new scientific experiment,Lean/Comparator build,GitHub write or officialmath deployment. Source-contract qualification does not prove no other exactconsumer exists. ExactPSD/Choi certificate possibility retained without an application claim;stop three-project search,rotate WP107toF360bodies/formal/history. Counter2afterretro037;mandatoryretro038afterWP107 or earlier significant evidence. Overallgoalactive_incomplete.

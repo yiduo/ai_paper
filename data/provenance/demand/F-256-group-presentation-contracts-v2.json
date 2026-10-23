@@ -1,0 +1,613 @@
+{
+  "work_package": "WP-098",
+  "family_id": "F-256",
+  "generation_id": "GEN-20261023-095",
+  "at": "2026-10-23T04:02:31.795338+00:00",
+  "project_base_commit": "6106f347e48583a70a8237615b0f7a0dbfb84bf5",
+  "upstream_commit": "1581d4cbdd69a0faf34b2089614fe2a814316a6a",
+  "projects": {
+    "gap-system/gap": {
+      "branch_observed": "master",
+      "commit": "4186b9566092fbe12cc34c41872d78a5c68017a8",
+      "commit_date": "2026-10-23T00:12:26Z",
+      "commit_url": "https://github.com/gap-system/gap/commit/4186b9566092fbe12cc34c41872d78a5c68017a8"
+    },
+    "sagemath/sage": {
+      "branch_observed": "develop",
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "commit_date": "2026-10-22T21:45:45Z",
+      "commit_url": "https://github.com/sagemath/sage/commit/601df58edafe95f68597b9dec61e0a75adca8983"
+    },
+    "gap-packages/kbmag": {
+      "branch_observed": "master",
+      "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+      "commit_date": "2026-10-01T20:18:45Z",
+      "commit_url": "https://github.com/gap-packages/kbmag/commit/82d1c1bea633485d2415df73b6d93ddddb97f721"
+    }
+  },
+  "acquisition": {
+    "budget_bytes": 8388608,
+    "downloaded_bytes": 1256208,
+    "requests": [
+      {
+        "name": "gap-system--gap-commit.json",
+        "url": "https://api.github.com/repos/gap-system/gap/commits/master",
+        "observed_at": "2026-10-23T03:50:05.136193+00:00",
+        "status": 200,
+        "final_url": "https://api.github.com/repos/gap-system/gap/commits/master",
+        "bytes": 8531,
+        "sha256": "9566d0c28f75d64868d1db1b6ef6dfad24d4e3e56efe85e85c3eee0dd5afba72",
+        "content_type": "application/json; charset=utf-8"
+      },
+      {
+        "name": "sagemath--sage-commit.json",
+        "url": "https://api.github.com/repos/sagemath/sage/commits/develop",
+        "observed_at": "2026-10-23T03:50:06.229459+00:00",
+        "status": 200,
+        "final_url": "https://api.github.com/repos/sagemath/sage/commits/develop",
+        "bytes": 14755,
+        "sha256": "bc592562bf91db7e2b8bbe8bd3ff64f55d02dc987a0e50e6eabe26410968cd72",
+        "content_type": "application/json; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag-commit.json",
+        "url": "https://api.github.com/repos/gap-packages/kbmag/commits/master",
+        "observed_at": "2026-10-23T03:50:07.552070+00:00",
+        "status": 200,
+        "final_url": "https://api.github.com/repos/gap-packages/kbmag/commits/master",
+        "bytes": 8975,
+        "sha256": "2facc524b52019c0f48db53446083d60bd99debccb671566c8f66f3e9036a11f",
+        "content_type": "application/json; charset=utf-8"
+      },
+      {
+        "name": "gap-system--gap-lib-listing.json",
+        "url": "https://api.github.com/repos/gap-system/gap/contents/lib?ref=4186b9566092fbe12cc34c41872d78a5c68017a8",
+        "observed_at": "2026-10-23T03:50:09.665148+00:00",
+        "status": 200,
+        "final_url": "https://api.github.com/repos/gap-system/gap/contents/lib?ref=4186b9566092fbe12cc34c41872d78a5c68017a8",
+        "bytes": 471139,
+        "sha256": "1ebe605e3234aa4b587f63a822420edd746f10597411c96c555f6d81de147291",
+        "content_type": "application/json; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag-doc-listing.json",
+        "url": "https://api.github.com/repos/gap-packages/kbmag/contents/doc?ref=82d1c1bea633485d2415df73b6d93ddddb97f721",
+        "observed_at": "2026-10-23T03:50:12.486276+00:00",
+        "status": 200,
+        "final_url": "https://api.github.com/repos/gap-packages/kbmag/contents/doc?ref=82d1c1bea633485d2415df73b6d93ddddb97f721",
+        "bytes": 5678,
+        "sha256": "71ca50347c2d19762c54f1ca60eb87d18d2e2952607792a4de7c4c8725f7c2c2",
+        "content_type": "application/json; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag-gap-listing.json",
+        "url": "https://api.github.com/repos/gap-packages/kbmag/contents/gap?ref=82d1c1bea633485d2415df73b6d93ddddb97f721",
+        "observed_at": "2026-10-23T03:50:13.978479+00:00",
+        "status": 200,
+        "final_url": "https://api.github.com/repos/gap-packages/kbmag/contents/gap?ref=82d1c1bea633485d2415df73b6d93ddddb97f721",
+        "bytes": 9415,
+        "sha256": "aca92ee6cd288a62a972bd6e645595fda3e8b89e42c0542a71caef35ea6b87a8",
+        "content_type": "application/json; charset=utf-8"
+      },
+      {
+        "name": "gap-system--gap--lib--tietze.gi",
+        "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gi",
+        "observed_at": "2026-10-23T03:50:42.178130+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gi",
+        "bytes": 144189,
+        "sha256": "a86a57d71c79c0f7046dc0747a5ff26876834904f634163af9edb508ef8238d2",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-system--gap--lib--tietze.gd",
+        "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gd",
+        "observed_at": "2026-10-23T03:50:43.707977+00:00",
+        "error": "URLError: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>"
+      },
+      {
+        "name": "gap-system--gap--lib--tietze.gd",
+        "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gd",
+        "observed_at": "2026-10-23T03:54:54.864242+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gd",
+        "bytes": 86210,
+        "sha256": "ee9f707e581d93dd8bb356cb422bb8c0bd17262bb1e9afea0437faa0c74bdfd7",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-system--gap--lib--gpfpiso.gi",
+        "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/gpfpiso.gi",
+        "observed_at": "2026-10-23T03:54:56.781442+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/gpfpiso.gi",
+        "bytes": 92046,
+        "sha256": "24b180aa4b7929a713a6dcf7b49bb3fc7baa93e70ecebfdf5a849263a5e74c9b",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-system--gap--lib--gprd.gd",
+        "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/gprd.gd",
+        "observed_at": "2026-10-23T03:54:58.356461+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/gprd.gd",
+        "bytes": 22881,
+        "sha256": "fc7657b0c52df1b90cb0da70d54f71c3c316c51914ac7ecead319e97669ae69c",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "sagemath--sage--src--sage--groups--finitely_presented.py",
+        "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/groups/finitely_presented.py",
+        "observed_at": "2026-10-23T03:54:59.507630+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/groups/finitely_presented.py",
+        "bytes": 76648,
+        "sha256": "ddfd4b6c47130a1ca2cb8b12930506846fcb3fa33398ba3922e1dbc5b5c02ffd",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag--doc--rws.xml",
+        "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/doc/rws.xml",
+        "observed_at": "2026-10-23T03:55:01.134995+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/doc/rws.xml",
+        "bytes": 41771,
+        "sha256": "ecc451d1231abcb3c89461a1f173894da9d7d0932ba964c249f76d695cf700ad",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag--gap--fpgtorws4.g",
+        "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/gap/fpgtorws4.g",
+        "observed_at": "2026-10-23T03:55:02.467798+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/gap/fpgtorws4.g",
+        "bytes": 6286,
+        "sha256": "7a1fe38dc2a6c609df51b5d786ca2b385db61b1e8509b302cb24dc7722bf0cb2",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag--gap--rws4.g",
+        "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/gap/rws4.g",
+        "observed_at": "2026-10-23T03:55:03.604156+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/gap/rws4.g",
+        "bytes": 75617,
+        "sha256": "0a57e0aceda669c92d012d501d800242d833d5a8d876dec23005d5822b095b10",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-packages--kbmag--PackageInfo.g",
+        "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/PackageInfo.g",
+        "observed_at": "2026-10-23T03:55:05.195339+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/PackageInfo.g",
+        "bytes": 4255,
+        "sha256": "d2e715ef41900eabafc0a31476d6be25ed0add3b800b61e00740023e379bbfb4",
+        "content_type": "text/plain; charset=utf-8"
+      },
+      {
+        "name": "gap-system--gap--lib--grpfp.gi",
+        "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/grpfp.gi",
+        "observed_at": "2026-10-23T03:56:30.339687+00:00",
+        "status": 200,
+        "final_url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/grpfp.gi",
+        "bytes": 187812,
+        "sha256": "8ef7187cc1cf23e8fc01b3b5e19d8b3ae10d52bac1a4176216a3702c3b8ef26b",
+        "content_type": "text/plain; charset=utf-8"
+      }
+    ],
+    "repos": {
+      "gap-system/gap": {
+        "branch_observed": "master",
+        "commit": "4186b9566092fbe12cc34c41872d78a5c68017a8",
+        "commit_date": "2026-10-23T00:12:26Z",
+        "commit_url": "https://github.com/gap-system/gap/commit/4186b9566092fbe12cc34c41872d78a5c68017a8"
+      },
+      "sagemath/sage": {
+        "branch_observed": "develop",
+        "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+        "commit_date": "2026-10-22T21:45:45Z",
+        "commit_url": "https://github.com/sagemath/sage/commit/601df58edafe95f68597b9dec61e0a75adca8983"
+      },
+      "gap-packages/kbmag": {
+        "branch_observed": "master",
+        "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+        "commit_date": "2026-10-01T20:18:45Z",
+        "commit_url": "https://github.com/gap-packages/kbmag/commit/82d1c1bea633485d2415df73b6d93ddddb97f721"
+      }
+    }
+  },
+  "selected_source_files": [
+    {
+      "project": "gap-system/gap",
+      "path": "lib/tietze.gi",
+      "temporary_name": "gap-system--gap--lib--tietze.gi",
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gi",
+      "sha256": "a86a57d71c79c0f7046dc0747a5ff26876834904f634163af9edb508ef8238d2",
+      "bytes": 144189,
+      "commit": "4186b9566092fbe12cc34c41872d78a5c68017a8",
+      "total_lines": 4129,
+      "actual_body_read_ranges": [
+        [
+          28,
+          137
+        ],
+        [
+          2703,
+          2771
+        ],
+        [
+          3958,
+          4048
+        ]
+      ],
+      "actual_selected_read_lines": 270,
+      "scope": "AddGenerator/AddRelator implementation;old/current generator tracing;TzSubstituteWord saves trace,adds defining relator and restores old/new correspondence. Not whole module/proof closure.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-system/gap",
+      "path": "lib/tietze.gd",
+      "temporary_name": "gap-system--gap--lib--tietze.gd",
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/tietze.gd",
+      "sha256": "ee9f707e581d93dd8bb356cb422bb8c0bd17262bb1e9afea0437faa0c74bdfd7",
+      "bytes": 86210,
+      "commit": "4186b9566092fbe12cc34c41872d78a5c68017a8",
+      "total_lines": 2244,
+      "actual_body_read_ranges": [
+        [
+          139,
+          178
+        ],
+        [
+          638,
+          690
+        ],
+        [
+          1147,
+          1188
+        ]
+      ],
+      "actual_selected_read_lines": 135,
+      "scope": "Selected documentation for new generator,simplified isomorphic group versus explicit isomorphism,and trace invalidation. AddRelator/other Tz contract additionally read in primary webmanual,not entire source file.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-system/gap",
+      "path": "lib/gprd.gd",
+      "temporary_name": "gap-system--gap--lib--gprd.gd",
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/gprd.gd",
+      "sha256": "fc7657b0c52df1b90cb0da70d54f71c3c316c51914ac7ecead319e97669ae69c",
+      "bytes": 22881,
+      "commit": "4186b9566092fbe12cc34c41872d78a5c68017a8",
+      "total_lines": 634,
+      "actual_body_read_ranges": [
+        [
+          429,
+          459
+        ]
+      ],
+      "actual_selected_read_lines": 31,
+      "scope": "FreeProduct fp representation requirement and factor Embedding;not post-relator coefficient injection.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "sagemath/sage",
+      "path": "src/sage/groups/finitely_presented.py",
+      "temporary_name": "sagemath--sage--src--sage--groups--finitely_presented.py",
+      "url": "https://raw.githubusercontent.com/sagemath/sage/601df58edafe95f68597b9dec61e0a75adca8983/src/sage/groups/finitely_presented.py",
+      "sha256": "ddfd4b6c47130a1ca2cb8b12930506846fcb3fa33398ba3922e1dbc5b5c02ffd",
+      "bytes": 76648,
+      "commit": "601df58edafe95f68597b9dec61e0a75adca8983",
+      "total_lines": 2094,
+      "actual_body_read_ranges": [
+        [
+          100,
+          114
+        ],
+        [
+          619,
+          660
+        ],
+        [
+          749,
+          796
+        ],
+        [
+          1268,
+          1446
+        ],
+        [
+          1594,
+          1697
+        ]
+      ],
+      "actual_selected_read_lines": 388,
+      "scope": "Actual simplification_isomorphism and simplified wrappers;actual semidirect-product/action validity,pc/fp conversion,renaming and reduced output;selected rewriting reduction/confluence warning. No Sage/GAP installation or invocation performed in WP098;an existing /usr/local/bin/sage launcher was found by PATH lookup but not executed or evaluated.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/kbmag",
+      "path": "doc/rws.xml",
+      "temporary_name": "gap-packages--kbmag--doc--rws.xml",
+      "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/doc/rws.xml",
+      "sha256": "ecc451d1231abcb3c89461a1f173894da9d7d0932ba964c249f76d695cf700ad",
+      "bytes": 41771,
+      "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+      "total_lines": 1098,
+      "actual_body_read_ranges": [
+        [
+          1,
+          159
+        ],
+        [
+          285,
+          324
+        ],
+        [
+          379,
+          420
+        ],
+        [
+          439,
+          510
+        ],
+        [
+          514,
+          590
+        ]
+      ],
+      "actual_selected_read_lines": 390,
+      "scope": "External generator versus monoid alphabet correspondence,confluence flag/control limits,KB/automatic success,normal-form and size conditions.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/kbmag",
+      "path": "gap/fpgtorws4.g",
+      "temporary_name": "gap-packages--kbmag--gap--fpgtorws4.g",
+      "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/gap/fpgtorws4.g",
+      "sha256": "7a1fe38dc2a6c609df51b5d786ca2b385db61b1e8509b302cb24dc7722bf0cb2",
+      "bytes": 6286,
+      "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+      "total_lines": 207,
+      "actual_body_read_ranges": [
+        [
+          1,
+          207
+        ]
+      ],
+      "actual_selected_read_lines": 207,
+      "scope": "Full source body actually read:group/monoid/semigroup to rewriting system;group inverse/involution handling and explicit ExtIntCorr,not arbitrary fresh variable duplication.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/kbmag",
+      "path": "gap/rws4.g",
+      "temporary_name": "gap-packages--kbmag--gap--rws4.g",
+      "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/gap/rws4.g",
+      "sha256": "0a57e0aceda669c92d012d501d800242d833d5a8d876dec23005d5822b095b10",
+      "bytes": 75617,
+      "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+      "total_lines": 2095,
+      "actual_body_read_ranges": [
+        [
+          45,
+          65
+        ],
+        [
+          923,
+          974
+        ],
+        [
+          1183,
+          1302
+        ],
+        [
+          1520,
+          1588
+        ]
+      ],
+      "actual_selected_read_lines": 262,
+      "scope": "Actual confluence flag,word reduction gate and warning,KBRWS external call/abort/update/control-limit invalidation;does not construct a general embedding judge.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    },
+    {
+      "project": "gap-packages/kbmag",
+      "path": "PackageInfo.g",
+      "temporary_name": "gap-packages--kbmag--PackageInfo.g",
+      "url": "https://raw.githubusercontent.com/gap-packages/kbmag/82d1c1bea633485d2415df73b6d93ddddb97f721/PackageInfo.g",
+      "sha256": "d2e715ef41900eabafc0a31476d6be25ed0add3b800b61e00740023e379bbfb4",
+      "bytes": 4255,
+      "commit": "82d1c1bea633485d2415df73b6d93ddddb97f721",
+      "total_lines": 125,
+      "actual_body_read_ranges": [
+        [
+          1,
+          8
+        ]
+      ],
+      "actual_selected_read_lines": 8,
+      "scope": "Version1.6.1,date14/09/2026,GPL-2.0-or-later metadata only;not installed version.",
+      "whole_project_audited": false,
+      "runtime_tested": false
+    }
+  ],
+  "selected_body_lines": 1691,
+  "acquired_but_not_body_read": [
+    {
+      "name": "gap-system--gap--lib--gpfpiso.gi",
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/gpfpiso.gi",
+      "bytes": 92046,
+      "sha256": "24b180aa4b7929a713a6dcf7b49bb3fc7baa93e70ecebfdf5a849263a5e74c9b",
+      "actual_body_read": false,
+      "scope": "Acquired then lexical name search only;not cited as mathematical or implementation support"
+    },
+    {
+      "name": "gap-system--gap--lib--grpfp.gi",
+      "url": "https://raw.githubusercontent.com/gap-system/gap/4186b9566092fbe12cc34c41872d78a5c68017a8/lib/grpfp.gi",
+      "bytes": 187812,
+      "sha256": "8ef7187cc1cf23e8fc01b3b5e19d8b3ae10d52bac1a4176216a3702c3b8ef26b",
+      "actual_body_read": false,
+      "scope": "Acquired then lexical name search only;not cited as mathematical or implementation support"
+    }
+  ],
+  "primary_web_scopes": [
+    {
+      "url": "https://gap-system.github.io/gap/doc/ref/chap48_mj.html",
+      "scope": "48.5 AddGenerator/AddRelator,48.8 TzSubstitute,48.9 generator tracing;presentation-changing operations vs isomorphism",
+      "content_checked": true,
+      "version": "Live unpinned manual observation;not asserted byte-identical to pinned source",
+      "sha256_status": "unknown"
+    },
+    {
+      "url": "https://gap-system.github.io/gap/doc/ref/chap40_mj.html",
+      "scope": "40.1-1/2 checked GroupHomomorphismByImages versus NC;homomorphism validity is separate from injectivity",
+      "content_checked": true,
+      "version": "Live unpinned manual observation",
+      "sha256_status": "unknown"
+    },
+    {
+      "url": "https://doc.sagemath.org/html/en/reference/groups/sage/groups/finitely_presented.html",
+      "scope": "Observed manual header10.8;simplification,semidirectproduct and rewriting warnings;not pinned develop installation or timing",
+      "content_checked": true,
+      "version": "Observed10.8 manual;separate develop sourcepin",
+      "sha256_status": "unknown"
+    },
+    {
+      "url": "https://gap-packages.github.io/kbmag/doc/chap2.html",
+      "scope": "2.1,2.5-2.8 alphabet mapping,confluence and normalform/counting distinctions",
+      "content_checked": true,
+      "version": "Live manual;support additionally checked in pinned XML/code",
+      "sha256_status": "unknown"
+    }
+  ],
+  "operation_contracts": [
+    {
+      "id": "gap",
+      "project": "gap-system/gap",
+      "actual_operation": "Presentation modification and Tietze substitution;FreeProduct and factor embeddings",
+      "input": "An fp representation,presentation generators/relators and exact old/current generator correspondence",
+      "output": "Tietze substitution gives an isomorphic presentation and tracks generator images/preimages when enabled;raw generator/relation additions change the presentation without that contract",
+      "old_sufficient": "A defined fresh generator with relator x^-1*w over old generators has the stronger classical Tietze isomorphism route;source rank method adds no established value there",
+      "mismatch": "An overgroup coefficient embedding is weaker than isomorphism,expression of new generators in old ones or solvable word problem. AddGenerator deletes tracing;inputidentity cannot be inferred from equal printed names.",
+      "admitted_guard_caller": false
+    },
+    {
+      "id": "sage",
+      "project": "sagemath/sage",
+      "actual_operation": "simplification_isomorphism,simplified and semidirect_product are concrete backend callers",
+      "input": "Existing fpgroup;for semidirect construction,hom to valid automorphisms ofH plus conversion of resultant group",
+      "output": "Simplification explicitly returns isomorphism via GAP images. Semidirect result has known structured H embedding when valid action;wrapper may convert pc->fp,rename variables,optionally simplify",
+      "old_sufficient": "Classical Tietze isomorphism and semidirect-product construction cover these actual outputs;check=False relies on upstream construction,not independent validation",
+      "mismatch": "Conditional coefficient injection does not justify unknown automorphism action,skip validity checks or preserve same displayed-generator indices through conversion/reduction. The real documentedC5/C12 action example has a zero exponent-sum action row for acting variable.",
+      "admitted_guard_caller": false
+    },
+    {
+      "id": "kbmag",
+      "project": "gap-packages/kbmag",
+      "actual_operation": "fp presentation to monoid rewriting system,externalKB/automatic procedures,word reduction and irreducible counts",
+      "input": "All defining group relations plus explicit generator/inverse/monoid alphabet correspondence and control parameters",
+      "output": "Successful confluence/automatic structure supplies normal forms;bounded incomplete completion can still reduce words without uniqueness and may overcount irreducibles",
+      "old_sufficient": "Successful classical rewriting gives word-level evidence in its own supported domain,but neither a reduction flag nor a few checked words independently proves all coefficient-group embeddings",
+      "mismatch": "General overgroup existence supplies no confluent rewrite system. Inverse alphabet symbols are not independent fresh variables. Treat resource abort,false,not-yet-proven confluence and accepted result separately.",
+      "admitted_guard_caller": false
+    }
+  ],
+  "manual_example_scope_audit": {
+    "source_file": "sagemath/sage:src/sage/groups/finitely_presented.py",
+    "source_lines": [
+      1359,
+      1369
+    ],
+    "meaning": "Manual analytical scope audit of an already published documentation example,not a computed experiment or application validation",
+    "coefficient_group": "C12=<b|b^12>",
+    "fresh_variable": "a",
+    "new_relators": [
+      "a^5",
+      "a^-1*b*a*b^-1"
+    ],
+    "old_coefficient_relators": [
+      "b^12"
+    ],
+    "fresh_exponent_matrix": [
+      [
+        5
+      ],
+      [
+        0
+      ]
+    ],
+    "row_count": 2,
+    "column_count": 1,
+    "rank_over_Q": 1,
+    "conclusion": "Sourcefull-row-rank premise fails;this meansunsupported,notcollapse. Valididentityaction semidirect construction already has classical embedding/isomorphism evidence. No runtime output or rank benchmark produced."
+  },
+  "admission_gates": [
+    {
+      "name": "input_semantics",
+      "needed": "Actual consumer requires only canonical coefficient injectivity with supplied group interpretation,not isomorphism/original-group evaluation",
+      "observed": "Concrete construction/rewriting consumers found;none of selected requests demands the narrowly scoped new guard",
+      "status": "not_admitted"
+    },
+    {
+      "name": "complete_relative_presentation",
+      "needed": "Separate old coefficient relators from all new relators,fresh typed variables and exact ordered AST;validate full matrix,not selected rows",
+      "observed": "Actual fp and monoid inverse alphabets/renaming make this a real boundary;not a completed caller certificate",
+      "status": "unestablished"
+    },
+    {
+      "name": "canonical_map_identity",
+      "needed": "Preserve old-to-new coefficient map through GAP generator tracing,sourcefactors,fp conversion and simplification",
+      "observed": "AddGenerator invalidates tracing;Sage explicitly extracts isomorphism images and renames semidirect output. No ready guard map-bound certificate found",
+      "status": "unestablished"
+    },
+    {
+      "name": "independent_embedding_judge",
+      "needed": "Explicit independently verified embedding certificate or independently applicable old theorem,not repeated sourceC theorem/rank or model agreement",
+      "observed": "Tietze proves stronger isomorphism in its supported cases;semidirect validaction has old embedding;incomplete rewriting gives no generic embedding certificate",
+      "status": "unestablished_for_new_use"
+    },
+    {
+      "name": "complete_cost_and_coverage",
+      "needed": "Freeze actual batch,caps,all source/premise/certificate costs,old best coverage,abstentions and heldoutbadcases before outputs",
+      "observed": "No executable guard,real admittedbatch,completejudge or matchedcost measurements",
+      "status": "not_ready"
+    }
+  ],
+  "decision": "Related actual group construction/rewriting callers found;candidate exact contract not admitted. Lower immediate implementation priority;retain pending,not global absence/theorem refutation/formal rejection. Stop after3projects and do globalretro035.",
+  "original_candidate_prediction_preserved": true,
+  "new_experiment_or_runtime_invocation": false,
+  "guard_implemented": false,
+  "new_candidates": 0,
+  "new_initial_checks": 0,
+  "source_theorem_grade": "C generalmultirelator;wholechainunknown",
+  "same_provider_auxiliary_roles": "Existing WP097 initialconcept roles only;no new independent review implied",
+  "human_reviews": 0,
+  "second_provider_reviews": 0,
+  "storage": "Pinned public raw URLs/hashes/scoped own notes only;downloaded source bodies not republished,temporarybytes hashed thenremoved;own helpers/logs compressed and verified",
+  "github_push": false,
+  "version": 2,
+  "supersedes": {
+    "path": "data/provenance/demand/F-256-group-presentation-contracts.json",
+    "sha256": "511fb30bbe0f2b4c7e00d19c91a09317be6135f1a1fc81417ebf5325a95498e8"
+  },
+  "correction": {
+    "at": "2026-10-23T04:04:34.633148+00:00",
+    "reason": "The published C5/C12 example was assigned lines1378-1391,which belong to following example. Numbered pinned source confirms correct scope1359-1369. No relators,rank interpretation,admission status or prediction changed. Clarify no install/invocation performed by WP098,not global absence of Sage.",
+    "old_example_lines": [
+      1378,
+      1391
+    ],
+    "correct_example_lines": [
+      1359,
+      1369
+    ]
+  }
+}
